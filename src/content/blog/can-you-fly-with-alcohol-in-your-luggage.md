@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Alcohol in Your Luggage: Essential Travel Rules"
-description: "Picture this: You’re packing for your dream vacation or a much-needed family visit, and you want to bring along a taste of home or a special drink you found. Bu"
+title: 'Can You Fly With Alcohol in Your Luggage: Essential Travel Rules'
+description: 'Picture this: You’re packing for your dream vacation or a much-needed
+  family visit, and you want to bring along a taste of home or a special drink you
+  found. Bu'
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You’re packing for your dream vacation or a much-needed family visit, and you want to bring along a taste of home or a special drink you found. But then, a nagging question pops into your head: Can you fly with alcohol in your luggage?**

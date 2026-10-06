@@ -1,10 +1,14 @@
 ---
-title: "What to Look for in a Travel Backpack: Ultimate Guide for Smart Travelers"
-description: "Choosing the perfect travel backpack can feel like a daunting task, especially with so many options out there. But here's the thing: the right backpack can make"
+title: 'What to Look for in a Travel Backpack: Ultimate Guide for Smart Travelers'
+description: 'Choosing the perfect travel backpack can feel like a daunting task,
+  especially with so many options out there. But here''s the thing: the right backpack
+  can make'
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-look-for-in-a-travel-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=what-to-look-for-in-a-travel-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the perfect travel backpack can feel like a daunting task, especially with so many options out there. But here's the thing: the right backpack can make or break your travel experience.**

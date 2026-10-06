@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Personal Bag: Top Picks for Travelers' Convenience"
-description: "Choosing the best carry on personal bag makes travel easier and more organized. The right bag fits airline rules and holds all essentials comfortably. Traveling"
+title: 'Best Carry On Personal Bag: Top Picks for Travelers'' Convenience'
+description: Choosing the best carry on personal bag makes travel easier and more
+  organized. The right bag fits airline rules and holds all essentials comfortably.
+  Traveling
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-personal-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-personal-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best carry on personal bag makes travel easier and more organized. The right bag fits airline rules and holds all essentials comfortably.**

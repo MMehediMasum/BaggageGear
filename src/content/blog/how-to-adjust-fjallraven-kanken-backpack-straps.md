@@ -1,10 +1,14 @@
 ---
-title: "How to Adjust Fjallraven Kanken Backpack Straps: Easy Comfort Tips"
-description: "Have you ever found yourself constantly readjusting your Fjallraven Kanken backpack because it just doesn't feel right? You're not alone. Finding that perfect f"
+title: 'How to Adjust Fjallraven Kanken Backpack Straps: Easy Comfort Tips'
+description: Have you ever found yourself constantly readjusting your Fjallraven Kanken
+  backpack because it just doesn't feel right? You're not alone. Finding that perfect
+  f
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-adjust-fjallraven-kanken-backpack-straps&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-adjust-fjallraven-kanken-backpack-straps&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself constantly readjusting your Fjallraven Kanken backpack because it just doesn't feel right? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Shoulder Bag: Easy Steps for Stylish DIY Craft"
-description: "Ever looked at those stylish shoulder bags in stores and thought, \"I wish I could make one myself\"? Well, you’re in luck! Sewing your own shoulder bag is not on"
+title: 'How to Sew a Shoulder Bag: Easy Steps for Stylish DIY Craft'
+description: Ever looked at those stylish shoulder bags in stores and thought, "I
+  wish I could make one myself"? Well, you’re in luck! Sewing your own shoulder bag
+  is not on
 pubDate: 2026-02-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-shoulder-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-shoulder-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever looked at those stylish shoulder bags in stores and thought, "I wish I could make one myself"? Well, you’re in luck!**

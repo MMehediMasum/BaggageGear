@@ -1,10 +1,14 @@
 ---
-title: "How to Keep Luggage Dry in Truck Bed: Ultimate Guide"
-description: "You’ve packed your luggage carefully and loaded it into your truck bed, but what if the weather turns bad? Rain, snow, or even unexpected splashes can ruin your"
+title: 'How to Keep Luggage Dry in Truck Bed: Ultimate Guide'
+description: You’ve packed your luggage carefully and loaded it into your truck bed,
+  but what if the weather turns bad? Rain, snow, or even unexpected splashes can ruin
+  your
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-keep-luggage-dry-in-truck-bed&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-to-keep-luggage-dry-in-truck-bed&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’ve packed your luggage carefully and loaded it into your truck bed, but what if the weather turns bad? Rain, snow, or even unexpected splashes can ruin your belongings in an instant.**

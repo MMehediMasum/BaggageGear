@@ -1,10 +1,14 @@
 ---
-title: "How to Register for Away Luggage: Easy Steps to Get Started"
-description: "Are you planning a trip and in need of a sleek, reliable suitcase? Away Luggage has become the go-to choice for many travelers who value quality and style. Howe"
+title: 'How to Register for Away Luggage: Easy Steps to Get Started'
+description: Are you planning a trip and in need of a sleek, reliable suitcase? Away
+  Luggage has become the go-to choice for many travelers who value quality and style.
+  Howe
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-register-for-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-to-register-for-away-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and in need of a sleek, reliable suitcase? Away Luggage has become the go-to choice for many travelers who value quality and style.**

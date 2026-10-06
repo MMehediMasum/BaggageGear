@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillow for Short Necks: Ultimate Comfort on the Go"
-description: "Finding the best travel pillow for short necks can greatly improve your comfort on trips. Not all neck pillows fit well or provide enough support for shorter ne"
+title: 'Best Travel Pillow for Short Necks: Ultimate Comfort on the Go'
+description: Finding the best travel pillow for short necks can greatly improve your
+  comfort on trips. Not all neck pillows fit well or provide enough support for shorter
+  ne
 pubDate: 2026-05-14
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillow-for-short-necks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Neck Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillow-for-short-necks&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel pillow for short necks can greatly improve your comfort on trips. Not all neck pillows fit well or provide enough support for shorter necks.**

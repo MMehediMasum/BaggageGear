@@ -1,10 +1,14 @@
 ---
-title: "Does Amtrak Search Carry-On Bags: What Travelers Need to Know"
-description: "Have you ever wondered if Amtrak checks your carry-on bags? If you're planning a trip and are curious about what to expect when you board the train, you're not "
+title: 'Does Amtrak Search Carry-On Bags: What Travelers Need to Know'
+description: 'Have you ever wondered if Amtrak checks your carry-on bags? If you''re
+  planning a trip and are curious about what to expect when you board the train, you''re
+  not '
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-amtrak-search-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=does-amtrak-search-carry-on-bags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if Amtrak checks your carry-on bags? If you're planning a trip and are curious about what to expect when you board the train, you're not alone.**

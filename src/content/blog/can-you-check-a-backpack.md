@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Backpack: Ultimate Guide to Hassle-Free Travel"
-description: "Have you ever stood at the airport check-in counter, nervously clutching your backpack, wondering if it can be checked in? You're not alone. With airlines conti"
+title: 'Can You Check a Backpack: Ultimate Guide to Hassle-Free Travel'
+description: Have you ever stood at the airport check-in counter, nervously clutching
+  your backpack, wondering if it can be checked in? You're not alone. With airlines
+  conti
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-backpack&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport check-in counter, nervously clutching your backpack, wondering if it can be checked in? You're not alone.**

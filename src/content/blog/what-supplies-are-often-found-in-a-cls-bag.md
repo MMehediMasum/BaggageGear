@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Supplies are Often Found in a Cls Bag: Essential Life-Savers Revealed"
 description: "When you hear about a CLS bag, you might wonder what's inside these essential kits. Whether you're a medical professional, a first responder, or just curious, k"
 pubDate: 2026-04-24

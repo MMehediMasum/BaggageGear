@@ -1,10 +1,14 @@
 ---
-title: "How to Run With a Backpack: Expert Tips for Comfort & Speed"
-description: "Imagine feeling the rhythm of your feet hitting the ground, the breeze brushing past your face, and knowing you've got everything you need securely on your back"
+title: 'How to Run With a Backpack: Expert Tips for Comfort & Speed'
+description: Imagine feeling the rhythm of your feet hitting the ground, the breeze
+  brushing past your face, and knowing you've got everything you need securely on
+  your back
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-run-with-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=how-to-run-with-a-backpack&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine feeling the rhythm of your feet hitting the ground, the breeze brushing past your face, and knowing you've got everything you need securely on your back. Running with a backpack opens up a world of freedom and adventure.**

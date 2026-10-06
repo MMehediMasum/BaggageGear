@@ -1,10 +1,13 @@
 ---
-title: "Are Medical Equipment Not Considered a Carry On? Essential Travel Tips"
-description: "Have you ever packed for a trip and wondered whether your medical equipment counts as a carry-on? You’re not alone. Many travelers face this dilemma when prepar"
+title: Are Medical Equipment Not Considered a Carry On? Essential Travel Tips
+description: Have you ever packed for a trip and wondered whether your medical equipment
+  counts as a carry-on? You’re not alone. Many travelers face this dilemma when prepar
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-medical-equipment-not-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=are-medical-equipment-not-considered-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and wondered whether your medical equipment counts as a carry-on? You’re not alone.**

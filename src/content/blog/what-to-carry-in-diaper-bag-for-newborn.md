@@ -1,10 +1,14 @@
 ---
-title: "What to Carry in Diaper Bag for Newborn: Essentials List"
-description: "You’re about to welcome a newborn, and packing your diaper bag might feel overwhelming. What exactly do you need to carry to be ready for anything? Imagine havi"
+title: 'What to Carry in Diaper Bag for Newborn: Essentials List'
+description: You’re about to welcome a newborn, and packing your diaper bag might
+  feel overwhelming. What exactly do you need to carry to be ready for anything? Imagine
+  havi
 pubDate: 2025-10-14
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-carry-in-diaper-bag-for-newborn&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Diaper Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-carry-in-diaper-bag-for-newborn&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **You’re about to welcome a newborn, and packing your diaper bag might feel overwhelming. What exactly do you need to carry to be ready for anything?**

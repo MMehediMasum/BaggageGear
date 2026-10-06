@@ -1,10 +1,14 @@
 ---
-title: "Can Double A Batteries Go in Checked Luggage: Safety Tips Revealed"
-description: "Imagine this: You're packing for your much-awaited vacation, and as you meticulously gather your essentials, you come across a stash of AA batteries. These litt"
+title: 'Can Double A Batteries Go in Checked Luggage: Safety Tips Revealed'
+description: 'Imagine this: You''re packing for your much-awaited vacation, and as
+  you meticulously gather your essentials, you come across a stash of AA batteries.
+  These litt'
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-double-a-batteries-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-double-a-batteries-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're packing for your much-awaited vacation, and as you meticulously gather your essentials, you come across a stash of AA batteries. These little powerhouses keep your gadgets running smoothly, but a question lingers: Can you safely pack them in your checked luggage?**

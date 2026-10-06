@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Sleepaway Camp: Top Picks for Comfort and Warmth"
-description: "Choosing the best sleeping bag for sleepaway camp makes a big difference in comfort and warmth. A good sleeping bag helps kids rest well after a busy day outdoo"
+title: 'Best Sleeping Bag for Sleepaway Camp: Top Picks for Comfort and Warmth'
+description: Choosing the best sleeping bag for sleepaway camp makes a big difference
+  in comfort and warmth. A good sleeping bag helps kids rest well after a busy day
+  outdoo
 pubDate: 2026-06-07
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-sleepaway-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-sleepaway-camp&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best sleeping bag for sleepaway camp makes a big difference in comfort and warmth. A good sleeping bag helps kids rest well after a busy day outdoors.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Power Adapter for Cruise Ship: Ultimate Surge Protector & USB Hub"
-description: "Choosing the best power adapter for a cruise ship trip helps keep your devices charged and ready. Cruise ship outlets often differ from home, so the right adapt"
+title: 'Best Power Adapter for Cruise Ship: Ultimate Surge Protector & USB Hub'
+description: Choosing the best power adapter for a cruise ship trip helps keep your
+  devices charged and ready. Cruise ship outlets often differ from home, so the right
+  adapt
 pubDate: 2025-11-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-cruise-ship&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-cruise-ship&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best power adapter for a cruise ship trip helps keep your devices charged and ready. Cruise ship outlets often differ from home, so the right adapter is essential.**

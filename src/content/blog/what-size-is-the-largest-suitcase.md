@@ -1,10 +1,14 @@
 ---
-title: "What Size is the Largest Suitcase: Ultimate Guide to Max Dimensions"
-description: "Are you planning your next big adventure and wondering about the size of the largest suitcase you can bring along? You're not alone. Choosing the right luggage "
+title: 'What Size is the Largest Suitcase: Ultimate Guide to Max Dimensions'
+description: 'Are you planning your next big adventure and wondering about the size
+  of the largest suitcase you can bring along? You''re not alone. Choosing the right
+  luggage '
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-the-largest-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-the-largest-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure and wondering about the size of the largest suitcase you can bring along? You're not alone.**

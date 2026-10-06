@@ -1,10 +1,14 @@
 ---
-title: "Best Small Backpack for Travel: Top Lightweight and Stylish Daypacks"
-description: "Choosing the best small backpack for travel makes your trips easier and more comfortable. A good backpack fits your essentials without weighing you down. Small "
+title: 'Best Small Backpack for Travel: Top Lightweight and Stylish Daypacks'
+description: 'Choosing the best small backpack for travel makes your trips easier
+  and more comfortable. A good backpack fits your essentials without weighing you
+  down. Small '
 pubDate: 2026-06-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-small-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best small backpack for travel makes your trips easier and more comfortable. A good backpack fits your essentials without weighing you down.**

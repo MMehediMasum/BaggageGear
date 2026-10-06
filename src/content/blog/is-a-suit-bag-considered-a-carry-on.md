@@ -1,10 +1,14 @@
 ---
-title: "Is a Suit Bag Considered a Carry On? Ultimate Travel Guide"
-description: "Picture this: You're standing at the airport, your suitcase packed and ready, when a sudden thought crosses your mind—what about your suit bag? Is it allowed as"
+title: Is a Suit Bag Considered a Carry On? Ultimate Travel Guide
+description: 'Picture this: You''re standing at the airport, your suitcase packed
+  and ready, when a sudden thought crosses your mind—what about your suit bag? Is
+  it allowed as'
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-suit-bag-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-a-suit-bag-considered-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Picture this: You're standing at the airport, your suitcase packed and ready, when a sudden thought crosses your mind—what about your suit bag? Is it allowed as a carry-on, or will it cost you extra?**

@@ -1,10 +1,14 @@
 ---
-title: "What to Bring in Hospital Bag: Essential Items for a Smooth Stay"
-description: "Preparing for the arrival of your little one is a thrilling and sometimes overwhelming experience. As your due date approaches, packing your hospital bag might "
+title: 'What to Bring in Hospital Bag: Essential Items for a Smooth Stay'
+description: 'Preparing for the arrival of your little one is a thrilling and sometimes
+  overwhelming experience. As your due date approaches, packing your hospital bag
+  might '
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-bring-in-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-bring-in-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for the arrival of your little one is a thrilling and sometimes overwhelming experience. As your due date approaches, packing your hospital bag might feel like just another task on your endless to-do list.**

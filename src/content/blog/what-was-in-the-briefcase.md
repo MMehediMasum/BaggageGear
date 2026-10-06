@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What was in the Briefcase: Unveiling the Shocking Secrets Inside"
 description: "Have you ever watched a movie and found yourself obsessing over a mysterious object that never gets fully explained? One such enigma that has puzzled viewers fo"
 pubDate: 2025-09-01

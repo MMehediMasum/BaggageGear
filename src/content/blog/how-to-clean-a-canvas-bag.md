@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Canvas Bag: Easy and Effective Tips"
-description: "Your canvas bag is more than just an accessory—it’s a trusty companion that carries your daily essentials. But over time, dirt, stains, and odors can make it lo"
+title: 'How to Clean a Canvas Bag: Easy and Effective Tips'
+description: Your canvas bag is more than just an accessory—it’s a trusty companion
+  that carries your daily essentials. But over time, dirt, stains, and odors can make
+  it lo
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-canvas-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-canvas-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your canvas bag is more than just an accessory—it’s a trusty companion that carries your daily essentials. But over time, dirt, stains, and odors can make it look tired and worn out.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Insulated Lunch Totes for Adults: Stylish and Functional Picks"
-description: "Finding the best insulated lunch tote for adults helps keep meals fresh and drinks cool all day. These lunch bags suit work, travel, picnics, and outdoor activi"
+title: 'Best Insulated Lunch Totes for Adults: Stylish and Functional Picks'
+description: Finding the best insulated lunch tote for adults helps keep meals fresh
+  and drinks cool all day. These lunch bags suit work, travel, picnics, and outdoor
+  activi
 pubDate: 2026-05-12
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-insulated-lunch-totes-for-adults&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Insulated Lunch And Cooler Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-insulated-lunch-totes-for-adults&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best insulated lunch tote for adults helps keep meals fresh and drinks cool all day. These lunch bags suit work, travel, picnics, and outdoor activities.**

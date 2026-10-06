@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can a Colostomy Bag Be Reversed? Essential Facts Uncovered"
 description: "Have you or a loved one been faced with the prospect of living with a colostomy bag? You're not alone. This life-changing procedure can feel overwhelming, but t"
 pubDate: 2026-01-14

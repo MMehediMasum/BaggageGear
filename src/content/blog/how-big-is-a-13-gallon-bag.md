@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 13 Gallon Bag: Ultimate Size Guide Revealed"
-description: "Have you ever found yourself staring at a pile of trash, wondering if it will all fit into your 13-gallon bag? You're not alone. Understanding the size and capa"
+title: 'How Big is a 13 Gallon Bag: Ultimate Size Guide Revealed'
+description: Have you ever found yourself staring at a pile of trash, wondering if
+  it will all fit into your 13-gallon bag? You're not alone. Understanding the size
+  and capa
 pubDate: 2026-01-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-13-gallon-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-13-gallon-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself staring at a pile of trash, wondering if it will all fit into your 13-gallon bag? You're not alone.**

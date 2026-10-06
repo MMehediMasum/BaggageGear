@@ -1,10 +1,13 @@
 ---
-title: "How Strict is Delta With Carry on Size: Essential Rules Revealed"
-description: "Planning to fly with Delta Airlines soon and worried about fitting everything into your carry-on? You're not alone. The rules around carry-on sizes can be a bit"
+title: 'How Strict is Delta With Carry on Size: Essential Rules Revealed'
+description: Planning to fly with Delta Airlines soon and worried about fitting everything
+  into your carry-on? You're not alone. The rules around carry-on sizes can be a bit
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-delta-with-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-delta-with-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning to fly with Delta Airlines soon and worried about fitting everything into your carry-on? You're not alone.**

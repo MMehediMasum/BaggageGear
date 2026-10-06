@@ -1,10 +1,13 @@
 ---
-title: "Are Backpacks Bad for Your Back? Shocking Truth Revealed!"
-description: "Have you ever wondered if your trusty backpack might be doing more harm than good to your back? You’re not alone. Every day, countless people rely on backpacks "
+title: Are Backpacks Bad for Your Back? Shocking Truth Revealed!
+description: 'Have you ever wondered if your trusty backpack might be doing more harm
+  than good to your back? You’re not alone. Every day, countless people rely on backpacks '
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-backpacks-bad-for-your-back&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks And Back Pain
+heroImage: https://tse1.mm.bing.net/th?q=are-backpacks-bad-for-your-back&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered if your trusty backpack might be doing more harm than good to your back? You’re not alone.**

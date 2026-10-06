@@ -1,10 +1,14 @@
 ---
-title: "Are Blow Dryers Allowed in Carry on Luggage: Essential Travel Tips"
-description: "You're packing for your upcoming trip, and you're probably wondering about what you can and can't bring in your carry-on luggage. One question that might pop in"
+title: 'Are Blow Dryers Allowed in Carry on Luggage: Essential Travel Tips'
+description: You're packing for your upcoming trip, and you're probably wondering
+  about what you can and can't bring in your carry-on luggage. One question that might
+  pop in
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-blow-dryers-allowed-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-blow-dryers-allowed-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming trip, and you're probably wondering about what you can and can't bring in your carry-on luggage. One question that might pop into your mind is: "Are blow dryers allowed in carry-on luggage?"**

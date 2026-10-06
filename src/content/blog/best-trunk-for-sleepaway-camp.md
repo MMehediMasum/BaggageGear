@@ -1,10 +1,14 @@
 ---
-title: "Best Trunk for Sleepaway Camp: Top Durable and Spacious Options Reviewed"
-description: "Choosing the best trunk for sleepaway camp helps keep belongings safe and organized. A good trunk must be strong, roomy, and easy to carry. Camp trunks come in "
+title: 'Best Trunk for Sleepaway Camp: Top Durable and Spacious Options Reviewed'
+description: 'Choosing the best trunk for sleepaway camp helps keep belongings safe
+  and organized. A good trunk must be strong, roomy, and easy to carry. Camp trunks
+  come in '
 pubDate: 2026-05-17
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-trunk-for-sleepaway-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-trunk-for-sleepaway-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best trunk for sleepaway camp helps keep belongings safe and organized. A good trunk must be strong, roomy, and easy to carry.**

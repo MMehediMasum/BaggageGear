@@ -1,10 +1,13 @@
 ---
-title: "How Many Fluid Ounces in a Carry On: Ultimate TSA Guide 2025"
-description: "Have you ever stood at the airport security line, staring at your carry-on bag and wondering just how many fluid ounces you can actually bring on board? You're "
+title: 'How Many Fluid Ounces in a Carry On: Ultimate TSA Guide 2025'
+description: 'Have you ever stood at the airport security line, staring at your carry-on
+  bag and wondering just how many fluid ounces you can actually bring on board? You''re '
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-fluid-ounces-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-fluid-ounces-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at the airport security line, staring at your carry-on bag and wondering just how many fluid ounces you can actually bring on board? You're not alone.**

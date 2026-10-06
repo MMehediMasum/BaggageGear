@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Freeze Shredded Cheese in a Bag: Expert Tips Revealed"
 description: "Are you tired of discovering moldy cheese in your fridge, wondering how you could have saved it? Imagine the convenience of reaching for a bag of shredded chees"
 pubDate: 2026-01-25

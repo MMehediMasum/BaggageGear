@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on a Razor on an Airplane: Essential Travel Tips"
-description: "Planning your next trip and wondering if you can carry on a razor on an airplane? You're not alone. Navigating the complex rules of airport security can be tric"
+title: 'Can You Carry on a Razor on an Airplane: Essential Travel Tips'
+description: Planning your next trip and wondering if you can carry on a razor on
+  an airplane? You're not alone. Navigating the complex rules of airport security
+  can be tric
 pubDate: 2026-04-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-razor-on-an-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-razor-on-an-airplane&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning your next trip and wondering if you can carry on a razor on an airplane? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Bag for Plane Travel: Top Lightweight, TSA-Approved Picks"
-description: "Choosing the best carry-on bag for a plane can make travel easier and more comfortable. The right bag fits airline rules and holds all essentials without hassle"
+title: 'Best Carry On Bag for Plane Travel: Top Lightweight, TSA-Approved Picks'
+description: Choosing the best carry-on bag for a plane can make travel easier and
+  more comfortable. The right bag fits airline rules and holds all essentials without
+  hassle
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-plane&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on bag for a plane can make travel easier and more comfortable. The right bag fits airline rules and holds all essentials without hassle.**

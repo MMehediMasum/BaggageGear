@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Sous Vide in a Ziploc Bag: Safe and Simple Tips"
 description: "Are you curious about the buzz around sous vide cooking and wondering if you can use a Ziploc bag instead of fancy equipment? You're not alone. Many home cooks "
 pubDate: 2026-02-15

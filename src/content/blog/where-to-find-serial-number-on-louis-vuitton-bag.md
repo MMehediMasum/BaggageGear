@@ -1,10 +1,14 @@
 ---
-title: "Where to Find Serial Number on Louis Vuitton Bag: Ultimate Guide"
-description: "Are you trying to verify the authenticity of your Louis Vuitton bag, or maybe you're preparing to sell it and need all the details? Whatever the reason, finding"
+title: 'Where to Find Serial Number on Louis Vuitton Bag: Ultimate Guide'
+description: Are you trying to verify the authenticity of your Louis Vuitton bag,
+  or maybe you're preparing to sell it and need all the details? Whatever the reason,
+  finding
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-find-serial-number-on-louis-vuitton-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-find-serial-number-on-louis-vuitton-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you trying to verify the authenticity of your Louis Vuitton bag, or maybe you're preparing to sell it and need all the details? Whatever the reason, finding the serial number on a Louis Vuitton bag is a crucial step.**

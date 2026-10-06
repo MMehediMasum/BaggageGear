@@ -1,10 +1,14 @@
 ---
-title: "Does Delta Charge for a Checked Bag? Essential Fee Guide 2025"
-description: "Are you planning a trip and wondering about those pesky baggage fees? You’re not alone. With airlines having different policies, it’s crucial to know what to ex"
+title: Does Delta Charge for a Checked Bag? Essential Fee Guide 2025
+description: Are you planning a trip and wondering about those pesky baggage fees?
+  You’re not alone. With airlines having different policies, it’s crucial to know
+  what to ex
 pubDate: 2026-02-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-charge-for-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-charge-for-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering about those pesky baggage fees? You’re not alone.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What was in the Bag in Carry on Movie: Shocking Secrets Revealed"
 description: "Have you ever watched a movie and found yourself completely captivated by a particular mystery? In the film \"Carry On,\" there's one enigma that has left audienc"
 pubDate: 2025-11-05

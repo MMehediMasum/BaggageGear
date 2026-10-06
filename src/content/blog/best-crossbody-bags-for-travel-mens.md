@@ -1,10 +1,14 @@
 ---
-title: "Best Crossbody Bags for Travel Mens: Top Durable and Stylish Picks"
-description: "Men’s travel crossbody bags offer convenience and style in one compact design. These bags keep essentials close and hands free during trips. Choosing the right "
+title: 'Best Crossbody Bags for Travel Mens: Top Durable and Stylish Picks'
+description: 'Men’s travel crossbody bags offer convenience and style in one compact
+  design. These bags keep essentials close and hands free during trips. Choosing the
+  right '
 pubDate: 2025-11-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-travel-mens&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Men
+heroImage: https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-travel-mens&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Men’s travel crossbody bags offer convenience and style in one compact design. These bags keep essentials close and hands free during trips.**

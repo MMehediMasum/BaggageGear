@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put on Compression Socks With a Plastic Bag: Easy Hack"
 description: "Putting on compression socks can sometimes feel like a struggle, especially if they’re tight and hard to slide on. But what if there was a simple trick that cou"
 pubDate: 2025-09-23

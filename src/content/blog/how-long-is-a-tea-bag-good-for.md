@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long is a Tea Bag Good for: Ultimate Freshness Guide"
 description: "Ever found a forgotten box of tea bags tucked away at the back of your cupboard and wondered if they’re still good to use? You’re not alone. Many tea lovers fac"
 pubDate: 2025-10-15

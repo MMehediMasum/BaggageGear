@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Stihl Backpack Blower Weigh: Lightweight Power Unveiled"
 description: "Are you in the market for a new backpack blower and considering a Stihl model? One of the first things you might be wondering is, \"How much does a Stihl backpac"
 pubDate: 2025-11-20

@@ -1,10 +1,14 @@
 ---
-title: "Best Ski Boot Bag for Carry On: Top Durable Travel Backpacks Reviewed"
-description: "Finding the best ski boot bag for carry-on travel makes your trip easier and more organized. A good bag fits your boots and gear without extra hassle. Ski trips"
+title: 'Best Ski Boot Bag for Carry On: Top Durable Travel Backpacks Reviewed'
+description: Finding the best ski boot bag for carry-on travel makes your trip easier
+  and more organized. A good bag fits your boots and gear without extra hassle. Ski
+  trips
 pubDate: 2025-11-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-ski-boot-bag-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sports Equipment Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-ski-boot-bag-for-carry-on&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best ski boot bag for carry-on travel makes your trip easier and more organized. A good bag fits your boots and gear without extra hassle.**

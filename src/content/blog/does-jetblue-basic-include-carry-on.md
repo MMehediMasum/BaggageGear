@@ -1,10 +1,14 @@
 ---
-title: "Does Jetblue Basic Include Carry On? Essential Travel Insights"
-description: "Are you planning your next adventure and considering flying with JetBlue? If you've come across their enticing Basic fare and are wondering, \"Does JetBlue Basic"
+title: Does Jetblue Basic Include Carry On? Essential Travel Insights
+description: Are you planning your next adventure and considering flying with JetBlue?
+  If you've come across their enticing Basic fare and are wondering, "Does JetBlue
+  Basic
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jetblue-basic-include-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-jetblue-basic-include-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and considering flying with JetBlue? If you've come across their enticing Basic fare and are wondering, "Does JetBlue Basic include a carry-on?"**

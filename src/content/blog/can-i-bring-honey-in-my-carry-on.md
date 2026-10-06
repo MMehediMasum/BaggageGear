@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Honey in My Carry On: Essential TSA Rules Explained"
-description: "Are you wondering if you can bring honey in your carry-on bag when you fly? You’re not alone. Many travelers ask this question because honey is sticky, sweet, a"
+title: 'Can I Bring Honey in My Carry On: Essential TSA Rules Explained'
+description: Are you wondering if you can bring honey in your carry-on bag when you
+  fly? You’re not alone. Many travelers ask this question because honey is sticky,
+  sweet, a
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-honey-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-honey-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you wondering if you can bring honey in your carry-on bag when you fly? You’re not alone.**

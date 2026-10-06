@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Verify Pizza Bag Doordash: Easy Steps for Safe Delivery"
 description: "Imagine you're all set to enjoy a piping hot pizza delivery from DoorDash. But suddenly, doubts creep in. Is your delivery bag genuine? Can you trust it to keep"
 pubDate: 2026-04-14

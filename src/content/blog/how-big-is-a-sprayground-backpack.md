@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Sprayground Backpack: Ultimate Size Guide Revealed"
-description: "Have you ever wondered just how big a Sprayground backpack really is? You’re not alone. Whether you're a student gearing up for school, a traveler planning your"
+title: 'How Big is a Sprayground Backpack: Ultimate Size Guide Revealed'
+description: Have you ever wondered just how big a Sprayground backpack really is?
+  You’re not alone. Whether you're a student gearing up for school, a traveler planning
+  your
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-sprayground-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-sprayground-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered just how big a Sprayground backpack really is? You’re not alone.**

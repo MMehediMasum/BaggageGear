@@ -1,10 +1,14 @@
 ---
-title: "How is a Suitcase Size Measured: Essential Guide"
-description: "Have you ever stood in front of a suitcase and wondered, “Is this the right size for my trip?” Choosing the perfect suitcase can be confusing, especially when s"
+title: 'How is a Suitcase Size Measured: Essential Guide'
+description: Have you ever stood in front of a suitcase and wondered, “Is this the
+  right size for my trip?” Choosing the perfect suitcase can be confusing, especially
+  when s
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-is-a-suitcase-size-measured&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-is-a-suitcase-size-measured&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood in front of a suitcase and wondered, “Is this the right size for my trip?” Choosing the perfect suitcase can be confusing, especially when size labels don’t always make sense. Knowing exactly how a suitcase size is measured can save you time, money, and frustration at the airport.**

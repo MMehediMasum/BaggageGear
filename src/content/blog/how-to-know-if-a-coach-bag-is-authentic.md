@@ -1,10 +1,14 @@
 ---
-title: "How to Know If a Coach Bag is Authentic: Expert Tips Revealed"
-description: "Imagine the thrill of finding a Coach bag that seems to have your name written all over it. The design is impeccable, the price is irresistible, and you're read"
+title: 'How to Know If a Coach Bag is Authentic: Expert Tips Revealed'
+description: Imagine the thrill of finding a Coach bag that seems to have your name
+  written all over it. The design is impeccable, the price is irresistible, and you're
+  read
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-know-if-a-coach-bag-is-authentic&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-know-if-a-coach-bag-is-authentic&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine the thrill of finding a Coach bag that seems to have your name written all over it. The design is impeccable, the price is irresistible, and you're ready to make it yours.**

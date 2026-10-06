@@ -1,10 +1,14 @@
 ---
-title: "Does Busch Stadium Have a Clear Bag Policy? Essential Guide 2025"
-description: "Planning to catch a game at Busch Stadium soon? Before you head out, there's something you need to know that can make or break your game day experience. Imagine"
+title: Does Busch Stadium Have a Clear Bag Policy? Essential Guide 2025
+description: Planning to catch a game at Busch Stadium soon? Before you head out,
+  there's something you need to know that can make or break your game day experience.
+  Imagine
 pubDate: 2025-10-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-busch-stadium-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-busch-stadium-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning to catch a game at Busch Stadium soon? Before you head out, there's something you need to know that can make or break your game day experience.**

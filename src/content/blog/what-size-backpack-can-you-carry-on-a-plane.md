@@ -1,10 +1,14 @@
 ---
-title: "What Size Backpack Can You Carry on a Plane: Ultimate Guide 2025"
-description: "Packing for a flight can be a stressful experience, especially when you're unsure about what size backpack you can carry on a plane. The last thing you want is "
+title: 'What Size Backpack Can You Carry on a Plane: Ultimate Guide 2025'
+description: 'Packing for a flight can be a stressful experience, especially when
+  you''re unsure about what size backpack you can carry on a plane. The last thing
+  you want is '
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-backpack-can-you-carry-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=what-size-backpack-can-you-carry-on-a-plane&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Packing for a flight can be a stressful experience, especially when you're unsure about what size backpack you can carry on a plane. The last thing you want is to arrive at the airport only to find out your bag doesn’t meet the airline's requirements.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Duffle Bag: Easy Steps for a Fresh, Odor-Free Gear"
-description: "Is your trusty duffle bag looking a bit worse for wear? Whether it’s a travel companion or your go-to gym bag, it can collect dirt, odors, and stains over time."
+title: 'How to Clean a Duffle Bag: Easy Steps for a Fresh, Odor-Free Gear'
+description: Is your trusty duffle bag looking a bit worse for wear? Whether it’s
+  a travel companion or your go-to gym bag, it can collect dirt, odors, and stains
+  over time.
 pubDate: 2025-09-09
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-duffle-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-duffle-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your trusty duffle bag looking a bit worse for wear? Whether it’s a travel companion or your go-to gym bag, it can collect dirt, odors, and stains over time.**

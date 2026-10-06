@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where Does a Plastic Bag Come From: Unveiling Its Shocking Origins"
 description: "Have you ever paused to think about the humble plastic bag you use almost every day? It’s easy to overlook, yet it plays a significant role in our daily lives. "
 pubDate: 2025-09-18

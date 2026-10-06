@@ -1,10 +1,13 @@
 ---
-title: "Can You Wash a Longchamp Bag: Essential Cleaning Tips Revealed"
-description: "Are you staring at your beloved Longchamp bag, wondering if it can survive a wash? You're not alone. Many Longchamp owners find themselves in this predicament. "
+title: 'Can You Wash a Longchamp Bag: Essential Cleaning Tips Revealed'
+description: 'Are you staring at your beloved Longchamp bag, wondering if it can survive
+  a wash? You''re not alone. Many Longchamp owners find themselves in this predicament. '
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-longchamp-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Care
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-longchamp-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you staring at your beloved Longchamp bag, wondering if it can survive a wash? You're not alone.**

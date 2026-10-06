@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Cruising: Essential Tags and Holders for Smooth Sailing"
-description: "Choosing the best luggage for cruising can make your trip easier and more enjoyable. Cruise luggage needs to be durable, easy to handle, and meet ship requireme"
+title: 'Best Luggage for Cruising: Essential Tags and Holders for Smooth Sailing'
+description: Choosing the best luggage for cruising can make your trip easier and
+  more enjoyable. Cruise luggage needs to be durable, easy to handle, and meet ship
+  requireme
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-cruising&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- General Travel Bags And Suitcases
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-cruising&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for cruising can make your trip easier and more enjoyable. Cruise luggage needs to be durable, easy to handle, and meet ship requirements.**

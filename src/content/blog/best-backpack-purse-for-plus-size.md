@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack Purse for Plus Size Women: Stylish & Functional Picks"
-description: "Finding the best backpack purse for plus size can improve comfort and style. The right bag fits well and holds all essentials easily. Choosing a backpack purse "
+title: 'Best Backpack Purse for Plus Size Women: Stylish & Functional Picks'
+description: 'Finding the best backpack purse for plus size can improve comfort and
+  style. The right bag fits well and holds all essentials easily. Choosing a backpack
+  purse '
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-purse-for-plus-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-purse-for-plus-size&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best backpack purse for plus size can improve comfort and style. The right bag fits well and holds all essentials easily.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Backpacks for Work: Stylish, Durable, and Functional Picks"
-description: "Finding the right leather backpack for work can be a game-changer. It combines style with function, ensuring you carry essentials with ease. Leather backpacks s"
+title: 'Best Leather Backpacks for Work: Stylish, Durable, and Functional Picks'
+description: Finding the right leather backpack for work can be a game-changer. It
+  combines style with function, ensuring you carry essentials with ease. Leather backpacks
+  s
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-backpacks-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luxury And Designer Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-backpacks-for-work&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the right leather backpack for work can be a game-changer. It combines style with function, ensuring you carry essentials with ease.**

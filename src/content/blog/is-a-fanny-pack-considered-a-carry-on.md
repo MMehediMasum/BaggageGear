@@ -1,10 +1,14 @@
 ---
-title: "Is a Fanny Pack Considered a Carry On? Ultimate Travel Guide"
-description: "Are you about to embark on your next adventure and wondering if your trusty fanny pack counts as a carry-on? You're not alone. This small yet mighty bag has bec"
+title: Is a Fanny Pack Considered a Carry On? Ultimate Travel Guide
+description: Are you about to embark on your next adventure and wondering if your
+  trusty fanny pack counts as a carry-on? You're not alone. This small yet mighty
+  bag has bec
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-fanny-pack-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-a-fanny-pack-considered-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you about to embark on your next adventure and wondering if your trusty fanny pack counts as a carry-on? You're not alone.**

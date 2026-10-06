@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put a Trash Bag in a Trash Can: Easy Steps for a Perfect Fit"
 description: "Have you ever found yourself wrestling with a trash bag, trying to get it to fit just right in the trash can? You're not alone. It seems like such a simple task"
 pubDate: 2026-02-20

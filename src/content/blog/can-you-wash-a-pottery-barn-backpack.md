@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Pottery Barn Backpack: Ultimate Cleaning Guide"
-description: "Can you wash a Pottery Barn backpack? If you're a parent or a student, you've probably asked yourself this question more than once. After all, backpacks are lik"
+title: 'Can You Wash a Pottery Barn Backpack: Ultimate Cleaning Guide'
+description: Can you wash a Pottery Barn backpack? If you're a parent or a student,
+  you've probably asked yourself this question more than once. After all, backpacks
+  are lik
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-pottery-barn-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-pottery-barn-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Can you wash a Pottery Barn backpack? If you're a parent or a student, you've probably asked yourself this question more than once.**

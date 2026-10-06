@@ -1,10 +1,14 @@
 ---
-title: "What to Wear for Backpacking: Essential Gear Guide"
-description: "Packing for a backpacking trip can feel overwhelming. You want to be comfortable, prepared, and light on your feet. But what exactly should you wear to make you"
+title: 'What to Wear for Backpacking: Essential Gear Guide'
+description: Packing for a backpacking trip can feel overwhelming. You want to be
+  comfortable, prepared, and light on your feet. But what exactly should you wear
+  to make you
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-wear-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Apparel And Trekking Poles
+heroImage: https://tse1.mm.bing.net/th?q=what-to-wear-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Packing for a backpacking trip can feel overwhelming. You want to be comfortable, prepared, and light on your feet.**

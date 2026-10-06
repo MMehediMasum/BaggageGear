@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Shoes in a Suitcase: Ultimate Space-Saving Tips"
-description: "Packing shoes in a suitcase can often feel like a game of Tetris. You want to fit them neatly without crushing them or taking up too much space. Imagine opening"
+title: 'How to Pack Shoes in a Suitcase: Ultimate Space-Saving Tips'
+description: Packing shoes in a suitcase can often feel like a game of Tetris. You
+  want to fit them neatly without crushing them or taking up too much space. Imagine
+  opening
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-shoes-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-shoes-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing shoes in a suitcase can often feel like a game of Tetris. You want to fit them neatly without crushing them or taking up too much space.**

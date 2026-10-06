@@ -1,10 +1,14 @@
 ---
-title: "What is a Luggage Rack: Ultimate Guide to Travel Organization"
-description: "Imagine you're planning the perfect getaway. You've got your clothes neatly packed, your travel itinerary sorted, and your excitement is through the roof. But t"
+title: 'What is a Luggage Rack: Ultimate Guide to Travel Organization'
+description: Imagine you're planning the perfect getaway. You've got your clothes
+  neatly packed, your travel itinerary sorted, and your excitement is through the
+  roof. But t
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-luggage-rack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-luggage-rack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're planning the perfect getaway. You've got your clothes neatly packed, your travel itinerary sorted, and your excitement is through the roof.**

@@ -1,10 +1,13 @@
 ---
-title: "How to Spot a Fake Coach Bag: Easy Tips to Avoid Scams"
-description: "You’ve found a Coach bag that looks perfect—but is it real or fake? Knowing how to spot a fake Coach bag can save you from wasting money and feeling disappointe"
+title: 'How to Spot a Fake Coach Bag: Easy Tips to Avoid Scams'
+description: You’ve found a Coach bag that looks perfect—but is it real or fake? Knowing
+  how to spot a fake Coach bag can save you from wasting money and feeling disappointe
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-coach-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve found a Coach bag that looks perfect—but is it real or fake? Knowing how to spot a fake Coach bag can save you from wasting money and feeling disappointed.**

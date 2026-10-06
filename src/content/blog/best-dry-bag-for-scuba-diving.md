@@ -1,10 +1,14 @@
 ---
-title: "Best Dry Bag for Scuba Diving: Top Waterproof Gear Protectors Reviewed"
-description: "Choosing the best dry bag for scuba diving keeps your gear safe and dry underwater. A reliable dry bag protects your equipment from water damage during dives an"
+title: 'Best Dry Bag for Scuba Diving: Top Waterproof Gear Protectors Reviewed'
+description: Choosing the best dry bag for scuba diving keeps your gear safe and dry
+  underwater. A reliable dry bag protects your equipment from water damage during
+  dives an
 pubDate: 2026-06-01
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dry-bag-for-scuba-diving&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-dry-bag-for-scuba-diving&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best dry bag for scuba diving keeps your gear safe and dry underwater. A reliable dry bag protects your equipment from water damage during dives and travel.**

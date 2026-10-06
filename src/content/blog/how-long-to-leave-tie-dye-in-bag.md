@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Leave Tie Dye in Bag: Ultimate Guide for Perfect Colors"
 description: "Are you ready to unleash your creativity with tie-dye but unsure about how long to leave it in the bag? You're not alone. Many DIY enthusiasts find themselves p"
 pubDate: 2025-09-19

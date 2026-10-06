@@ -1,10 +1,14 @@
 ---
-title: "What Cannot Be in a Checked Bag: Essential Items to Avoid"
-description: "Packing for a trip can be a daunting task, especially when you're trying to figure out what can and cannot go in your checked bag. The last thing you want is to"
+title: 'What Cannot Be in a Checked Bag: Essential Items to Avoid'
+description: Packing for a trip can be a daunting task, especially when you're trying
+  to figure out what can and cannot go in your checked bag. The last thing you want
+  is to
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-cannot-be-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-cannot-be-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a daunting task, especially when you're trying to figure out what can and cannot go in your checked bag. The last thing you want is to be stopped at the airport because of a packing mistake.**

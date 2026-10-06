@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Quikrete in a Bag: Ultimate Guide for Perfect Mixes"
 description: "Are you planning a DIY project and wondering how much Quikrete you need? Calculating the right amount is crucial for success, whether you're laying a new patio,"
 pubDate: 2025-12-28

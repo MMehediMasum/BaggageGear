@@ -1,10 +1,14 @@
 ---
-title: "What to Bring in Hospital Bag for Labor: Essential Must-Haves Guide"
-description: "Preparing for your baby's arrival is an exciting yet overwhelming time. As your due date approaches, packing your hospital bag is a task you don't want to leave"
+title: 'What to Bring in Hospital Bag for Labor: Essential Must-Haves Guide'
+description: Preparing for your baby's arrival is an exciting yet overwhelming time.
+  As your due date approaches, packing your hospital bag is a task you don't want
+  to leave
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-bring-in-hospital-bag-for-labor&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-bring-in-hospital-bag-for-labor&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for your baby's arrival is an exciting yet overwhelming time. As your due date approaches, packing your hospital bag is a task you don't want to leave to the last minute.**

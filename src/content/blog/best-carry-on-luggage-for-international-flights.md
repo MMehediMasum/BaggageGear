@@ -1,10 +1,15 @@
 ---
-title: "Best Carry On Luggage for International Flights: Top Lightweight Expandable Picks"
-description: "Choosing the best carry-on luggage for international flights saves time and stress at the airport. It fits airline rules and holds your travel essentials secure"
+title: 'Best Carry On Luggage for International Flights: Top Lightweight Expandable
+  Picks'
+description: Choosing the best carry-on luggage for international flights saves time
+  and stress at the airport. It fits airline rules and holds your travel essentials
+  secure
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-international-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-international-flights&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for international flights saves time and stress at the airport. It fits airline rules and holds your travel essentials securely.**

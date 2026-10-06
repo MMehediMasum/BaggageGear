@@ -1,10 +1,14 @@
 ---
-title: "Does a Cpap Machine Count As a Carry On? Travel Smart Tips!"
-description: "Traveling can be a mix of excitement and stress, especially when you need to bring medical equipment like a CPAP machine. You might be wondering, \"Does a CPAP m"
+title: Does a Cpap Machine Count As a Carry On? Travel Smart Tips!
+description: Traveling can be a mix of excitement and stress, especially when you
+  need to bring medical equipment like a CPAP machine. You might be wondering, "Does
+  a CPAP m
 pubDate: 2026-03-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-cpap-machine-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=does-a-cpap-machine-count-as-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a mix of excitement and stress, especially when you need to bring medical equipment like a CPAP machine. You might be wondering, "Does a CPAP machine count as a carry-on?"**

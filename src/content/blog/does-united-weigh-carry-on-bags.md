@@ -1,10 +1,14 @@
 ---
-title: "Does United Weigh Carry on Bags: Ultimate Guide to Size & Weight Limits"
-description: "Are you planning a trip soon and feeling a bit anxious about packing your carry-on bag? You're not alone. One of the most common questions travelers ask is: \"Do"
+title: 'Does United Weigh Carry on Bags: Ultimate Guide to Size & Weight Limits'
+description: 'Are you planning a trip soon and feeling a bit anxious about packing
+  your carry-on bag? You''re not alone. One of the most common questions travelers
+  ask is: "Do'
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-united-weigh-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-united-weigh-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip soon and feeling a bit anxious about packing your carry-on bag? You're not alone.**

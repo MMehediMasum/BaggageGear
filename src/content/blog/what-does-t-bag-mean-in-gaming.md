@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does T Bag Mean in Gaming: Ultimate Guide to Pro Moves"
 description: "Picture this: you’re deep in the middle of an intense gaming session, heart racing, palms sweaty. You’ve just triumphed over a tough opponent, and suddenly you "
 pubDate: 2025-12-05

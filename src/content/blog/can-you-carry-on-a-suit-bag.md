@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on a Suit Bag: Ultimate Guide for Stress-Free Travel"
-description: "Have you ever faced the dilemma of packing for a business trip or formal event and wondered if you can carry on a suit bag? You're not alone. Navigating airline"
+title: 'Can You Carry on a Suit Bag: Ultimate Guide for Stress-Free Travel'
+description: Have you ever faced the dilemma of packing for a business trip or formal
+  event and wondered if you can carry on a suit bag? You're not alone. Navigating
+  airline
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-suit-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-suit-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Have you ever faced the dilemma of packing for a business trip or formal event and wondered if you can carry on a suit bag? You're not alone.**

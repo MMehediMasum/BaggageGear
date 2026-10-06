@@ -1,10 +1,13 @@
 ---
-title: "How to Weight Luggage: Easy Tips to Avoid Extra Fees"
-description: "Are you tired of the pre-flight panic about whether your luggage exceeds the weight limit? You’re not alone. Navigating airline baggage rules can be stressful, "
+title: 'How to Weight Luggage: Easy Tips to Avoid Extra Fees'
+description: 'Are you tired of the pre-flight panic about whether your luggage exceeds
+  the weight limit? You’re not alone. Navigating airline baggage rules can be stressful, '
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-weight-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-weight-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of the pre-flight panic about whether your luggage exceeds the weight limit? You’re not alone.**

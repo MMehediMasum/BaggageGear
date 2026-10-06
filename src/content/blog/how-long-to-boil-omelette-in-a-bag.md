@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Boil Omelette in a Bag: Perfect Timing Tips"
 description: "Ever heard of boiling an omelette in a bag? It's a game-changer, especially for busy mornings or when you're craving a no-mess, delicious meal. Imagine the perf"
 pubDate: 2026-01-23

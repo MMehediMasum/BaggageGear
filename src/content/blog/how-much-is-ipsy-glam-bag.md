@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is Ipsy Glam Bag: Revealing True Value & Costs"
 description: "Curious about the cost of an Ipsy Glam Bag? You're not alone. The allure of beauty surprises delivered right to your doorstep is hard to resist. But before you "
 pubDate: 2026-01-24

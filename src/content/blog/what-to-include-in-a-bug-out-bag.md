@@ -1,10 +1,14 @@
 ---
-title: "What to Include in a Bug Out Bag: Essential Survival Gear Guide"
-description: "Imagine this: a sudden emergency strikes, and you need to leave your home in a hurry. What do you grab? In moments like these, having a well-prepared bug out ba"
+title: 'What to Include in a Bug Out Bag: Essential Survival Gear Guide'
+description: 'Imagine this: a sudden emergency strikes, and you need to leave your
+  home in a hurry. What do you grab? In moments like these, having a well-prepared
+  bug out ba'
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-include-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-include-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine this: a sudden emergency strikes, and you need to leave your home in a hurry. What do you grab?**

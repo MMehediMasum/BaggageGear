@@ -1,10 +1,14 @@
 ---
-title: "Best Compression Backpack for Travel: Top Space-Saving Carry-On Picks"
-description: "Finding the best compression backpack for travel helps save space and stay organized. These backpacks reduce bulk and protect belongings during trips. Traveling"
+title: 'Best Compression Backpack for Travel: Top Space-Saving Carry-On Picks'
+description: Finding the best compression backpack for travel helps save space and
+  stay organized. These backpacks reduce bulk and protect belongings during trips.
+  Traveling
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-compression-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-compression-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best compression backpack for travel helps save space and stay organized. These backpacks reduce bulk and protect belongings during trips.**

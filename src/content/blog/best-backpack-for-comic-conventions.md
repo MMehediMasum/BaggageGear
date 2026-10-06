@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Comic Conventions: Unleash Your Superhero Style"
-description: "Choosing the best backpack for comic conventions makes your day easier and more fun. It holds your gear, comics, and souvenirs safely and comfortably. Comic con"
+title: 'Best Backpack for Comic Conventions: Unleash Your Superhero Style'
+description: Choosing the best backpack for comic conventions makes your day easier
+  and more fun. It holds your gear, comics, and souvenirs safely and comfortably.
+  Comic con
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-comic-conventions&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-comic-conventions&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for comic conventions makes your day easier and more fun. It holds your gear, comics, and souvenirs safely and comfortably.**

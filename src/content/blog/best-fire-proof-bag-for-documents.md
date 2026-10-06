@@ -1,10 +1,14 @@
 ---
-title: "Best Fire Proof Bag for Documents: Secure Your Valuables from Fire"
-description: "Protecting important documents from fire damage is essential for every home and office. A fireproof bag keeps your papers safe from heat and flames during emerg"
+title: 'Best Fire Proof Bag for Documents: Secure Your Valuables from Fire'
+description: Protecting important documents from fire damage is essential for every
+  home and office. A fireproof bag keeps your papers safe from heat and flames during
+  emerg
 pubDate: 2026-05-19
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-fire-proof-bag-for-documents&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-fire-proof-bag-for-documents&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Protecting important documents from fire damage is essential for every home and office. A fireproof bag keeps your papers safe from heat and flames during emergencies.**

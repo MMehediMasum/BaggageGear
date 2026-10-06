@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Carry on for a Cruise: Ultimate Essentials Guide"
-description: "Setting sail on a cruise is an exciting adventure, but packing can sometimes be a puzzle. Imagine this: you're on the deck, the sea breeze in your hair, but the"
+title: 'What to Pack in a Carry on for a Cruise: Ultimate Essentials Guide'
+description: 'Setting sail on a cruise is an exciting adventure, but packing can sometimes
+  be a puzzle. Imagine this: you''re on the deck, the sea breeze in your hair, but
+  the'
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-carry-on-for-a-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-carry-on-for-a-cruise&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Setting sail on a cruise is an exciting adventure, but packing can sometimes be a puzzle. Imagine this: you're on the deck, the sea breeze in your hair, but then you remember you forgot something essential in your luggage that's already tucked away in the ship's hold.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage With Suit Compartment for Effortless Travel Organization"
-description: "Finding the best carry-on luggage with a suit compartment makes traveling with formal wear easy and wrinkle-free. These bags help keep your suits neat while sav"
+title: Best Carry On Luggage With Suit Compartment for Effortless Travel Organization
+description: Finding the best carry-on luggage with a suit compartment makes traveling
+  with formal wear easy and wrinkle-free. These bags help keep your suits neat while
+  sav
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-with-suit-compartment&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-with-suit-compartment&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry-on luggage with a suit compartment makes traveling with formal wear easy and wrinkle-free. These bags help keep your suits neat while saving space.**

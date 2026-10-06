@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is the Ozark 12P a Good Tent Backpacking Choice? Expert Review"
 description: "Picture this: you're surrounded by the serene beauty of the wilderness, the crisp air fills your lungs, and the only sound you hear is the gentle rustling of le"
 pubDate: 2025-09-28

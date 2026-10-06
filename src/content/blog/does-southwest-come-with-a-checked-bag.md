@@ -1,10 +1,14 @@
 ---
-title: "Does Southwest Come With a Checked Bag? Ultimate Guide 2025"
-description: "Planning your next getaway and wondering about baggage fees? When you book a flight, every little cost can add up, and you might find yourself asking, \"Does Sou"
+title: Does Southwest Come With a Checked Bag? Ultimate Guide 2025
+description: Planning your next getaway and wondering about baggage fees? When you
+  book a flight, every little cost can add up, and you might find yourself asking,
+  "Does Sou
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-southwest-come-with-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=does-southwest-come-with-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next getaway and wondering about baggage fees? When you book a flight, every little cost can add up, and you might find yourself asking, "Does Southwest come with a checked bag?"**

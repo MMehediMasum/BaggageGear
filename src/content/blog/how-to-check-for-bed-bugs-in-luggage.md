@@ -1,10 +1,13 @@
 ---
-title: "How to Check for Bed Bugs in Luggage: Easy Steps to Stay Bug-Free"
-description: "Imagine this: you've just returned from a relaxing vacation, but lurking in your luggage might be an unexpected souvenir. Bed bugs—tiny, elusive, and notoriousl"
+title: 'How to Check for Bed Bugs in Luggage: Easy Steps to Stay Bug-Free'
+description: 'Imagine this: you''ve just returned from a relaxing vacation, but lurking
+  in your luggage might be an unexpected souvenir. Bed bugs—tiny, elusive, and notoriousl'
 pubDate: 2025-11-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-check-for-bed-bugs-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-check-for-bed-bugs-in-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you've just returned from a relaxing vacation, but lurking in your luggage might be an unexpected souvenir. Bed bugs—tiny, elusive, and notoriously hard to spot—can easily hitch a ride home with you.**

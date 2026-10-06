@@ -1,10 +1,14 @@
 ---
-title: "Best Water Bottle for Air Travel: Top Leak-Proof and BPA-Free Picks"
-description: "Choosing the best water bottle for air travel helps keep you hydrated and meets airport rules. A good travel bottle is leak-proof, lightweight, and easy to carr"
+title: 'Best Water Bottle for Air Travel: Top Leak-Proof and BPA-Free Picks'
+description: Choosing the best water bottle for air travel helps keep you hydrated
+  and meets airport rules. A good travel bottle is leak-proof, lightweight, and easy
+  to carr
 pubDate: 2026-05-27
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-water-bottle-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Water Bottles
+heroImage: https://tse1.mm.bing.net/th?q=best-water-bottle-for-air-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best water bottle for air travel helps keep you hydrated and meets airport rules. A good travel bottle is leak-proof, lightweight, and easy to carry.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Coach Leather Bag: Easy Steps for a Pristine Look"
-description: "You love your Coach leather bag. It's more than just an accessory; it's a statement piece that tells the world you appreciate quality and style. But, as with an"
+title: 'How to Clean Coach Leather Bag: Easy Steps for a Pristine Look'
+description: You love your Coach leather bag. It's more than just an accessory; it's
+  a statement piece that tells the world you appreciate quality and style. But, as
+  with an
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-coach-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-coach-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You love your Coach leather bag. It's more than just an accessory; it's a statement piece that tells the world you appreciate quality and style.**

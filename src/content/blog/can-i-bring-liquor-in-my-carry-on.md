@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Liquor in My Carry On: Essential TSA Rules Explained"
-description: "Imagine this: You’re packing for your much-awaited vacation. You’ve picked the perfect outfits, gathered all your travel essentials, and now you’re staring at t"
+title: 'Can I Bring Liquor in My Carry On: Essential TSA Rules Explained'
+description: 'Imagine this: You’re packing for your much-awaited vacation. You’ve
+  picked the perfect outfits, gathered all your travel essentials, and now you’re
+  staring at t'
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-liquor-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-liquor-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You’re packing for your much-awaited vacation. You’ve picked the perfect outfits, gathered all your travel essentials, and now you’re staring at that special bottle of liquor you’ve been saving.**

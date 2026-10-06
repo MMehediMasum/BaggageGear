@@ -1,10 +1,14 @@
 ---
-title: "Best Deals on Suitcases: Top Lightweight Luggage Sets for Every Traveler"
-description: "Find the best deals on suitcases that combine style, durability, and affordability. Choose from top brands offering lightweight, secure, and spacious luggage op"
+title: 'Best Deals on Suitcases: Top Lightweight Luggage Sets for Every Traveler'
+description: Find the best deals on suitcases that combine style, durability, and
+  affordability. Choose from top brands offering lightweight, secure, and spacious
+  luggage op
 pubDate: 2026-06-05
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-deals-on-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- General Travel Bags And Suitcases
+heroImage: https://tse1.mm.bing.net/th?q=best-deals-on-suitcases&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Find the best deals on suitcases that combine style, durability, and affordability. Choose from top brands offering lightweight, secure, and spacious luggage options.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Drop Backpack in Helldivers 2: Quick Tips for Success"
 description: "Are you diving into the action-packed universe of Helldivers 2 and wondering how to drop your backpack with ease? You're not alone. Mastering this skill is cruc"
 pubDate: 2025-12-14

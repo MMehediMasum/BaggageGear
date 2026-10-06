@@ -1,10 +1,14 @@
 ---
-title: "How Much is Luggage on Spirit: Ultimate Cost Guide 2025"
-description: "Planning a trip can be exciting, but figuring out how much you'll spend on luggage fees can be a bit of a puzzle, especially when flying with budget airlines li"
+title: 'How Much is Luggage on Spirit: Ultimate Cost Guide 2025'
+description: Planning a trip can be exciting, but figuring out how much you'll spend
+  on luggage fees can be a bit of a puzzle, especially when flying with budget airlines
+  li
 pubDate: 2025-09-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-luggage-on-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-luggage-on-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, but figuring out how much you'll spend on luggage fees can be a bit of a puzzle, especially when flying with budget airlines like Spirit. You might find yourself wondering, "How much is luggage on Spirit?"**

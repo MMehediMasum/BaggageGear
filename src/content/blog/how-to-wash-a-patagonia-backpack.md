@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Patagonia Backpack: Easy Steps for Deep Clean"
-description: "Have you ever noticed how your trusty Patagonia backpack starts looking a bit too rugged after countless adventures? Whether it's been your companion on hikes, "
+title: 'How to Wash a Patagonia Backpack: Easy Steps for Deep Clean'
+description: 'Have you ever noticed how your trusty Patagonia backpack starts looking
+  a bit too rugged after countless adventures? Whether it''s been your companion on
+  hikes, '
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-patagonia-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-patagonia-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever noticed how your trusty Patagonia backpack starts looking a bit too rugged after countless adventures? Whether it's been your companion on hikes, travels, or daily commutes, grime and dirt inevitably find their way onto it.**

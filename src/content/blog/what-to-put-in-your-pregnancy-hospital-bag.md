@@ -1,10 +1,14 @@
 ---
-title: "What to Put in Your Pregnancy Hospital Bag: Essential Must-Haves"
-description: "As your due date approaches, excitement and anticipation fill the air. You're about to meet your little one, and there's so much to think about. But there's one"
+title: 'What to Put in Your Pregnancy Hospital Bag: Essential Must-Haves'
+description: As your due date approaches, excitement and anticipation fill the air.
+  You're about to meet your little one, and there's so much to think about. But there's
+  one
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-your-pregnancy-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-your-pregnancy-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **As your due date approaches, excitement and anticipation fill the air. You're about to meet your little one, and there's so much to think about.**

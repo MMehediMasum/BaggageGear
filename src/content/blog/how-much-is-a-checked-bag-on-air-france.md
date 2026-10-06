@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Air France: Ultimate Cost Guide 2025"
-description: "Are you planning a trip with Air France and wondering about the cost of checking a bag? You're not alone. Baggage fees can be a hidden cost that surprises many "
+title: 'How Much is a Checked Bag on Air France: Ultimate Cost Guide 2025'
+description: 'Are you planning a trip with Air France and wondering about the cost
+  of checking a bag? You''re not alone. Baggage fees can be a hidden cost that surprises
+  many '
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-air-france&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-air-france&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Air France and wondering about the cost of checking a bag? You're not alone.**

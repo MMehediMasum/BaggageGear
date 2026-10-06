@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a North Face Backpack in the Washer: Essential Tips"
-description: "Are you staring at your mud-stained North Face backpack and wondering if it's safe to toss it into the washing machine? You’re not alone. Many backpack owners f"
+title: 'Can You Put a North Face Backpack in the Washer: Essential Tips'
+description: Are you staring at your mud-stained North Face backpack and wondering
+  if it's safe to toss it into the washing machine? You’re not alone. Many backpack
+  owners f
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-north-face-backpack-in-the-washer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-north-face-backpack-in-the-washer&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you staring at your mud-stained North Face backpack and wondering if it's safe to toss it into the washing machine? You’re not alone.**

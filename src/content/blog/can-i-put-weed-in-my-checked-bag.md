@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Weed in My Checked Bag? Essential Travel Rules Revealed"
-description: "Traveling can be both exciting and stressful, especially when you're packing your bags and getting ready for a flight. If you're considering whether you can put"
+title: Can I Put Weed in My Checked Bag? Essential Travel Rules Revealed
+description: Traveling can be both exciting and stressful, especially when you're
+  packing your bags and getting ready for a flight. If you're considering whether
+  you can put
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-weed-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-weed-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when you're packing your bags and getting ready for a flight. If you're considering whether you can put weed in your checked bag, you're not alone.**

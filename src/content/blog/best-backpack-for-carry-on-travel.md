@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Carry on Travel: Top Lightweight Expandable Flight Bags"
-description: "Choosing the best backpack for carry-on travel can make your trip easier and more comfortable. A good carry-on backpack fits airline rules and holds all essenti"
+title: 'Best Backpack for Carry on Travel: Top Lightweight Expandable Flight Bags'
+description: Choosing the best backpack for carry-on travel can make your trip easier
+  and more comfortable. A good carry-on backpack fits airline rules and holds all
+  essenti
 pubDate: 2026-08-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-carry-on-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-carry-on-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best backpack for carry-on travel can make your trip easier and more comfortable. A good carry-on backpack fits airline rules and holds all essentials securely.**

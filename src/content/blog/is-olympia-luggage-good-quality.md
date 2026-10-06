@@ -1,10 +1,14 @@
 ---
-title: "Is Olympia Luggage Good Quality: Ultimate Review & Buying Guide"
-description: "Are you thinking about buying Olympia luggage but wondering if it’s really good quality? Choosing the right suitcase can make all the difference in your travel "
+title: 'Is Olympia Luggage Good Quality: Ultimate Review & Buying Guide'
+description: 'Are you thinking about buying Olympia luggage but wondering if it’s
+  really good quality? Choosing the right suitcase can make all the difference in
+  your travel '
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-olympia-luggage-good-quality&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-olympia-luggage-good-quality&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you thinking about buying Olympia luggage but wondering if it’s really good quality? Choosing the right suitcase can make all the difference in your travel experience.**

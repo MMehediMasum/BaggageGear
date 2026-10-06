@@ -1,10 +1,14 @@
 ---
-title: "How Much Can I Sell My Chanel Bag for: Maximize Your Profit Today"
-description: "Are you wondering how much you can sell your Chanel bag for? Whether it's a classic flap or a trendy Boy Bag, knowing the true value of your Chanel bag can feel"
+title: 'How Much Can I Sell My Chanel Bag for: Maximize Your Profit Today'
+description: Are you wondering how much you can sell your Chanel bag for? Whether
+  it's a classic flap or a trendy Boy Bag, knowing the true value of your Chanel bag
+  can feel
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-i-sell-my-chanel-bag-for&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gucci Chanel Hermes Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-i-sell-my-chanel-bag-for&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you wondering how much you can sell your Chanel bag for? Whether it's a classic flap or a trendy Boy Bag, knowing the true value of your Chanel bag can feel like unlocking a mystery.**

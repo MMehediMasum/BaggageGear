@@ -1,10 +1,14 @@
 ---
-title: "Who Makes Luggex Luggage: Discover the Brand Behind Quality Gear"
-description: "Are you curious about who makes Luggex luggage? If you're someone who loves to travel or simply wants reliable baggage for your adventures, knowing who stands b"
+title: 'Who Makes Luggex Luggage: Discover the Brand Behind Quality Gear'
+description: Are you curious about who makes Luggex luggage? If you're someone who
+  loves to travel or simply wants reliable baggage for your adventures, knowing who
+  stands b
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=who-makes-luggex-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=who-makes-luggex-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about who makes Luggex luggage? If you're someone who loves to travel or simply wants reliable baggage for your adventures, knowing who stands behind the brand is crucial.**

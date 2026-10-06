@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Canvas Painting in a Suitcase: Expert Tips Revealed"
-description: "You’ve worked hard on your canvas painting, and now it’s time to take it with you. But how do you pack it in a suitcase without damaging it? You don’t want to r"
+title: 'How to Pack a Canvas Painting in a Suitcase: Expert Tips Revealed'
+description: You’ve worked hard on your canvas painting, and now it’s time to take
+  it with you. But how do you pack it in a suitcase without damaging it? You don’t
+  want to r
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-canvas-painting-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-canvas-painting-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **You’ve worked hard on your canvas painting, and now it’s time to take it with you. But how do you pack it in a suitcase without damaging it?**

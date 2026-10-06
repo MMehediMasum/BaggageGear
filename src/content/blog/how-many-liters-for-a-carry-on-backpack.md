@@ -1,10 +1,14 @@
 ---
-title: "How Many Liters for a Carry on Backpack: Ultimate Packing Guide"
-description: "Choosing the right carry-on backpack can be a game-changer for your travels. You're probably wondering, \"How many liters should my carry-on backpack be?\" This i"
+title: 'How Many Liters for a Carry on Backpack: Ultimate Packing Guide'
+description: Choosing the right carry-on backpack can be a game-changer for your travels.
+  You're probably wondering, "How many liters should my carry-on backpack be?" This
+  i
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-liters-for-a-carry-on-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-many-liters-for-a-carry-on-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the right carry-on backpack can be a game-changer for your travels. You're probably wondering, "How many liters should my carry-on backpack be?"**

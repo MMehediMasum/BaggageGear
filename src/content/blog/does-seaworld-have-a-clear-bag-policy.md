@@ -1,10 +1,14 @@
 ---
-title: "Does Seaworld Have a Clear Bag Policy: Essential Rules Revealed"
-description: "Planning a trip to SeaWorld? You're probably excited to dive into the thrilling rides, captivating shows, and unforgettable marine life encounters. But before y"
+title: 'Does Seaworld Have a Clear Bag Policy: Essential Rules Revealed'
+description: Planning a trip to SeaWorld? You're probably excited to dive into the
+  thrilling rides, captivating shows, and unforgettable marine life encounters. But
+  before y
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-seaworld-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-seaworld-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip to SeaWorld? You're probably excited to dive into the thrilling rides, captivating shows, and unforgettable marine life encounters.**

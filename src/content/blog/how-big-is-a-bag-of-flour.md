@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Big is a Bag of Flour: Unveiling Size & Weight Facts"
 description: "Have you ever found yourself staring at a recipe, wondering exactly how big a bag of flour you need? It’s a common dilemma, especially when you're eager to bake"
 pubDate: 2026-01-12

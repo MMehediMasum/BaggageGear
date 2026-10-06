@@ -1,10 +1,14 @@
 ---
-title: "Best Expandable Backpack for Travel: Ultimate Carry-On Bags for Adventure"
-description: "Choosing the best expandable backpack for travel makes packing easier and more flexible. These backpacks adjust in size to fit your needs, perfect for trips of "
+title: 'Best Expandable Backpack for Travel: Ultimate Carry-On Bags for Adventure'
+description: 'Choosing the best expandable backpack for travel makes packing easier
+  and more flexible. These backpacks adjust in size to fit your needs, perfect for
+  trips of '
 pubDate: 2026-06-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-expandable-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-expandable-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best expandable backpack for travel makes packing easier and more flexible. These backpacks adjust in size to fit your needs, perfect for trips of any length.**

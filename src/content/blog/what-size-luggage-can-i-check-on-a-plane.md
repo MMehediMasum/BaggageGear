@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage Can I Check on a Plane: Ultimate Guide"
-description: "Planning your trip and wondering, “What size luggage can I check on a plane?” You’re not alone. Choosing the right suitcase can save you from surprise fees and "
+title: 'What Size Luggage Can I Check on a Plane: Ultimate Guide'
+description: 'Planning your trip and wondering, “What size luggage can I check on
+  a plane?” You’re not alone. Choosing the right suitcase can save you from surprise
+  fees and '
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-can-i-check-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-can-i-check-on-a-plane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your trip and wondering, “What size luggage can I check on a plane?” You’re not alone. Choosing the right suitcase can save you from surprise fees and travel headaches.**

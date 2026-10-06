@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bag in Basketball: Unveiling Its True Meaning"
 description: "Ever found yourself watching a basketball game and hearing someone mention a \"bag\" and wondered what it actually means? You're not alone. The world of basketbal"
 pubDate: 2025-12-23

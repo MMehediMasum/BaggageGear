@@ -1,10 +1,14 @@
 ---
-title: "How to Keep Phone Charged on Backpacking: Essential Power Tips"
-description: "Imagine you're in the heart of the wilderness, surrounded by breathtaking views and the serenity of nature. You're capturing these moments with your phone, shar"
+title: 'How to Keep Phone Charged on Backpacking: Essential Power Tips'
+description: Imagine you're in the heart of the wilderness, surrounded by breathtaking
+  views and the serenity of nature. You're capturing these moments with your phone,
+  shar
 pubDate: 2025-10-20
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-keep-phoen-chared-on-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-keep-phoen-chared-on-backpacking&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine you're in the heart of the wilderness, surrounded by breathtaking views and the serenity of nature. You're capturing these moments with your phone, sharing them with loved ones, and using it to navigate your path.**

@@ -1,10 +1,14 @@
 ---
-title: "What is the Linear Dimension of Luggage: Ultimate Size Guide Explained"
-description: "Have you ever found yourself puzzled at the airport, trying to figure out if your luggage meets airline requirements? You're not alone. Understanding the linear"
+title: 'What is the Linear Dimension of Luggage: Ultimate Size Guide Explained'
+description: Have you ever found yourself puzzled at the airport, trying to figure
+  out if your luggage meets airline requirements? You're not alone. Understanding
+  the linear
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-linear-dimension-of-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-linear-dimension-of-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself puzzled at the airport, trying to figure out if your luggage meets airline requirements? You're not alone.**

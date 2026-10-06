@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Soft Sided Luggage: Top Picks for Every Traveler"
-description: "Choosing the best lightweight soft sided luggage makes travel easier and less tiring. Soft sided bags offer flexibility, durability, and easy storage. Travelers"
+title: 'Best Lightweight Soft Sided Luggage: Top Picks for Every Traveler'
+description: Choosing the best lightweight soft sided luggage makes travel easier
+  and less tiring. Soft sided bags offer flexibility, durability, and easy storage.
+  Travelers
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-soft-sided-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-soft-sided-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight soft sided luggage makes travel easier and less tiring. Soft sided bags offer flexibility, durability, and easy storage.**

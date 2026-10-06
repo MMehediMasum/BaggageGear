@@ -1,10 +1,14 @@
 ---
-title: "Do You Get a Carry on With Allegiant: Ultimate Packing Guide 2025"
-description: "Are you planning a trip with Allegiant and wondering if you can bring a carry-on? Navigating airline policies can be confusing, especially when you're trying to"
+title: 'Do You Get a Carry on With Allegiant: Ultimate Packing Guide 2025'
+description: Are you planning a trip with Allegiant and wondering if you can bring
+  a carry-on? Navigating airline policies can be confusing, especially when you're
+  trying to
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Allegiant and wondering if you can bring a carry-on? Navigating airline policies can be confusing, especially when you're trying to pack efficiently and avoid extra fees.**

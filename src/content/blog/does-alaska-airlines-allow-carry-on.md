@@ -1,10 +1,14 @@
 ---
-title: "Does Alaska Airlines Allow Carry On: Ultimate Guide for Travelers"
-description: "Planning a trip and wondering about Alaska Airlines' carry-on policy? You're not alone. Navigating airline baggage rules can be a headache, but understanding th"
+title: 'Does Alaska Airlines Allow Carry On: Ultimate Guide for Travelers'
+description: Planning a trip and wondering about Alaska Airlines' carry-on policy?
+  You're not alone. Navigating airline baggage rules can be a headache, but understanding
+  th
 pubDate: 2026-01-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-alaska-airlines-allow-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-alaska-airlines-allow-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip and wondering about Alaska Airlines' carry-on policy? You're not alone.**

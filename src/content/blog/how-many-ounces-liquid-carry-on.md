@@ -1,10 +1,14 @@
 ---
-title: "How Many Ounces Liquid Carry On: Ultimate TSA Guide 2025"
-description: "Have you ever found yourself standing at airport security, hesitating as you reach for your carry-on bag, unsure about the liquid limits? You're not alone. Navi"
+title: 'How Many Ounces Liquid Carry On: Ultimate TSA Guide 2025'
+description: Have you ever found yourself standing at airport security, hesitating
+  as you reach for your carry-on bag, unsure about the liquid limits? You're not alone.
+  Navi
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-ounces-liquid-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-ounces-liquid-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever found yourself standing at airport security, hesitating as you reach for your carry-on bag, unsure about the liquid limits? You're not alone.**

@@ -1,10 +1,15 @@
 ---
-title: "Best Carry on Bag for a Woman With Wheels: Stylish, Lightweight & Durable Choices"
-description: "Choosing the best carry-on bag with wheels can make travel easier and more comfortable for women. A good rolling bag offers convenience, style, and enough space"
+title: 'Best Carry on Bag for a Woman With Wheels: Stylish, Lightweight & Durable
+  Choices'
+description: Choosing the best carry-on bag with wheels can make travel easier and
+  more comfortable for women. A good rolling bag offers convenience, style, and enough
+  space
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-a-woman-with-wheels&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-a-woman-with-wheels&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on bag with wheels can make travel easier and more comfortable for women. A good rolling bag offers convenience, style, and enough space for essentials.**

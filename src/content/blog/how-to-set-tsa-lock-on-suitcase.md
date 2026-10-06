@@ -1,10 +1,14 @@
 ---
-title: "How to Set TSA Lock on Suitcase: Easy Steps for Secure Travel"
-description: "Imagine this: You're at the airport, ready to embark on your next adventure. You've packed your bags, checked your itinerary, and then it hits you—did you set t"
+title: 'How to Set TSA Lock on Suitcase: Easy Steps for Secure Travel'
+description: 'Imagine this: You''re at the airport, ready to embark on your next adventure.
+  You''ve packed your bags, checked your itinerary, and then it hits you—did you set
+  t'
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-tsa-lock-on-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-tsa-lock-on-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You're at the airport, ready to embark on your next adventure. You've packed your bags, checked your itinerary, and then it hits you—did you set the TSA lock on your suitcase?**

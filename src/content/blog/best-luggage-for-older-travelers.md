@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Older Travelers: Top Durable and Lightweight Options"
-description: "Choosing the best luggage for older travelers makes trips easier and more comfortable. Lightweight, sturdy, and easy-to-handle bags help reduce strain and stres"
+title: 'Best Luggage for Older Travelers: Top Durable and Lightweight Options'
+description: Choosing the best luggage for older travelers makes trips easier and
+  more comfortable. Lightweight, sturdy, and easy-to-handle bags help reduce strain
+  and stres
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-older-travelers&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-older-travelers&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for older travelers makes trips easier and more comfortable. Lightweight, sturdy, and easy-to-handle bags help reduce strain and stress.**

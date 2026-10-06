@@ -1,10 +1,14 @@
 ---
-title: "What Do You Need in a Bug Out Bag: Essential Survival Gear Guide"
-description: "Imagine finding yourself in an unexpected emergency situation. The world around you is chaotic, and you need to act fast to ensure your safety and that of your "
+title: 'What Do You Need in a Bug Out Bag: Essential Survival Gear Guide'
+description: 'Imagine finding yourself in an unexpected emergency situation. The world
+  around you is chaotic, and you need to act fast to ensure your safety and that of
+  your '
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-do-you-need-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-do-you-need-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine finding yourself in an unexpected emergency situation. The world around you is chaotic, and you need to act fast to ensure your safety and that of your loved ones.**

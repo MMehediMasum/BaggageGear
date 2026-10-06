@@ -1,10 +1,13 @@
 ---
-title: "Where to Buy Used Luggage: Top Spots for Budget Travelers"
-description: "Are you on the hunt for quality luggage without breaking the bank? Finding the perfect suitcase or travel bag doesn't always mean buying brand new. Used luggage"
+title: 'Where to Buy Used Luggage: Top Spots for Budget Travelers'
+description: Are you on the hunt for quality luggage without breaking the bank? Finding
+  the perfect suitcase or travel bag doesn't always mean buying brand new. Used luggage
 pubDate: 2026-02-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-used-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-used-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for quality luggage without breaking the bank? Finding the perfect suitcase or travel bag doesn't always mean buying brand new.**

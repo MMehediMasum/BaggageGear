@@ -1,10 +1,14 @@
 ---
-title: "How to Unlock Samsonite Luggage Forgot Code: Easy Step-by-Step Guide"
-description: "Locked out of your Samsonite luggage because you forgot the code? You're not alone. This common travel hiccup can turn your smooth journey into a stressful expe"
+title: 'How to Unlock Samsonite Luggage Forgot Code: Easy Step-by-Step Guide'
+description: Locked out of your Samsonite luggage because you forgot the code? You're
+  not alone. This common travel hiccup can turn your smooth journey into a stressful
+  expe
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-unlock-samsonite-luggage-forgot-code&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unlocking Samsonite Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-unlock-samsonite-luggage-forgot-code&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Locked out of your Samsonite luggage because you forgot the code? You're not alone.**

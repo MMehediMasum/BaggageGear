@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Should Corn Hole Bags Weigh: Expert Guide to Perfect Play"
 description: "When you’re diving into the fun and competitive world of cornhole, one question stands out: how much should cornhole bags weigh? You may not think much about it"
 pubDate: 2025-11-19

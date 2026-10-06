@@ -1,10 +1,14 @@
 ---
-title: "best lightweight carry on luggage for europe - Complete Guide"
-description: "Table of Contents Introduction to the topic What is the topic? Why the topic Matters Key Features and Benefits Feature 1: Performance Feature 2: Ease of Use ow "
+title: best lightweight carry on luggage for europe - Complete Guide
+description: 'Table of Contents Introduction to the topic What is the topic? Why the
+  topic Matters Key Features and Benefits Feature 1: Performance Feature 2: Ease of
+  Use ow '
 pubDate: 2026-08-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage-for-europe-complete-guide&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage-for-europe-complete-guide&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 ## Table of Contents

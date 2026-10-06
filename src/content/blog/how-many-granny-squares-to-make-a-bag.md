@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Granny Squares to Make a Bag: Ultimate Guide for Perfect Size"
 description: "Are you ready to dive into the colorful world of crochet and create something uniquely yours? Making a bag from granny squares is not only a fun project but als"
 pubDate: 2026-03-08

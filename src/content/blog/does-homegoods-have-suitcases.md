@@ -1,10 +1,14 @@
 ---
-title: "Does Homegoods Have Suitcases: Discover Affordable Travel Gear Today"
-description: "You've got a trip planned, and you're excited to hit the road or catch that flight. But, there's just one thing left on your to-do list: finding the perfect sui"
+title: 'Does Homegoods Have Suitcases: Discover Affordable Travel Gear Today'
+description: 'You''ve got a trip planned, and you''re excited to hit the road or catch
+  that flight. But, there''s just one thing left on your to-do list: finding the perfect
+  sui'
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-homegoods-have-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-homegoods-have-suitcases&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **You've got a trip planned, and you're excited to hit the road or catch that flight. But, there's just one thing left on your to-do list: finding the perfect suitcase.**

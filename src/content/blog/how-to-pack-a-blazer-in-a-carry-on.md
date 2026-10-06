@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Blazer in a Carry On: Expert Tips for Wrinkle-Free Travel"
-description: "Traveling with a blazer can be a bit of a puzzle. You want it to look sharp when you arrive, but fitting it into your carry-on without wrinkling can seem imposs"
+title: 'How to Pack a Blazer in a Carry On: Expert Tips for Wrinkle-Free Travel'
+description: Traveling with a blazer can be a bit of a puzzle. You want it to look
+  sharp when you arrive, but fitting it into your carry-on without wrinkling can seem
+  imposs
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-blazer-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-blazer-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling with a blazer can be a bit of a puzzle. You want it to look sharp when you arrive, but fitting it into your carry-on without wrinkling can seem impossible.**

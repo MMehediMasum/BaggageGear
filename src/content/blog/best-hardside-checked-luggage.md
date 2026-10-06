@@ -1,10 +1,14 @@
 ---
-title: "Best Hardside Checked Luggage: Top Durable Picks for Smooth Travels"
-description: "Choosing the best hardside checked luggage makes travel easier and safer. Durable cases protect belongings and offer smooth mobility on any trip. Hardside check"
+title: 'Best Hardside Checked Luggage: Top Durable Picks for Smooth Travels'
+description: Choosing the best hardside checked luggage makes travel easier and safer.
+  Durable cases protect belongings and offer smooth mobility on any trip. Hardside
+  check
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hardside-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-hardside-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best hardside checked luggage makes travel easier and safer. Durable cases protect belongings and offer smooth mobility on any trip.**

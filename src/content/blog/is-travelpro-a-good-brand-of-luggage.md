@@ -1,10 +1,14 @@
 ---
-title: "Is Travelpro a Good Brand of Luggage: Expert Review & Insights"
-description: "When planning your next trip, choosing the right luggage can make all the difference. You want something reliable, durable, and stylish. Enter Travelpro, a bran"
+title: 'Is Travelpro a Good Brand of Luggage: Expert Review & Insights'
+description: When planning your next trip, choosing the right luggage can make all
+  the difference. You want something reliable, durable, and stylish. Enter Travelpro,
+  a bran
 pubDate: 2025-09-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-travelpro-a-good-brand-of-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-travelpro-a-good-brand-of-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When planning your next trip, choosing the right luggage can make all the difference. You want something reliable, durable, and stylish.**

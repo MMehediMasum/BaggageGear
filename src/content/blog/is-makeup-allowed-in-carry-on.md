@@ -1,10 +1,14 @@
 ---
-title: "Is Makeup Allowed in Carry on? Ultimate TSA Rules Guide"
-description: "Ever stood at the airport security line, clutching your makeup bag, and wondered, \"Is makeup allowed in carry-on luggage?\" You're not alone. Navigating the rule"
+title: Is Makeup Allowed in Carry on? Ultimate TSA Rules Guide
+description: Ever stood at the airport security line, clutching your makeup bag, and
+  wondered, "Is makeup allowed in carry-on luggage?" You're not alone. Navigating
+  the rule
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-makeup-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-makeup-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood at the airport security line, clutching your makeup bag, and wondered, "Is makeup allowed in carry-on luggage?" You're not alone.**

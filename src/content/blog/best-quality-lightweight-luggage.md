@@ -1,10 +1,14 @@
 ---
-title: "Best Quality Lightweight Luggage: Top Picks for Effortless Travel"
-description: "Finding the best quality lightweight luggage makes travel easier and less tiring. Durable, light suitcases help you move quickly and carry more without stress. "
+title: 'Best Quality Lightweight Luggage: Top Picks for Effortless Travel'
+description: 'Finding the best quality lightweight luggage makes travel easier and
+  less tiring. Durable, light suitcases help you move quickly and carry more without
+  stress. '
 pubDate: 2026-07-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-quality-lightweight-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-quality-lightweight-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best quality lightweight luggage makes travel easier and less tiring. Durable, light suitcases help you move quickly and carry more without stress.**

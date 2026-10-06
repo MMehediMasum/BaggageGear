@@ -1,10 +1,14 @@
 ---
-title: "How to Design a Backpack: Ultimate Guide to Stylish & Functional Gear"
-description: "Are you tired of hunting for the perfect backpack that fits your style and needs? Imagine the satisfaction of designing your own, tailored just for you. Craftin"
+title: 'How to Design a Backpack: Ultimate Guide to Stylish & Functional Gear'
+description: Are you tired of hunting for the perfect backpack that fits your style
+  and needs? Imagine the satisfaction of designing your own, tailored just for you.
+  Craftin
 pubDate: 2025-09-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-design-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-design-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of hunting for the perfect backpack that fits your style and needs? Imagine the satisfaction of designing your own, tailored just for you.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Arm Hellbomb Backpack: Ultimate Step-by-Step Guide"
 description: "Are you curious about mastering the art of arming a Hellbomb Backpack? Whether you're diving into a game, exploring a sci-fi universe, or simply fascinated by t"
 pubDate: 2025-12-23

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Punch a Boxing Bag: Master Power and Precision Fast"
 description: "Are you ready to unleash your inner fighter and improve your fitness game? Learning how to punch a boxing bag is not only an excellent way to boost your physica"
 pubDate: 2025-09-09

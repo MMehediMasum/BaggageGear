@@ -1,10 +1,14 @@
 ---
-title: "How Do You Measure Luggage: Essential Tips for Perfect Packing"
-description: "Imagine you're standing in front of your closet, suitcase in hand, ready to pack for your next adventure. Excitement fills the air, but there's one little detai"
+title: 'How Do You Measure Luggage: Essential Tips for Perfect Packing'
+description: Imagine you're standing in front of your closet, suitcase in hand, ready
+  to pack for your next adventure. Excitement fills the air, but there's one little
+  detai
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-do-you-measure-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-do-you-measure-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine you're standing in front of your closet, suitcase in hand, ready to pack for your next adventure. Excitement fills the air, but there's one little detail that could derail your plans: the size of your luggage.**

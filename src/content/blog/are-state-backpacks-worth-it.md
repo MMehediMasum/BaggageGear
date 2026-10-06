@@ -1,10 +1,14 @@
 ---
-title: "Are State Backpacks Worth It: Ultimate Guide to Smart Buying"
-description: "Are you on the hunt for a backpack that perfectly blends style, durability, and functionality? You might have come across State Backpacks in your search. With c"
+title: 'Are State Backpacks Worth It: Ultimate Guide to Smart Buying'
+description: Are you on the hunt for a backpack that perfectly blends style, durability,
+  and functionality? You might have come across State Backpacks in your search. With
+  c
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-state-backpacks-worth-it&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-state-backpacks-worth-it&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a backpack that perfectly blends style, durability, and functionality? You might have come across State Backpacks in your search.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Cologne on a Carry On: Essential Travel Tips"
-description: "Ever packed your bags for a trip and suddenly paused, wondering if you can bring your favorite cologne in your carry-on? You're not alone. Many travelers like y"
+title: 'Can I Bring Cologne on a Carry On: Essential Travel Tips'
+description: Ever packed your bags for a trip and suddenly paused, wondering if you
+  can bring your favorite cologne in your carry-on? You're not alone. Many travelers
+  like y
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-cologne-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-cologne-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever packed your bags for a trip and suddenly paused, wondering if you can bring your favorite cologne in your carry-on? You're not alone.**

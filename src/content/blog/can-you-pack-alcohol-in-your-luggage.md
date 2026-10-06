@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Alcohol in Your Luggage: Essential Travel Rules Revealed"
-description: "Navigating the rules of travel can be tricky, especially when it comes to packing items like alcohol in your luggage. You might be planning a trip abroad or sim"
+title: 'Can You Pack Alcohol in Your Luggage: Essential Travel Rules Revealed'
+description: Navigating the rules of travel can be tricky, especially when it comes
+  to packing items like alcohol in your luggage. You might be planning a trip abroad
+  or sim
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-alcohol-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-alcohol-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating the rules of travel can be tricky, especially when it comes to packing items like alcohol in your luggage. You might be planning a trip abroad or simply bringing back a special bottle from a local winery.**

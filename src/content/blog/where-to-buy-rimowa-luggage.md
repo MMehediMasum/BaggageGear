@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Rimowa Luggage: Top Trusted Stores Revealed"
-description: "Are you dreaming of traveling in style and sophistication? If so, Rimowa luggage might just be what you're looking for. Known for its durability, sleek design, "
+title: 'Where to Buy Rimowa Luggage: Top Trusted Stores Revealed'
+description: 'Are you dreaming of traveling in style and sophistication? If so, Rimowa
+  luggage might just be what you''re looking for. Known for its durability, sleek
+  design, '
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-rimowa-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-rimowa-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you dreaming of traveling in style and sophistication? If so, Rimowa luggage might just be what you're looking for.**

@@ -1,10 +1,14 @@
 ---
-title: "Does Snowboard Count As Checked Bag: Essential Travel Tips"
-description: "Have you ever packed for a winter getaway, only to wonder if your snowboard counts as a checked bag? You're not alone. Many snowboarding enthusiasts face this d"
+title: 'Does Snowboard Count As Checked Bag: Essential Travel Tips'
+description: Have you ever packed for a winter getaway, only to wonder if your snowboard
+  counts as a checked bag? You're not alone. Many snowboarding enthusiasts face this
+  d
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-snowboard-count-as-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-snowboard-count-as-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a winter getaway, only to wonder if your snowboard counts as a checked bag? You're not alone.**

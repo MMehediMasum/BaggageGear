@@ -1,10 +1,14 @@
 ---
-title: "Best Laptop Bag for Travel: Top Durable Backpacks with USB Charging Ports"
-description: "Choosing the best laptop bag for travel keeps your device safe and your hands free. A good bag fits your laptop, holds essentials, and is easy to carry. Traveli"
+title: 'Best Laptop Bag for Travel: Top Durable Backpacks with USB Charging Ports'
+description: Choosing the best laptop bag for travel keeps your device safe and your
+  hands free. A good bag fits your laptop, holds essentials, and is easy to carry.
+  Traveli
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Work & Business Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-laptop-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptop Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-laptop-bag-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best laptop bag for travel keeps your device safe and your hands free. A good bag fits your laptop, holds essentials, and is easy to carry.**

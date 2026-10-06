@@ -1,10 +1,14 @@
 ---
-title: "What to Put in a Range Bag: Essential Gear for Every Shooter"
-description: "If you’re heading to the shooting range, having the right gear in your range bag can make all the difference. But what exactly should you put in it? Packing you"
+title: 'What to Put in a Range Bag: Essential Gear for Every Shooter'
+description: If you’re heading to the shooting range, having the right gear in your
+  range bag can make all the difference. But what exactly should you put in it? Packing
+  you
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-a-range-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-a-range-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **If you’re heading to the shooting range, having the right gear in your range bag can make all the difference. But what exactly should you put in it?**

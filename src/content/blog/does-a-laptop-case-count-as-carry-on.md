@@ -1,10 +1,14 @@
 ---
-title: "Does a Laptop Case Count As Carry On? Essential Travel Tips!"
-description: "Are you planning a trip and wondering if your laptop case can be counted as a carry-on? You're not alone. Many travelers, like you, are keen to make the most of"
+title: Does a Laptop Case Count As Carry On? Essential Travel Tips!
+description: Are you planning a trip and wondering if your laptop case can be counted
+  as a carry-on? You're not alone. Many travelers, like you, are keen to make the
+  most of
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-laptop-case-count-as-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-a-laptop-case-count-as-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if your laptop case can be counted as a carry-on? You're not alone.**

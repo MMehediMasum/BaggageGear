@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Start Stihl Backpack Blower: Easy Steps for Quick Power-Up"
 description: "Are you ready to tackle those stubborn leaves and debris in your yard with ease? If you've got a Stihl backpack blower, you're already on the right track for po"
 pubDate: 2025-12-23

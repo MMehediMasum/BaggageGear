@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Philmont: Top Picks for Comfort and Durability"
-description: "Choosing the best backpack for Philmont is key for a successful hiking trip. A good backpack holds all your gear comfortably and keeps you organized. Hiking Phi"
+title: 'Best Backpack for Philmont: Top Picks for Comfort and Durability'
+description: Choosing the best backpack for Philmont is key for a successful hiking
+  trip. A good backpack holds all your gear comfortably and keeps you organized. Hiking
+  Phi
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-philmont&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-philmont&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for Philmont is key for a successful hiking trip. A good backpack holds all your gear comfortably and keeps you organized.**

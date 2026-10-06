@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Candle in a Carry On: Travel Rules Explained"
-description: "Have you ever packed your bags for a trip and wondered if you could bring a candle in your carry-on? You’re not alone. Many travelers find themselves puzzled by"
+title: 'Can You Bring a Candle in a Carry On: Travel Rules Explained'
+description: Have you ever packed your bags for a trip and wondered if you could bring
+  a candle in your carry-on? You’re not alone. Many travelers find themselves puzzled
+  by
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-candle-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-candle-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed your bags for a trip and wondered if you could bring a candle in your carry-on? You’re not alone.**

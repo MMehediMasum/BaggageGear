@@ -1,10 +1,14 @@
 ---
-title: "How to Authenticate a Prada Bag: Expert Tips to Spot Fakes Fast"
-description: "You’ve finally found it—the Prada bag of your dreams. But before you make that purchase, a question nags at you: is it genuine? In a world flooded with counterf"
+title: 'How to Authenticate a Prada Bag: Expert Tips to Spot Fakes Fast'
+description: 'You’ve finally found it—the Prada bag of your dreams. But before you
+  make that purchase, a question nags at you: is it genuine? In a world flooded with
+  counterf'
 pubDate: 2025-09-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-authenticate-a-prada-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Hermes And Chanel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-authenticate-a-prada-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve finally found it—the Prada bag of your dreams. But before you make that purchase, a question nags at you: is it genuine?**

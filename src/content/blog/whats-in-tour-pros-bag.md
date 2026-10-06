@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Tour Pros Bag: Secrets to Winning Golf Gear Revealed"
 description: "Ever wondered what the secret sauce is that makes professional golfers play like champs? The answer might lie in their bags. Imagine having the ability to peek "
 pubDate: 2026-02-12

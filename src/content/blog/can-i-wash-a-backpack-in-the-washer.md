@@ -1,10 +1,14 @@
 ---
-title: "Can I Wash a Backpack in the Washer: Essential Tips & Tricks"
-description: "Ever wondered if you can toss your backpack into the washing machine? If you’ve ever dealt with a grimy, stained, or smelly backpack, you’re not alone. It’s a c"
+title: 'Can I Wash a Backpack in the Washer: Essential Tips & Tricks'
+description: Ever wondered if you can toss your backpack into the washing machine?
+  If you’ve ever dealt with a grimy, stained, or smelly backpack, you’re not alone.
+  It’s a c
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-wash-a-backpack-in-the-washer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-i-wash-a-backpack-in-the-washer&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever wondered if you can toss your backpack into the washing machine? If you’ve ever dealt with a grimy, stained, or smelly backpack, you’re not alone.**

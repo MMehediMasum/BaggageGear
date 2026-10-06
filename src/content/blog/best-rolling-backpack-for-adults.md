@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Backpack for Adults: Top Durable Wheeled Travel Bags"
-description: "Finding the best rolling backpack for adults can make travel and daily commuting easier. These backpacks combine convenience, style, and functionality in one. R"
+title: 'Best Rolling Backpack for Adults: Top Durable Wheeled Travel Bags'
+description: Finding the best rolling backpack for adults can make travel and daily
+  commuting easier. These backpacks combine convenience, style, and functionality
+  in one. R
 pubDate: 2026-06-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-adults&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Rolling Backpacks And Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-adults&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best rolling backpack for adults can make travel and daily commuting easier. These backpacks combine convenience, style, and functionality in one.**

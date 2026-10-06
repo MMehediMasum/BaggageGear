@@ -1,10 +1,14 @@
 ---
-title: "How to Set Code on Away Luggage: Easy Steps for Secure Travel"
-description: "Are you tired of fumbling with your luggage lock, trying to remember the combination? It’s frustrating, isn’t it? Imagine the peace of mind knowing your belongi"
+title: 'How to Set Code on Away Luggage: Easy Steps for Secure Travel'
+description: Are you tired of fumbling with your luggage lock, trying to remember
+  the combination? It’s frustrating, isn’t it? Imagine the peace of mind knowing your
+  belongi
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-code-on-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-code-on-away-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of fumbling with your luggage lock, trying to remember the combination? It’s frustrating, isn’t it?**

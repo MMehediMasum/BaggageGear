@@ -1,10 +1,13 @@
 ---
-title: "Best Travel Backpack for Clothes: Top Durable, Stylish Carry-On Picks"
-description: "Choosing the best travel backpack for clothes makes packing easier and keeps your items organized. A good backpack fits your clothes and travel needs perfectly."
+title: 'Best Travel Backpack for Clothes: Top Durable, Stylish Carry-On Picks'
+description: Choosing the best travel backpack for clothes makes packing easier and
+  keeps your items organized. A good backpack fits your clothes and travel needs perfectly.
 pubDate: 2026-07-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-clothes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-clothes&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best travel backpack for clothes makes packing easier and keeps your items organized. A good backpack fits your clothes and travel needs perfectly.**

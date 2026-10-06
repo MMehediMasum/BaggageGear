@@ -1,10 +1,14 @@
 ---
-title: "Does Home Goods Sell Luggage: Discover Top Travel Gear Deals"
-description: "Curiosity piqued over whether Home Goods is your next go-to for luggage? You're in the right place to find out. Imagine strolling through the aisles, each offer"
+title: 'Does Home Goods Sell Luggage: Discover Top Travel Gear Deals'
+description: Curiosity piqued over whether Home Goods is your next go-to for luggage?
+  You're in the right place to find out. Imagine strolling through the aisles, each
+  offer
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-home-goods-sell-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-home-goods-sell-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Curiosity piqued over whether Home Goods is your next go-to for luggage? You're in the right place to find out.**

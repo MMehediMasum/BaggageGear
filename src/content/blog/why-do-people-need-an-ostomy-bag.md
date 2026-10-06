@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Do People Need an Ostomy Bag: Essential Insights Explained"
 description: "Imagine navigating your daily life with ease and confidence, even after a significant medical procedure. If you're reading this, chances are you're curious abou"
 pubDate: 2026-04-14

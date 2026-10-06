@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Safe for Cats: Essential Safety Tips Revealed"
 description: "Ever found yourself puzzled by the array of pet care products lining store shelves? You're not alone. When it comes to your beloved feline friend, ensuring thei"
 pubDate: 2026-03-03

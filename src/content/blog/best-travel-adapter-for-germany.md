@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Germany: Power Up Anywhere with USB-C Convenience"
-description: "Traveling to Germany requires the right travel adapter to keep your devices charged. Choosing the best adapter saves time and avoids power issues. Germany uses "
+title: 'Best Travel Adapter for Germany: Power Up Anywhere with USB-C Convenience'
+description: 'Traveling to Germany requires the right travel adapter to keep your
+  devices charged. Choosing the best adapter saves time and avoids power issues. Germany
+  uses '
 pubDate: 2026-05-16
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-germany&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-germany&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Germany requires the right travel adapter to keep your devices charged. Choosing the best adapter saves time and avoids power issues.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Bug Repellent for Backpacking: Top Picks for Ultimate Protection"
 description: "Finding the best bug repellent for backpacking is key to a comfortable outdoor trip. Bugs can ruin your adventure and cause itchy bites. Backpacking often means"
 pubDate: 2026-06-19

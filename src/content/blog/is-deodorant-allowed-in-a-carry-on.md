@@ -1,10 +1,14 @@
 ---
-title: "Is Deodorant Allowed in a Carry On: Essential Travel Rules Explained"
-description: "Are you packing your carry-on and wondering if you can bring deodorant with you? It’s a common question that can cause last-minute stress at airport security. Y"
+title: 'Is Deodorant Allowed in a Carry On: Essential Travel Rules Explained'
+description: Are you packing your carry-on and wondering if you can bring deodorant
+  with you? It’s a common question that can cause last-minute stress at airport security.
+  Y
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-deodorant-allowed-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-deodorant-allowed-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing your carry-on and wondering if you can bring deodorant with you? It’s a common question that can cause last-minute stress at airport security.**

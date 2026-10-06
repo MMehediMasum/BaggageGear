@@ -1,10 +1,14 @@
 ---
-title: "How to Sanitize Luggage from Bed Bugs: Easy Steps to Protect Your Travel"
-description: "You’ve just returned from a trip, but what if your luggage brought home an unwanted guest—bed bugs? These tiny pests can hide in your bags and quickly turn your"
+title: 'How to Sanitize Luggage from Bed Bugs: Easy Steps to Protect Your Travel'
+description: You’ve just returned from a trip, but what if your luggage brought home
+  an unwanted guest—bed bugs? These tiny pests can hide in your bags and quickly turn
+  your
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sanitize-luggage-from-bed-bugs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sanitize-luggage-from-bed-bugs&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’ve just returned from a trip, but what if your luggage brought home an unwanted guest—bed bugs? These tiny pests can hide in your bags and quickly turn your home into a nightmare.**

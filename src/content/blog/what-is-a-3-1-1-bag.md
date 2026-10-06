@@ -1,10 +1,14 @@
 ---
-title: "What is a 3 1 1 Bag: Ultimate Guide to TSA Travel Essentials"
-description: "Imagine breezing through airport security without a hitch. Sounds like a dream, right? The secret lies in understanding the 3-1-1 bag rule. This simple yet cruc"
+title: 'What is a 3 1 1 Bag: Ultimate Guide to TSA Travel Essentials'
+description: Imagine breezing through airport security without a hitch. Sounds like
+  a dream, right? The secret lies in understanding the 3-1-1 bag rule. This simple
+  yet cruc
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-3-1-1-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-3-1-1-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine breezing through airport security without a hitch. Sounds like a dream, right?**

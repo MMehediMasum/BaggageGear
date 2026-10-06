@@ -1,10 +1,14 @@
 ---
-title: "Best Inflatable Neck Pillow for Travel: Ultimate Comfort for Every Journey"
-description: "Finding the best inflatable neck pillow makes travel more comfortable and restful. A good pillow supports your neck and fits easily in your bag. Travel can be t"
+title: 'Best Inflatable Neck Pillow for Travel: Ultimate Comfort for Every Journey'
+description: Finding the best inflatable neck pillow makes travel more comfortable
+  and restful. A good pillow supports your neck and fits easily in your bag. Travel
+  can be t
 pubDate: 2026-05-23
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-inflatable-neck-pillow-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-inflatable-neck-pillow-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best inflatable neck pillow makes travel more comfortable and restful. A good pillow supports your neck and fits easily in your bag.**

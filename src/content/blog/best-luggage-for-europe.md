@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage for Europe: Top Lightweight, Expandable Sets with TSA Locks"
-description: "Choosing the best luggage for Europe can make your trip easier and more enjoyable. The right suitcase fits your travel style and meets airport rules. Traveling "
+title: 'Best Luggage for Europe: Top Lightweight, Expandable Sets with TSA Locks'
+description: 'Choosing the best luggage for Europe can make your trip easier and more
+  enjoyable. The right suitcase fits your travel style and meets airport rules. Traveling '
 pubDate: 2026-07-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for Europe can make your trip easier and more enjoyable. The right suitcase fits your travel style and meets airport rules.**

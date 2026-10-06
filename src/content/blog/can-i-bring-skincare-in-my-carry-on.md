@@ -1,10 +1,13 @@
 ---
-title: "Can I Bring Skincare in My Carry on: Ultimate Travel Guide 2025"
-description: "Are you planning a trip and wondering if you can bring your beloved skincare products in your carry-on? You're not alone. Many travelers face this dilemma, want"
+title: 'Can I Bring Skincare in My Carry on: Ultimate Travel Guide 2025'
+description: Are you planning a trip and wondering if you can bring your beloved skincare
+  products in your carry-on? You're not alone. Many travelers face this dilemma, want
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-skincare-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-skincare-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring your beloved skincare products in your carry-on? You're not alone.**

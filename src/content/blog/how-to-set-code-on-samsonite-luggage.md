@@ -1,10 +1,14 @@
 ---
-title: "How to Set Code on Samsonite Luggage: Easy Steps to Secure Your Bag"
-description: "Are you planning a trip and want to keep your belongings safe and secure? Setting a code on your Samsonite luggage is a simple yet essential step to ensure peac"
+title: 'How to Set Code on Samsonite Luggage: Easy Steps to Secure Your Bag'
+description: Are you planning a trip and want to keep your belongings safe and secure?
+  Setting a code on your Samsonite luggage is a simple yet essential step to ensure
+  peac
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-code-on-samsonite-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-code-on-samsonite-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and want to keep your belongings safe and secure? Setting a code on your Samsonite luggage is a simple yet essential step to ensure peace of mind while you travel.**

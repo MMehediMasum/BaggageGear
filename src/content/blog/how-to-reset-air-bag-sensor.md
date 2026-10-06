@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Reset Air Bag Sensor: Quick & Easy Step-by-Step Guide"
 description: "Are you facing issues with your airbag sensor? Perhaps the warning light on your dashboard is causing you concern. You’re not alone. Many car owners encounter t"
 pubDate: 2026-01-19

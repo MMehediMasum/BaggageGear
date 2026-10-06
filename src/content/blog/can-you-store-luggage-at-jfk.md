@@ -1,10 +1,13 @@
 ---
-title: "Can You Store Luggage at JFK: Ultimate Guide to Hassle-Free Travel"
-description: "Have you ever found yourself at JFK Airport with hours to spare and nowhere to stash your luggage? You’re not alone. Whether you’re on a long layover or explori"
+title: 'Can You Store Luggage at JFK: Ultimate Guide to Hassle-Free Travel'
+description: Have you ever found yourself at JFK Airport with hours to spare and nowhere
+  to stash your luggage? You’re not alone. Whether you’re on a long layover or explori
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-jfk&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-jfk&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself at JFK Airport with hours to spare and nowhere to stash your luggage? You’re not alone.**

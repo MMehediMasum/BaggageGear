@@ -1,10 +1,14 @@
 ---
-title: "Can You Pay the Flight Luggage Via Credit Card: Ultimate Guide"
-description: "Have you ever wondered if you can pay for your flight luggage using a credit card? You're not alone. Many travelers like you are constantly seeking ways to simp"
+title: 'Can You Pay the Flight Luggage Via Credit Card: Ultimate Guide'
+description: Have you ever wondered if you can pay for your flight luggage using a
+  credit card? You're not alone. Many travelers like you are constantly seeking ways
+  to simp
 pubDate: 2025-12-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pay-the-flight-luggage-via-credit-card&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pay-the-flight-luggage-via-credit-card&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever wondered if you can pay for your flight luggage using a credit card? You're not alone.**

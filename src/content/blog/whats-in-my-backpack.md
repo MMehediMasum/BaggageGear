@@ -1,10 +1,14 @@
 ---
-title: "What'S in My Backpack: Ultimate Essentials for Every Adventure"
-description: "Ever wondered what essentials you should carry in your backpack for the day? Whether you’re heading to work, school, or a quick weekend getaway, having the righ"
+title: 'What''S in My Backpack: Ultimate Essentials for Every Adventure'
+description: Ever wondered what essentials you should carry in your backpack for the
+  day? Whether you’re heading to work, school, or a quick weekend getaway, having
+  the righ
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=whats-in-my-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What To Pack In Bags
+heroImage: https://tse1.mm.bing.net/th?q=whats-in-my-backpack&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Ever wondered what essentials you should carry in your backpack for the day? Whether you’re heading to work, school, or a quick weekend getaway, having the right items can make all the difference.**

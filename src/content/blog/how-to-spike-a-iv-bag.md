@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Spike a Iv Bag: Essential Steps for Safe and Easy Setup"
 description: "Are you curious about the essential skill of spiking an IV bag? Maybe you're a healthcare professional eager to refresh your knowledge, or perhaps you're a stud"
 pubDate: 2026-01-12

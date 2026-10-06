@@ -1,10 +1,14 @@
 ---
-title: "Best Anti Theft Sling Bag for Travel: Top Secure Picks for Every Adventure"
-description: "Traveling requires a reliable bag that protects your belongings from theft. The best anti-theft sling bags offer security and convenience in one compact design."
+title: 'Best Anti Theft Sling Bag for Travel: Top Secure Picks for Every Adventure'
+description: Traveling requires a reliable bag that protects your belongings from
+  theft. The best anti-theft sling bags offer security and convenience in one compact
+  design.
 pubDate: 2026-06-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-anti-theft-sling-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Anti Theft Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-anti-theft-sling-bag-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Traveling requires a reliable bag that protects your belongings from theft. The best anti-theft sling bags offer security and convenience in one compact design.**

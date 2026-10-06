@@ -1,10 +1,14 @@
 ---
-title: "Best Size Luggage for 7 Day Trip: Top Picks for Easy Travel"
-description: "Choosing the best size luggage for a 7-day trip can save time and stress. The right suitcase fits your clothes and travel needs without extra bulk. Travelers of"
+title: 'Best Size Luggage for 7 Day Trip: Top Picks for Easy Travel'
+description: Choosing the best size luggage for a 7-day trip can save time and stress.
+  The right suitcase fits your clothes and travel needs without extra bulk. Travelers
+  of
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-luggage-for-7-day-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-size-luggage-for-7-day-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best size luggage for a 7-day trip can save time and stress. The right suitcase fits your clothes and travel needs without extra bulk.**

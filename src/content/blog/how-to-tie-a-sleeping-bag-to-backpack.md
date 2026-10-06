@@ -1,10 +1,14 @@
 ---
-title: "How to Tie a Sleeping Bag to Backpack: Easy & Secure Methods"
-description: "Are you ready to hit the trails but find yourself struggling with how to efficiently attach your sleeping bag to your backpack? You're not alone. Many adventure"
+title: 'How to Tie a Sleeping Bag to Backpack: Easy & Secure Methods'
+description: Are you ready to hit the trails but find yourself struggling with how
+  to efficiently attach your sleeping bag to your backpack? You're not alone. Many
+  adventure
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tie-a-sleeping-bag-to-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tie-a-sleeping-bag-to-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you ready to hit the trails but find yourself struggling with how to efficiently attach your sleeping bag to your backpack? You're not alone.**

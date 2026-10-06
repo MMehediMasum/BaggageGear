@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Wendy'S Have Biggie Bag: Ultimate Guide to This Menu Favorite"
 description: "Are you a fast food enthusiast on the hunt for a great deal? If you're wondering, \"Does Wendy's have the Biggie Bag?\" You're in the right place. Fast food lover"
 pubDate: 2025-11-12

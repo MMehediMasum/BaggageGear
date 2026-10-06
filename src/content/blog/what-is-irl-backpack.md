@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Irl Backpack: Ultimate Guide to Smart Travel Gear"
 description: "Imagine being able to explore the world and share your experiences live with an audience, all while keeping your hands free. This is exactly what an IRL (In Rea"
 pubDate: 2025-12-10

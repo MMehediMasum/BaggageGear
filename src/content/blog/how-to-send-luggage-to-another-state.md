@@ -1,10 +1,14 @@
 ---
-title: "How to Send Luggage to Another State: Easy Steps for Safe Shipping"
-description: "Are you planning a trip and dreading the hassle of carrying heavy luggage? Imagine if you could simply send your bags ahead to your destination and travel light"
+title: 'How to Send Luggage to Another State: Easy Steps for Safe Shipping'
+description: Are you planning a trip and dreading the hassle of carrying heavy luggage?
+  Imagine if you could simply send your bags ahead to your destination and travel
+  light
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-send-luggage-to-another-state&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-send-luggage-to-another-state&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and dreading the hassle of carrying heavy luggage? Imagine if you could simply send your bags ahead to your destination and travel light.**

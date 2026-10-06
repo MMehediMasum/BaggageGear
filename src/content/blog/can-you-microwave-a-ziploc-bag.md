@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Microwave a Ziploc Bag: Safe Tips & Expert Advice"
 description: "Are you eyeing that leftover pizza, wondering if popping it into a Ziploc bag and then the microwave is a good idea? You’re not alone. Many of us look for quick"
 pubDate: 2026-03-09

@@ -1,10 +1,14 @@
 ---
-title: "How Much to Ship a Bag to Amsterdam: Affordable Rates Revealed"
-description: "Are you planning a trip to Amsterdam and wondering how much it will cost to ship your bag there? You're not alone. Whether you're relocating, studying abroad, o"
+title: 'How Much to Ship a Bag to Amsterdam: Affordable Rates Revealed'
+description: Are you planning a trip to Amsterdam and wondering how much it will cost
+  to ship your bag there? You're not alone. Whether you're relocating, studying abroad,
+  o
 pubDate: 2026-04-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-ship-a-bag-to-amsterdam&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-ship-a-bag-to-amsterdam&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip to Amsterdam and wondering how much it will cost to ship your bag there? You're not alone.**

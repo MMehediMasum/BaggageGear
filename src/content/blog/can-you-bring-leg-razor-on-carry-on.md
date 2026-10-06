@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Leg Razor on Carry On: Essential Travel Tips"
-description: "Planning your next trip can be exciting, but packing can sometimes feel like a puzzle. One question that often pops up is: Can you bring your leg razor in your "
+title: 'Can You Bring Leg Razor on Carry On: Essential Travel Tips'
+description: 'Planning your next trip can be exciting, but packing can sometimes feel
+  like a puzzle. One question that often pops up is: Can you bring your leg razor
+  in your '
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-leg-razor-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-leg-razor-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning your next trip can be exciting, but packing can sometimes feel like a puzzle. One question that often pops up is: Can you bring your leg razor in your carry-on bag?**

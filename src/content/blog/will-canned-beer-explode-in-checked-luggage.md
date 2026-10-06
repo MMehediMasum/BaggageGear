@@ -1,10 +1,14 @@
 ---
-title: "Will Canned Beer Explode in Checked Luggage? Shocking Truths Revealed"
-description: "Picture this: you're packing for your much-anticipated vacation, and you can't resist bringing along a few cans of your favorite craft beer. But then, a questio"
+title: Will Canned Beer Explode in Checked Luggage? Shocking Truths Revealed
+description: 'Picture this: you''re packing for your much-anticipated vacation, and
+  you can''t resist bringing along a few cans of your favorite craft beer. But then,
+  a questio'
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-canned-beer-explode-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-canned-beer-explode-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're packing for your much-anticipated vacation, and you can't resist bringing along a few cans of your favorite craft beer. But then, a question pops into your mind: "Will canned beer explode in checked luggage?"**

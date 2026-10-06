@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Dehydrator for Backpacking Meals: Elevate Your Outdoor Culinary Experience"
 description: "Choosing the best dehydrator for backpacking meals saves space and keeps food fresh longer. It helps prepare lightweight, nutritious meals ideal for outdoor adv"
 pubDate: 2026-06-12

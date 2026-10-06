@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Sets for Couples: Top 7 Stylish and Durable Options"
-description: "Choosing the best luggage sets for couples makes travel easier and more enjoyable. Matching suitcases help keep belongings organized and stylish on the go. Trav"
+title: 'Best Luggage Sets for Couples: Top 7 Stylish and Durable Options'
+description: Choosing the best luggage sets for couples makes travel easier and more
+  enjoyable. Matching suitcases help keep belongings organized and stylish on the
+  go. Trav
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-sets-for-couples&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-sets-for-couples&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage sets for couples makes travel easier and more enjoyable. Matching suitcases help keep belongings organized and stylish on the go.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Foley Catheter Bag: Ultimate Guide for Patients & Caregivers"
 description: "Imagine you or a loved one needing a little extra help with something as basic as using the restroom. This is where a Foley catheter bag comes into play. It's n"
 pubDate: 2026-02-10

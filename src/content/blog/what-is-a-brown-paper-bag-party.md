@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Brown Paper Bag Party: Ultimate Guide to Fun & Savings"
 description: "Have you ever heard of a Brown Paper Bag Party and wondered what it’s all about? Picture this: a lively gathering where mystery, fun, and surprises unfold, all "
 pubDate: 2026-02-16

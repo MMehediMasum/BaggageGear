@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Size for International Travel: Top Lightweight Carry-Ons Reviewed"
-description: "Choosing the right luggage size for international travel can be challenging. Size matters to avoid extra fees and hassles. The ideal luggage balances space, wei"
+title: 'Best Luggage Size for International Travel: Top Lightweight Carry-Ons Reviewed'
+description: Choosing the right luggage size for international travel can be challenging.
+  Size matters to avoid extra fees and hassles. The ideal luggage balances space,
+  wei
 pubDate: 2025-10-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-size-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-size-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage size for international travel can be challenging. Size matters to avoid extra fees and hassles.**

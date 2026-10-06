@@ -1,10 +1,14 @@
 ---
-title: "How Much to Check a Bag on Delta Airlines: Essential Cost Guide"
-description: "Planning a trip can be exciting, but figuring out the cost of checking a bag on Delta Airlines might leave you puzzled. You want to avoid unexpected fees and en"
+title: 'How Much to Check a Bag on Delta Airlines: Essential Cost Guide'
+description: Planning a trip can be exciting, but figuring out the cost of checking
+  a bag on Delta Airlines might leave you puzzled. You want to avoid unexpected fees
+  and en
 pubDate: 2025-10-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-delta-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-delta-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, but figuring out the cost of checking a bag on Delta Airlines might leave you puzzled. You want to avoid unexpected fees and ensure your travel budget stays intact.**

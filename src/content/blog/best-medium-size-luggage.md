@@ -1,10 +1,14 @@
 ---
-title: "Best Medium Size Luggage: Top Picks for Smooth and Stylish Travel"
-description: "Finding the best medium size luggage can make travel easier and more comfortable. Choosing the right suitcase helps you pack smart and move smoothly through air"
+title: 'Best Medium Size Luggage: Top Picks for Smooth and Stylish Travel'
+description: Finding the best medium size luggage can make travel easier and more
+  comfortable. Choosing the right suitcase helps you pack smart and move smoothly
+  through air
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-medium-size-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-medium-size-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best medium size luggage can make travel easier and more comfortable. Choosing the right suitcase helps you pack smart and move smoothly through airports.**

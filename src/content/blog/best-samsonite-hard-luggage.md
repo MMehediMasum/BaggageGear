@@ -1,10 +1,14 @@
 ---
-title: "Best Samsonite Hard Luggage: Top Durable Options for Every Traveler"
-description: "Samsonite hard luggage offers strong, stylish options for travelers. These suitcases combine durability with smooth mobility. Choosing the right hard luggage ma"
+title: 'Best Samsonite Hard Luggage: Top Durable Options for Every Traveler'
+description: Samsonite hard luggage offers strong, stylish options for travelers.
+  These suitcases combine durability with smooth mobility. Choosing the right hard
+  luggage ma
 pubDate: 2026-07-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-samsonite-hard-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-samsonite-hard-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Samsonite hard luggage offers strong, stylish options for travelers. These suitcases combine durability with smooth mobility.**

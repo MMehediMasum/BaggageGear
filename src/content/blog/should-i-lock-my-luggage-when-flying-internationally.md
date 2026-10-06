@@ -1,10 +1,14 @@
 ---
-title: "Should I Lock My Luggage When Flying Internationally: Essential Tips"
-description: "Picture this: You're at the airport, ticket in hand, ready to board a flight to an exciting international destination. Amid the hustle and bustle, a nagging tho"
+title: 'Should I Lock My Luggage When Flying Internationally: Essential Tips'
+description: 'Picture this: You''re at the airport, ticket in hand, ready to board
+  a flight to an exciting international destination. Amid the hustle and bustle, a
+  nagging tho'
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=should-i-lock-my-luggage-when-flying-internationally&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=should-i-lock-my-luggage-when-flying-internationally&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You're at the airport, ticket in hand, ready to board a flight to an exciting international destination. Amid the hustle and bustle, a nagging thought crosses your mind—should you lock your luggage before checking it in?**

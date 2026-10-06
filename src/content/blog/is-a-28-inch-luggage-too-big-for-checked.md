@@ -1,10 +1,14 @@
 ---
-title: "Is a 28 Inch Luggage Too Big for Checked? Expert Travel Tips"
-description: "Choosing the right luggage size for your travels can be daunting. You might be asking yourself, \"Is a 28-inch luggage too big for checked?\" Picture this: you're"
+title: Is a 28 Inch Luggage Too Big for Checked? Expert Travel Tips
+description: 'Choosing the right luggage size for your travels can be daunting. You
+  might be asking yourself, "Is a 28-inch luggage too big for checked?" Picture this:
+  you''re'
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-28-inch-luggage-too-big-for-checked&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=is-a-28-inch-luggage-too-big-for-checked&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage size for your travels can be daunting. You might be asking yourself, "Is a 28-inch luggage too big for checked?"**

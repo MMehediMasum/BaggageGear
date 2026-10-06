@@ -1,10 +1,14 @@
 ---
-title: "Can You Have Wrapped Gifts in Checked Luggage? Essential Tips!"
-description: "The holiday season is upon us, and with it comes the joy of giving and receiving gifts. But if you’re flying to see loved ones, you might be wondering: can you "
+title: Can You Have Wrapped Gifts in Checked Luggage? Essential Tips!
+description: 'The holiday season is upon us, and with it comes the joy of giving and
+  receiving gifts. But if you’re flying to see loved ones, you might be wondering:
+  can you '
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-have-wrapped-gifts-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-have-wrapped-gifts-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **The holiday season is upon us, and with it comes the joy of giving and receiving gifts. But if you’re flying to see loved ones, you might be wondering: can you have wrapped gifts in your checked luggage?**

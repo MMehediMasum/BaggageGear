@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Do I Fill a Punching Bag With: Ultimate Filling Guide"
 description: "Are you looking to fill your punching bag but aren't quite sure what to use? You're not alone. Choosing the right filler can make a significant difference in yo"
 pubDate: 2026-03-25

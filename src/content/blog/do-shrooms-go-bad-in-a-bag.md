@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Do Shrooms Go Bad in a Bag: Essential Tips to Keep Fresh"
 description: "Ever found yourself wondering about the shelf life of shrooms, especially when they're stored in a bag? You're not alone. Many people, whether seasoned users or"
 pubDate: 2026-01-13

@@ -1,10 +1,14 @@
 ---
-title: "Does Away Luggage Scratch Easily? Ultimate Durability Test Revealed"
-description: "When you're choosing new luggage, durability is likely at the top of your checklist. You've probably heard of Away luggage, but you may be wondering, \"Does Away"
+title: Does Away Luggage Scratch Easily? Ultimate Durability Test Revealed
+description: When you're choosing new luggage, durability is likely at the top of
+  your checklist. You've probably heard of Away luggage, but you may be wondering,
+  "Does Away
 pubDate: 2025-11-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-away-luggage-scratch-easily&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-away-luggage-scratch-easily&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you're choosing new luggage, durability is likely at the top of your checklist. You've probably heard of Away luggage, but you may be wondering, "Does Away luggage scratch easily?"**

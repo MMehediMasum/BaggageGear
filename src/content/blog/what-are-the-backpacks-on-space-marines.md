@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What are the Backpacks on Space Marines: Ultimate Power Explained"
 description: "Have you ever wondered about the fascinating world of Space Marines and their distinctive gear? Specifically, those intriguing backpacks that seem to be an inte"
 pubDate: 2026-01-11

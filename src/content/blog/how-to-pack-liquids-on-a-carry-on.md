@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Liquids on a Carry On: Ultimate TSA Travel Tips"
-description: "Traveling with liquids in your carry-on can feel like navigating a maze. You want to bring your favorite shampoo, that special sunscreen, and maybe even a bottl"
+title: 'How to Pack Liquids on a Carry On: Ultimate TSA Travel Tips'
+description: Traveling with liquids in your carry-on can feel like navigating a maze.
+  You want to bring your favorite shampoo, that special sunscreen, and maybe even
+  a bottl
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-liquids-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-liquids-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with liquids in your carry-on can feel like navigating a maze. You want to bring your favorite shampoo, that special sunscreen, and maybe even a bottle of wine.**

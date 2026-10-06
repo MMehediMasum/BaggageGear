@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Goes in a Biohazard Bag: Essential Items You Must Know"
 description: "Ever found yourself staring at a bright red bag marked with a bold biohazard symbol, wondering what exactly should go inside? You're not alone. Understanding wh"
 pubDate: 2026-04-29

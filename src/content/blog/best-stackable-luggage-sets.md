@@ -1,10 +1,14 @@
 ---
-title: "Best Stackable Luggage Sets: Travel Smart with Style and Convenience"
-description: "Finding the best stackable luggage sets simplifies packing and saves space during travel. These sets fit neatly together, making transport easy and organized. S"
+title: 'Best Stackable Luggage Sets: Travel Smart with Style and Convenience'
+description: Finding the best stackable luggage sets simplifies packing and saves
+  space during travel. These sets fit neatly together, making transport easy and organized.
+  S
 pubDate: 2026-07-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-stackable-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-stackable-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best stackable luggage sets simplifies packing and saves space during travel. These sets fit neatly together, making transport easy and organized.**

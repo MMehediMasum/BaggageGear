@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why are Suitcase Record Players Bad: Hidden Flaws Exposed"
 description: "Are you considering buying a suitcase record player? While they might seem like a trendy addition to your music collection, there are some crucial downsides you"
 pubDate: 2025-09-05

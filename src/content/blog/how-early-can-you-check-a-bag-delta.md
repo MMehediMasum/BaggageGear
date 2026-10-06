@@ -1,10 +1,14 @@
 ---
-title: "How Early Can You Check a Bag Delta: Ultimate Guide for Stress-Free Travel"
-description: "Are you planning a trip with Delta Airlines and wondering how early you can check your bags? You’re not alone. Knowing when to check your luggage can ease trave"
+title: 'How Early Can You Check a Bag Delta: Ultimate Guide for Stress-Free Travel'
+description: Are you planning a trip with Delta Airlines and wondering how early you
+  can check your bags? You’re not alone. Knowing when to check your luggage can ease
+  trave
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-early-can-you-check-a-bag-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-early-can-you-check-a-bag-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Delta Airlines and wondering how early you can check your bags? You’re not alone.**

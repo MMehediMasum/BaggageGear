@@ -1,10 +1,14 @@
 ---
-title: "Do High School Students Take Their Backpacks to Lunch? Surprising Insights"
-description: "Imagine this: the school bell rings, and it's finally lunch time. You grab your backpack and make your way to the cafeteria, but then you pause. Do you really n"
+title: Do High School Students Take Their Backpacks to Lunch? Surprising Insights
+description: 'Imagine this: the school bell rings, and it''s finally lunch time. You
+  grab your backpack and make your way to the cafeteria, but then you pause. Do you
+  really n'
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-high-school-students-take-their-backpacks-to-lunch&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack History And Buying Questions
+heroImage: https://tse1.mm.bing.net/th?q=do-high-school-students-take-their-backpacks-to-lunch&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine this: the school bell rings, and it's finally lunch time. You grab your backpack and make your way to the cafeteria, but then you pause.**

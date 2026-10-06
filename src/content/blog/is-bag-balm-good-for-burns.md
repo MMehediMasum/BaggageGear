@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Good for Burns: Effective Healing Secrets Revealed"
 description: "When you or a loved one suffers a burn, finding the right remedy is crucial to soothe the pain and aid healing. You might have heard about Bag Balm, a product o"
 pubDate: 2026-03-27

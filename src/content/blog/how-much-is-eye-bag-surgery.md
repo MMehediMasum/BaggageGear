@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is Eye Bag Surgery: Unveiling True Costs & Benefits"
 description: "Are you tired of waking up every morning to those pesky eye bags that seem to have taken up permanent residence on your face? You're not alone. Many people stru"
 pubDate: 2025-12-12

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Air Fry Aldi Red Bag Chicken: Perfect Crispy Guide"
 description: "Craving a crispy, golden-brown piece of chicken that's both delicious and convenient? Aldi's Red Bag Chicken might be the answer you've been searching for. If y"
 pubDate: 2025-10-11

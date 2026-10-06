@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Empty Irobot Roomba Bag: Quick & Easy Guide"
 description: "Are you tired of wondering how to keep your iRobot Roomba running at its best? You’re not alone. One of the simplest yet most crucial tasks is knowing how to em"
 pubDate: 2025-11-15

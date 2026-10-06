@@ -1,10 +1,14 @@
 ---
-title: "Does Spirit Allow Carry on Bags: Ultimate Guide for Travelers"
-description: "Are you planning to fly with Spirit Airlines and wondering if you can bring a carry-on bag? Knowing the rules about carry-on luggage can save you money and avoi"
+title: 'Does Spirit Allow Carry on Bags: Ultimate Guide for Travelers'
+description: Are you planning to fly with Spirit Airlines and wondering if you can
+  bring a carry-on bag? Knowing the rules about carry-on luggage can save you money
+  and avoi
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-spirit-allow-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-spirit-allow-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Spirit Airlines and wondering if you can bring a carry-on bag? Knowing the rules about carry-on luggage can save you money and avoid last-minute stress at the airport.**

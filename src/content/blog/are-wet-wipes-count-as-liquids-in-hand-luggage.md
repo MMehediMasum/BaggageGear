@@ -1,10 +1,14 @@
 ---
-title: "Are Wet Wipes Count As Liquids in Hand Luggage: Essential Guide"
-description: "Have you ever packed your hand luggage for a flight and paused, wondering if those handy wet wipes count as liquids? You're not alone. Navigating airport securi"
+title: 'Are Wet Wipes Count As Liquids in Hand Luggage: Essential Guide'
+description: Have you ever packed your hand luggage for a flight and paused, wondering
+  if those handy wet wipes count as liquids? You're not alone. Navigating airport
+  securi
 pubDate: 2026-02-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-wet-wipes-count-as-liquids-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-wet-wipes-count-as-liquids-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed your hand luggage for a flight and paused, wondering if those handy wet wipes count as liquids? You're not alone.**

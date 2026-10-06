@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Cornhole Bag Weigh: Essential Facts Revealed"
 description: "Are you curious about the weight of a cornhole bag? Whether you're a seasoned player or a beginner just getting into the game, understanding the details can mak"
 pubDate: 2025-12-24

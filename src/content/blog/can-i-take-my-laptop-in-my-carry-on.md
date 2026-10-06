@@ -1,10 +1,14 @@
 ---
-title: "Can I Take My Laptop in My Carry On: Ultimate Travel Guide 2025"
-description: "Are you planning your next trip and wondering if you can bring your laptop in your carry-on? You're not alone. Many travelers face this question and it can be a"
+title: 'Can I Take My Laptop in My Carry On: Ultimate Travel Guide 2025'
+description: Are you planning your next trip and wondering if you can bring your laptop
+  in your carry-on? You're not alone. Many travelers face this question and it can
+  be a
 pubDate: 2025-11-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-my-laptop-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-my-laptop-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering if you can bring your laptop in your carry-on? You're not alone.**

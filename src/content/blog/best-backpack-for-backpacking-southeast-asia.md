@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Backpacking Southeast Asia: Top Waterproof Lightweight Picks"
-description: "Choosing the best backpack for backpacking Southeast Asia makes your trip easier and more comfortable. A good backpack holds all your gear and fits the region’s"
+title: 'Best Backpack for Backpacking Southeast Asia: Top Waterproof Lightweight Picks'
+description: Choosing the best backpack for backpacking Southeast Asia makes your
+  trip easier and more comfortable. A good backpack holds all your gear and fits the
+  region’s
 pubDate: 2026-06-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-backpacking-southeast-asia&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-backpacking-southeast-asia&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for backpacking Southeast Asia makes your trip easier and more comfortable. A good backpack holds all your gear and fits the region’s travel style.**

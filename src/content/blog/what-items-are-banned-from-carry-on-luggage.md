@@ -1,10 +1,14 @@
 ---
-title: "What Items are Banned from Carry on Luggage: Ultimate Guide 2025"
-description: "Imagine this: you're excitedly preparing for your upcoming trip, bags packed and ready to go. You arrive at the airport, breeze through check-in, and then it ha"
+title: 'What Items are Banned from Carry on Luggage: Ultimate Guide 2025'
+description: 'Imagine this: you''re excitedly preparing for your upcoming trip, bags
+  packed and ready to go. You arrive at the airport, breeze through check-in, and
+  then it ha'
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-items-are-banned-from-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-items-are-banned-from-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're excitedly preparing for your upcoming trip, bags packed and ready to go. You arrive at the airport, breeze through check-in, and then it happens.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Carry on Luggage: Ultimate Guide for Stress-Free Travel"
-description: "Packing a carry-on bag can feel like a game of Tetris, but with the right tips, you can master it. Imagine breezing through airport security without the extra l"
+title: 'How to Pack Carry on Luggage: Ultimate Guide for Stress-Free Travel'
+description: Packing a carry-on bag can feel like a game of Tetris, but with the right
+  tips, you can master it. Imagine breezing through airport security without the extra
+  l
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-carry-on-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a carry-on bag can feel like a game of Tetris, but with the right tips, you can master it. Imagine breezing through airport security without the extra luggage fees or the stress of lost baggage.**

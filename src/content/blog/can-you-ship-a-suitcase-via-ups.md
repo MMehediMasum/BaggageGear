@@ -1,10 +1,14 @@
 ---
-title: "Can You Ship a Suitcase Via Ups: Essential Tips for Safe Delivery"
-description: "Ever found yourself wondering if you can simply ship a suitcase via UPS, saving yourself the hassle of dragging it through busy airports? You’re not alone. Many"
+title: 'Can You Ship a Suitcase Via Ups: Essential Tips for Safe Delivery'
+description: Ever found yourself wondering if you can simply ship a suitcase via UPS,
+  saving yourself the hassle of dragging it through busy airports? You’re not alone.
+  Many
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-ship-a-suitcase-via-ups&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=can-you-ship-a-suitcase-via-ups&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever found yourself wondering if you can simply ship a suitcase via UPS, saving yourself the hassle of dragging it through busy airports? You’re not alone.**

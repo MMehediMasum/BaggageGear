@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Big Guys: Top Spacious, Durable Picks for Comfort"
-description: "Finding the best backpack for big guys can be tough. Most bags do not fit well or offer enough space. Big men need backpacks with wide straps, strong support, a"
+title: 'Best Backpack for Big Guys: Top Spacious, Durable Picks for Comfort'
+description: Finding the best backpack for big guys can be tough. Most bags do not
+  fit well or offer enough space. Big men need backpacks with wide straps, strong
+  support, a
 pubDate: 2026-07-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-big-guys&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Backpacks For Men
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-big-guys&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best backpack for big guys can be tough. Most bags do not fit well or offer enough space.**

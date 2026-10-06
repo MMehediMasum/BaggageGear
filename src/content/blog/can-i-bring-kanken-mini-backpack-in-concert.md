@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Kanken Mini Backpack in Concert: Ultimate Guide 2025"
-description: "Picture this: you're gearing up for a thrilling night at your favorite band's concert. You've got your outfit picked out, and your ticket is ready. Now, you jus"
+title: 'Can I Bring Kanken Mini Backpack in Concert: Ultimate Guide 2025'
+description: 'Picture this: you''re gearing up for a thrilling night at your favorite
+  band''s concert. You''ve got your outfit picked out, and your ticket is ready. Now,
+  you jus'
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-kanken-mini-backpack-in-concert&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-kanken-mini-backpack-in-concert&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're gearing up for a thrilling night at your favorite band's concert. You've got your outfit picked out, and your ticket is ready.**

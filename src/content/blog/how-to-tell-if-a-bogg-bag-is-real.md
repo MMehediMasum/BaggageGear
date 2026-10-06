@@ -1,10 +1,13 @@
 ---
-title: "How to Tell If a Bogg Bag is Real: Quick & Easy Authenticity Tips"
-description: "Are you considering buying a Bogg Bag and want to make sure you're getting the real deal? You're not alone. With the growing popularity of Bogg Bags, the market"
+title: 'How to Tell If a Bogg Bag is Real: Quick & Easy Authenticity Tips'
+description: Are you considering buying a Bogg Bag and want to make sure you're getting
+  the real deal? You're not alone. With the growing popularity of Bogg Bags, the market
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-bogg-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bogg Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-bogg-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you considering buying a Bogg Bag and want to make sure you're getting the real deal? You're not alone.**

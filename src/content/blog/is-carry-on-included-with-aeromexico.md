@@ -1,10 +1,14 @@
 ---
-title: "Is Carry on Included With Aeromexico: Ultimate Packing Guide"
-description: "Curious about what you can bring on board when flying with Aeromexico? You're not alone. Many travelers wonder if a carry-on is included with their ticket. This"
+title: 'Is Carry on Included With Aeromexico: Ultimate Packing Guide'
+description: Curious about what you can bring on board when flying with Aeromexico?
+  You're not alone. Many travelers wonder if a carry-on is included with their ticket.
+  This
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-carry-on-included-with-aeromexico&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=is-carry-on-included-with-aeromexico&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Curious about what you can bring on board when flying with Aeromexico? You're not alone.**

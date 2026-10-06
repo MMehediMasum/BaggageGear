@@ -1,10 +1,14 @@
 ---
-title: "How Big Can a Backpack Be for Personal Item: Ultimate Size Guide"
-description: "Are you gearing up for your next trip and wondering how big your backpack can be to qualify as a personal item? You're not alone. Whether you're a seasoned trav"
+title: 'How Big Can a Backpack Be for Personal Item: Ultimate Size Guide'
+description: Are you gearing up for your next trip and wondering how big your backpack
+  can be to qualify as a personal item? You're not alone. Whether you're a seasoned
+  trav
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-can-a-backpack-be-for-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-big-can-a-backpack-be-for-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next trip and wondering how big your backpack can be to qualify as a personal item? You're not alone.**

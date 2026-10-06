@@ -1,10 +1,14 @@
 ---
-title: "Does Everyone Get a Free Luggage With Aadvanteage American? Truth Revealed!"
-description: "Imagine jet-setting across the globe with a little perk that makes your travel experience even more delightful. If you've ever wondered about the perks of the A"
+title: Does Everyone Get a Free Luggage With Aadvanteage American? Truth Revealed!
+description: Imagine jet-setting across the globe with a little perk that makes your
+  travel experience even more delightful. If you've ever wondered about the perks
+  of the A
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-everyone-get-a-free-luggage-with-aadvanteage-american&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-everyone-get-a-free-luggage-with-aadvanteage-american&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine jet-setting across the globe with a little perk that makes your travel experience even more delightful. If you've ever wondered about the perks of the AAdvantage program with American Airlines, you're not alone.**

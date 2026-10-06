@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage for 3 Day Business Trip: Top 3-Piece Set Picks"
-description: "Choosing the best luggage for a 3-day business trip helps you pack smart and travel light. The right bag fits your essentials and moves easily through airports."
+title: 'Best Luggage for 3 Day Business Trip: Top 3-Piece Set Picks'
+description: Choosing the best luggage for a 3-day business trip helps you pack smart
+  and travel light. The right bag fits your essentials and moves easily through airports.
 pubDate: 2025-11-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-3-day-business-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Business Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-3-day-business-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a 3-day business trip helps you pack smart and travel light. The right bag fits your essentials and moves easily through airports.**

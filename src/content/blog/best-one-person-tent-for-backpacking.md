@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best One Person Tent for Backpacking: Top Picks for Solo Adventures"
 description: "Choosing the best one person tent for backpacking makes your outdoor trip comfortable and safe. A lightweight, easy-to-set-up tent helps you enjoy nature withou"
 pubDate: 2026-06-09

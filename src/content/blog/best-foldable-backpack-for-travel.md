@@ -1,10 +1,15 @@
 ---
-title: "Best Foldable Backpack for Travel: Lightweight, Durable, and Ultra Compact Choices"
-description: "Finding the best foldable backpack for travel makes trips easier and more convenient. These backpacks save space and carry your essentials comfortably. Traveler"
+title: 'Best Foldable Backpack for Travel: Lightweight, Durable, and Ultra Compact
+  Choices'
+description: Finding the best foldable backpack for travel makes trips easier and
+  more convenient. These backpacks save space and carry your essentials comfortably.
+  Traveler
 pubDate: 2026-06-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-foldable-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-foldable-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best foldable backpack for travel makes trips easier and more convenient. These backpacks save space and carry your essentials comfortably.**

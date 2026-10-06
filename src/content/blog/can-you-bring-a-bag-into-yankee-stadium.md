@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Bag into Yankee Stadium: Ultimate Guide 2025"
-description: "Heading to Yankee Stadium for a thrilling game or event? The excitement is palpable, and you're probably already planning your visit. But there's one crucial qu"
+title: 'Can You Bring a Bag into Yankee Stadium: Ultimate Guide 2025'
+description: Heading to Yankee Stadium for a thrilling game or event? The excitement
+  is palpable, and you're probably already planning your visit. But there's one crucial
+  qu
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-yankee-stadium&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-yankee-stadium&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Heading to Yankee Stadium for a thrilling game or event? The excitement is palpable, and you're probably already planning your visit.**

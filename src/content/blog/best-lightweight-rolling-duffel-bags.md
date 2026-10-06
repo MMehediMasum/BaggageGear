@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Rolling Duffel Bags for Easy and Durable Travel"
-description: "Choosing the best lightweight rolling duffel bag makes travel easier and more comfortable. These bags offer convenience, durability, and enough space for all yo"
+title: Best Lightweight Rolling Duffel Bags for Easy and Durable Travel
+description: Choosing the best lightweight rolling duffel bag makes travel easier
+  and more comfortable. These bags offer convenience, durability, and enough space
+  for all yo
 pubDate: 2026-06-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-rolling-duffel-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-rolling-duffel-bags&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight rolling duffel bag makes travel easier and more comfortable. These bags offer convenience, durability, and enough space for all your gear.**

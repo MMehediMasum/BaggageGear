@@ -1,10 +1,14 @@
 ---
-title: "What is a Standard Size Suitcase: Ultimate Guide for Travelers"
-description: "Choosing the right suitcase can be overwhelming, especially when you're unsure about what qualifies as a standard size. You might wonder if your suitcase will f"
+title: 'What is a Standard Size Suitcase: Ultimate Guide for Travelers'
+description: Choosing the right suitcase can be overwhelming, especially when you're
+  unsure about what qualifies as a standard size. You might wonder if your suitcase
+  will f
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-standard-size-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-standard-size-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right suitcase can be overwhelming, especially when you're unsure about what qualifies as a standard size. You might wonder if your suitcase will fit in the overhead bin or meet airline regulations.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Make a Bean Bag Chair: Easy Steps for DIY Comfort"
 description: "Are you tired of the same old furniture and looking for a fun, creative project? Imagine sinking into a bean bag chair that you made yourself! Not only is it a "
 pubDate: 2026-01-21

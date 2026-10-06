@@ -1,10 +1,14 @@
 ---
-title: "Why Put a Tennis Ball in Your Luggage: Genius Travel Hack Revealed"
-description: "Have you ever heard of putting a tennis ball in your luggage? It might sound odd at first, but there's a smart reason behind this travel hack that frequent flye"
+title: 'Why Put a Tennis Ball in Your Luggage: Genius Travel Hack Revealed'
+description: Have you ever heard of putting a tennis ball in your luggage? It might
+  sound odd at first, but there's a smart reason behind this travel hack that frequent
+  flye
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=why-put-a-tennis-ball-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=why-put-a-tennis-ball-in-your-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever heard of putting a tennis ball in your luggage? It might sound odd at first, but there's a smart reason behind this travel hack that frequent flyers swear by.**

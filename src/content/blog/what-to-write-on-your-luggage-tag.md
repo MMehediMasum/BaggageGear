@@ -1,10 +1,14 @@
 ---
-title: "What to Write on Your Luggage Tag: Essential Tips for Safety"
-description: "Picture this: You’re waiting at the baggage claim, eagerly scanning the sea of suitcases, hoping to spot yours. But all the bags look the same. Panic starts to "
+title: 'What to Write on Your Luggage Tag: Essential Tips for Safety'
+description: 'Picture this: You’re waiting at the baggage claim, eagerly scanning
+  the sea of suitcases, hoping to spot yours. But all the bags look the same. Panic
+  starts to '
 pubDate: 2026-02-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-write-on-your-luggage-tag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-write-on-your-luggage-tag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You’re waiting at the baggage claim, eagerly scanning the sea of suitcases, hoping to spot yours. But all the bags look the same.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why You Must Carry on Throne And Liberty: Unlock Epic Adventure"
 description: "Imagine stepping into a world where every choice you make shapes your destiny. \"Throne and Liberty\" isn't just a game; it's a captivating experience that invite"
 pubDate: 2025-11-21

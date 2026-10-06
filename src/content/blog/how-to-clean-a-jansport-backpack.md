@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Jansport Backpack: Easy Steps for a Fresh Look"
-description: "Is your trusty Jansport backpack starting to show signs of adventure? Whether it's the remnants of your latest hiking trip, a spill from your morning coffee, or"
+title: 'How to Clean a Jansport Backpack: Easy Steps for a Fresh Look'
+description: Is your trusty Jansport backpack starting to show signs of adventure?
+  Whether it's the remnants of your latest hiking trip, a spill from your morning
+  coffee, or
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-jansport-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-jansport-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your trusty Jansport backpack starting to show signs of adventure? Whether it's the remnants of your latest hiking trip, a spill from your morning coffee, or the general wear and tear of everyday life, your backpack deserves a refresh.**

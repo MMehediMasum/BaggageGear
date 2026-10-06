@@ -1,10 +1,14 @@
 ---
-title: "Can Hair Clippers Go in Carry on Luggage: Ultimate Travel Guide"
-description: "Are you planning a trip and wondering if you can pack your hair clippers in your carry-on luggage? You’re not alone. Many travelers face the same dilemma. After"
+title: 'Can Hair Clippers Go in Carry on Luggage: Ultimate Travel Guide'
+description: Are you planning a trip and wondering if you can pack your hair clippers
+  in your carry-on luggage? You’re not alone. Many travelers face the same dilemma.
+  After
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-hair-clippers-go-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-hair-clippers-go-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your hair clippers in your carry-on luggage? You’re not alone.**

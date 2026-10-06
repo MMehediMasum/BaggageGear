@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Marijuana in Checked Bag: Legal Tips & Risks"
-description: "Imagine this: You’ve packed your bags for a much-needed getaway, and everything’s set for a smooth trip. But wait, you suddenly wonder if you can bring marijuan"
+title: 'Can You Fly With Marijuana in Checked Bag: Legal Tips & Risks'
+description: 'Imagine this: You’ve packed your bags for a much-needed getaway, and
+  everything’s set for a smooth trip. But wait, you suddenly wonder if you can bring
+  marijuan'
 pubDate: 2026-03-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-marijuana-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-marijuana-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You’ve packed your bags for a much-needed getaway, and everything’s set for a smooth trip. But wait, you suddenly wonder if you can bring marijuana in your checked bag.**

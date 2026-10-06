@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Causes Someone to Have a Colostomy Bag: Key Facts Revealed"
 description: "Imagine navigating through life with a new reality, one that involves a colostomy bag. If you or someone you know is facing this situation, it can feel overwhel"
 pubDate: 2026-03-20

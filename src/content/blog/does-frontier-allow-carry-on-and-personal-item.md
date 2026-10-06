@@ -1,10 +1,14 @@
 ---
-title: "Does Frontier Allow Carry On And Personal Item? Essential Guide"
-description: "Are you planning to fly with Frontier Airlines soon and wondering about their carry-on and personal item policies? You're not alone. Many travelers find themsel"
+title: Does Frontier Allow Carry On And Personal Item? Essential Guide
+description: Are you planning to fly with Frontier Airlines soon and wondering about
+  their carry-on and personal item policies? You're not alone. Many travelers find
+  themsel
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-frontier-allow-carry-on-and-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-frontier-allow-carry-on-and-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Frontier Airlines soon and wondering about their carry-on and personal item policies? You're not alone.**

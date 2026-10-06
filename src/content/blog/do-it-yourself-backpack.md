@@ -1,10 +1,14 @@
 ---
-title: "Do It Yourself Backpack: Ultimate Guide to Custom Adventure Gear"
-description: "Imagine setting out on your next adventure with a backpack that's not just functional but also uniquely yours. A backpack that reflects your style, needs, and c"
+title: 'Do It Yourself Backpack: Ultimate Guide to Custom Adventure Gear'
+description: Imagine setting out on your next adventure with a backpack that's not
+  just functional but also uniquely yours. A backpack that reflects your style, needs,
+  and c
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-it-yourself-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=do-it-yourself-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine setting out on your next adventure with a backpack that's not just functional but also uniquely yours. A backpack that reflects your style, needs, and creativity.**

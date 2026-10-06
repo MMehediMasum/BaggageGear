@@ -1,10 +1,14 @@
 ---
-title: "Best Away Carry-On: Ultimate Travel Companion for Every Adventure"
-description: "Choosing the best Away carry-on can make travel easier and more comfortable. These suitcases and bags offer durability, light weight, and smart features for any"
+title: 'Best Away Carry-On: Ultimate Travel Companion for Every Adventure'
+description: Choosing the best Away carry-on can make travel easier and more comfortable.
+  These suitcases and bags offer durability, light weight, and smart features for
+  any
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-away-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-away-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best Away carry-on can make travel easier and more comfortable. These suitcases and bags offer durability, light weight, and smart features for any trip.**

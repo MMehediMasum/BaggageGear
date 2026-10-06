@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Quilted Tote Bag: Easy Step-by-Step Guide"
-description: "Ever looked at a quilted tote bag and thought, \"I wish I could make that\"? Well, you're in the right place! Sewing your own quilted tote bag is not only a fun p"
+title: 'How to Sew a Quilted Tote Bag: Easy Step-by-Step Guide'
+description: Ever looked at a quilted tote bag and thought, "I wish I could make that"?
+  Well, you're in the right place! Sewing your own quilted tote bag is not only a
+  fun p
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-quilted-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-quilted-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever looked at a quilted tote bag and thought, "I wish I could make that"? Well, you're in the right place!**

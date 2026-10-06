@@ -1,10 +1,14 @@
 ---
-title: "Can I Use a Backpack As a Gym Bag: Ultimate Guide"
-description: "Are you wondering if your trusty backpack can double as a gym bag? You’re not alone. Many people ask this question because a good bag makes all the difference i"
+title: 'Can I Use a Backpack As a Gym Bag: Ultimate Guide'
+description: Are you wondering if your trusty backpack can double as a gym bag? You’re
+  not alone. Many people ask this question because a good bag makes all the difference
+  i
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-use-a-backpack-as-a-gym-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gym Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-i-use-a-backpack-as-a-gym-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Are you wondering if your trusty backpack can double as a gym bag? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Tote Bags for Work: Stylish, Durable, and Spacious Picks"
-description: "Finding the perfect leather tote bag for work can be a challenge. You need style and functionality combined. A leather tote bag not only offers a professional l"
+title: 'Best Leather Tote Bags for Work: Stylish, Durable, and Spacious Picks'
+description: Finding the perfect leather tote bag for work can be a challenge. You
+  need style and functionality combined. A leather tote bag not only offers a professional
+  l
 pubDate: 2025-09-11
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-tote-bags-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-tote-bags-for-work&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the perfect leather tote bag for work can be a challenge. You need style and functionality combined.**

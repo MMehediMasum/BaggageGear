@@ -1,10 +1,14 @@
 ---
-title: "How Long Does Insulated Bag Keep Food Cold: Ultimate Guide"
-description: "Imagine you're planning a picnic or a day at the beach, and you've packed all your favorite snacks and drinks. But there's one nagging question on your mind: Ho"
+title: 'How Long Does Insulated Bag Keep Food Cold: Ultimate Guide'
+description: 'Imagine you''re planning a picnic or a day at the beach, and you''ve
+  packed all your favorite snacks and drinks. But there''s one nagging question on
+  your mind: Ho'
 pubDate: 2025-09-04
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-does-insulated-bag-keep-food-cold&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Insulated Lunch And Cooler Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-long-does-insulated-bag-keep-food-cold&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Imagine you're planning a picnic or a day at the beach, and you've packed all your favorite snacks and drinks. But there's one nagging question on your mind: How long can you rely on your insulated bag to keep everything cold?**

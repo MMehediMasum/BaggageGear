@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Computer in Your Luggage: Essential Travel Tips"
-description: "Imagine you're preparing for a trip and your to-do list seems endless. Among the many decisions you face, there's one question that keeps popping up: \"Can you c"
+title: 'Can You Check a Computer in Your Luggage: Essential Travel Tips'
+description: 'Imagine you''re preparing for a trip and your to-do list seems endless.
+  Among the many decisions you face, there''s one question that keeps popping up:
+  "Can you c'
 pubDate: 2026-02-12
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-computer-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-computer-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're preparing for a trip and your to-do list seems endless. Among the many decisions you face, there's one question that keeps popping up: "Can you check a computer in your luggage?"**

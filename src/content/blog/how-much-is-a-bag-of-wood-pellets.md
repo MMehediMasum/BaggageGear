@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bag of Wood Pellets: Ultimate Cost Guide 2025"
 description: "Are you curious about heating your home in an eco-friendly way? Perhaps you've heard about the benefits of wood pellets, but you're wondering, \"How much is a ba"
 pubDate: 2026-02-06

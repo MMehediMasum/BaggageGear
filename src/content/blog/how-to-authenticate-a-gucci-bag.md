@@ -1,10 +1,14 @@
 ---
-title: "How to Authenticate a Gucci Bag: Ultimate Guide to Spot Fakes"
-description: "You’ve found a Gucci bag that looks perfect, but something in your gut tells you to double-check. How do you know if it’s the real deal or just a clever knockof"
+title: 'How to Authenticate a Gucci Bag: Ultimate Guide to Spot Fakes'
+description: You’ve found a Gucci bag that looks perfect, but something in your gut
+  tells you to double-check. How do you know if it’s the real deal or just a clever
+  knockof
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-authenticate-a-gucci-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Gucci Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-authenticate-a-gucci-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve found a Gucci bag that looks perfect, but something in your gut tells you to double-check. How do you know if it’s the real deal or just a clever knockoff?**

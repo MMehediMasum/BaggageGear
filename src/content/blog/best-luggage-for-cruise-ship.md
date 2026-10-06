@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Cruise Ship: Essential Tags for Smooth Sailing"
-description: "Choosing the best luggage for a cruise ship trip makes your journey easier and more organized. Durable, waterproof luggage tags and holders protect your bags an"
+title: 'Best Luggage for Cruise Ship: Essential Tags for Smooth Sailing'
+description: Choosing the best luggage for a cruise ship trip makes your journey easier
+  and more organized. Durable, waterproof luggage tags and holders protect your bags
+  an
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-cruise-ship&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-cruise-ship&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a cruise ship trip makes your journey easier and more organized. Durable, waterproof luggage tags and holders protect your bags and meet cruise line rules.**

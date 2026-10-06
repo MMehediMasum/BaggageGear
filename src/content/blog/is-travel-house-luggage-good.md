@@ -1,10 +1,14 @@
 ---
-title: "Is Travel House Luggage Good: Honest Review & Top Benefits"
-description: "When planning your next adventure, one of the most important decisions you'll make is choosing the right luggage. You want something reliable, durable, and styl"
+title: 'Is Travel House Luggage Good: Honest Review & Top Benefits'
+description: When planning your next adventure, one of the most important decisions
+  you'll make is choosing the right luggage. You want something reliable, durable,
+  and styl
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-travel-house-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-travel-house-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When planning your next adventure, one of the most important decisions you'll make is choosing the right luggage. You want something reliable, durable, and stylish.**

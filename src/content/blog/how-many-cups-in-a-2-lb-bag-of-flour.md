@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Cups in a 2 Lb Bag of Flour: Accurate Baking Guide"
 description: "Ever found yourself in the kitchen, staring at a 2-pound bag of flour and wondering just how many cups it contains? You’re not alone. This seemingly simple ques"
 pubDate: 2026-02-05

@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Multiple Suitcases in Airport: Expert Tips & Tricks"
-description: "Navigating an airport can be a daunting task, especially when you're juggling multiple suitcases. You might find yourself wondering how on earth you're going to"
+title: 'How to Carry Multiple Suitcases in Airport: Expert Tips & Tricks'
+description: Navigating an airport can be a daunting task, especially when you're
+  juggling multiple suitcases. You might find yourself wondering how on earth you're
+  going to
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-multiple-suitcases-in-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-multiple-suitcases-in-airport&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Navigating an airport can be a daunting task, especially when you're juggling multiple suitcases. You might find yourself wondering how on earth you're going to manage it all without breaking a sweat or missing your flight.**

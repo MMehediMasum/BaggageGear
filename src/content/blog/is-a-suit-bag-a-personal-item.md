@@ -1,10 +1,14 @@
 ---
-title: "Is a Suit Bag a Personal Item: Essential Travel Carry-On Guide"
-description: "Have you ever found yourself standing at the airport, suitcase in one hand and a suit bag in the other, wondering if that suit bag counts as a personal item? Th"
+title: 'Is a Suit Bag a Personal Item: Essential Travel Carry-On Guide'
+description: Have you ever found yourself standing at the airport, suitcase in one
+  hand and a suit bag in the other, wondering if that suit bag counts as a personal
+  item? Th
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-suit-bag-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-suit-bag-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself standing at the airport, suitcase in one hand and a suit bag in the other, wondering if that suit bag counts as a personal item? This seemingly small question can cause a big headache, especially when airlines have strict baggage policies.**

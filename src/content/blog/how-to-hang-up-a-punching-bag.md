@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang Up a Punching Bag: Easy Steps for a Secure Setup"
 description: "Are you ready to transform your home workout space into a dynamic boxing zone? Hanging up a punching bag can be a game-changer for your fitness routine. It’s no"
 pubDate: 2025-10-15

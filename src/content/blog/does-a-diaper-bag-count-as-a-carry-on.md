@@ -1,10 +1,14 @@
 ---
-title: "Does a Diaper Bag Count As a Carry On? Expert Travel Tips!"
-description: "Planning a trip with your little one? You might be wondering if a diaper bag counts as a carry-on. This seemingly simple question can cause a lot of confusion a"
+title: Does a Diaper Bag Count As a Carry On? Expert Travel Tips!
+description: Planning a trip with your little one? You might be wondering if a diaper
+  bag counts as a carry-on. This seemingly simple question can cause a lot of confusion
+  a
 pubDate: 2025-09-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-diaper-bag-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-a-diaper-bag-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with your little one? You might be wondering if a diaper bag counts as a carry-on.**

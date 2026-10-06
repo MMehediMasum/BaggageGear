@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get Ants Out of Dog Food Bag: Easy & Effective Tips"
 description: "Are you tired of finding ants invading your dog's food bag? It’s frustrating, isn’t it? You want the best for your furry friend, but those pesky ants keep getti"
 pubDate: 2026-03-09

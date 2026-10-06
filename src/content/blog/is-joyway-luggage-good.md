@@ -1,10 +1,14 @@
 ---
-title: "Is Joyway Luggage Good: Honest Review & Top Features Revealed"
-description: "Are you thinking about buying Joyway luggage but aren’t sure if it’s the right choice? You want a suitcase that’s sturdy, stylish, and easy to carry. But with s"
+title: 'Is Joyway Luggage Good: Honest Review & Top Features Revealed'
+description: Are you thinking about buying Joyway luggage but aren’t sure if it’s
+  the right choice? You want a suitcase that’s sturdy, stylish, and easy to carry.
+  But with s
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-joyway-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-joyway-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you thinking about buying Joyway luggage but aren’t sure if it’s the right choice? You want a suitcase that’s sturdy, stylish, and easy to carry.**

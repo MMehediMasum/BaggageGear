@@ -1,10 +1,14 @@
 ---
-title: "Best Brands for Luggage Sets: Top Picks for Stylish Travel"
-description: "Choosing the best luggage sets makes travel easier and more organized. Quality, durability, and design matter most for every trip. Travel needs reliable luggage"
+title: 'Best Brands for Luggage Sets: Top Picks for Stylish Travel'
+description: Choosing the best luggage sets makes travel easier and more organized.
+  Quality, durability, and design matter most for every trip. Travel needs reliable
+  luggage
 pubDate: 2026-07-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-brands-for-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-brands-for-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage sets makes travel easier and more organized. Quality, durability, and design matter most for every trip.**

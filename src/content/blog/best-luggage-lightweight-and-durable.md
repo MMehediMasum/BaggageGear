@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage Lightweight And Durable for Effortless Travel and Durability"
-description: "Finding the best luggage that is both lightweight and durable can make travel easier and stress-free. Choosing the right suitcase helps protect your belongings "
+title: Best Luggage Lightweight And Durable for Effortless Travel and Durability
+description: 'Finding the best luggage that is both lightweight and durable can make
+  travel easier and stress-free. Choosing the right suitcase helps protect your belongings '
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-lightweight-and-durable&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-lightweight-and-durable&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best luggage that is both lightweight and durable can make travel easier and stress-free. Choosing the right suitcase helps protect your belongings while keeping packing simple.**

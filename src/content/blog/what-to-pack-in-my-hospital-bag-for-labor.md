@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in My Hospital Bag for Labor: Ultimate Must-Have List"
-description: "Packing your hospital bag for labor can feel overwhelming. You want to make sure you have everything you need, but you also don’t want to carry too much. What i"
+title: 'What to Pack in My Hospital Bag for Labor: Ultimate Must-Have List'
+description: Packing your hospital bag for labor can feel overwhelming. You want to
+  make sure you have everything you need, but you also don’t want to carry too much.
+  What i
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-my-hospital-bag-for-labor&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-my-hospital-bag-for-labor&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Packing your hospital bag for labor can feel overwhelming. You want to make sure you have everything you need, but you also don’t want to carry too much.**

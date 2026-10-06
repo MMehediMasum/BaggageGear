@@ -1,10 +1,14 @@
 ---
-title: "How to Remove Pen Stain from Leather Bag: Easy & Effective Tips"
-description: "Picture this: you reach into your stylish leather bag, only to find an unsightly pen stain marring its elegant surface. Frustrating, right? Pen stains on leathe"
+title: 'How to Remove Pen Stain from Leather Bag: Easy & Effective Tips'
+description: 'Picture this: you reach into your stylish leather bag, only to find
+  an unsightly pen stain marring its elegant surface. Frustrating, right? Pen stains
+  on leathe'
 pubDate: 2025-08-28
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-remove-pen-stain-from-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-remove-pen-stain-from-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you reach into your stylish leather bag, only to find an unsightly pen stain marring its elegant surface. Frustrating, right?**

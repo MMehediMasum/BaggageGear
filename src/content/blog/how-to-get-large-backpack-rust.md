@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get Large Backpack Rust: Ultimate Guide to Remove Stains Fast"
 description: "Are you tired of constantly running out of space in your backpack while playing Rust? You know the struggle—you're in the middle of an intense game, and suddenl"
 pubDate: 2025-11-18

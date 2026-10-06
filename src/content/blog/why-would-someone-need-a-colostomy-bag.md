@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Would Someone Need a Colostomy Bag: Essential Insights Explained"
 description: "Imagine waking up one day and learning that your life is about to change in a way you never expected. It's a scenario that can be overwhelming and challenging, "
 pubDate: 2026-01-19

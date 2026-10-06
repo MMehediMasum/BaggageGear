@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Nike Elite Backpack in the Washer? Expert Tips"
-description: "Have you ever looked at your Nike Elite backpack and wondered if it could use a good wash? Maybe it’s after a long day of school, a sweaty gym session, or an ad"
+title: Can You Put a Nike Elite Backpack in the Washer? Expert Tips
+description: Have you ever looked at your Nike Elite backpack and wondered if it could
+  use a good wash? Maybe it’s after a long day of school, a sweaty gym session, or
+  an ad
 pubDate: 2026-01-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-nike-elite-backpack-in-the-washer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-nike-elite-backpack-in-the-washer&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever looked at your Nike Elite backpack and wondered if it could use a good wash? Maybe it’s after a long day of school, a sweaty gym session, or an adventurous weekend trip.**

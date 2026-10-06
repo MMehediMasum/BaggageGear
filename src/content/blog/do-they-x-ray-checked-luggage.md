@@ -1,10 +1,14 @@
 ---
-title: "Do They X Ray Checked Luggage: What Travelers Must Know Today"
-description: "Have you ever wondered what happens to your luggage once it disappears behind the check-in counter? It's a curious thought, isn't it? That moment when you hand "
+title: 'Do They X Ray Checked Luggage: What Travelers Must Know Today'
+description: 'Have you ever wondered what happens to your luggage once it disappears
+  behind the check-in counter? It''s a curious thought, isn''t it? That moment when
+  you hand '
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-they-x-ray-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=do-they-x-ray-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever wondered what happens to your luggage once it disappears behind the check-in counter? It's a curious thought, isn't it?**

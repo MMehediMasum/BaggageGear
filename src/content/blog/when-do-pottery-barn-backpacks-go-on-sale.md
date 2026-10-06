@@ -1,10 +1,14 @@
 ---
-title: "When Do Pottery Barn Backpacks Go on Sale: Ultimate Savings Guide"
-description: "Are you eagerly waiting for that perfect moment to snag a Pottery Barn backpack at a great price? If you’ve been eyeing these stylish and durable backpacks for "
+title: 'When Do Pottery Barn Backpacks Go on Sale: Ultimate Savings Guide'
+description: 'Are you eagerly waiting for that perfect moment to snag a Pottery Barn
+  backpack at a great price? If you’ve been eyeing these stylish and durable backpacks
+  for '
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-do-pottery-barn-backpacks-go-on-sale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=when-do-pottery-barn-backpacks-go-on-sale&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you eagerly waiting for that perfect moment to snag a Pottery Barn backpack at a great price? If you’ve been eyeing these stylish and durable backpacks for your kids or even yourself, you’re not alone.**

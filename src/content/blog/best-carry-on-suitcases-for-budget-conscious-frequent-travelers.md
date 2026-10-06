@@ -1,10 +1,14 @@
 ---
-title: "Best Carry-On Suitcases for Budget-Conscious Frequent Travelers"
-description: "Hey there, fellow travelers! If you’re anything like me, you love hitting the road but hate breaking the bank—especially when it comes to gear. Finding a solid "
+title: Best Carry-On Suitcases for Budget-Conscious Frequent Travelers
+description: 'Hey there, fellow travelers! If you’re anything like me, you love hitting
+  the road but hate breaking the bank—especially when it comes to gear. Finding a
+  solid '
 pubDate: 2026-08-17
-author: "ivercalloway"
-categories: ["Uncategorized"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-suitcases-for-budget-conscious-frequent-travelers&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-suitcases-for-budget-conscious-frequent-travelers&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 Hey there, fellow travelers! If you’re anything like me, you love hitting the road but hate breaking the bank—especially when it comes to gear. Finding a solid carry-on suitcase that won’t fall apart after three trips shouldn't cost a fortune. I’ve rounded up the best budget-friendly carry-ons that are perfect for frequent flyers who want to pack smart and save their money for the actual trip!

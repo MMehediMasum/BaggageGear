@@ -1,10 +1,14 @@
 ---
-title: "How Many Bags Carry on Delta: Ultimate Guide to Baggage Limits"
-description: "Planning a trip can be both exciting and overwhelming, especially when it comes to packing. You might be wondering just how many bags you can carry on Delta fli"
+title: 'How Many Bags Carry on Delta: Ultimate Guide to Baggage Limits'
+description: Planning a trip can be both exciting and overwhelming, especially when
+  it comes to packing. You might be wondering just how many bags you can carry on
+  Delta fli
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-bags-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-many-bags-carry-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be both exciting and overwhelming, especially when it comes to packing. You might be wondering just how many bags you can carry on Delta flights.**

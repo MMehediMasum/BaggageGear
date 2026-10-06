@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Adderall in My Carry on: Essential Travel Tips"
-description: "Traveling can be a whirlwind of excitement and anticipation, but when you need to bring medication like Adderall with you, questions about regulations can add s"
+title: 'Can I Bring Adderall in My Carry on: Essential Travel Tips'
+description: Traveling can be a whirlwind of excitement and anticipation, but when
+  you need to bring medication like Adderall with you, questions about regulations
+  can add s
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-adderall-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-adderall-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a whirlwind of excitement and anticipation, but when you need to bring medication like Adderall with you, questions about regulations can add stress to your plans. You might be wondering, "Can I bring Adderall in my carry-on?"**

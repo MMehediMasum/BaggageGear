@@ -1,10 +1,13 @@
 ---
-title: "Best Rain Pants for Backpacking: Top Waterproof and Windproof Options"
-description: "Rain pants keep you dry and comfortable on wet backpacking trips. Choosing the right pair matters for protection and ease. Backpacking in the rain can be tough "
+title: 'Best Rain Pants for Backpacking: Top Waterproof and Windproof Options'
+description: 'Rain pants keep you dry and comfortable on wet backpacking trips. Choosing
+  the right pair matters for protection and ease. Backpacking in the rain can be tough '
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rain-pants-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Apparel And Trekking Poles
+heroImage: https://tse1.mm.bing.net/th?q=best-rain-pants-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Rain pants keep you dry and comfortable on wet backpacking trips. Choosing the right pair matters for protection and ease.**

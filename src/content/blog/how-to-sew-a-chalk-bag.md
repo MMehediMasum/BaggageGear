@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Chalk Bag: Easy Steps for Perfect Climbing Gear"
-description: "Are you tired of your climbing gear not reflecting your unique style? Imagine having a chalk bag that's not only functional but also a true expression of your p"
+title: 'How to Sew a Chalk Bag: Easy Steps for Perfect Climbing Gear'
+description: Are you tired of your climbing gear not reflecting your unique style?
+  Imagine having a chalk bag that's not only functional but also a true expression
+  of your p
 pubDate: 2025-10-28
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-chalk-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-chalk-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of your climbing gear not reflecting your unique style? Imagine having a chalk bag that's not only functional but also a true expression of your personality.**

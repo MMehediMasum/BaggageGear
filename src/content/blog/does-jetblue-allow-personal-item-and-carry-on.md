@@ -1,10 +1,14 @@
 ---
-title: "Does Jetblue Allow Personal Item And Carry On? Essential Guide"
-description: "Planning your next flight with JetBlue but unsure about their baggage policy? You're not alone. The question \"Does JetBlue allow personal items and carry-ons? \""
+title: Does Jetblue Allow Personal Item And Carry On? Essential Guide
+description: Planning your next flight with JetBlue but unsure about their baggage
+  policy? You're not alone. The question "Does JetBlue allow personal items and carry-ons?
+  "
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jetblue-allow-personal-item-and-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-jetblue-allow-personal-item-and-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next flight with JetBlue but unsure about their baggage policy? You're not alone.**

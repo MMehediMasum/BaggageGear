@@ -1,10 +1,14 @@
 ---
-title: "Does Stick Deodorant Need to Be in Quart Bag: TSA Rules Explained"
-description: "You're packing for your next big adventure, and the list of travel rules seems endless. Among the many questions swirling in your mind, one stands out: \"Does st"
+title: 'Does Stick Deodorant Need to Be in Quart Bag: TSA Rules Explained'
+description: 'You''re packing for your next big adventure, and the list of travel
+  rules seems endless. Among the many questions swirling in your mind, one stands
+  out: "Does st'
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-stick-deodorant-need-to-be-in-quart-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-stick-deodorant-need-to-be-in-quart-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your next big adventure, and the list of travel rules seems endless. Among the many questions swirling in your mind, one stands out: "Does stick deodorant need to be in a quart bag?"**

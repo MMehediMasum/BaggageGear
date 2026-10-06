@@ -1,10 +1,13 @@
 ---
-title: "Can I Bring a Knife in My Checked Bag USA: Essential Travel Rules"
-description: "Have you ever found yourself double-checking your luggage before a flight, wondering if you can bring a knife in your checked bag in the USA? You're not alone. "
+title: 'Can I Bring a Knife in My Checked Bag USA: Essential Travel Rules'
+description: 'Have you ever found yourself double-checking your luggage before a flight,
+  wondering if you can bring a knife in your checked bag in the USA? You''re not alone. '
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-knife-in-my-checked-bag-usa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-knife-in-my-checked-bag-usa&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever found yourself double-checking your luggage before a flight, wondering if you can bring a knife in your checked bag in the USA? You're not alone.**

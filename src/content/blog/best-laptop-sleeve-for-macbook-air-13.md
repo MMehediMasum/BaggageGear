@@ -1,10 +1,13 @@
 ---
-title: "Best Laptop Sleeve for Macbook Air 13: Top Protective Cases Reviewed"
-description: "Choosing the best laptop sleeve protects your MacBook Air 13 from scratches and damage. A good sleeve fits well and offers extra features like pockets or water "
+title: 'Best Laptop Sleeve for Macbook Air 13: Top Protective Cases Reviewed'
+description: 'Choosing the best laptop sleeve protects your MacBook Air 13 from scratches
+  and damage. A good sleeve fits well and offers extra features like pockets or water '
 pubDate: 2025-09-09
-author: "ivercalloway"
-categories: ["Work & Business Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-laptop-sleeve-for-macbook-air-13&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Travel Accessories
+heroImage: https://tse1.mm.bing.net/th?q=best-laptop-sleeve-for-macbook-air-13&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best laptop sleeve protects your MacBook Air 13 from scratches and damage. A good sleeve fits well and offers extra features like pockets or water resistance.**

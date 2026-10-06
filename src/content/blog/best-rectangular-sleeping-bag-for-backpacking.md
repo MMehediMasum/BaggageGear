@@ -1,10 +1,15 @@
 ---
-title: "Best Rectangular Sleeping Bag for Backpacking: Lightweight and Waterproof Choices"
-description: "Choosing the best rectangular sleeping bag for backpacking can make your outdoor trips more comfortable. These bags offer space, warmth, and easy packing for ev"
+title: 'Best Rectangular Sleeping Bag for Backpacking: Lightweight and Waterproof
+  Choices'
+description: Choosing the best rectangular sleeping bag for backpacking can make your
+  outdoor trips more comfortable. These bags offer space, warmth, and easy packing
+  for ev
 pubDate: 2026-06-11
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rectangular-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-rectangular-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best rectangular sleeping bag for backpacking can make your outdoor trips more comfortable. These bags offer space, warmth, and easy packing for every adventure.**

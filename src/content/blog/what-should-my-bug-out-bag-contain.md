@@ -1,10 +1,14 @@
 ---
-title: "What Should My Bug Out Bag Contain: Essential Survival Gear Guide"
-description: "Imagine this: a sudden emergency strikes, and you have mere minutes to leave your home. In such a situation, having a bug out bag ready can make all the differe"
+title: 'What Should My Bug Out Bag Contain: Essential Survival Gear Guide'
+description: 'Imagine this: a sudden emergency strikes, and you have mere minutes
+  to leave your home. In such a situation, having a bug out bag ready can make all
+  the differe'
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-should-my-bug-out-bag-contain&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-should-my-bug-out-bag-contain&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine this: a sudden emergency strikes, and you have mere minutes to leave your home. In such a situation, having a bug out bag ready can make all the difference.**

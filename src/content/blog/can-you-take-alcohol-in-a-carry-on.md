@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Alcohol in a Carry On: Essential Travel Rules Revealed"
-description: "When you're packing for a flight, questions about what you can and can't bring in your carry-on can be confusing. If you're wondering whether you can take alcoh"
+title: 'Can You Take Alcohol in a Carry On: Essential Travel Rules Revealed'
+description: When you're packing for a flight, questions about what you can and can't
+  bring in your carry-on can be confusing. If you're wondering whether you can take
+  alcoh
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-alcohol-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-alcohol-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're packing for a flight, questions about what you can and can't bring in your carry-on can be confusing. If you're wondering whether you can take alcohol with you, you're not alone.**

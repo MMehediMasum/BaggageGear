@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Dirt is in a Bag: Essential Facts You Need to Know"
 description: "Have you ever stood in the gardening aisle, staring at a bag of dirt, and wondered just how much is really inside? Whether you're planning a new garden project "
 pubDate: 2025-10-26

@@ -1,10 +1,14 @@
 ---
-title: "How Many Bags Can You Carry on Greyhound: Ultimate Guide 2025"
-description: "Are you planning a trip with Greyhound and wondering how many bags you can bring along? It's a common question that can cause a bit of anxiety, especially if yo"
+title: 'How Many Bags Can You Carry on Greyhound: Ultimate Guide 2025'
+description: Are you planning a trip with Greyhound and wondering how many bags you
+  can bring along? It's a common question that can cause a bit of anxiety, especially
+  if yo
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-bags-can-you-carry-on-greyhound&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-many-bags-can-you-carry-on-greyhound&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip with Greyhound and wondering how many bags you can bring along? It's a common question that can cause a bit of anxiety, especially if you're packing for an extended adventure or traveling with precious items.**

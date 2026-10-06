@@ -1,10 +1,14 @@
 ---
-title: "Would Cpap Break in Luggage at Airport: Essential Protection Tips"
-description: "Traveling with a CPAP machine can be a source of anxiety. You might wonder if it will survive the journey stashed away in your luggage. The thought of your esse"
+title: 'Would Cpap Break in Luggage at Airport: Essential Protection Tips'
+description: Traveling with a CPAP machine can be a source of anxiety. You might wonder
+  if it will survive the journey stashed away in your luggage. The thought of your
+  esse
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=would-cpap-break-in-luggage-at-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=would-cpap-break-in-luggage-at-airport&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with a CPAP machine can be a source of anxiety. You might wonder if it will survive the journey stashed away in your luggage.**

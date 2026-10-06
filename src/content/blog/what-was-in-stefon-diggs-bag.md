@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What was in Stefon Diggs Bag: Surprising Items Revealed!"
 description: "What’s in Stefon Diggs’ bag? It’s a question that has intrigued and captivated many fans and followers of the football star. Imagine getting a peek into the ite"
 pubDate: 2026-01-20

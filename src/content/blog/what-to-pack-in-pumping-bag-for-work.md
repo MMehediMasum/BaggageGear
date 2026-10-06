@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Pumping Bag for Work: Essential Must-Haves"
-description: "Picture this: you're heading back to work after maternity leave, and you're determined to keep providing your baby with the benefits of breast milk. But as a wo"
+title: 'What to Pack in Pumping Bag for Work: Essential Must-Haves'
+description: 'Picture this: you''re heading back to work after maternity leave, and
+  you''re determined to keep providing your baby with the benefits of breast milk.
+  But as a wo'
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Work & Business Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-pumping-bag-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What To Pack In Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-pumping-bag-for-work&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Picture this: you're heading back to work after maternity leave, and you're determined to keep providing your baby with the benefits of breast milk. But as a working mom, you know that pumping at the office is no small feat.**

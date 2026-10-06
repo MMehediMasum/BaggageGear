@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 10L Bag: Ultimate Size Guide Revealed"
-description: "Have you ever found yourself puzzled over the size of a 10L bag? You're not alone. Whether you're planning a hiking trip, organizing your closet, or simply curi"
+title: 'How Big is a 10L Bag: Ultimate Size Guide Revealed'
+description: Have you ever found yourself puzzled over the size of a 10L bag? You're
+  not alone. Whether you're planning a hiking trip, organizing your closet, or simply
+  curi
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-10l-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-10l-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself puzzled over the size of a 10L bag? You're not alone.**

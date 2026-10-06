@@ -1,10 +1,14 @@
 ---
-title: "What Can I Put in My Personal Item Bag: Ultimate Packing Essentials"
-description: "Packing your personal item bag can often feel like a game of Tetris, where every inch counts. You want to make sure you have everything you need, without feelin"
+title: 'What Can I Put in My Personal Item Bag: Ultimate Packing Essentials'
+description: Packing your personal item bag can often feel like a game of Tetris,
+  where every inch counts. You want to make sure you have everything you need, without
+  feelin
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-i-put-in-my-personal-item-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-can-i-put-in-my-personal-item-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Packing your personal item bag can often feel like a game of Tetris, where every inch counts. You want to make sure you have everything you need, without feeling like you're lugging around a brick.**

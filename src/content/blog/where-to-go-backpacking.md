@@ -1,10 +1,14 @@
 ---
-title: "Where to Go Backpacking: Top Epic Destinations for Adventure Seekers"
-description: "Imagine this: you, a trusty backpack, and the open road ahead. The thrill of backpacking is unlike any other. It's your ticket to freedom, adventure, and discov"
+title: 'Where to Go Backpacking: Top Epic Destinations for Adventure Seekers'
+description: 'Imagine this: you, a trusty backpack, and the open road ahead. The thrill
+  of backpacking is unlike any other. It''s your ticket to freedom, adventure, and
+  discov'
 pubDate: 2025-09-08
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-go-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Travel Planning
+heroImage: https://tse1.mm.bing.net/th?q=where-to-go-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine this: you, a trusty backpack, and the open road ahead. The thrill of backpacking is unlike any other.**

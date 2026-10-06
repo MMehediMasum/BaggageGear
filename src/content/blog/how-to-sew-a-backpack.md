@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Backpack: Easy Steps for a Stylish DIY Bag"
-description: "Have you ever thought about the joy of crafting something with your own hands? Imagine walking around with a backpack that you stitched yourself. Not only does "
+title: 'How to Sew a Backpack: Easy Steps for a Stylish DIY Bag'
+description: 'Have you ever thought about the joy of crafting something with your
+  own hands? Imagine walking around with a backpack that you stitched yourself. Not
+  only does '
 pubDate: 2025-09-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever thought about the joy of crafting something with your own hands? Imagine walking around with a backpack that you stitched yourself.**

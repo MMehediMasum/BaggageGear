@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Exercise With Punching Bag: Ultimate Fat-Burning Workout Guide"
 description: "Looking to spice up your fitness routine? Exercising with a punching bag might be just what you need. It's not only a great way to burn calories, but it also he"
 pubDate: 2026-03-30

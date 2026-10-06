@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Checked Luggage: Top Expandable Options for Easy Travel"
-description: "Soft checked luggage offers flexibility and convenience for travelers who need extra packing space. Choosing the right softside suitcase can make trips easier a"
+title: 'Best Soft Checked Luggage: Top Expandable Options for Easy Travel'
+description: Soft checked luggage offers flexibility and convenience for travelers
+  who need extra packing space. Choosing the right softside suitcase can make trips
+  easier a
 pubDate: 2026-07-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Soft checked luggage offers flexibility and convenience for travelers who need extra packing space. Choosing the right softside suitcase can make trips easier and more organized.**

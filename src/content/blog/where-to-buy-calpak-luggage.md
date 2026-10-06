@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Calpak Luggage: Top Deals and Trusted Stores"
-description: "Are you on the hunt for the perfect travel companion? Look no further than Calpak luggage. Known for its sleek design, durability, and functionality, Calpak has"
+title: 'Where to Buy Calpak Luggage: Top Deals and Trusted Stores'
+description: Are you on the hunt for the perfect travel companion? Look no further
+  than Calpak luggage. Known for its sleek design, durability, and functionality,
+  Calpak has
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-calpak-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-calpak-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? Look no further than Calpak luggage.**

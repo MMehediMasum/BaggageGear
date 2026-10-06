@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best 1 Man Tent for Backpacking: Discover Top Ultralight and Waterproof Options"
 description: "Choosing the best 1 man tent for backpacking makes your trip easier and more comfortable. A good tent protects you from rain, wind, and bugs while staying light"
 pubDate: 2026-06-14

@@ -1,10 +1,14 @@
 ---
-title: "What Size is International Carry on Luggage: Ultimate Guide 2025"
-description: "Are you planning your next adventure and wondering about the perfect size for your international carry-on luggage? You're not alone. Choosing the right carry-on"
+title: 'What Size is International Carry on Luggage: Ultimate Guide 2025'
+description: Are you planning your next adventure and wondering about the perfect
+  size for your international carry-on luggage? You're not alone. Choosing the right
+  carry-on
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-international-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-international-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next adventure and wondering about the perfect size for your international carry-on luggage? You're not alone.**

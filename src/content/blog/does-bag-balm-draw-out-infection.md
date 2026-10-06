@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Bag Balm Draw Out Infection? Truths Revealed!"
 description: "Have you ever found yourself staring at a tin of Bag Balm, wondering if it holds the secret to drawing out infections? You're not alone. This age-old remedy, tu"
 pubDate: 2026-02-09

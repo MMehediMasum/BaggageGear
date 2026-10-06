@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Work And Gym: Top Picks with Shoe Compartments"
-description: "Finding the best backpack for work and gym helps you stay organized and ready all day. A good backpack carries your laptop, shoes, and gym gear without hassle. "
+title: 'Best Backpack for Work And Gym: Top Picks with Shoe Compartments'
+description: 'Finding the best backpack for work and gym helps you stay organized
+  and ready all day. A good backpack carries your laptop, shoes, and gym gear without
+  hassle. '
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-work-and-gym&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gym Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-work-and-gym&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for work and gym helps you stay organized and ready all day. A good backpack carries your laptop, shoes, and gym gear without hassle.**

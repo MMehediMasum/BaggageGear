@@ -1,10 +1,13 @@
 ---
-title: "Best Travel Neck Pillow for Long Flights: Ultimate Comfort and Support"
-description: "Finding the best travel neck pillow can make long flights much more comfortable. It supports your neck and helps you rest better on planes. Long flights often b"
+title: 'Best Travel Neck Pillow for Long Flights: Ultimate Comfort and Support'
+description: Finding the best travel neck pillow can make long flights much more comfortable.
+  It supports your neck and helps you rest better on planes. Long flights often b
 pubDate: 2026-05-12
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-neck-pillow-for-long-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-neck-pillow-for-long-flights&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel neck pillow can make long flights much more comfortable. It supports your neck and helps you rest better on planes.**

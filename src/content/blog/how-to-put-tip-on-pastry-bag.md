@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put Tip on Pastry Bag: Easy Steps for Perfect Piping"
 description: "Ever found yourself frustrated with a messy pastry bag or a tip that just won’t stay put? If you’ve ever attempted to decorate a cake or pipe perfect meringues,"
 pubDate: 2026-01-24

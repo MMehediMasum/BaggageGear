@@ -1,10 +1,14 @@
 ---
-title: "Best Crossbody Bags for Paris: Stylish, Lightweight, and Travel-Ready Choices"
-description: "Finding the best crossbody bag for Paris combines style, comfort, and practicality. These bags keep essentials safe and hands free while exploring the city. Tra"
+title: 'Best Crossbody Bags for Paris: Stylish, Lightweight, and Travel-Ready Choices'
+description: Finding the best crossbody bag for Paris combines style, comfort, and
+  practicality. These bags keep essentials safe and hands free while exploring the
+  city. Tra
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-paris&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-paris&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best crossbody bag for Paris combines style, comfort, and practicality. These bags keep essentials safe and hands free while exploring the city.**

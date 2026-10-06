@@ -1,10 +1,14 @@
 ---
-title: "What Does a Carry On Look Like: Ultimate Guide to Perfect Packing"
-description: "Imagine standing at the airport, ticket in hand, ready for your next adventure. But wait—before you board, you need to know: what does a carry on look like? Thi"
+title: 'What Does a Carry On Look Like: Ultimate Guide to Perfect Packing'
+description: 'Imagine standing at the airport, ticket in hand, ready for your next
+  adventure. But wait—before you board, you need to know: what does a carry on look
+  like? Thi'
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-a-carry-on-look-like&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=what-does-a-carry-on-look-like&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine standing at the airport, ticket in hand, ready for your next adventure. But wait—before you board, you need to know: what does a carry on look like?**

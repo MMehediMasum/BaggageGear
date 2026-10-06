@@ -1,10 +1,14 @@
 ---
-title: "When We Were Young Bag Policy: Essential Rules You Must Know"
-description: "Picture this: You're all set for the \"When We Were Young\" festival, eagerly anticipating the music, the vibe, and the unforgettable memories. But wait—before yo"
+title: 'When We Were Young Bag Policy: Essential Rules You Must Know'
+description: 'Picture this: You''re all set for the "When We Were Young" festival,
+  eagerly anticipating the music, the vibe, and the unforgettable memories. But wait—before
+  yo'
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-we-were-young-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=when-we-were-young-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're all set for the "When We Were Young" festival, eagerly anticipating the music, the vibe, and the unforgettable memories. But wait—before you head out, there's something you absolutely need to know: the bag policy.**

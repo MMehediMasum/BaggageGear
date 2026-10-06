@@ -1,10 +1,14 @@
 ---
-title: "What is United Bag Drop Shortcut: Ultimate Guide to Save Time"
-description: "Ever stood in a long airport line, wishing for a faster way to drop off your bags? You're not alone. Long queues can drain your energy and mood before you even "
+title: 'What is United Bag Drop Shortcut: Ultimate Guide to Save Time'
+description: 'Ever stood in a long airport line, wishing for a faster way to drop
+  off your bags? You''re not alone. Long queues can drain your energy and mood before
+  you even '
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-united-bag-drop-shortcut&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-is-united-bag-drop-shortcut&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever stood in a long airport line, wishing for a faster way to drop off your bags? You're not alone.**

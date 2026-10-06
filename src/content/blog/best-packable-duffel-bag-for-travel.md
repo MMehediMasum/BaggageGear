@@ -1,10 +1,14 @@
 ---
-title: "Best Packable Duffel Bag for Travel: Top Lightweight and Durable Picks"
-description: "Choosing the best packable duffel bag makes travel easier and more organized. These bags save space and fit all your essentials. Travelers need bags that are li"
+title: 'Best Packable Duffel Bag for Travel: Top Lightweight and Durable Picks'
+description: Choosing the best packable duffel bag makes travel easier and more organized.
+  These bags save space and fit all your essentials. Travelers need bags that are
+  li
 pubDate: 2026-06-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packable-duffel-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-packable-duffel-bag-for-travel&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best packable duffel bag makes travel easier and more organized. These bags save space and fit all your essentials.**

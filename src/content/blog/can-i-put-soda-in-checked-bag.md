@@ -1,10 +1,13 @@
 ---
-title: "Can I Put Soda in Checked Bag: Essential Travel Packing Tips"
-description: "Are you planning a trip and wondering if you can pack soda in your checked bag? You might think it’s an easy way to bring your favorite drinks along, but there "
+title: 'Can I Put Soda in Checked Bag: Essential Travel Packing Tips'
+description: 'Are you planning a trip and wondering if you can pack soda in your checked
+  bag? You might think it’s an easy way to bring your favorite drinks along, but there '
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-soda-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-soda-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack soda in your checked bag? You might think it’s an easy way to bring your favorite drinks along, but there are important rules you should know.**

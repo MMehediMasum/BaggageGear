@@ -1,10 +1,14 @@
 ---
-title: "How Much Luggage Can You Bring on Amtrak: Ultimate Guide 2025"
-description: "Planning a trip on Amtrak and wondering about your luggage? You're in the right place. Knowing how much luggage you can bring along is crucial for a smooth jour"
+title: 'How Much Luggage Can You Bring on Amtrak: Ultimate Guide 2025'
+description: Planning a trip on Amtrak and wondering about your luggage? You're in
+  the right place. Knowing how much luggage you can bring along is crucial for a smooth
+  jour
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-bring-on-amtrak&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-bring-on-amtrak&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip on Amtrak and wondering about your luggage? You're in the right place.**

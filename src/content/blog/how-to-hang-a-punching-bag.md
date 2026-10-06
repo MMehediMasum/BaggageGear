@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang a Punching Bag: Easy Steps for Perfect Setup"
 description: "Are you ready to transform your home into a personal gym? Hanging a punching bag might be just what you need to boost your fitness routine and let off some stea"
 pubDate: 2026-02-27

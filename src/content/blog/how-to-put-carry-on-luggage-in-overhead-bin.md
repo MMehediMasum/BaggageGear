@@ -1,10 +1,14 @@
 ---
-title: "How to Put Carry on Luggage in Overhead Bin: Expert Tips & Tricks"
-description: "Navigating air travel can be a mix of excitement and stress. One of the common challenges you might face is fitting your carry-on luggage into the overhead bin."
+title: 'How to Put Carry on Luggage in Overhead Bin: Expert Tips & Tricks'
+description: Navigating air travel can be a mix of excitement and stress. One of the
+  common challenges you might face is fitting your carry-on luggage into the overhead
+  bin.
 pubDate: 2026-03-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-put-carry-on-luggage-in-overhead-bin&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-put-carry-on-luggage-in-overhead-bin&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Navigating air travel can be a mix of excitement and stress. One of the common challenges you might face is fitting your carry-on luggage into the overhead bin.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Carry On Luggage for International Travel: Top Picks"
-description: "Choosing the best lightweight carry-on luggage makes international travel easier and more comfortable. Compact, durable bags save time and avoid extra fees at t"
+title: 'Best Lightweight Carry On Luggage for International Travel: Top Picks'
+description: Choosing the best lightweight carry-on luggage makes international travel
+  easier and more comfortable. Compact, durable bags save time and avoid extra fees
+  at t
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight carry-on luggage makes international travel easier and more comfortable. Compact, durable bags save time and avoid extra fees at the airport.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Carry On Luggage for Effortless Travel and Maximum Durability"
-description: "Choosing the best lightweight carry-on luggage makes travel easier and stress-free. It saves space and meets airline rules for size and weight. Traveling light "
+title: Best Lightweight Carry On Luggage for Effortless Travel and Maximum Durability
+description: 'Choosing the best lightweight carry-on luggage makes travel easier and
+  stress-free. It saves space and meets airline rules for size and weight. Traveling
+  light '
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight carry-on luggage makes travel easier and stress-free. It saves space and meets airline rules for size and weight.**

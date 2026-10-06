@@ -1,10 +1,14 @@
 ---
-title: "Best Extra Large Suitcase: Top Picks for Spacious and Easy Travel"
-description: "Choosing the best extra large suitcase can make your travel easier and more organized. It offers plenty of space and durability for long trips. Extra large suit"
+title: 'Best Extra Large Suitcase: Top Picks for Spacious and Easy Travel'
+description: Choosing the best extra large suitcase can make your travel easier and
+  more organized. It offers plenty of space and durability for long trips. Extra large
+  suit
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-extra-large-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-extra-large-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best extra large suitcase can make your travel easier and more organized. It offers plenty of space and durability for long trips.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for 0 Degrees: Stay Warm in Extreme Cold Adventures"
-description: "Finding the best sleeping bag for 0 degrees ensures warmth and comfort during cold nights. Choosing the right bag keeps you safe and cozy outdoors. Camping in c"
+title: 'Best Sleeping Bag for 0 Degrees: Stay Warm in Extreme Cold Adventures'
+description: Finding the best sleeping bag for 0 degrees ensures warmth and comfort
+  during cold nights. Choosing the right bag keeps you safe and cozy outdoors. Camping
+  in c
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-0-degrees&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cold Weather Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-0-degrees&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sleeping bag for 0 degrees ensures warmth and comfort during cold nights. Choosing the right bag keeps you safe and cozy outdoors.**

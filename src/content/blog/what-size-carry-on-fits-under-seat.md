@@ -1,10 +1,14 @@
 ---
-title: "What Size Carry on Fits under Seat: Ultimate Guide for Travelers"
-description: "Imagine this: You’re excited about your upcoming flight, but the thought of jostling for overhead bin space makes you anxious. What if you could simply slide yo"
+title: 'What Size Carry on Fits under Seat: Ultimate Guide for Travelers'
+description: 'Imagine this: You’re excited about your upcoming flight, but the thought
+  of jostling for overhead bin space makes you anxious. What if you could simply slide
+  yo'
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-carry-on-fits-under-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=what-size-carry-on-fits-under-seat&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine this: You’re excited about your upcoming flight, but the thought of jostling for overhead bin space makes you anxious. What if you could simply slide your bag under the seat in front of you, skipping the hassle entirely?**

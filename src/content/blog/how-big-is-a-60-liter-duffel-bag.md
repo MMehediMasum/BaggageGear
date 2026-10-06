@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 60 Liter Duffel Bag: Ultimate Size Guide"
-description: "Have you ever packed for a trip and wondered if your duffel bag can hold everything you need? Understanding the size of your bag is crucial, especially when you"
+title: 'How Big is a 60 Liter Duffel Bag: Ultimate Size Guide'
+description: Have you ever packed for a trip and wondered if your duffel bag can hold
+  everything you need? Understanding the size of your bag is crucial, especially when
+  you
 pubDate: 2025-09-11
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-60-liter-duffel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-60-liter-duffel-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever packed for a trip and wondered if your duffel bag can hold everything you need? Understanding the size of your bag is crucial, especially when you're planning an adventure.**

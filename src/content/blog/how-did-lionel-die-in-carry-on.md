@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Did Lionel Die in Carry On: Shocking Truth Revealed!"
 description: "Curiosity often sparks questions that linger in our minds, especially when it comes to beloved films like the \"Carry On\" series. If you're a fan of these classi"
 pubDate: 2026-03-26

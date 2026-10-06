@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Square Feet Does a Bag of Mulch Cover: Ultimate Guide"
 description: "Ever stood in the garden section, staring at bags of mulch, and wondered how many you'll actually need? You're not alone. It's a common puzzle many gardeners fa"
 pubDate: 2026-02-17

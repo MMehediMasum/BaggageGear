@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Perfume in a Carry On: Ultimate TSA Guide 2025"
-description: "You've packed your bags, checked your flight details, and you're ready for that much-anticipated trip. But as you glance at your favorite perfume bottle, a ques"
+title: 'Can You Pack Perfume in a Carry On: Ultimate TSA Guide 2025'
+description: You've packed your bags, checked your flight details, and you're ready
+  for that much-anticipated trip. But as you glance at your favorite perfume bottle,
+  a ques
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-perfume-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-perfume-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've packed your bags, checked your flight details, and you're ready for that much-anticipated trip. But as you glance at your favorite perfume bottle, a question arises: can you pack perfume in your carry-on?**

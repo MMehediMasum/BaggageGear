@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Pomade in My Carry On: TSA Rules Explained Clearly"
-description: "Are you getting ready for a trip and wondering if you can bring your favorite pomade in your carry-on? You're not alone. Many travelers face this dilemma, stand"
+title: 'Can I Bring Pomade in My Carry On: TSA Rules Explained Clearly'
+description: Are you getting ready for a trip and wondering if you can bring your
+  favorite pomade in your carry-on? You're not alone. Many travelers face this dilemma,
+  stand
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-pomade-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-pomade-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for a trip and wondering if you can bring your favorite pomade in your carry-on? You're not alone.**

@@ -1,10 +1,13 @@
 ---
-title: "Best Dry Bags for Backpacking: Keep Your Gear Safe and Dry"
-description: "Keeping your gear dry is crucial during backpacking trips. The right dry bag protects your essentials from water damage. Backpacking often involves unpredictabl"
+title: 'Best Dry Bags for Backpacking: Keep Your Gear Safe and Dry'
+description: Keeping your gear dry is crucial during backpacking trips. The right
+  dry bag protects your essentials from water damage. Backpacking often involves unpredictabl
 pubDate: 2026-06-07
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dry-bags-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-dry-bags-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Keeping your gear dry is crucial during backpacking trips. The right dry bag protects your essentials from water damage.**

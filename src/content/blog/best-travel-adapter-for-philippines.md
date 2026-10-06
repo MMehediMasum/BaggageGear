@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Philippines: Compact Power Solutions for Your Devices"
-description: "Traveling to the Philippines requires a reliable travel adapter to keep your devices charged. Choosing the right adapter ensures safety and convenience during y"
+title: 'Best Travel Adapter for Philippines: Compact Power Solutions for Your Devices'
+description: Traveling to the Philippines requires a reliable travel adapter to keep
+  your devices charged. Choosing the right adapter ensures safety and convenience
+  during y
 pubDate: 2026-05-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-philippines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-philippines&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to the Philippines requires a reliable travel adapter to keep your devices charged. Choosing the right adapter ensures safety and convenience during your trip.**

@@ -1,10 +1,14 @@
 ---
-title: "How Much Luggage Can You Take on a Cruise Carnival: Ultimate Guide"
-description: "Planning a cruise with Carnival? One of the first questions you might have is, \"How much luggage can I take?\" Packing for a cruise can be exciting but also a bi"
+title: 'How Much Luggage Can You Take on a Cruise Carnival: Ultimate Guide'
+description: Planning a cruise with Carnival? One of the first questions you might
+  have is, "How much luggage can I take?" Packing for a cruise can be exciting but
+  also a bi
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-take-on-a-cruise-carnival&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-take-on-a-cruise-carnival&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a cruise with Carnival? One of the first questions you might have is, "How much luggage can I take?"**

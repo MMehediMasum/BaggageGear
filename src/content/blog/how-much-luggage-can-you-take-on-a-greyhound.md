@@ -1,10 +1,14 @@
 ---
-title: "How Much Luggage Can You Take on a Greyhound: Ultimate Guide"
-description: "Planning a trip with Greyhound and wondering how much luggage you can bring along? You're not alone. Navigating the rules of luggage can sometimes feel like a p"
+title: 'How Much Luggage Can You Take on a Greyhound: Ultimate Guide'
+description: Planning a trip with Greyhound and wondering how much luggage you can
+  bring along? You're not alone. Navigating the rules of luggage can sometimes feel
+  like a p
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-take-on-a-greyhound&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-much-luggage-can-you-take-on-a-greyhound&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip with Greyhound and wondering how much luggage you can bring along? You're not alone.**

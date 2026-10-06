@@ -1,10 +1,14 @@
 ---
-title: "What to Pack for Carry On: Ultimate Guide for Stress-Free Travel"
-description: "Packing for a trip is often a daunting task. You want to ensure you have everything you need without overloading your carry-on. Imagine this: you're at the airp"
+title: 'What to Pack for Carry On: Ultimate Guide for Stress-Free Travel'
+description: 'Packing for a trip is often a daunting task. You want to ensure you
+  have everything you need without overloading your carry-on. Imagine this: you''re
+  at the airp'
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-for-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip is often a daunting task. You want to ensure you have everything you need without overloading your carry-on.**

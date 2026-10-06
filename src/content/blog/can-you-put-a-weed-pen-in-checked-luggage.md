@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Weed Pen in Checked Luggage: Essential Travel Tips"
-description: "Flying can be a stressful experience, especially when you're unsure about what you can pack in your luggage. If you're wondering whether you can put a weed pen "
+title: 'Can You Put a Weed Pen in Checked Luggage: Essential Travel Tips'
+description: 'Flying can be a stressful experience, especially when you''re unsure
+  about what you can pack in your luggage. If you''re wondering whether you can put
+  a weed pen '
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-weed-pen-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-weed-pen-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Flying can be a stressful experience, especially when you're unsure about what you can pack in your luggage. If you're wondering whether you can put a weed pen in your checked luggage, you're not alone.**

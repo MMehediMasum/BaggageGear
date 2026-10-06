@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Old is Money Bag Yo: Discover His Age and Rise to Fame"
 description: "Curiosity often leads us down fascinating paths, doesn’t it? When it comes to your favorite artists, you probably find yourself wanting to know everything about"
 pubDate: 2026-03-18

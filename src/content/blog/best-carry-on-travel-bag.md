@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Travel Bag: Top Lightweight, Waterproof, and Stylish Picks"
-description: "Choosing the best carry on travel bag makes your trips easier and more organized. A good bag fits airline rules and holds all essentials comfortably. Travel bag"
+title: 'Best Carry On Travel Bag: Top Lightweight, Waterproof, and Stylish Picks'
+description: Choosing the best carry on travel bag makes your trips easier and more
+  organized. A good bag fits airline rules and holds all essentials comfortably. Travel
+  bag
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-travel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-travel-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry on travel bag makes your trips easier and more organized. A good bag fits airline rules and holds all essentials comfortably.**

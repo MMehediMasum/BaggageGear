@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Toiletry Bag for Carry on: Top Picks for Jetsetters"
-description: "Choosing the best travel toiletry bag for carry-on travel makes packing easier and faster. A good bag keeps your toiletries organized and meets airline rules. T"
+title: 'Best Travel Toiletry Bag for Carry on: Top Picks for Jetsetters'
+description: Choosing the best travel toiletry bag for carry-on travel makes packing
+  easier and faster. A good bag keeps your toiletries organized and meets airline
+  rules. T
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-toiletry-bag-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Toiletry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-toiletry-bag-for-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel toiletry bag for carry-on travel makes packing easier and faster. A good bag keeps your toiletries organized and meets airline rules.**

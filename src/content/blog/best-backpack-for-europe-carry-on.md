@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Europe Carry On: Top Picks for Travel Ease"
-description: "Choosing the best backpack for Europe carry-on travel can make your trip easier and more comfortable. A good backpack fits airline rules and holds all essential"
+title: 'Best Backpack for Europe Carry On: Top Picks for Travel Ease'
+description: Choosing the best backpack for Europe carry-on travel can make your trip
+  easier and more comfortable. A good backpack fits airline rules and holds all essential
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-europe-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-europe-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for Europe carry-on travel can make your trip easier and more comfortable. A good backpack fits airline rules and holds all essentials without weighing you down.**

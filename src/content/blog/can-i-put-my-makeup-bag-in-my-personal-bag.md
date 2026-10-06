@@ -1,10 +1,13 @@
 ---
-title: "Can I Put My Makeup Bag in My Personal Bag? Essential Tips!"
-description: "Ever found yourself at the airport, clutching your personal bag and wondering if your makeup bag can squeeze in there too? You're not alone. Navigating the maze"
+title: Can I Put My Makeup Bag in My Personal Bag? Essential Tips!
+description: Ever found yourself at the airport, clutching your personal bag and wondering
+  if your makeup bag can squeeze in there too? You're not alone. Navigating the maze
 pubDate: 2025-09-05
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-my-makeup-bag-in-my-personal-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-my-makeup-bag-in-my-personal-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself at the airport, clutching your personal bag and wondering if your makeup bag can squeeze in there too? You're not alone.**

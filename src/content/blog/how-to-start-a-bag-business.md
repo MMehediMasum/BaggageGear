@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Start a Bag Business: Ultimate Guide for Success in 2025"
 description: "Are you dreaming of launching your own bag business but feel overwhelmed by where to start? You're not alone. Many have faced the same hurdle, but those who too"
 pubDate: 2025-09-03

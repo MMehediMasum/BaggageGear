@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Hairspray in Luggage: Ultimate Travel Safety Guide"
-description: "Traveling can be exciting, but packing can sometimes feel like a puzzle. You've probably stood in front of your suitcase, hairspray in hand, wondering if you ca"
+title: 'Can You Check Hairspray in Luggage: Ultimate Travel Safety Guide'
+description: Traveling can be exciting, but packing can sometimes feel like a puzzle.
+  You've probably stood in front of your suitcase, hairspray in hand, wondering if
+  you ca
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-hairspray-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-hairspray-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be exciting, but packing can sometimes feel like a puzzle. You've probably stood in front of your suitcase, hairspray in hand, wondering if you can safely tuck it away in your luggage.**

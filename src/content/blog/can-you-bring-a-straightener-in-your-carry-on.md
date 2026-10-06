@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Straightener in Your Carry On: TSA Rules Explained"
-description: "Are you packing your bags for an exciting trip and wondering if you can bring your straightener in your carry-on luggage? You're not alone. Many travelers face "
+title: 'Can You Bring a Straightener in Your Carry On: TSA Rules Explained'
+description: 'Are you packing your bags for an exciting trip and wondering if you
+  can bring your straightener in your carry-on luggage? You''re not alone. Many travelers
+  face '
 pubDate: 2026-02-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-straightener-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-straightener-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing your bags for an exciting trip and wondering if you can bring your straightener in your carry-on luggage? You're not alone.**

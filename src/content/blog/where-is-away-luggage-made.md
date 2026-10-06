@@ -1,10 +1,13 @@
 ---
-title: "Where is Away Luggage Made: Uncover the Origin Secrets"
-description: "Have you ever wondered where your Away luggage is actually made? Knowing the origin of your suitcase can give you peace of mind about its quality and durability"
+title: 'Where is Away Luggage Made: Uncover the Origin Secrets'
+description: Have you ever wondered where your Away luggage is actually made? Knowing
+  the origin of your suitcase can give you peace of mind about its quality and durability
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-away-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-away-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered where your Away luggage is actually made? Knowing the origin of your suitcase can give you peace of mind about its quality and durability.**

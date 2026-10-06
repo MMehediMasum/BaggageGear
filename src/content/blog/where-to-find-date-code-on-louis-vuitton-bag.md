@@ -1,10 +1,14 @@
 ---
-title: "Where to Find Date Code on Louis Vuitton Bag: Ultimate Guide"
-description: "Are you trying to authenticate your Louis Vuitton bag and wondering where to locate that elusive date code? You're not alone. Many Louis Vuitton owners face thi"
+title: 'Where to Find Date Code on Louis Vuitton Bag: Ultimate Guide'
+description: Are you trying to authenticate your Louis Vuitton bag and wondering where
+  to locate that elusive date code? You're not alone. Many Louis Vuitton owners face
+  thi
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-find-date-code-on-louis-vuitton-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-find-date-code-on-louis-vuitton-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you trying to authenticate your Louis Vuitton bag and wondering where to locate that elusive date code? You're not alone.**

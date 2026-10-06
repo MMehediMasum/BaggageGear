@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Cigarettes in Carry On: Essential Travel Rules Revealed"
-description: "You're planning your trip, ticking off your packing list, and suddenly wonder, \"Can you pack cigarettes in your carry-on?\" It's a question that might have cross"
+title: 'Can You Pack Cigarettes in Carry On: Essential Travel Rules Revealed'
+description: You're planning your trip, ticking off your packing list, and suddenly
+  wonder, "Can you pack cigarettes in your carry-on?" It's a question that might have
+  cross
 pubDate: 2025-09-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-cigarettes-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-cigarettes-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're planning your trip, ticking off your packing list, and suddenly wonder, "Can you pack cigarettes in your carry-on?" It's a question that might have crossed your mind, especially with airport security regulations becoming more stringent.**

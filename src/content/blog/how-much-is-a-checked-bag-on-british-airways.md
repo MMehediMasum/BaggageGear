@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on British Airways: Ultimate Cost Guide"
-description: "Planning a trip with British Airways and wondering how much it will cost to check a bag? You're not alone. Navigating airline fees can feel like solving a compl"
+title: 'How Much is a Checked Bag on British Airways: Ultimate Cost Guide'
+description: Planning a trip with British Airways and wondering how much it will cost
+  to check a bag? You're not alone. Navigating airline fees can feel like solving
+  a compl
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-british-airways&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-british-airways&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with British Airways and wondering how much it will cost to check a bag? You're not alone.**

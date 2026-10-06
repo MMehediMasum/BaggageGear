@@ -1,10 +1,13 @@
 ---
-title: "Are High Sierra Backpacks Good: Ultimate Review & Buying Guide"
-description: "Imagine finding the perfect backpack that seamlessly blends style, durability, and functionality. High Sierra backpacks might just be the answer to your quest. "
+title: 'Are High Sierra Backpacks Good: Ultimate Review & Buying Guide'
+description: 'Imagine finding the perfect backpack that seamlessly blends style, durability,
+  and functionality. High Sierra backpacks might just be the answer to your quest. '
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-high-sierra-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-high-sierra-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine finding the perfect backpack that seamlessly blends style, durability, and functionality. High Sierra backpacks might just be the answer to your quest.**

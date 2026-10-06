@@ -1,10 +1,14 @@
 ---
-title: "Are Airtags Allowed in Checked Luggage in Europe: Essential Rules Revealed"
-description: "Are you planning a trip to Europe and wondering if you can pack your AirTags in your checked luggage? You're not alone. With travel rules constantly changing, i"
+title: 'Are Airtags Allowed in Checked Luggage in Europe: Essential Rules Revealed'
+description: Are you planning a trip to Europe and wondering if you can pack your
+  AirTags in your checked luggage? You're not alone. With travel rules constantly
+  changing, i
 pubDate: 2026-03-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-airtags-allowed-in-checked-luggage-in-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Trackers And AirTags
+heroImage: https://tse1.mm.bing.net/th?q=are-airtags-allowed-in-checked-luggage-in-europe&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you planning a trip to Europe and wondering if you can pack your AirTags in your checked luggage? You're not alone.**

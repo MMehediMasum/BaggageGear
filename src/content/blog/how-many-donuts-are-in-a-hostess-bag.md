@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Donuts are in a Hostess Bag: The Ultimate Count Revealed"
 description: "Ever grabbed a bag of Hostess Donettes and wondered just how many delightful treats are inside? You're not alone. The answer isn't just a number; it’s a doorway"
 pubDate: 2025-12-10

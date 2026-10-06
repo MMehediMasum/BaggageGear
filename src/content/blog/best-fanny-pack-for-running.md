@@ -1,10 +1,14 @@
 ---
-title: "Best Fanny Pack for Running: Slim, Secure, and Perfect for All Phones"
-description: "Finding the best fanny pack for running keeps your essentials safe and hands-free. A good running belt fits well, feels light, and holds your phone, keys, and m"
+title: 'Best Fanny Pack for Running: Slim, Secure, and Perfect for All Phones'
+description: Finding the best fanny pack for running keeps your essentials safe and
+  hands-free. A good running belt fits well, feels light, and holds your phone, keys,
+  and m
 pubDate: 2025-10-25
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-fanny-pack-for-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sling Bags And Fanny Packs
+heroImage: https://tse1.mm.bing.net/th?q=best-fanny-pack-for-running&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best fanny pack for running keeps your essentials safe and hands-free. A good running belt fits well, feels light, and holds your phone, keys, and money securely.**

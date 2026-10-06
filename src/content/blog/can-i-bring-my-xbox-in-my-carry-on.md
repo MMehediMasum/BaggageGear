@@ -1,10 +1,13 @@
 ---
-title: "Can I Bring My Xbox in My Carry on: Travel Tips You Need to Know"
-description: "Are you planning a trip and wondering, \"Can I bring my Xbox in my carry-on?\" You're not alone. Many gamers face this dilemma, wanting to keep their beloved cons"
+title: 'Can I Bring My Xbox in My Carry on: Travel Tips You Need to Know'
+description: Are you planning a trip and wondering, "Can I bring my Xbox in my carry-on?"
+  You're not alone. Many gamers face this dilemma, wanting to keep their beloved cons
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-my-xbox-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-my-xbox-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering, "Can I bring my Xbox in my carry-on?" You're not alone.**

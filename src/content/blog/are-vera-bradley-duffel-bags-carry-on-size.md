@@ -1,10 +1,14 @@
 ---
-title: "Are Vera Bradley Duffel Bags Carry on Size? Ultimate Travel Guide"
-description: "Are you wondering if your Vera Bradley duffel bag fits the carry-on size rules? Choosing the right bag can make your travel experience so much easier. You don’t"
+title: Are Vera Bradley Duffel Bags Carry on Size? Ultimate Travel Guide
+description: Are you wondering if your Vera Bradley duffel bag fits the carry-on size
+  rules? Choosing the right bag can make your travel experience so much easier. You
+  don’t
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-vera-bradley-duffel-bags-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=are-vera-bradley-duffel-bags-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering if your Vera Bradley duffel bag fits the carry-on size rules? Choosing the right bag can make your travel experience so much easier.**

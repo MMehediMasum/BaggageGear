@@ -1,10 +1,14 @@
 ---
-title: "Do They Weigh Carry on Bags: Essential Tips for Stress-Free Travel"
-description: "Picture this: you're standing in line at the airport, eagerly anticipating your adventure, when suddenly a wave of uncertainty hits you. Will your carry-on bag "
+title: 'Do They Weigh Carry on Bags: Essential Tips for Stress-Free Travel'
+description: 'Picture this: you''re standing in line at the airport, eagerly anticipating
+  your adventure, when suddenly a wave of uncertainty hits you. Will your carry-on
+  bag '
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-they-weigh-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=do-they-weigh-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: you're standing in line at the airport, eagerly anticipating your adventure, when suddenly a wave of uncertainty hits you. Will your carry-on bag pass the weight test?**

@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Hair Mousse in Carry On: Ultimate TSA Travel Tips"
-description: "Packing hair mousse in your carry-on can feel tricky. You want to keep your hair looking great, but airlines have strict rules about liquids and aerosols. If yo"
+title: 'How to Pack Hair Mousse in Carry On: Ultimate TSA Travel Tips'
+description: Packing hair mousse in your carry-on can feel tricky. You want to keep
+  your hair looking great, but airlines have strict rules about liquids and aerosols.
+  If yo
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-hair-mousse-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-hair-mousse-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing hair mousse in your carry-on can feel tricky. You want to keep your hair looking great, but airlines have strict rules about liquids and aerosols.**

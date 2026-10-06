@@ -1,10 +1,14 @@
 ---
-title: "Do I Need to Pack Underwear in My Hospital Bag? Essential Tips!"
-description: "When the time comes to pack your hospital bag, a million questions might swirl in your mind. You want to be prepared, but not overwhelmed. One common, yet often"
+title: Do I Need to Pack Underwear in My Hospital Bag? Essential Tips!
+description: When the time comes to pack your hospital bag, a million questions might
+  swirl in your mind. You want to be prepared, but not overwhelmed. One common, yet
+  often
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-i-need-to-pack-underwear-in-my-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=do-i-need-to-pack-underwear-in-my-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **When the time comes to pack your hospital bag, a million questions might swirl in your mind. You want to be prepared, but not overwhelmed.**

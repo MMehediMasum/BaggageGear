@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Hermes Kelly Bag: Ultimate Price Guide 2025"
-description: "Imagine holding a piece of luxury history in your hands. The Hermes Kelly Bag is not just a handbag; it's a symbol of elegance, style, and exclusivity. You migh"
+title: 'How Much is a Hermes Kelly Bag: Ultimate Price Guide 2025'
+description: Imagine holding a piece of luxury history in your hands. The Hermes Kelly
+  Bag is not just a handbag; it's a symbol of elegance, style, and exclusivity. You
+  migh
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-hermes-kelly-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-hermes-kelly-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine holding a piece of luxury history in your hands. The Hermes Kelly Bag is not just a handbag; it's a symbol of elegance, style, and exclusivity.**

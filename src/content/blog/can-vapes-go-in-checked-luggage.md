@@ -1,10 +1,14 @@
 ---
-title: "Can Vapes Go in Checked Luggage: Essential Travel Rules Revealed"
-description: "Are you preparing for a trip and wondering if you can pack your vape in your checked luggage? You're not alone. Many travelers face this dilemma, often unsure a"
+title: 'Can Vapes Go in Checked Luggage: Essential Travel Rules Revealed'
+description: Are you preparing for a trip and wondering if you can pack your vape
+  in your checked luggage? You're not alone. Many travelers face this dilemma, often
+  unsure a
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-vapes-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-vapes-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you preparing for a trip and wondering if you can pack your vape in your checked luggage? You're not alone.**

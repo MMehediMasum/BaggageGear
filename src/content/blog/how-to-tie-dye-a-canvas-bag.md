@@ -1,10 +1,14 @@
 ---
-title: "How to Tie Dye a Canvas Bag: Easy Steps for Stunning Designs"
-description: "Are you looking to add a splash of color to your everyday accessories? Imagine carrying a canvas bag that’s not just functional, but also a vibrant expression o"
+title: 'How to Tie Dye a Canvas Bag: Easy Steps for Stunning Designs'
+description: Are you looking to add a splash of color to your everyday accessories?
+  Imagine carrying a canvas bag that’s not just functional, but also a vibrant expression
+  o
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tie-dye-a-canvas-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Customizing And Decorating Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tie-dye-a-canvas-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you looking to add a splash of color to your everyday accessories? Imagine carrying a canvas bag that’s not just functional, but also a vibrant expression of your creativity.**

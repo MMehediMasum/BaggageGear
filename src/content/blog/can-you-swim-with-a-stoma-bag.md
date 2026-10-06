@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Swim With a Stoma Bag: Essential Tips for Confidence"
 description: "Are you wondering if you can enjoy swimming with a stoma bag? You're not alone. Many people have concerns about diving into the pool or ocean while managing a s"
 pubDate: 2026-04-03

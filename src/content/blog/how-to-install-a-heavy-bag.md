@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Install a Heavy Bag: Easy Steps for Safe Setup"
 description: "Are you eager to bring the power of a boxing gym right into your home? Installing a heavy bag can be a game-changer for your workouts, offering an exciting way "
 pubDate: 2026-03-18

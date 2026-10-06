@@ -1,10 +1,14 @@
 ---
-title: "What Size Suitcase for 3 Week Trip: Ultimate Packing Guide"
-description: "Packing for a 3-week trip can feel overwhelming. You want to bring everything you need without lugging around a heavy, bulky suitcase. So, what size suitcase is"
+title: 'What Size Suitcase for 3 Week Trip: Ultimate Packing Guide'
+description: Packing for a 3-week trip can feel overwhelming. You want to bring everything
+  you need without lugging around a heavy, bulky suitcase. So, what size suitcase
+  is
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-suitcase-for-3-week-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-suitcase-for-3-week-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a 3-week trip can feel overwhelming. You want to bring everything you need without lugging around a heavy, bulky suitcase.**

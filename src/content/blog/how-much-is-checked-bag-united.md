@@ -1,10 +1,14 @@
 ---
-title: "How Much is Checked Bag United: Essential Fees & Tips Revealed"
-description: "Are you planning a trip and wondering, \"How much is a checked bag with United Airlines?\" If so, you're not alone. Hidden travel costs can sneak up on you, turni"
+title: 'How Much is Checked Bag United: Essential Fees & Tips Revealed'
+description: Are you planning a trip and wondering, "How much is a checked bag with
+  United Airlines?" If so, you're not alone. Hidden travel costs can sneak up on you,
+  turni
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-checked-bag-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-checked-bag-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering, "How much is a checked bag with United Airlines?" If so, you're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage Can You Check in on a Plane: Ultimate Guide 2025"
-description: "Are you gearing up for your next adventure and wondering, \"What size luggage can you check in on a plane?\" You're not alone. Navigating airline baggage policies"
+title: 'What Size Luggage Can You Check in on a Plane: Ultimate Guide 2025'
+description: Are you gearing up for your next adventure and wondering, "What size
+  luggage can you check in on a plane?" You're not alone. Navigating airline baggage
+  policies
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-can-you-check-in-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-can-you-check-in-on-a-plane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next adventure and wondering, "What size luggage can you check in on a plane?" You're not alone.**

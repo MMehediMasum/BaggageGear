@@ -1,10 +1,13 @@
 ---
-title: "Is Lucas Luggage Good: Honest Review & Top Reasons to Buy"
-description: "Are you on the hunt for the perfect travel companion? Choosing the right luggage can make or break your travel experience. If you’ve been eyeing Lucas Luggage, "
+title: 'Is Lucas Luggage Good: Honest Review & Top Reasons to Buy'
+description: 'Are you on the hunt for the perfect travel companion? Choosing the right
+  luggage can make or break your travel experience. If you’ve been eyeing Lucas Luggage, '
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-lucas-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-lucas-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? Choosing the right luggage can make or break your travel experience.**

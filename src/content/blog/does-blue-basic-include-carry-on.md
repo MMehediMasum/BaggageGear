@@ -1,10 +1,14 @@
 ---
-title: "Does Blue Basic Include Carry On: Essential Travel Bag Insights"
-description: "Are you wondering if Blue Basic includes a carry-on bag with your ticket? It’s a question many travelers ask before booking, and getting the answer can save you"
+title: 'Does Blue Basic Include Carry On: Essential Travel Bag Insights'
+description: Are you wondering if Blue Basic includes a carry-on bag with your ticket?
+  It’s a question many travelers ask before booking, and getting the answer can save
+  you
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-blue-basic-include-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-blue-basic-include-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering if Blue Basic includes a carry-on bag with your ticket? It’s a question many travelers ask before booking, and getting the answer can save you from unexpected fees or last-minute packing headaches.**

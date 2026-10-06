@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Women: Stylish, Durable, and Lightweight Picks"
-description: "Choosing the best carry-on luggage for women makes travel easier and more comfortable. This guide highlights top options that blend style, durability, and conve"
+title: 'Best Carry On Luggage for Women: Stylish, Durable, and Lightweight Picks'
+description: Choosing the best carry-on luggage for women makes travel easier and
+  more comfortable. This guide highlights top options that blend style, durability,
+  and conve
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-women&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for women makes travel easier and more comfortable. This guide highlights top options that blend style, durability, and convenience.**

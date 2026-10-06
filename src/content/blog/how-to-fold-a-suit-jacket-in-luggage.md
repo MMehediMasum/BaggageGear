@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Suit Jacket in Luggage: Expert Tips for Wrinkle-Free Travel"
-description: "Packing a suit jacket can feel like an art form. You want to look sharp and professional when you arrive at your destination, but the thought of your jacket eme"
+title: 'How to Fold a Suit Jacket in Luggage: Expert Tips for Wrinkle-Free Travel'
+description: Packing a suit jacket can feel like an art form. You want to look sharp
+  and professional when you arrive at your destination, but the thought of your jacket
+  eme
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-jacket-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-jacket-in-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suit jacket can feel like an art form. You want to look sharp and professional when you arrive at your destination, but the thought of your jacket emerging from your luggage wrinkled and creased is enough to make anyone anxious.**

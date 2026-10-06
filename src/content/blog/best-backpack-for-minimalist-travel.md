@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Minimalist Travel: Top Lightweight Carry-On Daypacks Reviewed"
-description: "Choosing the best backpack for minimalist travel can simplify your trips and keep your essentials organized. A good minimalist backpack balances size, comfort, "
+title: 'Best Backpack for Minimalist Travel: Top Lightweight Carry-On Daypacks Reviewed'
+description: 'Choosing the best backpack for minimalist travel can simplify your trips
+  and keep your essentials organized. A good minimalist backpack balances size, comfort, '
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-minimalist-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-minimalist-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for minimalist travel can simplify your trips and keep your essentials organized. A good minimalist backpack balances size, comfort, and functionality without extra bulk.**

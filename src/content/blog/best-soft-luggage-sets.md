@@ -1,10 +1,13 @@
 ---
-title: "Best Soft Luggage Sets: Discover Lightweight and Durable Travel Companions"
-description: "Choosing the best soft luggage sets can make travel easier and more organized. Soft luggage offers flexibility, lightweight design, and convenient storage optio"
+title: 'Best Soft Luggage Sets: Discover Lightweight and Durable Travel Companions'
+description: Choosing the best soft luggage sets can make travel easier and more organized.
+  Soft luggage offers flexibility, lightweight design, and convenient storage optio
 pubDate: 2026-07-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft luggage sets can make travel easier and more organized. Soft luggage offers flexibility, lightweight design, and convenient storage options.**

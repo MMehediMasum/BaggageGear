@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Shaving Cream in a Checked Bag: Essential Travel Rules"
-description: "Packing for a trip can feel like solving a puzzle. You want to make sure you have everything you need without overpacking. One question that often pops up is ab"
+title: 'Can You Put Shaving Cream in a Checked Bag: Essential Travel Rules'
+description: Packing for a trip can feel like solving a puzzle. You want to make sure
+  you have everything you need without overpacking. One question that often pops up
+  is ab
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-shaving-cream-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-shaving-cream-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can feel like solving a puzzle. You want to make sure you have everything you need without overpacking.**

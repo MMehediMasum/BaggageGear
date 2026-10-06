@@ -1,10 +1,14 @@
 ---
-title: "Can I Check in a Box As Luggage: Essential Tips You Must Know"
-description: "Have you ever stood in your living room, staring at a box, and wondered if it could join you on your next flight as checked luggage? You’re not alone. Many trav"
+title: 'Can I Check in a Box As Luggage: Essential Tips You Must Know'
+description: Have you ever stood in your living room, staring at a box, and wondered
+  if it could join you on your next flight as checked luggage? You’re not alone. Many
+  trav
 pubDate: 2025-09-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-in-a-box-as-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-in-a-box-as-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood in your living room, staring at a box, and wondered if it could join you on your next flight as checked luggage? You’re not alone.**

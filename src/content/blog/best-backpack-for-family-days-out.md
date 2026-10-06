@@ -1,10 +1,15 @@
 ---
-title: "Best Backpack for Family Days Out: Lightweight, Water-Resistant, and Packable Picks"
-description: "Choosing the best backpack for family days out makes every trip easier and more fun. A good backpack holds all essentials while staying comfortable and durable."
+title: 'Best Backpack for Family Days Out: Lightweight, Water-Resistant, and Packable
+  Picks'
+description: Choosing the best backpack for family days out makes every trip easier
+  and more fun. A good backpack holds all essentials while staying comfortable and
+  durable.
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-family-days-out&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-family-days-out&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for family days out makes every trip easier and more fun. A good backpack holds all essentials while staying comfortable and durable.**

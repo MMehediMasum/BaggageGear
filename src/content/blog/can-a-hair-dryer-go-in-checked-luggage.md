@@ -1,10 +1,14 @@
 ---
-title: "Can a Hair Dryer Go in Checked Luggage: Travel Tips"
-description: "Are you packing for a trip and wondering if you can put your hair dryer in your checked luggage? It’s a common question that can save you time, hassle, and even"
+title: 'Can a Hair Dryer Go in Checked Luggage: Travel Tips'
+description: Are you packing for a trip and wondering if you can put your hair dryer
+  in your checked luggage? It’s a common question that can save you time, hassle,
+  and even
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-hair-dryer-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-a-hair-dryer-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for a trip and wondering if you can put your hair dryer in your checked luggage? It’s a common question that can save you time, hassle, and even extra fees at the airport.**

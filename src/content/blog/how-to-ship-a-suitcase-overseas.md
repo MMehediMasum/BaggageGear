@@ -1,10 +1,14 @@
 ---
-title: "How to Ship a Suitcase Overseas: Easy, Fast & Secure Tips"
-description: "Shipping a suitcase overseas can be a daunting task. You might be worried about the cost, the safety of your belongings, or even where to start. Imagine the rel"
+title: 'How to Ship a Suitcase Overseas: Easy, Fast & Secure Tips'
+description: Shipping a suitcase overseas can be a daunting task. You might be worried
+  about the cost, the safety of your belongings, or even where to start. Imagine the
+  rel
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-ship-a-suitcase-overseas&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-ship-a-suitcase-overseas&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Shipping a suitcase overseas can be a daunting task. You might be worried about the cost, the safety of your belongings, or even where to start.**

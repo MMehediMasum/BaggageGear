@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Backpack for Work: Top Durable, Water-Resistant Picks"
-description: "Finding the best lightweight backpack for work can improve your daily comfort and organization. A good backpack carries your laptop and essentials without feeli"
+title: 'Best Lightweight Backpack for Work: Top Durable, Water-Resistant Picks'
+description: Finding the best lightweight backpack for work can improve your daily
+  comfort and organization. A good backpack carries your laptop and essentials without
+  feeli
 pubDate: 2026-07-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-work&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best lightweight backpack for work can improve your daily comfort and organization. A good backpack carries your laptop and essentials without feeling heavy or bulky.**

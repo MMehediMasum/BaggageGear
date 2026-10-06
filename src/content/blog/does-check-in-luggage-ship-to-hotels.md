@@ -1,10 +1,14 @@
 ---
-title: "Does Check in Luggage Ship to Hotels? Essential Travel Tips"
-description: "Imagine this: you’re jetting off on a much-anticipated vacation or a crucial business trip, and the last thing you want to worry about is lugging around heavy s"
+title: Does Check in Luggage Ship to Hotels? Essential Travel Tips
+description: 'Imagine this: you’re jetting off on a much-anticipated vacation or a
+  crucial business trip, and the last thing you want to worry about is lugging around
+  heavy s'
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-check-in-luggage-ship-to-hotels&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=does-check-in-luggage-ship-to-hotels&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you’re jetting off on a much-anticipated vacation or a crucial business trip, and the last thing you want to worry about is lugging around heavy suitcases. Wouldn't it be amazing if your check-in luggage could magically appear at your hotel, sparing you the hassle?**

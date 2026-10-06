@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Anything But a Backpack Day: Fun Ways to Celebrate!"
 description: "Imagine showing up to school or work carrying your essentials in a shopping cart, a guitar case, or maybe even a microwave. Sounds wild, right? That's the fun a"
 pubDate: 2025-09-27

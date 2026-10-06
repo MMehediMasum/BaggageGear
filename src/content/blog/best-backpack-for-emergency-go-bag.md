@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Emergency Go Bag: Top Tactical Survival Kits Reviewed"
-description: "Choosing the best backpack for an emergency go bag is crucial for quick and safe evacuation. A reliable pack holds essential supplies for survival during disast"
+title: 'Best Backpack for Emergency Go Bag: Top Tactical Survival Kits Reviewed'
+description: Choosing the best backpack for an emergency go bag is crucial for quick
+  and safe evacuation. A reliable pack holds essential supplies for survival during
+  disast
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-emergency-go-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hunting Tactical And Emergency Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-emergency-go-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for an emergency go bag is crucial for quick and safe evacuation. A reliable pack holds essential supplies for survival during disasters.**

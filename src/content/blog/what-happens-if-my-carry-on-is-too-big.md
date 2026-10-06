@@ -1,10 +1,14 @@
 ---
-title: "What Happens If My Carry on is Too Big: Essential Tips Revealed"
-description: "You're all set for your trip, bags packed and ready to go. But then a thought crosses your mind – what if your carry-on is too big? This question might seem sma"
+title: 'What Happens If My Carry on is Too Big: Essential Tips Revealed'
+description: You're all set for your trip, bags packed and ready to go. But then a
+  thought crosses your mind – what if your carry-on is too big? This question might
+  seem sma
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-happens-if-my-carry-on-is-too-big&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=what-happens-if-my-carry-on-is-too-big&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're all set for your trip, bags packed and ready to go. But then a thought crosses your mind – what if your carry-on is too big?**

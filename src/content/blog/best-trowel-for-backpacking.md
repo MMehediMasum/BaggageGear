@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Trowel for Backpacking: Discover Ultralight Options for Outdoor Adventures"
 description: "Choosing the best trowel for backpacking makes outdoor trips easier and cleaner. A good trowel helps with digging small holes for waste and campsite tasks. Back"
 pubDate: 2026-06-10

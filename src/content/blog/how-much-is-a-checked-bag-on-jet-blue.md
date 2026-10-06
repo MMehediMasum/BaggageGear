@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Jet Blue: Ultimate Cost Guide 2025"
-description: "Planning a trip with JetBlue and wondering how much it will cost to check your bag? You’re not alone. Knowing the exact fees can help you avoid surprises at the"
+title: 'How Much is a Checked Bag on Jet Blue: Ultimate Cost Guide 2025'
+description: Planning a trip with JetBlue and wondering how much it will cost to check
+  your bag? You’re not alone. Knowing the exact fees can help you avoid surprises
+  at the
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-jet-blue&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-jet-blue&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with JetBlue and wondering how much it will cost to check your bag? You’re not alone.**

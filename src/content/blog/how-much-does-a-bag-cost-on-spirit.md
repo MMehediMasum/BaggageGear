@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Bag Cost on Spirit: Ultimate Price Guide 2025"
-description: "Planning your next getaway and considering flying with Spirit Airlines? You're probably wondering about the cost of bringing your bags along for the ride. Bagga"
+title: 'How Much Does a Bag Cost on Spirit: Ultimate Price Guide 2025'
+description: Planning your next getaway and considering flying with Spirit Airlines?
+  You're probably wondering about the cost of bringing your bags along for the ride.
+  Bagga
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-bag-cost-on-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-bag-cost-on-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next getaway and considering flying with Spirit Airlines? You're probably wondering about the cost of bringing your bags along for the ride.**

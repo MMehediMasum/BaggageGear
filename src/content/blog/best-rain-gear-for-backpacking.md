@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Rain Gear for Backpacking: Top Waterproof Essentials for Outdoor Adventures"
 description: "Finding reliable rain gear can make or break a backpacking trip. Staying dry keeps you comfortable and safe on the trail. Rain gear needs to be waterproof, ligh"
 pubDate: 2026-06-12

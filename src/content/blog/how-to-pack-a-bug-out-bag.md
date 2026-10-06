@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Bug Out Bag: Essential Tips for Survival Ready"
-description: "Imagine facing an unexpected emergency where you need to leave your home quickly. Would you be ready? A well-prepared bug out bag could be your lifeline. In sit"
+title: 'How to Pack a Bug Out Bag: Essential Tips for Survival Ready'
+description: Imagine facing an unexpected emergency where you need to leave your home
+  quickly. Would you be ready? A well-prepared bug out bag could be your lifeline.
+  In sit
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine facing an unexpected emergency where you need to leave your home quickly. Would you be ready?**

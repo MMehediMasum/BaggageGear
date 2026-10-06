@@ -1,10 +1,14 @@
 ---
-title: "Best Travelpro Carry On Luggage for Lightweight and Durable Travel"
-description: "Choosing the best Travelpro carry-on can make your trips easier and more comfortable. These suitcases combine style, durability, and convenience for all travele"
+title: Best Travelpro Carry On Luggage for Lightweight and Durable Travel
+description: Choosing the best Travelpro carry-on can make your trips easier and more
+  comfortable. These suitcases combine style, durability, and convenience for all
+  travele
 pubDate: 2026-08-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travelpro-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-travelpro-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best Travelpro carry-on can make your trips easier and more comfortable. These suitcases combine style, durability, and convenience for all travelers.**

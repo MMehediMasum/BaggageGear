@@ -1,10 +1,14 @@
 ---
-title: "What is the Biggest Suitcase You Can Check: Ultimate Size Guide"
-description: "Are you planning your next big adventure and wondering about the biggest suitcase you can check in at the airport? You're not alone. Many travelers face this di"
+title: 'What is the Biggest Suitcase You Can Check: Ultimate Size Guide'
+description: Are you planning your next big adventure and wondering about the biggest
+  suitcase you can check in at the airport? You're not alone. Many travelers face
+  this di
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-biggest-suitcase-you-can-check&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-biggest-suitcase-you-can-check&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next big adventure and wondering about the biggest suitcase you can check in at the airport? You're not alone.**

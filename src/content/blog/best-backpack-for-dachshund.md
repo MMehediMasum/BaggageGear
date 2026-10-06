@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Dachshund: Top Durable and Stylish Carriers Reviewed"
-description: "Finding the best backpack for your dachshund can make travel and daily outings easier. A well-chosen backpack keeps your pet safe, comfortable, and close to you"
+title: 'Best Backpack for Dachshund: Top Durable and Stylish Carriers Reviewed'
+description: Finding the best backpack for your dachshund can make travel and daily
+  outings easier. A well-chosen backpack keeps your pet safe, comfortable, and close
+  to you
 pubDate: 2026-07-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-dachshund&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-dachshund&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for your dachshund can make travel and daily outings easier. A well-chosen backpack keeps your pet safe, comfortable, and close to you.**

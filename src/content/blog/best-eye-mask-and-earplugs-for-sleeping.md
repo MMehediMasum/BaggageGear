@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Mask And Earplugs for Sleeping: Ultimate Comfort and Blockout Guide"
-description: "Finding the best eye mask and earplugs can significantly improve your sleep quality. Comfortable, light-blocking masks and noise-reducing earplugs can help you "
+title: 'Best Eye Mask And Earplugs for Sleeping: Ultimate Comfort and Blockout Guide'
+description: 'Finding the best eye mask and earplugs can significantly improve your
+  sleep quality. Comfortable, light-blocking masks and noise-reducing earplugs can
+  help you '
 pubDate: 2025-09-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-mask-and-earplugs-for-sleeping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-mask-and-earplugs-for-sleeping&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best eye mask and earplugs can significantly improve your sleep quality. Comfortable, light-blocking masks and noise-reducing earplugs can help you rest better.**

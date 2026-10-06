@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Grow Lima Beans in a Bag: Easy Steps for Thriving Plants"
 description: "Imagine transforming your small space into a lush garden of vibrant lima beans, all with just a simple bag. Yes, you read that right! Growing lima beans in a ba"
 pubDate: 2026-03-29

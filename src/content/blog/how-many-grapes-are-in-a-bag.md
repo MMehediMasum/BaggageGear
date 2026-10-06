@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Grapes are in a Bag: Surprising Facts Revealed"
 description: "Ever found yourself standing in the grocery store, holding a bag of grapes, and wondering just how many grapes are inside? You're not alone. We all love the swe"
 pubDate: 2025-10-30

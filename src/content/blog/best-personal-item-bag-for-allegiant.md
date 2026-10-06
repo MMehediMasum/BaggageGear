@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item Bag for Allegiant Travel: Top Underseat Carry-On Picks"
-description: "Choosing the best personal item bag for Allegiant Airlines helps you travel with ease and stay organized. The right bag fits under the seat and meets size rules"
+title: 'Best Personal Item Bag for Allegiant Travel: Top Underseat Carry-On Picks'
+description: Choosing the best personal item bag for Allegiant Airlines helps you
+  travel with ease and stay organized. The right bag fits under the seat and meets
+  size rules
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item bag for Allegiant Airlines helps you travel with ease and stay organized. The right bag fits under the seat and meets size rules without hassle.**

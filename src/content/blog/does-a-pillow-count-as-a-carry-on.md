@@ -1,10 +1,14 @@
 ---
-title: "Does a Pillow Count As a Carry On? Travel Tips Uncovered"
-description: "Ever found yourself at the airport, clutching a comfy pillow and wondering if it counts as a carry-on item? You’re not alone. Navigating the maze of airline rul"
+title: Does a Pillow Count As a Carry On? Travel Tips Uncovered
+description: Ever found yourself at the airport, clutching a comfy pillow and wondering
+  if it counts as a carry-on item? You’re not alone. Navigating the maze of airline
+  rul
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-pillow-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-a-pillow-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself at the airport, clutching a comfy pillow and wondering if it counts as a carry-on item? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "What Makeup Can I Bring in My Carry On: Essential Travel Tips"
-description: "Are you gearing up for your next adventure and wondering, \"What makeup can I bring in my carry on?\" You're not alone! Navigating airport security with your belo"
+title: 'What Makeup Can I Bring in My Carry On: Essential Travel Tips'
+description: Are you gearing up for your next adventure and wondering, "What makeup
+  can I bring in my carry on?" You're not alone! Navigating airport security with
+  your belo
 pubDate: 2026-02-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-makeup-can-i-bring-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=what-makeup-can-i-bring-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next adventure and wondering, "What makeup can I bring in my carry on?" You're not alone!**

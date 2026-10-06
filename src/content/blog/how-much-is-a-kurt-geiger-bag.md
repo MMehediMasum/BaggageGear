@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Kurt Geiger Bag: Ultimate Price Guide 2025"
-description: "Are you eyeing a stylish Kurt Geiger bag but unsure of the price tag? You're not alone. Many fashion enthusiasts like you are curious about how much these trend"
+title: 'How Much is a Kurt Geiger Bag: Ultimate Price Guide 2025'
+description: Are you eyeing a stylish Kurt Geiger bag but unsure of the price tag?
+  You're not alone. Many fashion enthusiasts like you are curious about how much these
+  trend
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-kurt-geiger-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-kurt-geiger-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you eyeing a stylish Kurt Geiger bag but unsure of the price tag? You're not alone.**

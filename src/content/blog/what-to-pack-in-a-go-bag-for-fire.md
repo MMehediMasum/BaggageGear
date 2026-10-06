@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Go Bag for Fire: Essential Life-Saving Items"
-description: "Picture this: it's a quiet evening, and suddenly, you smell smoke. Your heart races as you realize a fire is nearby. In moments like these, every second counts."
+title: 'What to Pack in a Go Bag for Fire: Essential Life-Saving Items'
+description: 'Picture this: it''s a quiet evening, and suddenly, you smell smoke.
+  Your heart races as you realize a fire is nearby. In moments like these, every second
+  counts.'
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-go-bag-for-fire&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-go-bag-for-fire&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Picture this: it's a quiet evening, and suddenly, you smell smoke. Your heart races as you realize a fire is nearby.**

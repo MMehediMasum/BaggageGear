@@ -1,10 +1,14 @@
 ---
-title: "Is a Duffel Bag a Personal Item Spirit: Ultimate Travel Guide 2025"
-description: "Are you planning your next getaway with Spirit Airlines and wondering if your trusty duffel bag counts as a personal item? You're not alone. Navigating the maze"
+title: 'Is a Duffel Bag a Personal Item Spirit: Ultimate Travel Guide 2025'
+description: Are you planning your next getaway with Spirit Airlines and wondering
+  if your trusty duffel bag counts as a personal item? You're not alone. Navigating
+  the maze
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-duffel-bag-a-personal-item-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-duffel-bag-a-personal-item-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next getaway with Spirit Airlines and wondering if your trusty duffel bag counts as a personal item? You're not alone.**

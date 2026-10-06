@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Women Personal Item: Top Carry-On Picks"
-description: "Finding the best travel backpack for women as a personal item can simplify your trips. These backpacks meet airline rules and keep your essentials organized. Ch"
+title: 'Best Travel Backpack for Women Personal Item: Top Carry-On Picks'
+description: Finding the best travel backpack for women as a personal item can simplify
+  your trips. These backpacks meet airline rules and keep your essentials organized.
+  Ch
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-women-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-women-personal-item&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best travel backpack for women as a personal item can simplify your trips. These backpacks meet airline rules and keep your essentials organized.**

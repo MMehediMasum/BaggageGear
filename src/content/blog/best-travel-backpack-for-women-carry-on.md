@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Women Carry On with USB Charging Port"
-description: "Choosing the best travel backpack for women carry on can make trips easier and more organized. A good backpack fits airline rules and holds all essentials comfo"
+title: Best Travel Backpack for Women Carry On with USB Charging Port
+description: Choosing the best travel backpack for women carry on can make trips easier
+  and more organized. A good backpack fits airline rules and holds all essentials
+  comfo
 pubDate: 2026-08-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-women-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-women-carry-on&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best travel backpack for women carry on can make trips easier and more organized. A good backpack fits airline rules and holds all essentials comfortably.**

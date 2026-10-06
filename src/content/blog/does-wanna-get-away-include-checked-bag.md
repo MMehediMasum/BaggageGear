@@ -1,10 +1,14 @@
 ---
-title: "Does Wanna Get Away Include Checked Bag? Essential Tips Revealed"
-description: "Ever found yourself puzzled over what's included in your airline ticket? If you've booked a \"Wanna Get Away\" fare, you might be wondering if it includes a check"
+title: Does Wanna Get Away Include Checked Bag? Essential Tips Revealed
+description: Ever found yourself puzzled over what's included in your airline ticket?
+  If you've booked a "Wanna Get Away" fare, you might be wondering if it includes
+  a check
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-wanna-get-away-include-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-wanna-get-away-include-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself puzzled over what's included in your airline ticket? If you've booked a "Wanna Get Away" fare, you might be wondering if it includes a checked bag.**

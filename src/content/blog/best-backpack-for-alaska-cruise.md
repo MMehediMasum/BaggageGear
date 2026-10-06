@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Alaska Cruise: Lightweight, Waterproof, and Packable Picks"
-description: "Choosing the best backpack for an Alaska cruise ensures comfort and convenience during your trip. A good backpack holds essentials, stays lightweight, and resis"
+title: 'Best Backpack for Alaska Cruise: Lightweight, Waterproof, and Packable Picks'
+description: Choosing the best backpack for an Alaska cruise ensures comfort and convenience
+  during your trip. A good backpack holds essentials, stays lightweight, and resis
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-alaska-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-alaska-cruise&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for an Alaska cruise ensures comfort and convenience during your trip. A good backpack holds essentials, stays lightweight, and resists water and wear.**

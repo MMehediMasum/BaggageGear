@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does It Cost to Bag a Car: Ultimate Price Guide 2025"
 description: "Have you ever found yourself daydreaming about giving your car that head-turning, jaw-dropping look? Bagging your car with an air suspension system might just b"
 pubDate: 2025-12-07

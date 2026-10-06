@@ -1,10 +1,14 @@
 ---
-title: "Best Budget Hardside Luggage: Affordable, Durable Options for Every Traveler"
-description: "Finding durable and affordable hardside luggage can be tough. This guide highlights the best budget-friendly options for smart travelers. Hardside luggage prote"
+title: 'Best Budget Hardside Luggage: Affordable, Durable Options for Every Traveler'
+description: Finding durable and affordable hardside luggage can be tough. This guide
+  highlights the best budget-friendly options for smart travelers. Hardside luggage
+  prote
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-hardside-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-hardside-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding durable and affordable hardside luggage can be tough. This guide highlights the best budget-friendly options for smart travelers.**

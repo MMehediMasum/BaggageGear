@@ -1,10 +1,14 @@
 ---
-title: "Are Weed Pens Allowed in Carry on: Essential Travel Rules Revealed"
-description: "Traveling can be stressful, especially when you're trying to figure out what you can and cannot bring in your carry-on luggage. If you're wondering about the ru"
+title: 'Are Weed Pens Allowed in Carry on: Essential Travel Rules Revealed'
+description: Traveling can be stressful, especially when you're trying to figure out
+  what you can and cannot bring in your carry-on luggage. If you're wondering about
+  the ru
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-weed-pens-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-weed-pens-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful, especially when you're trying to figure out what you can and cannot bring in your carry-on luggage. If you're wondering about the rules surrounding weed pens, you're not alone.**

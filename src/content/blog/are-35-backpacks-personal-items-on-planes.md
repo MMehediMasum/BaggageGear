@@ -1,10 +1,14 @@
 ---
-title: "Are 35 Backpacks Personal Items on Planes: Ultimate Guide 2025"
-description: "Are you planning your next trip and wondering if your trusty 35-liter backpack counts as a personal item on a plane? Navigating airline baggage rules can feel l"
+title: 'Are 35 Backpacks Personal Items on Planes: Ultimate Guide 2025'
+description: Are you planning your next trip and wondering if your trusty 35-liter
+  backpack counts as a personal item on a plane? Navigating airline baggage rules
+  can feel l
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-35-backpacks-personal-items-on-planes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=are-35-backpacks-personal-items-on-planes&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering if your trusty 35-liter backpack counts as a personal item on a plane? Navigating airline baggage rules can feel like a puzzle, especially when you want to maximize your carry-on space without getting hit with extra fees.**

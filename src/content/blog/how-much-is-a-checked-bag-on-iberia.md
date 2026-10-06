@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Iberia: Essential Cost Guide 2025"
-description: "Planning your next adventure with Iberia Airlines? It's exciting, isn't it? But before you start packing, let's talk about something crucial: checked baggage fe"
+title: 'How Much is a Checked Bag on Iberia: Essential Cost Guide 2025'
+description: 'Planning your next adventure with Iberia Airlines? It''s exciting, isn''t
+  it? But before you start packing, let''s talk about something crucial: checked baggage
+  fe'
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-iberia&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-iberia&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure with Iberia Airlines? It's exciting, isn't it?**

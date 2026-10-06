@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Inside a Boxing Bag: Surprising Secrets Revealed"
 description: "Ever wondered what makes a boxing bag so effective? You're about to uncover the secrets behind the punches. When you hit that bag, there's more than meets the e"
 pubDate: 2025-09-15

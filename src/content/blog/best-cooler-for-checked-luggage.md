@@ -1,10 +1,14 @@
 ---
-title: "Best Cooler for Checked Luggage: Top Picks for Ultimate Travel Convenience"
-description: "Choosing the best cooler for checked luggage keeps your food and medicine fresh during travel. It must fit airline rules and protect items well. Travelers need "
+title: 'Best Cooler for Checked Luggage: Top Picks for Ultimate Travel Convenience'
+description: 'Choosing the best cooler for checked luggage keeps your food and medicine
+  fresh during travel. It must fit airline rules and protect items well. Travelers
+  need '
 pubDate: 2026-07-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cooler-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-cooler-for-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best cooler for checked luggage keeps your food and medicine fresh during travel. It must fit airline rules and protect items well.**

@@ -1,10 +1,14 @@
 ---
-title: "Does Red Rocks Have a Clear Bag Policy? Essential Guide 2025"
-description: "Are you planning your next unforgettable concert experience at Red Rocks Amphitheatre? Before you pack your essentials, there's something crucial you need to kn"
+title: Does Red Rocks Have a Clear Bag Policy? Essential Guide 2025
+description: Are you planning your next unforgettable concert experience at Red Rocks
+  Amphitheatre? Before you pack your essentials, there's something crucial you need
+  to kn
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-red-rocks-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-red-rocks-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next unforgettable concert experience at Red Rocks Amphitheatre? Before you pack your essentials, there's something crucial you need to know: Does Red Rocks have a clear bag policy?**

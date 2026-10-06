@@ -1,10 +1,13 @@
 ---
-title: "Best Carry On Hand Luggage for Durable, Lightweight, and Stylish Travel"
-description: "Choosing the best carry-on hand luggage can make travel easier and less stressful. The right suitcase fits airline rules and holds your essentials comfortably. "
+title: Best Carry On Hand Luggage for Durable, Lightweight, and Stylish Travel
+description: 'Choosing the best carry-on hand luggage can make travel easier and less
+  stressful. The right suitcase fits airline rules and holds your essentials comfortably. '
 pubDate: 2026-08-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-hand-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on hand luggage can make travel easier and less stressful. The right suitcase fits airline rules and holds your essentials comfortably.**

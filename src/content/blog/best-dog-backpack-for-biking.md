@@ -1,10 +1,14 @@
 ---
-title: "Best Dog Backpack for Biking: Top Comfortable and Secure Picks"
-description: "Choosing the best dog backpack for biking helps keep your pet safe and comfortable on every ride. A good backpack fits well, supports your dog, and allows fresh"
+title: 'Best Dog Backpack for Biking: Top Comfortable and Secure Picks'
+description: Choosing the best dog backpack for biking helps keep your pet safe and
+  comfortable on every ride. A good backpack fits well, supports your dog, and allows
+  fresh
 pubDate: 2026-07-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dog-backpack-for-biking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-dog-backpack-for-biking&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best dog backpack for biking helps keep your pet safe and comfortable on every ride. A good backpack fits well, supports your dog, and allows fresh air flow.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Japan Travel: Top Picks for Every Adventurer"
-description: "Choosing the best luggage for Japan travel makes your trip easier and more comfortable. The right bags fit Japan’s transport and weather needs perfectly. Travel"
+title: 'Best Luggage for Japan Travel: Top Picks for Every Adventurer'
+description: Choosing the best luggage for Japan travel makes your trip easier and
+  more comfortable. The right bags fit Japan’s transport and weather needs perfectly.
+  Travel
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-japan-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Safari And Specialty Trip Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-japan-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for Japan travel makes your trip easier and more comfortable. The right bags fit Japan’s transport and weather needs perfectly.**

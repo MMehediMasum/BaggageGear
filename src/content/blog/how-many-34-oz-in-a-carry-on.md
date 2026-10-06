@@ -1,10 +1,14 @@
 ---
-title: "How Many 3.4 Oz in a Carry On: Ultimate TSA Liquid Rules Guide"
-description: "Are you planning your next adventure and wondering just how many 3.4 oz bottles you can pack in your carry-on? Navigating airline regulations can be a bit trick"
+title: 'How Many 3.4 Oz in a Carry On: Ultimate TSA Liquid Rules Guide'
+description: Are you planning your next adventure and wondering just how many 3.4
+  oz bottles you can pack in your carry-on? Navigating airline regulations can be
+  a bit trick
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-34-oz-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-34-oz-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering just how many 3.4 oz bottles you can pack in your carry-on? Navigating airline regulations can be a bit tricky, especially when it comes to liquids.**

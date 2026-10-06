@@ -1,10 +1,14 @@
 ---
-title: "Does Blue Extra Include a Checked Bag? Uncover the Truth!"
-description: "Are you planning a trip and wondering if Blue Extra includes a checked bag? You're not alone. Many travelers like you are curious about what this fare offers be"
+title: Does Blue Extra Include a Checked Bag? Uncover the Truth!
+description: Are you planning a trip and wondering if Blue Extra includes a checked
+  bag? You're not alone. Many travelers like you are curious about what this fare
+  offers be
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-blue-extra-include-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-blue-extra-include-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if Blue Extra includes a checked bag? You're not alone.**

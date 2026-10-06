@@ -1,10 +1,13 @@
 ---
-title: "Are Double a Batteries Allowed in Checked Luggage: Essential Rules"
-description: "Have you ever packed for a trip and wondered whether you could toss those extra AA batteries into your checked luggage? It’s a common question that many travele"
+title: 'Are Double a Batteries Allowed in Checked Luggage: Essential Rules'
+description: Have you ever packed for a trip and wondered whether you could toss those
+  extra AA batteries into your checked luggage? It’s a common question that many travele
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-double-a-batteries-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-double-a-batteries-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and wondered whether you could toss those extra AA batteries into your checked luggage? It’s a common question that many travelers like you face.**

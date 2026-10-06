@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack an Aerosol Can in Checked Luggage: Essential Rules"
-description: "Are you planning your next big adventure and wondering what you can and can't pack? If you've ever stood in front of your suitcase, aerosol can in hand, ponderi"
+title: 'Can You Pack an Aerosol Can in Checked Luggage: Essential Rules'
+description: Are you planning your next big adventure and wondering what you can and
+  can't pack? If you've ever stood in front of your suitcase, aerosol can in hand,
+  ponderi
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-an-aerosol-can-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-an-aerosol-can-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure and wondering what you can and can't pack? If you've ever stood in front of your suitcase, aerosol can in hand, pondering whether it can safely make the journey in your checked luggage, you're not alone.**

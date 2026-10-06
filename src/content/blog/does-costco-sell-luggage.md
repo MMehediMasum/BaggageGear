@@ -1,10 +1,14 @@
 ---
-title: "Does Costco Sell Luggage: Discover Quality Deals & Top Brands"
-description: "Are you planning a trip and wondering if Costco is the right place to find your next piece of luggage? You're not alone. Many savvy shoppers are curious about w"
+title: 'Does Costco Sell Luggage: Discover Quality Deals & Top Brands'
+description: Are you planning a trip and wondering if Costco is the right place to
+  find your next piece of luggage? You're not alone. Many savvy shoppers are curious
+  about w
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-costco-sell-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-costco-sell-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and wondering if Costco is the right place to find your next piece of luggage? You're not alone.**

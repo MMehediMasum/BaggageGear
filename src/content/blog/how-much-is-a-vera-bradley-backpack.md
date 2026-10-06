@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Vera Bradley Backpack: Ultimate Price Guide 2025"
-description: "Are you curious about how much a Vera Bradley backpack might set you back? You're not alone. Whether you're a student gearing up for the new school year or a fa"
+title: 'How Much is a Vera Bradley Backpack: Ultimate Price Guide 2025'
+description: Are you curious about how much a Vera Bradley backpack might set you
+  back? You're not alone. Whether you're a student gearing up for the new school year
+  or a fa
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-vera-bradley-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-vera-bradley-backpack&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about how much a Vera Bradley backpack might set you back? You're not alone.**

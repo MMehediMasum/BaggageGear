@@ -1,10 +1,14 @@
 ---
-title: "Best Deals for Luggage Sets: Discover Top Lightweight Options with TSA Locks"
-description: "Find the best deals for luggage sets that fit your travel needs and budget. Choose from top brands offering quality, durability, and style. Traveling becomes ea"
+title: 'Best Deals for Luggage Sets: Discover Top Lightweight Options with TSA Locks'
+description: Find the best deals for luggage sets that fit your travel needs and budget.
+  Choose from top brands offering quality, durability, and style. Traveling becomes
+  ea
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-deals-for-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-deals-for-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Find the best deals for luggage sets that fit your travel needs and budget. Choose from top brands offering quality, durability, and style.**

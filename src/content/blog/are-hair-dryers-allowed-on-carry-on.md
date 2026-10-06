@@ -1,10 +1,14 @@
 ---
-title: "Are Hair Dryers Allowed on Carry On: Essential Travel Tips"
-description: "You're standing in front of your suitcase, trying to fit everything you need for your trip, and suddenly you wonder, \"Are hair dryers allowed in carry-on luggag"
+title: 'Are Hair Dryers Allowed on Carry On: Essential Travel Tips'
+description: You're standing in front of your suitcase, trying to fit everything you
+  need for your trip, and suddenly you wonder, "Are hair dryers allowed in carry-on
+  luggag
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-hair-dryers-allowed-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-hair-dryers-allowed-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're standing in front of your suitcase, trying to fit everything you need for your trip, and suddenly you wonder, "Are hair dryers allowed in carry-on luggage?" It's a question many travelers face, and the rules aren't always crystal clear.**

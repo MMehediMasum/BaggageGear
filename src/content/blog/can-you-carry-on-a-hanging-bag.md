@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on a Hanging Bag? Ultimate Guide for Travelers"
-description: "Have you ever wondered if you can carry on a hanging bag when you travel? It’s a common question that can save you time, hassle, and even extra fees at the airp"
+title: Can You Carry on a Hanging Bag? Ultimate Guide for Travelers
+description: Have you ever wondered if you can carry on a hanging bag when you travel?
+  It’s a common question that can save you time, hassle, and even extra fees at the
+  airp
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-hanging-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-hanging-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Have you ever wondered if you can carry on a hanging bag when you travel? It’s a common question that can save you time, hassle, and even extra fees at the airport.**

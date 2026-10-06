@@ -1,10 +1,14 @@
 ---
-title: "Can I Take Curling Tongs in Hand Luggage: Essential Travel Tips"
-description: "Have you ever packed for a trip and wondered, \"Can I take curling tongs in hand luggage?\" It's a question many travelers face, especially if you want to look yo"
+title: 'Can I Take Curling Tongs in Hand Luggage: Essential Travel Tips'
+description: Have you ever packed for a trip and wondered, "Can I take curling tongs
+  in hand luggage?" It's a question many travelers face, especially if you want to
+  look yo
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-curling-tongs-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-curling-tongs-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and wondered, "Can I take curling tongs in hand luggage?" It's a question many travelers face, especially if you want to look your best on vacation or during a business trip.**

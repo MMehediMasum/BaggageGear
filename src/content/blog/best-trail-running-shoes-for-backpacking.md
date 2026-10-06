@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Trail Running Shoes for Backpacking: Top Picks for Comfort and Durability"
 description: "Choosing the best trail running shoes for backpacking can make your outdoor trips safer and more comfortable. Good shoes protect your feet and improve your walk"
 pubDate: 2025-11-03

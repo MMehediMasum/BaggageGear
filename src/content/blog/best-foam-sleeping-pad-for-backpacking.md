@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Foam Sleeping Pad for Backpacking: Discover Top Lightweight Options"
 description: "Choosing the best foam sleeping pad for backpacking makes your outdoor trips more comfortable and restful. A good pad offers support, insulation, and durability"
 pubDate: 2026-06-14

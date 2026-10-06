@@ -1,10 +1,14 @@
 ---
-title: "How to Build a Bug Out Bag: Essential Tips for Survival Ready"
-description: "Imagine finding yourself in an unexpected situation where you need to leave your home quickly. It could be due to a natural disaster, an emergency, or even a si"
+title: 'How to Build a Bug Out Bag: Essential Tips for Survival Ready'
+description: Imagine finding yourself in an unexpected situation where you need to
+  leave your home quickly. It could be due to a natural disaster, an emergency, or
+  even a si
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-build-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-build-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine finding yourself in an unexpected situation where you need to leave your home quickly. It could be due to a natural disaster, an emergency, or even a simple power outage.**

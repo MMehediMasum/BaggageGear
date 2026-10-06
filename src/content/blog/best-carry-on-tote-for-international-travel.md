@@ -1,10 +1,15 @@
 ---
-title: "Best Carry-On Tote for International Travel: Lightweight, Waterproof, and Stylish Choices"
-description: "Choosing the best carry-on tote for international travel makes your trip easier and more comfortable. A good tote fits essentials, meets airline rules, and stay"
+title: 'Best Carry-On Tote for International Travel: Lightweight, Waterproof, and
+  Stylish Choices'
+description: Choosing the best carry-on tote for international travel makes your trip
+  easier and more comfortable. A good tote fits essentials, meets airline rules, and
+  stay
 pubDate: 2026-08-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-tote-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-tote-for-international-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best carry-on tote for international travel makes your trip easier and more comfortable. A good tote fits essentials, meets airline rules, and stays stylish.**

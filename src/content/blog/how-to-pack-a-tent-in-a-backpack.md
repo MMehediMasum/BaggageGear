@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Tent in a Backpack: Ultimate Space-Saving Tips"
-description: "Packing a tent in a backpack might seem straightforward, but doing it the right way can make your camping trip much more enjoyable. Imagine hiking for miles, on"
+title: 'How to Pack a Tent in a Backpack: Ultimate Space-Saving Tips'
+description: Packing a tent in a backpack might seem straightforward, but doing it
+  the right way can make your camping trip much more enjoyable. Imagine hiking for
+  miles, on
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-tent-in-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Hiking Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-tent-in-a-backpack&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Packing a tent in a backpack might seem straightforward, but doing it the right way can make your camping trip much more enjoyable. Imagine hiking for miles, only to find your backpack is uncomfortable or your tent is hard to access when you reach your campsite.**

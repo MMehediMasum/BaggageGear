@@ -1,10 +1,14 @@
 ---
-title: "Can I Check in Laptop in Luggage: Essential Travel Safety Tips"
-description: "Are you planning your next trip and wondering if you can check in your laptop with your luggage? Whether it's a business trip or a well-deserved vacation, the t"
+title: 'Can I Check in Laptop in Luggage: Essential Travel Safety Tips'
+description: Are you planning your next trip and wondering if you can check in your
+  laptop with your luggage? Whether it's a business trip or a well-deserved vacation,
+  the t
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-in-laptop-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-in-laptop-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering if you can check in your laptop with your luggage? Whether it's a business trip or a well-deserved vacation, the thought of packing your laptop safely can be a bit stressful.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Take a Backpack And a Carry-On American Airlines: Ultimate Guide"
-description: "Planning your next adventure with American Airlines and wondering about their carry-on policies? You’re not alone. Many travelers like you are curious if they c"
+title: 'Can I Take a Backpack And a Carry-On American Airlines: Ultimate Guide'
+description: Planning your next adventure with American Airlines and wondering about
+  their carry-on policies? You’re not alone. Many travelers like you are curious if
+  they c
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-a-backpack-and-a-carry-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-a-backpack-and-a-carry-on-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure with American Airlines and wondering about their carry-on policies? You’re not alone.**

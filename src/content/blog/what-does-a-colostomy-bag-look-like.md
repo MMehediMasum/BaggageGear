@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does a Colostomy Bag Look Like: Revealing the Truth Clearly"
 description: "Curiosity often leads us to seek answers about things we might not fully understand. When it comes to medical devices, this curiosity can be tinged with a bit o"
 pubDate: 2026-04-16

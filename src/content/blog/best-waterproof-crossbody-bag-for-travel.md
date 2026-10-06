@@ -1,10 +1,14 @@
 ---
-title: "Best Waterproof Crossbody Bag for Travel: Top Durable Picks for Adventure"
-description: "Finding the best waterproof crossbody bag makes travel easier and safer. It keeps your essentials dry and close at hand. Traveling needs a bag that protects you"
+title: 'Best Waterproof Crossbody Bag for Travel: Top Durable Picks for Adventure'
+description: Finding the best waterproof crossbody bag makes travel easier and safer.
+  It keeps your essentials dry and close at hand. Traveling needs a bag that protects
+  you
 pubDate: 2025-10-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-waterproof-crossbody-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-waterproof-crossbody-bag-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best waterproof crossbody bag makes travel easier and safer. It keeps your essentials dry and close at hand.**

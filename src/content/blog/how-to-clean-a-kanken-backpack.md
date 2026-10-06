@@ -1,10 +1,13 @@
 ---
-title: "How to Clean a Kanken Backpack: Easy Steps for a Fresh Look"
-description: "Your Kanken backpack is more than just a bag; it's your trusty companion on countless adventures, whether you're trekking through the city streets or exploring "
+title: 'How to Clean a Kanken Backpack: Easy Steps for a Fresh Look'
+description: 'Your Kanken backpack is more than just a bag; it''s your trusty companion
+  on countless adventures, whether you''re trekking through the city streets or exploring '
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-kanken-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-kanken-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Kanken backpack is more than just a bag; it's your trusty companion on countless adventures, whether you're trekking through the city streets or exploring the great outdoors. Over time, though, it can gather dirt, stains, and those mysterious spots you can't quite identify.**

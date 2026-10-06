@@ -1,10 +1,14 @@
 ---
-title: "Are Air Tags Allowed in Checked Luggage: Essential Travel Rules"
-description: "Imagine you're packing for a long-awaited trip, and you want to keep track of your luggage. AirTags have become a popular choice for travelers like you, offerin"
+title: 'Are Air Tags Allowed in Checked Luggage: Essential Travel Rules'
+description: Imagine you're packing for a long-awaited trip, and you want to keep
+  track of your luggage. AirTags have become a popular choice for travelers like you,
+  offerin
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-air-tags-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Trackers And AirTags
+heroImage: https://tse1.mm.bing.net/th?q=are-air-tags-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine you're packing for a long-awaited trip, and you want to keep track of your luggage. AirTags have become a popular choice for travelers like you, offering a simple way to monitor your belongings.**

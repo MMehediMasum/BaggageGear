@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy Backpacks in Bulk: Top Trusted Wholesale Sources"
-description: "Are you searching for the best place to buy backpacks in bulk? Whether you're planning a large event, managing a retail store, or organizing a group activity, f"
+title: 'Where Can I Buy Backpacks in Bulk: Top Trusted Wholesale Sources'
+description: Are you searching for the best place to buy backpacks in bulk? Whether
+  you're planning a large event, managing a retail store, or organizing a group activity,
+  f
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-backpacks-in-bulk&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-backpacks-in-bulk&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you searching for the best place to buy backpacks in bulk? Whether you're planning a large event, managing a retail store, or organizing a group activity, finding high-quality backpacks at affordable prices can be a game changer.**

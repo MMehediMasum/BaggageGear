@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Semester Abroad: Top Durable and Stylish Picks"
-description: "Choosing the best luggage for a semester abroad makes travel easier and less stressful. The right suitcase keeps your belongings safe and organized throughout y"
+title: 'Best Luggage for Semester Abroad: Top Durable and Stylish Picks'
+description: Choosing the best luggage for a semester abroad makes travel easier and
+  less stressful. The right suitcase keeps your belongings safe and organized throughout
+  y
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-semester-abroad&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-semester-abroad&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a semester abroad makes travel easier and less stressful. The right suitcase keeps your belongings safe and organized throughout your journey.**

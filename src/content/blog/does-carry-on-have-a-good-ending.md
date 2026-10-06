@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Carry on Have a Good Ending? Discover the Shocking Truth!"
 description: "Ever found yourself glued to a book, heart racing, wondering if it will end just the way you hope? With \"Carry On\" by Rainbow Rowell, many readers find themselv"
 pubDate: 2026-01-30

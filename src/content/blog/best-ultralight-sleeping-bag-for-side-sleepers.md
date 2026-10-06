@@ -1,10 +1,14 @@
 ---
-title: "Best Ultralight Sleeping Bag for Side Sleepers: Top Picks for Comfort"
-description: "Finding the best ultralight sleeping bag for side sleepers can improve your outdoor rest. Side sleepers need extra space and comfort without added weight. Campi"
+title: 'Best Ultralight Sleeping Bag for Side Sleepers: Top Picks for Comfort'
+description: Finding the best ultralight sleeping bag for side sleepers can improve
+  your outdoor rest. Side sleepers need extra space and comfort without added weight.
+  Campi
 pubDate: 2026-06-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-ultralight-sleeping-bag-for-side-sleepers&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-ultralight-sleeping-bag-for-side-sleepers&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best ultralight sleeping bag for side sleepers can improve your outdoor rest. Side sleepers need extra space and comfort without added weight.**

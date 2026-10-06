@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Can You Die by Being Locked Inside a Suitcase: Shocking Risks Revealed"
 description: "Have you ever wondered what would happen if you were locked inside a suitcase? It sounds like something out of a thriller movie, but the reality is much more se"
 pubDate: 2026-04-27

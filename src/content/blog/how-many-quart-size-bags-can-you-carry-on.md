@@ -1,10 +1,14 @@
 ---
-title: "How Many Quart Size Bags Can You Carry on: Ultimate TSA Guide"
-description: "Are you planning a trip and wondering how many quart size bags you can carry on? Navigating airline regulations can be confusing, especially when it comes to wh"
+title: 'How Many Quart Size Bags Can You Carry on: Ultimate TSA Guide'
+description: Are you planning a trip and wondering how many quart size bags you can
+  carry on? Navigating airline regulations can be confusing, especially when it comes
+  to wh
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-quart-size-bags-can-you-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-many-quart-size-bags-can-you-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering how many quart size bags you can carry on? Navigating airline regulations can be confusing, especially when it comes to what you can bring on board.**

@@ -1,10 +1,14 @@
 ---
-title: "Is Power Bank Allowed in Carry On: Essential Travel Rules Revealed"
-description: "You're getting ready to fly, and you've packed everything you need for a smooth journey. But wait, there's one gadget you can't live without—your power bank. It"
+title: 'Is Power Bank Allowed in Carry On: Essential Travel Rules Revealed'
+description: You're getting ready to fly, and you've packed everything you need for
+  a smooth journey. But wait, there's one gadget you can't live without—your power
+  bank. It
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-power-bank-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-power-bank-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're getting ready to fly, and you've packed everything you need for a smooth journey. But wait, there's one gadget you can't live without—your power bank.**

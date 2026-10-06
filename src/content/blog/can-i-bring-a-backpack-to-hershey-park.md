@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Backpack to Hershey Park: Essential Rules Revealed"
-description: "Planning a visit to Hershey Park? You're probably wondering about what you can bring along, especially when it comes to backpacks. After all, having your essent"
+title: 'Can I Bring a Backpack to Hershey Park: Essential Rules Revealed'
+description: Planning a visit to Hershey Park? You're probably wondering about what
+  you can bring along, especially when it comes to backpacks. After all, having your
+  essent
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-hershey-park&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-hershey-park&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a visit to Hershey Park? You're probably wondering about what you can bring along, especially when it comes to backpacks.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Patagonia Backpack: Easy Steps for Lasting Freshness"
-description: "Are you a proud owner of a Patagonia backpack? Whether you're using it for hiking adventures, daily commutes, or weekend getaways, keeping your backpack clean i"
+title: 'How to Clean Patagonia Backpack: Easy Steps for Lasting Freshness'
+description: Are you a proud owner of a Patagonia backpack? Whether you're using it
+  for hiking adventures, daily commutes, or weekend getaways, keeping your backpack
+  clean i
 pubDate: 2025-09-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-patagonia-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-patagonia-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you a proud owner of a Patagonia backpack? Whether you're using it for hiking adventures, daily commutes, or weekend getaways, keeping your backpack clean is essential to maintain its durability and appearance.**

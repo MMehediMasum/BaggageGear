@@ -1,10 +1,14 @@
 ---
-title: "Are Jansport Backpacks Machine Washable: Ultimate Cleaning Guide"
-description: "Are Jansport backpacks machine washable? This is a question that might have crossed your mind as you look at your trusty backpack, wondering how to keep it clea"
+title: 'Are Jansport Backpacks Machine Washable: Ultimate Cleaning Guide'
+description: Are Jansport backpacks machine washable? This is a question that might
+  have crossed your mind as you look at your trusty backpack, wondering how to keep
+  it clea
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-jansport-backpacks-machine-washable&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=are-jansport-backpacks-machine-washable&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are Jansport backpacks machine washable? This is a question that might have crossed your mind as you look at your trusty backpack, wondering how to keep it clean and fresh.**

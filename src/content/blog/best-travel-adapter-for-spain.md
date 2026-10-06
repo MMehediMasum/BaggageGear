@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Spain: Top Picks for Seamless Power Conversion"
-description: "Traveling to Spain means dealing with different plug types and voltage. A reliable travel adapter keeps your devices charged and ready. Spain uses Type C and Ty"
+title: 'Best Travel Adapter for Spain: Top Picks for Seamless Power Conversion'
+description: Traveling to Spain means dealing with different plug types and voltage.
+  A reliable travel adapter keeps your devices charged and ready. Spain uses Type
+  C and Ty
 pubDate: 2026-05-22
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-spain&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-spain&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Spain means dealing with different plug types and voltage. A reliable travel adapter keeps your devices charged and ready.**

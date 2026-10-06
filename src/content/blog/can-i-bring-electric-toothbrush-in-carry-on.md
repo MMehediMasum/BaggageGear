@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Electric Toothbrush in Carry On: Essential Travel Tips"
-description: "You've packed your bags, double-checked your itinerary, and you're all set for your trip. But wait, there's one question lingering in your mind: Can you bring y"
+title: 'Can I Bring Electric Toothbrush in Carry On: Essential Travel Tips'
+description: 'You''ve packed your bags, double-checked your itinerary, and you''re
+  all set for your trip. But wait, there''s one question lingering in your mind: Can
+  you bring y'
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-electric-toothbrush-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-electric-toothbrush-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've packed your bags, double-checked your itinerary, and you're all set for your trip. But wait, there's one question lingering in your mind: Can you bring your electric toothbrush in your carry-on?**

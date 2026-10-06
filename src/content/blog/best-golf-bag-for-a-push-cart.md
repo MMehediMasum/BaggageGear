@@ -1,10 +1,13 @@
 ---
-title: "Best Golf Bag for a Push Cart: Top Lightweight Folding Options Reviewed"
-description: "Finding the best golf bag for a push cart can improve your game and comfort on the course. Choosing the right bag helps keep your clubs organized and fits perfe"
+title: 'Best Golf Bag for a Push Cart: Top Lightweight Folding Options Reviewed'
+description: Finding the best golf bag for a push cart can improve your game and comfort
+  on the course. Choosing the right bag helps keep your clubs organized and fits perfe
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-golf-bag-for-a-push-cart&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Golf Bag Buying Guide
+heroImage: https://tse1.mm.bing.net/th?q=best-golf-bag-for-a-push-cart&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best golf bag for a push cart can improve your game and comfort on the course. Choosing the right bag helps keep your clubs organized and fits perfectly on your cart.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Ammo in a Checked Bag: Essential Travel Rules Explained"
-description: "Have you ever packed for a trip and wondered about the rules for traveling with ammunition? You’re not alone. Navigating airline regulations can be tricky, espe"
+title: 'Can You Bring Ammo in a Checked Bag: Essential Travel Rules Explained'
+description: Have you ever packed for a trip and wondered about the rules for traveling
+  with ammunition? You’re not alone. Navigating airline regulations can be tricky,
+  espe
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-ammo-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-ammo-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and wondered about the rules for traveling with ammunition? You’re not alone.**

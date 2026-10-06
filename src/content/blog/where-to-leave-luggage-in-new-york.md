@@ -1,10 +1,14 @@
 ---
-title: "Where to Leave Luggage in New York: Ultimate Guide for Travelers"
-description: "Finding a place to leave your luggage in New York can feel like solving a puzzle in the middle of Times Square. You're in the city that never sleeps, ready to e"
+title: 'Where to Leave Luggage in New York: Ultimate Guide for Travelers'
+description: Finding a place to leave your luggage in New York can feel like solving
+  a puzzle in the middle of Times Square. You're in the city that never sleeps, ready
+  to e
 pubDate: 2026-03-12
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-leave-luggage-in-new-york&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-to-leave-luggage-in-new-york&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Finding a place to leave your luggage in New York can feel like solving a puzzle in the middle of Times Square. You're in the city that never sleeps, ready to explore every iconic landmark and hidden gem, but those heavy bags are holding you back.**

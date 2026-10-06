@@ -1,10 +1,14 @@
 ---
-title: "How Much is the Marc Jacobs Tote Bag: Ultimate Price Guide 2025"
-description: "Have you ever found yourself captivated by the sleek elegance of the Marc Jacobs Tote Bag? Wondering how much it might set you back? You’re not alone. This icon"
+title: 'How Much is the Marc Jacobs Tote Bag: Ultimate Price Guide 2025'
+description: Have you ever found yourself captivated by the sleek elegance of the
+  Marc Jacobs Tote Bag? Wondering how much it might set you back? You’re not alone.
+  This icon
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-the-marc-jacobs-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-the-marc-jacobs-tote-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever found yourself captivated by the sleek elegance of the Marc Jacobs Tote Bag? Wondering how much it might set you back?**

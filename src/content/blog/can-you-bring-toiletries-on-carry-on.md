@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Toiletries on Carry On: Ultimate TSA Guide 2025"
-description: "Packing for a flight can sometimes feel like solving a puzzle. One question that often pops up is, \"Can you bring toiletries in your carry-on?\" It’s a common co"
+title: 'Can You Bring Toiletries on Carry On: Ultimate TSA Guide 2025'
+description: Packing for a flight can sometimes feel like solving a puzzle. One question
+  that often pops up is, "Can you bring toiletries in your carry-on?" It’s a common
+  co
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-toiletries-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-toiletries-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a flight can sometimes feel like solving a puzzle. One question that often pops up is, "Can you bring toiletries in your carry-on?"**

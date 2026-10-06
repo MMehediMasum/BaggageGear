@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Lettuce Last Longer in a Bag Or a Container? Ultimate Storage Tips"
 description: "Imagine this: you've just returned from the grocery store with fresh, crisp lettuce. You have big plans for salads, sandwiches, and maybe even a little lettuce "
 pubDate: 2025-10-15

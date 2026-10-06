@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Wendy'S $5 Biggie Bag: Ultimate Value Revealed!"
 description: "Are you hungry for a deal that doesn't skimp on satisfaction? Dive into the delicious world of Wendy's $5 Biggie Bag, where flavor meets affordability. Imagine "
 pubDate: 2025-09-12

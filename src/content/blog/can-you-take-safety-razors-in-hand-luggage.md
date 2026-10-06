@@ -1,10 +1,13 @@
 ---
-title: "Can You Take Safety Razors in Hand Luggage: Essential Travel Tips"
-description: "You're packing for your next adventure and wondering, \"Can you take safety razors in hand luggage?\" This question might have you scratching your head, especiall"
+title: 'Can You Take Safety Razors in Hand Luggage: Essential Travel Tips'
+description: You're packing for your next adventure and wondering, "Can you take safety
+  razors in hand luggage?" This question might have you scratching your head, especiall
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-safety-razors-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-safety-razors-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your next adventure and wondering, "Can you take safety razors in hand luggage?" This question might have you scratching your head, especially when you're trying to breeze through airport security without a hitch.**

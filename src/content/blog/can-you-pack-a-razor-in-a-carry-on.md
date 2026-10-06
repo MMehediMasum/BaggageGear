@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack a Razor in a Carry On: Essential TSA Rules Explained"
-description: "Are you getting ready for your next trip but unsure about what you can pack in your carry-on? You're not alone. Many travelers find themselves wondering if they"
+title: 'Can You Pack a Razor in a Carry On: Essential TSA Rules Explained'
+description: Are you getting ready for your next trip but unsure about what you can
+  pack in your carry-on? You're not alone. Many travelers find themselves wondering
+  if they
 pubDate: 2026-03-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-a-razor-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-a-razor-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for your next trip but unsure about what you can pack in your carry-on? You're not alone.**

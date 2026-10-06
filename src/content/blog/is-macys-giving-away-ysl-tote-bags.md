@@ -1,10 +1,14 @@
 ---
-title: "Is Macy'S Giving Away Ysl Tote Bags? Shocking Truth Revealed!"
-description: "Are you wondering if Macy’s is really giving away YSL tote bags? It sounds too good to be true, right? You might be thinking, “Could this be my chance to get a "
+title: Is Macy'S Giving Away Ysl Tote Bags? Shocking Truth Revealed!
+description: 'Are you wondering if Macy’s is really giving away YSL tote bags? It
+  sounds too good to be true, right? You might be thinking, “Could this be my chance
+  to get a '
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-macys-giving-away-ysl-tote-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-macys-giving-away-ysl-tote-bags&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you wondering if Macy’s is really giving away YSL tote bags? It sounds too good to be true, right?**

@@ -1,10 +1,14 @@
 ---
-title: "What is 62 Linear Inches Luggage Size: Ultimate Travel Guide"
-description: "Have you ever found yourself puzzled at the airport check-in counter, wondering if your luggage meets the airline's size requirements? You're not alone. The ter"
+title: 'What is 62 Linear Inches Luggage Size: Ultimate Travel Guide'
+description: Have you ever found yourself puzzled at the airport check-in counter,
+  wondering if your luggage meets the airline's size requirements? You're not alone.
+  The ter
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-62-linear-inches-luggage-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-62-linear-inches-luggage-size&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself puzzled at the airport check-in counter, wondering if your luggage meets the airline's size requirements? You're not alone.**

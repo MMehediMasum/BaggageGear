@@ -1,10 +1,14 @@
 ---
-title: "Best Large Backpacks for Travel: Top Expandable, Airline Approved Choices"
-description: "Finding the best large backpacks for travel can make your trips easier and more organized. These backpacks offer extra space, comfort, and useful features for a"
+title: 'Best Large Backpacks for Travel: Top Expandable, Airline Approved Choices'
+description: Finding the best large backpacks for travel can make your trips easier
+  and more organized. These backpacks offer extra space, comfort, and useful features
+  for a
 pubDate: 2026-05-19
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-backpacks-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-large-backpacks-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best large backpacks for travel can make your trips easier and more organized. These backpacks offer extra space, comfort, and useful features for any traveler.**

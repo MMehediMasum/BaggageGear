@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Food in Your Checked Bag: Essential Travel Tips"
-description: "When packing for a trip, you probably wonder about the best way to carry your favorite snacks or local delicacies. Can you put food in your checked bag? This qu"
+title: 'Can You Put Food in Your Checked Bag: Essential Travel Tips'
+description: When packing for a trip, you probably wonder about the best way to carry
+  your favorite snacks or local delicacies. Can you put food in your checked bag?
+  This qu
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-food-in-your-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-food-in-your-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When packing for a trip, you probably wonder about the best way to carry your favorite snacks or local delicacies. Can you put food in your checked bag?**

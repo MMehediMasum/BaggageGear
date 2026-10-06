@@ -1,10 +1,14 @@
 ---
-title: "Does Delta Allow a Carry on And Personal Item? Ultimate Guide!"
-description: "Are you gearing up for your next adventure with Delta Airlines and wondering if you can bring both a carry-on and a personal item? Navigating airline policies c"
+title: Does Delta Allow a Carry on And Personal Item? Ultimate Guide!
+description: Are you gearing up for your next adventure with Delta Airlines and wondering
+  if you can bring both a carry-on and a personal item? Navigating airline policies
+  c
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-allow-a-carry-on-and-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-allow-a-carry-on-and-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next adventure with Delta Airlines and wondering if you can bring both a carry-on and a personal item? Navigating airline policies can be a bit tricky, and the last thing you want is to find yourself at the airport, struggling with excess baggage or unexpected fees.**

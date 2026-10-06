@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Spray Sunscreen in a Checked Bag? Travel Rules Revealed"
-description: "Have you ever stood at your luggage, sunscreen in hand, wondering if you can pack that spray bottle in your checked bag? You're not alone. Many travelers face t"
+title: Can You Put Spray Sunscreen in a Checked Bag? Travel Rules Revealed
+description: Have you ever stood at your luggage, sunscreen in hand, wondering if
+  you can pack that spray bottle in your checked bag? You're not alone. Many travelers
+  face t
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-spray-sunscreen-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-spray-sunscreen-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at your luggage, sunscreen in hand, wondering if you can pack that spray bottle in your checked bag? You're not alone.**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Put Bear Spray in Checked Luggage: Essential Safety Rules"
-description: "Imagine this: you're packing for an adventurous trip filled with hiking and exploring the great outdoors. You know that safety is your top priority, especially "
+title: 'Can You Put Bear Spray in Checked Luggage: Essential Safety Rules'
+description: 'Imagine this: you''re packing for an adventurous trip filled with hiking
+  and exploring the great outdoors. You know that safety is your top priority, especially '
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-bear-spray-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-bear-spray-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're packing for an adventurous trip filled with hiking and exploring the great outdoors. You know that safety is your top priority, especially when it comes to potential wildlife encounters.**

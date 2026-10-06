@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Hair Products in Carry On: Expert Tips for Travel"
-description: "Navigating airport security with your favorite hair products can be a real challenge. You've probably found yourself at the security checkpoint, unsure if your "
+title: 'How to Pack Hair Products in Carry On: Expert Tips for Travel'
+description: 'Navigating airport security with your favorite hair products can be
+  a real challenge. You''ve probably found yourself at the security checkpoint, unsure
+  if your '
 pubDate: 2026-03-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-hair-products-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-hair-products-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security with your favorite hair products can be a real challenge. You've probably found yourself at the security checkpoint, unsure if your shampoo or styling gel will pass through.**

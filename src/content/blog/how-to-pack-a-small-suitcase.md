@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Small Suitcase: Ultimate Tips for Smart Travelers"
-description: "Packing a small suitcase can seem like a daunting puzzle. You want to bring everything you need without bursting the seams. Sound familiar? Imagine gliding thro"
+title: 'How to Pack a Small Suitcase: Ultimate Tips for Smart Travelers'
+description: Packing a small suitcase can seem like a daunting puzzle. You want to
+  bring everything you need without bursting the seams. Sound familiar? Imagine gliding
+  thro
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-small-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-small-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a small suitcase can seem like a daunting puzzle. You want to bring everything you need without bursting the seams.**

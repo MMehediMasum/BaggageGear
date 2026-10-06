@@ -1,10 +1,14 @@
 ---
-title: "How to Dispose Suitcase: Easy Tips for Eco-Friendly Recycling"
-description: "Ever found yourself staring at an old suitcase, wondering what to do with it? You're not alone. Suitcases, especially those that have accompanied you on countle"
+title: 'How to Dispose Suitcase: Easy Tips for Eco-Friendly Recycling'
+description: Ever found yourself staring at an old suitcase, wondering what to do
+  with it? You're not alone. Suitcases, especially those that have accompanied you
+  on countle
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-dispose-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-dispose-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever found yourself staring at an old suitcase, wondering what to do with it? You're not alone.**

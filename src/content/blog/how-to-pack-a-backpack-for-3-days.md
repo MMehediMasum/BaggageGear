@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Backpack for 3 Days: Ultimate Smart Packing Guide"
-description: "Picture this: You’re standing at the trailhead, your backpack snugly fitted on your back, ready to embrace nature’s beauty for the next three days. But wait—did"
+title: 'How to Pack a Backpack for 3 Days: Ultimate Smart Packing Guide'
+description: 'Picture this: You’re standing at the trailhead, your backpack snugly
+  fitted on your back, ready to embrace nature’s beauty for the next three days. But
+  wait—did'
 pubDate: 2025-09-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-backpack-for-3-days&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-backpack-for-3-days&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Picture this: You’re standing at the trailhead, your backpack snugly fitted on your back, ready to embrace nature’s beauty for the next three days. But wait—did you pack everything you need?**

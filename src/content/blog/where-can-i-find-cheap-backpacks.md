@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Find Cheap Backpacks: Top Deals & Expert Tips"
-description: "Are you on a quest to find affordable backpacks without compromising on style or quality? Whether you're gearing up for the new school year, planning a weekend "
+title: 'Where Can I Find Cheap Backpacks: Top Deals & Expert Tips'
+description: 'Are you on a quest to find affordable backpacks without compromising
+  on style or quality? Whether you''re gearing up for the new school year, planning
+  a weekend '
 pubDate: 2025-12-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-find-cheap-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-find-cheap-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on a quest to find affordable backpacks without compromising on style or quality? Whether you're gearing up for the new school year, planning a weekend adventure, or simply looking for a reliable bag for daily use, finding the right backpack at the right price can feel overwhelming.**

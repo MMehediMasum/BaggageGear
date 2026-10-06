@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a North Face Backpack Cost: Ultimate Price Guide 2025"
-description: "When you're on the hunt for a reliable backpack, North Face is a brand that likely stands out. Known for their durability and style, these backpacks are a favor"
+title: 'How Much Does a North Face Backpack Cost: Ultimate Price Guide 2025'
+description: When you're on the hunt for a reliable backpack, North Face is a brand
+  that likely stands out. Known for their durability and style, these backpacks are
+  a favor
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-north-face-backpack-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-north-face-backpack-cost&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **When you're on the hunt for a reliable backpack, North Face is a brand that likely stands out. Known for their durability and style, these backpacks are a favorite among adventurers and students alike.**

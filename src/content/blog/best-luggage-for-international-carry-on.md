@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for International Carry On: Top Lightweight Spinner Suitcases"
-description: "Choosing the best luggage for international carry-on travel saves time and stress at airports. The right suitcase fits airline rules and offers durability and e"
+title: 'Best Luggage for International Carry On: Top Lightweight Spinner Suitcases'
+description: Choosing the best luggage for international carry-on travel saves time
+  and stress at airports. The right suitcase fits airline rules and offers durability
+  and e
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-international-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-international-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for international carry-on travel saves time and stress at airports. The right suitcase fits airline rules and offers durability and easy handling.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Mini Backpack for Travel: Top Lightweight and Durable Picks"
-description: "Choosing the best mini backpack for travel makes your trip easier and more comfortable. These small backpacks offer style, convenience, and enough space for ess"
+title: 'Best Mini Backpack for Travel: Top Lightweight and Durable Picks'
+description: Choosing the best mini backpack for travel makes your trip easier and
+  more comfortable. These small backpacks offer style, convenience, and enough space
+  for ess
 pubDate: 2026-07-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-mini-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-mini-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best mini backpack for travel makes your trip easier and more comfortable. These small backpacks offer style, convenience, and enough space for essentials.**

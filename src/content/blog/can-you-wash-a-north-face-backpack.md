@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a North Face Backpack: Essential Cleaning Tips"
-description: "Ever catch yourself wondering if you can throw your trusty North Face backpack into the wash? You're not alone. Whether it’s an adventure through muddy trails o"
+title: 'Can You Wash a North Face Backpack: Essential Cleaning Tips'
+description: Ever catch yourself wondering if you can throw your trusty North Face
+  backpack into the wash? You're not alone. Whether it’s an adventure through muddy
+  trails o
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-north-face-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-north-face-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever catch yourself wondering if you can throw your trusty North Face backpack into the wash? You're not alone.**

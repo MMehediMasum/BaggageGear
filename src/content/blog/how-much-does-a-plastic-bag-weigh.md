@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Plastic Bag Weigh: Surprising Facts Revealed"
 description: "Ever picked up a plastic bag and wondered how much it actually weighs? It’s a question that might seem trivial at first, but understanding the weight of a plast"
 pubDate: 2026-04-13

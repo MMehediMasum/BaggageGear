@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Ceramic Mugs on Carry On: Travel Smart Tips"
-description: "Imagine you're packing for your next big adventure. You've got your essentials ready, but you're wondering if you can bring along your favorite ceramic mug in y"
+title: 'Can You Bring Ceramic Mugs on Carry On: Travel Smart Tips'
+description: Imagine you're packing for your next big adventure. You've got your essentials
+  ready, but you're wondering if you can bring along your favorite ceramic mug in
+  y
 pubDate: 2025-08-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-ceramic-mugs-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-ceramic-mugs-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're packing for your next big adventure. You've got your essentials ready, but you're wondering if you can bring along your favorite ceramic mug in your carry-on.**

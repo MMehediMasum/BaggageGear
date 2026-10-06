@@ -1,10 +1,14 @@
 ---
-title: "When Should You Pack Your Hospital Bag: Ultimate Timing Guide"
-description: "The moment you find out you're expecting, the excitement begins. You've got a list of things to prepare, and at the top of that list is your hospital bag. But w"
+title: 'When Should You Pack Your Hospital Bag: Ultimate Timing Guide'
+description: The moment you find out you're expecting, the excitement begins. You've
+  got a list of things to prepare, and at the top of that list is your hospital bag.
+  But w
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-should-you-pack-your-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=when-should-you-pack-your-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **The moment you find out you're expecting, the excitement begins. You've got a list of things to prepare, and at the top of that list is your hospital bag.**

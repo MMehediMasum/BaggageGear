@@ -1,10 +1,14 @@
 ---
-title: "Is Nobl Luggage Good: Ultimate Review for Smart Travelers"
-description: "Are you on the hunt for the perfect travel companion to keep your belongings safe and stylish on the go? Your search might just end with Nobl Luggage. But is No"
+title: 'Is Nobl Luggage Good: Ultimate Review for Smart Travelers'
+description: Are you on the hunt for the perfect travel companion to keep your belongings
+  safe and stylish on the go? Your search might just end with Nobl Luggage. But is
+  No
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-nobl-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-nobl-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion to keep your belongings safe and stylish on the go? Your search might just end with Nobl Luggage.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put on a Colostomy Bag: Easy Steps for Confidence"
 description: "Facing the task of putting on a colostomy bag can feel overwhelming, especially if it's your first time. You might have questions swirling in your mind and a bi"
 pubDate: 2026-01-14

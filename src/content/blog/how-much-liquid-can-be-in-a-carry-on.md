@@ -1,10 +1,14 @@
 ---
-title: "How Much Liquid Can Be in a Carry On: Ultimate TSA Guide 2025"
-description: "You’re standing in front of your suitcase, staring at your collection of travel-sized toiletries, and wondering just how much liquid you can actually bring in y"
+title: 'How Much Liquid Can Be in a Carry On: Ultimate TSA Guide 2025'
+description: You’re standing in front of your suitcase, staring at your collection
+  of travel-sized toiletries, and wondering just how much liquid you can actually
+  bring in y
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-liquid-can-be-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-much-liquid-can-be-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re standing in front of your suitcase, staring at your collection of travel-sized toiletries, and wondering just how much liquid you can actually bring in your carry-on. It’s a common dilemma that many travelers face, especially if you want to avoid the hassle of checking a bag.**

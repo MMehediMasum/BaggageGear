@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Batteries in Checked Luggage: Essential Safety Tips"
-description: "Are you packing for a trip and wondering if you can put batteries in your checked luggage? You’re not alone. Many travelers share this concern, especially with "
+title: 'Can You Put Batteries in Checked Luggage: Essential Safety Tips'
+description: 'Are you packing for a trip and wondering if you can put batteries in
+  your checked luggage? You’re not alone. Many travelers share this concern, especially
+  with '
 pubDate: 2025-09-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-batteries-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-batteries-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for a trip and wondering if you can put batteries in your checked luggage? You’re not alone.**

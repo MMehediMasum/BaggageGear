@@ -1,10 +1,14 @@
 ---
-title: "Can a Duffel Bag Be a Checked Bag: Expert Tips for Travel"
-description: "Are you planning your next adventure and wondering if your trusty duffel bag can double as a checked bag? You're not alone! Many travelers like you are on the h"
+title: 'Can a Duffel Bag Be a Checked Bag: Expert Tips for Travel'
+description: Are you planning your next adventure and wondering if your trusty duffel
+  bag can double as a checked bag? You're not alone! Many travelers like you are on
+  the h
 pubDate: 2025-12-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-duffel-bag-be-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-a-duffel-bag-be-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and wondering if your trusty duffel bag can double as a checked bag? You're not alone!**

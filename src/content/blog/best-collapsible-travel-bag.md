@@ -1,10 +1,14 @@
 ---
-title: "Best Collapsible Travel Bag: Discover Top Foldable Duffle Bags for Adventures"
-description: "Finding the best collapsible travel bag makes packing and traveling easier. These bags save space and offer great convenience on the go. Collapsible travel bags"
+title: 'Best Collapsible Travel Bag: Discover Top Foldable Duffle Bags for Adventures'
+description: Finding the best collapsible travel bag makes packing and traveling easier.
+  These bags save space and offer great convenience on the go. Collapsible travel
+  bags
 pubDate: 2026-05-16
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-collapsible-travel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-collapsible-travel-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best collapsible travel bag makes packing and traveling easier. These bags save space and offer great convenience on the go.**

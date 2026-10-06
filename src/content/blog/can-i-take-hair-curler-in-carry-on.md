@@ -1,10 +1,14 @@
 ---
-title: "Can I Take Hair Curler in Carry On: Essential Travel Tips Revealed"
-description: "Are you getting ready for a trip and wondering, \"Can I take a hair curler in my carry-on?\" You're not alone. Many travelers like you want to ensure their favori"
+title: 'Can I Take Hair Curler in Carry On: Essential Travel Tips Revealed'
+description: Are you getting ready for a trip and wondering, "Can I take a hair curler
+  in my carry-on?" You're not alone. Many travelers like you want to ensure their
+  favori
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-hair-curler-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-hair-curler-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for a trip and wondering, "Can I take a hair curler in my carry-on?" You're not alone.**

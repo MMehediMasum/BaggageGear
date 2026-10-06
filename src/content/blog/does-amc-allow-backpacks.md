@@ -1,10 +1,14 @@
 ---
-title: "Does Amc Allow Backpacks: Essential Tips for Moviegoers"
-description: "Imagine this: you're all set for a thrilling movie night at your favorite AMC theater. You've got your snacks, your water bottle, and maybe a cozy blanket tucke"
+title: 'Does Amc Allow Backpacks: Essential Tips for Moviegoers'
+description: 'Imagine this: you''re all set for a thrilling movie night at your favorite
+  AMC theater. You''ve got your snacks, your water bottle, and maybe a cozy blanket
+  tucke'
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-amc-allow-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=does-amc-allow-backpacks&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're all set for a thrilling movie night at your favorite AMC theater. You've got your snacks, your water bottle, and maybe a cozy blanket tucked into your trusty backpack.**

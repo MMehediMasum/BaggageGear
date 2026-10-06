@@ -1,10 +1,14 @@
 ---
-title: "Does Big Lots Sell Luggage: Ultimate Guide to Affordable Travel Bags"
-description: "Are you planning your next big adventure or just organizing a weekend getaway? Finding the right luggage can make all the difference. You might be wondering if "
+title: 'Does Big Lots Sell Luggage: Ultimate Guide to Affordable Travel Bags'
+description: 'Are you planning your next big adventure or just organizing a weekend
+  getaway? Finding the right luggage can make all the difference. You might be wondering
+  if '
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-big-lots-sell-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-big-lots-sell-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure or just organizing a weekend getaway? Finding the right luggage can make all the difference.**

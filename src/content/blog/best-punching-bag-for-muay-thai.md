@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Punching Bag for Muay Thai: Top Picks for Powerful Training"
 description: "Choosing the best punching bag for Muay Thai is essential for effective training. A good bag helps improve your strikes, power, and endurance. Muay Thai require"
 pubDate: 2026-06-19

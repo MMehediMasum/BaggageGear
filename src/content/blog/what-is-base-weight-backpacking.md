@@ -1,10 +1,14 @@
 ---
-title: "What is Base Weight Backpacking: Ultimate Guide to Lighten Your Load"
-description: "Have you ever set out on a hiking trip, only to find yourself exhausted under the weight of your backpack? If yes, you're not alone. The secret to a more enjoya"
+title: 'What is Base Weight Backpacking: Ultimate Guide to Lighten Your Load'
+description: Have you ever set out on a hiking trip, only to find yourself exhausted
+  under the weight of your backpack? If yes, you're not alone. The secret to a more
+  enjoya
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-base-weight-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=what-is-base-weight-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Have you ever set out on a hiking trip, only to find yourself exhausted under the weight of your backpack? If yes, you're not alone.**

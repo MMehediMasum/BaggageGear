@@ -1,10 +1,14 @@
 ---
-title: "Can a Bogg Bag Be a Carry On: Ultimate Travel Carry-On Guide"
-description: "Are you planning your next getaway and wondering if your beloved Bogg Bag can double as your carry-on? You're not alone. Many travelers, like you, are looking f"
+title: 'Can a Bogg Bag Be a Carry On: Ultimate Travel Carry-On Guide'
+description: Are you planning your next getaway and wondering if your beloved Bogg
+  Bag can double as your carry-on? You're not alone. Many travelers, like you, are
+  looking f
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-bogg-bag-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bogg Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-a-bogg-bag-be-a-carry-on&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you planning your next getaway and wondering if your beloved Bogg Bag can double as your carry-on? You're not alone.**

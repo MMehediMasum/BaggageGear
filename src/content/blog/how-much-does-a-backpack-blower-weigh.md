@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Backpack Blower Weigh: Ultimate Weight Guide"
 description: "Are you shopping for a backpack blower and feeling overwhelmed by all the choices? One key factor that might be on your mind is the weight. After all, you want "
 pubDate: 2025-11-01

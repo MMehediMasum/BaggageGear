@@ -1,10 +1,14 @@
 ---
-title: "How to Reset Delsey Luggage: Easy Steps to Unlock Your Suitcase"
-description: "Are you struggling to unlock your Delsey luggage because you've forgotten the combination? You're not alone, and there's no need to panic. Resetting your Delsey"
+title: 'How to Reset Delsey Luggage: Easy Steps to Unlock Your Suitcase'
+description: Are you struggling to unlock your Delsey luggage because you've forgotten
+  the combination? You're not alone, and there's no need to panic. Resetting your
+  Delsey
 pubDate: 2025-11-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-delsey-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-delsey-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you struggling to unlock your Delsey luggage because you've forgotten the combination? You're not alone, and there's no need to panic.**

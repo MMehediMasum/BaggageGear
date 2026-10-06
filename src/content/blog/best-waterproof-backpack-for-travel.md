@@ -1,10 +1,14 @@
 ---
-title: "Best Waterproof Backpack for Travel: Discover Top Picks for Every Adventure"
-description: "Finding the best waterproof backpack for travel can protect your gear from rain and spills. A reliable backpack keeps your belongings safe and dry during trips."
+title: 'Best Waterproof Backpack for Travel: Discover Top Picks for Every Adventure'
+description: Finding the best waterproof backpack for travel can protect your gear
+  from rain and spills. A reliable backpack keeps your belongings safe and dry during
+  trips.
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-waterproof-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-waterproof-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best waterproof backpack for travel can protect your gear from rain and spills. A reliable backpack keeps your belongings safe and dry during trips.**

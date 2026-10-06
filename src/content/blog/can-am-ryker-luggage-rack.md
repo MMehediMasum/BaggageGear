@@ -1,10 +1,14 @@
 ---
-title: "Can am Ryker Luggage Rack: Ultimate Storage Upgrade Guide"
-description: "Imagine hitting the open road on your Can-Am Ryker, feeling the wind in your hair and the thrill of adventure at your fingertips. But wait, where do you stash y"
+title: 'Can am Ryker Luggage Rack: Ultimate Storage Upgrade Guide'
+description: Imagine hitting the open road on your Can-Am Ryker, feeling the wind
+  in your hair and the thrill of adventure at your fingertips. But wait, where do
+  you stash y
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-am-ryker-luggage-rack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=can-am-ryker-luggage-rack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine hitting the open road on your Can-Am Ryker, feeling the wind in your hair and the thrill of adventure at your fingertips. But wait, where do you stash your essentials for the trip?**

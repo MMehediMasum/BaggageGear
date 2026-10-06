@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Briggs And Riley Luggage: Easy Steps for Lasting Shine"
-description: "Are you tired of seeing your once pristine Briggs and Riley luggage looking a little worse for wear after numerous adventures? You're not alone. Keeping your lu"
+title: 'How to Clean Briggs And Riley Luggage: Easy Steps for Lasting Shine'
+description: Are you tired of seeing your once pristine Briggs and Riley luggage looking
+  a little worse for wear after numerous adventures? You're not alone. Keeping your
+  lu
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-briggs-and-riley-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-briggs-and-riley-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of seeing your once pristine Briggs and Riley luggage looking a little worse for wear after numerous adventures? You're not alone.**

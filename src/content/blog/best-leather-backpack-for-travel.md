@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Backpack for Travel: Top Durable Stylish Picks for Adventures"
-description: "Choosing the best leather backpack for travel means finding style, comfort, and durability in one bag. A good leather backpack holds your belongings safely and "
+title: 'Best Leather Backpack for Travel: Top Durable Stylish Picks for Adventures'
+description: 'Choosing the best leather backpack for travel means finding style, comfort,
+  and durability in one bag. A good leather backpack holds your belongings safely
+  and '
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luxury And Designer Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-backpack-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best leather backpack for travel means finding style, comfort, and durability in one bag. A good leather backpack holds your belongings safely and looks great on any trip.**

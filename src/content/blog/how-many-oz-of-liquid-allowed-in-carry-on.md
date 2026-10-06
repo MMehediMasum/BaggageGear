@@ -1,10 +1,14 @@
 ---
-title: "How Many Oz of Liquid Allowed in Carry On: Ultimate Guide 2025"
-description: "Are you packing your carry-on and wondering how many ounces of liquid you’re allowed to bring? You’re not alone. Knowing the exact limit can save you from last-"
+title: 'How Many Oz of Liquid Allowed in Carry On: Ultimate Guide 2025'
+description: Are you packing your carry-on and wondering how many ounces of liquid
+  you’re allowed to bring? You’re not alone. Knowing the exact limit can save you
+  from last-
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-oz-of-liquid-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-oz-of-liquid-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing your carry-on and wondering how many ounces of liquid you’re allowed to bring? You’re not alone.**

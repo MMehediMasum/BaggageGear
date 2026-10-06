@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Under Seat: Top Picks for Your Next Adventure"
-description: "Finding the best travel backpack that fits under the seat makes flying easier and more comfortable. These backpacks keep essentials close and meet airline size "
+title: 'Best Travel Backpack for Under Seat: Top Picks for Your Next Adventure'
+description: 'Finding the best travel backpack that fits under the seat makes flying
+  easier and more comfortable. These backpacks keep essentials close and meet airline
+  size '
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-under-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-under-seat&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best travel backpack that fits under the seat makes flying easier and more comfortable. These backpacks keep essentials close and meet airline size rules.**

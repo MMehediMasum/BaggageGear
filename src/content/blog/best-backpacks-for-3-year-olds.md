@@ -1,10 +1,14 @@
 ---
-title: "Best Backpacks for 3 Year Olds: Top Picks for Toddlers"
-description: "Choosing the best backpack for a 3-year-old can be tricky. It must be small, light, and fun for little kids to carry. Backpacks for toddlers need to fit their s"
+title: 'Best Backpacks for 3 Year Olds: Top Picks for Toddlers'
+description: Choosing the best backpack for a 3-year-old can be tricky. It must be
+  small, light, and fun for little kids to carry. Backpacks for toddlers need to fit
+  their s
 pubDate: 2026-05-12
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpacks-for-3-year-olds&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-backpacks-for-3-year-olds&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for a 3-year-old can be tricky. It must be small, light, and fun for little kids to carry.**

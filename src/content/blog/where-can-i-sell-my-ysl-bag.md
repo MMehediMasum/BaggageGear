@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Ysl Bag: Top Trusted Platforms Revealed"
-description: "You've got a YSL bag sitting in your closet, and you're ready to turn it into cash. But where do you start? Whether you're upgrading your wardrobe or need extra"
+title: 'Where Can I Sell My Ysl Bag: Top Trusted Platforms Revealed'
+description: You've got a YSL bag sitting in your closet, and you're ready to turn
+  it into cash. But where do you start? Whether you're upgrading your wardrobe or
+  need extra
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-ysl-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-ysl-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You've got a YSL bag sitting in your closet, and you're ready to turn it into cash. But where do you start?**

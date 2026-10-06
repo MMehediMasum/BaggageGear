@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Suitcase School: Unpacking the Future of Learning"
 description: "Ever heard of a \"suitcase school\"? You might be wondering what this intriguing term means and why it matters to you. Picture this: a bustling campus during the "
 pubDate: 2026-03-31

@@ -1,10 +1,14 @@
 ---
-title: "How Long Does Luggage Forwarding Take in Japan: Quick Guide"
-description: "Have you ever wondered how to streamline your travel experience in Japan? Imagine arriving at your destination without the hassle of dragging your luggage throu"
+title: 'How Long Does Luggage Forwarding Take in Japan: Quick Guide'
+description: Have you ever wondered how to streamline your travel experience in Japan?
+  Imagine arriving at your destination without the hassle of dragging your luggage
+  throu
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-does-luggage-forwarding-take-in-japan&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-long-does-luggage-forwarding-take-in-japan&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered how to streamline your travel experience in Japan? Imagine arriving at your destination without the hassle of dragging your luggage through crowded trains and busy streets.**

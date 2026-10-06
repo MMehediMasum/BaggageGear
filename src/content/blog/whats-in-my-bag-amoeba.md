@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in My Bag Amoeba: Ultimate Essentials Revealed!"
 description: "Ever wondered what's in your bag that makes it a perfect companion for your day-to-day adventures? Imagine unlocking a world of curiosity and excitement, much l"
 pubDate: 2026-01-16

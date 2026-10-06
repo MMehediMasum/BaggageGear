@@ -1,10 +1,14 @@
 ---
-title: "Does Plato'S Closet Take Backpacks: Ultimate Guide Revealed"
-description: "Have you ever wondered what to do with that gently used backpack that's just been collecting dust in your closet? You might not be alone. Many people like you a"
+title: 'Does Plato''S Closet Take Backpacks: Ultimate Guide Revealed'
+description: Have you ever wondered what to do with that gently used backpack that's
+  just been collecting dust in your closet? You might not be alone. Many people like
+  you a
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-platos-closet-take-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack History And Buying Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-platos-closet-take-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered what to do with that gently used backpack that's just been collecting dust in your closet? You might not be alone.**

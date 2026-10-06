@@ -1,10 +1,14 @@
 ---
-title: "Best Size for Checked Luggage: Top Picks for Every Traveler"
-description: "Choosing the best size for checked luggage is key to smooth travel. Airlines have size limits to avoid extra fees or hassles. Checked luggage sizes vary, but mo"
+title: 'Best Size for Checked Luggage: Top Picks for Every Traveler'
+description: Choosing the best size for checked luggage is key to smooth travel. Airlines
+  have size limits to avoid extra fees or hassles. Checked luggage sizes vary, but
+  mo
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-size-for-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best size for checked luggage is key to smooth travel. Airlines have size limits to avoid extra fees or hassles.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long Will Grass Seed Last in a Bag: Ultimate Shelf Life Guide"
 description: "Have you ever found an old bag of grass seed in your garage or shed and wondered if it's still good to use? You're not alone. Many homeowners and garden enthusi"
 pubDate: 2025-12-19

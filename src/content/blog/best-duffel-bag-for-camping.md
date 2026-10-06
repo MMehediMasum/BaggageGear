@@ -1,10 +1,14 @@
 ---
-title: "Best Duffel Bag for Camping: Top Foldable and Waterproof Options"
-description: "Finding the best duffel bag for camping can make your trip easier and more organized. A good bag holds your gear safely and fits all your essentials. Camping ne"
+title: 'Best Duffel Bag for Camping: Top Foldable and Waterproof Options'
+description: Finding the best duffel bag for camping can make your trip easier and
+  more organized. A good bag holds your gear safely and fits all your essentials.
+  Camping ne
 pubDate: 2026-06-19
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-camping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-camping&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best duffel bag for camping can make your trip easier and more organized. A good bag holds your gear safely and fits all your essentials.**

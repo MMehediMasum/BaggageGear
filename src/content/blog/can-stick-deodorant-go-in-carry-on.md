@@ -1,10 +1,14 @@
 ---
-title: "Can Stick Deodorant Go in Carry On: Essential Travel Tips"
-description: "Have you ever packed for a trip and found yourself wondering if your stick deodorant can go in your carry-on? You're not alone. Navigating TSA rules can be tric"
+title: 'Can Stick Deodorant Go in Carry On: Essential Travel Tips'
+description: Have you ever packed for a trip and found yourself wondering if your
+  stick deodorant can go in your carry-on? You're not alone. Navigating TSA rules
+  can be tric
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-stick-deodorant-go-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-stick-deodorant-go-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and found yourself wondering if your stick deodorant can go in your carry-on? You're not alone.**

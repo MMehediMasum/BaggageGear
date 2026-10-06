@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Carry on for International Flight: Ultimate Essentials Guide"
-description: "Packing your carry-on for an international flight can feel like solving a puzzle. You want to make sure you have everything you need, but you also want to trave"
+title: 'What to Pack in Carry on for International Flight: Ultimate Essentials Guide'
+description: Packing your carry-on for an international flight can feel like solving
+  a puzzle. You want to make sure you have everything you need, but you also want
+  to trave
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-carry-on-for-international-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-carry-on-for-international-flight&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing your carry-on for an international flight can feel like solving a puzzle. You want to make sure you have everything you need, but you also want to travel light.**

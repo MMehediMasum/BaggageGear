@@ -1,10 +1,13 @@
 ---
-title: "Does Delta Come With a Carry On: Ultimate Guide for 2025 Travelers"
-description: "Are you planning your next trip and wondering about Delta Airlines' carry-on policies? You're not alone. Understanding what you can bring on board can make your"
+title: 'Does Delta Come With a Carry On: Ultimate Guide for 2025 Travelers'
+description: Are you planning your next trip and wondering about Delta Airlines' carry-on
+  policies? You're not alone. Understanding what you can bring on board can make your
 pubDate: 2026-04-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-come-with-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-come-with-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering about Delta Airlines' carry-on policies? You're not alone.**

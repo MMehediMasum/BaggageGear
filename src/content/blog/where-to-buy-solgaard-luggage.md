@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Solgaard Luggage: Top Stores & Best Deals 2025"
-description: "Are you on the hunt for stylish and eco-friendly luggage that stands out from the crowd? Look no further than Solgaard, a brand known for its innovative designs"
+title: 'Where to Buy Solgaard Luggage: Top Stores & Best Deals 2025'
+description: Are you on the hunt for stylish and eco-friendly luggage that stands
+  out from the crowd? Look no further than Solgaard, a brand known for its innovative
+  designs
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-solgaard-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-solgaard-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for stylish and eco-friendly luggage that stands out from the crowd? Look no further than Solgaard, a brand known for its innovative designs and commitment to sustainability.**

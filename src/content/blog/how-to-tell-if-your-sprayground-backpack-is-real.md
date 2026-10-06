@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If Your Sprayground Backpack is Real: Ultimate Guide"
-description: "Do you love your Sprayground backpack as much as we do? These trendy and unique bags have taken the fashion world by storm. But with popularity comes imitation."
+title: 'How to Tell If Your Sprayground Backpack is Real: Ultimate Guide'
+description: Do you love your Sprayground backpack as much as we do? These trendy
+  and unique bags have taken the fashion world by storm. But with popularity comes
+  imitation.
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-your-sprayground-backpack-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-your-sprayground-backpack-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Do you love your Sprayground backpack as much as we do? These trendy and unique bags have taken the fashion world by storm.**

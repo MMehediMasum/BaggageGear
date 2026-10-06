@@ -1,10 +1,14 @@
 ---
-title: "Best Hiking Backpacks for Day Hikes: Top Lightweight and Durable Choices"
-description: "Choosing the right hiking backpack makes day hikes easier and more enjoyable. A good pack holds essentials without feeling heavy or bulky. Day hiking requires a"
+title: 'Best Hiking Backpacks for Day Hikes: Top Lightweight and Durable Choices'
+description: Choosing the right hiking backpack makes day hikes easier and more enjoyable.
+  A good pack holds essentials without feeling heavy or bulky. Day hiking requires
+  a
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hiking-backpacks-for-day-hikes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-hiking-backpacks-for-day-hikes&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the right hiking backpack makes day hikes easier and more enjoyable. A good pack holds essentials without feeling heavy or bulky.**

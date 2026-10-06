@@ -1,10 +1,14 @@
 ---
-title: "How Much to Check a Bag on Alaska: Ultimate Cost Guide 2025"
-description: "Planning a trip with Alaska Airlines and wondering about the cost of checking a bag? You're not alone. Navigating airline fees can feel like deciphering a secre"
+title: 'How Much to Check a Bag on Alaska: Ultimate Cost Guide 2025'
+description: Planning a trip with Alaska Airlines and wondering about the cost of
+  checking a bag? You're not alone. Navigating airline fees can feel like deciphering
+  a secre
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-alaska&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-alaska&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Alaska Airlines and wondering about the cost of checking a bag? You're not alone.**

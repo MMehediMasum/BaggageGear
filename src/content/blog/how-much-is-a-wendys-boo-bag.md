@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Wendy'S Boo Bag: Unveiling Prices & Deals"
 description: "Are you curious about Wendy's Boo Bag and how much it might cost you this Halloween season? You're not alone. This spooky-themed offering has been creating quit"
 pubDate: 2026-02-13

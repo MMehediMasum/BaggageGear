@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Do You Want a Bag in Spanish: Master This Essential Phrase Fast"
 description: "Are you planning a trip to a Spanish-speaking country and want to feel more at ease in everyday situations? Imagine being at a bustling market or a quaint littl"
 pubDate: 2026-02-02

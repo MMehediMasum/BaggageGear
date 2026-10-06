@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring an Electric Razor in My Carry on: Ultimate Guide 2025"
-description: "Traveling can be a mix of excitement and anxiety, especially when you're unsure about what you can bring in your carry-on bag. Are you wondering if your trusty "
+title: 'Can I Bring an Electric Razor in My Carry on: Ultimate Guide 2025'
+description: 'Traveling can be a mix of excitement and anxiety, especially when you''re
+  unsure about what you can bring in your carry-on bag. Are you wondering if your
+  trusty '
 pubDate: 2025-11-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-an-electric-razor-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-an-electric-razor-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a mix of excitement and anxiety, especially when you're unsure about what you can bring in your carry-on bag. Are you wondering if your trusty electric razor can come along for the trip?**

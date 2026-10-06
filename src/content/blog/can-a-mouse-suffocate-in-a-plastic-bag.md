@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can a Mouse Suffocate in a Plastic Bag? Shocking Truth Revealed"
 description: "Have you ever wondered about the safety of everyday items around your home, especially when it comes to small creatures like mice? You might not think twice abo"
 pubDate: 2025-12-12

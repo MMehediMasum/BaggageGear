@@ -1,10 +1,14 @@
 ---
-title: "How Big Can Deodorant Be for Carry On: Ultimate Size Guide"
-description: "Navigating airport security can be a daunting task, especially when you’re unsure about what you can bring on board. One common question travelers face is: \"How"
+title: 'How Big Can Deodorant Be for Carry On: Ultimate Size Guide'
+description: 'Navigating airport security can be a daunting task, especially when
+  you’re unsure about what you can bring on board. One common question travelers face
+  is: "How'
 pubDate: 2025-10-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-can-deodorant-be-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=how-big-can-deodorant-be-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can be a daunting task, especially when you’re unsure about what you can bring on board. One common question travelers face is: "How big can deodorant be for carry on?"**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Cpap on Carry On: Ultimate Travel Guide 2025"
-description: "Traveling with a CPAP machine can feel overwhelming. You might be wondering if you can bring it on a plane as a carry-on. The good news is you can! However, the"
+title: 'Can You Bring Cpap on Carry On: Ultimate Travel Guide 2025'
+description: Traveling with a CPAP machine can feel overwhelming. You might be wondering
+  if you can bring it on a plane as a carry-on. The good news is you can! However,
+  the
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-cpap-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-cpap-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with a CPAP machine can feel overwhelming. You might be wondering if you can bring it on a plane as a carry-on.**

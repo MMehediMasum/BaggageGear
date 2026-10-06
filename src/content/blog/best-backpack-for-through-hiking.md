@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Through Hiking: Top Lightweight and Waterproof Picks"
-description: "Choosing the best backpack for through hiking is essential for comfort and efficiency on long trails. A good backpack carries your gear well and keeps you organ"
+title: 'Best Backpack for Through Hiking: Top Lightweight and Waterproof Picks'
+description: Choosing the best backpack for through hiking is essential for comfort
+  and efficiency on long trails. A good backpack carries your gear well and keeps
+  you organ
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-through-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-through-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for through hiking is essential for comfort and efficiency on long trails. A good backpack carries your gear well and keeps you organized.**

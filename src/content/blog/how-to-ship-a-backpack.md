@@ -1,10 +1,14 @@
 ---
-title: "How to Ship a Backpack: Easy Steps for Safe, Fast Delivery"
-description: "Are you planning to send a backpack to a loved one or perhaps ship it to your next travel destination? Shipping a backpack might seem simple, but there are key "
+title: 'How to Ship a Backpack: Easy Steps for Safe, Fast Delivery'
+description: 'Are you planning to send a backpack to a loved one or perhaps ship it
+  to your next travel destination? Shipping a backpack might seem simple, but there
+  are key '
 pubDate: 2026-01-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-ship-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-ship-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning to send a backpack to a loved one or perhaps ship it to your next travel destination? Shipping a backpack might seem simple, but there are key steps you need to follow to ensure it arrives safely and on time.**

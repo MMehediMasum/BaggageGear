@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Team Bag for Cards: Ultimate Guide to Card Organization"
 description: "Have you ever wondered how to keep your cherished card collection safe and organized? Picture this: your favorite cards, neatly tucked away, protected from the "
 pubDate: 2026-02-16

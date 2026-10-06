@@ -1,10 +1,14 @@
 ---
-title: "Is the Borealis Backpack Waterproof: Ultimate Weather Protection Tested"
-description: "Are you thinking about getting the Borealis Backpack but wondering if it can handle rain or spills? You want a bag that keeps your gear safe and dry, no matter "
+title: 'Is the Borealis Backpack Waterproof: Ultimate Weather Protection Tested'
+description: 'Are you thinking about getting the Borealis Backpack but wondering if
+  it can handle rain or spills? You want a bag that keeps your gear safe and dry,
+  no matter '
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-the-borealis-backpack-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-the-borealis-backpack-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you thinking about getting the Borealis Backpack but wondering if it can handle rain or spills? You want a bag that keeps your gear safe and dry, no matter where you go.**

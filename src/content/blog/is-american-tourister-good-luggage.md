@@ -1,10 +1,14 @@
 ---
-title: "Is American Tourister Good Luggage: Honest Review & Top Benefits"
-description: "When planning your next trip, choosing the right luggage can make all the difference. You're probably wondering if American Tourister is the right choice for yo"
+title: 'Is American Tourister Good Luggage: Honest Review & Top Benefits'
+description: When planning your next trip, choosing the right luggage can make all
+  the difference. You're probably wondering if American Tourister is the right choice
+  for yo
 pubDate: 2025-11-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-american-tourister-good-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-american-tourister-good-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When planning your next trip, choosing the right luggage can make all the difference. You're probably wondering if American Tourister is the right choice for your travel needs.**

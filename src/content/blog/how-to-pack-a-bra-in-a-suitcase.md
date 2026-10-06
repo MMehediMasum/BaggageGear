@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Bra in a Suitcase: Ultimate Space-Saving Tips"
-description: "Packing for a trip can be both exciting and daunting. One of the common challenges is figuring out how to pack delicate items, like bras, without damaging them."
+title: 'How to Pack a Bra in a Suitcase: Ultimate Space-Saving Tips'
+description: Packing for a trip can be both exciting and daunting. One of the common
+  challenges is figuring out how to pack delicate items, like bras, without damaging
+  them.
 pubDate: 2026-02-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-bra-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-bra-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can be both exciting and daunting. One of the common challenges is figuring out how to pack delicate items, like bras, without damaging them.**

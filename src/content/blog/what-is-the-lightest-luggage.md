@@ -1,10 +1,14 @@
 ---
-title: "What is the Lightest Luggage: Ultimate Guide to Ultra-Light Travel Gear"
-description: "Are you tired of lugging around heavy suitcases that make traveling a chore rather than an adventure? Imagine gliding through the airport with ease, your luggag"
+title: 'What is the Lightest Luggage: Ultimate Guide to Ultra-Light Travel Gear'
+description: Are you tired of lugging around heavy suitcases that make traveling a
+  chore rather than an adventure? Imagine gliding through the airport with ease, your
+  luggag
 pubDate: 2025-10-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-lightest-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-lightest-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you tired of lugging around heavy suitcases that make traveling a chore rather than an adventure? Imagine gliding through the airport with ease, your luggage so light it feels like a feather by your side.**

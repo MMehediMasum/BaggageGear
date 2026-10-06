@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does It Mean to Bag a Patient: Essential Medical Insight Explained"
 description: "Have you ever come across the phrase \"bag a patient\" and wondered what it means? At first glance, it might sound like jargon, but understanding it is essential,"
 pubDate: 2025-12-18

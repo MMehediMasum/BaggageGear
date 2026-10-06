@@ -1,10 +1,14 @@
 ---
-title: "Where is Samsonite Luggage Made: Unveiling the Global Origins"
-description: "Are you curious about the origins of your trusty travel companion, the Samsonite luggage? You’re not alone. Many travelers, perhaps just like you, have pondered"
+title: 'Where is Samsonite Luggage Made: Unveiling the Global Origins'
+description: Are you curious about the origins of your trusty travel companion, the
+  Samsonite luggage? You’re not alone. Many travelers, perhaps just like you, have
+  pondered
 pubDate: 2025-11-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-samsonite-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-samsonite-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about the origins of your trusty travel companion, the Samsonite luggage? You’re not alone.**

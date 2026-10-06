@@ -1,10 +1,14 @@
 ---
-title: "When Will Southwest Start Charging for Luggage: What Travelers Must Know"
-description: "Are you an avid traveler who loves flying with Southwest Airlines? If so, you're probably used to the convenience of their no-cost luggage policy. But what if t"
+title: 'When Will Southwest Start Charging for Luggage: What Travelers Must Know'
+description: Are you an avid traveler who loves flying with Southwest Airlines? If
+  so, you're probably used to the convenience of their no-cost luggage policy. But
+  what if t
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-will-southwest-start-charging-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=when-will-southwest-start-charging-for-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you an avid traveler who loves flying with Southwest Airlines? If so, you're probably used to the convenience of their no-cost luggage policy.**

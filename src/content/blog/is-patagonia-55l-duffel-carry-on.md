@@ -1,10 +1,14 @@
 ---
-title: "Is Patagonia 55L Duffel Carry on: Ultimate Travel Companion Review"
-description: "Are you planning your next adventure and wondering if the Patagonia 55L Duffel can be your trusty carry-on companion? You're not alone. Many travelers face the "
+title: 'Is Patagonia 55L Duffel Carry on: Ultimate Travel Companion Review'
+description: 'Are you planning your next adventure and wondering if the Patagonia
+  55L Duffel can be your trusty carry-on companion? You''re not alone. Many travelers
+  face the '
 pubDate: 2025-11-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-patagonia-55l-duffel-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-patagonia-55l-duffel-carry-on&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next adventure and wondering if the Patagonia 55L Duffel can be your trusty carry-on companion? You're not alone.**

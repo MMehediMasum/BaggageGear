@@ -1,10 +1,14 @@
 ---
-title: "Can You Dye a Leather Bag: Ultimate Guide to Transform Your Style"
-description: "Have you ever looked at your leather bag and wished it had a fresh new color? Maybe you love the style but feel like a change could make it even better. You're "
+title: 'Can You Dye a Leather Bag: Ultimate Guide to Transform Your Style'
+description: 'Have you ever looked at your leather bag and wished it had a fresh new
+  color? Maybe you love the style but feel like a change could make it even better.
+  You''re '
 pubDate: 2026-01-19
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-dye-a-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-dye-a-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your leather bag and wished it had a fresh new color? Maybe you love the style but feel like a change could make it even better.**

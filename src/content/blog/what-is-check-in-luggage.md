@@ -1,10 +1,14 @@
 ---
-title: "What is Check in Luggage: Ultimate Guide to Smart Packing Tips"
-description: "Are you planning your next big adventure or simply curious about the ins and outs of air travel? Understanding check-in luggage can make a significant differenc"
+title: 'What is Check in Luggage: Ultimate Guide to Smart Packing Tips'
+description: Are you planning your next big adventure or simply curious about the
+  ins and outs of air travel? Understanding check-in luggage can make a significant
+  differenc
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-check-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=what-is-check-in-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next big adventure or simply curious about the ins and outs of air travel? Understanding check-in luggage can make a significant difference in your travel experience.**

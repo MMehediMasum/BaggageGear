@@ -1,10 +1,14 @@
 ---
-title: "How Much Should a Carry on Weight: Ultimate Guide for Travelers"
-description: "Are you gearing up for your next adventure and wondering, \"How much should a carry-on weigh?\" You're not alone. Many travelers often find themselves puzzled by "
+title: 'How Much Should a Carry on Weight: Ultimate Guide for Travelers'
+description: 'Are you gearing up for your next adventure and wondering, "How much
+  should a carry-on weigh?" You''re not alone. Many travelers often find themselves
+  puzzled by '
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-should-a-carry-on-weight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=how-much-should-a-carry-on-weight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next adventure and wondering, "How much should a carry-on weigh?" You're not alone.**

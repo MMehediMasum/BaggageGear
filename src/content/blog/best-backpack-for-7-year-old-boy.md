@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for 7 Year-Old Boy: Top Durable and Fun Picks"
-description: "Choosing the best backpack for a 7-year-old boy can be tricky. It must be sturdy, comfortable, and fit school needs perfectly. A good backpack helps kids carry "
+title: 'Best Backpack for 7 Year-Old Boy: Top Durable and Fun Picks'
+description: 'Choosing the best backpack for a 7-year-old boy can be tricky. It must
+  be sturdy, comfortable, and fit school needs perfectly. A good backpack helps kids
+  carry '
 pubDate: 2026-07-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-7-year-old-boy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-7-year-old-boy&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for a 7-year-old boy can be tricky. It must be sturdy, comfortable, and fit school needs perfectly.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Fly With Thc Gummies in My Checked Bag: Essential Travel Rules"
-description: "Imagine you're getting ready for a trip and you've packed everything you need, including your favorite THC gummies. As you zip up your suitcase, a question pops"
+title: 'Can I Fly With Thc Gummies in My Checked Bag: Essential Travel Rules'
+description: Imagine you're getting ready for a trip and you've packed everything
+  you need, including your favorite THC gummies. As you zip up your suitcase, a question
+  pops
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-fly-with-thc-gummies-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-fly-with-thc-gummies-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're getting ready for a trip and you've packed everything you need, including your favorite THC gummies. As you zip up your suitcase, a question pops into your mind: "Can I fly with THC gummies in my checked bag?"**

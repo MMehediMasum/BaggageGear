@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Sunscreen in My Checked Luggage: Essential Travel Tips"
-description: "Are you packing for an exciting trip and wondering if you can put sunscreen in your checked luggage? You're not alone! Many travelers find themselves puzzled by"
+title: 'Can I Put Sunscreen in My Checked Luggage: Essential Travel Tips'
+description: Are you packing for an exciting trip and wondering if you can put sunscreen
+  in your checked luggage? You're not alone! Many travelers find themselves puzzled
+  by
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-sunscreen-in-my-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-sunscreen-in-my-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for an exciting trip and wondering if you can put sunscreen in your checked luggage? You're not alone!**

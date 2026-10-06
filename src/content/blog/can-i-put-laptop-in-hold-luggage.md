@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Laptop in Hold Luggage: Essential Travel Safety Tips"
-description: "Imagine you're at the airport, bags in hand, and you're wondering if you should tuck your laptop into your hold luggage. It's a common question that sparks a mi"
+title: 'Can I Put Laptop in Hold Luggage: Essential Travel Safety Tips'
+description: Imagine you're at the airport, bags in hand, and you're wondering if
+  you should tuck your laptop into your hold luggage. It's a common question that
+  sparks a mi
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-laptop-in-hold-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-laptop-in-hold-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're at the airport, bags in hand, and you're wondering if you should tuck your laptop into your hold luggage. It's a common question that sparks a mix of curiosity and concern.**

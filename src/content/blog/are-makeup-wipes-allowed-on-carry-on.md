@@ -1,10 +1,14 @@
 ---
-title: "Are Makeup Wipes Allowed on Carry On: Travel Tips Revealed"
-description: "You've meticulously packed your carry-on, ensuring every essential item is neatly tucked away. As you zip up your bag, a question suddenly pops into your mind: "
+title: 'Are Makeup Wipes Allowed on Carry On: Travel Tips Revealed'
+description: 'You''ve meticulously packed your carry-on, ensuring every essential
+  item is neatly tucked away. As you zip up your bag, a question suddenly pops into
+  your mind: '
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-makeup-wipes-allowed-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-makeup-wipes-allowed-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've meticulously packed your carry-on, ensuring every essential item is neatly tucked away. As you zip up your bag, a question suddenly pops into your mind: Are makeup wipes allowed on carry-on luggage?**

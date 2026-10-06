@@ -1,10 +1,13 @@
 ---
-title: "Where is Tumi Luggage Made: Discover the Craftsmanship Secrets"
-description: "Curiosity about the origins of your favorite products can be quite compelling. When it comes to Tumi luggage, one of the most respected names in travel gear, kn"
+title: 'Where is Tumi Luggage Made: Discover the Craftsmanship Secrets'
+description: Curiosity about the origins of your favorite products can be quite compelling.
+  When it comes to Tumi luggage, one of the most respected names in travel gear, kn
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-tumi-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-tumi-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Curiosity about the origins of your favorite products can be quite compelling. When it comes to Tumi luggage, one of the most respected names in travel gear, knowing where it's made can enhance your appreciation for its quality and craftsmanship.**

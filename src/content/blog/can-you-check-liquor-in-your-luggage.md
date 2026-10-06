@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Liquor in Your Luggage: Essential Travel Tips"
-description: "When you're planning a trip, especially one that involves flying, a common question might pop into your mind: Can you check liquor in your luggage? Whether you'"
+title: 'Can You Check Liquor in Your Luggage: Essential Travel Tips'
+description: 'When you''re planning a trip, especially one that involves flying, a
+  common question might pop into your mind: Can you check liquor in your luggage?
+  Whether you'''
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-liquor-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-liquor-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're planning a trip, especially one that involves flying, a common question might pop into your mind: Can you check liquor in your luggage? Whether you're bringing back a special bottle from a vacation or carrying a gift for a friend, knowing the rules can save you time, money, and stress.**

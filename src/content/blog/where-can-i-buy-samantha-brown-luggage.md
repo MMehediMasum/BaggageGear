@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy Samantha Brown Luggage: Top Stores Revealed"
-description: "Are you on the hunt for the perfect travel companion? Samantha Brown Luggage might just be what you need. Known for its stylish designs and durability, this lug"
+title: 'Where Can I Buy Samantha Brown Luggage: Top Stores Revealed'
+description: Are you on the hunt for the perfect travel companion? Samantha Brown
+  Luggage might just be what you need. Known for its stylish designs and durability,
+  this lug
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-samantha-brown-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-samantha-brown-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? Samantha Brown Luggage might just be what you need.**

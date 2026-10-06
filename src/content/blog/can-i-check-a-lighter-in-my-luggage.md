@@ -1,10 +1,14 @@
 ---
-title: "Can I Check a Lighter in My Luggage: Essential Travel Rules Revealed"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing. You might find yourself asking, “Can I check a lighter in my luggage?” This q"
+title: 'Can I Check a Lighter in My Luggage: Essential Travel Rules Revealed'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing. You might find yourself asking, “Can I check a lighter in my luggage?”
+  This q
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-a-lighter-in-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-a-lighter-in-my-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing. You might find yourself asking, “Can I check a lighter in my luggage?” This question might seem minor, but it can make a big difference in your travel experience.**

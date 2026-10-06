@@ -1,10 +1,14 @@
 ---
-title: "Best Large Luggage for Travel: Top Picks for Every Adventure"
-description: "Choosing the best large luggage makes travel easier and more organized. Durable, spacious suitcases suit long trips and heavy packing needs. Large luggage offer"
+title: 'Best Large Luggage for Travel: Top Picks for Every Adventure'
+description: Choosing the best large luggage makes travel easier and more organized.
+  Durable, spacious suitcases suit long trips and heavy packing needs. Large luggage
+  offer
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-luggage-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-large-luggage-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best large luggage makes travel easier and more organized. Durable, spacious suitcases suit long trips and heavy packing needs.**

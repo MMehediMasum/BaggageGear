@@ -1,10 +1,14 @@
 ---
-title: "Can You Ship Your Luggage to Your Destination: Ultimate Guide"
-description: "Traveling can be an exciting adventure, but lugging around heavy suitcases? Not so much. Imagine stepping off the plane, bypassing the baggage claim chaos, and "
+title: 'Can You Ship Your Luggage to Your Destination: Ultimate Guide'
+description: 'Traveling can be an exciting adventure, but lugging around heavy suitcases?
+  Not so much. Imagine stepping off the plane, bypassing the baggage claim chaos,
+  and '
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-ship-your-luggage-to-your-destination&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-you-ship-your-luggage-to-your-destination&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Traveling can be an exciting adventure, but lugging around heavy suitcases? Not so much.**

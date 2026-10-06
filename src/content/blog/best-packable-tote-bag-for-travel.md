@@ -1,10 +1,14 @@
 ---
-title: "Best Packable Tote Bag for Travel: Lightweight, Foldable, and Stylish Choices"
-description: "Traveling light requires smart packing, and a packable tote bag is a perfect choice. These bags fold small but offer plenty of space for your essentials. Packab"
+title: 'Best Packable Tote Bag for Travel: Lightweight, Foldable, and Stylish Choices'
+description: Traveling light requires smart packing, and a packable tote bag is a
+  perfect choice. These bags fold small but offer plenty of space for your essentials.
+  Packab
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packable-tote-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-packable-tote-bag-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Traveling light requires smart packing, and a packable tote bag is a perfect choice. These bags fold small but offer plenty of space for your essentials.**

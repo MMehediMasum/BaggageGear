@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Edibles in a Suitcase? Essential Travel Tips"
-description: "Imagine this: you're packing for a trip and you want to bring along some edibles. But a question pops into your head – can you actually check edibles in a suitc"
+title: Can You Check Edibles in a Suitcase? Essential Travel Tips
+description: 'Imagine this: you''re packing for a trip and you want to bring along
+  some edibles. But a question pops into your head – can you actually check edibles
+  in a suitc'
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-edibles-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-edibles-in-a-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're packing for a trip and you want to bring along some edibles. But a question pops into your head – can you actually check edibles in a suitcase?**

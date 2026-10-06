@@ -1,10 +1,14 @@
 ---
-title: "How Much to Mail a Suitcase: Ultimate Cost Guide & Smart Tips"
-description: "Are you planning a trip and wondering how much it will cost to mail your suitcase instead of lugging it through the airport? Whether you're trying to avoid heft"
+title: 'How Much to Mail a Suitcase: Ultimate Cost Guide & Smart Tips'
+description: Are you planning a trip and wondering how much it will cost to mail your
+  suitcase instead of lugging it through the airport? Whether you're trying to avoid
+  heft
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-mail-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-mail-a-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and wondering how much it will cost to mail your suitcase instead of lugging it through the airport? Whether you're trying to avoid hefty airline baggage fees or want the convenience of traveling luggage-free, understanding the costs involved is crucial.**

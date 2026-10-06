@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Nike Elite Backpack: Ultimate Cleaning Guide"
-description: "Imagine this: Your trusty Nike Elite Backpack has been with you through countless adventures, from gym sessions to weekend getaways. It's your reliable companio"
+title: 'Can You Wash a Nike Elite Backpack: Ultimate Cleaning Guide'
+description: 'Imagine this: Your trusty Nike Elite Backpack has been with you through
+  countless adventures, from gym sessions to weekend getaways. It''s your reliable
+  companio'
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-nike-elite-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-nike-elite-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: Your trusty Nike Elite Backpack has been with you through countless adventures, from gym sessions to weekend getaways. It's your reliable companion, but lately, it’s looking a bit worse for wear.**

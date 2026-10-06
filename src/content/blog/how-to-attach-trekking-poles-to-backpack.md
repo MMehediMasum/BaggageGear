@@ -1,10 +1,13 @@
 ---
-title: "How to Attach Trekking Poles to Backpack: Quick Guide"
-description: "If you love hiking, you know how important trekking poles are for balance and support. But what about when you’re not using them? Knowing how to attach trekking"
+title: 'How to Attach Trekking Poles to Backpack: Quick Guide'
+description: If you love hiking, you know how important trekking poles are for balance
+  and support. But what about when you’re not using them? Knowing how to attach trekking
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-trekking-poles-to-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-trekking-poles-to-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **If you love hiking, you know how important trekking poles are for balance and support. But what about when you’re not using them?**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Camping Pad for Backpacking: Discover Lightweight and Comfortable Options"
 description: "Choosing the best camping pad for backpacking makes your outdoor sleep comfortable and restful. A good pad offers support, insulation, and easy packing for any "
 pubDate: 2026-06-06

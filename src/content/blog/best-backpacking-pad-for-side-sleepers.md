@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Pad for Side Sleepers: Discover Ultimate Comfort Solutions"
 description: "Finding the best backpacking pad for side sleepers can greatly improve your outdoor rest. Side sleepers need extra cushioning to support shoulders and hips comf"
 pubDate: 2026-06-11

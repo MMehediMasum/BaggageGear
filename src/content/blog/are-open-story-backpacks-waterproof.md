@@ -1,10 +1,14 @@
 ---
-title: "Are Open Story Backpacks Waterproof: Ultimate Protection Tested!"
-description: "Imagine heading out on a thrilling adventure, the sky is clear, and your spirits are high. You pack your essentials in your trusty Open Story Backpack, eager to"
+title: 'Are Open Story Backpacks Waterproof: Ultimate Protection Tested!'
+description: Imagine heading out on a thrilling adventure, the sky is clear, and your
+  spirits are high. You pack your essentials in your trusty Open Story Backpack, eager
+  to
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-open-story-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-open-story-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine heading out on a thrilling adventure, the sky is clear, and your spirits are high. You pack your essentials in your trusty Open Story Backpack, eager to explore new horizons.**

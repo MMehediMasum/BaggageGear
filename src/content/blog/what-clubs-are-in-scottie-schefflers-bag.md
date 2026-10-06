@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Clubs are in Scottie Scheffler'S Bag: Ultimate Gear Breakdown"
 description: "Are you curious about what clubs fuel Scottie Scheffler's impressive golf game? You're not alone. Whether you're a seasoned golfer or just starting out, knowing"
 pubDate: 2025-12-22

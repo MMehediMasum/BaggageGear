@@ -1,10 +1,14 @@
 ---
-title: "How to Loosen a Backpack Strap: Quick and Easy Tips"
-description: "Struggling with a backpack that just won't sit right on your shoulders? We've all been there. Whether you're gearing up for a hike, heading to class, or just ru"
+title: 'How to Loosen a Backpack Strap: Quick and Easy Tips'
+description: Struggling with a backpack that just won't sit right on your shoulders?
+  We've all been there. Whether you're gearing up for a hike, heading to class, or
+  just ru
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-loosen-a-backpack-strap&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-loosen-a-backpack-strap&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Struggling with a backpack that just won't sit right on your shoulders? We've all been there.**

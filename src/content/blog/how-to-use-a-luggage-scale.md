@@ -1,10 +1,14 @@
 ---
-title: "How to Use a Luggage Scale: Essential Travel Tips"
-description: "Have you ever faced the stress of surprise overweight baggage fees at the airport? You’re not alone. Knowing exactly how much your luggage weighs before you che"
+title: 'How to Use a Luggage Scale: Essential Travel Tips'
+description: Have you ever faced the stress of surprise overweight baggage fees at
+  the airport? You’re not alone. Knowing exactly how much your luggage weighs before
+  you che
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-use-a-luggage-scale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-use-a-luggage-scale&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever faced the stress of surprise overweight baggage fees at the airport? You’re not alone.**

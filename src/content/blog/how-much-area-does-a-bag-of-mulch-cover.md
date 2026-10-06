@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Area Does a Bag of Mulch Cover: Expert Coverage Guide"
 description: "Have you ever stood in the garden center, staring at stacks of mulch bags, wondering just how much you'll need to cover your flower beds or pathways? You’re not"
 pubDate: 2026-02-22

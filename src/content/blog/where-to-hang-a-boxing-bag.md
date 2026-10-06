@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where to Hang a Boxing Bag: Best Spots Revealed"
 description: "Looking for the perfect spot to hang your boxing bag? Where you place it can make all the difference in your training. You want a spot that’s safe, sturdy, and "
 pubDate: 2025-10-15

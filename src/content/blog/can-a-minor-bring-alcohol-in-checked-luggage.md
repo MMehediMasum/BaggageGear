@@ -1,10 +1,14 @@
 ---
-title: "Can a Minor Bring Alcohol in Checked Luggage: Essential Rules Revealed"
-description: "Are you planning a trip and wondering about the rules for carrying alcohol in your checked luggage, especially if you're a minor? This question often pops up in"
+title: 'Can a Minor Bring Alcohol in Checked Luggage: Essential Rules Revealed'
+description: Are you planning a trip and wondering about the rules for carrying alcohol
+  in your checked luggage, especially if you're a minor? This question often pops
+  up in
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-minor-bring-alcohol-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-a-minor-bring-alcohol-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering about the rules for carrying alcohol in your checked luggage, especially if you're a minor? This question often pops up in the minds of young travelers who are eager to understand the complexities of travel regulations.**

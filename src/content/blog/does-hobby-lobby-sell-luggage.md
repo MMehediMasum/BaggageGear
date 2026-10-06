@@ -1,10 +1,14 @@
 ---
-title: "Does Hobby Lobby Sell Luggage: Discover Your Travel Gear Options"
-description: "Are you on the hunt for the perfect piece of luggage for your next getaway? You might be wondering if Hobby Lobby, known for its vast selection of arts and craf"
+title: 'Does Hobby Lobby Sell Luggage: Discover Your Travel Gear Options'
+description: Are you on the hunt for the perfect piece of luggage for your next getaway?
+  You might be wondering if Hobby Lobby, known for its vast selection of arts and
+  craf
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-hobby-lobby-sell-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-hobby-lobby-sell-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect piece of luggage for your next getaway? You might be wondering if Hobby Lobby, known for its vast selection of arts and crafts supplies, has what you need.**

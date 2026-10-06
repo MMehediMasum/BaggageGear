@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Nail Polish on a Carry On: Essential Travel Tips"
-description: "Are you getting ready for your next flight and wondering if you can bring nail polish in your carry-on? You're not alone. Many travelers share this concern, and"
+title: 'Can You Bring Nail Polish on a Carry On: Essential Travel Tips'
+description: Are you getting ready for your next flight and wondering if you can bring
+  nail polish in your carry-on? You're not alone. Many travelers share this concern,
+  and
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-nail-polish-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-nail-polish-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for your next flight and wondering if you can bring nail polish in your carry-on? You're not alone.**

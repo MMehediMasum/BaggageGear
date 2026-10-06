@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on a Razor: Essential TSA Rules You Must Know"
-description: "Are you gearing up for your next adventure and wondering about the tiny details that can make or break your travel experience? If you've ever stood at airport s"
+title: 'Can You Carry on a Razor: Essential TSA Rules You Must Know'
+description: Are you gearing up for your next adventure and wondering about the tiny
+  details that can make or break your travel experience? If you've ever stood at airport
+  s
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-razor&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-razor&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next adventure and wondering about the tiny details that can make or break your travel experience? If you've ever stood at airport security, second-guessing what you've packed, you're not alone.**

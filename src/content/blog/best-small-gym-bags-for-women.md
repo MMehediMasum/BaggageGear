@@ -1,10 +1,14 @@
 ---
-title: "Best Small Gym Bags for Women: Top Picks for Style and Function"
-description: "Finding the best small gym bag for women can simplify your workout routine. A compact, lightweight bag holds all essentials without bulk. Small gym bags offer c"
+title: 'Best Small Gym Bags for Women: Top Picks for Style and Function'
+description: Finding the best small gym bag for women can simplify your workout routine.
+  A compact, lightweight bag holds all essentials without bulk. Small gym bags offer
+  c
 pubDate: 2026-05-22
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-gym-bags-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gym Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-small-gym-bags-for-women&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best small gym bag for women can simplify your workout routine. A compact, lightweight bag holds all essentials without bulk.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bag of Mulch at Home Depot: Ultimate Price Guide 2025"
 description: "When you're sprucing up your garden or tackling a landscaping project, the cost of materials can quickly add up. Mulch is one of those essentials that can make "
 pubDate: 2025-12-05

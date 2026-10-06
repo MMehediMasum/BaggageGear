@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Chloe Tote Bag: Ultimate Price Guide 2025"
-description: "Are you curious about the cost of a Chloe tote bag and wondering if it's worth the investment? You're not alone. The allure of a Chloe tote lies not just in its"
+title: 'How Much is a Chloe Tote Bag: Ultimate Price Guide 2025'
+description: Are you curious about the cost of a Chloe tote bag and wondering if it's
+  worth the investment? You're not alone. The allure of a Chloe tote lies not just
+  in its
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-chloe-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-chloe-tote-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about the cost of a Chloe tote bag and wondering if it's worth the investment? You're not alone.**

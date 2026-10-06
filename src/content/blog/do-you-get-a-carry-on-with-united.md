@@ -1,10 +1,14 @@
 ---
-title: "Do You Get a Carry On With United: Essential Travel Tips Revealed"
-description: "Are you planning to fly with United Airlines and wondering about their carry-on policies? You're not alone. Knowing what you can bring on board can make your tr"
+title: 'Do You Get a Carry On With United: Essential Travel Tips Revealed'
+description: Are you planning to fly with United Airlines and wondering about their
+  carry-on policies? You're not alone. Knowing what you can bring on board can make
+  your tr
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with United Airlines and wondering about their carry-on policies? You're not alone.**

@@ -1,10 +1,13 @@
 ---
-title: "What are the Dimensions of a Large Suitcase: Ultimate Size Guide"
-description: "Are you planning your next big adventure or just a weekend getaway? Either way, choosing the right suitcase can make all the difference. You might be wondering,"
+title: 'What are the Dimensions of a Large Suitcase: Ultimate Size Guide'
+description: Are you planning your next big adventure or just a weekend getaway? Either
+  way, choosing the right suitcase can make all the difference. You might be wondering,
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-large-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-large-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure or just a weekend getaway? Either way, choosing the right suitcase can make all the difference.**

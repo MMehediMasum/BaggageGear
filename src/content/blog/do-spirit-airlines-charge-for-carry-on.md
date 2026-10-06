@@ -1,10 +1,14 @@
 ---
-title: "Do Spirit Airlines Charge for Carry On: Ultimate Fee Guide 2025"
-description: "Flying can be a thrilling experience, but it often comes with its own set of questions and concerns. If you're planning a trip with Spirit Airlines, you might b"
+title: 'Do Spirit Airlines Charge for Carry On: Ultimate Fee Guide 2025'
+description: Flying can be a thrilling experience, but it often comes with its own
+  set of questions and concerns. If you're planning a trip with Spirit Airlines, you
+  might b
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-spirit-airlines-charge-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=do-spirit-airlines-charge-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Flying can be a thrilling experience, but it often comes with its own set of questions and concerns. If you're planning a trip with Spirit Airlines, you might be wondering about their carry-on baggage fees.**

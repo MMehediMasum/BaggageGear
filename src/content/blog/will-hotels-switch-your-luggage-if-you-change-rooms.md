@@ -1,10 +1,14 @@
 ---
-title: "Will Hotels Switch Your Luggage If You Change Rooms? Find Out Now!"
-description: "Imagine this: you're staying at a hotel, enjoying your vacation, when suddenly, an opportunity for a room upgrade presents itself. Excited, you decide to switch"
+title: Will Hotels Switch Your Luggage If You Change Rooms? Find Out Now!
+description: 'Imagine this: you''re staying at a hotel, enjoying your vacation, when
+  suddenly, an opportunity for a room upgrade presents itself. Excited, you decide
+  to switch'
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-hotels-switch-your-luggage-if-you-change-rooms&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hotel Luggage Holding And Tipping
+heroImage: https://tse1.mm.bing.net/th?q=will-hotels-switch-your-luggage-if-you-change-rooms&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you're staying at a hotel, enjoying your vacation, when suddenly, an opportunity for a room upgrade presents itself. Excited, you decide to switch rooms.**

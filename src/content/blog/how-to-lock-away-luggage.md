@@ -1,10 +1,14 @@
 ---
-title: "How to Lock Away Luggage: Ultimate Guide to Secure Travel Gear"
-description: "Picture this: you're at the airport, ready for your next adventure. You've got your itinerary, your passport, and your excitement. But there's one nagging worry"
+title: 'How to Lock Away Luggage: Ultimate Guide to Secure Travel Gear'
+description: 'Picture this: you''re at the airport, ready for your next adventure.
+  You''ve got your itinerary, your passport, and your excitement. But there''s one
+  nagging worry'
 pubDate: 2026-02-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-lock-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-lock-away-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're at the airport, ready for your next adventure. You've got your itinerary, your passport, and your excitement.**

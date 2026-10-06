@@ -1,10 +1,14 @@
 ---
-title: "How Big Can Your Checked Luggage Be: Ultimate Size Guide 2025"
-description: "Imagine standing in front of the airline check-in counter, anxiously wondering if your beloved suitcase is going to pass the size test. You’re not alone. Many t"
+title: 'How Big Can Your Checked Luggage Be: Ultimate Size Guide 2025'
+description: Imagine standing in front of the airline check-in counter, anxiously
+  wondering if your beloved suitcase is going to pass the size test. You’re not alone.
+  Many t
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-can-your-checked-luggage-be&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-big-can-your-checked-luggage-be&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine standing in front of the airline check-in counter, anxiously wondering if your beloved suitcase is going to pass the size test. You’re not alone.**

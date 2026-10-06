@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Kate Spade Bag: Top Trusted Marketplaces"
-description: "Are you staring at your beautiful Kate Spade bag and wondering where you can sell it for the best price? You're not alone. Finding the perfect place to sell you"
+title: 'Where Can I Sell My Kate Spade Bag: Top Trusted Marketplaces'
+description: Are you staring at your beautiful Kate Spade bag and wondering where
+  you can sell it for the best price? You're not alone. Finding the perfect place
+  to sell you
 pubDate: 2026-03-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-kate-spade-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-kate-spade-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you staring at your beautiful Kate Spade bag and wondering where you can sell it for the best price? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Does Frontier Weigh Carry on Bags: Essential Guide for Travelers"
-description: "Are you planning a trip with Frontier Airlines and wondering if they weigh your carry-on bags? This question might be lingering in your mind as you pack for you"
+title: 'Does Frontier Weigh Carry on Bags: Essential Guide for Travelers'
+description: Are you planning a trip with Frontier Airlines and wondering if they
+  weigh your carry-on bags? This question might be lingering in your mind as you pack
+  for you
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-frontier-weigh-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-frontier-weigh-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Frontier Airlines and wondering if they weigh your carry-on bags? This question might be lingering in your mind as you pack for your upcoming adventure.**

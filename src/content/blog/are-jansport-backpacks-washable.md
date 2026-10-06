@@ -1,10 +1,14 @@
 ---
-title: "Are Jansport Backpacks Washable: Ultimate Cleaning Guide Revealed"
-description: "Are you staring at your trusty Jansport backpack, wondering if you can toss it into the washing machine? You're not alone. With its durable fabric and iconic de"
+title: 'Are Jansport Backpacks Washable: Ultimate Cleaning Guide Revealed'
+description: Are you staring at your trusty Jansport backpack, wondering if you can
+  toss it into the washing machine? You're not alone. With its durable fabric and
+  iconic de
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-jansport-backpacks-washable&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=are-jansport-backpacks-washable&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you staring at your trusty Jansport backpack, wondering if you can toss it into the washing machine? You're not alone.**

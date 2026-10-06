@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Good for Tattoos: Essential Healing Benefits Revealed"
 description: "Considering getting a tattoo or already have one? You might be wondering how to best care for your new ink. Enter Bag Balm, a product that has been around for o"
 pubDate: 2026-02-26

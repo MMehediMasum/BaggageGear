@@ -1,10 +1,14 @@
 ---
-title: "Where is Nobl Luggage Made: Unveiling Quality Craftsmanship"
-description: "Are you curious about the origins of your favorite travel companion, Nobl Luggage? You're not alone. Many travelers, just like you, want to know exactly where t"
+title: 'Where is Nobl Luggage Made: Unveiling Quality Craftsmanship'
+description: Are you curious about the origins of your favorite travel companion,
+  Nobl Luggage? You're not alone. Many travelers, just like you, want to know exactly
+  where t
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-nobl-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-nobl-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about the origins of your favorite travel companion, Nobl Luggage? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Drawstring Backpack: Easy Steps for Beginners"
-description: "Do you want a backpack that’s simple, stylish, and made just by you? Learning how to sew a drawstring backpack is easier than you think. Imagine carrying a bag "
+title: 'How to Sew a Drawstring Backpack: Easy Steps for Beginners'
+description: 'Do you want a backpack that’s simple, stylish, and made just by you?
+  Learning how to sew a drawstring backpack is easier than you think. Imagine carrying
+  a bag '
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Do you want a backpack that’s simple, stylish, and made just by you? Learning how to sew a drawstring backpack is easier than you think.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Oxygen Absorbers Per Mylar Bag: Ultimate Guide for Freshness"
 description: "Are you storing food for the long haul and wondering how many oxygen absorbers you need for your Mylar bags? You’re not alone. Getting the right amount is cruci"
 pubDate: 2026-03-04

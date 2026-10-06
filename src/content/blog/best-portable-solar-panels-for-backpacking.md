@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Portable Solar Panels for Backpacking: Top Picks for Adventurers"
 description: "Choosing the best portable solar panels for backpacking helps keep your devices charged on the trail. These lightweight panels offer reliable power without addi"
 pubDate: 2026-06-13

@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Converter for Italy: Top Plug Adapters for European Adventures"
-description: "Choosing the best travel converter for Italy ensures your devices stay powered and safe. Italy uses different plugs and voltage than the US. Traveling to Italy "
+title: 'Best Travel Converter for Italy: Top Plug Adapters for European Adventures'
+description: 'Choosing the best travel converter for Italy ensures your devices stay
+  powered and safe. Italy uses different plugs and voltage than the US. Traveling
+  to Italy '
 pubDate: 2026-05-19
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-converter-for-italy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-converter-for-italy&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel converter for Italy ensures your devices stay powered and safe. Italy uses different plugs and voltage than the US.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Biggie Bag: Ultimate Price Guide Revealed"
 description: "Are you curious about the cost of a Biggie Bag? You're not alone. This popular meal deal from Wendy's has everyone talking. Whether you're a fast-food fan or ju"
 pubDate: 2025-12-07

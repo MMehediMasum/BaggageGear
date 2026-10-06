@@ -1,10 +1,14 @@
 ---
-title: "Best Wine Suitcase for Air Travel: Top Picks for Secure Transport"
-description: "Carrying wine on a plane needs special care to keep bottles safe and intact. Choosing the best wine suitcase for air travel makes your trip easier and worry-fre"
+title: 'Best Wine Suitcase for Air Travel: Top Picks for Secure Transport'
+description: Carrying wine on a plane needs special care to keep bottles safe and
+  intact. Choosing the best wine suitcase for air travel makes your trip easier and
+  worry-fre
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-wine-suitcase-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-wine-suitcase-for-air-travel&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Carrying wine on a plane needs special care to keep bottles safe and intact. Choosing the best wine suitcase for air travel makes your trip easier and worry-free.**

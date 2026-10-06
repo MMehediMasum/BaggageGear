@@ -1,10 +1,13 @@
 ---
-title: "Does United Airlines Charge for Checked Luggage? Uncover Fees!"
-description: "Planning your next adventure or business trip? Before you jet off, it's crucial to know what to expect with your luggage. If you're flying with United Airlines,"
+title: Does United Airlines Charge for Checked Luggage? Uncover Fees!
+description: Planning your next adventure or business trip? Before you jet off, it's
+  crucial to know what to expect with your luggage. If you're flying with United Airlines,
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-united-airlines-charge-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-united-airlines-charge-for-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure or business trip? Before you jet off, it's crucial to know what to expect with your luggage.**

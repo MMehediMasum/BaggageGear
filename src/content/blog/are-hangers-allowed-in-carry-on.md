@@ -1,10 +1,14 @@
 ---
-title: "Are Hangers Allowed in Carry on: Ultimate Travel Packing Guide"
-description: "Picture this: you're meticulously packing your carry-on for an upcoming trip, ensuring everything is neatly folded and organized. But then you pause. Can you br"
+title: 'Are Hangers Allowed in Carry on: Ultimate Travel Packing Guide'
+description: 'Picture this: you''re meticulously packing your carry-on for an upcoming
+  trip, ensuring everything is neatly folded and organized. But then you pause. Can
+  you br'
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-hangers-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-hangers-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're meticulously packing your carry-on for an upcoming trip, ensuring everything is neatly folded and organized. But then you pause.**

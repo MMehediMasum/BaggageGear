@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Vera Bradley Backpack: Easy Cleaning Tips Revealed"
-description: "When it comes to style and functionality, your Vera Bradley backpack is a trusted companion. It carries your essentials, complements your outfit, and makes a st"
+title: 'Can You Wash a Vera Bradley Backpack: Easy Cleaning Tips Revealed'
+description: When it comes to style and functionality, your Vera Bradley backpack
+  is a trusted companion. It carries your essentials, complements your outfit, and
+  makes a st
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-vera-bradley-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-vera-bradley-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **When it comes to style and functionality, your Vera Bradley backpack is a trusted companion. It carries your essentials, complements your outfit, and makes a statement.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Water Filter Purifier for Backpacking: Top Picks for Adventure Seekers"
 description: "Choosing the best water filter purifier for backpacking ensures safe drinking water on the trail. Clean water keeps you healthy and energized during your outdoo"
 pubDate: 2026-06-16

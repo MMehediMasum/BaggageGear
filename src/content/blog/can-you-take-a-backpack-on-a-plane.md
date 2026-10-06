@@ -1,10 +1,14 @@
 ---
-title: "Can You Take a Backpack on a Plane: Ultimate Travel Guide 2025"
-description: "Ever found yourself standing in the airport, backpack in hand, wondering if you'll be allowed to bring it on the plane? You're not alone. This is a common conce"
+title: 'Can You Take a Backpack on a Plane: Ultimate Travel Guide 2025'
+description: Ever found yourself standing in the airport, backpack in hand, wondering
+  if you'll be allowed to bring it on the plane? You're not alone. This is a common
+  conce
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-on-a-plane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself standing in the airport, backpack in hand, wondering if you'll be allowed to bring it on the plane? You're not alone.**

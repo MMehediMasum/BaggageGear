@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Coach Bag: Expert Tips for Safe Cleaning"
-description: "Have you ever wondered if you can wash your beloved Coach bag without ruining its elegance? You're not alone. Many Coach bag owners face the same dilemma. These"
+title: 'Can You Wash a Coach Bag: Expert Tips for Safe Cleaning'
+description: Have you ever wondered if you can wash your beloved Coach bag without
+  ruining its elegance? You're not alone. Many Coach bag owners face the same dilemma.
+  These
 pubDate: 2026-03-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Care
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-coach-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if you can wash your beloved Coach bag without ruining its elegance? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Carry on Bag Frontier: Ultimate Size Guide 2025"
-description: "Are you planning a trip with Frontier Airlines and wondering if your carry-on bag will fit? You're not alone. Many travelers face the same concern, and packing "
+title: 'How Big is a Carry on Bag Frontier: Ultimate Size Guide 2025'
+description: 'Are you planning a trip with Frontier Airlines and wondering if your
+  carry-on bag will fit? You''re not alone. Many travelers face the same concern,
+  and packing '
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-carry-on-bag-frontier&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-carry-on-bag-frontier&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Frontier Airlines and wondering if your carry-on bag will fit? You're not alone.**

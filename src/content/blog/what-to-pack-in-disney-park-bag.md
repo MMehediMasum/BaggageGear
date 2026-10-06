@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Disney Park Bag: Ultimate Essentials for Magic Day"
-description: "Planning a trip to Disney Parks is an adventure in itself, but figuring out what to pack in your park bag can be a bit daunting. You want to be prepared for any"
+title: 'What to Pack in Disney Park Bag: Ultimate Essentials for Magic Day'
+description: Planning a trip to Disney Parks is an adventure in itself, but figuring
+  out what to pack in your park bag can be a bit daunting. You want to be prepared
+  for any
 pubDate: 2025-09-11
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-disney-park-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What To Pack In Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-disney-park-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Planning a trip to Disney Parks is an adventure in itself, but figuring out what to pack in your park bag can be a bit daunting. You want to be prepared for anything, yet keep your bag light enough to carry all day.**

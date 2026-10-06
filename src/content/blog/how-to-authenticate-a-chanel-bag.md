@@ -1,10 +1,14 @@
 ---
-title: "How to Authenticate a Chanel Bag: Expert Tips to Spot Fakes Fast"
-description: "You’re about to invest in a Chanel bag, a timeless piece that speaks volumes of elegance and sophistication. But before you make that purchase, how can you be s"
+title: 'How to Authenticate a Chanel Bag: Expert Tips to Spot Fakes Fast'
+description: You’re about to invest in a Chanel bag, a timeless piece that speaks
+  volumes of elegance and sophistication. But before you make that purchase, how can
+  you be s
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-authenticate-a-chanel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Hermes And Chanel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-authenticate-a-chanel-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’re about to invest in a Chanel bag, a timeless piece that speaks volumes of elegance and sophistication. But before you make that purchase, how can you be sure it’s the real deal?**

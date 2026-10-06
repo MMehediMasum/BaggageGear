@@ -1,10 +1,14 @@
 ---
-title: "How to Calculate Luggage Size: Easy Tips for Perfect Packing"
-description: "Are you planning a trip and stressing over whether your luggage will fit the airline's size restrictions? You're not alone. Many travelers face this dilemma, un"
+title: 'How to Calculate Luggage Size: Easy Tips for Perfect Packing'
+description: Are you planning a trip and stressing over whether your luggage will
+  fit the airline's size restrictions? You're not alone. Many travelers face this
+  dilemma, un
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-calculate-luggage-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-calculate-luggage-size&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and stressing over whether your luggage will fit the airline's size restrictions? You're not alone.**

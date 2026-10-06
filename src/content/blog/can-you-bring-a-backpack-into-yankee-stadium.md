@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack into Yankee Stadium: Essential Rules Revealed"
-description: "Are you planning a trip to Yankee Stadium and wondering if you can bring a backpack along? You're not alone. Many fans are curious about the stadium's rules and"
+title: 'Can You Bring a Backpack into Yankee Stadium: Essential Rules Revealed'
+description: Are you planning a trip to Yankee Stadium and wondering if you can bring
+  a backpack along? You're not alone. Many fans are curious about the stadium's rules
+  and
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-yankee-stadium&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-yankee-stadium&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip to Yankee Stadium and wondering if you can bring a backpack along? You're not alone.**

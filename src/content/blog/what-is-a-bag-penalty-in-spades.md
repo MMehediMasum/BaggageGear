@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bag Penalty in Spades: Avoid Costly Mistakes Today"
 description: "Have you ever found yourself scratching your head over the term \"bag penalty\" while playing Spades? You're not alone. Spades, a classic card game loved by many,"
 pubDate: 2026-04-09

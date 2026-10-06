@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Backpacks in the Wash: Ultimate Cleaning Guide"
-description: "Ever stood there staring at your trusty backpack, wondering if you can toss it into the wash? You're not alone. Whether it's your daily companion on the subway "
+title: 'Can You Put Backpacks in the Wash: Ultimate Cleaning Guide'
+description: 'Ever stood there staring at your trusty backpack, wondering if you can
+  toss it into the wash? You''re not alone. Whether it''s your daily companion on
+  the subway '
 pubDate: 2025-09-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-backpacks-in-the-wash&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-backpacks-in-the-wash&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever stood there staring at your trusty backpack, wondering if you can toss it into the wash? You're not alone.**

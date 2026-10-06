@@ -1,10 +1,14 @@
 ---
-title: "How to Roll Up Coleman Sleeping Bag: Easy Steps for Compact Packing"
-description: "Have you ever struggled to fit your Coleman sleeping bag back into its carrying bag after a cozy night under the stars? You're not alone. Rolling up a sleeping "
+title: 'How to Roll Up Coleman Sleeping Bag: Easy Steps for Compact Packing'
+description: 'Have you ever struggled to fit your Coleman sleeping bag back into its
+  carrying bag after a cozy night under the stars? You''re not alone. Rolling up a
+  sleeping '
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-roll-up-coleman-sleeping-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-roll-up-coleman-sleeping-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Have you ever struggled to fit your Coleman sleeping bag back into its carrying bag after a cozy night under the stars? You're not alone.**

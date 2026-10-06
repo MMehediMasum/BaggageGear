@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Dooney And Bourke Canvas Bag: Easy & Effective Tips"
-description: "Your Dooney & Bourke canvas bag is more than just an accessory; it's a statement piece that complements your style. But, like any cherished item, it needs a lit"
+title: 'How to Clean Dooney And Bourke Canvas Bag: Easy & Effective Tips'
+description: Your Dooney & Bourke canvas bag is more than just an accessory; it's
+  a statement piece that complements your style. But, like any cherished item, it
+  needs a lit
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-dooney-and-bourke-canvas-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-dooney-and-bourke-canvas-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Dooney & Bourke canvas bag is more than just an accessory; it's a statement piece that complements your style. But, like any cherished item, it needs a little TLC to keep looking its best.**

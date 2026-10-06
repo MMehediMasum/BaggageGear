@@ -1,10 +1,14 @@
 ---
-title: "What is the Biggest North Face Backpack: Ultimate Guide 2025"
-description: "Are you on the hunt for a backpack that can carry everything you need, and then some? If you've ever struggled with fitting all your essentials into a bag, you'"
+title: 'What is the Biggest North Face Backpack: Ultimate Guide 2025'
+description: Are you on the hunt for a backpack that can carry everything you need,
+  and then some? If you've ever struggled with fitting all your essentials into a
+  bag, you'
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-biggest-north-face-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-biggest-north-face-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a backpack that can carry everything you need, and then some? If you've ever struggled with fitting all your essentials into a bag, you're not alone.**

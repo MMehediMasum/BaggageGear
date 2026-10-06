@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Alcohol in Your Carry On: Essential Rules Revealed"
-description: "Are you planning a trip and wondering if you can bring your favorite bottle of wine or a few cans of beer in your carry-on? You're not alone. Many travelers are"
+title: 'Can You Fly With Alcohol in Your Carry On: Essential Rules Revealed'
+description: Are you planning a trip and wondering if you can bring your favorite
+  bottle of wine or a few cans of beer in your carry-on? You're not alone. Many travelers
+  are
 pubDate: 2025-12-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring your favorite bottle of wine or a few cans of beer in your carry-on? You're not alone.**

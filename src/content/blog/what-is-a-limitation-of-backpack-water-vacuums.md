@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Limitation of Backpack Water Vacuums: Key Drawbacks Revealed"
 description: "Are you considering a backpack water vacuum for your cleaning needs? While these handy devices promise convenience and efficiency, it's crucial to understand th"
 pubDate: 2026-01-08

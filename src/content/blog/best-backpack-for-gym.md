@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Gym: Top Lightweight, Waterproof, and Shoe-Compartment Bags"
-description: "Finding the best backpack for gym use helps keep your gear organized and easy to carry. A good gym backpack fits shoes, clothes, and essentials comfortably. Cho"
+title: 'Best Backpack for Gym: Top Lightweight, Waterproof, and Shoe-Compartment Bags'
+description: Finding the best backpack for gym use helps keep your gear organized
+  and easy to carry. A good gym backpack fits shoes, clothes, and essentials comfortably.
+  Cho
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-gym&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gym Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-gym&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for gym use helps keep your gear organized and easy to carry. A good gym backpack fits shoes, clothes, and essentials comfortably.**

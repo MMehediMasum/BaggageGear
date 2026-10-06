@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change Litter Robot Bag: Easy Steps for Hassle-Free Cleanup"
 description: "If you've invested in a Litter Robot, you already know how it revolutionizes the way you handle cat litter. But when it comes to changing the Litter Robot bag, "
 pubDate: 2025-11-20

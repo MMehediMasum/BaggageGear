@@ -1,10 +1,14 @@
 ---
-title: "What Size Clear Bag for Stadium: Ultimate Guide for Game Day"
-description: "Planning to attend a big game or a thrilling concert at your favorite stadium? You might already know that many venues have strict security policies, including "
+title: 'What Size Clear Bag for Stadium: Ultimate Guide for Game Day'
+description: 'Planning to attend a big game or a thrilling concert at your favorite
+  stadium? You might already know that many venues have strict security policies,
+  including '
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-clear-bag-for-stadium&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=what-size-clear-bag-for-stadium&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning to attend a big game or a thrilling concert at your favorite stadium? You might already know that many venues have strict security policies, including the requirement for clear bags.**

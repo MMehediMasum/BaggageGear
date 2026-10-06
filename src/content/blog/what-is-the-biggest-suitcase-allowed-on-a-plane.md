@@ -1,10 +1,14 @@
 ---
-title: "What is the Biggest Suitcase Allowed on a Plane: Ultimate Size Guide"
-description: "You're packing for a trip, and your suitcase seems to be bursting at the seams. You might wonder, \"What is the biggest suitcase allowed on a plane?\" This questi"
+title: 'What is the Biggest Suitcase Allowed on a Plane: Ultimate Size Guide'
+description: You're packing for a trip, and your suitcase seems to be bursting at
+  the seams. You might wonder, "What is the biggest suitcase allowed on a plane?"
+  This questi
 pubDate: 2025-09-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-biggest-suitcase-allowed-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-biggest-suitcase-allowed-on-a-plane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're packing for a trip, and your suitcase seems to be bursting at the seams. You might wonder, "What is the biggest suitcase allowed on a plane?"**

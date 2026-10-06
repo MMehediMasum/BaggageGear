@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Remove Bag from Diaper Genie: Quick Guide"
 description: "Dealing with a full Diaper Genie can be tricky, especially when it’s time to change the bag. If you’ve ever struggled to remove the bag without making a mess or"
 pubDate: 2025-10-15

@@ -1,10 +1,14 @@
 ---
-title: "Can You Take a Portable Speaker in Hand Luggage? Essential Tips!"
-description: "Have you ever wondered if you can take a portable speaker in your hand luggage? Whether you're planning a relaxing getaway or a business trip, music can be the "
+title: Can You Take a Portable Speaker in Hand Luggage? Essential Tips!
+description: 'Have you ever wondered if you can take a portable speaker in your hand
+  luggage? Whether you''re planning a relaxing getaway or a business trip, music can
+  be the '
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-a-portable-speaker-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-a-portable-speaker-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever wondered if you can take a portable speaker in your hand luggage? Whether you're planning a relaxing getaway or a business trip, music can be the perfect companion.**

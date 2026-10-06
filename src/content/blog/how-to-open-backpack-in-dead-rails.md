@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Open Backpack in Dead Rails: Quick & Easy Guide"
 description: "Are you struggling to figure out how to open your backpack in Dead Rails? You're not alone. Navigating through the twists and turns of this gripping game can be"
 pubDate: 2026-01-08

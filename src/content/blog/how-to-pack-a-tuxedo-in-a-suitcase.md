@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Tuxedo in a Suitcase: Expert Tips for Wrinkle-Free Travel"
-description: "Packing a tuxedo in a suitcase might seem like a daunting task. You might wonder how to keep it wrinkle-free and ready for your big event. Fear not! With a few "
+title: 'How to Pack a Tuxedo in a Suitcase: Expert Tips for Wrinkle-Free Travel'
+description: 'Packing a tuxedo in a suitcase might seem like a daunting task. You
+  might wonder how to keep it wrinkle-free and ready for your big event. Fear not!
+  With a few '
 pubDate: 2026-04-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-tuxedo-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-tuxedo-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a tuxedo in a suitcase might seem like a daunting task. You might wonder how to keep it wrinkle-free and ready for your big event.**

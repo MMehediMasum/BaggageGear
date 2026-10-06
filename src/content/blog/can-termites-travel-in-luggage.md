@@ -1,10 +1,13 @@
 ---
-title: "Can Termites Travel in Luggage: Shocking Truths Revealed!"
-description: "Imagine returning from a fantastic vacation, your suitcase full of souvenirs and memories. But lurking within could be unexpected stowaways: termites. Yes, thes"
+title: 'Can Termites Travel in Luggage: Shocking Truths Revealed!'
+description: 'Imagine returning from a fantastic vacation, your suitcase full of souvenirs
+  and memories. But lurking within could be unexpected stowaways: termites. Yes, thes'
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-termites-travel-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=can-termites-travel-in-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine returning from a fantastic vacation, your suitcase full of souvenirs and memories. But lurking within could be unexpected stowaways: termites.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash Marc Jacobs Tote Bag: Essential Cleaning Tips Revealed"
-description: "You've invested in a stylish Marc Jacobs tote bag, and now you're wondering about its care. Can you wash it without ruining its charm? You’re not alone. Many to"
+title: 'Can You Wash Marc Jacobs Tote Bag: Essential Cleaning Tips Revealed'
+description: You've invested in a stylish Marc Jacobs tote bag, and now you're wondering
+  about its care. Can you wash it without ruining its charm? You’re not alone. Many
+  to
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-marc-jacobs-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-marc-jacobs-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've invested in a stylish Marc Jacobs tote bag, and now you're wondering about its care. Can you wash it without ruining its charm?**

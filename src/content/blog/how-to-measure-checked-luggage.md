@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Checked Luggage: Easy Tips for Stress-Free Travel"
-description: "Are you planning your next adventure and wondering how to ensure your checked luggage meets airline requirements? You've packed your bags, ready to explore new "
+title: 'How to Measure Checked Luggage: Easy Tips for Stress-Free Travel'
+description: 'Are you planning your next adventure and wondering how to ensure your
+  checked luggage meets airline requirements? You''ve packed your bags, ready to explore
+  new '
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next adventure and wondering how to ensure your checked luggage meets airline requirements? You've packed your bags, ready to explore new horizons, but there's one crucial step left: measuring your luggage.**

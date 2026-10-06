@@ -1,10 +1,14 @@
 ---
-title: "What is a Tsa Lock on Luggage: Ultimate Travel Security Guide"
-description: "Imagine this: You're at the airport, ready to embark on your long-awaited vacation. As you approach the check-in counter, a question looms in your mind—how secu"
+title: 'What is a Tsa Lock on Luggage: Ultimate Travel Security Guide'
+description: 'Imagine this: You''re at the airport, ready to embark on your long-awaited
+  vacation. As you approach the check-in counter, a question looms in your mind—how
+  secu'
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-tsa-lock-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-tsa-lock-on-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You're at the airport, ready to embark on your long-awaited vacation. As you approach the check-in counter, a question looms in your mind—how secure is your luggage?**

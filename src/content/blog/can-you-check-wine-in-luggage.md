@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Wine in Luggage: Essential Tips for Safe Travel"
-description: "Ever found yourself at a picturesque vineyard, savoring a glass of exquisite wine, and wished you could bring a bottle or two back home? You're not alone. The t"
+title: 'Can You Check Wine in Luggage: Essential Tips for Safe Travel'
+description: Ever found yourself at a picturesque vineyard, savoring a glass of exquisite
+  wine, and wished you could bring a bottle or two back home? You're not alone. The
+  t
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-wine-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-wine-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself at a picturesque vineyard, savoring a glass of exquisite wine, and wished you could bring a bottle or two back home? You're not alone.**

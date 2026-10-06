@@ -1,10 +1,14 @@
 ---
-title: "Best Small Travel Backpack for Europe: Top Picks for Adventurers"
-description: "Choosing the best small travel backpack for Europe can make your trip easier and more comfortable. A good backpack fits your essentials without being bulky or h"
+title: 'Best Small Travel Backpack for Europe: Top Picks for Adventurers'
+description: Choosing the best small travel backpack for Europe can make your trip
+  easier and more comfortable. A good backpack fits your essentials without being
+  bulky or h
 pubDate: 2025-11-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-travel-backpack-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-small-travel-backpack-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best small travel backpack for Europe can make your trip easier and more comfortable. A good backpack fits your essentials without being bulky or heavy.**

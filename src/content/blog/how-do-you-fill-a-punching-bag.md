@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Fill a Punching Bag: Easy Steps for Perfect Weight"
 description: "Ever wondered how to properly fill a punching bag? You're not alone! Many fitness enthusiasts and budding boxers face this question. You might think it's just a"
 pubDate: 2026-04-29

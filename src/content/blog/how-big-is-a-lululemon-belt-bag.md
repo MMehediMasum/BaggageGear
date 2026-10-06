@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Lululemon Belt Bag: Ultimate Size Guide Revealed"
-description: "Ever found yourself wondering just how much you can fit into a Lululemon belt bag? You're not alone. These sleek, stylish bags have taken the fashion world by s"
+title: 'How Big is a Lululemon Belt Bag: Ultimate Size Guide Revealed'
+description: Ever found yourself wondering just how much you can fit into a Lululemon
+  belt bag? You're not alone. These sleek, stylish bags have taken the fashion world
+  by s
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-lululemon-belt-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lululemon Belt Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-lululemon-belt-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Ever found yourself wondering just how much you can fit into a Lululemon belt bag? You're not alone.**

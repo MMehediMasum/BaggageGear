@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Camera on Carry On: Essential Travel Tips Revealed"
-description: "Imagine planning your dream vacation. You’ve booked your flights, packed your bags, and are ready to capture every magical moment with your camera. But here com"
+title: 'Can You Take Camera on Carry On: Essential Travel Tips Revealed'
+description: Imagine planning your dream vacation. You’ve booked your flights, packed
+  your bags, and are ready to capture every magical moment with your camera. But here
+  com
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-camera-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-camera-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine planning your dream vacation. You’ve booked your flights, packed your bags, and are ready to capture every magical moment with your camera.**

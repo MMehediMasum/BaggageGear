@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Cheese on a Carry On: Essential Travel Tips Revealed"
-description: "Picture this: you're packing for your next big adventure, and you're eyeing that delicious wheel of cheese you picked up from your favorite local market. You ca"
+title: 'Can You Bring Cheese on a Carry On: Essential Travel Tips Revealed'
+description: 'Picture this: you''re packing for your next big adventure, and you''re
+  eyeing that delicious wheel of cheese you picked up from your favorite local market.
+  You ca'
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-cheese-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-cheese-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're packing for your next big adventure, and you're eyeing that delicious wheel of cheese you picked up from your favorite local market. You can already imagine savoring it at your destination, but a question pops into your head: can you bring cheese on a carry-on?**

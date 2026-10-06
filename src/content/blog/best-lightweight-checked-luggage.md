@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Checked Luggage for Effortless Travel Adventures"
-description: "Choosing the best lightweight checked luggage makes travel easier and less tiring. A good suitcase offers durability, smooth wheels, and ample space. Traveling "
+title: Best Lightweight Checked Luggage for Effortless Travel Adventures
+description: 'Choosing the best lightweight checked luggage makes travel easier and
+  less tiring. A good suitcase offers durability, smooth wheels, and ample space.
+  Traveling '
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight checked luggage makes travel easier and less tiring. A good suitcase offers durability, smooth wheels, and ample space.**

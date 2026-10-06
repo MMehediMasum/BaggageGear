@@ -1,10 +1,14 @@
 ---
-title: "Does Virgin Atlantic Charge for Carry on Bags? Uncover Truths!"
-description: "Are you planning a trip and wondering about the baggage policies of Virgin Atlantic? If so, you're probably curious about whether you'll need to pay extra for y"
+title: Does Virgin Atlantic Charge for Carry on Bags? Uncover Truths!
+description: Are you planning a trip and wondering about the baggage policies of Virgin
+  Atlantic? If so, you're probably curious about whether you'll need to pay extra
+  for y
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-virgin-atlantic-charge-for-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-virgin-atlantic-charge-for-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering about the baggage policies of Virgin Atlantic? If so, you're probably curious about whether you'll need to pay extra for your carry-on bag.**

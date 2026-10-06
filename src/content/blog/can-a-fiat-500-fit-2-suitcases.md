@@ -1,10 +1,14 @@
 ---
-title: "Can a Fiat 500 Fit 2 Suitcases: Ultimate Space Guide Revealed"
-description: "Are you planning a trip and wondering if your trusty Fiat 500 can handle the luggage? We've all been there—standing next to your car, suitcases in hand, questio"
+title: 'Can a Fiat 500 Fit 2 Suitcases: Ultimate Space Guide Revealed'
+description: Are you planning a trip and wondering if your trusty Fiat 500 can handle
+  the luggage? We've all been there—standing next to your car, suitcases in hand,
+  questio
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-fiat-500-fit-2-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-a-fiat-500-fit-2-suitcases&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if your trusty Fiat 500 can handle the luggage? We've all been there—standing next to your car, suitcases in hand, questioning if the small but mighty Fiat can accommodate your packing needs.**

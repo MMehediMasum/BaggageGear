@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Cook Beans from a Bag: Easy Steps for Perfect Beans Every Time"
 description: "Imagine the aroma of perfectly cooked beans wafting through your kitchen, inviting and comforting. You're about to learn the secrets of transforming a simple ba"
 pubDate: 2026-04-22

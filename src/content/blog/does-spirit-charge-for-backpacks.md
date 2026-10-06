@@ -1,10 +1,14 @@
 ---
-title: "Does Spirit Charge for Backpacks: Essential Fee Guide 2025"
-description: "Are you planning a trip and wondering how to pack without breaking the bank? If you're flying with Spirit Airlines, you might be curious about whether they char"
+title: 'Does Spirit Charge for Backpacks: Essential Fee Guide 2025'
+description: Are you planning a trip and wondering how to pack without breaking the
+  bank? If you're flying with Spirit Airlines, you might be curious about whether
+  they char
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-spirit-charge-for-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-spirit-charge-for-backpacks&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering how to pack without breaking the bank? If you're flying with Spirit Airlines, you might be curious about whether they charge for carrying a backpack.**

@@ -1,10 +1,13 @@
 ---
-title: "What is Hold Luggage on Easyjet: Ultimate Guide for Travelers"
-description: "Planning a trip with EasyJet and feeling a bit confused about what \"hold luggage\" means? You're not alone. Understanding the ins and outs of airline terminology"
+title: 'What is Hold Luggage on Easyjet: Ultimate Guide for Travelers'
+description: Planning a trip with EasyJet and feeling a bit confused about what "hold
+  luggage" means? You're not alone. Understanding the ins and outs of airline terminology
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-hold-luggage-on-easyjet&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=what-is-hold-luggage-on-easyjet&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with EasyJet and feeling a bit confused about what "hold luggage" means? You're not alone.**

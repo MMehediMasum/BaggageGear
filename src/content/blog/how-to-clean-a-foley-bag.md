@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Clean a Foley Bag: Easy Steps for Safe Hygiene"
 description: "Keeping your Foley bag clean is crucial for maintaining both your health and comfort. If you're using a Foley catheter, you're already aware of its importance i"
 pubDate: 2025-10-24

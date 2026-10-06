@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Cosmetics for Carry on: Ultimate Travel Beauty Hacks"
-description: "Packing cosmetics for a carry-on can feel like fitting a square peg into a round hole. You want to look your best, but those TSA rules can really cramp your sty"
+title: 'How to Pack Cosmetics for Carry on: Ultimate Travel Beauty Hacks'
+description: Packing cosmetics for a carry-on can feel like fitting a square peg into
+  a round hole. You want to look your best, but those TSA rules can really cramp your
+  sty
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-cosmetics-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-cosmetics-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing cosmetics for a carry-on can feel like fitting a square peg into a round hole. You want to look your best, but those TSA rules can really cramp your style.**

@@ -1,10 +1,14 @@
 ---
-title: "Does a Booster Seat Count As a Carry On: Essential Travel Tips"
-description: "Traveling with kids can be a juggling act, right? You're packing, planning, and ensuring every little detail is just right for a smooth journey. But then, a que"
+title: 'Does a Booster Seat Count As a Carry On: Essential Travel Tips'
+description: Traveling with kids can be a juggling act, right? You're packing, planning,
+  and ensuring every little detail is just right for a smooth journey. But then, a
+  que
 pubDate: 2025-10-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-booster-seat-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-a-booster-seat-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Traveling with kids can be a juggling act, right? You're packing, planning, and ensuring every little detail is just right for a smooth journey.**

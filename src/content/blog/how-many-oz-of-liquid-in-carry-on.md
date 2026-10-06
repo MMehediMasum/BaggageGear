@@ -1,10 +1,14 @@
 ---
-title: "How Many Oz of Liquid in Carry On: Ultimate TSA Guide 2025"
-description: "Planning your next trip and wondering how much liquid you can carry in your hand luggage? We've all been there, staring at our toiletry bag and questioning if o"
+title: 'How Many Oz of Liquid in Carry On: Ultimate TSA Guide 2025'
+description: Planning your next trip and wondering how much liquid you can carry in
+  your hand luggage? We've all been there, staring at our toiletry bag and questioning
+  if o
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-oz-of-liquid-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-oz-of-liquid-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning your next trip and wondering how much liquid you can carry in your hand luggage? We've all been there, staring at our toiletry bag and questioning if our favorite shampoo or lotion will make it through security.**

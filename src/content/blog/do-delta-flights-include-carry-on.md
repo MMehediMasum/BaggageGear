@@ -1,10 +1,14 @@
 ---
-title: "Do Delta Flights Include Carry On: Essential Travel Tips Revealed"
-description: "Are you planning a trip and wondering if Delta flights include a carry-on? You're not alone. With the ever-changing airline policies, it can be a challenge to k"
+title: 'Do Delta Flights Include Carry On: Essential Travel Tips Revealed'
+description: Are you planning a trip and wondering if Delta flights include a carry-on?
+  You're not alone. With the ever-changing airline policies, it can be a challenge
+  to k
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-delta-flights-include-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-delta-flights-include-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if Delta flights include a carry-on? You're not alone.**

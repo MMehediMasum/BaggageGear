@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Suitcase for Carry On: Ultimate Size Guide"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing. The last thing you want is to arrive at the airport only to find out your sui"
+title: 'How to Measure Suitcase for Carry On: Ultimate Size Guide'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing. The last thing you want is to arrive at the airport only to find out
+  your sui
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-suitcase-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-suitcase-for-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing. The last thing you want is to arrive at the airport only to find out your suitcase is too big for carry-on regulations.**

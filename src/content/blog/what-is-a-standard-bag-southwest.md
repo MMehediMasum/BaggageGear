@@ -1,10 +1,14 @@
 ---
-title: "What is a Standard Bag Southwest: Ultimate Guide to Baggage Rules"
-description: "Are you planning a trip and curious about what you can bring along with Southwest Airlines? Understanding what a \"Standard Bag Southwest\" entails can save you t"
+title: 'What is a Standard Bag Southwest: Ultimate Guide to Baggage Rules'
+description: Are you planning a trip and curious about what you can bring along with
+  Southwest Airlines? Understanding what a "Standard Bag Southwest" entails can save
+  you t
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-standard-bag-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-standard-bag-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and curious about what you can bring along with Southwest Airlines? Understanding what a "Standard Bag Southwest" entails can save you time and money, ensuring a smoother travel experience.**

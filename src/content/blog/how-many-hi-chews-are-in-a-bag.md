@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Hi Chews are in a Bag: Unwrap the Sweet Truth!"
 description: "Are you a fan of Hi-Chew candies and wondering just how many you can expect to find in a single bag? You're not alone. Many candy lovers like yourself are curio"
 pubDate: 2026-04-11

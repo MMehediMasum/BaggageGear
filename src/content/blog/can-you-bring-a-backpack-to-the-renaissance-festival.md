@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack to the Renaissance Festival: Essential Guide"
-description: "Imagine stepping into a world where knights clash in epic battles, jugglers dazzle with gravity-defying tricks, and artisans craft treasures from bygone eras. T"
+title: 'Can You Bring a Backpack to the Renaissance Festival: Essential Guide'
+description: Imagine stepping into a world where knights clash in epic battles, jugglers
+  dazzle with gravity-defying tricks, and artisans craft treasures from bygone eras.
+  T
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-to-the-renaissance-festival&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-to-the-renaissance-festival&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine stepping into a world where knights clash in epic battles, jugglers dazzle with gravity-defying tricks, and artisans craft treasures from bygone eras. The Renaissance Festival is an enchanting escape from the everyday, and you’re eager to dive into the fun.**

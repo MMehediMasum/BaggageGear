@@ -1,10 +1,14 @@
 ---
-title: "How to Pack in a Suitcase: Expert Tips for Stress-Free Travel"
-description: "Packing a suitcase might seem straightforward, but it often feels like a puzzle. You want to fit everything in, yet somehow, there’s never enough space. Do you "
+title: 'How to Pack in a Suitcase: Expert Tips for Stress-Free Travel'
+description: 'Packing a suitcase might seem straightforward, but it often feels like
+  a puzzle. You want to fit everything in, yet somehow, there’s never enough space.
+  Do you '
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suitcase might seem straightforward, but it often feels like a puzzle. You want to fit everything in, yet somehow, there’s never enough space.**

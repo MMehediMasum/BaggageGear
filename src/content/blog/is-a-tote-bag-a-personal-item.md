@@ -1,10 +1,14 @@
 ---
-title: "Is a Tote Bag a Personal Item: Ultimate Guide to Airline Rules"
-description: "Are you planning a trip and wondering if a tote bag counts as a personal item? It’s a common question that can make a big difference in how you pack and travel."
+title: 'Is a Tote Bag a Personal Item: Ultimate Guide to Airline Rules'
+description: Are you planning a trip and wondering if a tote bag counts as a personal
+  item? It’s a common question that can make a big difference in how you pack and
+  travel.
 pubDate: 2025-12-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-tote-bag-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-tote-bag-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if a tote bag counts as a personal item? It’s a common question that can make a big difference in how you pack and travel.**

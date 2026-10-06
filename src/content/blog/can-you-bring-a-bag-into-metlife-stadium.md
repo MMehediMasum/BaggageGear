@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Bag into Metlife Stadium: Ultimate Guide 2025"
-description: "Heading to MetLife Stadium for an exciting game or concert? You might be wondering if you can bring a bag with you. After all, it's convenient to have your esse"
+title: 'Can You Bring a Bag into Metlife Stadium: Ultimate Guide 2025'
+description: Heading to MetLife Stadium for an exciting game or concert? You might
+  be wondering if you can bring a bag with you. After all, it's convenient to have
+  your esse
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-metlife-stadium&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-metlife-stadium&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Heading to MetLife Stadium for an exciting game or concert? You might be wondering if you can bring a bag with you.**

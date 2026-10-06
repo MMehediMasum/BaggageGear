@@ -1,10 +1,14 @@
 ---
-title: "How Often Does Southwest Lose Luggage: Shocking Truth Revealed"
-description: "Have you ever worried about your suitcase disappearing after a flight? If you’re flying with Southwest, you might be wondering, how often does Southwest lose lu"
+title: 'How Often Does Southwest Lose Luggage: Shocking Truth Revealed'
+description: Have you ever worried about your suitcase disappearing after a flight?
+  If you’re flying with Southwest, you might be wondering, how often does Southwest
+  lose lu
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-often-does-southwest-lose-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-often-does-southwest-lose-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever worried about your suitcase disappearing after a flight? If you’re flying with Southwest, you might be wondering, how often does Southwest lose luggage?**

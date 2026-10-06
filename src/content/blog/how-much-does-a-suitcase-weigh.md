@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Suitcase Weigh: Essential Tips for Travelers"
-description: "Have you ever wondered how much your suitcase weighs? Whether you're planning a weekend getaway or an extended vacation, knowing the weight of your luggage can "
+title: 'How Much Does a Suitcase Weigh: Essential Tips for Travelers'
+description: 'Have you ever wondered how much your suitcase weighs? Whether you''re
+  planning a weekend getaway or an extended vacation, knowing the weight of your luggage
+  can '
 pubDate: 2026-04-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-suitcase-weigh&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-suitcase-weigh&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered how much your suitcase weighs? Whether you're planning a weekend getaway or an extended vacation, knowing the weight of your luggage can make all the difference.**

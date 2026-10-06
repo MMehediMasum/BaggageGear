@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Avoid Getting a Colostomy Bag: Essential Prevention Tips"
 description: "Are you concerned about the possibility of needing a colostomy bag? It’s a thought that can be unsettling, but understanding how you can take proactive steps to"
 pubDate: 2026-04-06

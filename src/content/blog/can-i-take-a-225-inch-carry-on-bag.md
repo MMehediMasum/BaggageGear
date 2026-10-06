@@ -1,10 +1,14 @@
 ---
-title: "Can I Take a 22.5 Inch Carry-On Bag: Ultimate Travel Guide 2025"
-description: "Navigating the world of travel can be a puzzle, especially when it comes to luggage. You're standing in front of your closet, eyeing that 22.5-inch carry-on bag"
+title: 'Can I Take a 22.5 Inch Carry-On Bag: Ultimate Travel Guide 2025'
+description: Navigating the world of travel can be a puzzle, especially when it comes
+  to luggage. You're standing in front of your closet, eyeing that 22.5-inch carry-on
+  bag
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-a-225-inch-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-a-225-inch-carry-on-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating the world of travel can be a puzzle, especially when it comes to luggage. You're standing in front of your closet, eyeing that 22.5-inch carry-on bag, and the question looms large: "Can I take it on board?"**

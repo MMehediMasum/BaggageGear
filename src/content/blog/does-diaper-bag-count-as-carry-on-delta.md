@@ -1,10 +1,14 @@
 ---
-title: "Does Diaper Bag Count As Carry on Delta: Essential Travel Guide"
-description: "You've booked your flight with Delta, packed your bags, and you're ready for your next adventure. But wait—you're traveling with your little one, and you're won"
+title: 'Does Diaper Bag Count As Carry on Delta: Essential Travel Guide'
+description: You've booked your flight with Delta, packed your bags, and you're ready
+  for your next adventure. But wait—you're traveling with your little one, and you're
+  won
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-diaper-bag-count-as-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-diaper-bag-count-as-carry-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You've booked your flight with Delta, packed your bags, and you're ready for your next adventure. But wait—you're traveling with your little one, and you're wondering, "Does a diaper bag count as a carry-on with Delta?"**

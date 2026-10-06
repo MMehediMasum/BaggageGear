@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash Fjallraven Kanken Backpacks: Ultimate Cleaning Guide"
-description: "Imagine your Fjällräven Kånken backpack, a trusted companion on countless adventures, looking a little worse for wear. You've taken it everywhere, from city str"
+title: 'Can You Wash Fjallraven Kanken Backpacks: Ultimate Cleaning Guide'
+description: Imagine your Fjällräven Kånken backpack, a trusted companion on countless
+  adventures, looking a little worse for wear. You've taken it everywhere, from city
+  str
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-fjallraven-kanken-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-fjallraven-kanken-backpacks&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine your Fjällräven Kånken backpack, a trusted companion on countless adventures, looking a little worse for wear. You've taken it everywhere, from city streets to mountain trails, and now it's time to refresh its appearance.**

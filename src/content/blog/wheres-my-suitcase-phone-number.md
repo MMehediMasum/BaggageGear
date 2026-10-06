@@ -1,10 +1,14 @@
 ---
-title: "Where'S My Suitcase Phone Number: Quick Help to Track Your Bag"
-description: "Losing your suitcase can be a traveler's worst nightmare. Imagine standing at the baggage claim, watching the carousel spin, but your bag is nowhere in sight. P"
+title: 'Where''S My Suitcase Phone Number: Quick Help to Track Your Bag'
+description: Losing your suitcase can be a traveler's worst nightmare. Imagine standing
+  at the baggage claim, watching the carousel spin, but your bag is nowhere in sight.
+  P
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=wheres-my-suitcase-phone-number&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=wheres-my-suitcase-phone-number&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Losing your suitcase can be a traveler's worst nightmare. Imagine standing at the baggage claim, watching the carousel spin, but your bag is nowhere in sight.**

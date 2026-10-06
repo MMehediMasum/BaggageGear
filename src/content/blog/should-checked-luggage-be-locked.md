@@ -1,10 +1,14 @@
 ---
-title: "Should Checked Luggage Be Locked: Essential Security Tips Revealed"
-description: "When you're preparing for a trip, packing your bags is just one of the many tasks on your list. But, have you ever stopped to wonder whether you should lock you"
+title: 'Should Checked Luggage Be Locked: Essential Security Tips Revealed'
+description: When you're preparing for a trip, packing your bags is just one of the
+  many tasks on your list. But, have you ever stopped to wonder whether you should
+  lock you
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=should-checked-luggage-be-locked&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=should-checked-luggage-be-locked&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **When you're preparing for a trip, packing your bags is just one of the many tasks on your list. But, have you ever stopped to wonder whether you should lock your checked luggage?**

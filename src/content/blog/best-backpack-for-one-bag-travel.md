@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for One Bag Travel: Top Lightweight Carry-On Picks"
-description: "Choosing the best backpack for one bag travel simplifies packing and eases your journey. A good travel backpack fits essentials, stays comfortable, and meets ai"
+title: 'Best Backpack for One Bag Travel: Top Lightweight Carry-On Picks'
+description: Choosing the best backpack for one bag travel simplifies packing and
+  eases your journey. A good travel backpack fits essentials, stays comfortable, and
+  meets ai
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-one-bag-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-one-bag-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for one bag travel simplifies packing and eases your journey. A good travel backpack fits essentials, stays comfortable, and meets airline rules.**

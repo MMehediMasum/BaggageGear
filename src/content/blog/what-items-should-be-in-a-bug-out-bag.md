@@ -1,10 +1,14 @@
 ---
-title: "What Items Should Be in a Bug Out Bag: Essential Survival Gear"
-description: "Imagine a situation where you need to leave your home quickly. Whether it's due to a natural disaster, a power outage, or an unexpected emergency, having a bug "
+title: 'What Items Should Be in a Bug Out Bag: Essential Survival Gear'
+description: 'Imagine a situation where you need to leave your home quickly. Whether
+  it''s due to a natural disaster, a power outage, or an unexpected emergency, having
+  a bug '
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-items-should-be-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-items-should-be-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine a situation where you need to leave your home quickly. Whether it's due to a natural disaster, a power outage, or an unexpected emergency, having a bug out bag ready can make all the difference.**

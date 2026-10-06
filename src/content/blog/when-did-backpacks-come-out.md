@@ -1,10 +1,14 @@
 ---
-title: "When Did Backpacks Come Out: Unveiling Their Fascinating Origin"
-description: "Have you ever wondered about the origins of the backpack? It's an item so common that you might take it for granted. Yet, its story is both fascinating and surp"
+title: 'When Did Backpacks Come Out: Unveiling Their Fascinating Origin'
+description: Have you ever wondered about the origins of the backpack? It's an item
+  so common that you might take it for granted. Yet, its story is both fascinating
+  and surp
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-did-backpacks-come-out&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack History And Buying Questions
+heroImage: https://tse1.mm.bing.net/th?q=when-did-backpacks-come-out&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered about the origins of the backpack? It's an item so common that you might take it for granted.**

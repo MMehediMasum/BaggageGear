@@ -1,10 +1,13 @@
 ---
-title: "Best Rolling Suitcase for Travel: Top Expandable Carry-On Luggage Picks"
-description: "Choosing the best rolling suitcase makes travel easier and more comfortable. A good suitcase offers durability, smooth wheels, and enough space for your needs. "
+title: 'Best Rolling Suitcase for Travel: Top Expandable Carry-On Luggage Picks'
+description: 'Choosing the best rolling suitcase makes travel easier and more comfortable.
+  A good suitcase offers durability, smooth wheels, and enough space for your needs. '
 pubDate: 2026-07-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-suitcase-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bags For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-suitcase-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best rolling suitcase makes travel easier and more comfortable. A good suitcase offers durability, smooth wheels, and enough space for your needs.**

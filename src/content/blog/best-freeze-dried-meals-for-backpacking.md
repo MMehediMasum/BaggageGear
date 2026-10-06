@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Freeze Dried Meals for Backpacking: Top Picks for Delicious Adventures"
 description: "Choosing the best freeze dried meals makes backpacking easier and more enjoyable. These meals save weight and cook quickly on the trail. Backpacking needs food "
 pubDate: 2026-06-11

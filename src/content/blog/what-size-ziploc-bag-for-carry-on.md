@@ -1,10 +1,14 @@
 ---
-title: "What Size Ziploc Bag for Carry On: Ultimate Guide for Travel Success"
-description: "Picture this: You're standing in line at the airport, ready for your long-awaited trip. But then, confusion strikes. You wonder if you've packed everything corr"
+title: 'What Size Ziploc Bag for Carry On: Ultimate Guide for Travel Success'
+description: 'Picture this: You''re standing in line at the airport, ready for your
+  long-awaited trip. But then, confusion strikes. You wonder if you''ve packed everything
+  corr'
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-ziploc-bag-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-size-ziploc-bag-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're standing in line at the airport, ready for your long-awaited trip. But then, confusion strikes.**

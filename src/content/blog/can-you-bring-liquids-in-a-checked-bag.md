@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Liquids in a Checked Bag: Ultimate Guide 2025"
-description: "Can you bring liquids in a checked bag? This is a question many travelers find themselves pondering as they pack for their next adventure. The rules around tran"
+title: 'Can You Bring Liquids in a Checked Bag: Ultimate Guide 2025'
+description: Can you bring liquids in a checked bag? This is a question many travelers
+  find themselves pondering as they pack for their next adventure. The rules around
+  tran
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-liquids-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-liquids-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Can you bring liquids in a checked bag? This is a question many travelers find themselves pondering as they pack for their next adventure.**

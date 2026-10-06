@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Hairspray in a Checked Bag: Essential Travel Tips"
-description: "When you're getting ready for a trip, packing can be a bit of a puzzle. You want to make sure you have everything you need, but you're also trying to navigate t"
+title: 'Can You Pack Hairspray in a Checked Bag: Essential Travel Tips'
+description: When you're getting ready for a trip, packing can be a bit of a puzzle.
+  You want to make sure you have everything you need, but you're also trying to navigate
+  t
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-hairspray-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-hairspray-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're getting ready for a trip, packing can be a bit of a puzzle. You want to make sure you have everything you need, but you're also trying to navigate the maze of rules and regulations that come with air travel.**

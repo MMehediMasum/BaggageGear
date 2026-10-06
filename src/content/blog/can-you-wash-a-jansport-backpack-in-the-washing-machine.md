@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Jansport Backpack in the Washing Machine? Expert Tips"
-description: "Have you ever looked at your trusty Jansport backpack and wondered if it could use a good wash? Backpacks are our everyday companions, carrying everything from "
+title: Can You Wash a Jansport Backpack in the Washing Machine? Expert Tips
+description: 'Have you ever looked at your trusty Jansport backpack and wondered if
+  it could use a good wash? Backpacks are our everyday companions, carrying everything
+  from '
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-jansport-backpack-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-jansport-backpack-in-the-washing-machine&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your trusty Jansport backpack and wondered if it could use a good wash? Backpacks are our everyday companions, carrying everything from textbooks to gym clothes, and they can get pretty grimy over time.**

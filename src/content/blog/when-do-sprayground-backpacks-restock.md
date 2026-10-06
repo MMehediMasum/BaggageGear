@@ -1,10 +1,14 @@
 ---
-title: "When Do Sprayground Backpacks Restock: Ultimate Guide 2025"
-description: "Imagine the excitement of spotting a Sprayground backpack that perfectly matches your style, only to discover it's sold out. Frustrating, right? If you’ve ever "
+title: 'When Do Sprayground Backpacks Restock: Ultimate Guide 2025'
+description: 'Imagine the excitement of spotting a Sprayground backpack that perfectly
+  matches your style, only to discover it''s sold out. Frustrating, right? If you’ve
+  ever '
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-do-sprayground-backpacks-restock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=when-do-sprayground-backpacks-restock&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine the excitement of spotting a Sprayground backpack that perfectly matches your style, only to discover it's sold out. Frustrating, right?**

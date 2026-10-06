@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Put in a Party Favor Bag: Unique Ideas Guests Will Love"
 description: "Planning a party and want to leave a lasting impression on your guests? One surefire way to do that is through the perfect party favor bag. But what exactly sho"
 pubDate: 2026-01-31

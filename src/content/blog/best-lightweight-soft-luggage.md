@@ -1,10 +1,13 @@
 ---
-title: "Best Lightweight Soft Luggage: Top Picks for Effortless Travel"
-description: "Choosing the best lightweight soft luggage makes travel easier and less tiring. Soft luggage is flexible, durable, and often lighter than hard cases. Traveling "
+title: 'Best Lightweight Soft Luggage: Top Picks for Effortless Travel'
+description: 'Choosing the best lightweight soft luggage makes travel easier and less
+  tiring. Soft luggage is flexible, durable, and often lighter than hard cases. Traveling '
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-soft-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-soft-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight soft luggage makes travel easier and less tiring. Soft luggage is flexible, durable, and often lighter than hard cases.**

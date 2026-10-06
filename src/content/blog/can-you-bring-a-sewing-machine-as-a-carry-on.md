@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Sewing Machine As a Carry on: Essential Travel Tips"
-description: "Traveling can be a juggling act, especially when you want to bring along your trusty sewing machine. You might wonder, \"Can you bring a sewing machine as a carr"
+title: 'Can You Bring a Sewing Machine As a Carry on: Essential Travel Tips'
+description: Traveling can be a juggling act, especially when you want to bring along
+  your trusty sewing machine. You might wonder, "Can you bring a sewing machine as
+  a carr
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-sewing-machine-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-sewing-machine-as-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a juggling act, especially when you want to bring along your trusty sewing machine. You might wonder, "Can you bring a sewing machine as a carry-on?"**

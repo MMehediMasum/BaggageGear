@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Drawstring Bag in Minutes: Easy Step-by-Step Guide"
-description: "Are you looking for a quick and satisfying sewing project? Imagine crafting a handy, stylish drawstring bag in mere minutes. It sounds like magic, but with the "
+title: 'How to Sew a Drawstring Bag in Minutes: Easy Step-by-Step Guide'
+description: 'Are you looking for a quick and satisfying sewing project? Imagine crafting
+  a handy, stylish drawstring bag in mere minutes. It sounds like magic, but with
+  the '
 pubDate: 2025-11-04
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-bag-in-minutes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-bag-in-minutes&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you looking for a quick and satisfying sewing project? Imagine crafting a handy, stylish drawstring bag in mere minutes.**

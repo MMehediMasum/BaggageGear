@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bag of Concrete: Ultimate Cost Guide 2025"
 description: "Are you planning a DIY project or perhaps tackling a bigger construction task? If so, one of the essential questions you might be asking is, \"How much is a bag "
 pubDate: 2026-01-19

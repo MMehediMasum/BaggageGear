@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Suits: Top Durable & Wrinkle-Free Options"
-description: "Choosing the best carry-on luggage for suits ensures your clothes stay neat and wrinkle-free. The right bag offers convenience, protection, and style for busine"
+title: 'Best Carry On Luggage for Suits: Top Durable & Wrinkle-Free Options'
+description: Choosing the best carry-on luggage for suits ensures your clothes stay
+  neat and wrinkle-free. The right bag offers convenience, protection, and style for
+  busine
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-suits&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-suits&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for suits ensures your clothes stay neat and wrinkle-free. The right bag offers convenience, protection, and style for business or travel.**

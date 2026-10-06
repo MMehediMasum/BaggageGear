@@ -1,10 +1,14 @@
 ---
-title: "Best Tumi Backpack for Travel: Discover Top Picks for Every Journey"
-description: "Traveling requires a reliable backpack that keeps your belongings safe and organized. Tumi offers durable and stylish backpacks designed for all types of travel"
+title: 'Best Tumi Backpack for Travel: Discover Top Picks for Every Journey'
+description: Traveling requires a reliable backpack that keeps your belongings safe
+  and organized. Tumi offers durable and stylish backpacks designed for all types
+  of travel
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-tumi-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-tumi-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Traveling requires a reliable backpack that keeps your belongings safe and organized. Tumi offers durable and stylish backpacks designed for all types of travelers.**

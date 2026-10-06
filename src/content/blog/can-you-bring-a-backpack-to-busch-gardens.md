@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack to Busch Gardens: Ultimate Packing Guide"
-description: "Planning a trip to Busch Gardens? Exciting times await! But before you head out, there's a question that might be lingering in your mind: Can you bring a backpa"
+title: 'Can You Bring a Backpack to Busch Gardens: Ultimate Packing Guide'
+description: 'Planning a trip to Busch Gardens? Exciting times await! But before you
+  head out, there''s a question that might be lingering in your mind: Can you bring
+  a backpa'
 pubDate: 2025-08-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-to-busch-gardens&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-to-busch-gardens&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip to Busch Gardens? Exciting times await!**

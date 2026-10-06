@@ -1,10 +1,14 @@
 ---
-title: "What are the Dimensions for Carry on Luggage Delta: Ultimate Guide 2025"
-description: "Are you getting ready for a trip and wondering about the dimensions for carry-on luggage on Delta Airlines? You’re not alone. Navigating airline baggage policie"
+title: 'What are the Dimensions for Carry on Luggage Delta: Ultimate Guide 2025'
+description: Are you getting ready for a trip and wondering about the dimensions for
+  carry-on luggage on Delta Airlines? You’re not alone. Navigating airline baggage
+  policie
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-for-carry-on-luggage-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-for-carry-on-luggage-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you getting ready for a trip and wondering about the dimensions for carry-on luggage on Delta Airlines? You’re not alone.**

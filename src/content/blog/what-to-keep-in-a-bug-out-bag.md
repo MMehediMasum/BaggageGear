@@ -1,10 +1,14 @@
 ---
-title: "What to Keep in a Bug Out Bag: Essential Survival Gear Guide"
-description: "Imagine facing an unexpected emergency where you need to leave your home quickly. What would you grab? A well-prepared bug out bag can make all the difference. "
+title: 'What to Keep in a Bug Out Bag: Essential Survival Gear Guide'
+description: 'Imagine facing an unexpected emergency where you need to leave your
+  home quickly. What would you grab? A well-prepared bug out bag can make all the
+  difference. '
 pubDate: 2026-02-11
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-keep-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-keep-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine facing an unexpected emergency where you need to leave your home quickly. What would you grab?**

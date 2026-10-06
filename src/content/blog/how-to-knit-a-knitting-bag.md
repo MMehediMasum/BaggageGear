@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Knit a Knitting Bag: Easy Steps for a Stylish Craft"
 description: "Imagine having a stylish and functional knitting bag that you created with your own hands. Not only does it hold your knitting essentials, but it also showcases"
 pubDate: 2025-11-08

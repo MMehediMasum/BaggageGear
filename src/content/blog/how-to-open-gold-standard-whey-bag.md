@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Open Gold Standard Whey Bag: Easy Steps for Freshness"
 description: "You’ve just purchased a bag of Gold Standard Whey, excited to kickstart your fitness journey or up your protein intake. But there it sits on your kitchen counte"
 pubDate: 2026-04-03

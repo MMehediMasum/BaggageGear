@@ -1,10 +1,13 @@
 ---
-title: "Best 2 Piece Luggage Sets: Top Picks for Stylish Travel"
-description: "Choosing the best 2 piece luggage set makes travel easier and more organized. These sets offer durability, style, and convenience for every trip. A good luggage"
+title: 'Best 2 Piece Luggage Sets: Top Picks for Stylish Travel'
+description: Choosing the best 2 piece luggage set makes travel easier and more organized.
+  These sets offer durability, style, and convenience for every trip. A good luggage
 pubDate: 2026-07-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-2-piece-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-2-piece-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best 2 piece luggage set makes travel easier and more organized. These sets offer durability, style, and convenience for every trip.**

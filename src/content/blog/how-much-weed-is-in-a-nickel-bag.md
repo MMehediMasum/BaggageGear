@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Weed is in a Nickel Bag: Uncover the Truth Today"
 description: "Curiosity often leads you down intriguing paths, and today it's all about the mystery of the nickel bag. Have you ever wondered just how much weed is in a nicke"
 pubDate: 2025-09-04

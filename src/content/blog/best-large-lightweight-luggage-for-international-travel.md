@@ -1,10 +1,14 @@
 ---
-title: "Best Large Lightweight Luggage for International Travel: Top Picks for Comfort"
-description: "Finding the best large lightweight luggage makes international travel easier and less stressful. You want a suitcase that holds a lot but stays easy to carry. C"
+title: 'Best Large Lightweight Luggage for International Travel: Top Picks for Comfort'
+description: Finding the best large lightweight luggage makes international travel
+  easier and less stressful. You want a suitcase that holds a lot but stays easy to
+  carry. C
 pubDate: 2026-07-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-lightweight-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-large-lightweight-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best large lightweight luggage makes international travel easier and less stressful. You want a suitcase that holds a lot but stays easy to carry.**

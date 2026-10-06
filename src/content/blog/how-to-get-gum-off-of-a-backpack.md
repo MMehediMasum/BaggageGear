@@ -1,10 +1,14 @@
 ---
-title: "How to Get Gum off of a Backpack: Easy and Effective Tips"
-description: "You've just discovered a sticky, unwelcome surprise on your backpack—a glob of gum. Whether it's from a crowded bus ride or an accidental drop, gum can be a stu"
+title: 'How to Get Gum off of a Backpack: Easy and Effective Tips'
+description: You've just discovered a sticky, unwelcome surprise on your backpack—a
+  glob of gum. Whether it's from a crowded bus ride or an accidental drop, gum can
+  be a stu
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-gum-off-of-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning A Backpack By Hand
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-gum-off-of-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've just discovered a sticky, unwelcome surprise on your backpack—a glob of gum. Whether it's from a crowded bus ride or an accidental drop, gum can be a stubborn nuisance that seems impossible to remove.**

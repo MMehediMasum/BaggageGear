@@ -1,10 +1,14 @@
 ---
-title: "How to Measure a Duffel Bag for Carry On: Ultimate Size Guide"
-description: "Are you ready to travel light but worried your duffel bag might not fit as a carry-on? Knowing how to measure your duffel bag correctly can save you from last-m"
+title: 'How to Measure a Duffel Bag for Carry On: Ultimate Size Guide'
+description: Are you ready to travel light but worried your duffel bag might not fit
+  as a carry-on? Knowing how to measure your duffel bag correctly can save you from
+  last-m
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-a-duffel-bag-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-a-duffel-bag-for-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you ready to travel light but worried your duffel bag might not fit as a carry-on? Knowing how to measure your duffel bag correctly can save you from last-minute airport stress and unexpected fees.**

@@ -1,10 +1,14 @@
 ---
-title: "Where to Donate Suitcases near Me: Top Trusted Donation Spots"
-description: "Do you have old suitcases gathering dust at home? Instead of letting them sit unused, why not turn them into something meaningful? Donating your suitcases can m"
+title: 'Where to Donate Suitcases near Me: Top Trusted Donation Spots'
+description: Do you have old suitcases gathering dust at home? Instead of letting
+  them sit unused, why not turn them into something meaningful? Donating your suitcases
+  can m
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-donate-suitcases-near-me&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-donate-suitcases-near-me&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Do you have old suitcases gathering dust at home? Instead of letting them sit unused, why not turn them into something meaningful?**

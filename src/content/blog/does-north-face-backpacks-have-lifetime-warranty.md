@@ -1,10 +1,14 @@
 ---
-title: "Does North Face Backpacks Have Lifetime Warranty: Ultimate Guide"
-description: "When you invest in a backpack, you want it to be a reliable companion for years. If you're considering a North Face backpack, you're likely wondering about its "
+title: 'Does North Face Backpacks Have Lifetime Warranty: Ultimate Guide'
+description: 'When you invest in a backpack, you want it to be a reliable companion
+  for years. If you''re considering a North Face backpack, you''re likely wondering
+  about its '
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-north-face-backpacks-have-lifetime-warranty&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-north-face-backpacks-have-lifetime-warranty&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you invest in a backpack, you want it to be a reliable companion for years. If you're considering a North Face backpack, you're likely wondering about its warranty.**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Machine Wash Dagne Dover Backpack: Ultimate Care Guide"
-description: "Are you pondering whether you can toss your beloved Dagne Dover backpack into the washing machine? You're not alone. Many owners of this stylish and functional "
+title: 'Can You Machine Wash Dagne Dover Backpack: Ultimate Care Guide'
+description: 'Are you pondering whether you can toss your beloved Dagne Dover backpack
+  into the washing machine? You''re not alone. Many owners of this stylish and functional '
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-machine-wash-dagne-dover-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-machine-wash-dagne-dover-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you pondering whether you can toss your beloved Dagne Dover backpack into the washing machine? You're not alone.**

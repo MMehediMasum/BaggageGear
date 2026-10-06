@@ -1,10 +1,14 @@
 ---
-title: "Best Deals on Carry On Luggage: Top Picks for Durable Travel Gear"
-description: "Find the best deals on carry-on luggage to travel light and smart. Choose from top brands with durable, easy-to-roll designs. Traveling gets easier with the rig"
+title: 'Best Deals on Carry On Luggage: Top Picks for Durable Travel Gear'
+description: Find the best deals on carry-on luggage to travel light and smart. Choose
+  from top brands with durable, easy-to-roll designs. Traveling gets easier with the
+  rig
 pubDate: 2026-08-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-deals-on-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-deals-on-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Find the best deals on carry-on luggage to travel light and smart. Choose from top brands with durable, easy-to-roll designs.**

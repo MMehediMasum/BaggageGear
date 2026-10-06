@@ -1,10 +1,14 @@
 ---
-title: "Best Power Adapter for International Travel: Top USB-C European Plugs"
-description: "Finding the best power adapter for international travel ensures your devices stay charged worldwide. Choosing the right adapter prevents power issues and keeps "
+title: 'Best Power Adapter for International Travel: Top USB-C European Plugs'
+description: 'Finding the best power adapter for international travel ensures your
+  devices stay charged worldwide. Choosing the right adapter prevents power issues
+  and keeps '
 pubDate: 2026-05-27
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-international-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best power adapter for international travel ensures your devices stay charged worldwide. Choosing the right adapter prevents power issues and keeps you connected.**

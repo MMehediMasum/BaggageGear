@@ -1,10 +1,13 @@
 ---
-title: "When were Wheels Put on Suitcases: The Travel Game Changer"
-description: "Have you ever rushed through an airport, effortlessly gliding your suitcase alongside you, and wondered how people used to manage without wheels on their luggag"
+title: 'When were Wheels Put on Suitcases: The Travel Game Changer'
+description: Have you ever rushed through an airport, effortlessly gliding your suitcase
+  alongside you, and wondered how people used to manage without wheels on their luggag
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-were-wheels-put-on-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Repairing Luggage Zippers And Handles
+heroImage: https://tse1.mm.bing.net/th?q=when-were-wheels-put-on-suitcases&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever rushed through an airport, effortlessly gliding your suitcase alongside you, and wondered how people used to manage without wheels on their luggage? Imagine a time when travelers had to lug heavy bags through bustling terminals and crowded streets.**

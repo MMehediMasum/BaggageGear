@@ -1,10 +1,14 @@
 ---
-title: "Best Power Adapter for Ireland: Essential Travel Plug Adapters Explained"
-description: "Traveling to Ireland requires the right power adapter to keep your devices charged. The best power adapter fits Ireland’s Type G sockets and voltage. Irish outl"
+title: 'Best Power Adapter for Ireland: Essential Travel Plug Adapters Explained'
+description: Traveling to Ireland requires the right power adapter to keep your devices
+  charged. The best power adapter fits Ireland’s Type G sockets and voltage. Irish
+  outl
 pubDate: 2026-05-12
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-ireland&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-ireland&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Ireland requires the right power adapter to keep your devices charged. The best power adapter fits Ireland’s Type G sockets and voltage.**

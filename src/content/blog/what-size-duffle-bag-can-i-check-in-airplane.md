@@ -1,10 +1,14 @@
 ---
-title: "What Size Duffle Bag Can I Check in Airplane: Ultimate Guide 2025"
-description: "Are you wondering what size duffle bag you can check in on your next flight? Choosing the right bag can save you from extra fees and hassle at the airport. You "
+title: 'What Size Duffle Bag Can I Check in Airplane: Ultimate Guide 2025'
+description: 'Are you wondering what size duffle bag you can check in on your next
+  flight? Choosing the right bag can save you from extra fees and hassle at the airport.
+  You '
 pubDate: 2025-08-27
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-duffle-bag-can-i-check-in-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-duffle-bag-can-i-check-in-airplane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering what size duffle bag you can check in on your next flight? Choosing the right bag can save you from extra fees and hassle at the airport.**

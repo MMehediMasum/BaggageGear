@@ -1,10 +1,14 @@
 ---
-title: "Does Luggage Dimensions Include Wheels: Essential Travel Tips Revealed"
-description: "When you're preparing for a trip, every inch of your suitcase matters. You might be wondering, \"Does luggage dimensions include wheels?\" It's a small detail, bu"
+title: 'Does Luggage Dimensions Include Wheels: Essential Travel Tips Revealed'
+description: When you're preparing for a trip, every inch of your suitcase matters.
+  You might be wondering, "Does luggage dimensions include wheels?" It's a small detail,
+  bu
 pubDate: 2025-09-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-luggage-dimensions-include-wheels&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Repairing Luggage Zippers And Handles
+heroImage: https://tse1.mm.bing.net/th?q=does-luggage-dimensions-include-wheels&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **When you're preparing for a trip, every inch of your suitcase matters. You might be wondering, "Does luggage dimensions include wheels?"**

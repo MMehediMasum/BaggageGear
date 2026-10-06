@@ -1,10 +1,14 @@
 ---
-title: "Are You Allowed to Bring a Knife in Your Luggage: Essential Rules Explained"
-description: "Are you gearing up for your next adventure and wondering about the do's and don'ts of packing? If you're considering bringing a knife along, you're not alone. M"
+title: 'Are You Allowed to Bring a Knife in Your Luggage: Essential Rules Explained'
+description: Are you gearing up for your next adventure and wondering about the do's
+  and don'ts of packing? If you're considering bringing a knife along, you're not
+  alone. M
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-you-allowed-to-bring-a-knife-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-you-allowed-to-bring-a-knife-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next adventure and wondering about the do's and don'ts of packing? If you're considering bringing a knife along, you're not alone.**

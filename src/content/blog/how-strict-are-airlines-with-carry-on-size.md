@@ -1,10 +1,14 @@
 ---
-title: "How Strict are Airlines With Carry on Size: Essential Tips Revealed"
-description: "Ever stood at the boarding gate, heart pounding, wondering if your carry-on bag will pass the airline's size check? You're not alone. Navigating airline rules c"
+title: 'How Strict are Airlines With Carry on Size: Essential Tips Revealed'
+description: Ever stood at the boarding gate, heart pounding, wondering if your carry-on
+  bag will pass the airline's size check? You're not alone. Navigating airline rules
+  c
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-are-airlines-with-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-are-airlines-with-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever stood at the boarding gate, heart pounding, wondering if your carry-on bag will pass the airline's size check? You're not alone.**

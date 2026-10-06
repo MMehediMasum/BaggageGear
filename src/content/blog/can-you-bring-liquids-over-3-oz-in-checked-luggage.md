@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Liquids Over 3 Oz in Checked Luggage: Ultimate Guide"
-description: "Ever stood at the airport check-in line, second-guessing what you packed in your luggage? You're not alone. Navigating airline regulations can be tricky, especi"
+title: 'Can You Bring Liquids Over 3 Oz in Checked Luggage: Ultimate Guide'
+description: Ever stood at the airport check-in line, second-guessing what you packed
+  in your luggage? You're not alone. Navigating airline regulations can be tricky,
+  especi
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-liquids-over-3-oz-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-liquids-over-3-oz-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood at the airport check-in line, second-guessing what you packed in your luggage? You're not alone.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Did Sandy Have a Backpack: Uncover the Surprising Truth!"
 description: "Ever found yourself pondering the curious question: \"Did Sandy have a backpack?\" You might be intrigued by the simplicity of this question, yet there's somethin"
 pubDate: 2025-11-14

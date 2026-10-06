@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Allegiant: Ultimate Cost Guide 2025"
-description: "Planning your next getaway involves a lot more than just booking your flight and packing your bags. If you're flying with Allegiant, understanding their baggage"
+title: 'How Much is a Checked Bag on Allegiant: Ultimate Cost Guide 2025'
+description: Planning your next getaway involves a lot more than just booking your
+  flight and packing your bags. If you're flying with Allegiant, understanding their
+  baggage
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next getaway involves a lot more than just booking your flight and packing your bags. If you're flying with Allegiant, understanding their baggage fees can be a game-changer for your travel budget.**

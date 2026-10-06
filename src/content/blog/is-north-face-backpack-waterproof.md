@@ -1,10 +1,14 @@
 ---
-title: "Is North Face Backpack Waterproof: Ultimate Guide to Stay Dry"
-description: "Imagine you’re caught in an unexpected downpour during your hike or daily commute. Your heart skips a beat as you wonder if the contents of your backpack are sa"
+title: 'Is North Face Backpack Waterproof: Ultimate Guide to Stay Dry'
+description: Imagine you’re caught in an unexpected downpour during your hike or daily
+  commute. Your heart skips a beat as you wonder if the contents of your backpack
+  are sa
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-north-face-backpack-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-north-face-backpack-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine you’re caught in an unexpected downpour during your hike or daily commute. Your heart skips a beat as you wonder if the contents of your backpack are safe from the rain.**

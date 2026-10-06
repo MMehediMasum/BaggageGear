@@ -1,10 +1,14 @@
 ---
-title: "Where to Get Cheap Backpacks: Top Deals You Can’t Miss"
-description: "Are you on the hunt for a new backpack but don't want to break the bank? Whether you're gearing up for school, planning a hiking adventure, or just need somethi"
+title: 'Where to Get Cheap Backpacks: Top Deals You Can’t Miss'
+description: Are you on the hunt for a new backpack but don't want to break the bank?
+  Whether you're gearing up for school, planning a hiking adventure, or just need
+  somethi
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-get-cheap-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-to-get-cheap-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a new backpack but don't want to break the bank? Whether you're gearing up for school, planning a hiking adventure, or just need something reliable for everyday use, finding the perfect backpack at an affordable price can feel like searching for a needle in a haystack.**

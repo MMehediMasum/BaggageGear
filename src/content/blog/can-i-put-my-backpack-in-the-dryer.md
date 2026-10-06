@@ -1,10 +1,14 @@
 ---
-title: "Can I Put My Backpack in the Dryer: Essential Tips & Risks Revealed"
-description: "Have you ever wondered if you can toss your trusty backpack into the dryer after a rainy day or an accidental spill? You're not alone. Many people face this dil"
+title: 'Can I Put My Backpack in the Dryer: Essential Tips & Risks Revealed'
+description: Have you ever wondered if you can toss your trusty backpack into the
+  dryer after a rainy day or an accidental spill? You're not alone. Many people face
+  this dil
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-my-backpack-in-the-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-my-backpack-in-the-dryer&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if you can toss your trusty backpack into the dryer after a rainy day or an accidental spill? You're not alone.**

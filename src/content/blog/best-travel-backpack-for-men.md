@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Men: Top Durable and Spacious Picks"
-description: "Choosing the best travel backpack for men makes trips easier and more organized. A good backpack offers comfort, space, and durability. Travel backpacks come in"
+title: 'Best Travel Backpack for Men: Top Durable and Spacious Picks'
+description: Choosing the best travel backpack for men makes trips easier and more
+  organized. A good backpack offers comfort, space, and durability. Travel backpacks
+  come in
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Men
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-men&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best travel backpack for men makes trips easier and more organized. A good backpack offers comfort, space, and durability.**

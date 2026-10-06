@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Tory Burch Bag: Top Trusted Platforms Revealed"
-description: "Are you looking to sell your Tory Burch bag but not sure where to start? You're not alone. Many fashion enthusiasts find themselves in the same position, eager "
+title: 'Where Can I Sell My Tory Burch Bag: Top Trusted Platforms Revealed'
+description: 'Are you looking to sell your Tory Burch bag but not sure where to start?
+  You''re not alone. Many fashion enthusiasts find themselves in the same position,
+  eager '
 pubDate: 2026-03-19
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-tory-burch-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-tory-burch-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to sell your Tory Burch bag but not sure where to start? You're not alone.**

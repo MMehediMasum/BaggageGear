@@ -1,10 +1,13 @@
 ---
-title: "Can I Add a Carry on to My Spirit Flight? Ultimate Guide 2025"
-description: "Have you ever felt the stress of packing for a flight, unsure if you've got everything you need within your luggage allowance? You're not alone. Many travelers "
+title: Can I Add a Carry on to My Spirit Flight? Ultimate Guide 2025
+description: 'Have you ever felt the stress of packing for a flight, unsure if you''ve
+  got everything you need within your luggage allowance? You''re not alone. Many travelers '
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-add-a-carry-on-to-my-spirit-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-add-a-carry-on-to-my-spirit-flight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever felt the stress of packing for a flight, unsure if you've got everything you need within your luggage allowance? You're not alone.**

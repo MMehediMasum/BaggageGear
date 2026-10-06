@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Cruise: Lightweight, Waterproof, and Travel-Ready Picks"
-description: "Choosing the best backpack for a cruise makes travel easier and more comfortable. A good backpack holds essentials, fits cruise rules, and stays light. Cruise t"
+title: 'Best Backpack for Cruise: Lightweight, Waterproof, and Travel-Ready Picks'
+description: Choosing the best backpack for a cruise makes travel easier and more
+  comfortable. A good backpack holds essentials, fits cruise rules, and stays light.
+  Cruise t
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-cruise&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for a cruise makes travel easier and more comfortable. A good backpack holds essentials, fits cruise rules, and stays light.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Cook a Steak in a Plastic Bag: Easy & Juicy Method Revealed"
 description: "Have you ever wondered how to achieve that perfectly juicy and tender steak without the hassle of a grill or fancy gadgets? Imagine cooking a steak that's burst"
 pubDate: 2026-01-18

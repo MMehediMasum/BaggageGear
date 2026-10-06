@@ -1,10 +1,14 @@
 ---
-title: "What to Do With Old Luggage: Creative Upcycling Ideas to Try"
-description: "Do you have an old suitcase gathering dust in your closet, or perhaps a vintage trunk that once carried treasures on distant journeys? You might be wondering wh"
+title: 'What to Do With Old Luggage: Creative Upcycling Ideas to Try'
+description: Do you have an old suitcase gathering dust in your closet, or perhaps
+  a vintage trunk that once carried treasures on distant journeys? You might be wondering
+  wh
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-do-with-old-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-to-do-with-old-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Do you have an old suitcase gathering dust in your closet, or perhaps a vintage trunk that once carried treasures on distant journeys? You might be wondering what to do with these relics of past travels.**

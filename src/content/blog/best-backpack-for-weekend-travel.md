@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Weekend Travel: Top Flight-Approved Carry-On Picks"
-description: "Choosing the best backpack for weekend travel makes trips easier and more comfortable. A good travel backpack holds essentials and fits airline rules. Weekend t"
+title: 'Best Backpack for Weekend Travel: Top Flight-Approved Carry-On Picks'
+description: Choosing the best backpack for weekend travel makes trips easier and
+  more comfortable. A good travel backpack holds essentials and fits airline rules.
+  Weekend t
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-weekend-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-weekend-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for weekend travel makes trips easier and more comfortable. A good travel backpack holds essentials and fits airline rules.**

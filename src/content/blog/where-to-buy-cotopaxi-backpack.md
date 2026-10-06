@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Cotopaxi Backpack: Ultimate Guide for Best Deals"
-description: "Are you on the hunt for a Cotopaxi backpack that perfectly blends style, functionality, and sustainability? You're not alone. Finding the right place to buy a C"
+title: 'Where to Buy Cotopaxi Backpack: Ultimate Guide for Best Deals'
+description: Are you on the hunt for a Cotopaxi backpack that perfectly blends style,
+  functionality, and sustainability? You're not alone. Finding the right place to
+  buy a C
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-cotopaxi-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Backpack Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-cotopaxi-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a Cotopaxi backpack that perfectly blends style, functionality, and sustainability? You're not alone.**

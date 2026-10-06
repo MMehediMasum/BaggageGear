@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Curling Iron in a Carry On: TSA Rules Explained"
-description: "Are you planning a trip and wondering whether you can bring your trusty curling iron in your carry-on? You're not alone! Many travelers face the same dilemma. P"
+title: 'Can I Bring a Curling Iron in a Carry On: TSA Rules Explained'
+description: Are you planning a trip and wondering whether you can bring your trusty
+  curling iron in your carry-on? You're not alone! Many travelers face the same dilemma.
+  P
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-curling-iron-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-curling-iron-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering whether you can bring your trusty curling iron in your carry-on? You're not alone!**

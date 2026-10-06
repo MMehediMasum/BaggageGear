@@ -1,10 +1,13 @@
 ---
-title: "Best Leather Overnight Bag for Men: Top Durable Stylish Travel Duffels"
-description: "Finding the right leather overnight bag can elevate your travel experience. A good bag combines style, durability, and functionality. For men who value aestheti"
+title: 'Best Leather Overnight Bag for Men: Top Durable Stylish Travel Duffels'
+description: Finding the right leather overnight bag can elevate your travel experience.
+  A good bag combines style, durability, and functionality. For men who value aestheti
 pubDate: 2025-09-24
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-overnight-bag-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-overnight-bag-for-men&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the right leather overnight bag can elevate your travel experience. A good bag combines style, durability, and functionality.**

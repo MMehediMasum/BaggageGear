@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Carry On for 4 Days: Ultimate Space-Saving Tips"
-description: "Imagine breezing through the airport with nothing but a carry-on, skipping the baggage claim chaos, and diving straight into your adventure. Sounds like a dream"
+title: 'How to Pack a Carry On for 4 Days: Ultimate Space-Saving Tips'
+description: Imagine breezing through the airport with nothing but a carry-on, skipping
+  the baggage claim chaos, and diving straight into your adventure. Sounds like a
+  dream
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-carry-on-for-4-days&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-carry-on-for-4-days&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine breezing through the airport with nothing but a carry-on, skipping the baggage claim chaos, and diving straight into your adventure. Sounds like a dream, right?**

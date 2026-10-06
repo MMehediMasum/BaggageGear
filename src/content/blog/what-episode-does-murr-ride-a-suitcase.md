@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Episode Does Murr Ride a Suitcase: Ultimate Guide Revealed"
 description: "Ever find yourself chuckling uncontrollably at the antics of the \"Impractical Jokers\"? If you're a fan, you've probably marveled at some of the hilarious stunts"
 pubDate: 2025-08-31

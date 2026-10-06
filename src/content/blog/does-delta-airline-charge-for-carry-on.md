@@ -1,10 +1,14 @@
 ---
-title: "Does Delta Airline Charge for Carry On: Essential Fee Facts Revealed"
-description: "Are you planning a trip and wondering if Delta Airlines charges for carry-on luggage? You're not alone. Navigating airline fees can feel like solving a puzzle, "
+title: 'Does Delta Airline Charge for Carry On: Essential Fee Facts Revealed'
+description: 'Are you planning a trip and wondering if Delta Airlines charges for
+  carry-on luggage? You''re not alone. Navigating airline fees can feel like solving
+  a puzzle, '
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-airline-charge-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-airline-charge-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if Delta Airlines charges for carry-on luggage? You're not alone.**

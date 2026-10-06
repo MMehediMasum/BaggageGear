@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Thru Hiking: Top Lightweight and Durable Picks"
-description: "Choosing the best backpack for thru hiking can make your journey easier and more enjoyable. A good pack fits well, carries essentials, and feels light on long t"
+title: 'Best Backpack for Thru Hiking: Top Lightweight and Durable Picks'
+description: Choosing the best backpack for thru hiking can make your journey easier
+  and more enjoyable. A good pack fits well, carries essentials, and feels light on
+  long t
 pubDate: 2026-07-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-thru-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-thru-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for thru hiking can make your journey easier and more enjoyable. A good pack fits well, carries essentials, and feels light on long trails.**

@@ -1,10 +1,14 @@
 ---
-title: "What Happens If Your Checked Bag Gets Flagged: Essential Tips Revealed"
-description: "Imagine this: you’re at the airport, all set for your flight, but then you hear that unsettling announcement. Your checked bag has been flagged. Panic sets in, "
+title: 'What Happens If Your Checked Bag Gets Flagged: Essential Tips Revealed'
+description: 'Imagine this: you’re at the airport, all set for your flight, but then
+  you hear that unsettling announcement. Your checked bag has been flagged. Panic
+  sets in, '
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-happens-if-your-checked-bag-gets-flagged&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-happens-if-your-checked-bag-gets-flagged&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you’re at the airport, all set for your flight, but then you hear that unsettling announcement. Your checked bag has been flagged.**

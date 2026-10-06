@@ -1,10 +1,14 @@
 ---
-title: "Can You Take a Garment Bag on a Plane: Travel Tips"
-description: "Are you planning to travel soon and wondering if you can take a garment bag on a plane? You might be worried about whether it fits the rules or if it will cause"
+title: 'Can You Take a Garment Bag on a Plane: Travel Tips'
+description: Are you planning to travel soon and wondering if you can take a garment
+  bag on a plane? You might be worried about whether it fits the rules or if it will
+  cause
 pubDate: 2025-09-27
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-a-garment-bag-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-a-garment-bag-on-a-plane&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you planning to travel soon and wondering if you can take a garment bag on a plane? You might be worried about whether it fits the rules or if it will cause delays at security.**

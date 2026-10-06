@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Lands End Canvas Bag: Expert Tips"
-description: "Your Lands End canvas bag is more than just a carryall—it’s a trusted companion that holds your essentials day after day. But over time, dirt, stains, and wear "
+title: 'How to Clean a Lands End Canvas Bag: Expert Tips'
+description: 'Your Lands End canvas bag is more than just a carryall—it’s a trusted
+  companion that holds your essentials day after day. But over time, dirt, stains,
+  and wear '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-lands-end-canvas-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-lands-end-canvas-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Lands End canvas bag is more than just a carryall—it’s a trusted companion that holds your essentials day after day. But over time, dirt, stains, and wear can dull its look and feel.**

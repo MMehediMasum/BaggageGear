@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Popcorn in a Bag: Uncover the True Serving Size!"
 description: "Have you ever wondered just how much popcorn you get in that tempting bag you pop in the microwave? Whether you're preparing for a movie night or just indulging"
 pubDate: 2025-12-18

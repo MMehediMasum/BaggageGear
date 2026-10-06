@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Who Picks Up Home Depot Dumpster Bag: Expert Disposal Tips"
 description: "Imagine this: you've just finished a major home improvement project or a big clean-up, and now you're left with a pile of debris and waste. You might be wonderi"
 pubDate: 2026-01-24

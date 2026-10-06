@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Puffer Jacket for Backpacking: Top Lightweight and Packable Picks"
 description: "Choosing the best puffer jacket for backpacking helps keep you warm and comfortable on the trail. A good jacket stays light, packs small, and protects against c"
 pubDate: 2026-06-11

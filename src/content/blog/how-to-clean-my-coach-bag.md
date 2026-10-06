@@ -1,10 +1,14 @@
 ---
-title: "How to Clean My Coach Bag: Expert Tips for Pristine Care"
-description: "Your Coach bag is more than just an accessory. It's a statement of style and elegance. But what happens when it starts to lose its luster? Everyday wear and tea"
+title: 'How to Clean My Coach Bag: Expert Tips for Pristine Care'
+description: Your Coach bag is more than just an accessory. It's a statement of style
+  and elegance. But what happens when it starts to lose its luster? Everyday wear
+  and tea
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-my-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Care
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-my-coach-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Coach bag is more than just an accessory. It's a statement of style and elegance.**

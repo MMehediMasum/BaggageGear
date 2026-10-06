@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Roll Mat for Backpacking: Discover Comfort with Ultralight Sleeping Pads"
 description: "Choosing the best roll mat for backpacking ensures a good night's sleep outdoors. Comfort, weight, and size matter most for any adventure. A quality roll mat of"
 pubDate: 2026-06-07

@@ -1,10 +1,13 @@
 ---
-title: "Best Carry On Spinner Luggage for Smooth, Lightweight, and Secure Travel"
-description: "Choosing the best carry-on spinner luggage makes travel easier and more organized. These suitcases offer smooth rolling wheels and compact sizes for hassle-free"
+title: Best Carry On Spinner Luggage for Smooth, Lightweight, and Secure Travel
+description: Choosing the best carry-on spinner luggage makes travel easier and more
+  organized. These suitcases offer smooth rolling wheels and compact sizes for hassle-free
 pubDate: 2026-08-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-spinner-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-spinner-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on spinner luggage makes travel easier and more organized. These suitcases offer smooth rolling wheels and compact sizes for hassle-free trips.**

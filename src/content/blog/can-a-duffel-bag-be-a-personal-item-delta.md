@@ -1,10 +1,14 @@
 ---
-title: "Can a Duffel Bag Be a Personal Item Delta: Essential Travel Tips"
-description: "Are you planning a trip and wondering if your trusty duffel bag can be considered a personal item on Delta flights? You’re not alone. Navigating airline rules c"
+title: 'Can a Duffel Bag Be a Personal Item Delta: Essential Travel Tips'
+description: Are you planning a trip and wondering if your trusty duffel bag can be
+  considered a personal item on Delta flights? You’re not alone. Navigating airline
+  rules c
 pubDate: 2025-12-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-duffel-bag-be-a-personal-item-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-a-duffel-bag-be-a-personal-item-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if your trusty duffel bag can be considered a personal item on Delta flights? You’re not alone.**

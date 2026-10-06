@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Duffel Bag: Essential Tips for Stress-Free Travel"
-description: "Have you ever stood at the airport, clutching your trusty duffel bag, and wondered if you can check it in? You're not alone. This common travel dilemma leaves m"
+title: 'Can You Check a Duffel Bag: Essential Tips for Stress-Free Travel'
+description: Have you ever stood at the airport, clutching your trusty duffel bag,
+  and wondered if you can check it in? You're not alone. This common travel dilemma
+  leaves m
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-duffel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-duffel-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport, clutching your trusty duffel bag, and wondered if you can check it in? You're not alone.**

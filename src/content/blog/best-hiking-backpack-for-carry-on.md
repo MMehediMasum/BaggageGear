@@ -1,10 +1,14 @@
 ---
-title: "Best Hiking Backpack for Carry on: Discover Top Lightweight Travel Picks"
-description: "Choosing the best hiking backpack for carry-on travel makes your trips easier and more organized. A good backpack fits airline rules and holds all your essentia"
+title: 'Best Hiking Backpack for Carry on: Discover Top Lightweight Travel Picks'
+description: Choosing the best hiking backpack for carry-on travel makes your trips
+  easier and more organized. A good backpack fits airline rules and holds all your
+  essentia
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hiking-backpack-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-hiking-backpack-for-carry-on&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best hiking backpack for carry-on travel makes your trips easier and more organized. A good backpack fits airline rules and holds all your essentials comfortably.**

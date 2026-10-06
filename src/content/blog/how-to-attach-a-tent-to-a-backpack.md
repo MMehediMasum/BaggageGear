@@ -1,10 +1,14 @@
 ---
-title: "How to Attach a Tent to a Backpack: Easy Steps for Secure Hiking"
-description: "Are you planning your next outdoor adventure and wondering how to efficiently pack your gear? One essential skill every backpacker should master is attaching a "
+title: 'How to Attach a Tent to a Backpack: Easy Steps for Secure Hiking'
+description: 'Are you planning your next outdoor adventure and wondering how to efficiently
+  pack your gear? One essential skill every backpacker should master is attaching
+  a '
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-a-tent-to-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-a-tent-to-a-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next outdoor adventure and wondering how to efficiently pack your gear? One essential skill every backpacker should master is attaching a tent to a backpack.**

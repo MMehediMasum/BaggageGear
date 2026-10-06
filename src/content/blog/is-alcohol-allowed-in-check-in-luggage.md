@@ -1,10 +1,14 @@
 ---
-title: "Is Alcohol Allowed in Check in Luggage? Essential Travel Rules Explained"
-description: "Picture this: you're packing for a long-awaited vacation, and you've just picked up a bottle of your favorite wine or a unique local spirit to enjoy or gift. Bu"
+title: Is Alcohol Allowed in Check in Luggage? Essential Travel Rules Explained
+description: 'Picture this: you''re packing for a long-awaited vacation, and you''ve
+  just picked up a bottle of your favorite wine or a unique local spirit to enjoy
+  or gift. Bu'
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-alcohol-allowed-in-check-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-alcohol-allowed-in-check-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're packing for a long-awaited vacation, and you've just picked up a bottle of your favorite wine or a unique local spirit to enjoy or gift. But then, a question pops up—can you pack alcohol in your check-in luggage?**

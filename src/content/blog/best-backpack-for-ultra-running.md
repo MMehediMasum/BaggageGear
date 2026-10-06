@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Ultra Running: Top Lightweight Hydration Vests Reviewed"
-description: "Choosing the best backpack for ultra running can make a big difference in comfort and performance. A good hydration vest keeps you fueled and ready on long runs"
+title: 'Best Backpack for Ultra Running: Top Lightweight Hydration Vests Reviewed'
+description: Choosing the best backpack for ultra running can make a big difference
+  in comfort and performance. A good hydration vest keeps you fueled and ready on
+  long runs
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-ultra-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-ultra-running&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for ultra running can make a big difference in comfort and performance. A good hydration vest keeps you fueled and ready on long runs.**

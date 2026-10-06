@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Candles in Your Luggage: Essential Travel Tips"
-description: "Have you ever found yourself packing for a trip and wondering if you can take your favorite scented candles with you? Whether you're heading off on a relaxing v"
+title: 'Can You Fly With Candles in Your Luggage: Essential Travel Tips'
+description: Have you ever found yourself packing for a trip and wondering if you
+  can take your favorite scented candles with you? Whether you're heading off on a
+  relaxing v
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-candles-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-candles-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever found yourself packing for a trip and wondering if you can take your favorite scented candles with you? Whether you're heading off on a relaxing vacation or visiting loved ones, bringing along familiar comforts can make all the difference.**

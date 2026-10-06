@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Hermes Kelly Bag Cost: Ultimate Price Guide 2025"
-description: "Are you curious about how much a Hermes Kelly bag really costs? If you’ve been dreaming of owning this iconic luxury accessory, you’re probably wondering if it "
+title: 'How Much Does a Hermes Kelly Bag Cost: Ultimate Price Guide 2025'
+description: 'Are you curious about how much a Hermes Kelly bag really costs? If you’ve
+  been dreaming of owning this iconic luxury accessory, you’re probably wondering
+  if it '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-hermes-kelly-bag-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-hermes-kelly-bag-cost&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about how much a Hermes Kelly bag really costs? If you’ve been dreaming of owning this iconic luxury accessory, you’re probably wondering if it fits your budget or if it’s worth the investment.**

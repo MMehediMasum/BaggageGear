@@ -1,10 +1,14 @@
 ---
-title: "Best Dry Bag for Paddle Boarding: Top Waterproof Gear to Keep Dry"
-description: "Choosing the best dry bag for paddle boarding ensures your gear stays safe and dry on the water. A reliable dry bag protects your belongings from water, sand, a"
+title: 'Best Dry Bag for Paddle Boarding: Top Waterproof Gear to Keep Dry'
+description: Choosing the best dry bag for paddle boarding ensures your gear stays
+  safe and dry on the water. A reliable dry bag protects your belongings from water,
+  sand, a
 pubDate: 2026-05-10
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dry-bag-for-paddle-boarding&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-dry-bag-for-paddle-boarding&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best dry bag for paddle boarding ensures your gear stays safe and dry on the water. A reliable dry bag protects your belongings from water, sand, and dirt.**

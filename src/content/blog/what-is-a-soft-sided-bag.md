@@ -1,10 +1,14 @@
 ---
-title: "What is a Soft Sided Bag: Ultimate Guide to Stylish Flexibility"
-description: "Have you ever found yourself struggling to fit everything you need into your luggage, only to end up with a bulky, unmanageable bag? You're not alone. Whether y"
+title: 'What is a Soft Sided Bag: Ultimate Guide to Stylish Flexibility'
+description: Have you ever found yourself struggling to fit everything you need into
+  your luggage, only to end up with a bulky, unmanageable bag? You're not alone. Whether
+  y
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-soft-sided-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Vs Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-soft-sided-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself struggling to fit everything you need into your luggage, only to end up with a bulky, unmanageable bag? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Wine Bag: Easy Steps for Stylish Gift Wrapping"
-description: "Have you ever found yourself searching for the perfect gift but coming up short? Imagine the delight on a friend’s face when you present them with a bottle of w"
+title: 'How to Sew a Wine Bag: Easy Steps for Stylish Gift Wrapping'
+description: Have you ever found yourself searching for the perfect gift but coming
+  up short? Imagine the delight on a friend’s face when you present them with a bottle
+  of w
 pubDate: 2025-10-23
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-wine-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-wine-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself searching for the perfect gift but coming up short? Imagine the delight on a friend’s face when you present them with a bottle of wine wrapped in a charming, handmade wine bag.**

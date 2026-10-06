@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Draw a Backpack: Easy Steps for Stunning Sketches"
 description: "Are you ready to unlock your creative potential and learn how to draw a backpack with ease? Whether you're a budding artist or just looking to impress your frie"
 pubDate: 2025-12-31

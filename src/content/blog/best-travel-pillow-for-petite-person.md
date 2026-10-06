@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillow for Petite Person: Top Picks for Comfort & Support"
-description: "Finding the best travel pillow for a petite person can improve comfort on flights and car rides. A well-fitted pillow supports the neck and head properly, preve"
+title: 'Best Travel Pillow for Petite Person: Top Picks for Comfort & Support'
+description: Finding the best travel pillow for a petite person can improve comfort
+  on flights and car rides. A well-fitted pillow supports the neck and head properly,
+  preve
 pubDate: 2026-05-14
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillow-for-petite-person&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Neck Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillow-for-petite-person&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel pillow for a petite person can improve comfort on flights and car rides. A well-fitted pillow supports the neck and head properly, preventing pain.**

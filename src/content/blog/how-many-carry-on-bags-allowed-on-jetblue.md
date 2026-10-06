@@ -1,10 +1,14 @@
 ---
-title: "How Many Carry on Bags Allowed on Jetblue: Ultimate Guide 2025"
-description: "Planning your next trip with JetBlue? You're probably wondering how many carry-on bags you can bring on board. Knowing this ahead of time can save you from the "
+title: 'How Many Carry on Bags Allowed on Jetblue: Ultimate Guide 2025'
+description: 'Planning your next trip with JetBlue? You''re probably wondering how
+  many carry-on bags you can bring on board. Knowing this ahead of time can save you
+  from the '
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-allowed-on-jetblue&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-allowed-on-jetblue&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip with JetBlue? You're probably wondering how many carry-on bags you can bring on board.**

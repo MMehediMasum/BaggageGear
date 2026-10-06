@@ -1,10 +1,14 @@
 ---
-title: "What Does a 50 Lb Suitcase Look Like: Visual Guide & Tips"
-description: "Have you ever found yourself standing at the airport check-in counter, wondering if your suitcase is over the weight limit? You're not alone. Many travelers str"
+title: 'What Does a 50 Lb Suitcase Look Like: Visual Guide & Tips'
+description: Have you ever found yourself standing at the airport check-in counter,
+  wondering if your suitcase is over the weight limit? You're not alone. Many travelers
+  str
 pubDate: 2025-11-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-a-50-lb-suitcase-look-like&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=what-does-a-50-lb-suitcase-look-like&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself standing at the airport check-in counter, wondering if your suitcase is over the weight limit? You're not alone.**

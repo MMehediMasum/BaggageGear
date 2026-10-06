@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Tumi Backpack: Expert Tips for Spotless Care"
-description: "When you invest in a high-quality Tumi backpack, you want it to last as long as possible. But with everyday use, it's inevitable that your backpack will need a "
+title: 'How to Wash Tumi Backpack: Expert Tips for Spotless Care'
+description: 'When you invest in a high-quality Tumi backpack, you want it to last
+  as long as possible. But with everyday use, it''s inevitable that your backpack
+  will need a '
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-tumi-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-tumi-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **When you invest in a high-quality Tumi backpack, you want it to last as long as possible. But with everyday use, it's inevitable that your backpack will need a good cleaning to maintain its appearance and functionality.**

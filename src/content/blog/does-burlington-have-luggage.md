@@ -1,10 +1,14 @@
 ---
-title: "Does Burlington Have Luggage: Discover Top Travel Gear Deals Today!"
-description: "Are you planning your next getaway and wondering if Burlington has the luggage options you need? You're not alone! Many travelers like you find themselves on th"
+title: 'Does Burlington Have Luggage: Discover Top Travel Gear Deals Today!'
+description: Are you planning your next getaway and wondering if Burlington has the
+  luggage options you need? You're not alone! Many travelers like you find themselves
+  on th
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-burlington-have-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-burlington-have-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next getaway and wondering if Burlington has the luggage options you need? You're not alone!**

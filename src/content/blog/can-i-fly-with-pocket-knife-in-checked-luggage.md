@@ -1,10 +1,14 @@
 ---
-title: "Can I Fly With Pocket Knife in Checked Luggage: Essential Rules"
-description: "You're getting ready for your upcoming trip and packing your bags with all the essentials. But then you pause, holding your trusty pocket knife. You wonder, \"Ca"
+title: 'Can I Fly With Pocket Knife in Checked Luggage: Essential Rules'
+description: You're getting ready for your upcoming trip and packing your bags with
+  all the essentials. But then you pause, holding your trusty pocket knife. You wonder,
+  "Ca
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-fly-with-pocket-knife-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-fly-with-pocket-knife-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're getting ready for your upcoming trip and packing your bags with all the essentials. But then you pause, holding your trusty pocket knife.**

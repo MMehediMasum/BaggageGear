@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Microwave Broccoli in Bag: Quick & Perfect Guide"
 description: "Are you looking to make a quick and healthy meal? Microwaving broccoli in a bag might just be your new best friend! It's fast, convenient, and helps retain all "
 pubDate: 2025-10-15

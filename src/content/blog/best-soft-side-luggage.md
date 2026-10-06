@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Side Luggage: Top Expandable Options for Every Traveler"
-description: "Soft side luggage offers flexibility and lightweight convenience for travelers. This style adapts well to tight spaces and varying packing needs. Choosing the b"
+title: 'Best Soft Side Luggage: Top Expandable Options for Every Traveler'
+description: Soft side luggage offers flexibility and lightweight convenience for
+  travelers. This style adapts well to tight spaces and varying packing needs. Choosing
+  the b
 pubDate: 2026-07-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-side-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-side-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Soft side luggage offers flexibility and lightweight convenience for travelers. This style adapts well to tight spaces and varying packing needs.**

@@ -1,10 +1,14 @@
 ---
-title: "How Much Does Delta Charge for Overweight Bag: Ultimate Fee Guide"
-description: "Are you planning a trip and worried about how much Delta might charge you for an overweight bag? You’re not alone. Many travelers find themselves in this predic"
+title: 'How Much Does Delta Charge for Overweight Bag: Ultimate Fee Guide'
+description: Are you planning a trip and worried about how much Delta might charge
+  you for an overweight bag? You’re not alone. Many travelers find themselves in this
+  predic
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-delta-charge-for-overweight-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-delta-charge-for-overweight-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and worried about how much Delta might charge you for an overweight bag? You’re not alone.**

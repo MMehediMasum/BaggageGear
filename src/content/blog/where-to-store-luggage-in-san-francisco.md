@@ -1,10 +1,14 @@
 ---
-title: "Where to Store Luggage in San Francisco: Top Secure Spots Revealed"
-description: "Planning a trip to San Francisco? Whether you're exploring the iconic Golden Gate Bridge or wandering through the historic streets of Alcatraz, one thing's for "
+title: 'Where to Store Luggage in San Francisco: Top Secure Spots Revealed'
+description: 'Planning a trip to San Francisco? Whether you''re exploring the iconic
+  Golden Gate Bridge or wandering through the historic streets of Alcatraz, one thing''s
+  for '
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-san-francisco&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-san-francisco&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to San Francisco? Whether you're exploring the iconic Golden Gate Bridge or wandering through the historic streets of Alcatraz, one thing's for sure—you don't want to be weighed down by heavy luggage.**

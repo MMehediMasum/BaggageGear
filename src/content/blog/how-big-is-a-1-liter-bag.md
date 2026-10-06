@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 1 Liter Bag: Surprising Size Explained Clearly"
-description: "Have you ever wondered about the size of a 1-liter bag? Whether you're packing for a trip or organizing your home, understanding the dimensions of a 1-liter bag"
+title: 'How Big is a 1 Liter Bag: Surprising Size Explained Clearly'
+description: Have you ever wondered about the size of a 1-liter bag? Whether you're
+  packing for a trip or organizing your home, understanding the dimensions of a 1-liter
+  bag
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-1-liter-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-1-liter-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered about the size of a 1-liter bag? Whether you're packing for a trip or organizing your home, understanding the dimensions of a 1-liter bag can be incredibly useful.**

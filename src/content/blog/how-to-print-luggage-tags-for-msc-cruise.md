@@ -1,10 +1,14 @@
 ---
-title: "How to Print Luggage Tags for Msc Cruise: Quick & Easy Guide"
-description: "Planning your MSC cruise is exciting, but have you thought about your luggage tags? Printing your own MSC cruise luggage tags can save you time and stress at th"
+title: 'How to Print Luggage Tags for Msc Cruise: Quick & Easy Guide'
+description: Planning your MSC cruise is exciting, but have you thought about your
+  luggage tags? Printing your own MSC cruise luggage tags can save you time and stress
+  at th
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-print-luggage-tags-for-msc-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-print-luggage-tags-for-msc-cruise&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning your MSC cruise is exciting, but have you thought about your luggage tags? Printing your own MSC cruise luggage tags can save you time and stress at the port.**

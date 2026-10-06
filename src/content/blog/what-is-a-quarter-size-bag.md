@@ -1,10 +1,14 @@
 ---
-title: "What is a Quarter Size Bag: Ultimate Guide to Perfect Packing"
-description: "Ever found yourself at the airport security checkpoint, puzzled over what exactly a \"quarter size bag\" is? You're not alone. Many travelers face this tiny yet c"
+title: 'What is a Quarter Size Bag: Ultimate Guide to Perfect Packing'
+description: Ever found yourself at the airport security checkpoint, puzzled over
+  what exactly a "quarter size bag" is? You're not alone. Many travelers face this
+  tiny yet c
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-quarter-size-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-quarter-size-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself at the airport security checkpoint, puzzled over what exactly a "quarter size bag" is? You're not alone.**

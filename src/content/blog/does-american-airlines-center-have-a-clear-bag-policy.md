@@ -1,10 +1,14 @@
 ---
-title: "Does American Airlines Center Have a Clear Bag Policy? Essential Guide"
-description: "Are you planning to catch a game or concert at the American Airlines Center? If so, you're probably wondering about their clear bag policy. After all, no one wa"
+title: Does American Airlines Center Have a Clear Bag Policy? Essential Guide
+description: Are you planning to catch a game or concert at the American Airlines
+  Center? If so, you're probably wondering about their clear bag policy. After all,
+  no one wa
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-american-airlines-center-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-american-airlines-center-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to catch a game or concert at the American Airlines Center? If so, you're probably wondering about their clear bag policy.**

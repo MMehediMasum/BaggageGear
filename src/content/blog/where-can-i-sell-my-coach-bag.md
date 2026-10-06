@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Coach Bag: Top Trusted Sites Revealed"
-description: "Do you have a Coach bag that’s just collecting dust in your closet? Maybe it’s a style you’ve outgrown, or perhaps you’re simply ready for something new. Whatev"
+title: 'Where Can I Sell My Coach Bag: Top Trusted Sites Revealed'
+description: Do you have a Coach bag that’s just collecting dust in your closet? Maybe
+  it’s a style you’ve outgrown, or perhaps you’re simply ready for something new.
+  Whatev
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-coach-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Do you have a Coach bag that’s just collecting dust in your closet? Maybe it’s a style you’ve outgrown, or perhaps you’re simply ready for something new.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for International Travel: Top Picks for Style and Durability"
-description: "Choosing the best luggage for international travel ensures a smooth and hassle-free journey. Durable, lightweight, and easy-to-maneuver suitcases make all the d"
+title: 'Best Luggage for International Travel: Top Picks for Style and Durability'
+description: Choosing the best luggage for international travel ensures a smooth and
+  hassle-free journey. Durable, lightweight, and easy-to-maneuver suitcases make all
+  the d
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for international travel ensures a smooth and hassle-free journey. Durable, lightweight, and easy-to-maneuver suitcases make all the difference.**

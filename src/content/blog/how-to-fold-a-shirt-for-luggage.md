@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Shirt for Luggage: Expert Tips for Wrinkle-Free Packing"
-description: "Packing for a trip can be a daunting task. You want to fit everything into your luggage without turning your clothes into a wrinkled mess. Imagine opening your "
+title: 'How to Fold a Shirt for Luggage: Expert Tips for Wrinkle-Free Packing'
+description: 'Packing for a trip can be a daunting task. You want to fit everything
+  into your luggage without turning your clothes into a wrinkled mess. Imagine opening
+  your '
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-shirt-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-shirt-for-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can be a daunting task. You want to fit everything into your luggage without turning your clothes into a wrinkled mess.**

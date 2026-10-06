@@ -1,10 +1,14 @@
 ---
-title: "How to Attach Hiking Poles to Backpack: Expert Tips"
-description: "If you love hiking, you know how important it is to have your gear organized and easy to carry. But have you ever struggled with attaching your hiking poles to "
+title: 'How to Attach Hiking Poles to Backpack: Expert Tips'
+description: 'If you love hiking, you know how important it is to have your gear organized
+  and easy to carry. But have you ever struggled with attaching your hiking poles
+  to '
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-hiking-poles-to-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-hiking-poles-to-backpack&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **If you love hiking, you know how important it is to have your gear organized and easy to carry. But have you ever struggled with attaching your hiking poles to your backpack?**

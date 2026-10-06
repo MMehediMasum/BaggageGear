@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in a Boxing Bag: Essential Gear for Ultimate Training"
 description: "Have you ever wondered what's inside a boxing bag? Whether you're a seasoned boxer or just curious about the sport, understanding the contents of a boxing bag c"
 pubDate: 2025-09-19

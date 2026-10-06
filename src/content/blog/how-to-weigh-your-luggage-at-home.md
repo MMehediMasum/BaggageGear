@@ -1,10 +1,14 @@
 ---
-title: "How to Weigh Your Luggage at Home: Easy Tips for Stress-Free Travel"
-description: "Are you worried about exceeding the luggage weight limit for your upcoming trip? You’re not alone. Many travelers face surprise fees at the airport due to overw"
+title: 'How to Weigh Your Luggage at Home: Easy Tips for Stress-Free Travel'
+description: Are you worried about exceeding the luggage weight limit for your upcoming
+  trip? You’re not alone. Many travelers face surprise fees at the airport due to
+  overw
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-weigh-your-luggage-at-home&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-weigh-your-luggage-at-home&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you worried about exceeding the luggage weight limit for your upcoming trip? You’re not alone.**

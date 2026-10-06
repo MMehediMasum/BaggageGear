@@ -1,10 +1,14 @@
 ---
-title: "Does a Suit Bag Count As a Carry on United? Essential Guide!"
-description: "Are you planning a trip and wondering if your suit bag will fit into United Airlines' carry-on policy? Packing for a flight can be stressful, especially when yo"
+title: Does a Suit Bag Count As a Carry on United? Essential Guide!
+description: Are you planning a trip and wondering if your suit bag will fit into
+  United Airlines' carry-on policy? Packing for a flight can be stressful, especially
+  when yo
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-suit-bag-count-as-a-carry-on-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-a-suit-bag-count-as-a-carry-on-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if your suit bag will fit into United Airlines' carry-on policy? Packing for a flight can be stressful, especially when you're trying to keep your most important items close.**

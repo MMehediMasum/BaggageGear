@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Carts in Checked Luggage: Essential Travel Tips"
-description: "Are you planning to travel with your vape or cannabis cartridges but unsure if you can pack them in your checked luggage? You’re not alone. Many travelers worry"
+title: 'Can You Put Carts in Checked Luggage: Essential Travel Tips'
+description: Are you planning to travel with your vape or cannabis cartridges but
+  unsure if you can pack them in your checked luggage? You’re not alone. Many travelers
+  worry
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-carts-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-carts-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to travel with your vape or cannabis cartridges but unsure if you can pack them in your checked luggage? You’re not alone.**

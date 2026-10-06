@@ -1,10 +1,14 @@
 ---
-title: "What Size Deodorant for Carry On: Ultimate TSA Travel Guide"
-description: "Are you packing for your next big adventure and wondering what size deodorant you can bring in your carry-on? You’re not alone. Navigating airline regulations c"
+title: 'What Size Deodorant for Carry On: Ultimate TSA Travel Guide'
+description: Are you packing for your next big adventure and wondering what size deodorant
+  you can bring in your carry-on? You’re not alone. Navigating airline regulations
+  c
 pubDate: 2026-04-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-deodorant-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=what-size-deodorant-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your next big adventure and wondering what size deodorant you can bring in your carry-on? You’re not alone.**

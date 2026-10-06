@@ -1,10 +1,14 @@
 ---
-title: "Best Water Bottle Filter for International Travel: Top Picks for Purity"
-description: "Choosing the best water bottle filter for international travel ensures safe drinking water anywhere. Clean water matters most during trips abroad. Traveling to "
+title: 'Best Water Bottle Filter for International Travel: Top Picks for Purity'
+description: 'Choosing the best water bottle filter for international travel ensures
+  safe drinking water anywhere. Clean water matters most during trips abroad. Traveling
+  to '
 pubDate: 2026-05-15
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-water-bottle-filter-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Water Bottles
+heroImage: https://tse1.mm.bing.net/th?q=best-water-bottle-filter-for-international-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best water bottle filter for international travel ensures safe drinking water anywhere. Clean water matters most during trips abroad.**

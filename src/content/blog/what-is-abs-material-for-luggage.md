@@ -1,10 +1,13 @@
 ---
-title: "What is Abs Material for Luggage: Ultimate Durability Explained"
-description: "Have you ever wondered what makes your luggage both lightweight and durable? If you're planning your next adventure or simply searching for a reliable suitcase,"
+title: 'What is Abs Material for Luggage: Ultimate Durability Explained'
+description: Have you ever wondered what makes your luggage both lightweight and durable?
+  If you're planning your next adventure or simply searching for a reliable suitcase,
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-abs-material-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Vs Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-abs-material-for-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered what makes your luggage both lightweight and durable? If you're planning your next adventure or simply searching for a reliable suitcase, understanding the material it’s made from can make all the difference.**

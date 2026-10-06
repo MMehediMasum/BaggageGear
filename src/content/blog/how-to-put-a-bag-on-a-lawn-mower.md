@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put a Bag on a Lawn Mower: Easy Steps for Clean Lawns"
 description: "Are you ready to take your lawn care game to the next level? If you’ve ever found yourself battling with grass clippings scattered all over your yard, you’re no"
 pubDate: 2026-01-30

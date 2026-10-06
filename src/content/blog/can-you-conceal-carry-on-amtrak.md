@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Conceal Carry on Amtrak: Essential Rules You Must Know"
 description: "Thinking about taking a train trip with Amtrak and wondering if you can conceal carry your firearm during your journey? You're not alone. Many travelers like yo"
 pubDate: 2025-12-30

@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Roam Luggage: Top Trusted Stores Revealed"
-description: "Are you on the hunt for the perfect travel companion? Roam Luggage might just be what you need. Known for its sleek design and durable build, Roam Luggage is th"
+title: 'Where to Buy Roam Luggage: Top Trusted Stores Revealed'
+description: Are you on the hunt for the perfect travel companion? Roam Luggage might
+  just be what you need. Known for its sleek design and durable build, Roam Luggage
+  is th
 pubDate: 2026-04-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-roam-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-roam-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? Roam Luggage might just be what you need.**

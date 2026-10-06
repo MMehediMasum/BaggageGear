@@ -1,10 +1,14 @@
 ---
-title: "Does Alaska Airlines Charge for Carry on Bags? Truth Revealed!"
-description: "Planning a trip and curious about baggage fees? You’re not alone. Many travelers wonder, \"Does Alaska Airlines charge for carry-on bags? \" This is a crucial que"
+title: Does Alaska Airlines Charge for Carry on Bags? Truth Revealed!
+description: Planning a trip and curious about baggage fees? You’re not alone. Many
+  travelers wonder, "Does Alaska Airlines charge for carry-on bags? " This is a crucial
+  que
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-alaska-airlines-charge-for-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-alaska-airlines-charge-for-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip and curious about baggage fees? You’re not alone.**

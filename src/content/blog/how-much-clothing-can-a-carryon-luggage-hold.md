@@ -1,10 +1,13 @@
 ---
-title: "How Much Clothing Can a Carryon Luggage Hold: Maximize Your Packing!"
-description: "Ever found yourself staring at an empty carry-on, wondering how to fit a week's worth of clothing into such a small space? You're not alone. Packing efficiently"
+title: 'How Much Clothing Can a Carryon Luggage Hold: Maximize Your Packing!'
+description: Ever found yourself staring at an empty carry-on, wondering how to fit
+  a week's worth of clothing into such a small space? You're not alone. Packing efficiently
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-clothing-can-a-carryon-luggage-hold&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=how-much-clothing-can-a-carryon-luggage-hold&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself staring at an empty carry-on, wondering how to fit a week's worth of clothing into such a small space? You're not alone.**

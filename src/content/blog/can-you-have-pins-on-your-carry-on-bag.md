@@ -1,10 +1,14 @@
 ---
-title: "Can You Have Pins on Your Carry on Bag: Essential Travel Rules Revealed"
-description: "You're preparing for your next trip and every detail counts. As you pack your carry-on bag, a question pops into your mind: \"Can you have pins on your carry-on "
+title: 'Can You Have Pins on Your Carry on Bag: Essential Travel Rules Revealed'
+description: 'You''re preparing for your next trip and every detail counts. As you
+  pack your carry-on bag, a question pops into your mind: "Can you have pins on your
+  carry-on '
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-have-pins-on-your-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Pins Patches And Keychains
+heroImage: https://tse1.mm.bing.net/th?q=can-you-have-pins-on-your-carry-on-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You're preparing for your next trip and every detail counts. As you pack your carry-on bag, a question pops into your mind: "Can you have pins on your carry-on bag?"**

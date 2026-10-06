@@ -1,10 +1,13 @@
 ---
-title: "Best Power Adapter for Switzerland: Top Picks for Hassle-Free Travel"
-description: "Traveling to Switzerland requires the right power adapter to charge your devices safely. Switzerland uses Type J plugs with unique sockets and voltage. Choosing"
+title: 'Best Power Adapter for Switzerland: Top Picks for Hassle-Free Travel'
+description: Traveling to Switzerland requires the right power adapter to charge your
+  devices safely. Switzerland uses Type J plugs with unique sockets and voltage. Choosing
 pubDate: 2026-06-04
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-switzerland&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-switzerland&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Switzerland requires the right power adapter to charge your devices safely. Switzerland uses Type J plugs with unique sockets and voltage.**

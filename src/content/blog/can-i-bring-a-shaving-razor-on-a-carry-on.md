@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Shaving Razor on a Carry On: TSA Rules Explained"
-description: "Traveling can be a puzzle, especially when it comes to what you can and can't bring in your carry-on luggage. One common question is: \"Can I bring a shaving raz"
+title: 'Can I Bring a Shaving Razor on a Carry On: TSA Rules Explained'
+description: 'Traveling can be a puzzle, especially when it comes to what you can
+  and can''t bring in your carry-on luggage. One common question is: "Can I bring
+  a shaving raz'
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-shaving-razor-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-shaving-razor-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a puzzle, especially when it comes to what you can and can't bring in your carry-on luggage. One common question is: "Can I bring a shaving razor on a carry-on?"**

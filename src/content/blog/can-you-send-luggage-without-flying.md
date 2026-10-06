@@ -1,10 +1,14 @@
 ---
-title: "Can You Send Luggage Without Flying: Easy Shipping Solutions Explained"
-description: "Have you ever dreamt of traveling without the hassle of lugging around heavy suitcases? Imagine arriving at your destination, free of stress and with your hands"
+title: 'Can You Send Luggage Without Flying: Easy Shipping Solutions Explained'
+description: Have you ever dreamt of traveling without the hassle of lugging around
+  heavy suitcases? Imagine arriving at your destination, free of stress and with your
+  hands
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-send-luggage-without-flying&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-you-send-luggage-without-flying&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever dreamt of traveling without the hassle of lugging around heavy suitcases? Imagine arriving at your destination, free of stress and with your hands unburdened.**

@@ -1,10 +1,14 @@
 ---
-title: "How Much Does It Cost to Ship Luggage With UPS: Ultimate Guide"
-description: "Are you planning a trip and wondering how to avoid the hassle of dragging your luggage through crowded airports? Shipping your luggage with UPS could be the str"
+title: 'How Much Does It Cost to Ship Luggage With UPS: Ultimate Guide'
+description: Are you planning a trip and wondering how to avoid the hassle of dragging
+  your luggage through crowded airports? Shipping your luggage with UPS could be the
+  str
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-ship-luggage-with-ups&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-ship-luggage-with-ups&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and wondering how to avoid the hassle of dragging your luggage through crowded airports? Shipping your luggage with UPS could be the stress-free solution you need.**

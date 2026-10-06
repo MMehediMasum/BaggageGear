@@ -1,10 +1,13 @@
 ---
-title: "How Much is Flair Carry On: Ultimate Cost Guide Revealed"
-description: "Are you planning your next adventure and wondering, \"How much is Flair carry on?\" You're not alone. With so many airlines offering different pricing structures,"
+title: 'How Much is Flair Carry On: Ultimate Cost Guide Revealed'
+description: Are you planning your next adventure and wondering, "How much is Flair
+  carry on?" You're not alone. With so many airlines offering different pricing structures,
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-flair-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-flair-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and wondering, "How much is Flair carry on?" You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Luggage for Bed Bugs: Ultimate Guide to Stay Bug-Free"
-description: "Imagine this: you’ve just returned from a wonderful trip, filled with unforgettable memories and countless photos. But lurking in your suitcase might be some un"
+title: 'How to Clean Luggage for Bed Bugs: Ultimate Guide to Stay Bug-Free'
+description: 'Imagine this: you’ve just returned from a wonderful trip, filled with
+  unforgettable memories and countless photos. But lurking in your suitcase might
+  be some un'
 pubDate: 2026-03-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-luggage-for-bed-bugs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-luggage-for-bed-bugs&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you’ve just returned from a wonderful trip, filled with unforgettable memories and countless photos. But lurking in your suitcase might be some unwanted stowaways—bed bugs.**

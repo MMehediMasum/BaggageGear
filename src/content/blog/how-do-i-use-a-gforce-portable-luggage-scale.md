@@ -1,10 +1,14 @@
 ---
-title: "How Do I Use a Gforce Portable Luggage Scale: Easy Step-by-Step Guide"
-description: "Have you ever faced the stress of a last-minute luggage weigh-in at the airport? You know the scene: anxiously shifting items between suitcases on the airport f"
+title: 'How Do I Use a Gforce Portable Luggage Scale: Easy Step-by-Step Guide'
+description: 'Have you ever faced the stress of a last-minute luggage weigh-in at
+  the airport? You know the scene: anxiously shifting items between suitcases on the
+  airport f'
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-do-i-use-a-gforce-portable-luggage-scale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-do-i-use-a-gforce-portable-luggage-scale&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever faced the stress of a last-minute luggage weigh-in at the airport? You know the scene: anxiously shifting items between suitcases on the airport floor to avoid those dreaded overweight fees.**

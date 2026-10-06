@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Liquids in Checked Luggage: Essential Rules to Know"
-description: "Are you planning a trip and wondering about packing liquids in your checked luggage? It's a common dilemma many travelers face. You might be concerned about bre"
+title: 'Can I Put Liquids in Checked Luggage: Essential Rules to Know'
+description: Are you planning a trip and wondering about packing liquids in your checked
+  luggage? It's a common dilemma many travelers face. You might be concerned about
+  bre
 pubDate: 2025-11-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-liquids-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-liquids-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering about packing liquids in your checked luggage? It's a common dilemma many travelers face.**

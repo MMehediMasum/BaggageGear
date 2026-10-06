@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Put Bag Balm on Dogs: Safe Uses and Expert Tips"
 description: "Imagine finding a miracle ointment that promises to soothe your dog’s dry, cracked paws or irritated skin. Bag Balm, a product originally designed for cows, has"
 pubDate: 2025-12-23

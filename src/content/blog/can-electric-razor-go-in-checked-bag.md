@@ -1,10 +1,13 @@
 ---
-title: "Can Electric Razor Go in Checked Bag: Travel Safety Tips Revealed"
-description: "Are you planning your next trip and wondering if you can pack your electric razor in your checked bag? Whether you're a frequent flyer or preparing for a specia"
+title: 'Can Electric Razor Go in Checked Bag: Travel Safety Tips Revealed'
+description: Are you planning your next trip and wondering if you can pack your electric
+  razor in your checked bag? Whether you're a frequent flyer or preparing for a specia
 pubDate: 2025-11-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-electric-razor-go-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-electric-razor-go-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering if you can pack your electric razor in your checked bag? Whether you're a frequent flyer or preparing for a special getaway, understanding the rules about packing personal items like electric razors can save you from unnecessary stress.**

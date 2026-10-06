@@ -1,10 +1,14 @@
 ---
-title: "How Much is an Extra Bag on Delta Airlines: Ultimate Cost Guide"
-description: "Planning a trip with Delta Airlines and wondering about the cost of bringing an extra bag? You’re in the right place. We all know that packing can be tricky, es"
+title: 'How Much is an Extra Bag on Delta Airlines: Ultimate Cost Guide'
+description: Planning a trip with Delta Airlines and wondering about the cost of bringing
+  an extra bag? You’re in the right place. We all know that packing can be tricky,
+  es
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-an-extra-bag-on-delta-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-an-extra-bag-on-delta-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Delta Airlines and wondering about the cost of bringing an extra bag? You’re in the right place.**

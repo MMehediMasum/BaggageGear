@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Thc Pen in a Carry-On Bag: Essential Travel Tips"
-description: "Navigating airport security can be a stressful experience, especially when you’re unsure about what’s allowed in your carry-on bag. If you’re wondering whether "
+title: 'Can You Bring a Thc Pen in a Carry-On Bag: Essential Travel Tips'
+description: 'Navigating airport security can be a stressful experience, especially
+  when you’re unsure about what’s allowed in your carry-on bag. If you’re wondering
+  whether '
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-thc-pen-in-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-thc-pen-in-a-carry-on-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can be a stressful experience, especially when you’re unsure about what’s allowed in your carry-on bag. If you’re wondering whether you can bring a THC pen on your flight, you're not alone.**

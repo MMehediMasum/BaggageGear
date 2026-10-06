@@ -1,10 +1,14 @@
 ---
-title: "Are Handheld Luggage Scales Accurate: Truth Revealed!"
-description: "Are you tired of guessing whether your luggage is overweight before you hit the airport? The anxiety of facing extra fees or the hassle of repacking at the chec"
+title: 'Are Handheld Luggage Scales Accurate: Truth Revealed!'
+description: Are you tired of guessing whether your luggage is overweight before you
+  hit the airport? The anxiety of facing extra fees or the hassle of repacking at
+  the chec
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-handheld-luggage-scales-accurate&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-handheld-luggage-scales-accurate&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of guessing whether your luggage is overweight before you hit the airport? The anxiety of facing extra fees or the hassle of repacking at the check-in counter is all too familiar.**

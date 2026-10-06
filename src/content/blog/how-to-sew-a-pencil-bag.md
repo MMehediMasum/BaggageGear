@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Sew a Pencil Bag: Easy Steps for Stylish DIY Craft"
 description: "Are you tired of cluttered bags and endless searches for a pen or pencil? Imagine having a custom-made pencil bag that not only keeps your stationery organized "
 pubDate: 2025-10-26

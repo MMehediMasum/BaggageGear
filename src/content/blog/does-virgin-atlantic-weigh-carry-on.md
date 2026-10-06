@@ -1,10 +1,14 @@
 ---
-title: "Does Virgin Atlantic Weigh Carry On? Essential Travel Tips Revealed"
-description: "Have you ever wondered if your carry-on bag might cause you an unexpected delay at the airport? If you're flying with Virgin Atlantic, you might be curious abou"
+title: Does Virgin Atlantic Weigh Carry On? Essential Travel Tips Revealed
+description: Have you ever wondered if your carry-on bag might cause you an unexpected
+  delay at the airport? If you're flying with Virgin Atlantic, you might be curious
+  abou
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-virgin-atlantic-weigh-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=does-virgin-atlantic-weigh-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever wondered if your carry-on bag might cause you an unexpected delay at the airport? If you're flying with Virgin Atlantic, you might be curious about their policies regarding carry-on weight.**

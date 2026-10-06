@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wrap a Textbook in a Paper Bag: Easy Steps for Perfect Covering"
 description: "Do you remember the thrill of starting a new school year? Fresh supplies, crisp notebooks, and the classic task of covering your textbooks. While some see it as"
 pubDate: 2026-03-09

@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Canvas Tote Bag Weigh: Ultimate Weight Guide"
-description: "Are you considering a canvas tote bag for your daily needs but wondering how much it might weigh? You're not alone. Whether you're using it for groceries, schoo"
+title: 'How Much Does a Canvas Tote Bag Weigh: Ultimate Weight Guide'
+description: Are you considering a canvas tote bag for your daily needs but wondering
+  how much it might weigh? You're not alone. Whether you're using it for groceries,
+  schoo
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-canvas-tote-bag-weigh&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-canvas-tote-bag-weigh&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you considering a canvas tote bag for your daily needs but wondering how much it might weigh? You're not alone.**

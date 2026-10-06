@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Cold Brew Coffee? The Ultimate Guide to Smoother, Low-Acid Coffee"
 description: "For years, coffee drinkers have been chasing a perfect cup—one that's bold, rich, and complex without the bitterness or acidity that can leave coffee lovers rea"
 pubDate: 2026-08-17

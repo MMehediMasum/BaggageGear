@@ -1,10 +1,14 @@
 ---
-title: "How Much was a Birkin Bag in 2005: Unveiling the Iconic Price"
-description: "Have you ever wondered about the price tag of luxury fashion items in the past? Let's take a trip down memory lane to 2005, a year when the world was buzzing wi"
+title: 'How Much was a Birkin Bag in 2005: Unveiling the Iconic Price'
+description: Have you ever wondered about the price tag of luxury fashion items in
+  the past? Let's take a trip down memory lane to 2005, a year when the world was
+  buzzing wi
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-was-a-birkin-bag-in-2005&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-was-a-birkin-bag-in-2005&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever wondered about the price tag of luxury fashion items in the past? Let's take a trip down memory lane to 2005, a year when the world was buzzing with new trends and styles.**

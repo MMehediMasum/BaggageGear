@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Shaving Cream in My Carry on: Essential Travel Tips"
-description: "Are you gearing up for your next adventure, but stuck wondering if you can bring shaving cream in your carry-on? If so, you're not alone. Navigating airport sec"
+title: 'Can I Bring Shaving Cream in My Carry on: Essential Travel Tips'
+description: Are you gearing up for your next adventure, but stuck wondering if you
+  can bring shaving cream in your carry-on? If so, you're not alone. Navigating airport
+  sec
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-shaving-cream-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-shaving-cream-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next adventure, but stuck wondering if you can bring shaving cream in your carry-on? If so, you're not alone.**

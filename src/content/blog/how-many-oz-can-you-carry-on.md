@@ -1,10 +1,14 @@
 ---
-title: "How Many Oz Can You Carry on: Ultimate Guide to TSA Rules"
-description: "Have you ever stood in line at airport security, anxiously wondering if your carefully packed carry-on might not pass the test? The question of how many ounces "
+title: 'How Many Oz Can You Carry on: Ultimate Guide to TSA Rules'
+description: 'Have you ever stood in line at airport security, anxiously wondering
+  if your carefully packed carry-on might not pass the test? The question of how many
+  ounces '
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-oz-can-you-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-oz-can-you-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood in line at airport security, anxiously wondering if your carefully packed carry-on might not pass the test? The question of how many ounces you can carry on a plane is one that many travelers find themselves pondering.**

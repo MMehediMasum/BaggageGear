@@ -1,10 +1,14 @@
 ---
-title: "Are Hair Straighteners Allowed in Carry On: Travel Rules Explained"
-description: "Have you ever stood at your suitcase, hair straightener in hand, wondering if you can take it in your carry-on? You're not alone. This is a common question that"
+title: 'Are Hair Straighteners Allowed in Carry On: Travel Rules Explained'
+description: Have you ever stood at your suitcase, hair straightener in hand, wondering
+  if you can take it in your carry-on? You're not alone. This is a common question
+  that
 pubDate: 2025-10-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-hair-straighteners-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-hair-straighteners-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at your suitcase, hair straightener in hand, wondering if you can take it in your carry-on? You're not alone.**

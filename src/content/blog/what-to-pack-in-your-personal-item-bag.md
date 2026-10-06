@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Your Personal Item Bag: Ultimate Travel Essentials Guide"
-description: "Packing for a trip can feel like a puzzle, especially when it comes to your personal item bag. You might be wondering, \"What exactly should I include?\" This bag"
+title: 'What to Pack in Your Personal Item Bag: Ultimate Travel Essentials Guide'
+description: Packing for a trip can feel like a puzzle, especially when it comes to
+  your personal item bag. You might be wondering, "What exactly should I include?"
+  This bag
 pubDate: 2026-04-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-your-personal-item-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-your-personal-item-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Packing for a trip can feel like a puzzle, especially when it comes to your personal item bag. You might be wondering, "What exactly should I include?"**

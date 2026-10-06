@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Wine in Checked Bag: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can bring your favorite bottle of wine along? You’re not alone. Many travelers face this dilemma, especially when t"
+title: 'Can You Fly With Wine in Checked Bag: Essential Travel Tips'
+description: Are you planning a trip and wondering if you can bring your favorite
+  bottle of wine along? You’re not alone. Many travelers face this dilemma, especially
+  when t
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-wine-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-wine-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring your favorite bottle of wine along? You’re not alone.**

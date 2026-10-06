@@ -1,10 +1,14 @@
 ---
-title: "Can You Lock Your Luggage When Flying: Essential Security Tips"
-description: "Ever found yourself wondering if you can lock your luggage when flying? You're not alone. With the hustle and bustle of travel, it's crucial to know how to keep"
+title: 'Can You Lock Your Luggage When Flying: Essential Security Tips'
+description: Ever found yourself wondering if you can lock your luggage when flying?
+  You're not alone. With the hustle and bustle of travel, it's crucial to know how
+  to keep
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-lock-your-luggage-when-flying&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-lock-your-luggage-when-flying&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever found yourself wondering if you can lock your luggage when flying? You're not alone.**

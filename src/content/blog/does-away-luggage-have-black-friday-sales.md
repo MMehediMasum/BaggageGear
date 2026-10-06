@@ -1,10 +1,14 @@
 ---
-title: "Does Away Luggage Have Black Friday Sales: Unbeatable Deals Revealed!"
-description: "Imagine scoring the perfect luggage for your next adventure at a fraction of the price. Sounds exciting, right? With Black Friday just around the corner, you mi"
+title: 'Does Away Luggage Have Black Friday Sales: Unbeatable Deals Revealed!'
+description: Imagine scoring the perfect luggage for your next adventure at a fraction
+  of the price. Sounds exciting, right? With Black Friday just around the corner,
+  you mi
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-away-luggage-have-black-friday-sales&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-away-luggage-have-black-friday-sales&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine scoring the perfect luggage for your next adventure at a fraction of the price. Sounds exciting, right?**

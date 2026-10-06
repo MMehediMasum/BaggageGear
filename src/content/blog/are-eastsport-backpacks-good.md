@@ -1,10 +1,14 @@
 ---
-title: "Are Eastsport Backpacks Good: Ultimate Review & Top Benefits"
-description: "Are you on the hunt for a backpack that combines style, durability, and affordability? If so, you might have stumbled across Eastsport backpacks in your search."
+title: 'Are Eastsport Backpacks Good: Ultimate Review & Top Benefits'
+description: Are you on the hunt for a backpack that combines style, durability, and
+  affordability? If so, you might have stumbled across Eastsport backpacks in your
+  search.
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-eastsport-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-eastsport-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a backpack that combines style, durability, and affordability? If so, you might have stumbled across Eastsport backpacks in your search.**

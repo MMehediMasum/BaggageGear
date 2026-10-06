@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Duffel Bags for Men: Stylish Travel Companions"
-description: "Leather duffel bags combine style, durability, and practicality for men on the move. These bags suit travel, gym, and weekend trips perfectly. Choosing the righ"
+title: 'Best Leather Duffel Bags for Men: Stylish Travel Companions'
+description: Leather duffel bags combine style, durability, and practicality for men
+  on the move. These bags suit travel, gym, and weekend trips perfectly. Choosing
+  the righ
 pubDate: 2026-06-16
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-duffel-bags-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-duffel-bags-for-men&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Leather duffel bags combine style, durability, and practicality for men on the move. These bags suit travel, gym, and weekend trips perfectly.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Duffel Bag for Sleepaway Camp: Top Picks for Durability & Space"
-description: "Choosing the best duffel bag for sleepaway camp makes packing easier and keeps belongings safe. A good duffel bag should be strong, roomy, and easy to carry. Sl"
+title: 'Best Duffel Bag for Sleepaway Camp: Top Picks for Durability & Space'
+description: Choosing the best duffel bag for sleepaway camp makes packing easier
+  and keeps belongings safe. A good duffel bag should be strong, roomy, and easy to
+  carry. Sl
 pubDate: 2025-11-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-sleepaway-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-sleepaway-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best duffel bag for sleepaway camp makes packing easier and keeps belongings safe. A good duffel bag should be strong, roomy, and easy to carry.**

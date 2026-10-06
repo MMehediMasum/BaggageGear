@@ -1,10 +1,14 @@
 ---
-title: "Best Trunks for Summer Camp: Secure and Durable Storage Solutions"
-description: "Choosing the best trunks for summer camp helps keep belongings safe and organized. Durable trunks with wheels and locks make packing and moving easier. Summer c"
+title: 'Best Trunks for Summer Camp: Secure and Durable Storage Solutions'
+description: Choosing the best trunks for summer camp helps keep belongings safe and
+  organized. Durable trunks with wheels and locks make packing and moving easier.
+  Summer c
 pubDate: 2026-05-26
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-trunks-for-summer-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-trunks-for-summer-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best trunks for summer camp helps keep belongings safe and organized. Durable trunks with wheels and locks make packing and moving easier.**

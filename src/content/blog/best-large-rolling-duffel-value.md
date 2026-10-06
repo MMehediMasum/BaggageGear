@@ -1,10 +1,14 @@
 ---
-title: "Best Large Rolling Duffel Value: Top Picks for Travelers' Needs"
-description: "Finding the best large rolling duffel bag that offers great value can save time and money. Rolling duffels combine space, durability, and easy transport for tra"
+title: 'Best Large Rolling Duffel Value: Top Picks for Travelers'' Needs'
+description: Finding the best large rolling duffel bag that offers great value can
+  save time and money. Rolling duffels combine space, durability, and easy transport
+  for tra
 pubDate: 2026-06-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-rolling-duffel-value&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-large-rolling-duffel-value&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best large rolling duffel bag that offers great value can save time and money. Rolling duffels combine space, durability, and easy transport for travelers.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When to Empty a Colostomy Bag: Essential Tips for Comfort"
 description: "Are you navigating the world of colostomy care and wondering exactly when to empty a colostomy bag? You're not alone. Managing a colostomy can seem overwhelming"
 pubDate: 2025-10-15

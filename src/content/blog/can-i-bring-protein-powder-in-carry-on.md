@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Protein Powder in Carry On: Ultimate TSA Travel Guide"
-description: "Picture this: you're packing for your next adventure, excited to explore new places, but there's one thing on your mind. You want to maintain your fitness routi"
+title: 'Can I Bring Protein Powder in Carry On: Ultimate TSA Travel Guide'
+description: 'Picture this: you''re packing for your next adventure, excited to explore
+  new places, but there''s one thing on your mind. You want to maintain your fitness
+  routi'
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-protein-powder-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-protein-powder-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're packing for your next adventure, excited to explore new places, but there's one thing on your mind. You want to maintain your fitness routine while traveling and your trusty protein powder is a must-have.**

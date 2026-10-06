@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Patent Leather Bag: Easy Steps for a Shiny Finish"
-description: "Your patent leather bag is more than just an accessory; it's a statement of style and sophistication. But maintaining its glossy sheen can sometimes feel like a"
+title: 'How to Clean a Patent Leather Bag: Easy Steps for a Shiny Finish'
+description: Your patent leather bag is more than just an accessory; it's a statement
+  of style and sophistication. But maintaining its glossy sheen can sometimes feel
+  like a
 pubDate: 2025-10-17
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-patent-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-patent-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your patent leather bag is more than just an accessory; it's a statement of style and sophistication. But maintaining its glossy sheen can sometimes feel like a daunting task, especially when everyday use leaves behind smudges or marks.**

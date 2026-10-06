@@ -1,10 +1,14 @@
 ---
-title: "Best Passport Wallet for Travel: Top RFID Blocking Organizers Reviewed"
-description: "Choosing the best passport wallet makes travel safer and easier. It keeps your passport, cards, and cash organized and protected. A good passport wallet helps y"
+title: 'Best Passport Wallet for Travel: Top RFID Blocking Organizers Reviewed'
+description: Choosing the best passport wallet makes travel safer and easier. It keeps
+  your passport, cards, and cash organized and protected. A good passport wallet helps
+  y
 pubDate: 2026-06-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-passport-wallet-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Wallets And Passport Holders
+heroImage: https://tse1.mm.bing.net/th?q=best-passport-wallet-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best passport wallet makes travel safer and easier. It keeps your passport, cards, and cash organized and protected.**

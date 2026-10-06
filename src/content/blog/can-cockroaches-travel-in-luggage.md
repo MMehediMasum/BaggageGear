@@ -1,10 +1,14 @@
 ---
-title: "Can Cockroaches Travel in Luggage: Shocking Truth Revealed!"
-description: "Imagine this: You’re unpacking your suitcase after a fabulous trip, and suddenly, something scuttles across your belongings. It's not the kind of souvenir you w"
+title: 'Can Cockroaches Travel in Luggage: Shocking Truth Revealed!'
+description: 'Imagine this: You’re unpacking your suitcase after a fabulous trip,
+  and suddenly, something scuttles across your belongings. It''s not the kind of souvenir
+  you w'
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-cockroaches-travel-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=can-cockroaches-travel-in-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You’re unpacking your suitcase after a fabulous trip, and suddenly, something scuttles across your belongings. It's not the kind of souvenir you were hoping for—a cockroach.**

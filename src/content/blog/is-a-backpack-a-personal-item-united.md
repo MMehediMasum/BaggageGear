@@ -1,10 +1,14 @@
 ---
-title: "Is a Backpack a Personal Item United Airlines? Ultimate Guide"
-description: "Are you planning your next flight and wondering if your trusty backpack counts as a personal item on United Airlines? It’s a question many travelers ask because"
+title: Is a Backpack a Personal Item United Airlines? Ultimate Guide
+description: Are you planning your next flight and wondering if your trusty backpack
+  counts as a personal item on United Airlines? It’s a question many travelers ask
+  because
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next flight and wondering if your trusty backpack counts as a personal item on United Airlines? It’s a question many travelers ask because knowing this can save you money and avoid last-minute hassles at the gate.**

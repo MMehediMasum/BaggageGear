@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Pocket Knife in Checked Luggage: Essential Travel Rules"
-description: "Are you packing for your upcoming adventure and wondering if you can stash your trusty pocket knife in your checked luggage? This common question leaves many tr"
+title: 'Can You Put a Pocket Knife in Checked Luggage: Essential Travel Rules'
+description: Are you packing for your upcoming adventure and wondering if you can
+  stash your trusty pocket knife in your checked luggage? This common question leaves
+  many tr
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-pocket-knife-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-pocket-knife-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your upcoming adventure and wondering if you can stash your trusty pocket knife in your checked luggage? This common question leaves many travelers scratching their heads, unsure of the rules and regulations.**

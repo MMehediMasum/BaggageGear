@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for 3 Weeks in Europe: Top 3-Piece Suitcase Sets"
-description: "Packing for a three-week trip in Europe needs the right luggage. Choosing the best suitcase set makes travel easier and more organized. Traveling for three week"
+title: 'Best Luggage for 3 Weeks in Europe: Top 3-Piece Suitcase Sets'
+description: Packing for a three-week trip in Europe needs the right luggage. Choosing
+  the best suitcase set makes travel easier and more organized. Traveling for three
+  week
 pubDate: 2025-09-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-3-weeks-in-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-3-weeks-in-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a three-week trip in Europe needs the right luggage. Choosing the best suitcase set makes travel easier and more organized.**

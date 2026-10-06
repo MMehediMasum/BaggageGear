@@ -1,10 +1,14 @@
 ---
-title: "Best International Size Carry On Luggage for Effortless Travel and Durability"
-description: "Choosing the best international size carry-on luggage ensures hassle-free travel across airlines. The right bag fits size rules and offers durability and conven"
+title: Best International Size Carry On Luggage for Effortless Travel and Durability
+description: Choosing the best international size carry-on luggage ensures hassle-free
+  travel across airlines. The right bag fits size rules and offers durability and
+  conven
 pubDate: 2026-08-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-international-size-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-international-size-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best international size carry-on luggage ensures hassle-free travel across airlines. The right bag fits size rules and offers durability and convenience.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Remove Stains from Nylon Bag: Easy & Effective Tips"
-description: "Got a pesky stain on your favorite nylon bag? You're not alone. Nylon bags are stylish and durable, but they seem to attract stains like a magnet. Whether it's "
+title: 'How to Remove Stains from Nylon Bag: Easy & Effective Tips'
+description: 'Got a pesky stain on your favorite nylon bag? You''re not alone. Nylon
+  bags are stylish and durable, but they seem to attract stains like a magnet. Whether
+  it''s '
 pubDate: 2025-10-22
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-remove-stains-from-nylon-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-remove-stains-from-nylon-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Got a pesky stain on your favorite nylon bag? You're not alone.**

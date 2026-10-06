@@ -1,10 +1,14 @@
 ---
-title: "How to Authenticate a Coach Bag: Expert Tips to Spot Fakes Fast"
-description: "Have you ever spotted a stunning Coach bag and wondered if it's the real deal? With so many replicas flooding the market, distinguishing between authentic and c"
+title: 'How to Authenticate a Coach Bag: Expert Tips to Spot Fakes Fast'
+description: Have you ever spotted a stunning Coach bag and wondered if it's the real
+  deal? With so many replicas flooding the market, distinguishing between authentic
+  and c
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-authenticate-a-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-authenticate-a-coach-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever spotted a stunning Coach bag and wondered if it's the real deal? With so many replicas flooding the market, distinguishing between authentic and counterfeit can feel like a daunting task.**

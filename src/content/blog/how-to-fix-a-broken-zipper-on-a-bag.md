@@ -1,10 +1,14 @@
 ---
-title: "How to Fix a Broken Zipper on a Bag: Easy DIY Repair Tips"
-description: "Picture this: you're about to head out for the day, you reach for your favorite bag, and—disaster strikes—the zipper is stuck or broken! We've all been there, a"
+title: 'How to Fix a Broken Zipper on a Bag: Easy DIY Repair Tips'
+description: 'Picture this: you''re about to head out for the day, you reach for your
+  favorite bag, and—disaster strikes—the zipper is stuck or broken! We''ve all been
+  there, a'
 pubDate: 2025-11-04
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fix-a-broken-zipper-on-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Fixing Backpack Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fix-a-broken-zipper-on-a-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're about to head out for the day, you reach for your favorite bag, and—disaster strikes—the zipper is stuck or broken! We've all been there, and it’s incredibly frustrating.**

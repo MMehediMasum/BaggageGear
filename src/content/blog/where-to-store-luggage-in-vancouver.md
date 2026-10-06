@@ -1,10 +1,14 @@
 ---
-title: "Where to Store Luggage in Vancouver: Top Secure & Affordable Spots"
-description: "Imagine this: You've just arrived in Vancouver, ready to explore the vibrant cityscape, indulge in its culinary delights, and soak in the stunning views. But th"
+title: 'Where to Store Luggage in Vancouver: Top Secure & Affordable Spots'
+description: 'Imagine this: You''ve just arrived in Vancouver, ready to explore the
+  vibrant cityscape, indulge in its culinary delights, and soak in the stunning views.
+  But th'
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-vancouver&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-vancouver&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You've just arrived in Vancouver, ready to explore the vibrant cityscape, indulge in its culinary delights, and soak in the stunning views. But there's one problem—your luggage is holding you back.**

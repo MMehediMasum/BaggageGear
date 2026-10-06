@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Backpack to Jury Duty: Essential Tips You Need"
-description: "Wondering if you can bring a backpack to jury duty? You’re not alone. Many people face this question and are unsure of the rules when preparing for their civic "
+title: 'Can I Bring a Backpack to Jury Duty: Essential Tips You Need'
+description: 'Wondering if you can bring a backpack to jury duty? You’re not alone.
+  Many people face this question and are unsure of the rules when preparing for their
+  civic '
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-jury-duty&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-jury-duty&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Wondering if you can bring a backpack to jury duty? You’re not alone.**

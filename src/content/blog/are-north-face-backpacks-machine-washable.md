@@ -1,10 +1,14 @@
 ---
-title: "Are North Face Backpacks Machine Washable: Essential Cleaning Tips"
-description: "Are you staring at your beloved North Face backpack, wondering if it's time for a refresh? Maybe it's accumulated some dirt from your last outdoor adventure or "
+title: 'Are North Face Backpacks Machine Washable: Essential Cleaning Tips'
+description: 'Are you staring at your beloved North Face backpack, wondering if it''s
+  time for a refresh? Maybe it''s accumulated some dirt from your last outdoor adventure
+  or '
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-north-face-backpacks-machine-washable&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=are-north-face-backpacks-machine-washable&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you staring at your beloved North Face backpack, wondering if it's time for a refresh? Maybe it's accumulated some dirt from your last outdoor adventure or you spilled a little coffee on it during your morning commute.**

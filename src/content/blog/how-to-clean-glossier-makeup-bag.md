@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Glossier Makeup Bag: Expert Tips"
-description: "Your Glossier makeup bag is more than just a pouch—it holds your favorite beauty essentials and reflects your style. But over time, it can get dirty, stained, a"
+title: 'How to Clean Glossier Makeup Bag: Expert Tips'
+description: Your Glossier makeup bag is more than just a pouch—it holds your favorite
+  beauty essentials and reflects your style. But over time, it can get dirty, stained,
+  a
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-glossier-makeup-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-glossier-makeup-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Glossier makeup bag is more than just a pouch—it holds your favorite beauty essentials and reflects your style. But over time, it can get dirty, stained, and cluttered, making it harder to find what you need.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Checked Luggage: Expert Tips for Stress-Free Travel"
-description: "Packing checked luggage can often feel like a daunting task. You want to fit everything you need without overstuffing your suitcase or risking extra fees at the"
+title: 'How to Pack Checked Luggage: Expert Tips for Stress-Free Travel'
+description: Packing checked luggage can often feel like a daunting task. You want
+  to fit everything you need without overstuffing your suitcase or risking extra fees
+  at the
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-checked-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing checked luggage can often feel like a daunting task. You want to fit everything you need without overstuffing your suitcase or risking extra fees at the airport.**

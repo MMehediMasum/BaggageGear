@@ -1,10 +1,14 @@
 ---
-title: "Best Scooter Luggage for Kids: Ride, Pack, and Travel Fun!"
-description: "Finding the best scooter luggage for kids makes travel fun and easy. These suitcases combine riding and packing in one cool design. Scooter luggage lets childre"
+title: 'Best Scooter Luggage for Kids: Ride, Pack, and Travel Fun!'
+description: Finding the best scooter luggage for kids makes travel fun and easy.
+  These suitcases combine riding and packing in one cool design. Scooter luggage lets
+  childre
 pubDate: 2026-07-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-scooter-luggage-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-scooter-luggage-for-kids&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best scooter luggage for kids makes travel fun and easy. These suitcases combine riding and packing in one cool design.**

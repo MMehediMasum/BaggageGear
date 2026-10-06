@@ -1,10 +1,14 @@
 ---
-title: "Best Double Sleeping Bag for Backpacking: Comfort for Two in Any Weather"
-description: "Choosing the best double sleeping bag for backpacking makes outdoor trips more comfortable and cozy. Double sleeping bags save space and keep two people warm to"
+title: 'Best Double Sleeping Bag for Backpacking: Comfort for Two in Any Weather'
+description: Choosing the best double sleeping bag for backpacking makes outdoor trips
+  more comfortable and cozy. Double sleeping bags save space and keep two people warm
+  to
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-double-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-double-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best double sleeping bag for backpacking makes outdoor trips more comfortable and cozy. Double sleeping bags save space and keep two people warm together.**

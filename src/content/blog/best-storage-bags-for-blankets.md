@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Storage Bags for Blankets: Maximize Space with TasticTotes Solutions"
 description: "Finding the best storage bags for blankets helps keep your space neat and your blankets safe. These bags protect blankets from dust, moisture, and pests while s"
 pubDate: 2026-05-30

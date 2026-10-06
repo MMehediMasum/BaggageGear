@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Unclog a Toilet With a Plastic Bag: Quick & Easy Fix"
 description: "Imagine this: you walk into your bathroom, and there it is—a clogged toilet, throwing your day off balance. Panic sets in as you wonder how to fix this embarras"
 pubDate: 2026-04-20

@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Gel Deodorant in Carry On: TSA Rules Explained"
-description: "You've packed your bags and are ready for your upcoming trip, but a question lingers in your mind: Can you take gel deodorant in your carry-on? Navigating the r"
+title: 'Can You Take Gel Deodorant in Carry On: TSA Rules Explained'
+description: 'You''ve packed your bags and are ready for your upcoming trip, but a
+  question lingers in your mind: Can you take gel deodorant in your carry-on? Navigating
+  the r'
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-gel-deodorant-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-gel-deodorant-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've packed your bags and are ready for your upcoming trip, but a question lingers in your mind: Can you take gel deodorant in your carry-on? Navigating the rules of airport security can be a hassle, especially when it comes to toiletries.**

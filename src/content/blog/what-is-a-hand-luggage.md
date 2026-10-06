@@ -1,10 +1,14 @@
 ---
-title: "What is a Hand Luggage: Ultimate Guide to Smart Packing Tips"
-description: "Have you ever found yourself at the airport, confused about what exactly qualifies as hand luggage? You're not alone. Many travelers stumble over the rules and "
+title: 'What is a Hand Luggage: Ultimate Guide to Smart Packing Tips'
+description: 'Have you ever found yourself at the airport, confused about what exactly
+  qualifies as hand luggage? You''re not alone. Many travelers stumble over the rules
+  and '
 pubDate: 2025-09-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bag Styles And Terms Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-hand-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Have you ever found yourself at the airport, confused about what exactly qualifies as hand luggage? You're not alone.**

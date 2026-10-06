@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Mexico: Stay Powered Anywhere with Ease"
-description: "Finding the best travel adapter for Mexico ensures your devices stay charged and ready. Mexico uses Type A and B plugs with 127V and 60Hz power supply. Travel a"
+title: 'Best Travel Adapter for Mexico: Stay Powered Anywhere with Ease'
+description: Finding the best travel adapter for Mexico ensures your devices stay
+  charged and ready. Mexico uses Type A and B plugs with 127V and 60Hz power supply.
+  Travel a
 pubDate: 2025-10-21
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-mexico&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-mexico&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Mexico ensures your devices stay charged and ready. Mexico uses Type A and B plugs with 127V and 60Hz power supply.**

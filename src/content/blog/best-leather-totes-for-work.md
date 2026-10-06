@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Totes for Work: Stylish and Functional Bags for Women"
-description: "Finding the best leather totes for work helps you stay organized and stylish every day. These bags combine durability, space, and professional looks. Leather to"
+title: 'Best Leather Totes for Work: Stylish and Functional Bags for Women'
+description: Finding the best leather totes for work helps you stay organized and
+  stylish every day. These bags combine durability, space, and professional looks.
+  Leather to
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-totes-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-totes-for-work&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best leather totes for work helps you stay organized and stylish every day. These bags combine durability, space, and professional looks.**

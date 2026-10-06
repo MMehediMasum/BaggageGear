@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Are You Taking a Suitcase in French: Essential Travel Tips Revealed"
 description: "Are you planning a trip to France and wondering about the essentials to pack? Whether you're a seasoned traveler or gearing up for your first adventure, the que"
 pubDate: 2026-04-22

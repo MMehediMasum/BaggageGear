@@ -1,10 +1,13 @@
 ---
-title: "Where to Buy Lipault Luggage: Top Stores & Best Deals Revealed"
-description: "Are you on the hunt for stylish and reliable luggage that makes traveling a breeze? Look no further than Lipault luggage. Known for its chic design and exceptio"
+title: 'Where to Buy Lipault Luggage: Top Stores & Best Deals Revealed'
+description: Are you on the hunt for stylish and reliable luggage that makes traveling
+  a breeze? Look no further than Lipault luggage. Known for its chic design and exceptio
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-lipault-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-lipault-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for stylish and reliable luggage that makes traveling a breeze? Look no further than Lipault luggage.**

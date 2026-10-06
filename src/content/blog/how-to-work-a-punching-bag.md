@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Work a Punching Bag: Master Your Technique"
 description: "Have you ever wondered how to get the most out of your punching bag? Whether you're a beginner or looking to sharpen your skills, knowing the right techniques c"
 pubDate: 2025-09-19

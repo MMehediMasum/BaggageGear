@@ -1,10 +1,14 @@
 ---
-title: "How to Choose the Right Carry-On Luggage for Your Trip"
-description: "Struggling to pick the perfect bag for your next trip? Knowing how to choose the right carry on luggage can be overwhelming. With so many sizes, features, and m"
+title: How to Choose the Right Carry-On Luggage for Your Trip
+description: Struggling to pick the perfect bag for your next trip? Knowing how to
+  choose the right carry on luggage can be overwhelming. With so many sizes, features,
+  and m
 pubDate: 2026-08-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-choose-the-right-carry-on-luggage-for-your-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-choose-the-right-carry-on-luggage-for-your-trip&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 Struggling to pick the perfect bag for your next trip? Knowing how to choose the right carry on luggage can be overwhelming. With so many sizes, features, and materials available, it's hard to know where to start.

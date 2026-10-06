@@ -1,10 +1,13 @@
 ---
-title: "How to Pack a Backpacking Bag: Ultimate Guide for Light Travel"
-description: "Are you ready to hit the trails and explore the great outdoors? Packing your backpack might seem straightforward, but doing it right can make all the difference"
+title: 'How to Pack a Backpacking Bag: Ultimate Guide for Light Travel'
+description: Are you ready to hit the trails and explore the great outdoors? Packing
+  your backpack might seem straightforward, but doing it right can make all the difference
 pubDate: 2025-09-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Hiking Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Are you ready to hit the trails and explore the great outdoors? Packing your backpack might seem straightforward, but doing it right can make all the difference between an enjoyable adventure and a challenging ordeal.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack Suitcase for Europe: Top Carry-On Options for Travelers"
-description: "Choosing the best backpack suitcase for Europe can make your trip easier and more comfortable. A good backpack suitcase fits airline rules and holds all your es"
+title: 'Best Backpack Suitcase for Europe: Top Carry-On Options for Travelers'
+description: Choosing the best backpack suitcase for Europe can make your trip easier
+  and more comfortable. A good backpack suitcase fits airline rules and holds all
+  your es
 pubDate: 2026-07-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-suitcase-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-suitcase-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack suitcase for Europe can make your trip easier and more comfortable. A good backpack suitcase fits airline rules and holds all your essentials.**

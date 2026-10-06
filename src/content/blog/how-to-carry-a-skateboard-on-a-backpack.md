@@ -1,10 +1,14 @@
 ---
-title: "How to Carry a Skateboard on a Backpack: Easy & Stylish Tips"
-description: "Ever been frustrated trying to juggle your skateboard while managing a backpack? You’re not alone. Carrying a skateboard can be a hassle, especially when your h"
+title: 'How to Carry a Skateboard on a Backpack: Easy & Stylish Tips'
+description: Ever been frustrated trying to juggle your skateboard while managing
+  a backpack? You’re not alone. Carrying a skateboard can be a hassle, especially
+  when your h
 pubDate: 2026-01-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-a-skateboard-on-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-a-skateboard-on-a-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever been frustrated trying to juggle your skateboard while managing a backpack? You’re not alone.**

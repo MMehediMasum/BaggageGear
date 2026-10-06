@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring My Revlon Brush in My Carry On: Essential Travel Tips"
-description: "Traveling by air can be both exciting and stressful, especially when it comes to packing your carry-on. One question that might pop into your mind is, \"Can I br"
+title: 'Can I Bring My Revlon Brush in My Carry On: Essential Travel Tips'
+description: Traveling by air can be both exciting and stressful, especially when
+  it comes to packing your carry-on. One question that might pop into your mind is,
+  "Can I br
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-my-revlon-brush-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-my-revlon-brush-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling by air can be both exciting and stressful, especially when it comes to packing your carry-on. One question that might pop into your mind is, "Can I bring my Revlon brush in my carry-on?"**

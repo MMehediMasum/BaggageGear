@@ -1,10 +1,13 @@
 ---
-title: "Best Waterproof Daypack for Hiking: Top Lightweight Backpacks Reviewed"
-description: "Finding the best waterproof daypack makes hiking safer and more comfortable. A good pack keeps your gear dry and fits your needs. Hiking requires reliable gear "
+title: 'Best Waterproof Daypack for Hiking: Top Lightweight Backpacks Reviewed'
+description: 'Finding the best waterproof daypack makes hiking safer and more comfortable.
+  A good pack keeps your gear dry and fits your needs. Hiking requires reliable gear '
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-waterproof-daypack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-waterproof-daypack-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best waterproof daypack makes hiking safer and more comfortable. A good pack keeps your gear dry and fits your needs.**

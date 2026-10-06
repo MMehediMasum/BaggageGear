@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Bear Spray for Backpacking: Top Effective Protection Gear Reviewed"
 description: "Choosing the best bear spray is essential for safe backpacking in bear country. Effective protection helps prevent dangerous wildlife encounters. Backpacking in"
 pubDate: 2026-08-08

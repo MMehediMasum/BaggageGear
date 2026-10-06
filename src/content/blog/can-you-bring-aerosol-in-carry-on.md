@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Aerosol in Carry On: Essential Travel Rules Revealed"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing your carry-on luggage. You want everything to be perfect, but then you wonder,"
+title: 'Can You Bring Aerosol in Carry On: Essential Travel Rules Revealed'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing your carry-on luggage. You want everything to be perfect, but then you
+  wonder,
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-aerosol-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-aerosol-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing your carry-on luggage. You want everything to be perfect, but then you wonder, "Can you bring aerosol in your carry-on?"**

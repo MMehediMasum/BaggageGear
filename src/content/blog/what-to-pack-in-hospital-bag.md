@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Hospital Bag: Essential Items for a Smooth Stay"
-description: "Are you nearing your due date and feeling a mix of excitement and nerves? Preparing your hospital bag can ease some of that anxiety and ensure you’re ready when"
+title: 'What to Pack in Hospital Bag: Essential Items for a Smooth Stay'
+description: Are you nearing your due date and feeling a mix of excitement and nerves?
+  Preparing your hospital bag can ease some of that anxiety and ensure you’re ready
+  when
 pubDate: 2025-12-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Are you nearing your due date and feeling a mix of excitement and nerves? Preparing your hospital bag can ease some of that anxiety and ensure you’re ready when the big moment arrives.**

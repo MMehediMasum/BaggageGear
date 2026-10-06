@@ -1,10 +1,14 @@
 ---
-title: "Can I Pack a Can of Hairspray in My Luggage: Essential Travel Tips"
-description: "Are you gearing up for a trip and wondering about the dos and don’ts of packing your favorite beauty essentials? You’re not alone. One question that often pops "
+title: 'Can I Pack a Can of Hairspray in My Luggage: Essential Travel Tips'
+description: 'Are you gearing up for a trip and wondering about the dos and don’ts
+  of packing your favorite beauty essentials? You’re not alone. One question that
+  often pops '
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-pack-a-can-of-hairspray-in-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-pack-a-can-of-hairspray-in-my-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for a trip and wondering about the dos and don’ts of packing your favorite beauty essentials? You’re not alone.**

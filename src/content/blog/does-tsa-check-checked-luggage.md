@@ -1,10 +1,14 @@
 ---
-title: "Does Tsa Check Checked Luggage: What Every Traveler Must Know"
-description: "Curious about what really happens to your checked luggage once it leaves your hands at the airport? You're not alone. The moment you hand over your bags at the "
+title: 'Does Tsa Check Checked Luggage: What Every Traveler Must Know'
+description: 'Curious about what really happens to your checked luggage once it leaves
+  your hands at the airport? You''re not alone. The moment you hand over your bags
+  at the '
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-tsa-check-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=does-tsa-check-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Curious about what really happens to your checked luggage once it leaves your hands at the airport? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Compact Carry On Luggage for Lightweight and Durable Travel Gear"
-description: "Choosing the best compact carry-on luggage can make your trips easier and more comfortable. Small, lightweight bags save time and fit airline rules perfectly. T"
+title: Best Compact Carry On Luggage for Lightweight and Durable Travel Gear
+description: Choosing the best compact carry-on luggage can make your trips easier
+  and more comfortable. Small, lightweight bags save time and fit airline rules perfectly.
+  T
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-compact-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-compact-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best compact carry-on luggage can make your trips easier and more comfortable. Small, lightweight bags save time and fit airline rules perfectly.**

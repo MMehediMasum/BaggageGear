@@ -1,10 +1,14 @@
 ---
-title: "Will Wine Explode in Checked Luggage? Essential Travel Tips"
-description: "Picture this: You’re returning from a fantastic trip, and you’ve picked out a perfect bottle of wine to savor the memories once you're back home. But as you pre"
+title: Will Wine Explode in Checked Luggage? Essential Travel Tips
+description: 'Picture this: You’re returning from a fantastic trip, and you’ve picked
+  out a perfect bottle of wine to savor the memories once you''re back home. But as
+  you pre'
 pubDate: 2025-10-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-wine-explode-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-wine-explode-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You’re returning from a fantastic trip, and you’ve picked out a perfect bottle of wine to savor the memories once you're back home. But as you prepare to check your luggage, a nagging question pops up: Will your treasured bottle of wine survive the journey, or will it meet a fizzy end?**

@@ -1,10 +1,14 @@
 ---
-title: "Best Deals on Luggage Sets: Top Picks for Every Traveler"
-description: "Finding the best deals on luggage sets can save you money and stress during travel. Quality luggage at low prices makes every trip easier and more enjoyable. Tr"
+title: 'Best Deals on Luggage Sets: Top Picks for Every Traveler'
+description: Finding the best deals on luggage sets can save you money and stress
+  during travel. Quality luggage at low prices makes every trip easier and more enjoyable.
+  Tr
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-deals-on-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-deals-on-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best deals on luggage sets can save you money and stress during travel. Quality luggage at low prices makes every trip easier and more enjoyable.**

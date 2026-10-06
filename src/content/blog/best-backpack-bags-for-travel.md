@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack Bags for Travel with USB Charging and TSA Approval"
-description: "Choosing the best backpack bag for travel makes your trip easier and more comfortable. A good travel backpack fits your needs and keeps your belongings safe. Tr"
+title: Best Backpack Bags for Travel with USB Charging and TSA Approval
+description: Choosing the best backpack bag for travel makes your trip easier and
+  more comfortable. A good travel backpack fits your needs and keeps your belongings
+  safe. Tr
 pubDate: 2026-06-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-bags-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack bag for travel makes your trip easier and more comfortable. A good travel backpack fits your needs and keeps your belongings safe.**

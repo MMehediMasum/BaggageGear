@@ -1,10 +1,14 @@
 ---
-title: "What Luggage Has Lifetime Warranty: Top Durable Brands Reviewed"
-description: "Imagine never having to worry about your luggage breaking or wearing out. Wouldn't that bring peace of mind on every trip you take? When you invest in luggage w"
+title: 'What Luggage Has Lifetime Warranty: Top Durable Brands Reviewed'
+description: Imagine never having to worry about your luggage breaking or wearing
+  out. Wouldn't that bring peace of mind on every trip you take? When you invest in
+  luggage w
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-luggage-has-lifetime-warranty&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-luggage-has-lifetime-warranty&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine never having to worry about your luggage breaking or wearing out. Wouldn't that bring peace of mind on every trip you take?**

@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Suitcases for Travel: Top Picks for Effortless Adventures"
-description: "Choosing the right lightweight suitcase makes travel easier and less tiring. This guide covers top suitcases that combine durability and low weight. Traveling o"
+title: 'Best Lightweight Suitcases for Travel: Top Picks for Effortless Adventures'
+description: Choosing the right lightweight suitcase makes travel easier and less
+  tiring. This guide covers top suitcases that combine durability and low weight.
+  Traveling o
 pubDate: 2026-05-16
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-suitcases-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-suitcases-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right lightweight suitcase makes travel easier and less tiring. This guide covers top suitcases that combine durability and low weight.**

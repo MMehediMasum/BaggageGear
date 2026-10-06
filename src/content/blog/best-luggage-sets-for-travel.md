@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Sets for Travel: Top Picks for Every Adventurer"
-description: "Choosing the best luggage sets for travel makes your trips easier and more organized. Durable, lightweight suitcases with smooth wheels help you move quickly th"
+title: 'Best Luggage Sets for Travel: Top Picks for Every Adventurer'
+description: Choosing the best luggage sets for travel makes your trips easier and
+  more organized. Durable, lightweight suitcases with smooth wheels help you move
+  quickly th
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-sets-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-sets-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage sets for travel makes your trips easier and more organized. Durable, lightweight suitcases with smooth wheels help you move quickly through airports.**

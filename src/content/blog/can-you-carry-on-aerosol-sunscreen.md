@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on Aerosol Sunscreen? Ultimate Travel Guide 2025"
-description: "Ever stood at airport security, clutching your aerosol sunscreen, and wondered if it’s allowed in your carry-on? You’re not alone. Navigating airport regulation"
+title: Can You Carry on Aerosol Sunscreen? Ultimate Travel Guide 2025
+description: Ever stood at airport security, clutching your aerosol sunscreen, and
+  wondered if it’s allowed in your carry-on? You’re not alone. Navigating airport
+  regulation
 pubDate: 2025-11-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-aerosol-sunscreen&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-aerosol-sunscreen&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood at airport security, clutching your aerosol sunscreen, and wondered if it’s allowed in your carry-on? You’re not alone.**

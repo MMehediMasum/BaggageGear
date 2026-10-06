@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Kate Spade Bag Cost: Ultimate Price Guide 2025"
-description: "Are you curious about how much a Kate Spade bag costs? You're in the right place! Whether you're treating yourself or planning a gift, understanding the price r"
+title: 'How Much Does a Kate Spade Bag Cost: Ultimate Price Guide 2025'
+description: Are you curious about how much a Kate Spade bag costs? You're in the
+  right place! Whether you're treating yourself or planning a gift, understanding
+  the price r
 pubDate: 2025-12-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-kate-spade-bag-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-kate-spade-bag-cost&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about how much a Kate Spade bag costs? You're in the right place!**

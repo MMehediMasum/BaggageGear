@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Brown Bag Lunch: Ultimate Guide to Easy Meals"
 description: "Ever find yourself puzzled by the term \"brown bag lunch\"? You're not alone! This simple concept holds a world of benefits that could transform your daily routin"
 pubDate: 2026-04-22

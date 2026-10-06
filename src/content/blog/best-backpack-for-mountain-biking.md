@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Mountain Biking: Top Lightweight Hydration Packs Reviewed"
-description: "Choosing the best backpack for mountain biking makes your rides safer and more comfortable. A good backpack holds your gear and keeps you hydrated on the trail."
+title: 'Best Backpack for Mountain Biking: Top Lightweight Hydration Packs Reviewed'
+description: Choosing the best backpack for mountain biking makes your rides safer
+  and more comfortable. A good backpack holds your gear and keeps you hydrated on
+  the trail.
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-mountain-biking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cycling Backpacks And Commuter Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-mountain-biking&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for mountain biking makes your rides safer and more comfortable. A good backpack holds your gear and keeps you hydrated on the trail.**

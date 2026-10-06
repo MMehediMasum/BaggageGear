@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpack Blower for Homeowner: Top Powerful and Ergonomic Picks"
 description: "Finding the best backpack blower helps homeowners keep yards clean with less effort. Choosing the right one saves time and works well on leaves, dirt, and snow."
 pubDate: 2026-06-26

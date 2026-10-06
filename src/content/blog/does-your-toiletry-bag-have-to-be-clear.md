@@ -1,10 +1,14 @@
 ---
-title: "Does Your Toiletry Bag Have to Be Clear? Essential Travel Tips!"
-description: "Picture this: you're at the airport, excited for your long-awaited vacation, when you suddenly realize there's a problem. The security officer is eyeing your to"
+title: Does Your Toiletry Bag Have to Be Clear? Essential Travel Tips!
+description: 'Picture this: you''re at the airport, excited for your long-awaited
+  vacation, when you suddenly realize there''s a problem. The security officer is
+  eyeing your to'
 pubDate: 2025-09-07
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-your-toiletry-bag-have-to-be-clear&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=does-your-toiletry-bag-have-to-be-clear&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're at the airport, excited for your long-awaited vacation, when you suddenly realize there's a problem. The security officer is eyeing your toiletry bag, and you start to wonder—does it really have to be clear?**

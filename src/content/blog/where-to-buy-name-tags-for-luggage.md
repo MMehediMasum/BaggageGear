@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Name Tags for Luggage: Top Trusted Stores Revealed"
-description: "Picture this: you're standing at the luggage carousel, eagerly waiting for your suitcase to appear. But when it finally does, you find yourself squinting at a s"
+title: 'Where to Buy Name Tags for Luggage: Top Trusted Stores Revealed'
+description: 'Picture this: you''re standing at the luggage carousel, eagerly waiting
+  for your suitcase to appear. But when it finally does, you find yourself squinting
+  at a s'
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-name-tags-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-name-tags-for-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're standing at the luggage carousel, eagerly waiting for your suitcase to appear. But when it finally does, you find yourself squinting at a sea of identical bags, trying to spot yours.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Kids: Top Durable and Stylish School Bags Reviewed"
-description: "Choosing the best backpack for kids can make school days easier and more fun. A good backpack holds books, lunch, and supplies comfortably and safely. Parents w"
+title: 'Best Backpack for Kids: Top Durable and Stylish School Bags Reviewed'
+description: Choosing the best backpack for kids can make school days easier and more
+  fun. A good backpack holds books, lunch, and supplies comfortably and safely. Parents
+  w
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-kids&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for kids can make school days easier and more fun. A good backpack holds books, lunch, and supplies comfortably and safely.**

@@ -1,10 +1,14 @@
 ---
-title: "What Can Airport Scanners See in Luggage: Revealing Hidden Secrets"
-description: "Ever wondered what those airport scanners can actually see inside your luggage? As you place your bag on the conveyor belt and watch it disappear into the myste"
+title: 'What Can Airport Scanners See in Luggage: Revealing Hidden Secrets'
+description: Ever wondered what those airport scanners can actually see inside your
+  luggage? As you place your bag on the conveyor belt and watch it disappear into
+  the myste
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-airport-scanners-see-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-can-airport-scanners-see-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever wondered what those airport scanners can actually see inside your luggage? As you place your bag on the conveyor belt and watch it disappear into the mysterious world of airport security, curiosity might get the best of you.**

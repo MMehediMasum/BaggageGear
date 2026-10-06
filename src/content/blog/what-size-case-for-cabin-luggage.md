@@ -1,10 +1,14 @@
 ---
-title: "What Size Case for Cabin Luggage: Ultimate Guide for Stress-Free Travel"
-description: "When you're planning a trip, one of the most crucial decisions you'll make is choosing the right size for your cabin luggage. It's not just about fitting your b"
+title: 'What Size Case for Cabin Luggage: Ultimate Guide for Stress-Free Travel'
+description: When you're planning a trip, one of the most crucial decisions you'll
+  make is choosing the right size for your cabin luggage. It's not just about fitting
+  your b
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-case-for-cabin-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-case-for-cabin-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you're planning a trip, one of the most crucial decisions you'll make is choosing the right size for your cabin luggage. It's not just about fitting your belongings; it's about ensuring a smooth experience through airport security and overhead compartments.**

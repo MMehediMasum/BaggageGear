@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Tent for Backpacking Lightweight: Top 9 Ultra-Portable Shelters Reviewed"
 description: "Choosing the best lightweight tent for backpacking means balancing weight, space, and weather protection. A good tent keeps you safe and comfortable on the trai"
 pubDate: 2026-06-06

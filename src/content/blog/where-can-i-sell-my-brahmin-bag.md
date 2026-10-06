@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Brahmin Bag: Top Places to Get Best Price"
-description: "Are you looking to part ways with your beloved Brahmin bag? Maybe you're eager to make some extra cash, or perhaps you simply need to declutter your closet. Wha"
+title: 'Where Can I Sell My Brahmin Bag: Top Places to Get Best Price'
+description: Are you looking to part ways with your beloved Brahmin bag? Maybe you're
+  eager to make some extra cash, or perhaps you simply need to declutter your closet.
+  Wha
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-brahmin-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-brahmin-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to part ways with your beloved Brahmin bag? Maybe you're eager to make some extra cash, or perhaps you simply need to declutter your closet.**

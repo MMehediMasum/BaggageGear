@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack in the Smithsonian: Essential Rules Revealed"
-description: "Planning a visit to the Smithsonian? You're probably excited to explore the vast museums filled with art, history, and science. But wait—can you bring a backpac"
+title: 'Can You Bring a Backpack in the Smithsonian: Essential Rules Revealed'
+description: Planning a visit to the Smithsonian? You're probably excited to explore
+  the vast museums filled with art, history, and science. But wait—can you bring a
+  backpac
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-in-the-smithsonian&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-in-the-smithsonian&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a visit to the Smithsonian? You're probably excited to explore the vast museums filled with art, history, and science.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Will There Be a Carry on 2: Release Date and Plot Updates"
 description: "Have you ever found yourself chuckling at the witty antics of the iconic British comedy film, \"Carry On\"? If so, you're not alone. The humor, the characters, an"
 pubDate: 2026-04-23

@@ -1,10 +1,14 @@
 ---
-title: "Are Garment Bags Allowed As Carry on Delta: Ultimate Guide 2025"
-description: "Have you ever wondered if you can bring a garment bag as a carry-on when flying with Delta? You're not alone. Many travelers, like you, want to keep their cloth"
+title: 'Are Garment Bags Allowed As Carry on Delta: Ultimate Guide 2025'
+description: Have you ever wondered if you can bring a garment bag as a carry-on when
+  flying with Delta? You're not alone. Many travelers, like you, want to keep their
+  cloth
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-garment-bags-allowed-as-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=are-garment-bags-allowed-as-carry-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever wondered if you can bring a garment bag as a carry-on when flying with Delta? You're not alone.**

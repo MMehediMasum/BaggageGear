@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Punch Bag: Ultimate Cost Guide for Every Budget"
 description: "When you're ready to dive into the world of boxing or just want an effective way to stay fit, a punch bag can be your best friend. But one question might be hol"
 pubDate: 2025-10-15

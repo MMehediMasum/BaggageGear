@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Extreme Cold: Top Picks for Ultimate Warmth"
-description: "Choosing the best sleeping bag for extreme cold is essential for safe and warm outdoor adventures. A reliable sleeping bag keeps you comfortable even in freezin"
+title: 'Best Sleeping Bag for Extreme Cold: Top Picks for Ultimate Warmth'
+description: Choosing the best sleeping bag for extreme cold is essential for safe
+  and warm outdoor adventures. A reliable sleeping bag keeps you comfortable even
+  in freezin
 pubDate: 2026-06-11
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-extreme-cold&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cold Weather Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-extreme-cold&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best sleeping bag for extreme cold is essential for safe and warm outdoor adventures. A reliable sleeping bag keeps you comfortable even in freezing temperatures.**

@@ -1,10 +1,14 @@
 ---
-title: "What Bag Can You Bring to Purist Park: Ultimate Guide & Tips"
-description: "Are you planning a fun day out at Purist Park but unsure about what bag you can bring along? You’re not alone! Navigating the rules of what you can and can’t br"
+title: 'What Bag Can You Bring to Purist Park: Ultimate Guide & Tips'
+description: Are you planning a fun day out at Purist Park but unsure about what bag
+  you can bring along? You’re not alone! Navigating the rules of what you can and
+  can’t br
 pubDate: 2025-12-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-bag-can-you-bring-to-purist-park&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=what-bag-can-you-bring-to-purist-park&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a fun day out at Purist Park but unsure about what bag you can bring along? You’re not alone!**

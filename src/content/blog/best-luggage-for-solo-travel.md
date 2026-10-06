@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Solo Travel: Top Carry-Ons for Adventurous Journeys"
-description: "Choosing the best luggage for solo travel helps you move easily and stay organized. The right bag fits your needs and airport rules perfectly. Solo travel means"
+title: 'Best Luggage for Solo Travel: Top Carry-Ons for Adventurous Journeys'
+description: Choosing the best luggage for solo travel helps you move easily and stay
+  organized. The right bag fits your needs and airport rules perfectly. Solo travel
+  means
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-solo-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-solo-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for solo travel helps you move easily and stay organized. The right bag fits your needs and airport rules perfectly.**

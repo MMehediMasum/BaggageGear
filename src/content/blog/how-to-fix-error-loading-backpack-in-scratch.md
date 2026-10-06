@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fix Error Loading Backpack in Scratch: Easy Solutions"
 description: "Are you frustrated because Scratch won’t load your backpack? You’re not alone. This common error can stop your creativity in its tracks, leaving you stuck and u"
 pubDate: 2025-09-13

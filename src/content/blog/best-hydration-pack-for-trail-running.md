@@ -1,10 +1,14 @@
 ---
-title: "Best Hydration Pack for Trail Running: Top Lightweight Choices for Runners"
-description: "Finding the best hydration pack for trail running can boost your comfort and performance. Staying hydrated on the trail matters a lot. Trail running demands lig"
+title: 'Best Hydration Pack for Trail Running: Top Lightweight Choices for Runners'
+description: Finding the best hydration pack for trail running can boost your comfort
+  and performance. Staying hydrated on the trail matters a lot. Trail running demands
+  lig
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hydration-pack-for-trail-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hydration Packs For Running
+heroImage: https://tse1.mm.bing.net/th?q=best-hydration-pack-for-trail-running&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best hydration pack for trail running can boost your comfort and performance. Staying hydrated on the trail matters a lot.**

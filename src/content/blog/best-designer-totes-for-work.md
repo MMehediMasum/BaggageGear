@@ -1,10 +1,14 @@
 ---
-title: "Best Designer Totes for Work: Chic and Functional Office Companions"
-description: "Designer totes combine style and function, perfect for carrying work essentials every day. These bags offer space, durability, and a professional look. Finding "
+title: 'Best Designer Totes for Work: Chic and Functional Office Companions'
+description: 'Designer totes combine style and function, perfect for carrying work
+  essentials every day. These bags offer space, durability, and a professional look.
+  Finding '
 pubDate: 2026-06-02
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-designer-totes-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Totes And Crossbody Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-designer-totes-for-work&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Designer totes combine style and function, perfect for carrying work essentials every day. These bags offer space, durability, and a professional look.**

@@ -1,10 +1,13 @@
 ---
-title: "How Many Ml Allowed on Carry On: Ultimate TSA Liquid Rules Guide"
-description: "Traveling is often an exciting adventure, but it can quickly turn stressful if you're unsure about the rules for packing your carry-on. You might find yourself "
+title: 'How Many Ml Allowed on Carry On: Ultimate TSA Liquid Rules Guide'
+description: 'Traveling is often an exciting adventure, but it can quickly turn stressful
+  if you''re unsure about the rules for packing your carry-on. You might find yourself '
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-ml-allowed-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-ml-allowed-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling is often an exciting adventure, but it can quickly turn stressful if you're unsure about the rules for packing your carry-on. You might find yourself wondering, "How many milliliters are allowed on a carry-on?"**

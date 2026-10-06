@@ -1,10 +1,14 @@
 ---
-title: "Can Makeup Go in Personal Bag: Essential Travel Packing Tips"
-description: "Have you ever stood at the airport security checkpoint, clutching your personal bag, and wondered, \"Can makeup go in my personal bag?\" You're not alone. Navigat"
+title: 'Can Makeup Go in Personal Bag: Essential Travel Packing Tips'
+description: Have you ever stood at the airport security checkpoint, clutching your
+  personal bag, and wondered, "Can makeup go in my personal bag?" You're not alone.
+  Navigat
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-makeup-go-in-personal-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-makeup-go-in-personal-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at the airport security checkpoint, clutching your personal bag, and wondered, "Can makeup go in my personal bag?" You're not alone.**

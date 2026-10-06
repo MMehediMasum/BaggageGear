@@ -1,10 +1,14 @@
 ---
-title: "Best Power Converter for International Travel: Top Picks for Hassle-Free Trips"
-description: "Choosing the best power converter for international travel ensures your devices work safely abroad. It also protects your electronics from voltage damage. Trave"
+title: 'Best Power Converter for International Travel: Top Picks for Hassle-Free Trips'
+description: Choosing the best power converter for international travel ensures your
+  devices work safely abroad. It also protects your electronics from voltage damage.
+  Trave
 pubDate: 2026-05-27
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-converter-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-power-converter-for-international-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best power converter for international travel ensures your devices work safely abroad. It also protects your electronics from voltage damage.**

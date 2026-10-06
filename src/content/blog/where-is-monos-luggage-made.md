@@ -1,10 +1,14 @@
 ---
-title: "Where is Monos Luggage Made: Discover Quality Craftsmanship Secrets"
-description: "Are you curious about the origins of your favorite travel companion, Monos Luggage? You’re not alone. Many travelers like you are keen to discover where this po"
+title: 'Where is Monos Luggage Made: Discover Quality Craftsmanship Secrets'
+description: Are you curious about the origins of your favorite travel companion,
+  Monos Luggage? You’re not alone. Many travelers like you are keen to discover where
+  this po
 pubDate: 2026-04-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-monos-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-monos-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about the origins of your favorite travel companion, Monos Luggage? You’re not alone.**

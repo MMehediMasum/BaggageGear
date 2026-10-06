@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in an Iv Fluid Bag: Essential Contents Explained Clearly"
 description: "Have you ever wondered what's inside the IV fluid bag hanging beside a hospital bed? It's more than just a bag of clear liquid. Understanding its contents can s"
 pubDate: 2026-04-18

@@ -1,10 +1,13 @@
 ---
-title: "Is There a Weight Limit for Carry on Bags Southwest: Essential Guide"
-description: "Are you planning your next adventure with Southwest Airlines and wondering about the weight limit for carry-on bags? You're not alone. Navigating airline baggag"
+title: 'Is There a Weight Limit for Carry on Bags Southwest: Essential Guide'
+description: Are you planning your next adventure with Southwest Airlines and wondering
+  about the weight limit for carry-on bags? You're not alone. Navigating airline baggag
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-carry-on-bags-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-carry-on-bags-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure with Southwest Airlines and wondering about the weight limit for carry-on bags? You're not alone.**

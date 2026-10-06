@@ -1,10 +1,13 @@
 ---
-title: "What to Pack in a Hospital Bag for Dad: Essential Must-Haves"
-description: "Preparing for the arrival of your little one is an exciting yet overwhelming experience. As a soon-to-be dad, you might find yourself caught up in the whirlwind"
+title: 'What to Pack in a Hospital Bag for Dad: Essential Must-Haves'
+description: Preparing for the arrival of your little one is an exciting yet overwhelming
+  experience. As a soon-to-be dad, you might find yourself caught up in the whirlwind
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-dad&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-dad&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for the arrival of your little one is an exciting yet overwhelming experience. As a soon-to-be dad, you might find yourself caught up in the whirlwind of emotions, eagerly anticipating the big day.**

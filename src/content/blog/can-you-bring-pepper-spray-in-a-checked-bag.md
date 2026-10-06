@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Pepper Spray in a Checked Bag? Essential Rules Revealed"
-description: "Are you planning your next trip and wondering about the safety gear you can bring along? If pepper spray is on your packing list, you might be asking yourself w"
+title: Can You Bring Pepper Spray in a Checked Bag? Essential Rules Revealed
+description: Are you planning your next trip and wondering about the safety gear you
+  can bring along? If pepper spray is on your packing list, you might be asking yourself
+  w
 pubDate: 2025-09-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-pepper-spray-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-pepper-spray-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering about the safety gear you can bring along? If pepper spray is on your packing list, you might be asking yourself whether it's allowed in your checked bag.**

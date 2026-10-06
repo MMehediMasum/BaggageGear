@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Use for Anything But a Backpack Day: Stylish Alternatives Revealed"
 description: "Imagine a day at school where backpacks are nowhere to be seen. Instead, your classmates carry their books and supplies in everything from pillowcases to popcor"
 pubDate: 2025-09-30

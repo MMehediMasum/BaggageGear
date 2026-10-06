@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With a Razor in Carry On: Essential TSA Rules Explained"
-description: "Ever stood at the airport, clutching your carry-on, and wondered if you could bring a razor on board? You're not alone. Navigating airport security with persona"
+title: 'Can You Fly With a Razor in Carry On: Essential TSA Rules Explained'
+description: Ever stood at the airport, clutching your carry-on, and wondered if you
+  could bring a razor on board? You're not alone. Navigating airport security with
+  persona
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-a-razor-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-a-razor-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood at the airport, clutching your carry-on, and wondered if you could bring a razor on board? You're not alone.**

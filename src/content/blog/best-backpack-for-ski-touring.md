@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Ski Touring: Top Picks for Comfort and Durability"
-description: "Choosing the best backpack for ski touring helps carry gear safely and comfortably. Ski touring backpacks must be durable, lightweight, and offer enough space. "
+title: 'Best Backpack for Ski Touring: Top Picks for Comfort and Durability'
+description: 'Choosing the best backpack for ski touring helps carry gear safely and
+  comfortably. Ski touring backpacks must be durable, lightweight, and offer enough
+  space. '
 pubDate: 2026-07-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-ski-touring&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-ski-touring&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for ski touring helps carry gear safely and comfortably. Ski touring backpacks must be durable, lightweight, and offer enough space.**

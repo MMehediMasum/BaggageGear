@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for a 5Th Grader: Durable, Stylish, and Functional Picks"
-description: "Choosing the best backpack for a 5th grader can make school days easier and more fun. A good backpack holds books, lunch, and supplies comfortably and safely. K"
+title: 'Best Backpack for a 5Th Grader: Durable, Stylish, and Functional Picks'
+description: Choosing the best backpack for a 5th grader can make school days easier
+  and more fun. A good backpack holds books, lunch, and supplies comfortably and safely.
+  K
 pubDate: 2026-06-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-a-5th-grader&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-a-5th-grader&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for a 5th grader can make school days easier and more fun. A good backpack holds books, lunch, and supplies comfortably and safely.**

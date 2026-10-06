@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on Spray Sunscreen: Ultimate Travel Safety Guide"
-description: "Imagine you're at the airport, sun-kissed and ready for your next adventure, when a sudden thought hits you: can you carry on spray sunscreen? It's a small deta"
+title: 'Can You Carry on Spray Sunscreen: Ultimate Travel Safety Guide'
+description: 'Imagine you''re at the airport, sun-kissed and ready for your next adventure,
+  when a sudden thought hits you: can you carry on spray sunscreen? It''s a small
+  deta'
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-spray-sunscreen&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-spray-sunscreen&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're at the airport, sun-kissed and ready for your next adventure, when a sudden thought hits you: can you carry on spray sunscreen? It's a small detail, but one that could make or break your sun-filled escapades.**

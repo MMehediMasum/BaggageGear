@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in a Corn Hole Bag: Ultimate Guide to Winning Materials"
 description: "Ever find yourself at a backyard barbecue or a fun outdoor gathering, and see people enthusiastically tossing little bags at a board with a hole in it? That's t"
 pubDate: 2025-12-07

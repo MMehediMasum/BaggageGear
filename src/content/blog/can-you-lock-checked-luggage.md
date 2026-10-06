@@ -1,10 +1,14 @@
 ---
-title: "Can You Lock Checked Luggage: Essential Security Tips Revealed"
-description: "Picture this: you're at the airport, watching your suitcase disappear down the conveyor belt. You can't help but wonder, \"Is my luggage safe?\" The thought of yo"
+title: 'Can You Lock Checked Luggage: Essential Security Tips Revealed'
+description: 'Picture this: you''re at the airport, watching your suitcase disappear
+  down the conveyor belt. You can''t help but wonder, "Is my luggage safe?" The thought
+  of yo'
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-lock-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-lock-checked-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're at the airport, watching your suitcase disappear down the conveyor belt. You can't help but wonder, "Is my luggage safe?"**

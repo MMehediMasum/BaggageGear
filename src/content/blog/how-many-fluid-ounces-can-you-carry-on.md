@@ -1,10 +1,14 @@
 ---
-title: "How Many Fluid Ounces Can You Carry on Backpacks for Hiking?"
-description: "Are you planning to travel soon and wondering how many fluid ounces you can carry on your flight? You're not alone. Many travelers find themselves puzzled by th"
+title: How Many Fluid Ounces Can You Carry on Backpacks for Hiking?
+description: Are you planning to travel soon and wondering how many fluid ounces you
+  can carry on your flight? You're not alone. Many travelers find themselves puzzled
+  by th
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-fluid-ounces-can-you-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-fluid-ounces-can-you-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to travel soon and wondering how many fluid ounces you can carry on your flight? You're not alone.**

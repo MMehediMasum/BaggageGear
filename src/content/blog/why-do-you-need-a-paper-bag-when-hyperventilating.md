@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Do You Need a Paper Bag When Hyperventilating: Essential Relief Tips"
 description: "Imagine this: you're feeling anxious, your heart is racing, and your breathing becomes quick and shallow. It feels like you're losing control. At that moment, s"
 pubDate: 2026-03-21

@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Backpack in the Washer And Dryer: Ultimate Guide"
-description: "Have you ever glanced at your backpack and wondered if it's time for a thorough clean? Maybe it's been on one too many adventures, collecting dirt, stains, and "
+title: 'Can You Wash a Backpack in the Washer And Dryer: Ultimate Guide'
+description: 'Have you ever glanced at your backpack and wondered if it''s time for
+  a thorough clean? Maybe it''s been on one too many adventures, collecting dirt,
+  stains, and '
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-backpack-in-the-washer-and-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-backpack-in-the-washer-and-dryer&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever glanced at your backpack and wondered if it's time for a thorough clean? Maybe it's been on one too many adventures, collecting dirt, stains, and mysterious odors along the way.**

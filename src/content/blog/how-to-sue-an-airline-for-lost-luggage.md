@@ -1,10 +1,14 @@
 ---
-title: "How to Sue an Airline for Lost Luggage: Win Your Claim Fast"
-description: "You've just landed at your destination, excited to start your trip, when you realize your luggage is nowhere to be found. It's a frustrating and stressful situa"
+title: 'How to Sue an Airline for Lost Luggage: Win Your Claim Fast'
+description: You've just landed at your destination, excited to start your trip, when
+  you realize your luggage is nowhere to be found. It's a frustrating and stressful
+  situa
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sue-an-airline-for-lost-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sue-an-airline-for-lost-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've just landed at your destination, excited to start your trip, when you realize your luggage is nowhere to be found. It's a frustrating and stressful situation that can put a damper on your travel plans.**

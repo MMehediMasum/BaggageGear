@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put a Stoma Bag on: Easy Steps for Confident Care"
 description: "You're about to learn how to put a stoma bag on, a task that can seem daunting at first, but with the right guidance, it becomes much simpler. Whether you're ne"
 pubDate: 2026-03-28

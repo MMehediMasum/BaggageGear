@@ -1,10 +1,14 @@
 ---
-title: "When Does Luggage Go on Sale: Insider Tips to Save Big"
-description: "Have you ever wondered when the best time is to snag a great deal on luggage? You’re not alone. With travel plans on the horizon, finding the perfect suitcase a"
+title: 'When Does Luggage Go on Sale: Insider Tips to Save Big'
+description: Have you ever wondered when the best time is to snag a great deal on
+  luggage? You’re not alone. With travel plans on the horizon, finding the perfect
+  suitcase a
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-does-luggage-go-on-sale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=when-does-luggage-go-on-sale&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered when the best time is to snag a great deal on luggage? You’re not alone.**

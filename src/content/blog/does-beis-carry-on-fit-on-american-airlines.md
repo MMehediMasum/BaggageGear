@@ -1,10 +1,14 @@
 ---
-title: "Does Beis Carry on Fit on American Airlines: Ultimate Guide"
-description: "You're planning a trip and want to pack smartly, right? You’ve heard about Beis luggage and its sleek designs, but there's one pressing question on your mind: D"
+title: 'Does Beis Carry on Fit on American Airlines: Ultimate Guide'
+description: 'You''re planning a trip and want to pack smartly, right? You’ve heard
+  about Beis luggage and its sleek designs, but there''s one pressing question on
+  your mind: D'
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-on-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're planning a trip and want to pack smartly, right? You’ve heard about Beis luggage and its sleek designs, but there's one pressing question on your mind: Does a Beis carry-on fit on American Airlines?**

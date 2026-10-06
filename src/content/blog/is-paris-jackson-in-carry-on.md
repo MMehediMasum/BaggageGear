@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Paris Jackson in Carry on: Uncover the Surprising Truth"
 description: "Curiosity piqued yet? You're not alone. The question of whether Paris Jackson is in \"Carry On\" has been buzzing around the internet, sparking intrigue and specu"
 pubDate: 2026-02-11

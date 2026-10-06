@@ -1,10 +1,14 @@
 ---
-title: "Are Adidas Backpacks Good: Ultimate Review for Quality & Style"
-description: "Are Adidas backpacks good? You're probably asking this question because you're on the hunt for a reliable, stylish, and functional backpack. Whether you're a st"
+title: 'Are Adidas Backpacks Good: Ultimate Review for Quality & Style'
+description: Are Adidas backpacks good? You're probably asking this question because
+  you're on the hunt for a reliable, stylish, and functional backpack. Whether you're
+  a st
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-adidas-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-adidas-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are Adidas backpacks good? You're probably asking this question because you're on the hunt for a reliable, stylish, and functional backpack.**

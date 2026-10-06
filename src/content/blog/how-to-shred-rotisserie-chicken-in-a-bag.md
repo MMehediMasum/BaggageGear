@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Shred Rotisserie Chicken in a Bag: Quick & Easy Hacks"
 description: "Ever found yourself staring at a perfectly cooked rotisserie chicken and wondering how to turn it into a quick, delicious meal? Shredding it may seem like a mes"
 pubDate: 2025-11-20

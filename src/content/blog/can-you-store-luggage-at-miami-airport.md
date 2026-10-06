@@ -1,10 +1,14 @@
 ---
-title: "Can You Store Luggage at Miami Airport: Ultimate Guide & Tips"
-description: "Planning a trip to Miami and wondering what to do with your luggage? You're not alone. Whether you're taking a quick layover or spending a few days exploring th"
+title: 'Can You Store Luggage at Miami Airport: Ultimate Guide & Tips'
+description: Planning a trip to Miami and wondering what to do with your luggage?
+  You're not alone. Whether you're taking a quick layover or spending a few days exploring
+  th
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-miami-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-miami-airport&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to Miami and wondering what to do with your luggage? You're not alone.**

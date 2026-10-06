@@ -1,10 +1,14 @@
 ---
-title: "What Can I Carry on Delta Airlines: Ultimate Guide to Carry-On Rules"
-description: "Are you getting ready to fly with Delta Airlines and wondering what you can carry on board? You're not alone. Packing for a flight can be tricky, especially wit"
+title: 'What Can I Carry on Delta Airlines: Ultimate Guide to Carry-On Rules'
+description: Are you getting ready to fly with Delta Airlines and wondering what you
+  can carry on board? You're not alone. Packing for a flight can be tricky, especially
+  wit
 pubDate: 2025-09-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-i-carry-on-delta-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-can-i-carry-on-delta-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you getting ready to fly with Delta Airlines and wondering what you can carry on board? You're not alone.**

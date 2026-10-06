@@ -1,10 +1,14 @@
 ---
-title: "How to Tell a Michael Kors Bag is Real: Expert Tips Revealed"
-description: "You’ve found a Michael Kors bag that looks perfect, but something feels off. How can you be sure it’s real and not a knockoff? You don’t want to waste your mone"
+title: 'How to Tell a Michael Kors Bag is Real: Expert Tips Revealed'
+description: You’ve found a Michael Kors bag that looks perfect, but something feels
+  off. How can you be sure it’s real and not a knockoff? You don’t want to waste your
+  mone
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-a-michael-kors-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-a-michael-kors-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve found a Michael Kors bag that looks perfect, but something feels off. How can you be sure it’s real and not a knockoff?**

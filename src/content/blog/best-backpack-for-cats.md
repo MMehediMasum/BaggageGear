@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Cats: Top Breathable, Expandable Carriers for Travel"
-description: "Finding the best backpack for cats makes traveling safer and more comfortable for both pets and owners. Cat backpacks offer convenience, ventilation, and securi"
+title: 'Best Backpack for Cats: Top Breathable, Expandable Carriers for Travel'
+description: Finding the best backpack for cats makes traveling safer and more comfortable
+  for both pets and owners. Cat backpacks offer convenience, ventilation, and securi
 pubDate: 2026-07-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-cats&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-cats&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for cats makes traveling safer and more comfortable for both pets and owners. Cat backpacks offer convenience, ventilation, and security during trips.**

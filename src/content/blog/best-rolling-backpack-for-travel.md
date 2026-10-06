@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Backpack for Travel: Top Durable Wheeled Backpacks Reviewed"
-description: "Choosing the best rolling backpack for travel makes your trips easier and more organized. These backpacks combine wheels and backpacks for smooth, comfortable c"
+title: 'Best Rolling Backpack for Travel: Top Durable Wheeled Backpacks Reviewed'
+description: Choosing the best rolling backpack for travel makes your trips easier
+  and more organized. These backpacks combine wheels and backpacks for smooth, comfortable
+  c
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Rolling Backpacks And Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best rolling backpack for travel makes your trips easier and more organized. These backpacks combine wheels and backpacks for smooth, comfortable carrying.**

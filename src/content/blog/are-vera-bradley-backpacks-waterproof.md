@@ -1,10 +1,14 @@
 ---
-title: "Are Vera Bradley Backpacks Waterproof: Ultimate Protection Guide"
-description: "You’ve just picked out a stylish Vera Bradley backpack, and you’re ready to take on the world. But wait—what if it rains? You might be asking yourself, “Are Ver"
+title: 'Are Vera Bradley Backpacks Waterproof: Ultimate Protection Guide'
+description: You’ve just picked out a stylish Vera Bradley backpack, and you’re ready
+  to take on the world. But wait—what if it rains? You might be asking yourself, “Are
+  Ver
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-vera-bradley-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-vera-bradley-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **You’ve just picked out a stylish Vera Bradley backpack, and you’re ready to take on the world. But wait—what if it rains?**

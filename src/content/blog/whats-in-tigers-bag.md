@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Tiger'S Bag: Unveiling Secrets of a Champion's Gear"
 description: "Ever wondered what secrets lie inside a professional golfer's bag? If you're curious about what makes Tiger Woods a legend on the golf course, you're in for a t"
 pubDate: 2026-03-26

@@ -1,10 +1,14 @@
 ---
-title: "Best Osprey Backpack for Travel: Top Lightweight, Durable Picks"
-description: "Choosing the best Osprey backpack for travel makes trips easier and more organized. Osprey offers durable, comfortable backpacks for different travel needs. Osp"
+title: 'Best Osprey Backpack for Travel: Top Lightweight, Durable Picks'
+description: Choosing the best Osprey backpack for travel makes trips easier and more
+  organized. Osprey offers durable, comfortable backpacks for different travel needs.
+  Osp
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-osprey-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-osprey-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best Osprey backpack for travel makes trips easier and more organized. Osprey offers durable, comfortable backpacks for different travel needs.**

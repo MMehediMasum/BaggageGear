@@ -1,10 +1,13 @@
 ---
-title: "Best Hydration Backpack for Running: Lightweight Packs with 2L Bladder"
-description: "Finding the best hydration backpack for running helps you stay refreshed on the go. Choose one that fits well and holds enough water. Running requires constant "
+title: 'Best Hydration Backpack for Running: Lightweight Packs with 2L Bladder'
+description: 'Finding the best hydration backpack for running helps you stay refreshed
+  on the go. Choose one that fits well and holds enough water. Running requires constant '
 pubDate: 2026-07-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hydration-backpack-for-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hydration Packs For Running
+heroImage: https://tse1.mm.bing.net/th?q=best-hydration-backpack-for-running&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best hydration backpack for running helps you stay refreshed on the go. Choose one that fits well and holds enough water.**

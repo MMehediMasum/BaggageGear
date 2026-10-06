@@ -1,10 +1,14 @@
 ---
-title: "Best Small Roller Bag: Top Picks for Effortless Travel Convenience"
-description: "Choosing the best small roller bag makes travel easier and stress-free. Compact, lightweight bags fit under the seat and roll smoothly through airports. Small r"
+title: 'Best Small Roller Bag: Top Picks for Effortless Travel Convenience'
+description: Choosing the best small roller bag makes travel easier and stress-free.
+  Compact, lightweight bags fit under the seat and roll smoothly through airports.
+  Small r
 pubDate: 2026-07-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-roller-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-small-roller-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best small roller bag makes travel easier and stress-free. Compact, lightweight bags fit under the seat and roll smoothly through airports.**

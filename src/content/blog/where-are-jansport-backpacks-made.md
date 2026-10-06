@@ -1,10 +1,14 @@
 ---
-title: "Where are Jansport Backpacks Made: Discover the Truth Today"
-description: "Have you ever wondered where your trusty Jansport backpack comes from? As you sling it over your shoulder or stuff it with your daily essentials, the question m"
+title: 'Where are Jansport Backpacks Made: Discover the Truth Today'
+description: Have you ever wondered where your trusty Jansport backpack comes from?
+  As you sling it over your shoulder or stuff it with your daily essentials, the question
+  m
 pubDate: 2026-01-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-jansport-backpacks-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-jansport-backpacks-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered where your trusty Jansport backpack comes from? As you sling it over your shoulder or stuff it with your daily essentials, the question might pop into your mind.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Debone a Rotisserie Chicken in a Plastic Bag: Easy & Mess-Free!"
 description: "Imagine coming home with a delicious rotisserie chicken, ready to be transformed into a delightful meal. But wait—deboning it seems messy and time-consuming, ri"
 pubDate: 2026-04-02

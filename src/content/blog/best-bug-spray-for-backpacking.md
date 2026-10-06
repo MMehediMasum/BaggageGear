@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Bug Spray for Backpacking: Top Long-Lasting Insect Repellents Reviewed"
 description: "Finding the best bug spray for backpacking helps protect you from bites and discomfort. Effective insect repellent keeps mosquitoes, ticks, and other bugs away "
 pubDate: 2026-08-14

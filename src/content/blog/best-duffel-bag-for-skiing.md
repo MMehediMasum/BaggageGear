@@ -1,10 +1,14 @@
 ---
-title: "Best Duffel Bag for Skiing: Top Picks for Durability and Space"
-description: "Finding the best duffel bag for skiing makes packing easier and keeps gear safe. Choose a bag that fits your equipment, is durable, and handles cold weather wel"
+title: 'Best Duffel Bag for Skiing: Top Picks for Durability and Space'
+description: Finding the best duffel bag for skiing makes packing easier and keeps
+  gear safe. Choose a bag that fits your equipment, is durable, and handles cold weather
+  wel
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-skiing&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-skiing&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best duffel bag for skiing makes packing easier and keeps gear safe. Choose a bag that fits your equipment, is durable, and handles cold weather well.**

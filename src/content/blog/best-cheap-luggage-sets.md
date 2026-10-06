@@ -1,10 +1,14 @@
 ---
-title: "Best Cheap Luggage Sets for Stylish and Budget-Friendly Travel"
-description: "Finding affordable luggage sets that offer quality and style is easier than you think. These cheap luggage sets meet your travel needs without breaking the bank"
+title: Best Cheap Luggage Sets for Stylish and Budget-Friendly Travel
+description: Finding affordable luggage sets that offer quality and style is easier
+  than you think. These cheap luggage sets meet your travel needs without breaking
+  the bank
 pubDate: 2026-07-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cheap-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-cheap-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding affordable luggage sets that offer quality and style is easier than you think. These cheap luggage sets meet your travel needs without breaking the bank.**

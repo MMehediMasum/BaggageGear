@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Chocolate in My Carry On: Ultimate Travel Guide"
-description: "Imagine this: you’re packing for your trip, and you’ve got your essentials ready. Passport? Check. Clothes? Check. But then comes the real question: can you bri"
+title: 'Can I Bring Chocolate in My Carry On: Ultimate Travel Guide'
+description: 'Imagine this: you’re packing for your trip, and you’ve got your essentials
+  ready. Passport? Check. Clothes? Check. But then comes the real question: can you
+  bri'
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-chocolate-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-chocolate-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you’re packing for your trip, and you’ve got your essentials ready. Passport?**

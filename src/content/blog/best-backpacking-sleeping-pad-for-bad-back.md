@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Sleeping Pad for Bad Back: Top Comfort Picks Reviewed"
 description: "Finding the best backpacking sleeping pad for a bad back can improve your outdoor sleep quality. Proper support and comfort reduce pain and stiffness during cam"
 pubDate: 2025-10-15

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Doordash Send You a Bag? Essential Delivery Insights"
 description: "Curious about whether DoorDash sends you a bag when you become a driver? You're not alone. Whether you're considering joining the gig economy or are already on "
 pubDate: 2025-12-13

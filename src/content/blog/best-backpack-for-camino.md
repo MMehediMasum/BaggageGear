@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Camino: Top Lightweight and Waterproof Hiking Packs"
-description: "Choosing the best backpack for the Camino is essential for a comfortable journey. A good backpack carries your gear without causing pain or fatigue. Walking the"
+title: 'Best Backpack for Camino: Top Lightweight and Waterproof Hiking Packs'
+description: Choosing the best backpack for the Camino is essential for a comfortable
+  journey. A good backpack carries your gear without causing pain or fatigue. Walking
+  the
 pubDate: 2026-07-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-camino&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-camino&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for the Camino is essential for a comfortable journey. A good backpack carries your gear without causing pain or fatigue.**

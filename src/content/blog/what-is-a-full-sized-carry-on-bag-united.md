@@ -1,10 +1,13 @@
 ---
-title: "What is a Full Sized Carry on Bag United: Ultimate Travel Guide"
-description: "Are you gearing up for your next trip and wondering what exactly qualifies as a full-sized carry-on bag for United Airlines? You're not alone. Navigating airlin"
+title: 'What is a Full Sized Carry on Bag United: Ultimate Travel Guide'
+description: Are you gearing up for your next trip and wondering what exactly qualifies
+  as a full-sized carry-on bag for United Airlines? You're not alone. Navigating airlin
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-full-sized-carry-on-bag-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-full-sized-carry-on-bag-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next trip and wondering what exactly qualifies as a full-sized carry-on bag for United Airlines? You're not alone.**

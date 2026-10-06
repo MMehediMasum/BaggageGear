@@ -1,10 +1,14 @@
 ---
-title: "Can Portable Chargers Go in Carry On: Essential Travel Tips"
-description: "Imagine this: you're at the airport, and your phone battery is draining fast. You reach for your portable charger, but suddenly, you hesitate. Can portable char"
+title: 'Can Portable Chargers Go in Carry On: Essential Travel Tips'
+description: 'Imagine this: you''re at the airport, and your phone battery is draining
+  fast. You reach for your portable charger, but suddenly, you hesitate. Can portable
+  char'
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-portable-chargers-go-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-portable-chargers-go-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're at the airport, and your phone battery is draining fast. You reach for your portable charger, but suddenly, you hesitate.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Travel With Edibles in Your Carry On: Essential Tips"
-description: "Are you planning your next adventure and wondering if you can bring your favorite edibles along for the ride? The idea of having your go-to snacks at hand durin"
+title: 'Can You Travel With Edibles in Your Carry On: Essential Tips'
+description: Are you planning your next adventure and wondering if you can bring your
+  favorite edibles along for the ride? The idea of having your go-to snacks at hand
+  durin
 pubDate: 2025-10-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-travel-with-edibles-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-travel-with-edibles-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering if you can bring your favorite edibles along for the ride? The idea of having your go-to snacks at hand during a flight is undoubtedly appealing.**

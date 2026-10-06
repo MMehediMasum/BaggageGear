@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Transfer Fish from Bag to Tank: Easy Steps for Safe Setup"
 description: "Transferring your new fish from a bag to a tank might seem like a simple task, but it’s crucial to get it right for the health and happiness of your aquatic fri"
 pubDate: 2025-12-06

@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Registry: Top Picks for Every Couple's Travel Needs"
-description: "Choosing the best luggage for your registry ensures practical and stylish travel gear. This list covers top picks for newlyweds and families planning trips. Sel"
+title: 'Best Luggage for Registry: Top Picks for Every Couple''s Travel Needs'
+description: Choosing the best luggage for your registry ensures practical and stylish
+  travel gear. This list covers top picks for newlyweds and families planning trips.
+  Sel
 pubDate: 2025-10-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-registry&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- General Travel Bags And Suitcases
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-registry&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for your registry ensures practical and stylish travel gear. This list covers top picks for newlyweds and families planning trips.**

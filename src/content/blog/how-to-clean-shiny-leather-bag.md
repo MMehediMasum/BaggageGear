@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Shiny Leather Bag: Easy Steps for a Gleaming Finish"
-description: "Your shiny leather bag is more than just an accessory; it's a statement of style and elegance. Yet, keeping it looking as lustrous and new as the day you got it"
+title: 'How to Clean Shiny Leather Bag: Easy Steps for a Gleaming Finish'
+description: Your shiny leather bag is more than just an accessory; it's a statement
+  of style and elegance. Yet, keeping it looking as lustrous and new as the day you
+  got it
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-shiny-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-shiny-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your shiny leather bag is more than just an accessory; it's a statement of style and elegance. Yet, keeping it looking as lustrous and new as the day you got it can be challenging.**

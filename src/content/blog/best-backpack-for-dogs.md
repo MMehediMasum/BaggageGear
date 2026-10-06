@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Dogs: Top Adjustable Carriers for Travel and Hiking"
-description: "Choosing the best backpack for dogs makes outdoor adventures safer and more fun for both pets and owners. A good dog backpack offers comfort, security, and conv"
+title: 'Best Backpack for Dogs: Top Adjustable Carriers for Travel and Hiking'
+description: Choosing the best backpack for dogs makes outdoor adventures safer and
+  more fun for both pets and owners. A good dog backpack offers comfort, security,
+  and conv
 pubDate: 2026-06-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-dogs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-dogs&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for dogs makes outdoor adventures safer and more fun for both pets and owners. A good dog backpack offers comfort, security, and convenience during travel or hikes.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Adele Have a Colostomy Bag? Shocking Truth Revealed!"
 description: "When you think of Adele, what comes to mind? Her powerful voice, chart-topping hits, or perhaps her candid personality? But have you ever wondered if there's mo"
 pubDate: 2026-03-28

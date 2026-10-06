@@ -1,10 +1,13 @@
 ---
-title: "Does Alaska Saver Include Carry On? Essential Baggage Tips Revealed"
-description: "Have you ever found yourself puzzled over airline baggage policies, especially when it comes to budget-friendly fares? If you're planning a trip and considering"
+title: Does Alaska Saver Include Carry On? Essential Baggage Tips Revealed
+description: Have you ever found yourself puzzled over airline baggage policies, especially
+  when it comes to budget-friendly fares? If you're planning a trip and considering
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-alaska-saver-include-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-alaska-saver-include-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself puzzled over airline baggage policies, especially when it comes to budget-friendly fares? If you're planning a trip and considering Alaska Airlines' Saver fare, you're probably wondering, "Does Alaska Saver include a carry-on?"**

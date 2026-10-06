@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Family Travel: Top Durable and Stylish Suitcase Sets"
-description: "Choosing the best luggage for family travel makes packing easier and trips more comfortable. Durable, lightweight, and spacious luggage suits family needs best."
+title: 'Best Luggage for Family Travel: Top Durable and Stylish Suitcase Sets'
+description: Choosing the best luggage for family travel makes packing easier and
+  trips more comfortable. Durable, lightweight, and spacious luggage suits family
+  needs best.
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-family-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-family-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for family travel makes packing easier and trips more comfortable. Durable, lightweight, and spacious luggage suits family needs best.**

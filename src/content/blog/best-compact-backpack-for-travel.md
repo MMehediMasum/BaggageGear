@@ -1,10 +1,13 @@
 ---
-title: "Best Compact Backpack for Travel: Top Lightweight, Durable Picks"
-description: "Finding the best compact backpack for travel makes trips easier and more comfortable. A good backpack fits your needs without weighing you down. Travel backpack"
+title: 'Best Compact Backpack for Travel: Top Lightweight, Durable Picks'
+description: Finding the best compact backpack for travel makes trips easier and more
+  comfortable. A good backpack fits your needs without weighing you down. Travel backpack
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-compact-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-compact-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best compact backpack for travel makes trips easier and more comfortable. A good backpack fits your needs without weighing you down.**

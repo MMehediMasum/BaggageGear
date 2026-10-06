@@ -1,10 +1,14 @@
 ---
-title: "Does Truist Park Have a Clear Bag Policy: What You Need to Know"
-description: "Are you planning a trip to Truist Park soon? If you're gearing up for a fun day at the ballpark, there's something important you need to know before you head ou"
+title: 'Does Truist Park Have a Clear Bag Policy: What You Need to Know'
+description: Are you planning a trip to Truist Park soon? If you're gearing up for
+  a fun day at the ballpark, there's something important you need to know before you
+  head ou
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-truist-park-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-truist-park-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip to Truist Park soon? If you're gearing up for a fun day at the ballpark, there's something important you need to know before you head out.**

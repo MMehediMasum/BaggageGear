@@ -1,10 +1,14 @@
 ---
-title: "What to Carry on International Flights: Essential Packing Tips"
-description: "Packing for an international flight can feel overwhelming. You're probably wondering what essentials to bring and what to leave behind. The right items can make"
+title: 'What to Carry on International Flights: Essential Packing Tips'
+description: Packing for an international flight can feel overwhelming. You're probably
+  wondering what essentials to bring and what to leave behind. The right items can
+  make
 pubDate: 2025-12-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-carry-on-international-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-carry-on-international-flights&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for an international flight can feel overwhelming. You're probably wondering what essentials to bring and what to leave behind.**

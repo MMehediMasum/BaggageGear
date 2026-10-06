@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Clean Nut Milk Bag: Easy Steps for a Fresh, Stain-Free Bag"
 description: "Imagine this: you’ve just finished making a delicious batch of almond milk or creamy cashew milk using your trusty nut milk bag. But now, you’re left wondering "
 pubDate: 2025-09-06

@@ -1,10 +1,14 @@
 ---
-title: "What are the Dimensions for Carry on Luggage United Airlines: Ultimate Guide"
-description: "Planning a trip can be exciting, but figuring out the right luggage to bring can quickly become a puzzle. If you're flying with United Airlines, knowing the cor"
+title: 'What are the Dimensions for Carry on Luggage United Airlines: Ultimate Guide'
+description: Planning a trip can be exciting, but figuring out the right luggage to
+  bring can quickly become a puzzle. If you're flying with United Airlines, knowing
+  the cor
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-for-carry-on-luggage-united-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-for-carry-on-luggage-united-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, but figuring out the right luggage to bring can quickly become a puzzle. If you're flying with United Airlines, knowing the correct dimensions for carry-on luggage is crucial to avoid last-minute stress at the airport.**

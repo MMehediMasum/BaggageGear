@@ -1,10 +1,14 @@
 ---
-title: "What is a Good Camera Bag for a Mamiya: Ultimate Protection Guide"
-description: "If you own a Mamiya camera, you know how important it is to keep it safe and easy to carry. But finding the right camera bag can be tricky. You want something t"
+title: 'What is a Good Camera Bag for a Mamiya: Ultimate Protection Guide'
+description: If you own a Mamiya camera, you know how important it is to keep it safe
+  and easy to carry. But finding the right camera bag can be tricky. You want something
+  t
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-good-camera-bag-for-a-mamiya&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camera Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-good-camera-bag-for-a-mamiya&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **If you own a Mamiya camera, you know how important it is to keep it safe and easy to carry. But finding the right camera bag can be tricky.**

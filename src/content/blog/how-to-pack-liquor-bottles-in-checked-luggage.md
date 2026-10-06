@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Liquor Bottles in Checked Luggage: Ultimate Safety Guide"
-description: "Traveling with liquor bottles in your checked luggage can be a bit tricky, right? You might find yourself worrying about broken bottles, spilled spirits, or eve"
+title: 'How to Pack Liquor Bottles in Checked Luggage: Ultimate Safety Guide'
+description: Traveling with liquor bottles in your checked luggage can be a bit tricky,
+  right? You might find yourself worrying about broken bottles, spilled spirits, or
+  eve
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-liquor-bottles-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-liquor-bottles-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with liquor bottles in your checked luggage can be a bit tricky, right? You might find yourself worrying about broken bottles, spilled spirits, or even the dreaded confiscation at airport security.**

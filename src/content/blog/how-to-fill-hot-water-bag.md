@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fill Hot Water Bag: Easy Steps for Safe, Cozy Warmth"
 description: "Have you ever felt the soothing warmth of a hot water bag on a chilly evening? It's a comfort that many of us cherish. But did you know that filling a hot water"
 pubDate: 2026-04-03

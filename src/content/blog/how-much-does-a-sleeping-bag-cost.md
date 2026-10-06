@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Sleeping Bag Cost: Ultimate Guide to Prices"
-description: "Are you planning a camping trip or simply seeking the comfort of a cozy sleeping bag for your next adventure? One of the first questions that might pop into you"
+title: 'How Much Does a Sleeping Bag Cost: Ultimate Guide to Prices'
+description: Are you planning a camping trip or simply seeking the comfort of a cozy
+  sleeping bag for your next adventure? One of the first questions that might pop
+  into you
 pubDate: 2025-12-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-sleeping-bag-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-sleeping-bag-cost&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Are you planning a camping trip or simply seeking the comfort of a cozy sleeping bag for your next adventure? One of the first questions that might pop into your mind is, "How much does a sleeping bag cost?"**

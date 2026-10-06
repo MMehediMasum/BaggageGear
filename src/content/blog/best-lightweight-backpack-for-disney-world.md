@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Backpack for Disney World: Top Picks for Easy Travel"
-description: "Choosing the best lightweight backpack for Disney World makes your day easier and more fun. A good backpack holds your essentials without feeling heavy or bulky"
+title: 'Best Lightweight Backpack for Disney World: Top Picks for Easy Travel'
+description: Choosing the best lightweight backpack for Disney World makes your day
+  easier and more fun. A good backpack holds your essentials without feeling heavy
+  or bulky
 pubDate: 2026-06-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-disney-world&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-disney-world&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight backpack for Disney World makes your day easier and more fun. A good backpack holds your essentials without feeling heavy or bulky.**

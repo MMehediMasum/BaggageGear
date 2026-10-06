@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Leave Luggage in Paris: Top Secure Spots Revealed"
-description: "Planning a trip to Paris and wondering what to do with your luggage while you explore the City of Light? You're in the right place. Navigating a new city with h"
+title: 'Where Can I Leave Luggage in Paris: Top Secure Spots Revealed'
+description: Planning a trip to Paris and wondering what to do with your luggage while
+  you explore the City of Light? You're in the right place. Navigating a new city
+  with h
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-leave-luggage-in-paris&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-leave-luggage-in-paris&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to Paris and wondering what to do with your luggage while you explore the City of Light? You're in the right place.**

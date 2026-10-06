@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Craft T2 Back Backpack Planet Crafter: Ultimate Guide"
 description: "Are you ready to explore the vast universe of Planet Crafter and need a little help with your crafting skills? If so, you're in the right place. Let's dive into"
 pubDate: 2026-01-01

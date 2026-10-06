@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Jelly Beans are in a Bag: Surprising Counts Revealed"
 description: "Ever found yourself staring at a colorful bag of jelly beans, wondering just how many are packed inside? You're not alone. This question is more than just a pas"
 pubDate: 2026-01-17

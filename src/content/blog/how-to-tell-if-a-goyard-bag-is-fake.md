@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Goyard Bag is Fake: Expert Tips to Spot Fakes"
-description: "Are you worried that the Goyard bag you recently acquired might not be the genuine article? You're not alone. With the rise of counterfeit fashion goods, spotti"
+title: 'How to Tell If a Goyard Bag is Fake: Expert Tips to Spot Fakes'
+description: Are you worried that the Goyard bag you recently acquired might not be
+  the genuine article? You're not alone. With the rise of counterfeit fashion goods,
+  spotti
 pubDate: 2026-02-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-goyard-bag-is-fake&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Hermes And Chanel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-goyard-bag-is-fake&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you worried that the Goyard bag you recently acquired might not be the genuine article? You're not alone.**

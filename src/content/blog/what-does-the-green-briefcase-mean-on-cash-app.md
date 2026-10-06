@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does the Green Briefcase Mean on Cash App: Unlocked!"
 description: "Have you ever opened Cash App and noticed a green briefcase icon and wondered what it means? You’re not alone. This little symbol can be confusing, but understa"
 pubDate: 2025-09-15

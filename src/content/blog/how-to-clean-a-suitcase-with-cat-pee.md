@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Suitcase With Cat Pee: Easy, Effective Steps"
-description: "Imagine you're all set for an exciting trip, but as you open your suitcase, you're hit with an unmistakable and unpleasant odor—cat pee. It's a scenario that ca"
+title: 'How to Clean a Suitcase With Cat Pee: Easy, Effective Steps'
+description: Imagine you're all set for an exciting trip, but as you open your suitcase,
+  you're hit with an unmistakable and unpleasant odor—cat pee. It's a scenario that
+  ca
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-suitcase-with-cat-pee&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-suitcase-with-cat-pee&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're all set for an exciting trip, but as you open your suitcase, you're hit with an unmistakable and unpleasant odor—cat pee. It's a scenario that can leave you feeling frustrated and unsure about your next steps.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Soft-Sided Checked Luggage: Top Picks for Stress-Free Travel"
-description: "Choosing the best soft-sided checked luggage makes travel easier and more organized. Soft luggage offers flexibility, lightweight design, and extra pockets for "
+title: 'Best Soft-Sided Checked Luggage: Top Picks for Stress-Free Travel'
+description: 'Choosing the best soft-sided checked luggage makes travel easier and
+  more organized. Soft luggage offers flexibility, lightweight design, and extra pockets
+  for '
 pubDate: 2026-07-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-sided-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-sided-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft-sided checked luggage makes travel easier and more organized. Soft luggage offers flexibility, lightweight design, and extra pockets for convenience.**

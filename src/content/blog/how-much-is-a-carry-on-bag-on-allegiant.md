@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Carry on Bag on Allegiant: Hidden Fees Revealed"
-description: "Are you planning a trip with Allegiant Air and wondering about the cost of bringing a carry-on bag? You're not alone. Navigating airline fees can feel like a pu"
+title: 'How Much is a Carry on Bag on Allegiant: Hidden Fees Revealed'
+description: Are you planning a trip with Allegiant Air and wondering about the cost
+  of bringing a carry-on bag? You're not alone. Navigating airline fees can feel like
+  a pu
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-bag-on-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-bag-on-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Allegiant Air and wondering about the cost of bringing a carry-on bag? You're not alone.**

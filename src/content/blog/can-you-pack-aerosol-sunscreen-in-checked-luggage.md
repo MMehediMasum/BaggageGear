@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Aerosol Sunscreen in Checked Luggage? Essential Rules"
-description: "Are you planning your next vacation and wondering what you can pack in your checked luggage? You’re not alone. One common question travelers often face is wheth"
+title: Can You Pack Aerosol Sunscreen in Checked Luggage? Essential Rules
+description: Are you planning your next vacation and wondering what you can pack in
+  your checked luggage? You’re not alone. One common question travelers often face
+  is wheth
 pubDate: 2025-09-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-aerosol-sunscreen-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-aerosol-sunscreen-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next vacation and wondering what you can pack in your checked luggage? You’re not alone.**

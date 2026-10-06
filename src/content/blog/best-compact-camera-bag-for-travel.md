@@ -1,10 +1,14 @@
 ---
-title: "Best Compact Camera Bag for Travel: Top Picks for Photographers"
-description: "Choosing the best compact camera bag for travel helps protect your gear and keeps it easy to carry. A good bag fits your camera, lenses, and accessories while s"
+title: 'Best Compact Camera Bag for Travel: Top Picks for Photographers'
+description: Choosing the best compact camera bag for travel helps protect your gear
+  and keeps it easy to carry. A good bag fits your camera, lenses, and accessories
+  while s
 pubDate: 2026-06-12
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-compact-camera-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camera Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-compact-camera-bag-for-travel&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best compact camera bag for travel helps protect your gear and keeps it easy to carry. A good bag fits your camera, lenses, and accessories while staying lightweight and durable.**

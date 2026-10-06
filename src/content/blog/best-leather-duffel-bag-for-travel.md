@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Duffel Bag for Travel: Stylish and Spacious Options"
-description: "Choosing the best leather duffel bag for travel ensures style, durability, and convenience on every trip. These bags combine quality materials with practical fe"
+title: 'Best Leather Duffel Bag for Travel: Stylish and Spacious Options'
+description: Choosing the best leather duffel bag for travel ensures style, durability,
+  and convenience on every trip. These bags combine quality materials with practical
+  fe
 pubDate: 2026-06-18
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-duffel-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-duffel-bag-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best leather duffel bag for travel ensures style, durability, and convenience on every trip. These bags combine quality materials with practical features for all your travel needs.**

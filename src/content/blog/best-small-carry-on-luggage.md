@@ -1,10 +1,14 @@
 ---
-title: "Best Small Carry On Luggage: Top Picks for Every Traveler"
-description: "Choosing the best small carry-on luggage makes travel easier and more comfortable. Compact size, durability, and smooth wheels matter most for hassle-free trips"
+title: 'Best Small Carry On Luggage: Top Picks for Every Traveler'
+description: Choosing the best small carry-on luggage makes travel easier and more
+  comfortable. Compact size, durability, and smooth wheels matter most for hassle-free
+  trips
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-small-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best small carry-on luggage makes travel easier and more comfortable. Compact size, durability, and smooth wheels matter most for hassle-free trips.**

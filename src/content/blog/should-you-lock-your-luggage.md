@@ -1,10 +1,14 @@
 ---
-title: "Should You Lock Your Luggage: Essential Security Tips Revealed"
-description: "You're standing at the airport, your suitcase in tow, ready to embark on your next adventure. But before you check in your luggage, a question lingers in your m"
+title: 'Should You Lock Your Luggage: Essential Security Tips Revealed'
+description: You're standing at the airport, your suitcase in tow, ready to embark
+  on your next adventure. But before you check in your luggage, a question lingers
+  in your m
 pubDate: 2025-10-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=should-you-lock-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=should-you-lock-your-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You're standing at the airport, your suitcase in tow, ready to embark on your next adventure. But before you check in your luggage, a question lingers in your mind: should you lock your luggage?**

@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Mini Birkin Bag: Ultimate Price Guide 2025"
-description: "Are you curious about the cost of a mini Birkin bag? This iconic handbag has captured the hearts of fashion enthusiasts around the globe, and for good reason. I"
+title: 'How Much is a Mini Birkin Bag: Ultimate Price Guide 2025'
+description: Are you curious about the cost of a mini Birkin bag? This iconic handbag
+  has captured the hearts of fashion enthusiasts around the globe, and for good reason.
+  I
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-mini-birkin-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-mini-birkin-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about the cost of a mini Birkin bag? This iconic handbag has captured the hearts of fashion enthusiasts around the globe, and for good reason.**

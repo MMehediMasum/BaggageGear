@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Suit Jacket for Suitcase: Expert Tips to Stay Wrinkle-Free"
-description: "Packing a suit jacket for travel can be a daunting task. You want to look sharp when you arrive at your destination, but the thought of wrinkles and creases can"
+title: 'How to Fold a Suit Jacket for Suitcase: Expert Tips to Stay Wrinkle-Free'
+description: Packing a suit jacket for travel can be a daunting task. You want to
+  look sharp when you arrive at your destination, but the thought of wrinkles and
+  creases can
 pubDate: 2025-11-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-jacket-for-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-jacket-for-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suit jacket for travel can be a daunting task. You want to look sharp when you arrive at your destination, but the thought of wrinkles and creases can be stressful.**

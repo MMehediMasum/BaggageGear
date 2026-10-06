@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Delta Airlines: Ultimate Fee Guide"
-description: "Planning your next trip with Delta Airlines? One of the crucial details you need to know is how much a checked bag will cost you. Baggage fees can sometimes cat"
+title: 'How Much is a Checked Bag on Delta Airlines: Ultimate Fee Guide'
+description: Planning your next trip with Delta Airlines? One of the crucial details
+  you need to know is how much a checked bag will cost you. Baggage fees can sometimes
+  cat
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-delta-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-delta-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip with Delta Airlines? One of the crucial details you need to know is how much a checked bag will cost you.**

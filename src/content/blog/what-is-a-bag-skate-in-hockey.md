@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bag Skate in Hockey: Ultimate Guide to Training Drill"
 description: "Ever been curious about the intense world of hockey training? If you've heard whispers or perhaps shouts about the term \"bag skate,\" you're in the right place. "
 pubDate: 2026-03-24

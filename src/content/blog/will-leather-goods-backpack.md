@@ -1,10 +1,14 @@
 ---
-title: "Will Leather Goods Backpack: Ultimate Style and Durability Guide"
-description: "Imagine a backpack that not only complements your style but also stands the test of time. Enter the Will Leather Goods backpack, a masterpiece designed for thos"
+title: 'Will Leather Goods Backpack: Ultimate Style and Durability Guide'
+description: Imagine a backpack that not only complements your style but also stands
+  the test of time. Enter the Will Leather Goods backpack, a masterpiece designed
+  for thos
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-leather-goods-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=will-leather-goods-backpack&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine a backpack that not only complements your style but also stands the test of time. Enter the Will Leather Goods backpack, a masterpiece designed for those who appreciate quality and elegance.**

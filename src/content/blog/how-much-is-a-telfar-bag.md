@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Telfar Bag: Ultimate Price Guide 2025"
-description: "Curious about the buzz surrounding Telfar bags and wondering how much they cost? You're not alone. With their iconic \"Shopping Bag\" design and a cult following "
+title: 'How Much is a Telfar Bag: Ultimate Price Guide 2025'
+description: 'Curious about the buzz surrounding Telfar bags and wondering how much
+  they cost? You''re not alone. With their iconic "Shopping Bag" design and a cult
+  following '
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-telfar-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-telfar-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Curious about the buzz surrounding Telfar bags and wondering how much they cost? You're not alone.**

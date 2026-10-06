@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Lightweight Stove for Backpacking: Top Picks for Outdoor Adventures"
 description: "Choosing the best lightweight stove for backpacking makes outdoor cooking easy and efficient. A good stove saves space and fuel while providing reliable heat. B"
 pubDate: 2026-06-18

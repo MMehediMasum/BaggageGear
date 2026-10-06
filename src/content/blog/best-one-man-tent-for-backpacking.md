@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best One Man Tent for Backpacking: Top Lightweight and Waterproof Choices"
 description: "Finding the best one man tent for backpacking means choosing light, waterproof, and easy-to-set-up gear. A good tent keeps you safe and comfortable on your solo"
 pubDate: 2026-06-14

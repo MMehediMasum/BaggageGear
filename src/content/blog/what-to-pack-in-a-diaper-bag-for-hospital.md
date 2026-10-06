@@ -1,10 +1,13 @@
 ---
-title: "What to Pack in a Diaper Bag for Hospital: Ultimate Newborn Essentials"
-description: "Preparing for your baby's arrival is an exciting time filled with anticipation and a touch of nervousness. One of the many things on your to-do list is packing "
+title: 'What to Pack in a Diaper Bag for Hospital: Ultimate Newborn Essentials'
+description: 'Preparing for your baby''s arrival is an exciting time filled with anticipation
+  and a touch of nervousness. One of the many things on your to-do list is packing '
 pubDate: 2025-09-07
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-diaper-bag-for-hospital&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Diaper Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-diaper-bag-for-hospital&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for your baby's arrival is an exciting time filled with anticipation and a touch of nervousness. One of the many things on your to-do list is packing a diaper bag for the hospital.**

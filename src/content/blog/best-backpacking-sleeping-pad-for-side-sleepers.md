@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Sleeping Pad for Side Sleepers: Top Comfort Picks"
 description: "Side sleepers need extra comfort and support on backpacking trips. Choosing the right sleeping pad helps protect pressure points and ensures restful sleep. Slee"
 pubDate: 2026-06-09

@@ -1,10 +1,13 @@
 ---
-title: "Can You Pack Candles in Checked Luggage: Essential Travel Tips"
-description: "Are you planning your next adventure and wondering if you can pack your favorite candles in checked luggage? This question might have popped up as you imagined "
+title: 'Can You Pack Candles in Checked Luggage: Essential Travel Tips'
+description: 'Are you planning your next adventure and wondering if you can pack your
+  favorite candles in checked luggage? This question might have popped up as you imagined '
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-candles-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-candles-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering if you can pack your favorite candles in checked luggage? This question might have popped up as you imagined setting the perfect mood in your travel destination with a familiar, comforting scent.**

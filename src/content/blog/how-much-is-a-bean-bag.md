@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bean Bag: Ultimate Price Guide for 2025 Deals"
 description: "Ever found yourself sinking into the comfort of a bean bag and wondered, \"How much is a bean bag?\" You're not alone. Whether you're looking to revamp your livin"
 pubDate: 2025-12-23

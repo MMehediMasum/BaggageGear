@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Tall Man: Top Picks for Ultimate Comfort"
-description: "Finding the best sleeping bag for tall men can be tough. Most bags are too short or narrow for comfort. Tall campers need extra length and width to sleep well o"
+title: 'Best Sleeping Bag for Tall Man: Top Picks for Ultimate Comfort'
+description: Finding the best sleeping bag for tall men can be tough. Most bags are
+  too short or narrow for comfort. Tall campers need extra length and width to sleep
+  well o
 pubDate: 2026-06-08
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-tall-man&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-tall-man&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sleeping bag for tall men can be tough. Most bags are too short or narrow for comfort.**

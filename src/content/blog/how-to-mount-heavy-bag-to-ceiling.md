@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Mount Heavy Bag to Ceiling: Easy Steps for Secure Setup"
 description: "Are you ready to transform your home into a personal boxing gym? Mounting a heavy bag to your ceiling is a game-changer. It allows you to enjoy intense workouts"
 pubDate: 2026-01-23

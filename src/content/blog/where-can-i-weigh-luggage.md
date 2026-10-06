@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Weigh Luggage: Top Spots for Accurate Results"
-description: "Are you getting ready for an exciting trip but worried about your luggage weight? You're not alone. Many travelers face the stress of ensuring their luggage mee"
+title: 'Where Can I Weigh Luggage: Top Spots for Accurate Results'
+description: Are you getting ready for an exciting trip but worried about your luggage
+  weight? You're not alone. Many travelers face the stress of ensuring their luggage
+  mee
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-weigh-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-weigh-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you getting ready for an exciting trip but worried about your luggage weight? You're not alone.**

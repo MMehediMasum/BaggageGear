@@ -1,10 +1,14 @@
 ---
-title: "Best Camera Backpack for Travel: Top Waterproof and Anti-Theft Picks"
-description: "Choosing the best camera backpack for travel protects your gear and keeps it organized. A good backpack fits your camera, laptop, and accessories comfortably. T"
+title: 'Best Camera Backpack for Travel: Top Waterproof and Anti-Theft Picks'
+description: Choosing the best camera backpack for travel protects your gear and keeps
+  it organized. A good backpack fits your camera, laptop, and accessories comfortably.
+  T
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-camera-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camera Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-camera-backpack-for-travel&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best camera backpack for travel protects your gear and keeps it organized. A good backpack fits your camera, laptop, and accessories comfortably.**

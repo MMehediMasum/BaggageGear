@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Liquids in Your Carry On: Essential TSA Rules Explained"
-description: "Imagine this: You're packing for your dream getaway, and suddenly, a question pops into your mind. Can you take liquids in your carry-on? It's a common concern "
+title: 'Can You Take Liquids in Your Carry On: Essential TSA Rules Explained'
+description: 'Imagine this: You''re packing for your dream getaway, and suddenly,
+  a question pops into your mind. Can you take liquids in your carry-on? It''s a common
+  concern '
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-liquids-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-liquids-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're packing for your dream getaway, and suddenly, a question pops into your mind. Can you take liquids in your carry-on?**

@@ -1,10 +1,14 @@
 ---
-title: "How to Pack for Two Weeks in a Carry On: Ultimate Space-Saving Guide"
-description: "Are you planning a two-week trip but dread the thought of dragging around a heavy suitcase? Imagine breezing through airports and effortlessly stowing your lugg"
+title: 'How to Pack for Two Weeks in a Carry On: Ultimate Space-Saving Guide'
+description: Are you planning a two-week trip but dread the thought of dragging around
+  a heavy suitcase? Imagine breezing through airports and effortlessly stowing your
+  lugg
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-for-two-weeks-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-for-two-weeks-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you planning a two-week trip but dread the thought of dragging around a heavy suitcase? Imagine breezing through airports and effortlessly stowing your luggage in overhead bins.**

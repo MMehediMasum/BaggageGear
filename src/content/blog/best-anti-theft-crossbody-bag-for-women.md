@@ -1,10 +1,14 @@
 ---
-title: "Best Anti Theft Crossbody Bag for Women: Secure, Stylish, and Functional Choices"
-description: "Finding a secure and stylish bag is key for women on the go. Anti-theft crossbody bags offer safety and convenience in one. These bags help protect your belongi"
+title: 'Best Anti Theft Crossbody Bag for Women: Secure, Stylish, and Functional Choices'
+description: Finding a secure and stylish bag is key for women on the go. Anti-theft
+  crossbody bags offer safety and convenience in one. These bags help protect your
+  belongi
 pubDate: 2026-06-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-anti-theft-crossbody-bag-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Anti Theft Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-anti-theft-crossbody-bag-for-women&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding a secure and stylish bag is key for women on the go. Anti-theft crossbody bags offer safety and convenience in one.**

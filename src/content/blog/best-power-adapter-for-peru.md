@@ -1,10 +1,14 @@
 ---
-title: "Best Power Adapter for Peru: Essential Travel Companion for Safe Charging"
-description: "Finding the best power adapter for Peru ensures your devices stay charged during your trip. Peru uses unique plug types and voltage standards travelers must kno"
+title: 'Best Power Adapter for Peru: Essential Travel Companion for Safe Charging'
+description: Finding the best power adapter for Peru ensures your devices stay charged
+  during your trip. Peru uses unique plug types and voltage standards travelers must
+  kno
 pubDate: 2026-05-20
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-peru&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-peru&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best power adapter for Peru ensures your devices stay charged during your trip. Peru uses unique plug types and voltage standards travelers must know.**

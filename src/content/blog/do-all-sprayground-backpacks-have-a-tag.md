@@ -1,10 +1,14 @@
 ---
-title: "Do All Sprayground Backpacks Have a Tag? Find Out Now!"
-description: "Have you ever found yourself admiring the bold designs of Sprayground backpacks and wondered if they all come with a tag? Maybe you're considering purchasing on"
+title: Do All Sprayground Backpacks Have a Tag? Find Out Now!
+description: Have you ever found yourself admiring the bold designs of Sprayground
+  backpacks and wondered if they all come with a tag? Maybe you're considering purchasing
+  on
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-all-sprayground-backpacks-have-a-tag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=do-all-sprayground-backpacks-have-a-tag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself admiring the bold designs of Sprayground backpacks and wondered if they all come with a tag? Maybe you're considering purchasing one and want to ensure its authenticity, or perhaps you're simply curious about what makes these backpacks stand out.**

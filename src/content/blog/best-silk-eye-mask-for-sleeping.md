@@ -1,10 +1,14 @@
 ---
-title: "Best Silk Eye Mask for Sleeping: Ultimate Comfort and Light Blocking"
-description: "Finding the best silk eye mask for sleeping can improve your rest and comfort. Silk masks block light gently and feel soft on your skin. A good silk eye mask he"
+title: 'Best Silk Eye Mask for Sleeping: Ultimate Comfort and Light Blocking'
+description: Finding the best silk eye mask for sleeping can improve your rest and
+  comfort. Silk masks block light gently and feel soft on your skin. A good silk eye
+  mask he
 pubDate: 2026-05-21
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-silk-eye-mask-for-sleeping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-silk-eye-mask-for-sleeping&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best silk eye mask for sleeping can improve your rest and comfort. Silk masks block light gently and feel soft on your skin.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can Cops Search Your Bag Without a Warrant? Know Your Rights!"
 description: "Imagine you're walking down the street, your bag slung casually over your shoulder. Suddenly, a police officer stops you and asks to search your bag. A wave of "
 pubDate: 2025-12-07

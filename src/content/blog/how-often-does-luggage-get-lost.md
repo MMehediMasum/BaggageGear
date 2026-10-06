@@ -1,10 +1,14 @@
 ---
-title: "How Often Does Luggage Get Lost: Shocking Stats Revealed"
-description: "You’re all set for your trip. Your bags are packed, and your itinerary is ready. But there's a nagging worry at the back of your mind: what if your luggage gets"
+title: 'How Often Does Luggage Get Lost: Shocking Stats Revealed'
+description: 'You’re all set for your trip. Your bags are packed, and your itinerary
+  is ready. But there''s a nagging worry at the back of your mind: what if your luggage
+  gets'
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-often-does-luggage-get-lost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-often-does-luggage-get-lost&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’re all set for your trip. Your bags are packed, and your itinerary is ready.**

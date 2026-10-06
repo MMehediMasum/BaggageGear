@@ -1,10 +1,14 @@
 ---
-title: "What Size Backpack Can You Take on a Plane: Ultimate Carry-On Guide"
-description: "Navigating the rules of air travel can sometimes feel like solving a complex puzzle, especially when it comes to packing. You might be wondering, \"What size bac"
+title: 'What Size Backpack Can You Take on a Plane: Ultimate Carry-On Guide'
+description: Navigating the rules of air travel can sometimes feel like solving a
+  complex puzzle, especially when it comes to packing. You might be wondering, "What
+  size bac
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-backpack-can-you-take-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=what-size-backpack-can-you-take-on-a-plane&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Navigating the rules of air travel can sometimes feel like solving a complex puzzle, especially when it comes to packing. You might be wondering, "What size backpack can you take on a plane?"**

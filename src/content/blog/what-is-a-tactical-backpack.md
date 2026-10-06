@@ -1,10 +1,14 @@
 ---
-title: "What is a Tactical Backpack: Ultimate Guide to Features & Uses"
-description: "Imagine heading out on your next adventure, whether it's a weekend hike, a camping trip, or a quick getaway. You want to be prepared for anything, right? That's"
+title: 'What is a Tactical Backpack: Ultimate Guide to Features & Uses'
+description: Imagine heading out on your next adventure, whether it's a weekend hike,
+  a camping trip, or a quick getaway. You want to be prepared for anything, right?
+  That's
 pubDate: 2025-10-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-tactical-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Types Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-tactical-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine heading out on your next adventure, whether it's a weekend hike, a camping trip, or a quick getaway. You want to be prepared for anything, right?**

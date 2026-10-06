@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Luggage Size: Easy Steps for Perfect Packing"
-description: "Are you planning a trip and uncertain about how to measure your luggage size? Whether you're a seasoned traveler or packing for your first adventure, knowing ho"
+title: 'How to Measure Luggage Size: Easy Steps for Perfect Packing'
+description: Are you planning a trip and uncertain about how to measure your luggage
+  size? Whether you're a seasoned traveler or packing for your first adventure, knowing
+  ho
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-luggage-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-luggage-size&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and uncertain about how to measure your luggage size? Whether you're a seasoned traveler or packing for your first adventure, knowing how to accurately measure your luggage is crucial.**

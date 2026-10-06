@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Alcohol in a Checked Bag Delta: Essential Rules Explained"
-description: "Have you ever wondered if you can pack alcohol in your checked bag when flying with Delta? It's a common question that travelers like you often face. Whether yo"
+title: 'Can You Put Alcohol in a Checked Bag Delta: Essential Rules Explained'
+description: Have you ever wondered if you can pack alcohol in your checked bag when
+  flying with Delta? It's a common question that travelers like you often face. Whether
+  yo
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-alcohol-in-a-checked-bag-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-alcohol-in-a-checked-bag-delta&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever wondered if you can pack alcohol in your checked bag when flying with Delta? It's a common question that travelers like you often face.**

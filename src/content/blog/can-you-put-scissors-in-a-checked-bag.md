@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Scissors in a Checked Bag: Essential Travel Rules Explained"
-description: "Imagine this: You're packing for an exciting vacation, making sure you have all the essentials, and then you pause, scissors in hand, wondering—can you put scis"
+title: 'Can You Put Scissors in a Checked Bag: Essential Travel Rules Explained'
+description: 'Imagine this: You''re packing for an exciting vacation, making sure
+  you have all the essentials, and then you pause, scissors in hand, wondering—can
+  you put scis'
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-scissors-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-scissors-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're packing for an exciting vacation, making sure you have all the essentials, and then you pause, scissors in hand, wondering—can you put scissors in a checked bag? It's a common dilemma that many travelers face, and the answer might surprise you.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is a Tote Bag Good for Crochet Beginners? Essential Tips Revealed"
 description: "Are you a crochet beginner wondering what project to tackle next? Choosing the right project can set the tone for your entire crochet journey. That's where the "
 pubDate: 2026-02-10

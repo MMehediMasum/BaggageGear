@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack With USB Charging Port for Travel, Work, and School"
-description: "A backpack with a USB charging port lets you charge devices on the move. It combines storage and power for daily use or travel. Choosing the best backpack with "
+title: Best Backpack With USB Charging Port for Travel, Work, and School
+description: 'A backpack with a USB charging port lets you charge devices on the move.
+  It combines storage and power for daily use or travel. Choosing the best backpack
+  with '
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-with-usb-charging-port&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Specialty Laptop Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-with-usb-charging-port&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **A backpack with a USB charging port lets you charge devices on the move. It combines storage and power for daily use or travel.**

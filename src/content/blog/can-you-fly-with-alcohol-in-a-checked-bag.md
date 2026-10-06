@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Alcohol in a Checked Bag: Essential Rules Revealed"
-description: "Imagine you're gearing up for a much-anticipated vacation or a business trip, and you want to bring along a taste of your favorite wine or a special bottle of w"
+title: 'Can You Fly With Alcohol in a Checked Bag: Essential Rules Revealed'
+description: Imagine you're gearing up for a much-anticipated vacation or a business
+  trip, and you want to bring along a taste of your favorite wine or a special bottle
+  of w
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-alcohol-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're gearing up for a much-anticipated vacation or a business trip, and you want to bring along a taste of your favorite wine or a special bottle of whiskey. But then, a question pops into your mind: Can you fly with alcohol in a checked bag?**

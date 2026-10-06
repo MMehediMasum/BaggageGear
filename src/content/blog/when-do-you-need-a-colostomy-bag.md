@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Do You Need a Colostomy Bag: Essential Guide & Signs"
 description: "Have you ever wondered when you might need a colostomy bag? It's a question you may not think about until it becomes personal. But understanding this topic can "
 pubDate: 2026-04-26

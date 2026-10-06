@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can Drug Dogs Smell Edibles in a Sealed Bag? Shocking Truths Revealed"
 description: "Imagine you're heading to a music festival or a weekend getaway, and you've packed some edibles for a little extra fun. But then, a nagging thought crosses your"
 pubDate: 2025-10-15

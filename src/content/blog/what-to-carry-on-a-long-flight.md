@@ -1,10 +1,14 @@
 ---
-title: "What to Carry on a Long Flight: Essential Items for Comfort & Ease"
-description: "You’re all set for your long-awaited trip, but there's one thing left to do: pack your carry-on for that long flight. The thought of spending several hours in t"
+title: 'What to Carry on a Long Flight: Essential Items for Comfort & Ease'
+description: 'You’re all set for your long-awaited trip, but there''s one thing left
+  to do: pack your carry-on for that long flight. The thought of spending several
+  hours in t'
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-carry-on-a-long-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-carry-on-a-long-flight&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **You’re all set for your long-awaited trip, but there's one thing left to do: pack your carry-on for that long flight. The thought of spending several hours in the air can be daunting, but with a little preparation, you can turn this time into a relaxing part of your adventure.**

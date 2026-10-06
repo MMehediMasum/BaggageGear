@@ -1,10 +1,14 @@
 ---
-title: "Can You Store Luggage at Rome Airport: Ultimate Guide & Tips"
-description: "Planning a trip to the Eternal City is always exciting, but figuring out what to do with your luggage can be a real headache. Imagine arriving at Rome's bustlin"
+title: 'Can You Store Luggage at Rome Airport: Ultimate Guide & Tips'
+description: Planning a trip to the Eternal City is always exciting, but figuring
+  out what to do with your luggage can be a real headache. Imagine arriving at Rome's
+  bustlin
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-rome-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-store-luggage-at-rome-airport&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to the Eternal City is always exciting, but figuring out what to do with your luggage can be a real headache. Imagine arriving at Rome's bustling airport, ready to explore the ancient wonders and charming streets, only to be weighed down by heavy bags.**

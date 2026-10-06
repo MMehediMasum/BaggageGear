@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Luggage on Shinkansen: Essential Travel Tips Revealed"
-description: "Are you planning a trip to Japan and wondering if you can bring luggage on the Shinkansen, the country's famous bullet train? You're not alone. Many travelers f"
+title: 'Can You Bring Luggage on Shinkansen: Essential Travel Tips Revealed'
+description: Are you planning a trip to Japan and wondering if you can bring luggage
+  on the Shinkansen, the country's famous bullet train? You're not alone. Many travelers
+  f
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-luggage-on-shinkansen&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-luggage-on-shinkansen&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip to Japan and wondering if you can bring luggage on the Shinkansen, the country's famous bullet train? You're not alone.**

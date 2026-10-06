@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Wheels for Cobblestone Streets: Navigate with Ease and Style"
-description: "Choosing the right luggage wheels makes a big difference on cobblestone streets. Smooth, sturdy wheels help your suitcase roll easily over rough surfaces. Cobbl"
+title: 'Best Luggage Wheels for Cobblestone Streets: Navigate with Ease and Style'
+description: Choosing the right luggage wheels makes a big difference on cobblestone
+  streets. Smooth, sturdy wheels help your suitcase roll easily over rough surfaces.
+  Cobbl
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-wheels-for-cobblestone-streets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Repairing Luggage Zippers And Handles
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-wheels-for-cobblestone-streets&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Choosing the right luggage wheels makes a big difference on cobblestone streets. Smooth, sturdy wheels help your suitcase roll easily over rough surfaces.**

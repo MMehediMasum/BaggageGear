@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Mascara in a Carry On: Travel Rules Explained!"
-description: "Do you have a trip coming up and wonder if you can pack your favorite mascara in your carry-on? You're not alone. Navigating airport security rules can feel lik"
+title: 'Can You Bring Mascara in a Carry On: Travel Rules Explained!'
+description: Do you have a trip coming up and wonder if you can pack your favorite
+  mascara in your carry-on? You're not alone. Navigating airport security rules can
+  feel lik
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-mascara-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-mascara-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Do you have a trip coming up and wonder if you can pack your favorite mascara in your carry-on? You're not alone.**

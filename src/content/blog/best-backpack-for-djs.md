@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for DJs: Top Durable and Spacious DJ Gear Bags"
-description: "Finding the best backpack for DJs protects gear and keeps it organized on the go. A good DJ backpack fits controllers, laptops, cables, and accessories safely. "
+title: 'Best Backpack for DJs: Top Durable and Spacious DJ Gear Bags'
+description: 'Finding the best backpack for DJs protects gear and keeps it organized
+  on the go. A good DJ backpack fits controllers, laptops, cables, and accessories
+  safely. '
 pubDate: 2026-07-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-djs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-djs&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for DJs protects gear and keeps it organized on the go. A good DJ backpack fits controllers, laptops, cables, and accessories safely.**

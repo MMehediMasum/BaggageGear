@@ -1,10 +1,14 @@
 ---
-title: "Best Day Hiking Backpack for Petite Female: Top Lightweight Picks"
-description: "Finding the best day hiking backpack for petite females can be challenging. A smaller, lightweight pack offers comfort and ease on trails. Choosing the right ba"
+title: 'Best Day Hiking Backpack for Petite Female: Top Lightweight Picks'
+description: Finding the best day hiking backpack for petite females can be challenging.
+  A smaller, lightweight pack offers comfort and ease on trails. Choosing the right
+  ba
 pubDate: 2026-06-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-day-hiking-backpack-for-petite-female&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hiking Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-day-hiking-backpack-for-petite-female&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best day hiking backpack for petite females can be challenging. A smaller, lightweight pack offers comfort and ease on trails.**

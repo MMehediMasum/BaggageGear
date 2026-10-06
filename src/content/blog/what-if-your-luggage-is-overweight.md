@@ -1,10 +1,14 @@
 ---
-title: "What If Your Luggage is Overweight: Essential Tips to Avoid Fees"
-description: "Picture this: you're at the airport, ready to check in for your long-awaited vacation. You approach the counter, only to feel your heart sink when the airline a"
+title: 'What If Your Luggage is Overweight: Essential Tips to Avoid Fees'
+description: 'Picture this: you''re at the airport, ready to check in for your long-awaited
+  vacation. You approach the counter, only to feel your heart sink when the airline
+  a'
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-if-your-luggage-is-overweight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-if-your-luggage-is-overweight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: you're at the airport, ready to check in for your long-awaited vacation. You approach the counter, only to feel your heart sink when the airline attendant informs you that your luggage is overweight.**

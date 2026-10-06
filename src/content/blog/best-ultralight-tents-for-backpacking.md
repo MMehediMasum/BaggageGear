@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Ultralight Tents for Backpacking: Top Solo and Duo Picks Reviewed"
 description: "Choosing the best ultralight tent for backpacking makes your outdoor trip easier and more comfortable. A lightweight, durable tent saves space and protects you "
 pubDate: 2026-06-10

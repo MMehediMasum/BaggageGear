@@ -1,10 +1,14 @@
 ---
-title: "Best Packable Backpack for Travel: Top Lightweight and Water-Resistant Picks"
-description: "Finding the best packable backpack for travel makes your trips easier and more comfortable. These backpacks save space while carrying all essentials securely. T"
+title: 'Best Packable Backpack for Travel: Top Lightweight and Water-Resistant Picks'
+description: Finding the best packable backpack for travel makes your trips easier
+  and more comfortable. These backpacks save space while carrying all essentials securely.
+  T
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packable-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-packable-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best packable backpack for travel makes your trips easier and more comfortable. These backpacks save space while carrying all essentials securely.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Food on Your Carry on Bag: Ultimate Travel Guide"
-description: "You've meticulously planned your trip and packed your bags, but there's one nagging question left: Can you bring food on your carry-on bag? Whether you're a fre"
+title: 'Can You Bring Food on Your Carry on Bag: Ultimate Travel Guide'
+description: 'You''ve meticulously planned your trip and packed your bags, but there''s
+  one nagging question left: Can you bring food on your carry-on bag? Whether you''re
+  a fre'
 pubDate: 2025-12-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-food-on-your-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-food-on-your-carry-on-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've meticulously planned your trip and packed your bags, but there's one nagging question left: Can you bring food on your carry-on bag? Whether you're a frequent flyer or a first-time traveler, navigating the rules of what you can and cannot bring through security can be a bit overwhelming.**

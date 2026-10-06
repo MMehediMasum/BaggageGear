@@ -1,10 +1,14 @@
 ---
-title: "How to Tie Backpack Straps: Easy Tips for a Perfect Fit"
-description: "Have you ever found yourself adjusting your backpack straps, only to have them slip out of place again? You're not alone. Ensuring your backpack is comfortable "
+title: 'How to Tie Backpack Straps: Easy Tips for a Perfect Fit'
+description: 'Have you ever found yourself adjusting your backpack straps, only to
+  have them slip out of place again? You''re not alone. Ensuring your backpack is
+  comfortable '
 pubDate: 2025-10-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tie-backpack-straps&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tie-backpack-straps&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself adjusting your backpack straps, only to have them slip out of place again? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Shoes in My Carry On: Ultimate Travel Packing Tips"
-description: "When you're packing for a flight, every inch of space in your carry-on counts. You might be wondering, \"Can I bring shoes in my carry-on?\" After all, shoes can "
+title: 'Can I Bring Shoes in My Carry On: Ultimate Travel Packing Tips'
+description: 'When you''re packing for a flight, every inch of space in your carry-on
+  counts. You might be wondering, "Can I bring shoes in my carry-on?" After all, shoes
+  can '
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-shoes-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-shoes-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're packing for a flight, every inch of space in your carry-on counts. You might be wondering, "Can I bring shoes in my carry-on?"**

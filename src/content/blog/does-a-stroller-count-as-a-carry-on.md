@@ -1,10 +1,14 @@
 ---
-title: "Does a Stroller Count As a Carry On? Essential Travel Tips!"
-description: "Imagine you’re at the airport, juggling your bags, your baby, and the ever-present stress of travel. You’ve meticulously planned everything, but there’s one lin"
+title: Does a Stroller Count As a Carry On? Essential Travel Tips!
+description: Imagine you’re at the airport, juggling your bags, your baby, and the
+  ever-present stress of travel. You’ve meticulously planned everything, but there’s
+  one lin
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-stroller-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-a-stroller-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine you’re at the airport, juggling your bags, your baby, and the ever-present stress of travel. You’ve meticulously planned everything, but there’s one lingering question: Does a stroller count as a carry-on?**

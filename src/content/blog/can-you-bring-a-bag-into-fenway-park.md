@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Bag into Fenway Park: Essential Guide & Rules"
-description: "Are you planning a trip to Fenway Park and wondering if you can bring a bag inside? Whether you're heading to a thrilling Red Sox game or a special event, knowi"
+title: 'Can You Bring a Bag into Fenway Park: Essential Guide & Rules'
+description: Are you planning a trip to Fenway Park and wondering if you can bring
+  a bag inside? Whether you're heading to a thrilling Red Sox game or a special event,
+  knowi
 pubDate: 2026-03-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-fenway-park&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-fenway-park&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip to Fenway Park and wondering if you can bring a bag inside? Whether you're heading to a thrilling Red Sox game or a special event, knowing the rules about bags can save you time and hassle at the gate.**

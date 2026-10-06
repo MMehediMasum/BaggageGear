@@ -1,10 +1,14 @@
 ---
-title: "Can I Pack Snacks in My Checked Luggage: Essential Travel Tips"
-description: "Are you wondering if you can pack snacks in your checked luggage for your next trip? It’s a common question that many travelers ask before heading to the airpor"
+title: 'Can I Pack Snacks in My Checked Luggage: Essential Travel Tips'
+description: Are you wondering if you can pack snacks in your checked luggage for
+  your next trip? It’s a common question that many travelers ask before heading to
+  the airpor
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-pack-snacks-in-my-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-pack-snacks-in-my-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you wondering if you can pack snacks in your checked luggage for your next trip? It’s a common question that many travelers ask before heading to the airport.**

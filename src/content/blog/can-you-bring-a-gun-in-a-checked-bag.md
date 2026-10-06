@@ -1,10 +1,13 @@
 ---
-title: "Can You Bring a Gun in a Checked Bag: Essential TSA Rules Explained"
-description: "When you're preparing for a trip, packing can be a bit stressful, especially when it comes to items with strict regulations. One question that might be on your "
+title: 'Can You Bring a Gun in a Checked Bag: Essential TSA Rules Explained'
+description: 'When you''re preparing for a trip, packing can be a bit stressful, especially
+  when it comes to items with strict regulations. One question that might be on your '
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-gun-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-gun-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're preparing for a trip, packing can be a bit stressful, especially when it comes to items with strict regulations. One question that might be on your mind is: "Can you bring a gun in a checked bag?"**

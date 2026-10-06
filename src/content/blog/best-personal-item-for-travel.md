@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item for Travel: Top Carry-On Backpacks and Duffel Bags Reviewed"
-description: "Choosing the best personal item for travel can make your trip easier and more comfortable. A good travel bag keeps essentials organized and fits airline rules. "
+title: 'Best Personal Item for Travel: Top Carry-On Backpacks and Duffel Bags Reviewed'
+description: 'Choosing the best personal item for travel can make your trip easier
+  and more comfortable. A good travel bag keeps essentials organized and fits airline
+  rules. '
 pubDate: 2026-08-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-for-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item for travel can make your trip easier and more comfortable. A good travel bag keeps essentials organized and fits airline rules.**

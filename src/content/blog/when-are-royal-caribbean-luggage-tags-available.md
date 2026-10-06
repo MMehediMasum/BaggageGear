@@ -1,10 +1,14 @@
 ---
-title: "When are Royal Caribbean Luggage Tags Available: Essential Timing Guide"
-description: "Planning your dream vacation with Royal Caribbean? You're probably excited about the adventure that awaits at sea. But before you set sail, there's a crucial de"
+title: 'When are Royal Caribbean Luggage Tags Available: Essential Timing Guide'
+description: Planning your dream vacation with Royal Caribbean? You're probably excited
+  about the adventure that awaits at sea. But before you set sail, there's a crucial
+  de
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-are-royal-caribbean-luggage-tags-available&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=when-are-royal-caribbean-luggage-tags-available&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning your dream vacation with Royal Caribbean? You're probably excited about the adventure that awaits at sea.**

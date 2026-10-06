@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Tote Bag on a Plane: Essential Travel Rules Explained"
-description: "Are you planning your next trip and wondering if you can bring a tote bag on a plane? You're not alone. Many travelers ask the same question as they pack their "
+title: 'Can I Bring a Tote Bag on a Plane: Essential Travel Rules Explained'
+description: 'Are you planning your next trip and wondering if you can bring a tote
+  bag on a plane? You''re not alone. Many travelers ask the same question as they
+  pack their '
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-tote-bag-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tote And Drawstring Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-tote-bag-on-a-plane&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you planning your next trip and wondering if you can bring a tote bag on a plane? You're not alone.**

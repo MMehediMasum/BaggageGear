@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Lv Bag: Top Trusted Sites to Get Cash Fast"
-description: "Are you looking to part ways with your beloved LV bag, but unsure where to start? Selling your luxury handbag can feel like navigating a maze, with countless op"
+title: 'Where Can I Sell My Lv Bag: Top Trusted Sites to Get Cash Fast'
+description: Are you looking to part ways with your beloved LV bag, but unsure where
+  to start? Selling your luxury handbag can feel like navigating a maze, with countless
+  op
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-lv-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-lv-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to part ways with your beloved LV bag, but unsure where to start? Selling your luxury handbag can feel like navigating a maze, with countless options and endless decisions.**

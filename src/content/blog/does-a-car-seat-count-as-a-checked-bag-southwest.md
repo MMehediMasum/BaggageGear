@@ -1,10 +1,14 @@
 ---
-title: "Does a Car Seat Count As a Checked Bag Southwest? Essential Guide"
-description: "Are you planning a trip with Southwest Airlines and wondering whether your child's car seat counts as a checked bag? Navigating airline rules can be confusing, "
+title: Does a Car Seat Count As a Checked Bag Southwest? Essential Guide
+description: 'Are you planning a trip with Southwest Airlines and wondering whether
+  your child''s car seat counts as a checked bag? Navigating airline rules can be
+  confusing, '
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-car-seat-count-as-a-checked-bag-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=does-a-car-seat-count-as-a-checked-bag-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Southwest Airlines and wondering whether your child's car seat counts as a checked bag? Navigating airline rules can be confusing, especially when it comes to traveling with little ones.**

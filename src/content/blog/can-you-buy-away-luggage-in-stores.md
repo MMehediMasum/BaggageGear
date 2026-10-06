@@ -1,10 +1,14 @@
 ---
-title: "Can You Buy Away Luggage in Stores: Insider Tips Revealed"
-description: "Are you thinking about buying Away luggage and wondering if you can find it in stores? You're not alone. Many travelers like you are curious about where they ca"
+title: 'Can You Buy Away Luggage in Stores: Insider Tips Revealed'
+description: Are you thinking about buying Away luggage and wondering if you can find
+  it in stores? You're not alone. Many travelers like you are curious about where
+  they ca
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-buy-away-luggage-in-stores&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-buy-away-luggage-in-stores&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you thinking about buying Away luggage and wondering if you can find it in stores? You're not alone.**

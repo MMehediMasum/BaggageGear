@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Power Banks in Checked Luggage: Essential Travel Rules"
-description: "Have you ever packed your bags for a trip and wondered if you can safely stash your power bank in your checked luggage? You’re not alone. Many travelers share t"
+title: 'Can I Put Power Banks in Checked Luggage: Essential Travel Rules'
+description: Have you ever packed your bags for a trip and wondered if you can safely
+  stash your power bank in your checked luggage? You’re not alone. Many travelers
+  share t
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-power-banks-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-power-banks-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed your bags for a trip and wondered if you can safely stash your power bank in your checked luggage? You’re not alone.**

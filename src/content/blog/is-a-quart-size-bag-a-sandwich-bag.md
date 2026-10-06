@@ -1,10 +1,14 @@
 ---
-title: "Is a Quart Size Bag a Sandwich Bag: Surprising Differences Revealed"
-description: "Have you ever stood in front of your pantry or grocery aisle, wondering if a quart size bag is the same as a sandwich bag? You're not alone. With so many differ"
+title: 'Is a Quart Size Bag a Sandwich Bag: Surprising Differences Revealed'
+description: Have you ever stood in front of your pantry or grocery aisle, wondering
+  if a quart size bag is the same as a sandwich bag? You're not alone. With so many
+  differ
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-quart-size-bag-a-sandwich-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=is-a-quart-size-bag-a-sandwich-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood in front of your pantry or grocery aisle, wondering if a quart size bag is the same as a sandwich bag? You're not alone.**

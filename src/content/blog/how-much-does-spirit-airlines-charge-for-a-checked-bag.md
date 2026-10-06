@@ -1,10 +1,14 @@
 ---
-title: "How Much Does Spirit Airlines Charge for a Checked Bag: Ultimate Guide"
-description: "Are you planning your next adventure with Spirit Airlines and wondering how much you need to budget for your checked bags? You're not alone. The cost of checked"
+title: 'How Much Does Spirit Airlines Charge for a Checked Bag: Ultimate Guide'
+description: Are you planning your next adventure with Spirit Airlines and wondering
+  how much you need to budget for your checked bags? You're not alone. The cost of
+  checked
 pubDate: 2026-01-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-spirit-airlines-charge-for-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-spirit-airlines-charge-for-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure with Spirit Airlines and wondering how much you need to budget for your checked bags? You're not alone.**

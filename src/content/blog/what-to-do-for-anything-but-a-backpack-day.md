@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Do for Anything But a Backpack Day: Fun, Creative Ideas!"
 description: "Are you ready for one of the most creative and fun days at school? Anything But a Backpack Day is your chance to break free from the norm and showcase your uniq"
 pubDate: 2025-12-14

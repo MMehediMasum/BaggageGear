@@ -1,10 +1,14 @@
 ---
-title: "Where Do You Put Your Luggage on Amtrak Train: Ultimate Guide"
-description: "Traveling by Amtrak is exciting, but figuring out where to place your luggage can be confusing. You want your bags to be safe, easy to reach, and out of the way"
+title: 'Where Do You Put Your Luggage on Amtrak Train: Ultimate Guide'
+description: Traveling by Amtrak is exciting, but figuring out where to place your
+  luggage can be confusing. You want your bags to be safe, easy to reach, and out
+  of the way
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-do-you-put-your-luggage-on-amtrak-train&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=where-do-you-put-your-luggage-on-amtrak-train&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Traveling by Amtrak is exciting, but figuring out where to place your luggage can be confusing. You want your bags to be safe, easy to reach, and out of the way.**

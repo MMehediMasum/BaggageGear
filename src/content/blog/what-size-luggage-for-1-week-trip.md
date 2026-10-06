@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage for 1 Week Trip: Ultimate Packing Guide"
-description: "Packing for a one-week trip can feel like solving a puzzle. You want to bring everything you need without dragging around an oversized suitcase. So, what size l"
+title: 'What Size Luggage for 1 Week Trip: Ultimate Packing Guide'
+description: Packing for a one-week trip can feel like solving a puzzle. You want
+  to bring everything you need without dragging around an oversized suitcase. So,
+  what size l
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-for-1-week-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-for-1-week-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a one-week trip can feel like solving a puzzle. You want to bring everything you need without dragging around an oversized suitcase.**

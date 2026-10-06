@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Toothpaste in Your Carry On? TSA Rules Explained"
-description: "Are you packing for your next adventure and wondering if you can bring toothpaste in your carry-on? You're not alone! Navigating the rules of air travel can be "
+title: Can You Bring Toothpaste in Your Carry On? TSA Rules Explained
+description: 'Are you packing for your next adventure and wondering if you can bring
+  toothpaste in your carry-on? You''re not alone! Navigating the rules of air travel
+  can be '
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-toothpaste-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-toothpaste-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your next adventure and wondering if you can bring toothpaste in your carry-on? You're not alone!**

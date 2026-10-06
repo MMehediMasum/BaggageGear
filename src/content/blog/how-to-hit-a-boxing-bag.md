@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hit a Boxing Bag: Master Powerful Strikes Fast"
 description: "Are you ready to unleash your inner fighter and get fit at the same time? Hitting a boxing bag is not just about throwing punches; it’s an incredible workout th"
 pubDate: 2025-09-01

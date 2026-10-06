@@ -1,10 +1,13 @@
 ---
-title: "Are Canvas Backpacks Waterproof: Essential Facts You Must Know"
-description: "Are you considering a canvas backpack for your next adventure, but wondering if it can withstand unexpected rain showers or accidental spills? The answer isn't "
+title: 'Are Canvas Backpacks Waterproof: Essential Facts You Must Know'
+description: 'Are you considering a canvas backpack for your next adventure, but wondering
+  if it can withstand unexpected rain showers or accidental spills? The answer isn''t '
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-canvas-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=are-canvas-backpacks-waterproof&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you considering a canvas backpack for your next adventure, but wondering if it can withstand unexpected rain showers or accidental spills? The answer isn't as straightforward as you might think.**

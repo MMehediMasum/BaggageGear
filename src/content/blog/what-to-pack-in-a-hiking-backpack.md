@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Hiking Backpack: Essential Gear for Every Adventure"
-description: "Imagine setting foot on a trail, surrounded by nature's beauty, with the excitement of adventure in your heart. But wait—have you packed everything you need? Th"
+title: 'What to Pack in a Hiking Backpack: Essential Gear for Every Adventure'
+description: Imagine setting foot on a trail, surrounded by nature's beauty, with
+  the excitement of adventure in your heart. But wait—have you packed everything you
+  need? Th
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hiking-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Hiking Backpack
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hiking-backpack&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine setting foot on a trail, surrounded by nature's beauty, with the excitement of adventure in your heart. But wait—have you packed everything you need?**

@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Balenciaga City Bag: Ultimate Price Guide 2025"
-description: "Curious about the cost of a Balenciaga City Bag? You're not alone. This iconic handbag is a staple in the fashion world, known for its luxurious design and time"
+title: 'How Much is a Balenciaga City Bag: Ultimate Price Guide 2025'
+description: Curious about the cost of a Balenciaga City Bag? You're not alone. This
+  iconic handbag is a staple in the fashion world, known for its luxurious design
+  and time
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-balenciaga-city-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gucci Chanel Hermes Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-balenciaga-city-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Curious about the cost of a Balenciaga City Bag? You're not alone.**

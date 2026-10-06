@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Clubs Can You Have in Your Bag: Ultimate Golf Rules Guide"
 description: "Are you wondering how many clubs you can actually carry in your golf bag? Knowing the right number not only keeps you within the rules but can also enhance your"
 pubDate: 2026-04-07

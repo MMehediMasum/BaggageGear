@@ -1,10 +1,13 @@
 ---
-title: "Where to Buy Mini Backpacks: Top Stylish Spots Revealed"
-description: "Are you on the hunt for the perfect mini backpack? These compact companions are not just a fashion statement; they offer unmatched convenience and style. Whethe"
+title: 'Where to Buy Mini Backpacks: Top Stylish Spots Revealed'
+description: Are you on the hunt for the perfect mini backpack? These compact companions
+  are not just a fashion statement; they offer unmatched convenience and style. Whethe
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-mini-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-mini-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect mini backpack? These compact companions are not just a fashion statement; they offer unmatched convenience and style.**

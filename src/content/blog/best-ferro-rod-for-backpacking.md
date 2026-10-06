@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Ferro Rod for Backpacking: Ignite Adventure with Reliable Fire Starters"
 description: "Choosing the best ferro rod for backpacking ensures you can start a fire easily and safely outdoors. A reliable fire starter makes your camping experience safer"
 pubDate: 2026-06-17

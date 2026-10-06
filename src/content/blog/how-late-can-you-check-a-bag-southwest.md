@@ -1,10 +1,14 @@
 ---
-title: "How Late Can You Check a Bag Southwest: Ultimate Time Guide"
-description: "Imagine this: You're rushing through the airport, hoping to make your flight with Southwest Airlines. But there's one question looming in your mind—how late can"
+title: 'How Late Can You Check a Bag Southwest: Ultimate Time Guide'
+description: 'Imagine this: You''re rushing through the airport, hoping to make your
+  flight with Southwest Airlines. But there''s one question looming in your mind—how
+  late can'
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-late-can-you-check-a-bag-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-late-can-you-check-a-bag-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine this: You're rushing through the airport, hoping to make your flight with Southwest Airlines. But there's one question looming in your mind—how late can you check a bag?**

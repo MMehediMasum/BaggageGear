@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Backpack in the Washer: Essential Cleaning Tips"
-description: "Have you ever looked at your trusty backpack and wondered if it could use a good wash? Maybe it’s covered in stains from outdoor adventures or just a bit grimy "
+title: 'Can You Put a Backpack in the Washer: Essential Cleaning Tips'
+description: 'Have you ever looked at your trusty backpack and wondered if it could
+  use a good wash? Maybe it’s covered in stains from outdoor adventures or just a
+  bit grimy '
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-backpack-in-the-washer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-backpack-in-the-washer&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your trusty backpack and wondered if it could use a good wash? Maybe it’s covered in stains from outdoor adventures or just a bit grimy from daily use.**

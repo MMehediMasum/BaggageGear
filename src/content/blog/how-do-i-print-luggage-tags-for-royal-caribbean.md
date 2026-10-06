@@ -1,10 +1,14 @@
 ---
-title: "How Do I Print Luggage Tags for Royal Caribbean: Easy Step-by-Step Guide"
-description: "Are you ready for your upcoming Royal Caribbean cruise but feeling a bit overwhelmed by the logistics? One of the most important steps before you set sail is en"
+title: 'How Do I Print Luggage Tags for Royal Caribbean: Easy Step-by-Step Guide'
+description: Are you ready for your upcoming Royal Caribbean cruise but feeling a
+  bit overwhelmed by the logistics? One of the most important steps before you set
+  sail is en
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-do-i-print-luggage-tags-for-royal-caribbean&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-do-i-print-luggage-tags-for-royal-caribbean&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready for your upcoming Royal Caribbean cruise but feeling a bit overwhelmed by the logistics? One of the most important steps before you set sail is ensuring your luggage is properly tagged.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Men's Tote Bags for Travel: Discover Top Carry-On Essentials"
-description: "Finding the best men’s tote bags for travel helps keep your essentials organized and easy to carry. A good travel tote combines style, durability, and functiona"
+title: 'Best Men''s Tote Bags for Travel: Discover Top Carry-On Essentials'
+description: Finding the best men’s tote bags for travel helps keep your essentials
+  organized and easy to carry. A good travel tote combines style, durability, and
+  functiona
 pubDate: 2026-05-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-mens-tote-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-mens-tote-bags-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best men’s tote bags for travel helps keep your essentials organized and easy to carry. A good travel tote combines style, durability, and functionality in one bag.**

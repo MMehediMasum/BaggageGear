@@ -1,10 +1,14 @@
 ---
-title: "Is a Backpack Considered a Personal Item on American Airlines? Find Out!"
-description: "Are you planning a trip with American Airlines and wondering if your backpack qualifies as a personal item? You're not alone. Many travelers face this dilemma, "
+title: Is a Backpack Considered a Personal Item on American Airlines? Find Out!
+description: 'Are you planning a trip with American Airlines and wondering if your
+  backpack qualifies as a personal item? You''re not alone. Many travelers face this
+  dilemma, '
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-considered-a-personal-item-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-considered-a-personal-item-on-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with American Airlines and wondering if your backpack qualifies as a personal item? You're not alone.**

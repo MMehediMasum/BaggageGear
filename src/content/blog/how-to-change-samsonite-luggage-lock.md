@@ -1,10 +1,14 @@
 ---
-title: "How to Change Samsonite Luggage Lock: Easy Step-by-Step Guide"
-description: "Your Samsonite luggage is your trusted companion on countless adventures. But what happens when you need to change its lock? Maybe you've forgotten the code, or"
+title: 'How to Change Samsonite Luggage Lock: Easy Step-by-Step Guide'
+description: Your Samsonite luggage is your trusted companion on countless adventures.
+  But what happens when you need to change its lock? Maybe you've forgotten the code,
+  or
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-change-samsonite-luggage-lock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-change-samsonite-luggage-lock&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Samsonite luggage is your trusted companion on countless adventures. But what happens when you need to change its lock?**

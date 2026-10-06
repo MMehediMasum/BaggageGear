@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Install a Punching Bag: Easy Steps for Perfect Setup"
 description: "Are you ready to unleash your inner fighter and take your workout routine to the next level? Installing a punching bag at home might just be the game-changer yo"
 pubDate: 2026-04-04

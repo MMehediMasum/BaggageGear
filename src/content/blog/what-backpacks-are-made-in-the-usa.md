@@ -1,10 +1,14 @@
 ---
-title: "What Backpacks are Made in the USA: Top Durable Picks Revealed"
-description: "Are you in the market for a new backpack and curious about options that are proudly made in the USA? You're not alone. Many people are now seeking quality and c"
+title: 'What Backpacks are Made in the USA: Top Durable Picks Revealed'
+description: Are you in the market for a new backpack and curious about options that
+  are proudly made in the USA? You're not alone. Many people are now seeking quality
+  and c
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-backpacks-are-made-in-the-usa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=what-backpacks-are-made-in-the-usa&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you in the market for a new backpack and curious about options that are proudly made in the USA? You're not alone.**

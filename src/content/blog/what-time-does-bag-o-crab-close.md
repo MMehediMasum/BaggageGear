@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Time Does Bag O Crab Close: Essential Hours to Know Today"
 description: "Ever found yourself craving seafood at the oddest hours, wondering if your favorite spot is still open? If you've ever asked, \"What time does Bag O' Crab close?"
 pubDate: 2025-12-15

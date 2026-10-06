@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get Gold Coin Bag Dark And Darker: Ultimate Guide Revealed"
 description: "Are you tired of wandering through the shadows of Dark and Darker, only to find your coin bag disappointingly light? You're not alone. Many adventurers struggle"
 pubDate: 2026-02-04

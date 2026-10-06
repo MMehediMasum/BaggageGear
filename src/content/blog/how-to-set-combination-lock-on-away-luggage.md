@@ -1,10 +1,14 @@
 ---
-title: "How to Set Combination Lock on Away Luggage: Easy Step-by-Step Guide"
-description: "Imagine you're at the airport, ready for your next adventure, and then it hits you: How secure is your luggage? Having a combination lock on your Away luggage i"
+title: 'How to Set Combination Lock on Away Luggage: Easy Step-by-Step Guide'
+description: 'Imagine you''re at the airport, ready for your next adventure, and then
+  it hits you: How secure is your luggage? Having a combination lock on your Away
+  luggage i'
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-combination-lock-on-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-combination-lock-on-away-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're at the airport, ready for your next adventure, and then it hits you: How secure is your luggage? Having a combination lock on your Away luggage isn't just about safety; it's about peace of mind.**

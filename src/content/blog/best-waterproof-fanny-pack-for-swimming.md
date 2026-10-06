@@ -1,10 +1,14 @@
 ---
-title: "Best Waterproof Fanny Pack for Swimming: Top Floating Dry Bags Reviewed"
-description: "Swimming with valuables nearby can be tricky. A waterproof fanny pack keeps your items safe and dry in the water. A waterproof fanny pack offers convenience and"
+title: 'Best Waterproof Fanny Pack for Swimming: Top Floating Dry Bags Reviewed'
+description: Swimming with valuables nearby can be tricky. A waterproof fanny pack
+  keeps your items safe and dry in the water. A waterproof fanny pack offers convenience
+  and
 pubDate: 2026-06-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-waterproof-fanny-pack-for-swimming&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sling Bags And Fanny Packs
+heroImage: https://tse1.mm.bing.net/th?q=best-waterproof-fanny-pack-for-swimming&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Swimming with valuables nearby can be tricky. A waterproof fanny pack keeps your items safe and dry in the water.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Waterproof Backpack for Hiking: Top Durable Packs for Outdoor Adventures"
-description: "Finding the best waterproof backpack for hiking keeps your gear dry and secure on any trail. A reliable pack protects your belongings from rain and stream cross"
+title: 'Best Waterproof Backpack for Hiking: Top Durable Packs for Outdoor Adventures'
+description: Finding the best waterproof backpack for hiking keeps your gear dry and
+  secure on any trail. A reliable pack protects your belongings from rain and stream
+  cross
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-waterproof-backpack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-waterproof-backpack-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best waterproof backpack for hiking keeps your gear dry and secure on any trail. A reliable pack protects your belongings from rain and stream crossings.**

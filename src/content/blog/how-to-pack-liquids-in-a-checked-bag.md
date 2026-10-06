@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Liquids in a Checked Bag: Ultimate Travel Packing Guide"
-description: "Packing for a trip can be a bit of a puzzle, especially when it comes to liquids in your checked luggage. Have you ever worried about opening your suitcase to f"
+title: 'How to Pack Liquids in a Checked Bag: Ultimate Travel Packing Guide'
+description: Packing for a trip can be a bit of a puzzle, especially when it comes
+  to liquids in your checked luggage. Have you ever worried about opening your suitcase
+  to f
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-liquids-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-liquids-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a bit of a puzzle, especially when it comes to liquids in your checked luggage. Have you ever worried about opening your suitcase to find your clothes soaked with shampoo or wine?**

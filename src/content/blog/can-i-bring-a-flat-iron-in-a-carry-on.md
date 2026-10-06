@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Flat Iron in a Carry On: Ultimate TSA Guide"
-description: "Are you getting ready for your next adventure and wondering if you can pack your trusty flat iron in your carry-on bag? You're not alone. Many travelers like yo"
+title: 'Can I Bring a Flat Iron in a Carry On: Ultimate TSA Guide'
+description: Are you getting ready for your next adventure and wondering if you can
+  pack your trusty flat iron in your carry-on bag? You're not alone. Many travelers
+  like yo
 pubDate: 2026-02-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-flat-iron-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-flat-iron-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for your next adventure and wondering if you can pack your trusty flat iron in your carry-on bag? You're not alone.**

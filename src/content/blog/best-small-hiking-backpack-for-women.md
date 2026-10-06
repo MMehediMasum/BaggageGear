@@ -1,10 +1,14 @@
 ---
-title: "Best Small Hiking Backpack for Women: Lightweight, Packable, and Durable Choices"
-description: "Finding the best small hiking backpack for women can improve every outdoor trip. A good pack offers comfort, storage, and durability in a compact size. Small hi"
+title: 'Best Small Hiking Backpack for Women: Lightweight, Packable, and Durable Choices'
+description: Finding the best small hiking backpack for women can improve every outdoor
+  trip. A good pack offers comfort, storage, and durability in a compact size. Small
+  hi
 pubDate: 2026-06-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-hiking-backpack-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hiking Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-small-hiking-backpack-for-women&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best small hiking backpack for women can improve every outdoor trip. A good pack offers comfort, storage, and durability in a compact size.**

@@ -1,10 +1,14 @@
 ---
-title: "What is a Spinner Luggage: Ultimate Guide to Smooth Travel Gear"
-description: "Have you ever found yourself frustrated while trying to navigate a bustling airport, your luggage awkwardly trailing behind you? If so, you're not alone. Many t"
+title: 'What is a Spinner Luggage: Ultimate Guide to Smooth Travel Gear'
+description: Have you ever found yourself frustrated while trying to navigate a bustling
+  airport, your luggage awkwardly trailing behind you? If so, you're not alone. Many
+  t
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-spinner-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bag Styles And Terms Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-spinner-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Have you ever found yourself frustrated while trying to navigate a bustling airport, your luggage awkwardly trailing behind you? If so, you're not alone.**

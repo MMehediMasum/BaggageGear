@@ -1,10 +1,14 @@
 ---
-title: "What to Bring on a Backpacking Trip: Ultimate Essential Gear Guide"
-description: "Planning a backpacking trip can be both exciting and overwhelming. You've probably dreamed of hiking through breathtaking landscapes, discovering hidden gems, a"
+title: 'What to Bring on a Backpacking Trip: Ultimate Essential Gear Guide'
+description: Planning a backpacking trip can be both exciting and overwhelming. You've
+  probably dreamed of hiking through breathtaking landscapes, discovering hidden gems,
+  a
 pubDate: 2025-10-21
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-bring-on-a-backpacking-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=what-to-bring-on-a-backpacking-trip&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Planning a backpacking trip can be both exciting and overwhelming. You've probably dreamed of hiking through breathtaking landscapes, discovering hidden gems, and experiencing the thrill of adventure.**

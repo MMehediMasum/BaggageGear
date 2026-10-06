@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is a Boxing Bag a Good Workout: Ultimate Fitness and Fat Burn Guide"
 description: "Are you searching for a workout that combines fun, intensity, and results? Look no further than the boxing bag! Imagine transforming your fitness routine while "
 pubDate: 2025-09-11

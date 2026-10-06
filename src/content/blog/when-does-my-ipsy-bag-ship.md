@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does My Ipsy Bag Ship: Ultimate Shipping Timeline Revealed"
 description: "Are you eagerly waiting for that splash of beauty and surprise each month? If you're an Ipsy subscriber, the anticipation of your monthly glam bag can feel like"
 pubDate: 2025-12-12

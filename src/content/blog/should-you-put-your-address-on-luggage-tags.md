@@ -1,10 +1,14 @@
 ---
-title: "Should You Put Your Address on Luggage Tags? Essential Tips!"
-description: "Are you about to travel and wondering if you should put your address on your luggage tags? This seemingly small decision can have a big impact on your travel ex"
+title: Should You Put Your Address on Luggage Tags? Essential Tips!
+description: Are you about to travel and wondering if you should put your address
+  on your luggage tags? This seemingly small decision can have a big impact on your
+  travel ex
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=should-you-put-your-address-on-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=should-you-put-your-address-on-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you about to travel and wondering if you should put your address on your luggage tags? This seemingly small decision can have a big impact on your travel experience.**

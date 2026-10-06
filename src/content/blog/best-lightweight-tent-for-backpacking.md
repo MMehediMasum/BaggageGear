@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Lightweight Tent for Backpacking: Top Picks for Easy Adventures"
 description: "Choosing the best lightweight tent for backpacking means balancing weight, size, and weather protection. A good tent keeps you safe and comfortable on your outd"
 pubDate: 2026-06-07

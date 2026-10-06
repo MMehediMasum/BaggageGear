@@ -1,10 +1,14 @@
 ---
-title: "How Much Can a Luggage Weigh: Ultimate Guide to Avoid Fees"
-description: "Have you ever stood at the airport check-in counter, heart pounding, wondering if your luggage will pass the weight limit? You’re not alone. Knowing how much yo"
+title: 'How Much Can a Luggage Weigh: Ultimate Guide to Avoid Fees'
+description: Have you ever stood at the airport check-in counter, heart pounding,
+  wondering if your luggage will pass the weight limit? You’re not alone. Knowing
+  how much yo
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-a-luggage-weigh&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-a-luggage-weigh&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood at the airport check-in counter, heart pounding, wondering if your luggage will pass the weight limit? You’re not alone.**

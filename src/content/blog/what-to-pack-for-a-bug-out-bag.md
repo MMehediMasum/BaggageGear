@@ -1,10 +1,14 @@
 ---
-title: "What to Pack for a Bug Out Bag: Essential Survival Gear Guide"
-description: "Imagine facing an unexpected emergency and you need to leave your home quickly. What do you take with you? This is where a well-prepared bug out bag becomes you"
+title: 'What to Pack for a Bug Out Bag: Essential Survival Gear Guide'
+description: Imagine facing an unexpected emergency and you need to leave your home
+  quickly. What do you take with you? This is where a well-prepared bug out bag becomes
+  you
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-for-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-for-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine facing an unexpected emergency and you need to leave your home quickly. What do you take with you?**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Boil Food in a Foodsaver Bag: Safe or Risky?"
 description: "Ever wondered if your trusty Foodsaver bag can double as a cooking tool? You're not alone. As more people turn to vacuum sealing for food storage, a curious que"
 pubDate: 2026-02-04

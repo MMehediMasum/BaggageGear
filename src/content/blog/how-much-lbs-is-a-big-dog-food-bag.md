@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Lbs is a Big Dog Food Bag: Ultimate Weight Guide"
 description: "If you’ve ever stood in the pet store aisle wondering, “How much lbs is a big dog food bag?” you’re not alone. Choosing the right size bag for your furry friend"
 pubDate: 2025-12-16

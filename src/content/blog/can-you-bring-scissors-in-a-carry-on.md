@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Scissors in a Carry On: Essential TSA Rules Explained"
-description: "Are you planning a trip and wondering if you can pack your trusty scissors in your carry-on bag? You’re not alone. Navigating airport security rules can feel li"
+title: 'Can You Bring Scissors in a Carry On: Essential TSA Rules Explained'
+description: Are you planning a trip and wondering if you can pack your trusty scissors
+  in your carry-on bag? You’re not alone. Navigating airport security rules can feel
+  li
 pubDate: 2026-04-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-scissors-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-scissors-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your trusty scissors in your carry-on bag? You’re not alone.**

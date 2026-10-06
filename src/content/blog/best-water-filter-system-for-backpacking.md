@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Water Filter System for Backpacking: Top Picks for Pure Adventures"
 description: "Finding clean water on the trail is vital for every backpacker. Choosing the best water filter system keeps you safe and hydrated. Backpacking trips demand reli"
 pubDate: 2026-06-06

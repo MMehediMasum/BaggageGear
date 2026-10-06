@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What was in Jerry Garcia'S Briefcase: Surprising Treasures Revealed"
 description: "Have you ever wondered what secrets someone carries in their briefcase? Now, imagine uncovering the hidden treasures inside Jerry Garcia’s briefcase. What was h"
 pubDate: 2025-09-22

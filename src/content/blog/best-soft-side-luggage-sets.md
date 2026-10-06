@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Side Luggage Sets: Discover Durable, Expandable Travel Companions"
-description: "Soft side luggage sets offer flexibility and lightweight convenience for all travelers. They fit easily in tight spaces and expand for extra packing room. Choos"
+title: 'Best Soft Side Luggage Sets: Discover Durable, Expandable Travel Companions'
+description: Soft side luggage sets offer flexibility and lightweight convenience
+  for all travelers. They fit easily in tight spaces and expand for extra packing
+  room. Choos
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-side-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-side-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Soft side luggage sets offer flexibility and lightweight convenience for all travelers. They fit easily in tight spaces and expand for extra packing room.**

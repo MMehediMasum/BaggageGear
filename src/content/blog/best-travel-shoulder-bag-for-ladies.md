@@ -1,10 +1,15 @@
 ---
-title: "Best Travel Shoulder Bag for Ladies: Stylish, Lightweight, and Waterproof Picks"
-description: "Finding the best travel shoulder bag for ladies blends style, comfort, and practicality. A perfect bag keeps essentials safe and fits daily needs. Choosing a tr"
+title: 'Best Travel Shoulder Bag for Ladies: Stylish, Lightweight, and Waterproof
+  Picks'
+description: Finding the best travel shoulder bag for ladies blends style, comfort,
+  and practicality. A perfect bag keeps essentials safe and fits daily needs. Choosing
+  a tr
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-shoulder-bag-for-ladies&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-shoulder-bag-for-ladies&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best travel shoulder bag for ladies blends style, comfort, and practicality. A perfect bag keeps essentials safe and fits daily needs.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Bag of Mulch Cost: Ultimate Price Guide 2025"
 description: "Are you planning to spruce up your garden or give your yard a fresh look? If so, you're probably considering using mulch. But before you head to the store or cl"
 pubDate: 2026-04-04

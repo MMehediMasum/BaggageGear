@@ -1,10 +1,14 @@
 ---
-title: "Is a 24 Inch Suitcase Too Big for Carry On? Expert Guide"
-description: "Are you wondering if a 24 inch suitcase is too big to carry on a plane? Choosing the right luggage size can make your travel experience smooth or stressful. You"
+title: Is a 24 Inch Suitcase Too Big for Carry On? Expert Guide
+description: Are you wondering if a 24 inch suitcase is too big to carry on a plane?
+  Choosing the right luggage size can make your travel experience smooth or stressful.
+  You
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-24-inch-suitcase-too-big-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=is-a-24-inch-suitcase-too-big-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering if a 24 inch suitcase is too big to carry on a plane? Choosing the right luggage size can make your travel experience smooth or stressful.**

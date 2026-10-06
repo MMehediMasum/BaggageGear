@@ -1,10 +1,14 @@
 ---
-title: "How to Attach Sleeping Mat to Backpack: Ultimate Guide for Hikers"
-description: "Have you ever found yourself struggling with how to attach your sleeping mat to your backpack, only to end up with a bulky, awkward load that throws you off bal"
+title: 'How to Attach Sleeping Mat to Backpack: Ultimate Guide for Hikers'
+description: Have you ever found yourself struggling with how to attach your sleeping
+  mat to your backpack, only to end up with a bulky, awkward load that throws you
+  off bal
 pubDate: 2025-11-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-sleeping-mat-to-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-sleeping-mat-to-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself struggling with how to attach your sleeping mat to your backpack, only to end up with a bulky, awkward load that throws you off balance? You're not alone.**

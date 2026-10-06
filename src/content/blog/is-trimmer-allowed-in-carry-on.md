@@ -1,10 +1,14 @@
 ---
-title: "Is Trimmer Allowed in Carry On: Essential Travel Rules Revealed"
-description: "Planning to bring your trimmer on your next flight? You might be wondering, “Is a trimmer allowed in carry-on luggage?” It’s a common question that can cause st"
+title: 'Is Trimmer Allowed in Carry On: Essential Travel Rules Revealed'
+description: Planning to bring your trimmer on your next flight? You might be wondering,
+  “Is a trimmer allowed in carry-on luggage?” It’s a common question that can cause
+  st
 pubDate: 2025-09-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-trimmer-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-trimmer-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning to bring your trimmer on your next flight? You might be wondering, “Is a trimmer allowed in carry-on luggage?” It’s a common question that can cause stress at airport security.**

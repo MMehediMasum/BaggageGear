@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Stop Weed Smelling in a Bag: Proven Odor-Blocking Tips"
 description: "Are you tired of that unmistakable smell of weed seeping through your bag, drawing unwanted attention? You're not alone. Whether you're transporting it or simpl"
 pubDate: 2025-09-12

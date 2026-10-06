@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Thaw Breast Milk in Bag: Safe & Easy Methods Revealed"
 description: "Are you a parent juggling the demands of caring for your little one while ensuring their nutrition is perfectly on point? Thawing breast milk might seem like a "
 pubDate: 2026-04-14

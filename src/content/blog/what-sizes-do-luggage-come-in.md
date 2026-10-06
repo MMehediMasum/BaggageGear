@@ -1,10 +1,13 @@
 ---
-title: "What Sizes Do Luggage Come In: Ultimate Guide to Perfect Travel Bags"
-description: "Packing for a trip can often feel like a puzzle. You want to fit everything you need without lugging around a suitcase that’s too big—or worse, too small. Have "
+title: 'What Sizes Do Luggage Come In: Ultimate Guide to Perfect Travel Bags'
+description: 'Packing for a trip can often feel like a puzzle. You want to fit everything
+  you need without lugging around a suitcase that’s too big—or worse, too small. Have '
 pubDate: 2026-03-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-sizes-do-luggage-come-in&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-sizes-do-luggage-come-in&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a trip can often feel like a puzzle. You want to fit everything you need without lugging around a suitcase that’s too big—or worse, too small.**

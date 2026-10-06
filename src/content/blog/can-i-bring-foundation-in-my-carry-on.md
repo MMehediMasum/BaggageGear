@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Foundation in My Carry On: Ultimate TSA Guide"
-description: "You're standing in front of your suitcase, a bottle of foundation in hand, wondering if you can bring it on the plane. Sound familiar? You're not alone. With ev"
+title: 'Can I Bring Foundation in My Carry On: Ultimate TSA Guide'
+description: You're standing in front of your suitcase, a bottle of foundation in
+  hand, wondering if you can bring it on the plane. Sound familiar? You're not alone.
+  With ev
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-foundation-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-foundation-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're standing in front of your suitcase, a bottle of foundation in hand, wondering if you can bring it on the plane. Sound familiar?**

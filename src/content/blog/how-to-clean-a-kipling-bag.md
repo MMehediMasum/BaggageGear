@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Kipling Bag: Easy Steps for Spotless Results"
-description: "Have you ever looked at your beloved Kipling bag and thought it could use a bit of freshening up? You're not alone. Kipling bags are known for their durability "
+title: 'How to Clean a Kipling Bag: Easy Steps for Spotless Results'
+description: 'Have you ever looked at your beloved Kipling bag and thought it could
+  use a bit of freshening up? You''re not alone. Kipling bags are known for their
+  durability '
 pubDate: 2025-10-14
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-kipling-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-kipling-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your beloved Kipling bag and thought it could use a bit of freshening up? You're not alone.**

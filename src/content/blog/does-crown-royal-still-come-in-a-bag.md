@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Crown Royal Still Come in a Bag: Truth Revealed Today"
 description: "Imagine opening a bottle of your favorite whiskey. You savor its aroma, you pour it into a glass, and there it is—Crown Royal. But wait, does it still come in t"
 pubDate: 2025-12-16

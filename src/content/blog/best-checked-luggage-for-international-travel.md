@@ -1,10 +1,14 @@
 ---
-title: "Best Checked Luggage for International Travel: Top Picks for Every Journey"
-description: "Choosing the best checked luggage is key for smooth international travel. Durable, lightweight, and spacious bags make trips easier. International travel demand"
+title: 'Best Checked Luggage for International Travel: Top Picks for Every Journey'
+description: Choosing the best checked luggage is key for smooth international travel.
+  Durable, lightweight, and spacious bags make trips easier. International travel
+  demand
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-checked-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-checked-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best checked luggage is key for smooth international travel. Durable, lightweight, and spacious bags make trips easier.**

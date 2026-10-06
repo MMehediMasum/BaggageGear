@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Stage of Colon Cancer Requires a Colostomy Bag: Essential Facts"
 description: "Facing a colon cancer diagnosis can be an overwhelming experience, stirring a whirlwind of questions and emotions. Among the pressing concerns, you might wonder"
 pubDate: 2025-09-20

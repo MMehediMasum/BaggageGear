@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Punching Bag: Ultimate Guide to Prices & Quality"
 description: "Are you looking to add a punching bag to your home gym? Or maybe you're curious about the costs involved before starting your fitness journey? Whatever your rea"
 pubDate: 2026-04-04

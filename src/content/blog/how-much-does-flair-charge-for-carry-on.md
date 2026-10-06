@@ -1,10 +1,14 @@
 ---
-title: "How Much Does Flair Charge for Carry On: Ultimate Fare Guide 2025"
-description: "Have you ever found yourself puzzled by unexpected fees while booking a flight? It’s a common frustration, especially when it comes to budget airlines. If you'r"
+title: 'How Much Does Flair Charge for Carry On: Ultimate Fare Guide 2025'
+description: Have you ever found yourself puzzled by unexpected fees while booking
+  a flight? It’s a common frustration, especially when it comes to budget airlines.
+  If you'r
 pubDate: 2026-01-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-flair-charge-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-flair-charge-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself puzzled by unexpected fees while booking a flight? It’s a common frustration, especially when it comes to budget airlines.**

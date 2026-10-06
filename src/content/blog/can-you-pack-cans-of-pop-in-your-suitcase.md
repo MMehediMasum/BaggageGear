@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Cans of Pop in Your Suitcase: Essential Travel Tips"
-description: "You’re gearing up for your next big trip and wondering, \"Can you pack cans of pop in your suitcase?\" It's a common question that many travelers face, and the an"
+title: 'Can You Pack Cans of Pop in Your Suitcase: Essential Travel Tips'
+description: You’re gearing up for your next big trip and wondering, "Can you pack
+  cans of pop in your suitcase?" It's a common question that many travelers face,
+  and the an
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-cans-of-pop-in-your-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-cans-of-pop-in-your-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re gearing up for your next big trip and wondering, "Can you pack cans of pop in your suitcase?" It's a common question that many travelers face, and the answer might surprise you.**

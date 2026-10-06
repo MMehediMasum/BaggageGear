@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy a Leather Backpack: Top Stylish Picks Today"
-description: "Are you on the hunt for a stylish and durable leather backpack? You're not alone. Leather backpacks have become a staple for those who value both fashion and fu"
+title: 'Where Can I Buy a Leather Backpack: Top Stylish Picks Today'
+description: Are you on the hunt for a stylish and durable leather backpack? You're
+  not alone. Leather backpacks have become a staple for those who value both fashion
+  and fu
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-a-leather-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Backpack Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-a-leather-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a stylish and durable leather backpack? You're not alone.**

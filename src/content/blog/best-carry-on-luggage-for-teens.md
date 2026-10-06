@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Teens: Stylish, Durable, and Lightweight Picks"
-description: "Choosing the best carry-on luggage for teens can make travel easier and more fun. The right bag fits school supplies, clothes, and personal items comfortably. T"
+title: 'Best Carry On Luggage for Teens: Stylish, Durable, and Lightweight Picks'
+description: Choosing the best carry-on luggage for teens can make travel easier and
+  more fun. The right bag fits school supplies, clothes, and personal items comfortably.
+  T
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-teens&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-teens&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for teens can make travel easier and more fun. The right bag fits school supplies, clothes, and personal items comfortably.**

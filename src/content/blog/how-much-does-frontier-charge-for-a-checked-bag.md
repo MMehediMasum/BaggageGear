@@ -1,10 +1,14 @@
 ---
-title: "How Much Does Frontier Charge for a Checked Bag: Ultimate Fee Guide"
-description: "Are you planning your next getaway and wondering about the costs involved? One expense that often catches travelers off guard is the fee for checked baggage. Wi"
+title: 'How Much Does Frontier Charge for a Checked Bag: Ultimate Fee Guide'
+description: Are you planning your next getaway and wondering about the costs involved?
+  One expense that often catches travelers off guard is the fee for checked baggage.
+  Wi
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-frontier-charge-for-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-frontier-charge-for-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next getaway and wondering about the costs involved? One expense that often catches travelers off guard is the fee for checked baggage.**

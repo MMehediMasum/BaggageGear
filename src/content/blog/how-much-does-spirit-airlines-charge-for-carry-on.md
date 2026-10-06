@@ -1,10 +1,14 @@
 ---
-title: "How Much Does Spirit Airlines Charge for Carry On: Ultimate Cost Guide"
-description: "When you're planning a trip, every dollar counts, especially when it comes to travel expenses. If you're considering flying with Spirit Airlines, you might be c"
+title: 'How Much Does Spirit Airlines Charge for Carry On: Ultimate Cost Guide'
+description: When you're planning a trip, every dollar counts, especially when it
+  comes to travel expenses. If you're considering flying with Spirit Airlines, you
+  might be c
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-spirit-airlines-charge-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-spirit-airlines-charge-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When you're planning a trip, every dollar counts, especially when it comes to travel expenses. If you're considering flying with Spirit Airlines, you might be curious about their carry-on fees.**

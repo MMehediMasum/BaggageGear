@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Zipper Pocket in a Bag: Easy Step-by-Step Guide"
-description: "Have you ever wished your favorite bag had just one more pocket? Imagine being able to customize your bag to perfectly fit your needs. With a little sewing skil"
+title: 'How to Sew a Zipper Pocket in a Bag: Easy Step-by-Step Guide'
+description: Have you ever wished your favorite bag had just one more pocket? Imagine
+  being able to customize your bag to perfectly fit your needs. With a little sewing
+  skil
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-zipper-pocket-in-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Installing Bag Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-zipper-pocket-in-a-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wished your favorite bag had just one more pocket? Imagine being able to customize your bag to perfectly fit your needs.**

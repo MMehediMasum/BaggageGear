@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage for 10 Day Trip to Europe: Top Carry-Ons Reviewed"
-description: "Choosing the best luggage for a 10-day trip to Europe makes travel easier and more comfortable. The right suitcase fits your needs and airport rules perfectly. "
+title: 'Best Luggage for 10 Day Trip to Europe: Top Carry-Ons Reviewed'
+description: 'Choosing the best luggage for a 10-day trip to Europe makes travel easier
+  and more comfortable. The right suitcase fits your needs and airport rules perfectly. '
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-10-day-trip-to-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-10-day-trip-to-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a 10-day trip to Europe makes travel easier and more comfortable. The right suitcase fits your needs and airport rules perfectly.**

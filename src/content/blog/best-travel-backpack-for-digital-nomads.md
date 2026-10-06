@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Digital Nomads: Top Tech-Friendly Picks"
-description: "Choosing the best travel backpack helps digital nomads stay organized and comfortable on the move. The right backpack fits laptops, tech gear, and personal item"
+title: 'Best Travel Backpack for Digital Nomads: Top Tech-Friendly Picks'
+description: Choosing the best travel backpack helps digital nomads stay organized
+  and comfortable on the move. The right backpack fits laptops, tech gear, and personal
+  item
 pubDate: 2026-06-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-digital-nomads&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-digital-nomads&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best travel backpack helps digital nomads stay organized and comfortable on the move. The right backpack fits laptops, tech gear, and personal items securely.**

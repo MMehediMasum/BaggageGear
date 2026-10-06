@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for 2 Week Trip to Europe: Top Durable Options"
-description: "Choosing the best luggage for a 2-week trip to Europe makes travel easier and more comfortable. The right suitcase holds everything you need without extra weigh"
+title: 'Best Luggage for 2 Week Trip to Europe: Top Durable Options'
+description: Choosing the best luggage for a 2-week trip to Europe makes travel easier
+  and more comfortable. The right suitcase holds everything you need without extra
+  weigh
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-2-week-trip-to-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-2-week-trip-to-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a 2-week trip to Europe makes travel easier and more comfortable. The right suitcase holds everything you need without extra weight or bulk.**

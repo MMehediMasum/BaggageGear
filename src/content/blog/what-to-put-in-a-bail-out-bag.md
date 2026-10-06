@@ -1,10 +1,14 @@
 ---
-title: "What to Put in a Bail Out Bag: Essential Survival Gear Guide"
-description: "Imagine facing an unexpected crisis and needing to leave your home at a moment's notice. It's a situation you hope never happens, but being prepared is the best"
+title: 'What to Put in a Bail Out Bag: Essential Survival Gear Guide'
+description: Imagine facing an unexpected crisis and needing to leave your home at
+  a moment's notice. It's a situation you hope never happens, but being prepared is
+  the best
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-a-bail-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-a-bail-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine facing an unexpected crisis and needing to leave your home at a moment's notice. It's a situation you hope never happens, but being prepared is the best way to ensure your safety and peace of mind.**

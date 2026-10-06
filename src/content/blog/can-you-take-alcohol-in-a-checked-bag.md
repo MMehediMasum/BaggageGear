@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Alcohol in a Checked Bag: Essential Travel Rules Explained"
-description: "Planning a trip and wondering if you can pack alcohol in your checked bag? You're not alone. Navigating airport rules can be confusing, especially when it comes"
+title: 'Can You Take Alcohol in a Checked Bag: Essential Travel Rules Explained'
+description: Planning a trip and wondering if you can pack alcohol in your checked
+  bag? You're not alone. Navigating airport rules can be confusing, especially when
+  it comes
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-alcohol-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-alcohol-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and wondering if you can pack alcohol in your checked bag? You're not alone.**

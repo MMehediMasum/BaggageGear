@@ -1,10 +1,14 @@
 ---
-title: "Best Sunscreen for Carry on Luggage: Top Travel-Friendly SPF Picks"
-description: "Choosing the best sunscreen for carry-on luggage helps protect your skin while traveling. It must meet airline size rules and offer strong sun protection. Trave"
+title: 'Best Sunscreen for Carry on Luggage: Top Travel-Friendly SPF Picks'
+description: Choosing the best sunscreen for carry-on luggage helps protect your skin
+  while traveling. It must meet airline size rules and offer strong sun protection.
+  Trave
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sunscreen-for-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-sunscreen-for-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Choosing the best sunscreen for carry-on luggage helps protect your skin while traveling. It must meet airline size rules and offer strong sun protection.**

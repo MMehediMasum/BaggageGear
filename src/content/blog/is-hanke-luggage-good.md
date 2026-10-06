@@ -1,10 +1,14 @@
 ---
-title: "Is Hanke Luggage Good: Honest Review & Top Features Revealed"
-description: "Are you on the hunt for a reliable travel companion that doesn't break the bank? If you've stumbled upon Hanke Luggage and are wondering if it's worth your inve"
+title: 'Is Hanke Luggage Good: Honest Review & Top Features Revealed'
+description: Are you on the hunt for a reliable travel companion that doesn't break
+  the bank? If you've stumbled upon Hanke Luggage and are wondering if it's worth
+  your inve
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-hanke-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-hanke-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for a reliable travel companion that doesn't break the bank? If you've stumbled upon Hanke Luggage and are wondering if it's worth your investment, you're not alone.**

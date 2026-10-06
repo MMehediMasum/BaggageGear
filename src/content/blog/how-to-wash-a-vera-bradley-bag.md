@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Vera Bradley Bag: Expert Tips"
-description: "You love your Vera Bradley bag – its vibrant colors, unique patterns, and sturdy feel make it your go-to accessory. But over time, dirt and stains can dull its "
+title: 'How to Wash a Vera Bradley Bag: Expert Tips'
+description: 'You love your Vera Bradley bag – its vibrant colors, unique patterns,
+  and sturdy feel make it your go-to accessory. But over time, dirt and stains can
+  dull its '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-vera-bradley-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-vera-bradley-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You love your Vera Bradley bag – its vibrant colors, unique patterns, and sturdy feel make it your go-to accessory. But over time, dirt and stains can dull its beauty.**

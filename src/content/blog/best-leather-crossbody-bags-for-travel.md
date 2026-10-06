@@ -1,10 +1,13 @@
 ---
-title: "Best Leather Crossbody Bags for Travel: Stylish, Secure, and Lightweight Picks"
-description: "Traveling light and stylish is easy with the best leather crossbody bags. These bags offer convenience, security, and durability. Leather crossbody bags provide"
+title: 'Best Leather Crossbody Bags for Travel: Stylish, Secure, and Lightweight Picks'
+description: Traveling light and stylish is easy with the best leather crossbody bags.
+  These bags offer convenience, security, and durability. Leather crossbody bags provide
 pubDate: 2025-09-26
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-crossbody-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-crossbody-bags-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Traveling light and stylish is easy with the best leather crossbody bags. These bags offer convenience, security, and durability.**

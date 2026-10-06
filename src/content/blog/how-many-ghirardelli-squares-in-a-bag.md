@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Ghirardelli Squares in a Bag: Discover the Exact Count!"
 description: "Do you ever find yourself staring at a bag of Ghirardelli Squares, wondering just how many are tucked inside? You're not alone. Many chocolate lovers like you a"
 pubDate: 2026-04-12

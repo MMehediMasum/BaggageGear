@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Wine in Checked Luggage: Essential Rules & Tips"
-description: "Have you ever stood at the crossroads of travel and taste, wondering if you can bring your favorite bottle of wine along on your journey? Picture this: you’ve j"
+title: 'Can You Put Wine in Checked Luggage: Essential Rules & Tips'
+description: 'Have you ever stood at the crossroads of travel and taste, wondering
+  if you can bring your favorite bottle of wine along on your journey? Picture this:
+  you’ve j'
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-wine-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-wine-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at the crossroads of travel and taste, wondering if you can bring your favorite bottle of wine along on your journey? Picture this: you’ve just discovered a rare vintage at a charming vineyard, and you’re dying to share it with friends back home.**

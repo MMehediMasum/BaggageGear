@@ -1,10 +1,14 @@
 ---
-title: "Best Lightest Weight Luggage: Top Picks for Effortless Travel"
-description: "Choosing the best lightweight luggage makes travel easier and less tiring. Light suitcases help you carry more without extra strain. Traveling means moving thro"
+title: 'Best Lightest Weight Luggage: Top Picks for Effortless Travel'
+description: Choosing the best lightweight luggage makes travel easier and less tiring.
+  Light suitcases help you carry more without extra strain. Traveling means moving
+  thro
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightest-weight-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightest-weight-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight luggage makes travel easier and less tiring. Light suitcases help you carry more without extra strain.**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Bring Beer in a Checked Bag: Essential Travel Rules Unveiled"
-description: "Have you ever wondered if you can pack your favorite beer in your checked luggage before jetting off to your next adventure? Traveling can be stressful, especia"
+title: 'Can You Bring Beer in a Checked Bag: Essential Travel Rules Unveiled'
+description: Have you ever wondered if you can pack your favorite beer in your checked
+  luggage before jetting off to your next adventure? Traveling can be stressful, especia
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-beer-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-beer-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever wondered if you can pack your favorite beer in your checked luggage before jetting off to your next adventure? Traveling can be stressful, especially when you're unsure about airline rules and regulations.**

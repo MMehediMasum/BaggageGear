@@ -1,10 +1,14 @@
 ---
-title: "How Many Pounds Carry on United Airlines: Ultimate Weight Guide 2025"
-description: "Planning a trip soon and wondering how much you can pack in your carry-on for United Airlines? You're not alone. Navigating airline luggage rules can be a bit o"
+title: 'How Many Pounds Carry on United Airlines: Ultimate Weight Guide 2025'
+description: Planning a trip soon and wondering how much you can pack in your carry-on
+  for United Airlines? You're not alone. Navigating airline luggage rules can be a
+  bit o
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-pounds-carry-on-united-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-many-pounds-carry-on-united-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip soon and wondering how much you can pack in your carry-on for United Airlines? You're not alone.**

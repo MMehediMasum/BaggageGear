@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Put in a Welcome Bag for Wedding: Ultimate Guest Essentials Guide"
 description: "Imagine this: your guests have traveled from near and far to celebrate your special day. What better way to show your appreciation than with a thoughtful welcom"
 pubDate: 2025-10-15

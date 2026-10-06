@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Masks for Bags: Banish Puffy Eyes and Dark Circles Effortlessly"
-description: "Eye bags can make you look tired and older than you feel. The best eye masks help reduce puffiness, dark circles, and wrinkles quickly. Under eye masks provide "
+title: 'Best Eye Masks for Bags: Banish Puffy Eyes and Dark Circles Effortlessly'
+description: 'Eye bags can make you look tired and older than you feel. The best eye
+  masks help reduce puffiness, dark circles, and wrinkles quickly. Under eye masks
+  provide '
 pubDate: 2026-05-29
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-masks-for-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-masks-for-bags&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Eye bags can make you look tired and older than you feel. The best eye masks help reduce puffiness, dark circles, and wrinkles quickly.**

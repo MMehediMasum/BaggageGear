@@ -1,10 +1,14 @@
 ---
-title: "Can Battery Packs Go in Checked Luggage: Essential Safety Tips"
-description: "Have you ever been at the airport, ready to check your luggage, and suddenly wondered if your battery packs can go in there? You’re not alone. Many travelers ar"
+title: 'Can Battery Packs Go in Checked Luggage: Essential Safety Tips'
+description: Have you ever been at the airport, ready to check your luggage, and suddenly
+  wondered if your battery packs can go in there? You’re not alone. Many travelers
+  ar
 pubDate: 2026-03-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-battery-packs-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-battery-packs-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever been at the airport, ready to check your luggage, and suddenly wondered if your battery packs can go in there? You’re not alone.**

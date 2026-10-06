@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Cruise Luggage Tags: Top Picks for Stress-Free Travel"
-description: "Are you ready for your next cruise adventure but wondering where to buy those all-important cruise luggage tags? You're not alone! These small but mighty access"
+title: 'Where to Buy Cruise Luggage Tags: Top Picks for Stress-Free Travel'
+description: Are you ready for your next cruise adventure but wondering where to buy
+  those all-important cruise luggage tags? You're not alone! These small but mighty
+  access
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-cruise-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-cruise-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready for your next cruise adventure but wondering where to buy those all-important cruise luggage tags? You're not alone!**

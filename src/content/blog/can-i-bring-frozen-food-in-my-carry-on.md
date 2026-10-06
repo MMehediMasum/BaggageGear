@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Frozen Food in My Carry On: Ultimate Travel Guide"
-description: "Traveling can be a whirlwind of excitement and stress, especially when it comes to packing. If you're someone who likes to bring a taste of home on your adventu"
+title: 'Can I Bring Frozen Food in My Carry On: Ultimate Travel Guide'
+description: Traveling can be a whirlwind of excitement and stress, especially when
+  it comes to packing. If you're someone who likes to bring a taste of home on your
+  adventu
 pubDate: 2026-03-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-frozen-food-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-frozen-food-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a whirlwind of excitement and stress, especially when it comes to packing. If you're someone who likes to bring a taste of home on your adventures, you might be wondering, "Can I bring frozen food in my carry on?"**

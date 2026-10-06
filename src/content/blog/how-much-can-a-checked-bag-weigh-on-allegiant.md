@@ -1,10 +1,14 @@
 ---
-title: "How Much Can a Checked Bag Weigh on Allegiant: Ultimate Guide"
-description: "Planning a trip can be exciting, but figuring out the details of your baggage allowance can be a bit of a puzzle. If you're flying with Allegiant and wondering,"
+title: 'How Much Can a Checked Bag Weigh on Allegiant: Ultimate Guide'
+description: Planning a trip can be exciting, but figuring out the details of your
+  baggage allowance can be a bit of a puzzle. If you're flying with Allegiant and
+  wondering,
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weigh-on-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weigh-on-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, but figuring out the details of your baggage allowance can be a bit of a puzzle. If you're flying with Allegiant and wondering, "How much can a checked bag weigh on Allegiant?"**

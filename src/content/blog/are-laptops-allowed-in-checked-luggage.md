@@ -1,10 +1,14 @@
 ---
-title: "Are Laptops Allowed in Checked Luggage: Essential Travel Tips"
-description: "Imagine arriving at your destination only to discover your laptop is damaged or missing. It's a nightmare scenario for many travelers. As you prepare for your n"
+title: 'Are Laptops Allowed in Checked Luggage: Essential Travel Tips'
+description: Imagine arriving at your destination only to discover your laptop is
+  damaged or missing. It's a nightmare scenario for many travelers. As you prepare
+  for your n
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-laptops-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-laptops-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine arriving at your destination only to discover your laptop is damaged or missing. It's a nightmare scenario for many travelers.**

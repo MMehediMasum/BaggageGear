@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Duffle Bag As a Personal Item: Ultimate Guide 2025"
-description: "You're planning your next trip and you're wondering about the rules for bringing a duffle bag as a personal item. We've all been there, standing in front of our"
+title: 'Can I Bring a Duffle Bag As a Personal Item: Ultimate Guide 2025'
+description: You're planning your next trip and you're wondering about the rules for
+  bringing a duffle bag as a personal item. We've all been there, standing in front
+  of our
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-duffle-bag-as-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-duffle-bag-as-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're planning your next trip and you're wondering about the rules for bringing a duffle bag as a personal item. We've all been there, standing in front of our luggage, trying to figure out what fits where.**

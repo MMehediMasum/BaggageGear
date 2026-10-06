@@ -1,10 +1,13 @@
 ---
-title: "Can You Put Sunscreen in Your Suitcase: Essential Travel Tips"
-description: "Picture this: You’re packing for your long-awaited vacation, and you’re wondering how to fit everything into your suitcase. Among your essentials is sunscreen, "
+title: 'Can You Put Sunscreen in Your Suitcase: Essential Travel Tips'
+description: 'Picture this: You’re packing for your long-awaited vacation, and you’re
+  wondering how to fit everything into your suitcase. Among your essentials is sunscreen, '
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-sunscreen-in-your-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-sunscreen-in-your-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You’re packing for your long-awaited vacation, and you’re wondering how to fit everything into your suitcase. Among your essentials is sunscreen, a must-have to protect your skin from the sun's harmful rays.**

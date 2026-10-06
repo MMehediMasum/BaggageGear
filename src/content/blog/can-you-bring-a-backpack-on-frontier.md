@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack on Frontier: Ultimate Packing Tips Revealed"
-description: "Are you planning a trip with Frontier Airlines and wondering if you can bring your trusty backpack on board? This question is more common than you might think, "
+title: 'Can You Bring a Backpack on Frontier: Ultimate Packing Tips Revealed'
+description: 'Are you planning a trip with Frontier Airlines and wondering if you
+  can bring your trusty backpack on board? This question is more common than you might
+  think, '
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-on-frontier&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-on-frontier&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Frontier Airlines and wondering if you can bring your trusty backpack on board? This question is more common than you might think, and getting the right answer can save you from unexpected fees and last-minute hassles.**

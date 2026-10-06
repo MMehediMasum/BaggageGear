@@ -1,10 +1,14 @@
 ---
-title: "What Does a 62 Inch Suitcase Look Like: Ultimate Size Guide"
-description: "Have you ever found yourself standing in the luggage aisle, overwhelmed by the sheer variety of suitcase sizes? If you're preparing for a big trip, you might ha"
+title: 'What Does a 62 Inch Suitcase Look Like: Ultimate Size Guide'
+description: Have you ever found yourself standing in the luggage aisle, overwhelmed
+  by the sheer variety of suitcase sizes? If you're preparing for a big trip, you
+  might ha
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-a-62-inch-suitcase-look-like&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-does-a-62-inch-suitcase-look-like&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself standing in the luggage aisle, overwhelmed by the sheer variety of suitcase sizes? If you're preparing for a big trip, you might have come across the term "62-inch suitcase" and wondered, "What does that even look like?"**

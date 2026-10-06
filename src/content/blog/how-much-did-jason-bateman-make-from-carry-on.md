@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Did Jason Bateman Make from Carry On: Shocking Earnings Revealed"
 description: "Imagine a world where you could peek into the financial world of your favorite stars. How exciting would it be to uncover the earnings of a beloved actor like J"
 pubDate: 2026-01-15

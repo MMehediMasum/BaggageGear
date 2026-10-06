@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Tags for Cruise Ships: Durable, Waterproof, and Travel-Ready"
-description: "Choosing the best luggage tags for cruise ships helps keep your bags safe and easy to identify. Durable, waterproof tags make travel smoother on popular lines l"
+title: 'Best Luggage Tags for Cruise Ships: Durable, Waterproof, and Travel-Ready'
+description: Choosing the best luggage tags for cruise ships helps keep your bags
+  safe and easy to identify. Durable, waterproof tags make travel smoother on popular
+  lines l
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-tags-for-cruise-ships&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Locks Tags And Scales
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-tags-for-cruise-ships&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best luggage tags for cruise ships helps keep your bags safe and easy to identify. Durable, waterproof tags make travel smoother on popular lines like Carnival and Royal Caribbean.**

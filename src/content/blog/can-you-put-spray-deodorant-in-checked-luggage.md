@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Spray Deodorant in Checked Luggage? TSA Rules Explained"
-description: "Are you planning your next big adventure and wondering if you can pack spray deodorant in your checked luggage? You're not alone. This seemingly simple question"
+title: Can You Put Spray Deodorant in Checked Luggage? TSA Rules Explained
+description: Are you planning your next big adventure and wondering if you can pack
+  spray deodorant in your checked luggage? You're not alone. This seemingly simple
+  question
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-spray-deodorant-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-spray-deodorant-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure and wondering if you can pack spray deodorant in your checked luggage? You're not alone.**

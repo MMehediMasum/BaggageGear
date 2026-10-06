@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on Candles on an Airplane: Essential Travel Tips"
-description: "Have you ever found yourself packing for a trip and wondering if you can bring your favorite candle along? You're not alone. Many travelers love the comfort and"
+title: 'Can You Carry on Candles on an Airplane: Essential Travel Tips'
+description: Have you ever found yourself packing for a trip and wondering if you
+  can bring your favorite candle along? You're not alone. Many travelers love the
+  comfort and
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-candles-on-an-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-candles-on-an-airplane&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever found yourself packing for a trip and wondering if you can bring your favorite candle along? You're not alone.**

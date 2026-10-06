@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Carry on Bag? Ultimate Guide for Travelers"
-description: "Imagine you're standing at the airport, suitcase in hand, and feeling that familiar travel excitement. But then it hits you—what exactly can you do with your ca"
+title: Can You Check a Carry on Bag? Ultimate Guide for Travelers
+description: Imagine you're standing at the airport, suitcase in hand, and feeling
+  that familiar travel excitement. But then it hits you—what exactly can you do with
+  your ca
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-carry-on-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine you're standing at the airport, suitcase in hand, and feeling that familiar travel excitement. But then it hits you—what exactly can you do with your carry-on bag?**

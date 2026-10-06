@@ -1,10 +1,14 @@
 ---
-title: "How Much is Carry on Bag in Avianca: Ultimate Cost Guide 2025"
-description: "Are you planning your next adventure with Avianca Airlines and wondering about the cost of carrying on a bag? You're not alone. Figuring out the fees for carry-"
+title: 'How Much is Carry on Bag in Avianca: Ultimate Cost Guide 2025'
+description: Are you planning your next adventure with Avianca Airlines and wondering
+  about the cost of carrying on a bag? You're not alone. Figuring out the fees for
+  carry-
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-carry-on-bag-in-avianca&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-carry-on-bag-in-avianca&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure with Avianca Airlines and wondering about the cost of carrying on a bag? You're not alone.**

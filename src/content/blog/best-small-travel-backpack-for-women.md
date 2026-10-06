@@ -1,10 +1,14 @@
 ---
-title: "Best Small Travel Backpack for Women: Top Stylish and Functional Picks"
-description: "Finding the best small travel backpack for women can make trips easier and more enjoyable. A good backpack fits your needs without being bulky or heavy. Choosin"
+title: 'Best Small Travel Backpack for Women: Top Stylish and Functional Picks'
+description: Finding the best small travel backpack for women can make trips easier
+  and more enjoyable. A good backpack fits your needs without being bulky or heavy.
+  Choosin
 pubDate: 2026-06-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-travel-backpack-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-small-travel-backpack-for-women&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best small travel backpack for women can make trips easier and more enjoyable. A good backpack fits your needs without being bulky or heavy.**

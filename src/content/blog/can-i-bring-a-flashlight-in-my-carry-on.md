@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Flashlight in My Carry on: Essential TSA Rules Revealed"
-description: "Are you wondering if you can bring a flashlight in your carry-on bag? Whether you’re a frequent traveler or packing for a one-time trip, knowing what’s allowed "
+title: 'Can I Bring a Flashlight in My Carry on: Essential TSA Rules Revealed'
+description: 'Are you wondering if you can bring a flashlight in your carry-on bag?
+  Whether you’re a frequent traveler or packing for a one-time trip, knowing what’s
+  allowed '
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-flashlight-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-flashlight-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you wondering if you can bring a flashlight in your carry-on bag? Whether you’re a frequent traveler or packing for a one-time trip, knowing what’s allowed in your carry-on can save you time and stress at airport security.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Say Bag in Japanese: Essential Words You Need to Know"
 description: "Ever found yourself curious about how to say everyday items in another language? If you're keen on learning some Japanese, you're in the right place. Today, we'"
 pubDate: 2026-01-18

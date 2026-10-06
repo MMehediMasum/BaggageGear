@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Water Filtration for Backpacking: Top Portable Systems to Stay Hydrated"
 description: "Clean water is essential for every backpacking trip. Choosing the best water filtration system keeps you safe and hydrated on the trail. Backpacking demands a r"
 pubDate: 2026-06-19

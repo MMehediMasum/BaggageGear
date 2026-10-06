@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Create an Exit Bag: Essential Steps for Safe Preparation"
 description: "Have you ever thought about the importance of being prepared for life's unexpected moments? Creating an exit bag can be your lifeline in emergencies. Imagine a "
 pubDate: 2025-11-21

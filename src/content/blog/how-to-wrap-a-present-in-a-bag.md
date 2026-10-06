@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wrap a Present in a Bag: Easy & Creative Gift Ideas"
 description: "Are you tired of the struggle with wrapping paper, tape, and scissors when it comes to gift-giving? If so, you’re not alone. Many of us find ourselves in a tang"
 pubDate: 2026-04-04

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Hot Tent for Backpacking: Top Picks for Cozy Outdoor Adventures"
 description: "Choosing the best hot tent for backpacking makes cold-weather camping safer and more comfortable. Hot tents offer warmth, shelter, and space for cooking with a "
 pubDate: 2026-06-07

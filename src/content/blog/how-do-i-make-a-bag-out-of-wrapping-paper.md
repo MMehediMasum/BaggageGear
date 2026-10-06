@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do I Make a Bag Out of Wrapping Paper: Easy DIY Guide"
 description: "Imagine turning leftover wrapping paper into a chic, eco-friendly bag. This creative project not only gives you a unique accessory but also helps reduce waste. "
 pubDate: 2026-02-06

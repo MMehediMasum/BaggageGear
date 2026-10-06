@@ -1,10 +1,14 @@
 ---
-title: "What is Not Allowed in a Checked Bag: Essential Travel Rules Revealed"
-description: "Are you planning to pack your checked bag for your next trip? Before you start stuffing everything inside, it’s important to know what you can’t bring along. Pa"
+title: 'What is Not Allowed in a Checked Bag: Essential Travel Rules Revealed'
+description: Are you planning to pack your checked bag for your next trip? Before
+  you start stuffing everything inside, it’s important to know what you can’t bring
+  along. Pa
 pubDate: 2025-09-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-not-allowed-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-is-not-allowed-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to pack your checked bag for your next trip? Before you start stuffing everything inside, it’s important to know what you can’t bring along.**

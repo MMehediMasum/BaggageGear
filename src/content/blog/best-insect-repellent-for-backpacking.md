@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Insect Repellent for Backpacking: Top Picks for Ultimate Protection"
 description: "Finding the best insect repellent for backpacking helps keep bugs away and makes your trip more comfortable. Choosing the right product means better protection "
 pubDate: 2026-06-11

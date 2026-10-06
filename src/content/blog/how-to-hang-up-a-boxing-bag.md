@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang Up a Boxing Bag: Easy Steps for a Secure Setup"
 description: "Are you ready to unleash your inner fighter and get the most out of your home workouts? Hanging up a boxing bag might be just what you need to transform your ex"
 pubDate: 2025-10-21

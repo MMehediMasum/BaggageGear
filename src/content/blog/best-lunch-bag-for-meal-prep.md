@@ -1,10 +1,14 @@
 ---
-title: "Best Lunch Bag for Meal Prep: Top Insulated Bags with Portion Control"
-description: "Choosing the best lunch bag for meal prep helps keep your food fresh and organized all day. The right bag fits your needs and makes meal times easier. Meal prep"
+title: 'Best Lunch Bag for Meal Prep: Top Insulated Bags with Portion Control'
+description: Choosing the best lunch bag for meal prep helps keep your food fresh
+  and organized all day. The right bag fits your needs and makes meal times easier.
+  Meal prep
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lunch-bag-for-meal-prep&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Insulated Lunch And Cooler Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-lunch-bag-for-meal-prep&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best lunch bag for meal prep helps keep your food fresh and organized all day. The right bag fits your needs and makes meal times easier.**

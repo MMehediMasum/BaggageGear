@@ -1,10 +1,14 @@
 ---
-title: "What to Have in a Carry On Bag: Ultimate Travel Essentials Guide"
-description: "Packing your carry-on bag is a crucial step that can make or break your travel experience. Imagine reaching for your headphones only to find out they're tucked "
+title: 'What to Have in a Carry On Bag: Ultimate Travel Essentials Guide'
+description: 'Packing your carry-on bag is a crucial step that can make or break your
+  travel experience. Imagine reaching for your headphones only to find out they''re
+  tucked '
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-have-in-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-have-in-a-carry-on-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing your carry-on bag is a crucial step that can make or break your travel experience. Imagine reaching for your headphones only to find out they're tucked away in your checked luggage.**

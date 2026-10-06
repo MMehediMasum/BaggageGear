@@ -1,10 +1,14 @@
 ---
-title: "What are Sprayground Backpacks Made of: Ultimate Material Breakdown"
-description: "Have you ever wondered what makes Sprayground backpacks so eye-catching and durable? You’re not alone. These backpacks have taken the fashion world by storm wit"
+title: 'What are Sprayground Backpacks Made of: Ultimate Material Breakdown'
+description: Have you ever wondered what makes Sprayground backpacks so eye-catching
+  and durable? You’re not alone. These backpacks have taken the fashion world by storm
+  wit
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-sprayground-backpacks-made-of&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-are-sprayground-backpacks-made-of&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered what makes Sprayground backpacks so eye-catching and durable? You’re not alone.**

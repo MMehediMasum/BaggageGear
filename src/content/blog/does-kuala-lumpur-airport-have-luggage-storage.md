@@ -1,10 +1,14 @@
 ---
-title: "Does Kuala Lumpur Airport Have Luggage Storage: Ultimate Guide"
-description: "Are you planning a trip through Kuala Lumpur International Airport and wondering if you can safely store your luggage there? Navigating an airport can be a stre"
+title: 'Does Kuala Lumpur Airport Have Luggage Storage: Ultimate Guide'
+description: Are you planning a trip through Kuala Lumpur International Airport and
+  wondering if you can safely store your luggage there? Navigating an airport can
+  be a stre
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-kuala-lumpur-airport-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=does-kuala-lumpur-airport-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip through Kuala Lumpur International Airport and wondering if you can safely store your luggage there? Navigating an airport can be a stressful experience, especially when you're unsure about what facilities are available.**

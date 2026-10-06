@@ -1,10 +1,14 @@
 ---
-title: "What Stores Carry Away Luggage: Top Places to Shop Now"
-description: "Imagine planning your next getaway, the excitement buzzing as you map out destinations and activities. But there's one crucial item missing from your checklist:"
+title: 'What Stores Carry Away Luggage: Top Places to Shop Now'
+description: 'Imagine planning your next getaway, the excitement buzzing as you map
+  out destinations and activities. But there''s one crucial item missing from your
+  checklist:'
 pubDate: 2026-02-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-stores-carry-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-stores-carry-away-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine planning your next getaway, the excitement buzzing as you map out destinations and activities. But there's one crucial item missing from your checklist: the perfect luggage.**

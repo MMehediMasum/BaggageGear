@@ -1,10 +1,14 @@
 ---
-title: "What'S in My Diaper Bag: Essential Must-Haves for Busy Moms"
-description: "Are you a new parent or soon-to-be one, wondering what essentials you need to carry in your diaper bag? You're not alone. Packing a diaper bag can feel overwhel"
+title: 'What''S in My Diaper Bag: Essential Must-Haves for Busy Moms'
+description: Are you a new parent or soon-to-be one, wondering what essentials you
+  need to carry in your diaper bag? You're not alone. Packing a diaper bag can feel
+  overwhel
 pubDate: 2025-09-23
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=whats-in-my-diaper-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Diaper Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=whats-in-my-diaper-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Are you a new parent or soon-to-be one, wondering what essentials you need to carry in your diaper bag? You're not alone.**

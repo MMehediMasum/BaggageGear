@@ -1,10 +1,14 @@
 ---
-title: "How Big is 62 Inches Luggage: Ultimate Size Guide Revealed"
-description: "Are you planning your next big adventure and wondering if your luggage will fit all your travel essentials? You’re not alone! When it comes to packing for a tri"
+title: 'How Big is 62 Inches Luggage: Ultimate Size Guide Revealed'
+description: Are you planning your next big adventure and wondering if your luggage
+  will fit all your travel essentials? You’re not alone! When it comes to packing
+  for a tri
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-62-inches-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-62-inches-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure and wondering if your luggage will fit all your travel essentials? You’re not alone!**

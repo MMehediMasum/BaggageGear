@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Hat in a Suitcase: Easy Tips for Wrinkle-Free Travel"
-description: "Packing a suitcase is an art, and when it comes to hats, it can seem like an impossible puzzle. You might worry about your favorite hat getting squished or losi"
+title: 'How to Pack a Hat in a Suitcase: Easy Tips for Wrinkle-Free Travel'
+description: Packing a suitcase is an art, and when it comes to hats, it can seem
+  like an impossible puzzle. You might worry about your favorite hat getting squished
+  or losi
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-hat-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-hat-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suitcase is an art, and when it comes to hats, it can seem like an impossible puzzle. You might worry about your favorite hat getting squished or losing its shape.**

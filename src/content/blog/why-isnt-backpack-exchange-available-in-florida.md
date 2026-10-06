@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Isnt Backpack Exchange Available in Florida? Shocking Reasons!"
 description: "Are you wondering why the popular Backpack Exchange program is missing from the sunny state of Florida? You're not alone. Many residents and visitors have been "
 pubDate: 2025-09-05

@@ -1,10 +1,14 @@
 ---
-title: "Can Alkaline Batteries Go in Checked Luggage: Essential Travel Tips"
-description: "Are you planning a trip and wondering whether you can pack alkaline batteries in your checked luggage? It's a common question that travelers face. You want to m"
+title: 'Can Alkaline Batteries Go in Checked Luggage: Essential Travel Tips'
+description: Are you planning a trip and wondering whether you can pack alkaline batteries
+  in your checked luggage? It's a common question that travelers face. You want to
+  m
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-alkaline-batteries-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-alkaline-batteries-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering whether you can pack alkaline batteries in your checked luggage? It's a common question that travelers face.**

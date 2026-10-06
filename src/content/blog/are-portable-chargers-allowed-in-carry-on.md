@@ -1,10 +1,14 @@
 ---
-title: "Are Portable Chargers Allowed in Carry on: Ultimate Travel Guide"
-description: "Packing for a flight can be a bit stressful, especially when it comes to figuring out what you can and cannot bring in your carry-on. One item that often leaves"
+title: 'Are Portable Chargers Allowed in Carry on: Ultimate Travel Guide'
+description: Packing for a flight can be a bit stressful, especially when it comes
+  to figuring out what you can and cannot bring in your carry-on. One item that often
+  leaves
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-portable-chargers-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-portable-chargers-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a flight can be a bit stressful, especially when it comes to figuring out what you can and cannot bring in your carry-on. One item that often leaves travelers puzzled is the portable charger.**

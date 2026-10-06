@@ -1,10 +1,15 @@
 ---
-title: "Best Backpack for Walking Around a City: Lightweight, Foldable, and Stylish Choices"
-description: "Choosing the best backpack for walking around a city makes your day easier and more comfortable. A good backpack stays light, fits your needs, and keeps your be"
+title: 'Best Backpack for Walking Around a City: Lightweight, Foldable, and Stylish
+  Choices'
+description: Choosing the best backpack for walking around a city makes your day easier
+  and more comfortable. A good backpack stays light, fits your needs, and keeps your
+  be
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-walking-around-a-city&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-walking-around-a-city&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for walking around a city makes your day easier and more comfortable. A good backpack stays light, fits your needs, and keeps your belongings safe.**

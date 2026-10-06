@@ -1,10 +1,14 @@
 ---
-title: "What Size is a 22Kg Suitcase: Ultimate Guide to Perfect Packing"
-description: "Have you ever stood in front of your suitcase, wondering if it's the right size for your trip? You're not alone. Many travelers find themselves puzzled by the d"
+title: 'What Size is a 22Kg Suitcase: Ultimate Guide to Perfect Packing'
+description: Have you ever stood in front of your suitcase, wondering if it's the
+  right size for your trip? You're not alone. Many travelers find themselves puzzled
+  by the d
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-22kg-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-22kg-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood in front of your suitcase, wondering if it's the right size for your trip? You're not alone.**

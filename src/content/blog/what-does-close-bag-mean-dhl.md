@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Close Bag Mean Dhl: Explained Simply for Shippers"
 description: "Have you ever found yourself staring at the term \"Close Bag\" while tracking your DHL shipment, wondering what it actually means for your package? You're not alo"
 pubDate: 2026-03-28

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Ship a Cpu With a Static Bag: Expert Tips for Safe Delivery"
 description: "When it comes to shipping a CPU, you want to ensure it arrives at its destination safely and in perfect working order. The last thing you need is for it to get "
 pubDate: 2025-12-06

@@ -1,10 +1,15 @@
 ---
-title: "Best Small Day Backpack for Travel: Lightweight, Foldable, and Water-Resistant Choices"
-description: "Finding the best small day backpack for travel makes your trips easier and more comfortable. A good backpack fits your needs without adding bulk or weight. Trav"
+title: 'Best Small Day Backpack for Travel: Lightweight, Foldable, and Water-Resistant
+  Choices'
+description: Finding the best small day backpack for travel makes your trips easier
+  and more comfortable. A good backpack fits your needs without adding bulk or weight.
+  Trav
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-day-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-small-day-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best small day backpack for travel makes your trips easier and more comfortable. A good backpack fits your needs without adding bulk or weight.**

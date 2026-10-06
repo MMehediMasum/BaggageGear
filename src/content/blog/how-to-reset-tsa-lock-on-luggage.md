@@ -1,10 +1,14 @@
 ---
-title: "How to Reset TSA Lock on Luggage: Easy Steps for Quick Access"
-description: "Have you ever found yourself standing at the airport, unable to open your luggage because you forgot the combination to your TSA lock? You're not alone. Many tr"
+title: 'How to Reset TSA Lock on Luggage: Easy Steps for Quick Access'
+description: Have you ever found yourself standing at the airport, unable to open
+  your luggage because you forgot the combination to your TSA lock? You're not alone.
+  Many tr
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-tsa-lock-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-tsa-lock-on-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself standing at the airport, unable to open your luggage because you forgot the combination to your TSA lock? You're not alone.**

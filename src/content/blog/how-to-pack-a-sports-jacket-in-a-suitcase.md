@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Sports Jacket in a Suitcase: Expert Tips Revealed"
-description: "Packing a sports jacket in a suitcase can feel like a daunting task. You might worry about wrinkles, creases, or losing that polished look. But what if you coul"
+title: 'How to Pack a Sports Jacket in a Suitcase: Expert Tips Revealed'
+description: Packing a sports jacket in a suitcase can feel like a daunting task.
+  You might worry about wrinkles, creases, or losing that polished look. But what
+  if you coul
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-sports-jacket-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-sports-jacket-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a sports jacket in a suitcase can feel like a daunting task. You might worry about wrinkles, creases, or losing that polished look.**

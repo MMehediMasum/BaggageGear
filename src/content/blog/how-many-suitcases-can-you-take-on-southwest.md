@@ -1,10 +1,14 @@
 ---
-title: "How Many Suitcases Can You Take on Southwest: Ultimate Packing Guide"
-description: "Planning your next adventure with Southwest Airlines and wondering how many suitcases you can bring along? You're not alone. Navigating airline baggage policies"
+title: 'How Many Suitcases Can You Take on Southwest: Ultimate Packing Guide'
+description: Planning your next adventure with Southwest Airlines and wondering how
+  many suitcases you can bring along? You're not alone. Navigating airline baggage
+  policies
 pubDate: 2025-11-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-suitcases-can-you-take-on-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-many-suitcases-can-you-take-on-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure with Southwest Airlines and wondering how many suitcases you can bring along? You're not alone.**

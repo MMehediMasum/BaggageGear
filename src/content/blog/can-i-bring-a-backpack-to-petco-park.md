@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Backpack to Petco Park: Ultimate Guide & Rules Explained"
-description: "Are you planning a visit to Petco Park and wondering if you can bring your trusty backpack along? It's a common question that pops up when you're gearing up for"
+title: 'Can I Bring a Backpack to Petco Park: Ultimate Guide & Rules Explained'
+description: Are you planning a visit to Petco Park and wondering if you can bring
+  your trusty backpack along? It's a common question that pops up when you're gearing
+  up for
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-petco-park&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-petco-park&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a visit to Petco Park and wondering if you can bring your trusty backpack along? It's a common question that pops up when you're gearing up for a day of excitement at the ballpark.**

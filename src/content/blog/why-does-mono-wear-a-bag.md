@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Does Mono Wear a Bag: Surprising Reasons Explained"
 description: "Have you ever wondered why Mono, the mysterious character from the game \"Little Nightmares II,\" wears a bag over his head? You might think it's just a quirky de"
 pubDate: 2026-01-21

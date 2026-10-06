@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Fjallraven Backpack: Easy Steps for Lasting Clean"
-description: "Your Fjällräven backpack is more than just a bag—it's a trusty companion on countless adventures. Over time, it collects stories, memories, and, let's face it, "
+title: 'How to Wash a Fjallraven Backpack: Easy Steps for Lasting Clean'
+description: 'Your Fjällräven backpack is more than just a bag—it''s a trusty companion
+  on countless adventures. Over time, it collects stories, memories, and, let''s face
+  it, '
 pubDate: 2025-12-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-fjallraven-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-fjallraven-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Fjällräven backpack is more than just a bag—it's a trusty companion on countless adventures. Over time, it collects stories, memories, and, let's face it, a bit of dirt.**

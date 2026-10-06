@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Fishing Rod for Backpacking: Top Telescopic Combos for Easy Travel"
 description: "Finding the best fishing rod for backpacking means choosing one that is lightweight, compact, and durable. These rods must fit easily in your pack and handle di"
 pubDate: 2026-06-18

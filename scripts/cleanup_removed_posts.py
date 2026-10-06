@@ -16,7 +16,7 @@ XLSX_PATH = "keyword_clusters.xlsx"
 BLOG_DIR = Path("src/content/blog")
 REDIRECTS_PATH = Path("public/_redirects")
 
-MODE = "delete-offniche"  # "duplicates" | "noindex-offniche" | "delete-offniche"
+MODE = "noindex-offniche"  # "duplicates" | "noindex-offniche" | "delete-offniche"
 
 
 def slug_from_url(url):

@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With a Knife in a Checked Bag: Essential Rules Revealed"
-description: "Traveling can be both exciting and stressful, especially when you're trying to pack everything you need without breaking any rules. If you've ever wondered whet"
+title: 'Can You Fly With a Knife in a Checked Bag: Essential Rules Revealed'
+description: Traveling can be both exciting and stressful, especially when you're
+  trying to pack everything you need without breaking any rules. If you've ever wondered
+  whet
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-a-knife-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-a-knife-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when you're trying to pack everything you need without breaking any rules. If you've ever wondered whether you can fly with a knife in your checked bag, you're not alone.**

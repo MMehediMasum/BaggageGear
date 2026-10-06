@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Work Out With a Heavy Bag: Ultimate Guide for Maximum Impact"
 description: "If you want to boost your strength, improve your endurance, and sharpen your focus, working out with a heavy bag is one of the best ways to do it. But how do yo"
 pubDate: 2025-08-31

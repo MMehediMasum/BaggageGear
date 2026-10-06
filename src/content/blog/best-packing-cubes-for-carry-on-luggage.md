@@ -1,10 +1,14 @@
 ---
-title: "Best Packing Cubes for Carry On Luggage to Maximize Travel Space"
-description: "Packing cubes help organize carry-on luggage efficiently. They save space and keep items neat during travel. Traveling with a carry-on can be tricky without the"
+title: Best Packing Cubes for Carry On Luggage to Maximize Travel Space
+description: Packing cubes help organize carry-on luggage efficiently. They save space
+  and keep items neat during travel. Traveling with a carry-on can be tricky without
+  the
 pubDate: 2026-08-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packing-cubes-for-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Cubes For Carry On
+heroImage: https://tse1.mm.bing.net/th?q=best-packing-cubes-for-carry-on-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing cubes help organize carry-on luggage efficiently. They save space and keep items neat during travel.**

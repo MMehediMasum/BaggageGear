@@ -1,10 +1,14 @@
 ---
-title: "Does Away Luggage Have a Lifetime Warranty? Ultimate Guide 2025"
-description: "When you're investing in something as essential as luggage, you want to make sure it stands the test of time. And when it comes to Away luggage, a brand known f"
+title: Does Away Luggage Have a Lifetime Warranty? Ultimate Guide 2025
+description: When you're investing in something as essential as luggage, you want
+  to make sure it stands the test of time. And when it comes to Away luggage, a brand
+  known f
 pubDate: 2025-09-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-away-luggage-have-a-lifetime-warranty&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-away-luggage-have-a-lifetime-warranty&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you're investing in something as essential as luggage, you want to make sure it stands the test of time. And when it comes to Away luggage, a brand known for its sleek design and durability, one question that often arises is: "Does Away luggage have a lifetime warranty?"**

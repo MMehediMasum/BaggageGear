@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack a Lighter in Checked Luggage: Essential Rules Revealed"
-description: "Traveling can be exciting, but packing your bags can sometimes feel like solving a tricky puzzle. You want to make sure you have everything you need while also "
+title: 'Can You Pack a Lighter in Checked Luggage: Essential Rules Revealed'
+description: 'Traveling can be exciting, but packing your bags can sometimes feel
+  like solving a tricky puzzle. You want to make sure you have everything you need
+  while also '
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-a-lighter-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-a-lighter-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be exciting, but packing your bags can sometimes feel like solving a tricky puzzle. You want to make sure you have everything you need while also staying within airline guidelines.**

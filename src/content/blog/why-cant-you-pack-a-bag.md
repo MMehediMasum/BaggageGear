@@ -1,10 +1,14 @@
 ---
-title: "Why Can'T You Pack a Bag: Overcome Procrastination Now!"
-description: "Have you ever stared at your suitcase, feeling stuck and unsure where to start? You know you need to pack, but somehow, it just doesn’t happen. Maybe you cram e"
+title: 'Why Can''T You Pack a Bag: Overcome Procrastination Now!'
+description: Have you ever stared at your suitcase, feeling stuck and unsure where
+  to start? You know you need to pack, but somehow, it just doesn’t happen. Maybe
+  you cram e
 pubDate: 2025-08-27
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=why-cant-you-pack-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=why-cant-you-pack-a-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Have you ever stared at your suitcase, feeling stuck and unsure where to start? You know you need to pack, but somehow, it just doesn’t happen.**

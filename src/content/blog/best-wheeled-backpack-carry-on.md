@@ -1,10 +1,14 @@
 ---
-title: "Best Wheeled Backpack Carry On for Effortless Travel and Business Use"
-description: "Choosing the best wheeled backpack carry on makes travel easier and more organized. These backpacks combine wheels and straps for comfort and convenience. Wheel"
+title: Best Wheeled Backpack Carry On for Effortless Travel and Business Use
+description: Choosing the best wheeled backpack carry on makes travel easier and more
+  organized. These backpacks combine wheels and straps for comfort and convenience.
+  Wheel
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-wheeled-backpack-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-wheeled-backpack-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best wheeled backpack carry on makes travel easier and more organized. These backpacks combine wheels and straps for comfort and convenience.**

@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Cheap Carry on Luggage: Top Deals & Best Picks"
-description: "Are you planning your next getaway and in need of affordable carry-on luggage? The search for the perfect travel bag can often feel overwhelming, especially whe"
+title: 'Where to Buy Cheap Carry on Luggage: Top Deals & Best Picks'
+description: Are you planning your next getaway and in need of affordable carry-on
+  luggage? The search for the perfect travel bag can often feel overwhelming, especially
+  whe
 pubDate: 2026-03-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-cheap-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-cheap-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next getaway and in need of affordable carry-on luggage? The search for the perfect travel bag can often feel overwhelming, especially when you're trying to find something that fits your budget without compromising on quality.**

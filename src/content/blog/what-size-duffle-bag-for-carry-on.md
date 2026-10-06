@@ -1,10 +1,14 @@
 ---
-title: "What Size Duffle Bag for Carry On: Ultimate Guide for Travelers"
-description: "Are you planning your next getaway and wondering what size duffle bag will suit your carry-on needs? You're not alone. Many travelers face the same dilemma when"
+title: 'What Size Duffle Bag for Carry On: Ultimate Guide for Travelers'
+description: Are you planning your next getaway and wondering what size duffle bag
+  will suit your carry-on needs? You're not alone. Many travelers face the same dilemma
+  when
 pubDate: 2025-09-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-duffle-bag-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-duffle-bag-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next getaway and wondering what size duffle bag will suit your carry-on needs? You're not alone.**

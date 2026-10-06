@@ -1,10 +1,14 @@
 ---
-title: "Best Medium Size Checked Luggage for Durable and Stylish Travel Gear"
-description: "Choosing the best medium size checked luggage helps make travel easier and more organized. These suitcases offer enough space without being too bulky for trips."
+title: Best Medium Size Checked Luggage for Durable and Stylish Travel Gear
+description: Choosing the best medium size checked luggage helps make travel easier
+  and more organized. These suitcases offer enough space without being too bulky for
+  trips.
 pubDate: 2025-09-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-medium-size-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-medium-size-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best medium size checked luggage helps make travel easier and more organized. These suitcases offer enough space without being too bulky for trips.**

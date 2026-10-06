@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Wine in Your Checked Luggage: Expert Tips & Tricks"
-description: "Are you planning a trip and dreaming of bringing a taste of your destination back home with you? If so, wine might be at the top of your list. But the thought o"
+title: 'How to Pack Wine in Your Checked Luggage: Expert Tips & Tricks'
+description: Are you planning a trip and dreaming of bringing a taste of your destination
+  back home with you? If so, wine might be at the top of your list. But the thought
+  o
 pubDate: 2026-01-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-wine-in-your-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-wine-in-your-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and dreaming of bringing a taste of your destination back home with you? If so, wine might be at the top of your list.**

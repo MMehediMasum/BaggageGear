@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Liquids in Your Luggage: Essential Travel Tips"
-description: "Traveling can be stressful, especially when it comes to packing your bags and ensuring everything is airline-compliant. One frequent question you might have is "
+title: 'Can You Check Liquids in Your Luggage: Essential Travel Tips'
+description: 'Traveling can be stressful, especially when it comes to packing your
+  bags and ensuring everything is airline-compliant. One frequent question you might
+  have is '
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-liquids-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-liquids-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful, especially when it comes to packing your bags and ensuring everything is airline-compliant. One frequent question you might have is about packing liquids in your luggage.**

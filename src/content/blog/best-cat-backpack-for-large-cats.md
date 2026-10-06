@@ -1,10 +1,14 @@
 ---
-title: "Best Cat Backpack for Large Cats: Spacious, Durable, and Travel-Ready Choices"
-description: "Finding the perfect backpack for large cats can be a challenge. Comfort and space are crucial for stress-free adventures. Cat owners know that traveling with th"
+title: 'Best Cat Backpack for Large Cats: Spacious, Durable, and Travel-Ready Choices'
+description: Finding the perfect backpack for large cats can be a challenge. Comfort
+  and space are crucial for stress-free adventures. Cat owners know that traveling
+  with th
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cat-backpack-for-large-cats&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-cat-backpack-for-large-cats&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the perfect backpack for large cats can be a challenge. Comfort and space are crucial for stress-free adventures.**

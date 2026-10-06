@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Turn in Looting Bag Rs3: Quick & Easy Guide"
 description: "Unlocking the secrets of RuneScape can be thrilling, and one aspect that often piques curiosity is the looting bag. If you've ever wondered how to turn in a loo"
 pubDate: 2025-12-05

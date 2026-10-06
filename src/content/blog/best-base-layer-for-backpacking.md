@@ -1,10 +1,14 @@
 ---
-title: "Best Base Layer for Backpacking: Top Thermal Underwear for Men & Women"
-description: "Choosing the best base layer for backpacking can make your outdoor trips more comfortable. A good base layer keeps you warm, dry, and ready for any weather. Bas"
+title: 'Best Base Layer for Backpacking: Top Thermal Underwear for Men & Women'
+description: Choosing the best base layer for backpacking can make your outdoor trips
+  more comfortable. A good base layer keeps you warm, dry, and ready for any weather.
+  Bas
 pubDate: 2026-06-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-base-layer-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Apparel And Trekking Poles
+heroImage: https://tse1.mm.bing.net/th?q=best-base-layer-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best base layer for backpacking can make your outdoor trips more comfortable. A good base layer keeps you warm, dry, and ready for any weather.**

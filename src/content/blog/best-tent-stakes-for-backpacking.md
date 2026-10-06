@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Tent Stakes for Backpacking: Lightweight, Durable, and Reliable Picks"
 description: "Choosing the best tent stakes for backpacking ensures your tent stays secure in all weather. Lightweight, strong stakes make setting up camp easier and safer. B"
 pubDate: 2026-06-15

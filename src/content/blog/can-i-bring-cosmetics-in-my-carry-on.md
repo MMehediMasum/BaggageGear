@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Cosmetics in My Carry On: Essential TSA Rules Explained"
-description: "Have you ever packed your carry-on bag, only to pause and wonder, \"Can I bring cosmetics with me on the plane?\" You're not alone. With travel rules always chang"
+title: 'Can I Bring Cosmetics in My Carry On: Essential TSA Rules Explained'
+description: Have you ever packed your carry-on bag, only to pause and wonder, "Can
+  I bring cosmetics with me on the plane?" You're not alone. With travel rules always
+  chang
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-cosmetics-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-cosmetics-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed your carry-on bag, only to pause and wonder, "Can I bring cosmetics with me on the plane?" You're not alone.**

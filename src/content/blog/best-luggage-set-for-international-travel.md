@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Set for International Travel: Top 3-Piece Options Reviewed"
-description: "Choosing the best luggage set for international travel makes your trips easier and more organized. Durable, lightweight, and secure suitcases protect your belon"
+title: 'Best Luggage Set for International Travel: Top 3-Piece Options Reviewed'
+description: Choosing the best luggage set for international travel makes your trips
+  easier and more organized. Durable, lightweight, and secure suitcases protect your
+  belon
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-set-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-set-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage set for international travel makes your trips easier and more organized. Durable, lightweight, and secure suitcases protect your belongings across countries.**

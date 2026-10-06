@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Aerosol Bug Spray in Checked Luggage: Essential Travel Rules"
-description: "Are you planning your next adventure and wondering if you can pack that trusty aerosol bug spray in your checked luggage? You're not alone. Many travelers face "
+title: 'Can You Put Aerosol Bug Spray in Checked Luggage: Essential Travel Rules'
+description: 'Are you planning your next adventure and wondering if you can pack that
+  trusty aerosol bug spray in your checked luggage? You''re not alone. Many travelers
+  face '
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-aerosol-bug-spray-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-aerosol-bug-spray-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering if you can pack that trusty aerosol bug spray in your checked luggage? You're not alone.**

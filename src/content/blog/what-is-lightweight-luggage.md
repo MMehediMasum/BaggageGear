@@ -1,10 +1,14 @@
 ---
-title: "What is Lightweight Luggage: Ultimate Guide to Travel Smart"
-description: "Have you ever struggled with a bulky suitcase while navigating through crowded airports or trying to fit it into an overhead compartment? Lightweight luggage mi"
+title: 'What is Lightweight Luggage: Ultimate Guide to Travel Smart'
+description: Have you ever struggled with a bulky suitcase while navigating through
+  crowded airports or trying to fit it into an overhead compartment? Lightweight luggage
+  mi
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-lightweight-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-lightweight-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever struggled with a bulky suitcase while navigating through crowded airports or trying to fit it into an overhead compartment? Lightweight luggage might just be the solution you've been searching for.**

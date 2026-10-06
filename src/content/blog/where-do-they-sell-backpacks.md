@@ -1,10 +1,14 @@
 ---
-title: "Where Do They Sell Backpacks: Top Stores for Every Style & Budget"
-description: "Looking for the perfect backpack can feel like a never-ending quest. With so many options out there, how do you know where to start? Whether you're gearing up f"
+title: 'Where Do They Sell Backpacks: Top Stores for Every Style & Budget'
+description: Looking for the perfect backpack can feel like a never-ending quest.
+  With so many options out there, how do you know where to start? Whether you're gearing
+  up f
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-do-they-sell-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-do-they-sell-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Looking for the perfect backpack can feel like a never-ending quest. With so many options out there, how do you know where to start?**

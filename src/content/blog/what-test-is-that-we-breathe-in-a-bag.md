@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Test is That We Breathe in a Bag: Explained Simply"
 description: "Have you ever seen someone breathe into a paper bag and wondered why? This simple act might seem puzzling, but it’s actually linked to a fascinating test that c"
 pubDate: 2026-03-11

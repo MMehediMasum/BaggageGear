@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Beyonce Have a Stoma Bag: Unveiling the Truth Today"
 description: "Curiosity often leads us to fascinating questions about the lives of our favorite celebrities. One intriguing question that has caught the attention of many is:"
 pubDate: 2026-04-05

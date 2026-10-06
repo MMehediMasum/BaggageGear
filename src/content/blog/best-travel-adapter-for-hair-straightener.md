@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Hair Straightener: Top Voltage Converters Reviewed"
-description: "Choosing the best travel adapter for your hair straightener ensures safe and reliable use abroad. Not all adapters handle the voltage and plug types your device"
+title: 'Best Travel Adapter for Hair Straightener: Top Voltage Converters Reviewed'
+description: Choosing the best travel adapter for your hair straightener ensures safe
+  and reliable use abroad. Not all adapters handle the voltage and plug types your
+  device
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-hair-straightener&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-hair-straightener&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel adapter for your hair straightener ensures safe and reliable use abroad. Not all adapters handle the voltage and plug types your device needs.**

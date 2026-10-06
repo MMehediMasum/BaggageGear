@@ -1,10 +1,14 @@
 ---
-title: "Can U Wash a Lululemon Belt Bag: Essential Care Tips Revealed"
-description: "You love your Lululemon belt bag – it’s stylish, practical, and perfect for carrying your essentials hands-free. But what happens when it gets dirty? You might "
+title: 'Can U Wash a Lululemon Belt Bag: Essential Care Tips Revealed'
+description: 'You love your Lululemon belt bag – it’s stylish, practical, and perfect
+  for carrying your essentials hands-free. But what happens when it gets dirty? You
+  might '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-u-wash-a-lululemon-belt-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lululemon Belt Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-u-wash-a-lululemon-belt-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You love your Lululemon belt bag – it’s stylish, practical, and perfect for carrying your essentials hands-free. But what happens when it gets dirty?**

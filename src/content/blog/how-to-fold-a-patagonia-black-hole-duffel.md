@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Patagonia Black Hole Duffel: Quick & Easy Guide"
-description: "Have you ever felt the frustration of trying to pack your Patagonia Black Hole Duffel after a trip, only to find it looking like a crumpled heap? You're not alo"
+title: 'How to Fold a Patagonia Black Hole Duffel: Quick & Easy Guide'
+description: Have you ever felt the frustration of trying to pack your Patagonia Black
+  Hole Duffel after a trip, only to find it looking like a crumpled heap? You're not
+  alo
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-patagonia-black-hole-duffel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-patagonia-black-hole-duffel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever felt the frustration of trying to pack your Patagonia Black Hole Duffel after a trip, only to find it looking like a crumpled heap? You're not alone.**

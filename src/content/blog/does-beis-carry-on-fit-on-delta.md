@@ -1,10 +1,14 @@
 ---
-title: "Does Beis Carry on Fit on Delta: Ultimate Packing Guide 2025"
-description: "Are you planning your next adventure and wondering if your Beis carry-on will fit on a Delta flight? You're not alone. Many travelers face the challenge of navi"
+title: 'Does Beis Carry on Fit on Delta: Ultimate Packing Guide 2025'
+description: Are you planning your next adventure and wondering if your Beis carry-on
+  will fit on a Delta flight? You're not alone. Many travelers face the challenge
+  of navi
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and wondering if your Beis carry-on will fit on a Delta flight? You're not alone.**

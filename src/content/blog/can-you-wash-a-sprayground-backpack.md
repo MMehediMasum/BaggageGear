@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Sprayground Backpack? Ultimate Cleaning Guide!"
-description: "Have you ever looked at your Sprayground backpack and wondered if it could use a good wash? You’re not alone. Many people love the vibrant designs and unique fl"
+title: Can You Wash a Sprayground Backpack? Ultimate Cleaning Guide!
+description: Have you ever looked at your Sprayground backpack and wondered if it
+  could use a good wash? You’re not alone. Many people love the vibrant designs and
+  unique fl
 pubDate: 2025-10-22
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-sprayground-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-sprayground-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your Sprayground backpack and wondered if it could use a good wash? You’re not alone.**

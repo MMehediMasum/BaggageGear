@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Luggage on Amtrak: Essential Tips for Travelers"
-description: "Traveling by train offers a unique charm that other modes of transportation can't quite match. But when you’re planning your trip, one question might pop into y"
+title: 'Can You Bring Luggage on Amtrak: Essential Tips for Travelers'
+description: Traveling by train offers a unique charm that other modes of transportation
+  can't quite match. But when you’re planning your trip, one question might pop into
+  y
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-luggage-on-amtrak&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-luggage-on-amtrak&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Traveling by train offers a unique charm that other modes of transportation can't quite match. But when you’re planning your trip, one question might pop into your mind: Can you bring luggage on Amtrak?**

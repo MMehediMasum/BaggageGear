@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Good for Eczema: Proven Relief or Myth?"
 description: "Eczema can be a relentless foe, leaving your skin feeling dry, itchy, and downright uncomfortable. If you’ve been searching for a solution to soothe your skin w"
 pubDate: 2026-02-25

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Reese'S are in a Bag: Discover the Exact Count Now"
 description: "Are you curious about how many Reese's are in a bag? Whether you're planning a sweet surprise for a loved one, preparing for a party, or just satisfying your ow"
 pubDate: 2026-04-20

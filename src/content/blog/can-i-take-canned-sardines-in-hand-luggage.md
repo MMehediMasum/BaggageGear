@@ -1,10 +1,14 @@
 ---
-title: "Can I Take Canned Sardines in Hand Luggage? Travel Rules Explained"
-description: "Are you planning a trip and wondering if you can pack canned sardines in your hand luggage? This seemingly simple question might just be the key to a stress-fre"
+title: Can I Take Canned Sardines in Hand Luggage? Travel Rules Explained
+description: Are you planning a trip and wondering if you can pack canned sardines
+  in your hand luggage? This seemingly simple question might just be the key to a
+  stress-fre
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-canned-sardines-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-canned-sardines-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack canned sardines in your hand luggage? This seemingly simple question might just be the key to a stress-free journey.**

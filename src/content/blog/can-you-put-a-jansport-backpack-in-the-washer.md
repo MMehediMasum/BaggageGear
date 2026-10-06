@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Jansport Backpack in the Washer: Expert Tips"
-description: "Is your Jansport backpack looking a little worse for wear? Maybe it’s covered in dirt, stains, or just needs a fresh clean-up. You’re probably wondering: can yo"
+title: 'Can You Put a Jansport Backpack in the Washer: Expert Tips'
+description: 'Is your Jansport backpack looking a little worse for wear? Maybe it’s
+  covered in dirt, stains, or just needs a fresh clean-up. You’re probably wondering:
+  can yo'
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-jansport-backpack-in-the-washer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-jansport-backpack-in-the-washer&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Is your Jansport backpack looking a little worse for wear? Maybe it’s covered in dirt, stains, or just needs a fresh clean-up.**

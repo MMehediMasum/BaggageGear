@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where to Get Backpack Stardew Valley: Ultimate Guide for Players"
 description: "Are you struggling to make the most out of your Stardew Valley experience because your backpack just can't seem to hold everything you need? You're not alone. M"
 pubDate: 2026-01-04

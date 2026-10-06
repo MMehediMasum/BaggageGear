@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Squashies in a Bag: Discover the Exact Count Now!"
 description: "Ever found yourself holding a bag of Squashies, wondering just how many of those delightful, chewy treats are inside? You're not alone. There's something intrig"
 pubDate: 2026-04-22

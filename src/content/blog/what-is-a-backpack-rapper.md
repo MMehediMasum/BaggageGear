@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Backpack Rapper: Unveiling the Authentic Hip-Hop Culture"
 description: "Ever stumbled across the term \"backpack rapper\" and wondered what it really means? You’re not alone. This intriguing label has piqued the curiosity of many musi"
 pubDate: 2025-11-12

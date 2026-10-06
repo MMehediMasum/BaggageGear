@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Does a Bag Valve Mask Work: Essential Life-Saving Guide"
 description: "Imagine you're in a situation where someone's life depends on quick, decisive action. Knowing how to use a bag valve mask (BVM) can make all the difference. Thi"
 pubDate: 2026-01-29

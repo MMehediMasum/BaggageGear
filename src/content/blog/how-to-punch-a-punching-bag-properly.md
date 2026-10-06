@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Punch a Punching Bag Properly: Master Power and Precision"
 description: "Ever wondered why your punches don't feel as powerful as you'd like them to be? Or why after a session with the punching bag, your hands and wrists feel sore? Y"
 pubDate: 2026-03-09

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Tobacco in My Carry on: Essential Travel Rules Unveiled"
-description: "Planning a trip soon? You might be wondering about what you can bring in your carry-on bag, especially if you’re a tobacco user. The rules around flying with to"
+title: 'Can I Bring Tobacco in My Carry on: Essential Travel Rules Unveiled'
+description: Planning a trip soon? You might be wondering about what you can bring
+  in your carry-on bag, especially if you’re a tobacco user. The rules around flying
+  with to
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-tobacco-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-tobacco-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip soon? You might be wondering about what you can bring in your carry-on bag, especially if you’re a tobacco user.**

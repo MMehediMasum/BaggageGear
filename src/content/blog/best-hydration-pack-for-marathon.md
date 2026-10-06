@@ -1,10 +1,13 @@
 ---
-title: "Best Hydration Pack for Marathon: Top Lightweight Vests for Runners"
-description: "Choosing the best hydration pack for a marathon is key to staying refreshed and performing well. A good pack holds enough water without slowing you down. Marath"
+title: 'Best Hydration Pack for Marathon: Top Lightweight Vests for Runners'
+description: Choosing the best hydration pack for a marathon is key to staying refreshed
+  and performing well. A good pack holds enough water without slowing you down. Marath
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hydration-pack-for-marathon&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hydration Packs For Running
+heroImage: https://tse1.mm.bing.net/th?q=best-hydration-pack-for-marathon&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best hydration pack for a marathon is key to staying refreshed and performing well. A good pack holds enough water without slowing you down.**

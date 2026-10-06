@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Powder in Checked Luggage International: Essential Rules"
-description: "When you're packing for an international trip, every item you decide to bring along can trigger a flurry of questions. One common query travelers often ponder i"
+title: 'Can You Bring Powder in Checked Luggage International: Essential Rules'
+description: When you're packing for an international trip, every item you decide
+  to bring along can trigger a flurry of questions. One common query travelers often
+  ponder i
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-powder-in-checked-luggage-international&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-powder-in-checked-luggage-international&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're packing for an international trip, every item you decide to bring along can trigger a flurry of questions. One common query travelers often ponder is, "Can you bring powder in checked luggage international?"**

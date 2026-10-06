@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Get a Sleeping Bag: Top Places for Best Deals"
-description: "Looking for the perfect sleeping bag but not sure where to start? You're not alone. Whether you’re planning a camping trip, a hiking adventure, or just need a c"
+title: 'Where Can I Get a Sleeping Bag: Top Places for Best Deals'
+description: Looking for the perfect sleeping bag but not sure where to start? You're
+  not alone. Whether you’re planning a camping trip, a hiking adventure, or just need
+  a c
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-get-a-sleeping-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-get-a-sleeping-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Looking for the perfect sleeping bag but not sure where to start? You're not alone.**

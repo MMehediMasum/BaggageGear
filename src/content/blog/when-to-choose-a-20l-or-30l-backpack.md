@@ -1,10 +1,14 @@
 ---
-title: "When to Choose a 20L Or 30L Backpack: Ultimate Guide for Travelers"
-description: "Are you planning your next adventure and wondering whether to pack a 20L or a 30L backpack? The choice might seem simple, but it can make all the difference in "
+title: 'When to Choose a 20L Or 30L Backpack: Ultimate Guide for Travelers'
+description: 'Are you planning your next adventure and wondering whether to pack a
+  20L or a 30L backpack? The choice might seem simple, but it can make all the difference
+  in '
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-to-choose-a-20l-or-30l-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=when-to-choose-a-20l-or-30l-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next adventure and wondering whether to pack a 20L or a 30L backpack? The choice might seem simple, but it can make all the difference in your comfort and convenience.**

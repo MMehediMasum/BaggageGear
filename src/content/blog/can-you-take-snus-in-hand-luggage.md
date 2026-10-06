@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Snus in Hand Luggage: Essential Travel Rules Revealed"
-description: "Are you planning a trip and wondering whether you can pack snus in your hand luggage? You're not alone. Many travelers face this question, especially given the "
+title: 'Can You Take Snus in Hand Luggage: Essential Travel Rules Revealed'
+description: 'Are you planning a trip and wondering whether you can pack snus in your
+  hand luggage? You''re not alone. Many travelers face this question, especially given
+  the '
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-snus-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-snus-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering whether you can pack snus in your hand luggage? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Triforce Luggage: Ultimate Guide for Smart Shoppers"
-description: "Looking to upgrade your travel gear with something sleek, durable, and unique? Triforce Luggage might be just what you need. This luggage is not just a suitcase"
+title: 'Where to Buy Triforce Luggage: Ultimate Guide for Smart Shoppers'
+description: Looking to upgrade your travel gear with something sleek, durable, and
+  unique? Triforce Luggage might be just what you need. This luggage is not just a
+  suitcase
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-triforce-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-triforce-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Looking to upgrade your travel gear with something sleek, durable, and unique? Triforce Luggage might be just what you need.**

@@ -1,10 +1,13 @@
 ---
-title: "Best Golf Bag for Scotland Trip: Top Travel-Ready Picks for Golfers"
-description: "Choosing the best golf bag for a Scotland trip ensures your clubs stay safe and easy to carry. Scotland’s weather and travel needs demand a durable, lightweight"
+title: 'Best Golf Bag for Scotland Trip: Top Travel-Ready Picks for Golfers'
+description: Choosing the best golf bag for a Scotland trip ensures your clubs stay
+  safe and easy to carry. Scotland’s weather and travel needs demand a durable, lightweight
 pubDate: 2026-06-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-golf-bag-for-scotland-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Golf Bag Buying Guide
+heroImage: https://tse1.mm.bing.net/th?q=best-golf-bag-for-scotland-trip&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best golf bag for a Scotland trip ensures your clubs stay safe and easy to carry. Scotland’s weather and travel needs demand a durable, lightweight, and water-resistant bag.**

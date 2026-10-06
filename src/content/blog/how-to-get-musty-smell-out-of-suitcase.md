@@ -1,10 +1,14 @@
 ---
-title: "How to Get Musty Smell Out of Suitcase: Easy Freshening Hacks"
-description: "Have you ever opened your suitcase after a long trip only to be hit by an unpleasant musty smell? It’s a common problem that can put a damper on your travel mem"
+title: 'How to Get Musty Smell Out of Suitcase: Easy Freshening Hacks'
+description: Have you ever opened your suitcase after a long trip only to be hit by
+  an unpleasant musty smell? It’s a common problem that can put a damper on your travel
+  mem
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-musty-smell-out-of-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-musty-smell-out-of-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever opened your suitcase after a long trip only to be hit by an unpleasant musty smell? It’s a common problem that can put a damper on your travel memories.**

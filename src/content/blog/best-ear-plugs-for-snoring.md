@@ -1,10 +1,14 @@
 ---
-title: "Best Ear Plugs for Snoring: Ultimate Noise-Cancelling Sleep Solutions"
-description: "Snoring can disturb your sleep and your partner’s rest too. Using the best ear plugs for snoring helps block out noise effectively. Finding the right ear plugs "
+title: 'Best Ear Plugs for Snoring: Ultimate Noise-Cancelling Sleep Solutions'
+description: 'Snoring can disturb your sleep and your partner’s rest too. Using the
+  best ear plugs for snoring helps block out noise effectively. Finding the right
+  ear plugs '
 pubDate: 2026-05-10
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-ear-plugs-for-snoring&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ear Plugs For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-ear-plugs-for-snoring&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Snoring can disturb your sleep and your partner’s rest too. Using the best ear plugs for snoring helps block out noise effectively.**

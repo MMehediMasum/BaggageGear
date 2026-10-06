@@ -1,10 +1,14 @@
 ---
-title: "Are Pottery Barn Backpacks Worth It: Stylish Durability Reviewed"
-description: "Are you on the hunt for a backpack that combines style, durability, and functionality? Pottery Barn backpacks have been making waves among parents and students "
+title: 'Are Pottery Barn Backpacks Worth It: Stylish Durability Reviewed'
+description: 'Are you on the hunt for a backpack that combines style, durability,
+  and functionality? Pottery Barn backpacks have been making waves among parents and
+  students '
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-pottery-barn-backpacks-worth-it&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-pottery-barn-backpacks-worth-it&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a backpack that combines style, durability, and functionality? Pottery Barn backpacks have been making waves among parents and students alike.**

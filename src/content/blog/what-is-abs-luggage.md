@@ -1,10 +1,13 @@
 ---
-title: "What is Abs Luggage: Durable, Lightweight Travel Essential Explained"
-description: "Imagine you're standing in front of a wall of luggage options, each promising to be the best travel companion for your adventures. Among them, you notice someth"
+title: 'What is Abs Luggage: Durable, Lightweight Travel Essential Explained'
+description: Imagine you're standing in front of a wall of luggage options, each promising
+  to be the best travel companion for your adventures. Among them, you notice someth
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-abs-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Vs Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-abs-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine you're standing in front of a wall of luggage options, each promising to be the best travel companion for your adventures. Among them, you notice something called "ABS luggage."**

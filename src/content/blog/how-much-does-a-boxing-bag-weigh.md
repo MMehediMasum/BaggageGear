@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Boxing Bag Weigh: Find Your Perfect Fit Now"
 description: "Are you curious about how much a boxing bag weighs? Whether you're setting up a home gym or simply want to know more about this essential piece of fitness equip"
 pubDate: 2025-09-22

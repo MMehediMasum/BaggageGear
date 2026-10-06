@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Gym Bag: Easy Steps for a Fresh, Clean Gear"
-description: "Your gym bag is your trusty workout companion, hauling sweaty clothes, water bottles, and all your fitness essentials. But over time, it can start to smell less"
+title: 'How to Wash Gym Bag: Easy Steps for a Fresh, Clean Gear'
+description: Your gym bag is your trusty workout companion, hauling sweaty clothes,
+  water bottles, and all your fitness essentials. But over time, it can start to smell
+  less
 pubDate: 2025-09-25
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-gym-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-gym-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your gym bag is your trusty workout companion, hauling sweaty clothes, water bottles, and all your fitness essentials. But over time, it can start to smell less than fresh.**

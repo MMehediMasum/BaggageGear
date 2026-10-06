@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Dino Nuggets are in a Bag: The Ultimate Count Revealed"
 description: "Are you a dino nugget enthusiast or perhaps a busy parent looking to feed your little ones quickly? You might find yourself standing in the frozen food aisle, s"
 pubDate: 2026-03-14

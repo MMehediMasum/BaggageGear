@@ -1,10 +1,13 @@
 ---
-title: "Best Personal Item Backpack for Air Travel: Top Airline Approved Picks"
-description: "Choosing the best personal item backpack for air travel makes your trip easier and more organized. A good backpack fits airline rules and holds your essentials "
+title: 'Best Personal Item Backpack for Air Travel: Top Airline Approved Picks'
+description: 'Choosing the best personal item backpack for air travel makes your trip
+  easier and more organized. A good backpack fits airline rules and holds your essentials '
 pubDate: 2026-08-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-backpack-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-backpack-for-air-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item backpack for air travel makes your trip easier and more organized. A good backpack fits airline rules and holds your essentials comfortably.**

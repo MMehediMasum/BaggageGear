@@ -1,10 +1,14 @@
 ---
-title: "How Much is Spirit Bag Fee: Ultimate Guide to Hidden Costs"
-description: "Planning a trip and curious about how much Spirit Airlines charges for bags? You're not alone. Navigating airline fees can be confusing and frustrating, but und"
+title: 'How Much is Spirit Bag Fee: Ultimate Guide to Hidden Costs'
+description: Planning a trip and curious about how much Spirit Airlines charges for
+  bags? You're not alone. Navigating airline fees can be confusing and frustrating,
+  but und
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-spirit-bag-fee&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-spirit-bag-fee&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip and curious about how much Spirit Airlines charges for bags? You're not alone.**

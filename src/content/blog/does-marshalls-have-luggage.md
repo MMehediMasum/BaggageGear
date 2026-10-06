@@ -1,10 +1,14 @@
 ---
-title: "Does Marshalls Have Luggage: Discover Affordable Travel Bags Today"
-description: "Are you planning a trip and wondering where you can score a great deal on luggage? If you've ever found yourself asking, \"Does Marshalls have luggage?\" You're i"
+title: 'Does Marshalls Have Luggage: Discover Affordable Travel Bags Today'
+description: Are you planning a trip and wondering where you can score a great deal
+  on luggage? If you've ever found yourself asking, "Does Marshalls have luggage?"
+  You're i
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-marshalls-have-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-marshalls-have-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and wondering where you can score a great deal on luggage? If you've ever found yourself asking, "Does Marshalls have luggage?"**

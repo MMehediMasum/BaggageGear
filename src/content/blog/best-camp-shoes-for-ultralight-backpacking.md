@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Camp Shoes for Ultralight Backpacking: Top Minimalist Options Reviewed"
 description: "Choosing the best camp shoes is crucial for ultralight backpacking comfort and safety. Lightweight, quick-dry shoes keep your feet happy after a long day hiking"
 pubDate: 2026-06-11

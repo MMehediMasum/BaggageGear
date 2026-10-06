@@ -1,10 +1,13 @@
 ---
-title: "How Long Does Away Luggage Take to Ship: Fast & Reliable Delivery Guide"
-description: "Are you eagerly awaiting the arrival of your new Away luggage and wondering how long it will take to reach your doorstep? You’re not alone. Understanding shippi"
+title: 'How Long Does Away Luggage Take to Ship: Fast & Reliable Delivery Guide'
+description: Are you eagerly awaiting the arrival of your new Away luggage and wondering
+  how long it will take to reach your doorstep? You’re not alone. Understanding shippi
 pubDate: 2025-10-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-does-away-luggage-take-to-ship&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-long-does-away-luggage-take-to-ship&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you eagerly awaiting the arrival of your new Away luggage and wondering how long it will take to reach your doorstep? You’re not alone.**

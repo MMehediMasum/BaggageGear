@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Tote Bag: Ultimate Size Guide for Every Need"
-description: "Have you ever found yourself wondering just how big a tote bag really is? You're not alone. Whether you're shopping for the perfect bag or just curious, underst"
+title: 'How Big is a Tote Bag: Ultimate Size Guide for Every Need'
+description: Have you ever found yourself wondering just how big a tote bag really
+  is? You're not alone. Whether you're shopping for the perfect bag or just curious,
+  underst
 pubDate: 2026-02-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-tote-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself wondering just how big a tote bag really is? You're not alone.**

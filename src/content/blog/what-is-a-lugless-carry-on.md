@@ -1,10 +1,14 @@
 ---
-title: "What is a Lugless Carry On: Ultimate Guide to Hassle-Free Travel"
-description: "Imagine breezing through the airport, skipping the long waits at baggage claim, and sidestepping the stress of lost luggage. Sounds like a dream, right? This is"
+title: 'What is a Lugless Carry On: Ultimate Guide to Hassle-Free Travel'
+description: Imagine breezing through the airport, skipping the long waits at baggage
+  claim, and sidestepping the stress of lost luggage. Sounds like a dream, right?
+  This is
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-lugless-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-lugless-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine breezing through the airport, skipping the long waits at baggage claim, and sidestepping the stress of lost luggage. Sounds like a dream, right?**

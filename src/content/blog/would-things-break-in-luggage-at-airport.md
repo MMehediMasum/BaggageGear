@@ -1,10 +1,14 @@
 ---
-title: "Would Things Break in Luggage at Airport: Expert Tips to Prevent Damage"
-description: "Picture this: you're eagerly waiting at the airport baggage claim, excited to start your vacation or return home. Your suitcase finally appears on the conveyor "
+title: 'Would Things Break in Luggage at Airport: Expert Tips to Prevent Damage'
+description: 'Picture this: you''re eagerly waiting at the airport baggage claim,
+  excited to start your vacation or return home. Your suitcase finally appears on
+  the conveyor '
 pubDate: 2025-10-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=would-things-break-in-luggage-at-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=would-things-break-in-luggage-at-airport&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: you're eagerly waiting at the airport baggage claim, excited to start your vacation or return home. Your suitcase finally appears on the conveyor belt, and you can't help but wonder—did everything inside survive the journey?**

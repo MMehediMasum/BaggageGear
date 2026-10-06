@@ -1,10 +1,14 @@
 ---
-title: "Best Top Loading Backpack for Travel, Work, and Everyday Use"
-description: "Top loading backpacks offer easy access and great organization for daily use or travel. They suit students, commuters, and outdoor lovers alike. Choosing the be"
+title: Best Top Loading Backpack for Travel, Work, and Everyday Use
+description: Top loading backpacks offer easy access and great organization for daily
+  use or travel. They suit students, commuters, and outdoor lovers alike. Choosing
+  the be
 pubDate: 2026-07-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-top-loading-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-top-loading-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Top loading backpacks offer easy access and great organization for daily use or travel. They suit students, commuters, and outdoor lovers alike.**

@@ -1,10 +1,14 @@
 ---
-title: "Where are Rimowa Suitcases Made: Discover Their Luxury Origins"
-description: "Are you curious about where your favorite Rimowa suitcase is crafted? Understanding the origins of your trusted travel companion can add a new layer of apprecia"
+title: 'Where are Rimowa Suitcases Made: Discover Their Luxury Origins'
+description: Are you curious about where your favorite Rimowa suitcase is crafted?
+  Understanding the origins of your trusted travel companion can add a new layer of
+  apprecia
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-rimowa-suitcases-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-rimowa-suitcases-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about where your favorite Rimowa suitcase is crafted? Understanding the origins of your trusted travel companion can add a new layer of appreciation to your journeys.**

@@ -1,10 +1,14 @@
 ---
-title: "What Size Uber for 2 With Luggage: Choosing the Perfect Ride"
-description: "Finding the right Uber size for two people with luggage can be a bit tricky. You want to make sure you have enough space for both your suitcases and a comfortab"
+title: 'What Size Uber for 2 With Luggage: Choosing the Perfect Ride'
+description: Finding the right Uber size for two people with luggage can be a bit
+  tricky. You want to make sure you have enough space for both your suitcases and
+  a comfortab
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-uber-for-2-with-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-uber-for-2-with-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the right Uber size for two people with luggage can be a bit tricky. You want to make sure you have enough space for both your suitcases and a comfortable ride.**

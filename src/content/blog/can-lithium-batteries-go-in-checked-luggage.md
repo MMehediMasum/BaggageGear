@@ -1,10 +1,14 @@
 ---
-title: "Can Lithium Batteries Go in Checked Luggage: Safety Rules Explained"
-description: "Traveling is exciting, but packing can be a bit stressful, especially when it comes to your electronic devices. You've probably asked yourself, \"Can lithium bat"
+title: 'Can Lithium Batteries Go in Checked Luggage: Safety Rules Explained'
+description: Traveling is exciting, but packing can be a bit stressful, especially
+  when it comes to your electronic devices. You've probably asked yourself, "Can lithium
+  bat
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-lithium-batteries-go-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-lithium-batteries-go-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling is exciting, but packing can be a bit stressful, especially when it comes to your electronic devices. You've probably asked yourself, "Can lithium batteries go in checked luggage?"**

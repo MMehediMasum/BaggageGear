@@ -1,10 +1,14 @@
 ---
-title: "Best Anti Theft Crossbody Bag for Travel: Top Secure Picks Reviewed"
-description: "Choosing the best anti theft crossbody bag can protect your belongings while traveling. These bags offer security, comfort, and style for every trip. Travel bag"
+title: 'Best Anti Theft Crossbody Bag for Travel: Top Secure Picks Reviewed'
+description: Choosing the best anti theft crossbody bag can protect your belongings
+  while traveling. These bags offer security, comfort, and style for every trip. Travel
+  bag
 pubDate: 2026-06-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-anti-theft-crossbody-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Anti Theft Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-anti-theft-crossbody-bag-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best anti theft crossbody bag can protect your belongings while traveling. These bags offer security, comfort, and style for every trip.**

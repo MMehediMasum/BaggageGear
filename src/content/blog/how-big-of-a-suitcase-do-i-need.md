@@ -1,10 +1,14 @@
 ---
-title: "How Big of a Suitcase Do I Need: Ultimate Guide for Smart Packing"
-description: "Choosing the right suitcase size can feel overwhelming. You might be asking yourself, “How big of a suitcase do I need?” You're not alone. Many travelers strugg"
+title: 'How Big of a Suitcase Do I Need: Ultimate Guide for Smart Packing'
+description: Choosing the right suitcase size can feel overwhelming. You might be
+  asking yourself, “How big of a suitcase do I need?” You're not alone. Many travelers
+  strugg
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-of-a-suitcase-do-i-need&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=how-big-of-a-suitcase-do-i-need&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right suitcase size can feel overwhelming. You might be asking yourself, “How big of a suitcase do I need?” You're not alone.**

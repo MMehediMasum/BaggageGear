@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long Gone Tote Bag: Stylish, Durable, and Eco-Friendly Choice"
 description: "Are you looking for a tote bag that combines style, durability, and practicality? The How Long Gone Tote Bag might just be what you need. Imagine carrying a bag"
 pubDate: 2025-10-13

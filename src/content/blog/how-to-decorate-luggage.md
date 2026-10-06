@@ -1,10 +1,14 @@
 ---
-title: "How to Decorate Luggage: Creative Tips to Personalize Your Bags"
-description: "Ever stood at the baggage carousel, eyes scanning a sea of nearly identical suitcases, hoping to spot yours before someone else does? If so, you're not alone. R"
+title: 'How to Decorate Luggage: Creative Tips to Personalize Your Bags'
+description: Ever stood at the baggage carousel, eyes scanning a sea of nearly identical
+  suitcases, hoping to spot yours before someone else does? If so, you're not alone.
+  R
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-decorate-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Customizing And Decorating Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-decorate-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever stood at the baggage carousel, eyes scanning a sea of nearly identical suitcases, hoping to spot yours before someone else does? If so, you're not alone.**

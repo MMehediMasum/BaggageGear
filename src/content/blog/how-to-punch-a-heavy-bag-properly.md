@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Punch a Heavy Bag Properly: Master Technique Fast"
 description: "Are you ready to take your boxing skills to the next level? Whether you're new to the sport or a seasoned fighter, learning how to punch a heavy bag properly is"
 pubDate: 2026-04-02

@@ -1,10 +1,14 @@
 ---
-title: "How to Spot a Fake Mk Bag: Ultimate Guide to Authenticity"
-description: "You're about to invest in a Michael Kors bag, a symbol of style and sophistication. But wait—how can you be sure it's the real deal? Spotting a fake MK bag can "
+title: 'How to Spot a Fake Mk Bag: Ultimate Guide to Authenticity'
+description: 'You''re about to invest in a Michael Kors bag, a symbol of style and
+  sophistication. But wait—how can you be sure it''s the real deal? Spotting a fake
+  MK bag can '
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-mk-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-mk-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You're about to invest in a Michael Kors bag, a symbol of style and sophistication. But wait—how can you be sure it's the real deal?**

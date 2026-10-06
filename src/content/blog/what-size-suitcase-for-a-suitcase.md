@@ -1,10 +1,14 @@
 ---
-title: "What Size Suitcase for a Suitcase: Ultimate Guide to Perfect Packing"
-description: "Choosing the right suitcase size can feel overwhelming, especially when you're trying to ensure your suit fits perfectly for that important business trip or spe"
+title: 'What Size Suitcase for a Suitcase: Ultimate Guide to Perfect Packing'
+description: Choosing the right suitcase size can feel overwhelming, especially when
+  you're trying to ensure your suit fits perfectly for that important business trip
+  or spe
 pubDate: 2025-11-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-suitcase-for-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-size-suitcase-for-a-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right suitcase size can feel overwhelming, especially when you're trying to ensure your suit fits perfectly for that important business trip or special event. You might be wondering if a carry-on will suffice, or if a larger suitcase is necessary to keep your attire wrinkle-free.**

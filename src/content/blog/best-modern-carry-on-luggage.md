@@ -1,10 +1,14 @@
 ---
-title: "Best Modern Carry On Luggage for Effortless Travel and Ultimate Durability"
-description: "Finding the best modern carry-on luggage makes travel easier and more organized. Compact, durable, and stylish bags fit airline rules and your needs. Travelers "
+title: Best Modern Carry On Luggage for Effortless Travel and Ultimate Durability
+description: 'Finding the best modern carry-on luggage makes travel easier and more
+  organized. Compact, durable, and stylish bags fit airline rules and your needs.
+  Travelers '
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-modern-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-modern-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best modern carry-on luggage makes travel easier and more organized. Compact, durable, and stylish bags fit airline rules and your needs.**

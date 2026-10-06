@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage With Garment Bag for Effortless Travel Organization"
-description: "Finding the best carry-on luggage with a garment bag helps keep clothes neat and travel easy. These bags fit in overhead bins and protect suits or dresses from "
+title: Best Carry On Luggage With Garment Bag for Effortless Travel Organization
+description: 'Finding the best carry-on luggage with a garment bag helps keep clothes
+  neat and travel easy. These bags fit in overhead bins and protect suits or dresses
+  from '
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-with-garment-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-with-garment-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry-on luggage with a garment bag helps keep clothes neat and travel easy. These bags fit in overhead bins and protect suits or dresses from wrinkles.**

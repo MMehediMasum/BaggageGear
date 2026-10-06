@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Upgrade Second Bag in Idleon: Ultimate Guide for Fast Boosts"
 description: "Are you tired of juggling your overflowing inventory in Idleon and constantly running out of space for those precious loot drops? Upgrading your second bag can "
 pubDate: 2026-01-16

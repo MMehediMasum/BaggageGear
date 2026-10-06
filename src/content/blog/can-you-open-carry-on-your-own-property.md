@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Open Carry on Your Own Property: Know Your Rights Today"
 description: "Imagine stepping onto your own property, feeling the freedom of the open air, and wondering, \"Can I open carry here?\" It's a question that might have crossed yo"
 pubDate: 2026-03-04

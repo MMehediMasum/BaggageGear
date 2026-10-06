@@ -1,10 +1,15 @@
 ---
-title: "Best Luggage Brands for International Travel: Durable, Lightweight & Stylish Picks"
-description: "Choosing the right luggage makes international travel easier and more comfortable. Durable, lightweight bags help you move quickly through airports. Travelers n"
+title: 'Best Luggage Brands for International Travel: Durable, Lightweight & Stylish
+  Picks'
+description: Choosing the right luggage makes international travel easier and more
+  comfortable. Durable, lightweight bags help you move quickly through airports. Travelers
+  n
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-brands-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-brands-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage makes international travel easier and more comfortable. Durable, lightweight bags help you move quickly through airports.**

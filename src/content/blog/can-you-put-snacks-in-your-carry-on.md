@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Snacks in Your Carry On: Essential Travel Tips"
-description: "Packing for a trip can be a fun yet challenging experience, especially when it comes to deciding what snacks you can bring on board. You might be wondering if y"
+title: 'Can You Put Snacks in Your Carry On: Essential Travel Tips'
+description: Packing for a trip can be a fun yet challenging experience, especially
+  when it comes to deciding what snacks you can bring on board. You might be wondering
+  if y
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-snacks-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-snacks-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a fun yet challenging experience, especially when it comes to deciding what snacks you can bring on board. You might be wondering if you can stash your favorite treats in your carry-on.**

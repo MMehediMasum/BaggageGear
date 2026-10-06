@@ -1,10 +1,14 @@
 ---
-title: "How to Remove Old Oil Stain from Leather Bag: Easy & Effective Tips"
-description: "Picture this: you reach for your favorite leather bag only to discover an unsightly old oil stain marring its beauty. It’s frustrating, right? You’ve likely tri"
+title: 'How to Remove Old Oil Stain from Leather Bag: Easy & Effective Tips'
+description: 'Picture this: you reach for your favorite leather bag only to discover
+  an unsightly old oil stain marring its beauty. It’s frustrating, right? You’ve likely
+  tri'
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-remove-old-oil-stain-from-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-remove-old-oil-stain-from-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you reach for your favorite leather bag only to discover an unsightly old oil stain marring its beauty. It’s frustrating, right?**

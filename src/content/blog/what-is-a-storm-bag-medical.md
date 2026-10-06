@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Storm Bag Medical: Essential Emergency Gear Explained"
 description: "Have you ever found yourself caught in a sudden storm, wishing you were better prepared? If so, you’re not alone. When the skies turn dark and the winds howl, h"
 pubDate: 2026-03-22

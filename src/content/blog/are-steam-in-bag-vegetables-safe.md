@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Are Steam in Bag Vegetables Safe: Expert Tips for Healthy Eating"
 description: "Are you curious about the convenience of steam-in-bag vegetables, but worried about their safety? You're not alone. In today's fast-paced world, many of us are "
 pubDate: 2026-04-21

@@ -1,10 +1,15 @@
 ---
-title: "Best Sleeping Bag for Summer Camping: Lightweight, Waterproof & Comfortable Picks"
-description: "Finding the best sleeping bag for summer camping ensures a cool, comfortable night outdoors. Choosing the right bag helps you enjoy your trip without feeling to"
+title: 'Best Sleeping Bag for Summer Camping: Lightweight, Waterproof & Comfortable
+  Picks'
+description: Finding the best sleeping bag for summer camping ensures a cool, comfortable
+  night outdoors. Choosing the right bag helps you enjoy your trip without feeling
+  to
 pubDate: 2026-06-18
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-summer-camping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-summer-camping&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sleeping bag for summer camping ensures a cool, comfortable night outdoors. Choosing the right bag helps you enjoy your trip without feeling too hot or cold.**

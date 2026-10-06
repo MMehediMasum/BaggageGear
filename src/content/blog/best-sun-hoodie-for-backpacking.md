@@ -1,10 +1,14 @@
 ---
-title: "Best Sun Hoodie for Backpacking: Top Picks for Ultimate UV Protection"
-description: "Finding the best sun hoodie for backpacking protects your skin from harmful UV rays. It also keeps you comfortable during long hikes. A good sun hoodie offers U"
+title: 'Best Sun Hoodie for Backpacking: Top Picks for Ultimate UV Protection'
+description: Finding the best sun hoodie for backpacking protects your skin from harmful
+  UV rays. It also keeps you comfortable during long hikes. A good sun hoodie offers
+  U
 pubDate: 2026-06-13
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sun-hoodie-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Apparel And Trekking Poles
+heroImage: https://tse1.mm.bing.net/th?q=best-sun-hoodie-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sun hoodie for backpacking protects your skin from harmful UV rays. It also keeps you comfortable during long hikes.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Grow Bag: Easy Steps for Thriving Plants"
-description: "Are you looking to channel your creativity into something practical and sustainable? Sewing your own grow bag might be just the project for you. Imagine the sat"
+title: 'How to Sew a Grow Bag: Easy Steps for Thriving Plants'
+description: Are you looking to channel your creativity into something practical and
+  sustainable? Sewing your own grow bag might be just the project for you. Imagine
+  the sat
 pubDate: 2025-08-31
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-grow-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-grow-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you looking to channel your creativity into something practical and sustainable? Sewing your own grow bag might be just the project for you.**

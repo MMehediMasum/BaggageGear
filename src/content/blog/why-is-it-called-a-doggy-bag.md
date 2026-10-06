@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why is It Called a Doggy Bag: Surprising Origins Revealed"
 description: "Have you ever wondered why the leftovers you take home from a restaurant are called a \"doggy bag\"? It’s one of those everyday phrases we use without much though"
 pubDate: 2026-04-10

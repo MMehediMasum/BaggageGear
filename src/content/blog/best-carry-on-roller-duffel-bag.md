@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Roller Duffel Bag for Effortless Travel and Durability"
-description: "Choosing the best carry on roller duffel bag makes travel easier and more organized. These bags combine the space of a duffel with the convenience of wheels. Tr"
+title: Best Carry on Roller Duffel Bag for Effortless Travel and Durability
+description: Choosing the best carry on roller duffel bag makes travel easier and
+  more organized. These bags combine the space of a duffel with the convenience of
+  wheels. Tr
 pubDate: 2026-08-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-roller-duffel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-roller-duffel-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best carry on roller duffel bag makes travel easier and more organized. These bags combine the space of a duffel with the convenience of wheels.**

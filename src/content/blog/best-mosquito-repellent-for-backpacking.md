@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Mosquito Repellent for Backpacking: Top Picks for Effective Protection"
 description: "Mosquitoes can ruin any backpacking trip quickly. Using the best mosquito repellent keeps you safe and comfortable outdoors. Choosing the right repellent matter"
 pubDate: 2026-06-15

@@ -1,10 +1,15 @@
 ---
-title: "Best Lightweight Rolling Backpack for Travel: Top Durable Wheeled Luggage Picks"
-description: "Traveling light saves time and energy. A lightweight rolling backpack makes moving through airports and streets easier. Choosing the best lightweight rolling ba"
+title: 'Best Lightweight Rolling Backpack for Travel: Top Durable Wheeled Luggage
+  Picks'
+description: Traveling light saves time and energy. A lightweight rolling backpack
+  makes moving through airports and streets easier. Choosing the best lightweight
+  rolling ba
 pubDate: 2026-06-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-rolling-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-rolling-backpack-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Traveling light saves time and energy. A lightweight rolling backpack makes moving through airports and streets easier.**

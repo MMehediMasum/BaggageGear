@@ -1,10 +1,13 @@
 ---
-title: "Best Power Adapter for Italy: Top Travel Chargers with USB Ports"
-description: "Traveling to Italy requires the right power adapter to keep your devices charged. Using the correct adapter ensures your electronics work safely and efficiently"
+title: 'Best Power Adapter for Italy: Top Travel Chargers with USB Ports'
+description: Traveling to Italy requires the right power adapter to keep your devices
+  charged. Using the correct adapter ensures your electronics work safely and efficiently
 pubDate: 2026-05-20
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-italy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-italy&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Italy requires the right power adapter to keep your devices charged. Using the correct adapter ensures your electronics work safely and efficiently.**

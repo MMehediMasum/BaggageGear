@@ -1,10 +1,14 @@
 ---
-title: "Can I Carry on a Cpap Machine: Essential Travel Tips Revealed"
-description: "Traveling with a CPAP machine might seem daunting at first, especially when you're unsure about the rules for carrying it on a plane. You want to ensure that yo"
+title: 'Can I Carry on a Cpap Machine: Essential Travel Tips Revealed'
+description: Traveling with a CPAP machine might seem daunting at first, especially
+  when you're unsure about the rules for carrying it on a plane. You want to ensure
+  that yo
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-carry-on-a-cpap-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=can-i-carry-on-a-cpap-machine&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with a CPAP machine might seem daunting at first, especially when you're unsure about the rules for carrying it on a plane. You want to ensure that your journey is smooth and stress-free, without the hassle of unexpected airport surprises.**

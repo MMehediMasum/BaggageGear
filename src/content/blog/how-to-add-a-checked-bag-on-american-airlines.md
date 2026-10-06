@@ -1,10 +1,14 @@
 ---
-title: "How to Add a Checked Bag on American Airlines: Easy Step-by-Step Guide"
-description: "Planning your next trip with American Airlines? Navigating baggage policies can feel overwhelming, especially if you're unsure how to add a checked bag to your "
+title: 'How to Add a Checked Bag on American Airlines: Easy Step-by-Step Guide'
+description: 'Planning your next trip with American Airlines? Navigating baggage policies
+  can feel overwhelming, especially if you''re unsure how to add a checked bag to
+  your '
 pubDate: 2025-10-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-add-a-checked-bag-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-to-add-a-checked-bag-on-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip with American Airlines? Navigating baggage policies can feel overwhelming, especially if you're unsure how to add a checked bag to your booking.**

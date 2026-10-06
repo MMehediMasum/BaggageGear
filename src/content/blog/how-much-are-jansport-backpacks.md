@@ -1,10 +1,14 @@
 ---
-title: "How Much are Jansport Backpacks: Ultimate Price Guide 2025"
-description: "Ever found yourself staring at a wall of backpacks and wondering which one is worth your money? Jansport backpacks have been trusted by students, travelers, and"
+title: 'How Much are Jansport Backpacks: Ultimate Price Guide 2025'
+description: Ever found yourself staring at a wall of backpacks and wondering which
+  one is worth your money? Jansport backpacks have been trusted by students, travelers,
+  and
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-are-jansport-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-are-jansport-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever found yourself staring at a wall of backpacks and wondering which one is worth your money? Jansport backpacks have been trusted by students, travelers, and adventurers for decades, but how much should you really expect to spend on one?**

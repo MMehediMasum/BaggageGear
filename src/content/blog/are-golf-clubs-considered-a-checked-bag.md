@@ -1,10 +1,14 @@
 ---
-title: "Are Golf Clubs Considered a Checked Bag: Essential Travel Tips"
-description: "Are you planning your next golf getaway and wondering how to handle your beloved clubs when you fly? You might be asking, \"Are golf clubs considered a checked b"
+title: 'Are Golf Clubs Considered a Checked Bag: Essential Travel Tips'
+description: Are you planning your next golf getaway and wondering how to handle your
+  beloved clubs when you fly? You might be asking, "Are golf clubs considered a checked
+  b
 pubDate: 2025-10-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-golf-clubs-considered-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-golf-clubs-considered-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next golf getaway and wondering how to handle your beloved clubs when you fly? You might be asking, "Are golf clubs considered a checked bag?"**

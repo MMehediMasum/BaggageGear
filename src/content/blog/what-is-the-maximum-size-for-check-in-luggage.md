@@ -1,10 +1,14 @@
 ---
-title: "What is the Maximum Size for Check in Luggage: Ultimate Guide 2025"
-description: "Planning your next big trip? You might be thinking about what to pack, but have you considered the size of your check-in luggage? Knowing the maximum size for c"
+title: 'What is the Maximum Size for Check in Luggage: Ultimate Guide 2025'
+description: Planning your next big trip? You might be thinking about what to pack,
+  but have you considered the size of your check-in luggage? Knowing the maximum size
+  for c
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-maximum-size-for-check-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-maximum-size-for-check-in-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Planning your next big trip? You might be thinking about what to pack, but have you considered the size of your check-in luggage?**

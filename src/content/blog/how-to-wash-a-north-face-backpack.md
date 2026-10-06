@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a North Face Backpack: Easy Steps for Deep Clean"
-description: "Your North Face backpack is more than just a bag—it’s your reliable companion on every adventure. But over time, dirt, sweat, and grime can build up, making it "
+title: 'How to Wash a North Face Backpack: Easy Steps for Deep Clean'
+description: 'Your North Face backpack is more than just a bag—it’s your reliable
+  companion on every adventure. But over time, dirt, sweat, and grime can build up,
+  making it '
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-north-face-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-north-face-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your North Face backpack is more than just a bag—it’s your reliable companion on every adventure. But over time, dirt, sweat, and grime can build up, making it look worn out and less fresh.**

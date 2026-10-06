@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Scotland: Power Up with TESSAN Type G Adapter"
-description: "Finding the best travel adapter for Scotland ensures your devices stay charged and ready. Scotland uses Type G plugs with 230V and 50Hz power supply. Travel ada"
+title: 'Best Travel Adapter for Scotland: Power Up with TESSAN Type G Adapter'
+description: Finding the best travel adapter for Scotland ensures your devices stay
+  charged and ready. Scotland uses Type G plugs with 230V and 50Hz power supply. Travel
+  ada
 pubDate: 2026-06-03
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-scotland&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-scotland&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Scotland ensures your devices stay charged and ready. Scotland uses Type G plugs with 230V and 50Hz power supply.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Throw a Cornhole Bag: Master Perfect Toss Techniques"
 description: "Are you ready to take your cornhole game to the next level? Whether you're gearing up for a backyard BBQ or aiming to impress at the next tailgate, mastering th"
 pubDate: 2026-03-08

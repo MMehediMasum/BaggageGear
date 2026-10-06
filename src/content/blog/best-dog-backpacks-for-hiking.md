@@ -1,10 +1,13 @@
 ---
-title: "Best Dog Backpacks for Hiking: Top Carriers for Outdoor Adventures"
-description: "Choosing the best dog backpack for hiking helps your pet carry essentials comfortably. These backpacks offer support, safety, and convenience on outdoor adventu"
+title: 'Best Dog Backpacks for Hiking: Top Carriers for Outdoor Adventures'
+description: Choosing the best dog backpack for hiking helps your pet carry essentials
+  comfortably. These backpacks offer support, safety, and convenience on outdoor adventu
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dog-backpacks-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-dog-backpacks-for-hiking&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best dog backpack for hiking helps your pet carry essentials comfortably. These backpacks offer support, safety, and convenience on outdoor adventures.**

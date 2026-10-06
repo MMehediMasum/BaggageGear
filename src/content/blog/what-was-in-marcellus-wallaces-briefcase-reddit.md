@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What was in Marcellus Wallace'S Briefcase Reddit: Shocking Reveal!"
 description: "Imagine diving into a mystery that has captivated movie lovers for decades. \"What was in Marcellus Wallace's briefcase?\" Is a question that has sparked countles"
 pubDate: 2025-09-13

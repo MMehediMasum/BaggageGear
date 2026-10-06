@@ -1,10 +1,14 @@
 ---
-title: "Best Shoe Bag for Travel: Top Waterproof & Odor-Resistant Picks"
-description: "Choosing the best shoe bag for travel keeps your shoes organized and your clothes clean. A good shoe bag protects shoes from dirt and damage during trips. Trave"
+title: 'Best Shoe Bag for Travel: Top Waterproof & Odor-Resistant Picks'
+description: Choosing the best shoe bag for travel keeps your shoes organized and
+  your clothes clean. A good shoe bag protects shoes from dirt and damage during trips.
+  Trave
 pubDate: 2026-05-24
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-shoe-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Pouches And Storage Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-shoe-bag-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best shoe bag for travel keeps your shoes organized and your clothes clean. A good shoe bag protects shoes from dirt and damage during trips.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can a Dog Smell Through Vacuum Sealed Bag? Surprising Truths Revealed"
 description: "Have you ever wondered about the incredible sniffing abilities of dogs? You're not alone. Many pet owners and curious minds alike are fascinated by what a dog's"
 pubDate: 2025-09-03

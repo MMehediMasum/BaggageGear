@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Carry on Bag for Delta Airlines: Ultimate Size Guide"
-description: "Picture this: You're all set for your upcoming trip with Delta Airlines. You've packed your essentials, carefully selecting what goes into your carry-on bag. Bu"
+title: 'How Big is a Carry on Bag for Delta Airlines: Ultimate Size Guide'
+description: 'Picture this: You''re all set for your upcoming trip with Delta Airlines.
+  You''ve packed your essentials, carefully selecting what goes into your carry-on
+  bag. Bu'
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-carry-on-bag-for-delta-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-carry-on-bag-for-delta-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: You're all set for your upcoming trip with Delta Airlines. You've packed your essentials, carefully selecting what goes into your carry-on bag.**

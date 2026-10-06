@@ -1,10 +1,13 @@
 ---
-title: "How to Clean a White Bag: Expert Tips Revealed"
-description: "Is your favorite white bag looking dull or stained? You’re not alone—keeping a white bag clean can feel like a constant battle. But don’t worry, you can restore"
+title: 'How to Clean a White Bag: Expert Tips Revealed'
+description: Is your favorite white bag looking dull or stained? You’re not alone—keeping
+  a white bag clean can feel like a constant battle. But don’t worry, you can restore
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-white-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-white-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your favorite white bag looking dull or stained? You’re not alone—keeping a white bag clean can feel like a constant battle.**

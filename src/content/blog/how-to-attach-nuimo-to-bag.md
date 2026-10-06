@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Attach Nuimo to Bag: Easy Steps for Secure Setup"
 description: "Are you ready to unlock a new level of convenience and style by attaching Nuimo to your bag? Imagine having seamless control over your smart devices right at yo"
 pubDate: 2026-04-23

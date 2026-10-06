@@ -1,10 +1,14 @@
 ---
-title: "How Much is Sprayground Backpacks: Ultimate Price Guide 2025"
-description: "Are you curious about the price of Sprayground backpacks? You're not alone. These trendy, eye-catching bags have captured the attention of style-savvy individua"
+title: 'How Much is Sprayground Backpacks: Ultimate Price Guide 2025'
+description: Are you curious about the price of Sprayground backpacks? You're not
+  alone. These trendy, eye-catching bags have captured the attention of style-savvy
+  individua
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-sprayground-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-sprayground-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you curious about the price of Sprayground backpacks? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sell My Louis Vuitton Bag: Expert Tips for Top Dollar"
-description: "Are you looking to part with your cherished Louis Vuitton bag but unsure of the best way to do it? Selling a luxury item like this can be both exciting and daun"
+title: 'How to Sell My Louis Vuitton Bag: Expert Tips for Top Dollar'
+description: Are you looking to part with your cherished Louis Vuitton bag but unsure
+  of the best way to do it? Selling a luxury item like this can be both exciting and
+  daun
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sell-my-louis-vuitton-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sell-my-louis-vuitton-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to part with your cherished Louis Vuitton bag but unsure of the best way to do it? Selling a luxury item like this can be both exciting and daunting.**

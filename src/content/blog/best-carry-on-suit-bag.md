@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Suit Bag for Travel: Top Waterproof Garment Duffels"
-description: "Choosing the best carry on suit bag simplifies travel and keeps clothes neat. A good bag fits in overhead bins and protects suits from wrinkles. Traveling with "
+title: 'Best Carry On Suit Bag for Travel: Top Waterproof Garment Duffels'
+description: 'Choosing the best carry on suit bag simplifies travel and keeps clothes
+  neat. A good bag fits in overhead bins and protects suits from wrinkles. Traveling
+  with '
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-suit-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-suit-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry on suit bag simplifies travel and keeps clothes neat. A good bag fits in overhead bins and protects suits from wrinkles.**

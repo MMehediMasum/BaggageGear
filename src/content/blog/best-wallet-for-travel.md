@@ -1,10 +1,14 @@
 ---
-title: "Best Wallet for Travel: Top RFID Blocking Compact Wallets for Convenience"
-description: "Choosing the best wallet for travel keeps your money and important documents safe and organized. A good travel wallet fits your style and meets your security ne"
+title: 'Best Wallet for Travel: Top RFID Blocking Compact Wallets for Convenience'
+description: Choosing the best wallet for travel keeps your money and important documents
+  safe and organized. A good travel wallet fits your style and meets your security
+  ne
 pubDate: 2026-06-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-wallet-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Wallets And Passport Holders
+heroImage: https://tse1.mm.bing.net/th?q=best-wallet-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best wallet for travel keeps your money and important documents safe and organized. A good travel wallet fits your style and meets your security needs.**

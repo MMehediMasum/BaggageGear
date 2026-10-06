@@ -1,10 +1,14 @@
 ---
-title: "Do I Need to Print Luggage Tags for Royal Caribbean: Essential Tips"
-description: "Planning a cruise with Royal Caribbean? As you prepare for your adventure at sea, one question might pop into your mind: \"Do I need to print luggage tags for Ro"
+title: 'Do I Need to Print Luggage Tags for Royal Caribbean: Essential Tips'
+description: 'Planning a cruise with Royal Caribbean? As you prepare for your adventure
+  at sea, one question might pop into your mind: "Do I need to print luggage tags
+  for Ro'
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-i-need-to-print-luggage-tags-for-royal-caribbean&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=do-i-need-to-print-luggage-tags-for-royal-caribbean&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a cruise with Royal Caribbean? As you prepare for your adventure at sea, one question might pop into your mind: "Do I need to print luggage tags for Royal Caribbean?"**

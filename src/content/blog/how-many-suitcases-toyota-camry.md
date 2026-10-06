@@ -1,10 +1,14 @@
 ---
-title: "How Many Suitcases Toyota Camry Fits: Ultimate Packing Guide"
-description: "If you're planning a road trip or just wondering about the storage capacity of your Toyota Camry, you're in the right place. Knowing how many suitcases you can "
+title: 'How Many Suitcases Toyota Camry Fits: Ultimate Packing Guide'
+description: 'If you''re planning a road trip or just wondering about the storage
+  capacity of your Toyota Camry, you''re in the right place. Knowing how many suitcases
+  you can '
 pubDate: 2025-10-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-suitcases-toyota-camry&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-many-suitcases-toyota-camry&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **If you're planning a road trip or just wondering about the storage capacity of your Toyota Camry, you're in the right place. Knowing how many suitcases you can fit in your Camry’s trunk can make packing and planning so much easier.**

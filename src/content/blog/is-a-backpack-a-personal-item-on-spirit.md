@@ -1,10 +1,14 @@
 ---
-title: "Is a Backpack a Personal Item on Spirit: Ultimate Guide 2025"
-description: "Are you planning a trip with Spirit Airlines and wondering if your trusty backpack can tag along as a personal item? You're not alone. Navigating airline baggag"
+title: 'Is a Backpack a Personal Item on Spirit: Ultimate Guide 2025'
+description: Are you planning a trip with Spirit Airlines and wondering if your trusty
+  backpack can tag along as a personal item? You're not alone. Navigating airline
+  baggag
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-on-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-on-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Spirit Airlines and wondering if your trusty backpack can tag along as a personal item? You're not alone.**

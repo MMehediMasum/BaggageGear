@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Food for Backpacking: Essential Tips for Lightweight Meals"
-description: "Packing food for a backpacking trip can feel like a daunting task. You want to bring enough to fuel your adventure without overloading your pack. The balance be"
+title: 'How to Pack Food for Backpacking: Essential Tips for Lightweight Meals'
+description: Packing food for a backpacking trip can feel like a daunting task. You
+  want to bring enough to fuel your adventure without overloading your pack. The balance
+  be
 pubDate: 2025-10-14
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-food-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Hiking Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-food-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Packing food for a backpacking trip can feel like a daunting task. You want to bring enough to fuel your adventure without overloading your pack.**

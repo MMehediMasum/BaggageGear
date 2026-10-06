@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Mini Kelly Bag: Ultimate Price Guide 2025"
-description: "Are you curious about the price of a Mini Kelly bag? You're not alone. Many fashion enthusiasts and collectors like you are eager to discover the real cost of t"
+title: 'How Much is a Mini Kelly Bag: Ultimate Price Guide 2025'
+description: Are you curious about the price of a Mini Kelly bag? You're not alone.
+  Many fashion enthusiasts and collectors like you are eager to discover the real
+  cost of t
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-mini-kelly-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-mini-kelly-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about the price of a Mini Kelly bag? You're not alone.**

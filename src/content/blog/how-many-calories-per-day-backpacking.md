@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Calories Per Day Backpacking: Essential Energy Guide"
 description: "Imagine setting off on a breathtaking backpacking adventure, surrounded by nature's wonders. But wait—before you hit the trail, there's one crucial question on "
 pubDate: 2025-09-12

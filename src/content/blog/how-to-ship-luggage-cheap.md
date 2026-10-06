@@ -1,10 +1,14 @@
 ---
-title: "How to Ship Luggage Cheap: Ultimate Guide to Save Big Costs"
-description: "Are you tired of paying high fees for shipping your luggage when you travel? You're not alone. Many travelers are seeking ways to send their luggage without bre"
+title: 'How to Ship Luggage Cheap: Ultimate Guide to Save Big Costs'
+description: Are you tired of paying high fees for shipping your luggage when you
+  travel? You're not alone. Many travelers are seeking ways to send their luggage
+  without bre
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-ship-luggage-cheap&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-to-ship-luggage-cheap&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of paying high fees for shipping your luggage when you travel? You're not alone.**

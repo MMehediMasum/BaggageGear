@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Kick a Boxing Bag: Master Powerful Strikes Fast"
 description: "Are you ready to take your workout to the next level? Kicking a boxing bag can be a game-changer, not just for your fitness but also for your confidence and str"
 pubDate: 2025-10-15

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang a Punch Bag from a Wooden Beam: Easy, Secure Steps"
 description: "Are you ready to transform your home gym into a powerhouse of fitness? Hanging a punch bag from a wooden beam is the perfect way to boost your workout routine. "
 pubDate: 2025-12-09

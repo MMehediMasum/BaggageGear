@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Should You Bag Grass Clippings: Expert Tips for a Healthy Lawn"
 description: "Are you wondering what to do with your grass clippings after mowing the lawn? This decision might seem small, but it can have a surprising impact on your garden"
 pubDate: 2026-02-01

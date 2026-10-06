@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage for Families: Top Multi-Piece Sets for Hassle-Free Travel"
-description: "Choosing the best luggage for families makes travel easier and more organized. Durable, spacious, and lightweight bags fit every family’s needs. Family trips ne"
+title: 'Best Luggage for Families: Top Multi-Piece Sets for Hassle-Free Travel'
+description: Choosing the best luggage for families makes travel easier and more organized.
+  Durable, spacious, and lightweight bags fit every family’s needs. Family trips ne
 pubDate: 2026-07-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-families&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-families&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for families makes travel easier and more organized. Durable, spacious, and lightweight bags fit every family’s needs.**

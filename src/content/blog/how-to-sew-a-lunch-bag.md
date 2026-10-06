@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Lunch Bag: Easy Steps for Stylish, Eco-Friendly Bags"
-description: "Are you tired of using disposable lunch bags that tear easily or don’t keep your food fresh? Imagine having a lunch bag that’s just the right size, made from fa"
+title: 'How to Sew a Lunch Bag: Easy Steps for Stylish, Eco-Friendly Bags'
+description: Are you tired of using disposable lunch bags that tear easily or don’t
+  keep your food fresh? Imagine having a lunch bag that’s just the right size, made
+  from fa
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-lunch-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-lunch-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of using disposable lunch bags that tear easily or don’t keep your food fresh? Imagine having a lunch bag that’s just the right size, made from fabric you love, and durable enough to last for months.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Sleeping Quilts for Backpacking: Ultralight, Warm, and Compact Essentials"
 description: "Choosing the best sleeping quilt for backpacking can improve your outdoor rest and comfort. Lightweight, warm, and compact quilts suit hikers who want easy carr"
 pubDate: 2026-06-11

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change a Catheter Bag: Easy Steps for Safe Replacement"
 description: "Changing a catheter bag might seem daunting at first, but with the right guidance, you can handle it with confidence and ease. Whether you're caring for a loved"
 pubDate: 2025-12-07

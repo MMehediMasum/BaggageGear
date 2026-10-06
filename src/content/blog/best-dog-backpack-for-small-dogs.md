@@ -1,10 +1,14 @@
 ---
-title: "Best Dog Backpack for Small Dogs: Top Comfortable Travel Carriers"
-description: "Finding the best dog backpack for small dogs makes outdoor trips easier and more fun. Small dogs need lightweight, safe, and comfy carriers for travel or hiking"
+title: 'Best Dog Backpack for Small Dogs: Top Comfortable Travel Carriers'
+description: Finding the best dog backpack for small dogs makes outdoor trips easier
+  and more fun. Small dogs need lightweight, safe, and comfy carriers for travel or
+  hiking
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dog-backpack-for-small-dogs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-dog-backpack-for-small-dogs&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best dog backpack for small dogs makes outdoor trips easier and more fun. Small dogs need lightweight, safe, and comfy carriers for travel or hiking.**

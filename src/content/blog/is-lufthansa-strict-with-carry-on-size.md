@@ -1,10 +1,13 @@
 ---
-title: "Is Lufthansa Strict With Carry on Size? Essential Tips Revealed"
-description: "Planning a trip can be thrilling, but packing for it? Not so much. Especially when you’re wondering if your carry-on will meet airline standards. If you're flyi"
+title: Is Lufthansa Strict With Carry on Size? Essential Tips Revealed
+description: Planning a trip can be thrilling, but packing for it? Not so much. Especially
+  when you’re wondering if your carry-on will meet airline standards. If you're flyi
 pubDate: 2025-09-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-lufthansa-strict-with-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=is-lufthansa-strict-with-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be thrilling, but packing for it? Not so much.**

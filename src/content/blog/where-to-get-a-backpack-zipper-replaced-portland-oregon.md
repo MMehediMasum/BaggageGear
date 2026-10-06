@@ -1,10 +1,14 @@
 ---
-title: "Where to Get a Backpack Zipper Replaced Portland Oregon: Top Repair Shops"
-description: "Are you frustrated with a broken backpack zipper? It's a common problem, but it doesn't mean you need to toss your favorite backpack aside. Whether you're a stu"
+title: 'Where to Get a Backpack Zipper Replaced Portland Oregon: Top Repair Shops'
+description: Are you frustrated with a broken backpack zipper? It's a common problem,
+  but it doesn't mean you need to toss your favorite backpack aside. Whether you're
+  a stu
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-get-a-backpack-zipper-replaced-portland-oregon&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Installing Bag Zippers
+heroImage: https://tse1.mm.bing.net/th?q=where-to-get-a-backpack-zipper-replaced-portland-oregon&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you frustrated with a broken backpack zipper? It's a common problem, but it doesn't mean you need to toss your favorite backpack aside.**

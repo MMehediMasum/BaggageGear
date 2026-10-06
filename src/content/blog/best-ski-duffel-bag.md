@@ -1,10 +1,14 @@
 ---
-title: "Best Ski Duffel Bag: Top Picks for Snowboard and Ski Adventures"
-description: "Choosing the best ski duffel bag makes packing and traveling easier for any ski trip. A good bag holds your gear safely and fits all your essentials. Ski duffel"
+title: 'Best Ski Duffel Bag: Top Picks for Snowboard and Ski Adventures'
+description: Choosing the best ski duffel bag makes packing and traveling easier for
+  any ski trip. A good bag holds your gear safely and fits all your essentials. Ski
+  duffel
 pubDate: 2026-06-09
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-ski-duffel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sports Equipment Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-ski-duffel-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best ski duffel bag makes packing and traveling easier for any ski trip. A good bag holds your gear safely and fits all your essentials.**

@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Breeze: Ultimate Cost Guide 2025"
-description: "Planning a trip with Breeze Airlines? One question you probably have is: how much will it cost to check your bag? Knowing the exact fee can help you avoid surpr"
+title: 'How Much is a Checked Bag on Breeze: Ultimate Cost Guide 2025'
+description: 'Planning a trip with Breeze Airlines? One question you probably have
+  is: how much will it cost to check your bag? Knowing the exact fee can help you
+  avoid surpr'
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-breeze&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-breeze&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Breeze Airlines? One question you probably have is: how much will it cost to check your bag?**

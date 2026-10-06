@@ -1,10 +1,14 @@
 ---
-title: "Does Honolulu Airport Have Luggage Storage? Ultimate Guide 2025"
-description: "Planning a trip to Honolulu? One question might be lingering in your mind: Does Honolulu Airport have luggage storage? Whether you're on a layover or simply wan"
+title: Does Honolulu Airport Have Luggage Storage? Ultimate Guide 2025
+description: 'Planning a trip to Honolulu? One question might be lingering in your
+  mind: Does Honolulu Airport have luggage storage? Whether you''re on a layover or
+  simply wan'
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-honolulu-airport-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=does-honolulu-airport-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to Honolulu? One question might be lingering in your mind: Does Honolulu Airport have luggage storage?**

@@ -1,10 +1,14 @@
 ---
-title: "Can Aerosol Cans Be in Checked Luggage: Essential Travel Tips"
-description: "When you're packing for your next trip, you might be wondering about what can and cannot go into your checked luggage. One common item that often raises questio"
+title: 'Can Aerosol Cans Be in Checked Luggage: Essential Travel Tips'
+description: When you're packing for your next trip, you might be wondering about
+  what can and cannot go into your checked luggage. One common item that often raises
+  questio
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-aerosol-cans-be-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-aerosol-cans-be-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're packing for your next trip, you might be wondering about what can and cannot go into your checked luggage. One common item that often raises questions is the humble aerosol can.**

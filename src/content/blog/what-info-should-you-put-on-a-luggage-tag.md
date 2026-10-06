@@ -1,10 +1,14 @@
 ---
-title: "What Info Should You Put on a Luggage Tag: Essential Tips"
-description: "Have you ever stood at the baggage carousel, heart pounding as you wait for your suitcase to appear? Imagine if your luggage went missing, and you hadn't put yo"
+title: 'What Info Should You Put on a Luggage Tag: Essential Tips'
+description: Have you ever stood at the baggage carousel, heart pounding as you wait
+  for your suitcase to appear? Imagine if your luggage went missing, and you hadn't
+  put yo
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-info-should-you-put-on-a-luggage-tag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=what-info-should-you-put-on-a-luggage-tag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever stood at the baggage carousel, heart pounding as you wait for your suitcase to appear? Imagine if your luggage went missing, and you hadn't put your contact information on the tag.**

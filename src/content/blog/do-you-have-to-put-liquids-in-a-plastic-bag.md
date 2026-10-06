@@ -1,10 +1,14 @@
 ---
-title: "Do You Have to Put Liquids in a Plastic Bag: Essential Travel Tips"
-description: "Have you ever stood in the airport security line, wondering if you've packed your liquids the right way? You're not alone. Many travelers find themselves puzzle"
+title: 'Do You Have to Put Liquids in a Plastic Bag: Essential Travel Tips'
+description: Have you ever stood in the airport security line, wondering if you've
+  packed your liquids the right way? You're not alone. Many travelers find themselves
+  puzzle
 pubDate: 2026-02-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-have-to-put-liquids-in-a-plastic-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=do-you-have-to-put-liquids-in-a-plastic-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood in the airport security line, wondering if you've packed your liquids the right way? You're not alone.**

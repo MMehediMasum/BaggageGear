@@ -1,10 +1,14 @@
 ---
-title: "How to Pack in a Carry On for 10 Days: Ultimate Space-Saving Guide"
-description: "Imagine stepping off the plane, refreshed and ready, without the hassle of waiting at baggage claim. Traveling with just a carry-on can seem like a daunting tas"
+title: 'How to Pack in a Carry On for 10 Days: Ultimate Space-Saving Guide'
+description: Imagine stepping off the plane, refreshed and ready, without the hassle
+  of waiting at baggage claim. Traveling with just a carry-on can seem like a daunting
+  tas
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-in-a-carry-on-for-10-days&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-in-a-carry-on-for-10-days&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine stepping off the plane, refreshed and ready, without the hassle of waiting at baggage claim. Traveling with just a carry-on can seem like a daunting task, especially for a trip that lasts 10 days.**

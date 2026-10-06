@@ -1,10 +1,14 @@
 ---
-title: "What Size Carry on for Allegiant: Ultimate Guide for Hassle-Free Travel"
-description: "Choosing the right size carry-on for your next flight with Allegiant can be a game-changer for your travel experience. Imagine gliding through the airport with "
+title: 'What Size Carry on for Allegiant: Ultimate Guide for Hassle-Free Travel'
+description: 'Choosing the right size carry-on for your next flight with Allegiant
+  can be a game-changer for your travel experience. Imagine gliding through the airport
+  with '
 pubDate: 2025-10-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-carry-on-for-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-carry-on-for-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the right size carry-on for your next flight with Allegiant can be a game-changer for your travel experience. Imagine gliding through the airport with ease, bypassing the baggage claim chaos, and knowing you're perfectly in line with the airline's regulations.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Fjallraven Backpack: Easy Steps for Lasting Care"
-description: "Imagine this: You're ready to head out on your next adventure, but your trusty Fjallraven backpack looks a bit worse for wear. It's been with you through thick "
+title: 'How to Clean a Fjallraven Backpack: Easy Steps for Lasting Care'
+description: 'Imagine this: You''re ready to head out on your next adventure, but
+  your trusty Fjallraven backpack looks a bit worse for wear. It''s been with you
+  through thick '
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-fjallraven-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-fjallraven-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You're ready to head out on your next adventure, but your trusty Fjallraven backpack looks a bit worse for wear. It's been with you through thick and thin, and it’s starting to show.**

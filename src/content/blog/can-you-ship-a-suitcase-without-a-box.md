@@ -1,10 +1,13 @@
 ---
-title: "Can You Ship a Suitcase Without a Box: Essential Shipping Tips"
-description: "Imagine the convenience of sending your suitcase directly to your destination without the hassle of lugging it through airports or train stations. You're probab"
+title: 'Can You Ship a Suitcase Without a Box: Essential Shipping Tips'
+description: Imagine the convenience of sending your suitcase directly to your destination
+  without the hassle of lugging it through airports or train stations. You're probab
 pubDate: 2025-10-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-ship-a-suitcase-without-a-box&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-you-ship-a-suitcase-without-a-box&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine the convenience of sending your suitcase directly to your destination without the hassle of lugging it through airports or train stations. You're probably wondering if you can ship a suitcase without a box and how it might simplify your travel plans.**

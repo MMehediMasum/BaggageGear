@@ -1,10 +1,14 @@
 ---
-title: "Are Curling Irons Allowed in Carry On: Travel Rules Uncovered"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing. You want to make sure you have everything you need, but you also have to foll"
+title: 'Are Curling Irons Allowed in Carry On: Travel Rules Uncovered'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing. You want to make sure you have everything you need, but you also have
+  to foll
 pubDate: 2025-10-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-curling-irons-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-curling-irons-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing. You want to make sure you have everything you need, but you also have to follow the rules.**

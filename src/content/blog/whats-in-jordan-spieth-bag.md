@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Jordan Spieth Bag: Ultimate Golf Gear Revealed"
 description: "Ever wonder what makes Jordan Spieth such a standout on the golf course? Imagine having the chance to peek inside his golf bag and uncover the secrets behind hi"
 pubDate: 2026-04-12

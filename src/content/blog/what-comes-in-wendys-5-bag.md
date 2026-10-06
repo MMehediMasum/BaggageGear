@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Comes in Wendy'S $5 Bag: Ultimate Value Revealed!"
 description: "Are you curious about what you get in Wendy’s $5 Bag? If you’re looking for a tasty meal without breaking the bank, this deal might just be perfect for you. Ima"
 pubDate: 2026-03-27

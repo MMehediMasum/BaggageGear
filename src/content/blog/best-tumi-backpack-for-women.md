@@ -1,10 +1,14 @@
 ---
-title: "Best Tumi Backpack for Women: Discover Stylish Travel and Work Bags"
-description: "Choosing the best Tumi backpack for women means finding style, comfort, and durability in one bag. Tumi offers backpacks designed for work, travel, and everyday"
+title: 'Best Tumi Backpack for Women: Discover Stylish Travel and Work Bags'
+description: Choosing the best Tumi backpack for women means finding style, comfort,
+  and durability in one bag. Tumi offers backpacks designed for work, travel, and
+  everyday
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-tumi-backpack-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Work Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-tumi-backpack-for-women&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best Tumi backpack for women means finding style, comfort, and durability in one bag. Tumi offers backpacks designed for work, travel, and everyday use.**

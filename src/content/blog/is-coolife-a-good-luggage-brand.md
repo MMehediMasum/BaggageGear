@@ -1,10 +1,14 @@
 ---
-title: "Is Coolife a Good Luggage Brand: Honest Review & Buyer’s Guide"
-description: "Are you planning your next big adventure and wondering if Coolife luggage is the right choice for you? You're not alone. With countless luggage brands on the ma"
+title: 'Is Coolife a Good Luggage Brand: Honest Review & Buyer’s Guide'
+description: Are you planning your next big adventure and wondering if Coolife luggage
+  is the right choice for you? You're not alone. With countless luggage brands on
+  the ma
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-coolife-a-good-luggage-brand&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-coolife-a-good-luggage-brand&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure and wondering if Coolife luggage is the right choice for you? You're not alone.**

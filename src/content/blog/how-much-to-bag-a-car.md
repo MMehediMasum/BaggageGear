@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much to Bag a Car: Ultimate Cost Guide for Air Suspension"
 description: "Have you ever wondered how much it costs to bag a car? You're not alone. Many car enthusiasts dream of enhancing their ride with a sleek air suspension system. "
 pubDate: 2026-04-28

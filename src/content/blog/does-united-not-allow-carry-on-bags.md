@@ -1,10 +1,14 @@
 ---
-title: "Does United Not Allow Carry On Bags: Truth Behind Their Policy"
-description: "Are you planning your next flight with United Airlines? Before you start packing, there's an essential question you might be asking yourself: Does United not al"
+title: 'Does United Not Allow Carry On Bags: Truth Behind Their Policy'
+description: 'Are you planning your next flight with United Airlines? Before you start
+  packing, there''s an essential question you might be asking yourself: Does United
+  not al'
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-united-not-allow-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-united-not-allow-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next flight with United Airlines? Before you start packing, there's an essential question you might be asking yourself: Does United not allow carry-on bags?**

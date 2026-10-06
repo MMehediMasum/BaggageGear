@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Bag That Fits under Seat: Top Picks for Travelers"
-description: "Finding the best carry-on bag that fits under the seat saves space and keeps essentials close. Choosing the right size and style matters for easy travel. Travel"
+title: 'Best Carry on Bag That Fits under Seat: Top Picks for Travelers'
+description: Finding the best carry-on bag that fits under the seat saves space and
+  keeps essentials close. Choosing the right size and style matters for easy travel.
+  Travel
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-bag-that-fits-under-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-bag-that-fits-under-seat&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry-on bag that fits under the seat saves space and keeps essentials close. Choosing the right size and style matters for easy travel.**

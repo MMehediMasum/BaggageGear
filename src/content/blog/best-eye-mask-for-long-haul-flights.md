@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Mask for Long Haul Flights: Ultimate Comfort for Restful Journeys"
-description: "Choosing the best eye mask for long haul flights can improve your sleep and comfort. A good mask blocks light and fits well without pressure on your eyes. Long "
+title: 'Best Eye Mask for Long Haul Flights: Ultimate Comfort for Restful Journeys'
+description: 'Choosing the best eye mask for long haul flights can improve your sleep
+  and comfort. A good mask blocks light and fits well without pressure on your eyes.
+  Long '
 pubDate: 2026-05-18
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-mask-for-long-haul-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-mask-for-long-haul-flights&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best eye mask for long haul flights can improve your sleep and comfort. A good mask blocks light and fits well without pressure on your eyes.**

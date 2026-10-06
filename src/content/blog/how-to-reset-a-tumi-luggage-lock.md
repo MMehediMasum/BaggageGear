@@ -1,10 +1,14 @@
 ---
-title: "How to Reset a Tumi Luggage Lock: Quick & Easy Guide"
-description: "Ever stood at the airport, your Tumi luggage securely shut, but the combination has slipped your mind? It’s a stressful moment no traveler wants to experience. "
+title: 'How to Reset a Tumi Luggage Lock: Quick & Easy Guide'
+description: 'Ever stood at the airport, your Tumi luggage securely shut, but the
+  combination has slipped your mind? It’s a stressful moment no traveler wants to
+  experience. '
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-a-tumi-luggage-lock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-a-tumi-luggage-lock&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever stood at the airport, your Tumi luggage securely shut, but the combination has slipped your mind? It’s a stressful moment no traveler wants to experience.**

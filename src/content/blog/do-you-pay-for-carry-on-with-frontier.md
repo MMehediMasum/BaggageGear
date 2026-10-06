@@ -1,10 +1,14 @@
 ---
-title: "Do You Pay for Carry on With Frontier: Essential Fee Guide 2025"
-description: "Are you planning your next adventure and considering flying with Frontier Airlines? You might be wondering about the costs involved, especially when it comes to"
+title: 'Do You Pay for Carry on With Frontier: Essential Fee Guide 2025'
+description: Are you planning your next adventure and considering flying with Frontier
+  Airlines? You might be wondering about the costs involved, especially when it comes
+  to
 pubDate: 2026-04-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-pay-for-carry-on-with-frontier&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-you-pay-for-carry-on-with-frontier&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and considering flying with Frontier Airlines? You might be wondering about the costs involved, especially when it comes to carry-on luggage.**

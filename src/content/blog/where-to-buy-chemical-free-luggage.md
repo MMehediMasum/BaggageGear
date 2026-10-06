@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Chemical Free Luggage: Top Eco-Friendly Picks"
-description: "Imagine packing for your dream vacation, only to worry about the harmful chemicals lurking in your luggage. You deserve peace of mind and safety, and that's whe"
+title: 'Where to Buy Chemical Free Luggage: Top Eco-Friendly Picks'
+description: Imagine packing for your dream vacation, only to worry about the harmful
+  chemicals lurking in your luggage. You deserve peace of mind and safety, and that's
+  whe
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-chemical-free-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-chemical-free-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine packing for your dream vacation, only to worry about the harmful chemicals lurking in your luggage. You deserve peace of mind and safety, and that's where chemical-free luggage comes into play.**

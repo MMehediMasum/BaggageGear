@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Cover a Textbook With a Paper Bag: Easy & Creative Tips"
 description: "Are you tired of seeing your textbooks get worn out and tattered by the end of the school year? Protecting them doesn't have to be a hassle or an expensive ende"
 pubDate: 2026-04-24

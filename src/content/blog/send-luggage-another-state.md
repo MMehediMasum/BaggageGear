@@ -1,10 +1,14 @@
 ---
-title: "How to Send Luggage to Another State: Your Complete Guide"
-description: "How to Send Luggage to Another State: Your Complete Guide [Published: DATE | Last updated: DATE] TL;DR Shipping luggage to another state involves options like t"
+title: 'How to Send Luggage to Another State: Your Complete Guide'
+description: 'How to Send Luggage to Another State: Your Complete Guide [Published:
+  DATE | Last updated: DATE] TL;DR Shipping luggage to another state involves options
+  like t'
 pubDate: 2026-08-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=send-luggage-another-state&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=send-luggage-another-state&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 # How to Send Luggage to Another State: Your Complete Guide

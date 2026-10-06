@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Sunscreen on a Carry On: Essential TSA Tips Revealed"
-description: "Planning a trip soon? As you pack your essentials, you might wonder, \"Can you bring sunscreen on a carry on?\" It's a common concern, especially when you want to"
+title: 'Can You Bring Sunscreen on a Carry On: Essential TSA Tips Revealed'
+description: Planning a trip soon? As you pack your essentials, you might wonder,
+  "Can you bring sunscreen on a carry on?" It's a common concern, especially when
+  you want to
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-sunscreen-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-sunscreen-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip soon? As you pack your essentials, you might wonder, "Can you bring sunscreen on a carry on?"**

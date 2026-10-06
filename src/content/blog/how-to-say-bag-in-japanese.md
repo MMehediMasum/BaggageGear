@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Say Bag in Japanese: Essential Words You Need to Know"
 description: "Are you planning a trip to Japan or simply fascinated by the Japanese language? Whether you're a seasoned traveler or a curious learner, knowing how to say ever"
 pubDate: 2026-03-08

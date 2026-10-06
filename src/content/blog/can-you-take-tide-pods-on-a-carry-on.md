@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Tide Pods on a Carry On: Essential Travel Rules Explained"
-description: "Wondering whether you can pack Tide Pods in your carry-on luggage for your next flight? You're not alone! With airport security rules constantly changing, it ca"
+title: 'Can You Take Tide Pods on a Carry On: Essential Travel Rules Explained'
+description: Wondering whether you can pack Tide Pods in your carry-on luggage for
+  your next flight? You're not alone! With airport security rules constantly changing,
+  it ca
 pubDate: 2025-09-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-tide-pods-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-tide-pods-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Wondering whether you can pack Tide Pods in your carry-on luggage for your next flight? You're not alone!**

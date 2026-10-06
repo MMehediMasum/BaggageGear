@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Mess Kit for Backpacking: Essential Gear for Outdoor Adventures"
 description: "Choosing the best mess kit for backpacking makes cooking and eating outdoors easier and more enjoyable. A good kit saves space, weight, and hassle on your trips"
 pubDate: 2026-06-09

@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy a Carry on Bag: Top Places for Stylish Picks"
-description: "Are you planning your next getaway and need the perfect carry-on bag? Finding the right one can make your travel experience smoother and more enjoyable. But wit"
+title: 'Where to Buy a Carry on Bag: Top Places for Stylish Picks'
+description: Are you planning your next getaway and need the perfect carry-on bag?
+  Finding the right one can make your travel experience smoother and more enjoyable.
+  But wit
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-a-carry-on-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next getaway and need the perfect carry-on bag? Finding the right one can make your travel experience smoother and more enjoyable.**

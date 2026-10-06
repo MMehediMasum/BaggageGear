@@ -1,10 +1,13 @@
 ---
-title: "How Big is the North Face Borealis Backpack: Ultimate Size Guide"
-description: "Have you ever found yourself struggling to fit all your essentials into a backpack that's just too small? Or perhaps you're on the hunt for a reliable companion"
+title: 'How Big is the North Face Borealis Backpack: Ultimate Size Guide'
+description: Have you ever found yourself struggling to fit all your essentials into
+  a backpack that's just too small? Or perhaps you're on the hunt for a reliable companion
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-the-north-face-borealis-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-the-north-face-borealis-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself struggling to fit all your essentials into a backpack that's just too small? Or perhaps you're on the hunt for a reliable companion that can handle anything life throws your way?**

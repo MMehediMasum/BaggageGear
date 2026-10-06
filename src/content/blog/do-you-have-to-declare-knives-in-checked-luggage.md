@@ -1,10 +1,14 @@
 ---
-title: "Do You Have to Declare Knives in Checked Luggage: Essential Rules Explained"
-description: "Traveling can be an exhilarating experience, but it often comes with its fair share of questions and concerns. One question you might find yourself pondering is"
+title: 'Do You Have to Declare Knives in Checked Luggage: Essential Rules Explained'
+description: Traveling can be an exhilarating experience, but it often comes with
+  its fair share of questions and concerns. One question you might find yourself pondering
+  is
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-have-to-declare-knives-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=do-you-have-to-declare-knives-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be an exhilarating experience, but it often comes with its fair share of questions and concerns. One question you might find yourself pondering is, "Do you have to declare knives in checked luggage?"**

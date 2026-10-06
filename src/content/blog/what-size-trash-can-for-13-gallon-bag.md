@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Size Trash Can for 13 Gallon Bag: Perfect Fit Guide"
 description: "Choosing the right trash can size for your 13-gallon bag might seem simple, but it can save you a lot of hassle. If your trash can is too small, bags won’t fit "
 pubDate: 2025-09-23

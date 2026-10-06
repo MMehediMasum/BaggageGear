@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Backpack for Travel: Top Lightweight, TSA-Approved Picks"
-description: "Finding the best personal backpack for travel can make your trip easier and more comfortable. A good travel backpack holds your essentials securely while fittin"
+title: 'Best Personal Backpack for Travel: Top Lightweight, TSA-Approved Picks'
+description: Finding the best personal backpack for travel can make your trip easier
+  and more comfortable. A good travel backpack holds your essentials securely while
+  fittin
 pubDate: 2026-07-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-backpack-for-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best personal backpack for travel can make your trip easier and more comfortable. A good travel backpack holds your essentials securely while fitting airline rules.**

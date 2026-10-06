@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Build a Boxing Bag Stand: Easy DIY Guide for Beginners"
 description: "If you love boxing or want to start training at home, having a sturdy boxing bag stand can make all the difference. Imagine punching your bag anytime you want, "
 pubDate: 2025-08-29

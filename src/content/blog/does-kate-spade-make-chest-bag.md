@@ -1,10 +1,14 @@
 ---
-title: "Does Kate Spade Make Chest Bag: Stylish Options to Explore Now"
-description: "Have you ever found yourself searching for the perfect chest bag that combines style, functionality, and a touch of luxury? If so, you're not alone. With the ri"
+title: 'Does Kate Spade Make Chest Bag: Stylish Options to Explore Now'
+description: Have you ever found yourself searching for the perfect chest bag that
+  combines style, functionality, and a touch of luxury? If so, you're not alone. With
+  the ri
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-kate-spade-make-chest-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-kate-spade-make-chest-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever found yourself searching for the perfect chest bag that combines style, functionality, and a touch of luxury? If so, you're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "What is a Sprayground Backpack: Ultimate Guide to Stylish Durability"
-description: "Imagine walking into a room and instantly turning heads. That's the power of a Sprayground backpack. But what exactly is it that makes these backpacks so specia"
+title: 'What is a Sprayground Backpack: Ultimate Guide to Stylish Durability'
+description: Imagine walking into a room and instantly turning heads. That's the power
+  of a Sprayground backpack. But what exactly is it that makes these backpacks so
+  specia
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-sprayground-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-sprayground-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine walking into a room and instantly turning heads. That's the power of a Sprayground backpack.**

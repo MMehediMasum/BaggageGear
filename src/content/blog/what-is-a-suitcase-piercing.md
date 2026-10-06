@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Suitcase Piercing: Stunning Trend You Must Know"
 description: "Are you curious about the latest trend in body modifications? If you're intrigued by unique and bold styles, you might want to learn about suitcase piercings. T"
 pubDate: 2026-02-13

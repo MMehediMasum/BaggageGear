@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage Under $100: Top Durable & Stylish Picks"
-description: "Finding the best carry-on luggage under $100 can save you money without cutting quality. Smart choices make travel easier and stress-free. Affordable carry-on s"
+title: 'Best Carry On Luggage Under $100: Top Durable & Stylish Picks'
+description: Finding the best carry-on luggage under $100 can save you money without
+  cutting quality. Smart choices make travel easier and stress-free. Affordable carry-on
+  s
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-under-100&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-under-100&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry-on luggage under $100 can save you money without cutting quality. Smart choices make travel easier and stress-free.**

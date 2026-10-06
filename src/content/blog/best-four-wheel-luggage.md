@@ -1,10 +1,14 @@
 ---
-title: "Best Four Wheel Luggage Options for Smooth and Stylish Travel"
-description: "Choosing the best four wheel luggage makes travel easier and smoother. Four wheels offer better balance and easy movement in airports. Four wheel luggage comes "
+title: Best Four Wheel Luggage Options for Smooth and Stylish Travel
+description: 'Choosing the best four wheel luggage makes travel easier and smoother.
+  Four wheels offer better balance and easy movement in airports. Four wheel luggage
+  comes '
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-four-wheel-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-four-wheel-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best four wheel luggage makes travel easier and smoother. Four wheels offer better balance and easy movement in airports.**

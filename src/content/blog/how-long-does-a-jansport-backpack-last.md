@@ -1,10 +1,14 @@
 ---
-title: "How Long Does a Jansport Backpack Last: Ultimate Durability Guide"
-description: "How long can you expect your trusty Jansport backpack to last? If you're like most people, you've probably heard stories of Jansport backpacks surviving years o"
+title: 'How Long Does a Jansport Backpack Last: Ultimate Durability Guide'
+description: How long can you expect your trusty Jansport backpack to last? If you're
+  like most people, you've probably heard stories of Jansport backpacks surviving
+  years o
 pubDate: 2026-01-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-does-a-jansport-backpack-last&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-long-does-a-jansport-backpack-last&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **How long can you expect your trusty Jansport backpack to last? If you're like most people, you've probably heard stories of Jansport backpacks surviving years of school, travel, and daily adventures.**

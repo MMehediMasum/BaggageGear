@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Ice Pack in Checked Luggage: Essential Travel Tips"
-description: "Traveling can be both exciting and stressful, especially when you're trying to pack everything you need efficiently and within airline regulations. If you're wo"
+title: 'Can You Bring Ice Pack in Checked Luggage: Essential Travel Tips'
+description: Traveling can be both exciting and stressful, especially when you're
+  trying to pack everything you need efficiently and within airline regulations. If
+  you're wo
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-ice-pack-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-ice-pack-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when you're trying to pack everything you need efficiently and within airline regulations. If you're wondering whether you can bring an ice pack in your checked luggage, you're not alone.**

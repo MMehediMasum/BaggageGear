@@ -1,10 +1,14 @@
 ---
-title: "Best Portable Charger for Backpacking: Top Picks for Power on the Go"
-description: "Choosing the best portable charger is key for backpacking trips. It keeps your devices powered without heavy gear. Backpacking demands lightweight, reliable pow"
+title: 'Best Portable Charger for Backpacking: Top Picks for Power on the Go'
+description: Choosing the best portable charger is key for backpacking trips. It keeps
+  your devices powered without heavy gear. Backpacking demands lightweight, reliable
+  pow
 pubDate: 2026-06-13
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-portable-charger-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-portable-charger-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best portable charger is key for backpacking trips. It keeps your devices powered without heavy gear.**

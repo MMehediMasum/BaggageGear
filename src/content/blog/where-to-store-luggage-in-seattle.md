@@ -1,10 +1,14 @@
 ---
-title: "Where to Store Luggage in Seattle: Ultimate Guide for Travelers"
-description: "Are you planning a trip to Seattle and wondering where you can safely store your luggage? Whether you're exploring the bustling Pike Place Market, admiring the "
+title: 'Where to Store Luggage in Seattle: Ultimate Guide for Travelers'
+description: 'Are you planning a trip to Seattle and wondering where you can safely
+  store your luggage? Whether you''re exploring the bustling Pike Place Market, admiring
+  the '
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-seattle&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-to-store-luggage-in-seattle&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip to Seattle and wondering where you can safely store your luggage? Whether you're exploring the bustling Pike Place Market, admiring the stunning views from the Space Needle, or simply soaking in the vibrant culture, the last thing you want is to be burdened by heavy bags.**

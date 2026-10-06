@@ -1,10 +1,14 @@
 ---
-title: "How Many Pounds Spirit Checked Bag: Ultimate Weight Limit Guide"
-description: "Are you planning your next trip and wondering just how much you can pack in your Spirit Airlines checked bag? You're not alone. Many travelers find themselves p"
+title: 'How Many Pounds Spirit Checked Bag: Ultimate Weight Limit Guide'
+description: Are you planning your next trip and wondering just how much you can pack
+  in your Spirit Airlines checked bag? You're not alone. Many travelers find themselves
+  p
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-pounds-spirit-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-many-pounds-spirit-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering just how much you can pack in your Spirit Airlines checked bag? You're not alone.**

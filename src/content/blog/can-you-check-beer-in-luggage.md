@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Beer in Luggage: Essential Travel Tips Revealed"
-description: "Planning to travel with a few bottles of your favorite craft beer or a special brew you picked up on your last vacation? If you've ever wondered whether you can"
+title: 'Can You Check Beer in Luggage: Essential Travel Tips Revealed'
+description: Planning to travel with a few bottles of your favorite craft beer or
+  a special brew you picked up on your last vacation? If you've ever wondered whether
+  you can
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-beer-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-beer-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning to travel with a few bottles of your favorite craft beer or a special brew you picked up on your last vacation? If you've ever wondered whether you can check beer in your luggage, you're not alone.**

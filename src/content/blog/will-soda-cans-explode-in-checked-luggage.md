@@ -1,10 +1,14 @@
 ---
-title: "Will Soda Cans Explode in Checked Luggage? Shocking Truth Revealed!"
-description: "Picture this: You're packing for your long-awaited vacation. Your suitcase is almost ready, but there's a nagging question in your mind. Should you pack those s"
+title: Will Soda Cans Explode in Checked Luggage? Shocking Truth Revealed!
+description: 'Picture this: You''re packing for your long-awaited vacation. Your suitcase
+  is almost ready, but there''s a nagging question in your mind. Should you pack those
+  s'
 pubDate: 2026-01-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-soda-cans-explode-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-soda-cans-explode-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're packing for your long-awaited vacation. Your suitcase is almost ready, but there's a nagging question in your mind.**

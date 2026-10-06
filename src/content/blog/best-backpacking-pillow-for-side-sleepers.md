@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Pillow for Side Sleepers: Enhance Comfort on Adventures"
 description: "Finding the best backpacking pillow for side sleepers can improve your sleep during outdoor trips. Side sleepers need extra neck and shoulder support for comfor"
 pubDate: 2026-06-13

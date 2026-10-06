@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do I Get a Nespresso Recycling Bag: Easy Steps to Recycle Today"
 description: "Are you a Nespresso lover who cares about the environment? If so, you might be wondering how to recycle your used coffee capsules. Good news: Nespresso offers a"
 pubDate: 2025-10-10

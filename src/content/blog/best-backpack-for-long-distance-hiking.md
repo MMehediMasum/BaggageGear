@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Long-Distance Hiking: Top Lightweight Waterproof Picks"
-description: "Choosing the best backpack for long-distance hiking makes your trip easier and more comfortable. A good backpack fits well, carries all your gear, and keeps you"
+title: 'Best Backpack for Long-Distance Hiking: Top Lightweight Waterproof Picks'
+description: Choosing the best backpack for long-distance hiking makes your trip easier
+  and more comfortable. A good backpack fits well, carries all your gear, and keeps
+  you
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-long-distance-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-long-distance-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for long-distance hiking makes your trip easier and more comfortable. A good backpack fits well, carries all your gear, and keeps you dry.**

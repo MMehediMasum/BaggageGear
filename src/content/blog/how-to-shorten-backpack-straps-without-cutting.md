@@ -1,10 +1,14 @@
 ---
-title: "How to Shorten Backpack Straps Without Cutting: Easy Fixes"
-description: "Have you ever found yourself struggling with backpack straps that are just too long? It can be frustrating when your backpack doesn't fit quite right, sliding o"
+title: 'How to Shorten Backpack Straps Without Cutting: Easy Fixes'
+description: Have you ever found yourself struggling with backpack straps that are
+  just too long? It can be frustrating when your backpack doesn't fit quite right,
+  sliding o
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-shorten-backpack-straps-without-cutting&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-shorten-backpack-straps-without-cutting&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself struggling with backpack straps that are just too long? It can be frustrating when your backpack doesn't fit quite right, sliding off your shoulders or hanging awkwardly.**

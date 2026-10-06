@@ -1,10 +1,13 @@
 ---
-title: "Best Duffel Bag for Travel to Africa: Top Picks for Adventurers"
-description: "Choosing the best duffel bag makes traveling to Africa easier and more organized. The right bag holds all essentials and fits different travel needs. Traveling "
+title: 'Best Duffel Bag for Travel to Africa: Top Picks for Adventurers'
+description: 'Choosing the best duffel bag makes traveling to Africa easier and more
+  organized. The right bag holds all essentials and fits different travel needs. Traveling '
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-travel-to-africa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-travel-to-africa&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best duffel bag makes traveling to Africa easier and more organized. The right bag holds all essentials and fits different travel needs.**

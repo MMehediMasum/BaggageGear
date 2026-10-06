@@ -1,10 +1,14 @@
 ---
-title: "How Do You Measure a Bag: Easy Steps for Perfect Sizing"
-description: "Ever bought a bag online only to find it's not the size you imagined? You're not alone. Knowing how to measure a bag can save you from those frustrating surpris"
+title: 'How Do You Measure a Bag: Easy Steps for Perfect Sizing'
+description: Ever bought a bag online only to find it's not the size you imagined?
+  You're not alone. Knowing how to measure a bag can save you from those frustrating
+  surpris
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-do-you-measure-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-do-you-measure-a-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Ever bought a bag online only to find it's not the size you imagined? You're not alone.**

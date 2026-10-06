@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Cruise Travel: Top Lightweight, Durable Sets Reviewed"
-description: "Choosing the best luggage for cruise travel makes your trip easier and more organized. Cruise trips need durable, lightweight, and easy-to-handle bags. Cruising"
+title: 'Best Luggage for Cruise Travel: Top Lightweight, Durable Sets Reviewed'
+description: Choosing the best luggage for cruise travel makes your trip easier and
+  more organized. Cruise trips need durable, lightweight, and easy-to-handle bags.
+  Cruising
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-cruise-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-cruise-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for cruise travel makes your trip easier and more organized. Cruise trips need durable, lightweight, and easy-to-handle bags.**

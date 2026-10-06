@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Urine Collection Bag Called: Essential Medical Insight"
 description: "Have you ever found yourself wondering what a urine collection bag is actually called? You're not alone. Whether you're dealing with a medical condition or help"
 pubDate: 2026-01-16

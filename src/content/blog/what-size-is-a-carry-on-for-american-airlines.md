@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Carry on for American Airlines: Ultimate Guide 2025"
-description: "Have you ever stood in line at the airport, anxiously glancing at your carry-on, wondering if it will fit American Airlines' size requirements? You’re not alone"
+title: 'What Size is a Carry on for American Airlines: Ultimate Guide 2025'
+description: Have you ever stood in line at the airport, anxiously glancing at your
+  carry-on, wondering if it will fit American Airlines' size requirements? You’re
+  not alone
 pubDate: 2025-12-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-carry-on-for-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-carry-on-for-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood in line at the airport, anxiously glancing at your carry-on, wondering if it will fit American Airlines' size requirements? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Liquid Makeup in My Carry On: Essential TSA Tips"
-description: "Navigating airport security can be tricky, especially when it comes to packing your favorite beauty essentials. You've probably wondered, \"Can I bring liquid ma"
+title: 'Can I Bring Liquid Makeup in My Carry On: Essential TSA Tips'
+description: Navigating airport security can be tricky, especially when it comes to
+  packing your favorite beauty essentials. You've probably wondered, "Can I bring
+  liquid ma
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-liquid-makeup-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-liquid-makeup-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can be tricky, especially when it comes to packing your favorite beauty essentials. You've probably wondered, "Can I bring liquid makeup in my carry-on?"**

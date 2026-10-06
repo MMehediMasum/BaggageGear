@@ -1,10 +1,14 @@
 ---
-title: "Best Small Crossbody Bag for Travel: Top Anti-Theft and Stylish Picks"
-description: "Finding the best small crossbody bag for travel makes your trips easier and safer. These bags keep your essentials close and your hands free. Choosing the right"
+title: 'Best Small Crossbody Bag for Travel: Top Anti-Theft and Stylish Picks'
+description: Finding the best small crossbody bag for travel makes your trips easier
+  and safer. These bags keep your essentials close and your hands free. Choosing the
+  right
 pubDate: 2025-10-04
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-crossbody-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-small-crossbody-bag-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best small crossbody bag for travel makes your trips easier and safer. These bags keep your essentials close and your hands free.**

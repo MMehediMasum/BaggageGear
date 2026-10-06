@@ -1,10 +1,14 @@
 ---
-title: "Are Lululemon Backpacks Waterproof: Ultimate Protection Guide"
-description: "When you're gearing up for your next adventure or simply commuting to work, a reliable backpack is a must-have. But here's a question that often pops up: are Lu"
+title: 'Are Lululemon Backpacks Waterproof: Ultimate Protection Guide'
+description: 'When you''re gearing up for your next adventure or simply commuting
+  to work, a reliable backpack is a must-have. But here''s a question that often pops
+  up: are Lu'
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-lululemon-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lululemon Belt Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=are-lululemon-backpacks-waterproof&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **When you're gearing up for your next adventure or simply commuting to work, a reliable backpack is a must-have. But here's a question that often pops up: are Lululemon backpacks waterproof?**

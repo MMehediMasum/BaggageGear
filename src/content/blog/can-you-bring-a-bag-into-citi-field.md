@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Bag into Citi Field: Essential Rules Revealed"
-description: "Imagine this: It's game day, and you're buzzing with excitement as you head to Citi Field to watch your favorite team play. You've got your tickets ready and a "
+title: 'Can You Bring a Bag into Citi Field: Essential Rules Revealed'
+description: 'Imagine this: It''s game day, and you''re buzzing with excitement as
+  you head to Citi Field to watch your favorite team play. You''ve got your tickets
+  ready and a '
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-citi-field&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-bag-into-citi-field&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: It's game day, and you're buzzing with excitement as you head to Citi Field to watch your favorite team play. You've got your tickets ready and a bag packed with essentials for an unforgettable experience.**

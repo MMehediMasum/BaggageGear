@@ -1,10 +1,14 @@
 ---
-title: "How to Attach Royal Caribbean Luggage Tags: Easy Step-by-Step Guide"
-description: "Planning a cruise with Royal Caribbean? Exciting times are ahead! As you prepare for your voyage, one essential task is ensuring your luggage is ready for the j"
+title: 'How to Attach Royal Caribbean Luggage Tags: Easy Step-by-Step Guide'
+description: Planning a cruise with Royal Caribbean? Exciting times are ahead! As
+  you prepare for your voyage, one essential task is ensuring your luggage is ready
+  for the j
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-royal-caribbean-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-royal-caribbean-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a cruise with Royal Caribbean? Exciting times are ahead!**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Pack Cans of Beer in Checked Luggage: Essential Travel Tips"
-description: "Picture this: you're planning the perfect getaway, and you’ve discovered a local brew that you just have to bring back home. But then comes the burning question"
+title: 'Can You Pack Cans of Beer in Checked Luggage: Essential Travel Tips'
+description: 'Picture this: you''re planning the perfect getaway, and you’ve discovered
+  a local brew that you just have to bring back home. But then comes the burning question'
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-cans-of-beer-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-cans-of-beer-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're planning the perfect getaway, and you’ve discovered a local brew that you just have to bring back home. But then comes the burning question: can you pack cans of beer in your checked luggage?**

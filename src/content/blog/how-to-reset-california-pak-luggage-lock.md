@@ -1,10 +1,14 @@
 ---
-title: "How to Reset California Pak Luggage Lock: Easy Step-by-Step Guide"
-description: "Unlocking your potential for stress-free travel starts with understanding how to reset your California Pak luggage lock. Imagine this: you're all set for your n"
+title: 'How to Reset California Pak Luggage Lock: Easy Step-by-Step Guide'
+description: 'Unlocking your potential for stress-free travel starts with understanding
+  how to reset your California Pak luggage lock. Imagine this: you''re all set for
+  your n'
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-california-pak-luggage-lock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-california-pak-luggage-lock&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Unlocking your potential for stress-free travel starts with understanding how to reset your California Pak luggage lock. Imagine this: you're all set for your next adventure, bags packed, excitement in the air, but your suitcase refuses to budge because of a forgotten lock combination.**

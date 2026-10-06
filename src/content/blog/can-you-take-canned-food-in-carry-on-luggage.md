@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Canned Food in Carry-On Luggage? Essential Rules Revealed"
-description: "Imagine this: you're packing your bags for a long-awaited vacation, meticulously planning every detail to ensure a hassle-free experience. As you move through y"
+title: Can You Take Canned Food in Carry-On Luggage? Essential Rules Revealed
+description: 'Imagine this: you''re packing your bags for a long-awaited vacation,
+  meticulously planning every detail to ensure a hassle-free experience. As you move
+  through y'
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-canned-food-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-canned-food-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're packing your bags for a long-awaited vacation, meticulously planning every detail to ensure a hassle-free experience. As you move through your kitchen, you spot a couple of canned food items that would be perfect for a quick snack or meal on the go.**

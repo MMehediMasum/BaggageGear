@@ -1,10 +1,14 @@
 ---
-title: "Can You Lock a Checked Bag: Essential Travel Security Tips"
-description: "Picture this: You’re standing at the airport, about to check in your luggage. You've packed everything meticulously, but a thought suddenly strikes you—can you "
+title: 'Can You Lock a Checked Bag: Essential Travel Security Tips'
+description: 'Picture this: You’re standing at the airport, about to check in your
+  luggage. You''ve packed everything meticulously, but a thought suddenly strikes
+  you—can you '
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-lock-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-lock-a-checked-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You’re standing at the airport, about to check in your luggage. You've packed everything meticulously, but a thought suddenly strikes you—can you lock your checked bag?**

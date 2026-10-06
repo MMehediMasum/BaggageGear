@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Alcohol in Checked Luggage: Essential Tips & Rules"
-description: "Packing alcohol in checked luggage can be tricky. You might be worried about bottles breaking, or even whether it's allowed. You've probably wondered how to kee"
+title: 'How to Pack Alcohol in Checked Luggage: Essential Tips & Rules'
+description: Packing alcohol in checked luggage can be tricky. You might be worried
+  about bottles breaking, or even whether it's allowed. You've probably wondered how
+  to kee
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-alcohol-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-alcohol-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing alcohol in checked luggage can be tricky. You might be worried about bottles breaking, or even whether it's allowed.**

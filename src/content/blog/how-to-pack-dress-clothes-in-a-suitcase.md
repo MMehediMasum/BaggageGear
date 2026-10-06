@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Dress Clothes in a Suitcase: Expert Tips for Wrinkle-Free Travel"
-description: "Packing dress clothes can often feel like a daunting task. You want to make sure they arrive at your destination looking as crisp and fresh as when you packed t"
+title: 'How to Pack Dress Clothes in a Suitcase: Expert Tips for Wrinkle-Free Travel'
+description: Packing dress clothes can often feel like a daunting task. You want to
+  make sure they arrive at your destination looking as crisp and fresh as when you
+  packed t
 pubDate: 2026-02-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-dress-clothes-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-dress-clothes-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing dress clothes can often feel like a daunting task. You want to make sure they arrive at your destination looking as crisp and fresh as when you packed them.**

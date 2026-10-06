@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Tag Bag If So Identify: Ultimate Guide to Spot Authenticity"
 description: "Have you ever found yourself staring at a pile of tags and bags, wondering if they’re more than just simple accessories? You might be surprised to discover the "
 pubDate: 2025-09-11

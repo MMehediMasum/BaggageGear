@@ -1,10 +1,14 @@
 ---
-title: "Can a Duffle Bag Be a Carry On? Ultimate Travel Guide 2025"
-description: "Have you ever stood at the airport check-in, nervously glancing at your duffle bag, wondering if it meets the carry-on requirements? The uncertainty can make yo"
+title: Can a Duffle Bag Be a Carry On? Ultimate Travel Guide 2025
+description: Have you ever stood at the airport check-in, nervously glancing at your
+  duffle bag, wondering if it meets the carry-on requirements? The uncertainty can
+  make yo
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-duffle-bag-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-a-duffle-bag-be-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport check-in, nervously glancing at your duffle bag, wondering if it meets the carry-on requirements? The uncertainty can make your travel experience stressful right from the start.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Masks for Sleeping: Discover Comfort and Complete Light Blocking"
-description: "A good eye mask can improve your sleep quality by blocking out light completely. It helps create a dark, calm environment for restful rest. Choosing the best ey"
+title: 'Best Eye Masks for Sleeping: Discover Comfort and Complete Light Blocking'
+description: A good eye mask can improve your sleep quality by blocking out light
+  completely. It helps create a dark, calm environment for restful rest. Choosing
+  the best ey
 pubDate: 2026-05-23
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-masks-for-sleeping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-masks-for-sleeping&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **A good eye mask can improve your sleep quality by blocking out light completely. It helps create a dark, calm environment for restful rest.**

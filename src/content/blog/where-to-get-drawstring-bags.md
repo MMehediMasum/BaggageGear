@@ -1,10 +1,13 @@
 ---
-title: "Where to Get Drawstring Bags: Top Spots for Stylish Finds"
-description: "Looking for the perfect drawstring bag? You're in the right place! Whether you need one for the gym, a day trip, or just to keep your daily essentials organized"
+title: 'Where to Get Drawstring Bags: Top Spots for Stylish Finds'
+description: Looking for the perfect drawstring bag? You're in the right place! Whether
+  you need one for the gym, a day trip, or just to keep your daily essentials organized
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-get-drawstring-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tote And Drawstring Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=where-to-get-drawstring-bags&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Looking for the perfect drawstring bag? You're in the right place!**

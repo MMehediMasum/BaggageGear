@@ -1,10 +1,14 @@
 ---
-title: "Best Budget Rolling Luggage: Top Affordable Carry-Ons for Travelers"
-description: "Finding reliable rolling luggage that fits your budget can be tough. This guide helps you choose the best budget rolling luggage for your travels. Traveling lig"
+title: 'Best Budget Rolling Luggage: Top Affordable Carry-Ons for Travelers'
+description: Finding reliable rolling luggage that fits your budget can be tough.
+  This guide helps you choose the best budget rolling luggage for your travels. Traveling
+  lig
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-rolling-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-rolling-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding reliable rolling luggage that fits your budget can be tough. This guide helps you choose the best budget rolling luggage for your travels.**

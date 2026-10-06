@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fix Ziplock Bag Slider: Quick & Easy Repair Tips"
 description: "Are you tired of dealing with a stubborn Ziplock bag slider that just won’t budge? You’re not alone. It’s frustrating when you’re trying to keep your food fresh"
 pubDate: 2025-09-04

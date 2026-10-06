@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can I Recycle Shredded Paper in a Plastic Bag? Expert Tips!"
 description: "Have you ever found yourself staring at a pile of shredded paper, wondering if you can simply toss it into a plastic bag and recycle it? You're not alone. Many "
 pubDate: 2025-10-24

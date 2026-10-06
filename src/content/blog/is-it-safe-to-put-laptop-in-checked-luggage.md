@@ -1,10 +1,14 @@
 ---
-title: "Is It Safe to Put Laptop in Checked Luggage? Expert Tips Revealed"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing your tech gadgets. You might be wondering, \"Is it safe to put your laptop in c"
+title: Is It Safe to Put Laptop in Checked Luggage? Expert Tips Revealed
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing your tech gadgets. You might be wondering, "Is it safe to put your laptop
+  in c
 pubDate: 2025-11-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-it-safe-to-put-laptop-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-it-safe-to-put-laptop-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing your tech gadgets. You might be wondering, "Is it safe to put your laptop in checked luggage?"**

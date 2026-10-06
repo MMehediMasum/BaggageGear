@@ -1,10 +1,14 @@
 ---
-title: "Does Viva Aerobus Weigh Carry On? Essential Tips Revealed"
-description: "Are you planning a trip with Viva Aerobus and wondering if they weigh carry-on luggage? You're not alone. Many travelers find themselves puzzled by this common "
+title: Does Viva Aerobus Weigh Carry On? Essential Tips Revealed
+description: 'Are you planning a trip with Viva Aerobus and wondering if they weigh
+  carry-on luggage? You''re not alone. Many travelers find themselves puzzled by this
+  common '
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-viva-aerobus-weigh-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=does-viva-aerobus-weigh-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Viva Aerobus and wondering if they weigh carry-on luggage? You're not alone.**

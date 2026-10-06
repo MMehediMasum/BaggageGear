@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in the Briefcase: Unveiling Secrets That Shock"
 description: "Have you ever watched a movie or read a story where a briefcase seemed to hold the key to everything? It’s a classic mystery that hooks our curiosity. You find "
 pubDate: 2025-09-05

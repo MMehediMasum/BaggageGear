@@ -1,10 +1,14 @@
 ---
-title: "What to Put in a Bugout Bag: Essential Gear for Survival Success"
-description: "Imagine a situation where you need to leave your home at a moment's notice. What would you bring with you? This is where a bugout bag becomes essential. It's yo"
+title: 'What to Put in a Bugout Bag: Essential Gear for Survival Success'
+description: Imagine a situation where you need to leave your home at a moment's notice.
+  What would you bring with you? This is where a bugout bag becomes essential. It's
+  yo
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-a-bugout-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-a-bugout-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine a situation where you need to leave your home at a moment's notice. What would you bring with you?**

@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Full Size Backpack: Ultimate Guide to Dimensions"
-description: "Are you tired of lugging around a backpack that's either too big or too small for your daily needs? Finding the perfect backpack size can be as elusive as findi"
+title: 'What Size is a Full Size Backpack: Ultimate Guide to Dimensions'
+description: Are you tired of lugging around a backpack that's either too big or too
+  small for your daily needs? Finding the perfect backpack size can be as elusive
+  as findi
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-full-size-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-full-size-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you tired of lugging around a backpack that's either too big or too small for your daily needs? Finding the perfect backpack size can be as elusive as finding a needle in a haystack.**

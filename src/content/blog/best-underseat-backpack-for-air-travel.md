@@ -1,10 +1,13 @@
 ---
-title: "Best Underseat Backpack for Air Travel: Top Picks for Comfort & Style"
-description: "Finding the best underseat backpack for air travel helps keep your essentials close and organized. These backpacks fit under the airplane seat and meet airline "
+title: 'Best Underseat Backpack for Air Travel: Top Picks for Comfort & Style'
+description: 'Finding the best underseat backpack for air travel helps keep your essentials
+  close and organized. These backpacks fit under the airplane seat and meet airline '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-underseat-backpack-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-underseat-backpack-for-air-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best underseat backpack for air travel helps keep your essentials close and organized. These backpacks fit under the airplane seat and meet airline rules.**

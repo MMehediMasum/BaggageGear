@@ -1,10 +1,14 @@
 ---
-title: "Best Compact Neck Pillow for Travel: Top Picks for Ultimate Comfort"
-description: "Finding the best compact neck pillow for travel can make your trips more comfortable. These pillows support your neck and help you rest during flights or car ri"
+title: 'Best Compact Neck Pillow for Travel: Top Picks for Ultimate Comfort'
+description: Finding the best compact neck pillow for travel can make your trips more
+  comfortable. These pillows support your neck and help you rest during flights or
+  car ri
 pubDate: 2026-05-28
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-compact-neck-pillow-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-compact-neck-pillow-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best compact neck pillow for travel can make your trips more comfortable. These pillows support your neck and help you rest during flights or car rides.**

@@ -1,10 +1,14 @@
 ---
-title: "Does Cpap Count As Carry on Delta: Essential Travel Guide 2025"
-description: "Are you planning to fly with Delta and wondering if your CPAP machine counts as a carry-on? Traveling with medical devices can be confusing, especially when air"
+title: 'Does Cpap Count As Carry on Delta: Essential Travel Guide 2025'
+description: Are you planning to fly with Delta and wondering if your CPAP machine
+  counts as a carry-on? Traveling with medical devices can be confusing, especially
+  when air
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-delta&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to fly with Delta and wondering if your CPAP machine counts as a carry-on? Traveling with medical devices can be confusing, especially when airlines have specific rules.**

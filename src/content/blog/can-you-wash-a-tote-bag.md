@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Tote Bag: Ultimate Guide to Clean and Care"
-description: "Have you ever stopped to think about how often you use your tote bag? Whether it's for groceries, gym gear, or as your go-to fashion accessory, your trusty tote"
+title: 'Can You Wash a Tote Bag: Ultimate Guide to Clean and Care'
+description: Have you ever stopped to think about how often you use your tote bag?
+  Whether it's for groceries, gym gear, or as your go-to fashion accessory, your trusty
+  tote
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever stopped to think about how often you use your tote bag? Whether it's for groceries, gym gear, or as your go-to fashion accessory, your trusty tote bag goes everywhere with you.**

@@ -1,10 +1,14 @@
 ---
-title: "Can a Jansport Backpack Be Washed: Easy Steps for a Fresh Clean"
-description: "Have you ever wondered if your trusty Jansport backpack can survive a trip through the washing machine? Maybe it's collected some stains, or perhaps it's just t"
+title: 'Can a Jansport Backpack Be Washed: Easy Steps for a Fresh Clean'
+description: Have you ever wondered if your trusty Jansport backpack can survive a
+  trip through the washing machine? Maybe it's collected some stains, or perhaps it's
+  just t
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-jansport-backpack-be-washed&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-a-jansport-backpack-be-washed&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered if your trusty Jansport backpack can survive a trip through the washing machine? Maybe it's collected some stains, or perhaps it's just time for a freshening up.**

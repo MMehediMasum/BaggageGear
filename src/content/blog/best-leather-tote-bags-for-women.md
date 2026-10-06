@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Tote Bags for Women: Stylish, Spacious, and Durable Picks"
-description: "Searching for the perfect leather tote bag? Discover a curated selection of the best options for women. Leather tote bags offer both style and functionality, ma"
+title: 'Best Leather Tote Bags for Women: Stylish, Spacious, and Durable Picks'
+description: Searching for the perfect leather tote bag? Discover a curated selection
+  of the best options for women. Leather tote bags offer both style and functionality,
+  ma
 pubDate: 2025-09-22
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-tote-bags-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-tote-bags-for-women&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Searching for the perfect leather tote bag? Discover a curated selection of the best options for women.**

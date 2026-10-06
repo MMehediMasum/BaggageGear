@@ -1,10 +1,14 @@
 ---
-title: "Are Slant Cross Chest Bag Pickpocket Proof: Ultimate Security Tested"
-description: "Imagine you're wandering through a bustling city, soaking in the sights, sounds, and vibrant energy around you. Your excitement is palpable, but so is your conc"
+title: 'Are Slant Cross Chest Bag Pickpocket Proof: Ultimate Security Tested'
+description: Imagine you're wandering through a bustling city, soaking in the sights,
+  sounds, and vibrant energy around you. Your excitement is palpable, but so is your
+  conc
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-slant-cross-chest-bag-pickpocket-proof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Anti Theft Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=are-slant-cross-chest-bag-pickpocket-proof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine you're wandering through a bustling city, soaking in the sights, sounds, and vibrant energy around you. Your excitement is palpable, but so is your concern about keeping your belongings safe from prying hands.**

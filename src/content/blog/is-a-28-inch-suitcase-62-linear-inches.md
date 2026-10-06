@@ -1,10 +1,14 @@
 ---
-title: "Is a 28 Inch Suitcase 62 Linear Inches? Ultimate Guide Revealed"
-description: "Are you planning your next getaway and wondering if your 28-inch suitcase meets airline size restrictions? You're not alone. Navigating the world of travel lugg"
+title: Is a 28 Inch Suitcase 62 Linear Inches? Ultimate Guide Revealed
+description: Are you planning your next getaway and wondering if your 28-inch suitcase
+  meets airline size restrictions? You're not alone. Navigating the world of travel
+  lugg
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-28-inch-suitcase-62-linear-inches&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=is-a-28-inch-suitcase-62-linear-inches&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next getaway and wondering if your 28-inch suitcase meets airline size restrictions? You're not alone.**

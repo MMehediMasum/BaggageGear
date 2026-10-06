@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Greece: Top Picks for Seamless Charging"
-description: "Finding the best travel adapter for Greece ensures your devices stay charged and ready. Greek power outlets use Type C and F plugs with 230V supply voltage. Tra"
+title: 'Best Travel Adapter for Greece: Top Picks for Seamless Charging'
+description: Finding the best travel adapter for Greece ensures your devices stay
+  charged and ready. Greek power outlets use Type C and F plugs with 230V supply voltage.
+  Tra
 pubDate: 2026-05-26
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-greece&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-greece&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Greece ensures your devices stay charged and ready. Greek power outlets use Type C and F plugs with 230V supply voltage.**

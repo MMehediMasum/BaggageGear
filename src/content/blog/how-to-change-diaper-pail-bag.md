@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change Diaper Pail Bag: Simple Steps Explained"
 description: "Changing your diaper pail bag might seem like a small task, but it plays a big role in keeping your nursery fresh and clean. If you’ve ever struggled with messy"
 pubDate: 2025-10-02

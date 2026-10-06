@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in the Briefcase in Pulp Fiction: Mystery Revealed"
 description: "What is in the Briefcase in Pulp Fiction? It’s the mystery that has intrigued audiences for decades. You’ve watched the film, seen the iconic scenes, and now yo"
 pubDate: 2025-09-07

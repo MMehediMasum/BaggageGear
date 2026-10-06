@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Ethan Die in Carry on: Shocking Truth Revealed!"
 description: "Are you curious about Ethan’s fate in Carry On? You’re not alone. Many fans wonder if Ethan dies, and the mystery keeps them hooked. If you’ve been asking yours"
 pubDate: 2026-02-16

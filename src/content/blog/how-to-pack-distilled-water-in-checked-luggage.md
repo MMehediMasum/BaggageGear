@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Distilled Water in Checked Luggage: Essential Tips"
-description: "Are you planning a trip and wondering how to safely pack distilled water in your checked luggage? You're not alone. Many travelers face the challenge of transpo"
+title: 'How to Pack Distilled Water in Checked Luggage: Essential Tips'
+description: Are you planning a trip and wondering how to safely pack distilled water
+  in your checked luggage? You're not alone. Many travelers face the challenge of
+  transpo
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-distilled-water-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-distilled-water-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering how to safely pack distilled water in your checked luggage? You're not alone.**

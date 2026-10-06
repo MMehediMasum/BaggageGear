@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Messenger Bags for Men: Durable, Stylish, and Functional Choices"
-description: "Leather messenger bags are a perfect blend of style and functionality. They provide a durable and elegant solution for carrying essentials. Whether heading to t"
+title: 'Best Leather Messenger Bags for Men: Durable, Stylish, and Functional Choices'
+description: Leather messenger bags are a perfect blend of style and functionality.
+  They provide a durable and elegant solution for carrying essentials. Whether heading
+  to t
 pubDate: 2025-10-13
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-messenger-bags-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Briefcases And Messenger Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-messenger-bags-for-men&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Leather messenger bags are a perfect blend of style and functionality. They provide a durable and elegant solution for carrying essentials.**

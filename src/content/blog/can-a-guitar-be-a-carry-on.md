@@ -1,10 +1,14 @@
 ---
-title: "Can a Guitar Be a Carry On: Essential Travel Tips Revealed"
-description: "If you've ever traveled with your guitar, you know the stress of figuring out if it can come aboard as a carry-on. You're not alone in this dilemma, and it's a "
+title: 'Can a Guitar Be a Carry On: Essential Travel Tips Revealed'
+description: 'If you''ve ever traveled with your guitar, you know the stress of figuring
+  out if it can come aboard as a carry-on. You''re not alone in this dilemma, and
+  it''s a '
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-guitar-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-a-guitar-be-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **If you've ever traveled with your guitar, you know the stress of figuring out if it can come aboard as a carry-on. You're not alone in this dilemma, and it's a common concern for many musicians.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Popcorn in a Paper Bag: Easy, Quick, and Delicious!"
 description: "Imagine the tantalizing aroma of freshly popped popcorn filling your kitchen, all without the need for a fancy popcorn maker or expensive microwave bags. Sounds"
 pubDate: 2026-01-23

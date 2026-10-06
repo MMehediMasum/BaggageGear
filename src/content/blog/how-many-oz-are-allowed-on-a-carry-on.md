@@ -1,10 +1,14 @@
 ---
-title: "How Many Oz are Allowed on a Carry On: Ultimate TSA Liquid Rules Guide"
-description: "Are you planning your next trip and wondering how much liquid you can bring in your carry-on? If you've ever found yourself at the security checkpoint, frantica"
+title: 'How Many Oz are Allowed on a Carry On: Ultimate TSA Liquid Rules Guide'
+description: Are you planning your next trip and wondering how much liquid you can
+  bring in your carry-on? If you've ever found yourself at the security checkpoint,
+  frantica
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-oz-are-allowed-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-oz-are-allowed-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering how much liquid you can bring in your carry-on? If you've ever found yourself at the security checkpoint, frantically pouring out shampoo or pleading with airport staff over your favorite lotion, you're not alone.**

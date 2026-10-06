@@ -1,10 +1,13 @@
 ---
-title: "How to Clean a Canvas Backpack: Easy Steps for a Fresh Look"
-description: "Is your canvas backpack looking a bit worse for wear? Perhaps it's sporting a few too many stains from your last adventure or has collected more dust than memor"
+title: 'How to Clean a Canvas Backpack: Easy Steps for a Fresh Look'
+description: Is your canvas backpack looking a bit worse for wear? Perhaps it's sporting
+  a few too many stains from your last adventure or has collected more dust than memor
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-canvas-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-canvas-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your canvas backpack looking a bit worse for wear? Perhaps it's sporting a few too many stains from your last adventure or has collected more dust than memories.**

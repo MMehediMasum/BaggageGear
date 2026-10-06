@@ -1,10 +1,14 @@
 ---
-title: "When Does Southwest Start Charging for Luggage: What You Need to Know"
-description: "Planning a trip can be exciting, but figuring out airline baggage fees can sometimes feel like a puzzle. When you're flying with Southwest Airlines, you might w"
+title: 'When Does Southwest Start Charging for Luggage: What You Need to Know'
+description: Planning a trip can be exciting, but figuring out airline baggage fees
+  can sometimes feel like a puzzle. When you're flying with Southwest Airlines, you
+  might w
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-does-southwest-start-charging-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=when-does-southwest-start-charging-for-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, but figuring out airline baggage fees can sometimes feel like a puzzle. When you're flying with Southwest Airlines, you might wonder: "When does Southwest start charging for luggage?"**

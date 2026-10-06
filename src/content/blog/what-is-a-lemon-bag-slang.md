@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Lemon Bag Slang: Ultimate Guide to Its Meaning"
 description: "Ever come across the term \"lemon bag\" and wondered what it really means? You're not alone. Slang can be intriguing, especially when it seems to pop up out of no"
 pubDate: 2026-04-05

@@ -1,10 +1,14 @@
 ---
-title: "What is a Checked Bag Vs Carry on: Key Differences You Must Know"
-description: "When you're planning your next trip, choosing the right luggage is crucial. You might be wondering, \"What is a checked bag vs carry on?\" This question is key to"
+title: 'What is a Checked Bag Vs Carry on: Key Differences You Must Know'
+description: When you're planning your next trip, choosing the right luggage is crucial.
+  You might be wondering, "What is a checked bag vs carry on?" This question is key
+  to
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-checked-bag-vs-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-checked-bag-vs-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When you're planning your next trip, choosing the right luggage is crucial. You might be wondering, "What is a checked bag vs carry on?"**

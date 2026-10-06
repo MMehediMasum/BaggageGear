@@ -1,10 +1,14 @@
 ---
-title: "Best Brand for Carry On Luggage: Discover Top Picks for Travelers"
-description: "Choosing the best brand for carry-on luggage ensures a smooth and easy travel experience. Quality, size, and durability matter most for frequent travelers. Carr"
+title: 'Best Brand for Carry On Luggage: Discover Top Picks for Travelers'
+description: Choosing the best brand for carry-on luggage ensures a smooth and easy
+  travel experience. Quality, size, and durability matter most for frequent travelers.
+  Carr
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-brand-for-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-brand-for-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best brand for carry-on luggage ensures a smooth and easy travel experience. Quality, size, and durability matter most for frequent travelers.**

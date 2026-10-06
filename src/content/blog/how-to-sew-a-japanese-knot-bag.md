@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Japanese Knot Bag: Easy Steps for Stylish Crafting"
-description: "Have you ever seen those elegant, simple bags that seem to tie themselves into a perfect knot? If you're curious about how to sew a Japanese Knot Bag, you're in"
+title: 'How to Sew a Japanese Knot Bag: Easy Steps for Stylish Crafting'
+description: Have you ever seen those elegant, simple bags that seem to tie themselves
+  into a perfect knot? If you're curious about how to sew a Japanese Knot Bag, you're
+  in
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-japanese-knot-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-japanese-knot-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever seen those elegant, simple bags that seem to tie themselves into a perfect knot? If you're curious about how to sew a Japanese Knot Bag, you're in the right place.**

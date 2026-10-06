@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Pre Rolls in a Checked Bag? Expert Travel Tips"
-description: "Traveling with pre-rolls can be tricky. You might be wondering if you can stash them in your checked bag without a hitch. The rules can be confusing and the las"
+title: Can You Bring Pre Rolls in a Checked Bag? Expert Travel Tips
+description: Traveling with pre-rolls can be tricky. You might be wondering if you
+  can stash them in your checked bag without a hitch. The rules can be confusing and
+  the las
 pubDate: 2026-04-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-pre-rolls-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-pre-rolls-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with pre-rolls can be tricky. You might be wondering if you can stash them in your checked bag without a hitch.**

@@ -1,10 +1,13 @@
 ---
-title: "How to Get Rid of Mold on Leather Bag: Easy & Effective Tips"
-description: "Mold on your beloved leather bag can feel like a nightmare. You've invested in a stylish accessory, only to find it marred by unsightly spores. Don’t worry—you'"
+title: 'How to Get Rid of Mold on Leather Bag: Easy & Effective Tips'
+description: Mold on your beloved leather bag can feel like a nightmare. You've invested
+  in a stylish accessory, only to find it marred by unsightly spores. Don’t worry—you'
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-rid-of-mold-on-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-rid-of-mold-on-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Mold on your beloved leather bag can feel like a nightmare. You've invested in a stylish accessory, only to find it marred by unsightly spores.**

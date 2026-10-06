@@ -1,10 +1,14 @@
 ---
-title: "Best Thin Laptop Backpack: Sleek, Lightweight, and Perfect for Travel"
-description: "Choosing the best thin laptop backpack can make your daily commute easier. Slim designs keep your laptop safe without adding bulk. A thin laptop backpack fits n"
+title: 'Best Thin Laptop Backpack: Sleek, Lightweight, and Perfect for Travel'
+description: Choosing the best thin laptop backpack can make your daily commute easier.
+  Slim designs keep your laptop safe without adding bulk. A thin laptop backpack fits
+  n
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-thin-laptop-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Specialty Laptop Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-thin-laptop-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best thin laptop backpack can make your daily commute easier. Slim designs keep your laptop safe without adding bulk.**

@@ -1,10 +1,14 @@
 ---
-title: "Is My Purse Considered a Carry On: Essential Travel Tips Revealed"
-description: "Ever found yourself standing at the airport check-in, clutching your purse, and wondering if it counts as a carry-on? You're not alone. Navigating airline bagga"
+title: 'Is My Purse Considered a Carry On: Essential Travel Tips Revealed'
+description: Ever found yourself standing at the airport check-in, clutching your
+  purse, and wondering if it counts as a carry-on? You're not alone. Navigating airline
+  bagga
 pubDate: 2026-04-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-my-purse-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-my-purse-considered-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself standing at the airport check-in, clutching your purse, and wondering if it counts as a carry-on? You're not alone.**

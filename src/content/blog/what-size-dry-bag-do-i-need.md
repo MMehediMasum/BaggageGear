@@ -1,10 +1,14 @@
 ---
-title: "What Size Dry Bag Do I Need: Ultimate Guide for Every Adventure"
-description: "Choosing the right size dry bag is crucial for your outdoor adventures. Whether you're kayaking, hiking, or hitting the beach, the last thing you want is to fin"
+title: 'What Size Dry Bag Do I Need: Ultimate Guide for Every Adventure'
+description: Choosing the right size dry bag is crucial for your outdoor adventures.
+  Whether you're kayaking, hiking, or hitting the beach, the last thing you want is
+  to fin
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-dry-bag-do-i-need&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-size-dry-bag-do-i-need&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the right size dry bag is crucial for your outdoor adventures. Whether you're kayaking, hiking, or hitting the beach, the last thing you want is to find your essentials damp and ruined.**

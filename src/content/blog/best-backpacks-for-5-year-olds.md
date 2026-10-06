@@ -1,10 +1,13 @@
 ---
-title: "Best Backpacks for 5 Year Olds: Top Picks for Style and Comfort"
-description: "Choosing the best backpacks for 5 year olds helps kids carry school supplies comfortably and safely. A good backpack fits well, feels light, and has useful feat"
+title: 'Best Backpacks for 5 Year Olds: Top Picks for Style and Comfort'
+description: Choosing the best backpacks for 5 year olds helps kids carry school supplies
+  comfortably and safely. A good backpack fits well, feels light, and has useful feat
 pubDate: 2026-05-25
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpacks-for-5-year-olds&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-backpacks-for-5-year-olds&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpacks for 5 year olds helps kids carry school supplies comfortably and safely. A good backpack fits well, feels light, and has useful features for young children.**

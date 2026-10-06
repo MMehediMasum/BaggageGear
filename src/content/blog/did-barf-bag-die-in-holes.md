@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Did Barf Bag Die in Holes: Shocking Truth Revealed!"
 description: "Have you ever found yourself deeply engrossed in a story, only to be left hanging with burning questions? If you're a fan of the book \"Holes\" by Louis Sachar, y"
 pubDate: 2026-03-04

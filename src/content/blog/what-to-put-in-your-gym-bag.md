@@ -1,10 +1,14 @@
 ---
-title: "What to Put in Your Gym Bag: Essential Items for Every Workout"
-description: "Picture this: You're heading to the gym, ready to crush your workout. But wait, have you ever found yourself rifling through your gym bag, only to realize you'v"
+title: 'What to Put in Your Gym Bag: Essential Items for Every Workout'
+description: 'Picture this: You''re heading to the gym, ready to crush your workout.
+  But wait, have you ever found yourself rifling through your gym bag, only to realize
+  you''v'
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-your-gym-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What To Pack In Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-your-gym-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Picture this: You're heading to the gym, ready to crush your workout. But wait, have you ever found yourself rifling through your gym bag, only to realize you've forgotten something crucial?**

@@ -1,10 +1,14 @@
 ---
-title: "Best Budget Carry on Luggage: Top Picks for Affordable Travel"
-description: "Choosing the best budget carry-on luggage saves money without sacrificing quality. Compact, durable, and lightweight bags make travel easier. Travelers want lug"
+title: 'Best Budget Carry on Luggage: Top Picks for Affordable Travel'
+description: Choosing the best budget carry-on luggage saves money without sacrificing
+  quality. Compact, durable, and lightweight bags make travel easier. Travelers want
+  lug
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best budget carry-on luggage saves money without sacrificing quality. Compact, durable, and lightweight bags make travel easier.**

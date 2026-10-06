@@ -1,10 +1,14 @@
 ---
-title: "Are Ll Bean Backpacks Waterproof: Ultimate Weather Protection Guide"
-description: "When choosing a backpack, durability and functionality are top priorities. You need a backpack that not only looks good but also stands up to the elements. Imag"
+title: 'Are Ll Bean Backpacks Waterproof: Ultimate Weather Protection Guide'
+description: When choosing a backpack, durability and functionality are top priorities.
+  You need a backpack that not only looks good but also stands up to the elements.
+  Imag
 pubDate: 2025-10-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-ll-bean-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-ll-bean-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **When choosing a backpack, durability and functionality are top priorities. You need a backpack that not only looks good but also stands up to the elements.**

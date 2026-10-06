@@ -1,10 +1,14 @@
 ---
-title: "How Much to Ship Luggage Fedex: Affordable Shipping Costs Explained"
-description: "Are you planning a trip and dreading the hassle of lugging heavy bags through busy airports? Imagine the convenience of arriving at your destination with your l"
+title: 'How Much to Ship Luggage Fedex: Affordable Shipping Costs Explained'
+description: Are you planning a trip and dreading the hassle of lugging heavy bags
+  through busy airports? Imagine the convenience of arriving at your destination with
+  your l
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-ship-luggage-fedex&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-ship-luggage-fedex&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and dreading the hassle of lugging heavy bags through busy airports? Imagine the convenience of arriving at your destination with your luggage already waiting for you.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack a Pocket Knife in a Checked Bag: Essential Travel Rules"
-description: "Are you planning a trip and wondering whether you can pack a pocket knife in your checked bag? You’re not alone. Many travelers find themselves puzzled by airli"
+title: 'Can You Pack a Pocket Knife in a Checked Bag: Essential Travel Rules'
+description: Are you planning a trip and wondering whether you can pack a pocket knife
+  in your checked bag? You’re not alone. Many travelers find themselves puzzled by
+  airli
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-a-pocket-knife-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-a-pocket-knife-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering whether you can pack a pocket knife in your checked bag? You’re not alone.**

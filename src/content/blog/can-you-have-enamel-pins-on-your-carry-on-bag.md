@@ -1,10 +1,14 @@
 ---
-title: "Can You Have Enamel Pins on Your Carry-On Bag: Travel Rules Explained"
-description: "Are you planning a trip and eager to showcase your unique style with your favorite enamel pins? You might be wondering if you can take these tiny treasures alon"
+title: 'Can You Have Enamel Pins on Your Carry-On Bag: Travel Rules Explained'
+description: Are you planning a trip and eager to showcase your unique style with
+  your favorite enamel pins? You might be wondering if you can take these tiny treasures
+  alon
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-have-enamel-pins-on-your-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Pins Patches And Keychains
+heroImage: https://tse1.mm.bing.net/th?q=can-you-have-enamel-pins-on-your-carry-on-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and eager to showcase your unique style with your favorite enamel pins? You might be wondering if you can take these tiny treasures along in your carry-on bag.**

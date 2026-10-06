@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Versace Bag: Ultimate Guide to Prices & Value"
-description: "Are you curious about how much a Versace bag might set you back? You're not alone. Versace is a name that resonates with luxury, style, and sophistication. Owni"
+title: 'How Much is a Versace Bag: Ultimate Guide to Prices & Value'
+description: Are you curious about how much a Versace bag might set you back? You're
+  not alone. Versace is a name that resonates with luxury, style, and sophistication.
+  Owni
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-versace-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Gucci Chanel Hermes Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-versace-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about how much a Versace bag might set you back? You're not alone.**

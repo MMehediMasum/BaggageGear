@@ -1,10 +1,14 @@
 ---
-title: "Does a Diaper Bag Count As a Personal Item? Travel Tips Revealed"
-description: "You're standing at the airport, juggling a baby in one arm and a diaper bag in the other. Suddenly, you wonder: \"Does a diaper bag count as a personal item?\" It"
+title: Does a Diaper Bag Count As a Personal Item? Travel Tips Revealed
+description: 'You''re standing at the airport, juggling a baby in one arm and a diaper
+  bag in the other. Suddenly, you wonder: "Does a diaper bag count as a personal item?"
+  It'
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-diaper-bag-count-as-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-a-diaper-bag-count-as-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're standing at the airport, juggling a baby in one arm and a diaper bag in the other. Suddenly, you wonder: "Does a diaper bag count as a personal item?"**

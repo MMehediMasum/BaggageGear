@@ -1,10 +1,14 @@
 ---
-title: "Can I Leave My Suitcase at Hotel: Ultimate Guide & Expert Tips"
-description: "Imagine this scenario: You’ve just arrived at your hotel, but there are still hours before check-in. Or maybe your flight leaves late at night, long after you’v"
+title: 'Can I Leave My Suitcase at Hotel: Ultimate Guide & Expert Tips'
+description: 'Imagine this scenario: You’ve just arrived at your hotel, but there
+  are still hours before check-in. Or maybe your flight leaves late at night, long
+  after you’v'
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-leave-my-suitcase-at-hotel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hotel Luggage Holding And Tipping
+heroImage: https://tse1.mm.bing.net/th?q=can-i-leave-my-suitcase-at-hotel&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this scenario: You’ve just arrived at your hotel, but there are still hours before check-in. Or maybe your flight leaves late at night, long after you’ve checked out.**

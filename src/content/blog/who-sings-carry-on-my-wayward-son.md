@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Who Sings Carry on My Wayward Son: Rock Legend Revealed!"
 description: "Have you ever found yourself humming that unforgettable tune, \"Carry on My Wayward Son,\" and wondered who the genius behind it is? You're not alone. This classi"
 pubDate: 2025-12-21

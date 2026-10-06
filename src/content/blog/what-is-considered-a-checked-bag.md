@@ -1,10 +1,14 @@
 ---
-title: "What is Considered a Checked Bag: Ultimate Guide for Travelers"
-description: "Have you ever stood in line at the airport, wondering if your suitcase qualifies as a checked bag? You're not alone. Understanding what counts as a checked bag "
+title: 'What is Considered a Checked Bag: Ultimate Guide for Travelers'
+description: 'Have you ever stood in line at the airport, wondering if your suitcase
+  qualifies as a checked bag? You''re not alone. Understanding what counts as a checked
+  bag '
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-considered-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=what-is-considered-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood in line at the airport, wondering if your suitcase qualifies as a checked bag? You're not alone.**

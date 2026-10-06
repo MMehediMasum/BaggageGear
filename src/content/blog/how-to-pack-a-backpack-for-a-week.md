@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Backpack for a Week: Ultimate Guide for Smart Travelers"
-description: "Are you gearing up for an exciting week-long adventure? Packing a backpack for a week can feel like solving a jigsaw puzzle, especially when you're trying to fi"
+title: 'How to Pack a Backpack for a Week: Ultimate Guide for Smart Travelers'
+description: Are you gearing up for an exciting week-long adventure? Packing a backpack
+  for a week can feel like solving a jigsaw puzzle, especially when you're trying
+  to fi
 pubDate: 2025-11-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-backpack-for-a-week&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-backpack-for-a-week&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you gearing up for an exciting week-long adventure? Packing a backpack for a week can feel like solving a jigsaw puzzle, especially when you're trying to fit all your essentials into a limited space.**

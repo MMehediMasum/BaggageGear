@@ -1,10 +1,14 @@
 ---
-title: "Does Moody Center Have a Clear Bag Policy: What You Need to Know"
-description: "Are you planning to attend an event at the Moody Center and wondering about their bag policy? You’re not alone. With many venues adopting stricter security meas"
+title: 'Does Moody Center Have a Clear Bag Policy: What You Need to Know'
+description: Are you planning to attend an event at the Moody Center and wondering
+  about their bag policy? You’re not alone. With many venues adopting stricter security
+  meas
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-moody-center-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-moody-center-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to attend an event at the Moody Center and wondering about their bag policy? You’re not alone.**

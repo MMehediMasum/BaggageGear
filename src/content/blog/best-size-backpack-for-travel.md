@@ -1,10 +1,14 @@
 ---
-title: "Best Size Backpack for Travel: Top Carry-On Backpacks with USB Ports"
-description: "Choosing the best size backpack for travel makes your trip easier and more comfortable. The right backpack fits your needs and meets airline rules. Travel backp"
+title: 'Best Size Backpack for Travel: Top Carry-On Backpacks with USB Ports'
+description: Choosing the best size backpack for travel makes your trip easier and
+  more comfortable. The right backpack fits your needs and meets airline rules. Travel
+  backp
 pubDate: 2026-06-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-size-backpack-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best size backpack for travel makes your trip easier and more comfortable. The right backpack fits your needs and meets airline rules.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Noise Canceling Ear Plugs for Sleeping: Ultimate Peaceful Night Solution"
-description: "Finding the best noise canceling ear plugs for sleeping can improve your rest significantly. These ear plugs block loud sounds and help you sleep peacefully. Sl"
+title: 'Best Noise Canceling Ear Plugs for Sleeping: Ultimate Peaceful Night Solution'
+description: Finding the best noise canceling ear plugs for sleeping can improve your
+  rest significantly. These ear plugs block loud sounds and help you sleep peacefully.
+  Sl
 pubDate: 2026-05-27
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-noise-canceling-ear-plugs-for-sleeping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ear Plugs For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-noise-canceling-ear-plugs-for-sleeping&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best noise canceling ear plugs for sleeping can improve your rest significantly. These ear plugs block loud sounds and help you sleep peacefully.**

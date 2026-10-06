@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring an Aerosol Can in My Carry On? Essential Rules!"
-description: "Flying can be stressful, especially when you're trying to pack your carry-on. One question that might pop into your mind is, \"Can I bring an aerosol can in my c"
+title: Can I Bring an Aerosol Can in My Carry On? Essential Rules!
+description: Flying can be stressful, especially when you're trying to pack your carry-on.
+  One question that might pop into your mind is, "Can I bring an aerosol can in my
+  c
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-an-aerosol-can-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-an-aerosol-can-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Flying can be stressful, especially when you're trying to pack your carry-on. One question that might pop into your mind is, "Can I bring an aerosol can in my carry-on?"**

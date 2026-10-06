@@ -1,10 +1,14 @@
 ---
-title: "How Far Can Someone Backpack in a Month: Ultimate Distance Guide"
-description: "Imagine the thrill of setting off on a month-long backpacking adventure. You, your backpack, and the open trail ahead—how far could you really go in just 30 day"
+title: 'How Far Can Someone Backpack in a Month: Ultimate Distance Guide'
+description: Imagine the thrill of setting off on a month-long backpacking adventure.
+  You, your backpack, and the open trail ahead—how far could you really go in just
+  30 day
 pubDate: 2025-11-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-far-can-someone-backpack-in-a-month&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Travel Planning
+heroImage: https://tse1.mm.bing.net/th?q=how-far-can-someone-backpack-in-a-month&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine the thrill of setting off on a month-long backpacking adventure. You, your backpack, and the open trail ahead—how far could you really go in just 30 days?**

@@ -1,10 +1,14 @@
 ---
-title: "What is a Normal Size Backpack for School: Ultimate Size Guide"
-description: "Choosing the right backpack for school can be more challenging than it seems. You want something that fits your style but also meets your needs for space and co"
+title: 'What is a Normal Size Backpack for School: Ultimate Size Guide'
+description: Choosing the right backpack for school can be more challenging than it
+  seems. You want something that fits your style but also meets your needs for space
+  and co
 pubDate: 2025-10-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-normal-size-backpack-for-school&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-normal-size-backpack-for-school&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the right backpack for school can be more challenging than it seems. You want something that fits your style but also meets your needs for space and comfort.**

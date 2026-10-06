@@ -1,10 +1,14 @@
 ---
-title: "Best Power Adapter for Europe: Essential Travel Companion for Your Devices"
-description: "Finding the best power adapter for Europe ensures your devices stay charged and ready. Different countries use varied plug types and voltages. Traveling across "
+title: 'Best Power Adapter for Europe: Essential Travel Companion for Your Devices'
+description: 'Finding the best power adapter for Europe ensures your devices stay
+  charged and ready. Different countries use varied plug types and voltages. Traveling
+  across '
 pubDate: 2026-05-11
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-adapter-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-power-adapter-for-europe&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best power adapter for Europe ensures your devices stay charged and ready. Different countries use varied plug types and voltages.**

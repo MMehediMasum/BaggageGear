@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Backpacking: Top Durable and Waterproof Rucksacks Reviewed"
-description: "Choosing the best backpack for backpacking makes your trip easier and more comfortable. A good backpack fits well and holds all your gear securely. Backpacking "
+title: 'Best Backpack for Backpacking: Top Durable and Waterproof Rucksacks Reviewed'
+description: 'Choosing the best backpack for backpacking makes your trip easier and
+  more comfortable. A good backpack fits well and holds all your gear securely. Backpacking '
 pubDate: 2026-07-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for backpacking makes your trip easier and more comfortable. A good backpack fits well and holds all your gear securely.**

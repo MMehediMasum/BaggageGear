@@ -1,10 +1,14 @@
 ---
-title: "What Size is Carry on Luggage for Southwest: Ultimate Guide 2025"
-description: "Planning to fly with Southwest Airlines? One of the first things you need to consider is your carry-on luggage size. Getting it right can save you from unnecess"
+title: 'What Size is Carry on Luggage for Southwest: Ultimate Guide 2025'
+description: Planning to fly with Southwest Airlines? One of the first things you
+  need to consider is your carry-on luggage size. Getting it right can save you from
+  unnecess
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-carry-on-luggage-for-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-carry-on-luggage-for-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning to fly with Southwest Airlines? One of the first things you need to consider is your carry-on luggage size.**

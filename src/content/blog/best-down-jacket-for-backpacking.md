@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Down Jacket for Backpacking: Top Packable Picks for Every Adventurer"
 description: "Choosing the best down jacket for backpacking means balancing warmth, weight, and packability. A good jacket keeps you warm without adding bulk to your gear. Ba"
 pubDate: 2026-06-17

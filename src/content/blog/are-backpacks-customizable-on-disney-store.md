@@ -1,10 +1,14 @@
 ---
-title: "Are Backpacks Customizable on Disney Store: Discover Options"
-description: "Are you dreaming of a backpack that shows off your unique Disney style? Imagine carrying your favorite characters with a personal twist that no one else has. Bu"
+title: 'Are Backpacks Customizable on Disney Store: Discover Options'
+description: Are you dreaming of a backpack that shows off your unique Disney style?
+  Imagine carrying your favorite characters with a personal twist that no one else
+  has. Bu
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-backpacks-customizable-on-disney-store&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=are-backpacks-customizable-on-disney-store&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you dreaming of a backpack that shows off your unique Disney style? Imagine carrying your favorite characters with a personal twist that no one else has.**

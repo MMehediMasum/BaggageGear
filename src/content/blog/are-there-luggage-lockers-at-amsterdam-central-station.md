@@ -1,10 +1,14 @@
 ---
-title: "Are There Luggage Lockers at Amsterdam Central Station: Ultimate Guide"
-description: "Planning a trip to Amsterdam? One of the first things you might wonder is, \"Are there luggage lockers at Amsterdam Central Station?\" You've arrived at the right"
+title: 'Are There Luggage Lockers at Amsterdam Central Station: Ultimate Guide'
+description: Planning a trip to Amsterdam? One of the first things you might wonder
+  is, "Are there luggage lockers at Amsterdam Central Station?" You've arrived at
+  the right
 pubDate: 2026-04-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-there-luggage-lockers-at-amsterdam-central-station&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=are-there-luggage-lockers-at-amsterdam-central-station&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to Amsterdam? One of the first things you might wonder is, "Are there luggage lockers at Amsterdam Central Station?"**

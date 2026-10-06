@@ -1,10 +1,14 @@
 ---
-title: "Does Deodorant Have to Go in Liquids Bag: Essential TSA Rules Explained"
-description: "Traveling can be a maze of regulations, especially when it comes to packing your carry-on. One common question you might find yourself asking is: does deodorant"
+title: 'Does Deodorant Have to Go in Liquids Bag: Essential TSA Rules Explained'
+description: 'Traveling can be a maze of regulations, especially when it comes to
+  packing your carry-on. One common question you might find yourself asking is: does
+  deodorant'
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-deodorant-have-to-go-in-liquids-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-deodorant-have-to-go-in-liquids-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a maze of regulations, especially when it comes to packing your carry-on. One common question you might find yourself asking is: does deodorant have to go in your liquids bag?**

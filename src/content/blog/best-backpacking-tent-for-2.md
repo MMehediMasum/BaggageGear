@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Tent for 2: Lightweight, Waterproof, Easy Setup Choices"
 description: "Choosing the best backpacking tent for 2 people makes your outdoor trips more comfortable and safe. A good tent protects you from weather and offers enough spac"
 pubDate: 2025-11-20

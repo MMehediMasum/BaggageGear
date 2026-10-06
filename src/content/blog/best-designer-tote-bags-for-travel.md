@@ -1,10 +1,14 @@
 ---
-title: "Best Designer Tote Bags for Travel: Stylish, Spacious, and Durable Picks"
-description: "Designer tote bags blend style and function perfectly for travel. They hold essentials while adding a chic touch to any outfit. Travel needs a bag that fits all"
+title: 'Best Designer Tote Bags for Travel: Stylish, Spacious, and Durable Picks'
+description: Designer tote bags blend style and function perfectly for travel. They
+  hold essentials while adding a chic touch to any outfit. Travel needs a bag that
+  fits all
 pubDate: 2026-06-01
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-designer-tote-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Totes And Crossbody Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-designer-tote-bags-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Designer tote bags blend style and function perfectly for travel. They hold essentials while adding a chic touch to any outfit.**

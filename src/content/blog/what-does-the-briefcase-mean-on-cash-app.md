@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does the Briefcase Mean on Cash App: Unlock Hidden Features"
 description: "Have you ever noticed the mysterious briefcase icon on your Cash App and wondered what it means? You're not alone. This seemingly simple symbol holds the key to"
 pubDate: 2025-09-06

@@ -1,10 +1,14 @@
 ---
-title: "Is Travelhouse Luggage a Good Brand: Honest Review & Buyer’s Guide"
-description: "Choosing the right luggage can make or break your travel experience. Have you ever found yourself at the airport, wrestling with a broken zipper or a missing wh"
+title: 'Is Travelhouse Luggage a Good Brand: Honest Review & Buyer’s Guide'
+description: Choosing the right luggage can make or break your travel experience.
+  Have you ever found yourself at the airport, wrestling with a broken zipper or a
+  missing wh
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-travelhouse-luggage-a-good-brand&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-travelhouse-luggage-a-good-brand&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage can make or break your travel experience. Have you ever found yourself at the airport, wrestling with a broken zipper or a missing wheel?**

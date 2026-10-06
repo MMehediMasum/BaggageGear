@@ -1,10 +1,14 @@
 ---
-title: "Can You Check an Empty Suitcase: Essential Travel Security Tips"
-description: "Have you ever wondered if you can check an empty suitcase when traveling? It might seem like a simple question, but the answer can be surprisingly complex. Whet"
+title: 'Can You Check an Empty Suitcase: Essential Travel Security Tips'
+description: Have you ever wondered if you can check an empty suitcase when traveling?
+  It might seem like a simple question, but the answer can be surprisingly complex.
+  Whet
 pubDate: 2025-09-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-an-empty-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-an-empty-suitcase&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever wondered if you can check an empty suitcase when traveling? It might seem like a simple question, but the answer can be surprisingly complex.**

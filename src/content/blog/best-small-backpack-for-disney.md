@@ -1,10 +1,14 @@
 ---
-title: "Best Small Backpack for Disney Fans: Stylish, Durable, and Kid-Friendly Choices"
-description: "Choosing the best small backpack for Disney trips helps keep your hands free and essentials organized. A lightweight, durable backpack suits busy days at the pa"
+title: 'Best Small Backpack for Disney Fans: Stylish, Durable, and Kid-Friendly Choices'
+description: Choosing the best small backpack for Disney trips helps keep your hands
+  free and essentials organized. A lightweight, durable backpack suits busy days at
+  the pa
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-backpack-for-disney&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-small-backpack-for-disney&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best small backpack for Disney trips helps keep your hands free and essentials organized. A lightweight, durable backpack suits busy days at the park perfectly.**

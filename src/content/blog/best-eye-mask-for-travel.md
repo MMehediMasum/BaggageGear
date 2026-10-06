@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Mask for Travel: Top Picks for Ultimate Comfort and Rest"
-description: "Finding the best eye mask for travel helps you rest better on planes, trains, or in hotels. It blocks light and reduces pressure for a peaceful sleep anywhere. "
+title: 'Best Eye Mask for Travel: Top Picks for Ultimate Comfort and Rest'
+description: 'Finding the best eye mask for travel helps you rest better on planes,
+  trains, or in hotels. It blocks light and reduces pressure for a peaceful sleep
+  anywhere. '
 pubDate: 2026-05-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-mask-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-mask-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best eye mask for travel helps you rest better on planes, trains, or in hotels. It blocks light and reduces pressure for a peaceful sleep anywhere.**

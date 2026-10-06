@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Bag Worms Look Like: Identifying Signs & Expert Tips"
 description: "Have you ever walked through your garden or backyard and noticed something peculiar hanging from the branches of your trees? If you have, you might have stumble"
 pubDate: 2026-04-25

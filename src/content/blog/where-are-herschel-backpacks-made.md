@@ -1,10 +1,14 @@
 ---
-title: "Where are Herschel Backpacks Made: Unveiling the Truth"
-description: "Have you ever wondered where your favorite Herschel backpacks are made? You’re not alone. Herschel backpacks have become a staple for many, thanks to their styl"
+title: 'Where are Herschel Backpacks Made: Unveiling the Truth'
+description: Have you ever wondered where your favorite Herschel backpacks are made?
+  You’re not alone. Herschel backpacks have become a staple for many, thanks to their
+  styl
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-herschel-backpacks-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-herschel-backpacks-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered where your favorite Herschel backpacks are made? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How Strict is United on Carry on Size: Ultimate Guide to Avoid Fines"
-description: "Are you planning a trip and wondering how strict United Airlines is with their carry-on size policy? You’re not alone. Many travelers find themselves in a packi"
+title: 'How Strict is United on Carry on Size: Ultimate Guide to Avoid Fines'
+description: Are you planning a trip and wondering how strict United Airlines is with
+  their carry-on size policy? You’re not alone. Many travelers find themselves in
+  a packi
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-united-on-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-united-on-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering how strict United Airlines is with their carry-on size policy? You’re not alone.**

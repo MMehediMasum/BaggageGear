@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Dumpster Bag: Affordable Prices Revealed"
 description: "Are you staring at a pile of clutter or debris, unsure of how to tackle it? A dumpster bag might just be the perfect solution for you. But before you dive in, y"
 pubDate: 2026-04-13

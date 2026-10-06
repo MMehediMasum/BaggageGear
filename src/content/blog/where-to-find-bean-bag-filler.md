@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where to Find Bean Bag Filler: Ultimate Guide for Best Buys"
 description: "Are you tired of your once-fluffy bean bag chair looking sad and deflated? You're not alone. Many bean bag owners face the same dilemma and wonder where to find"
 pubDate: 2026-04-16

@@ -1,10 +1,14 @@
 ---
-title: "Can I Take Syringes in My Carry On: Essential Travel Tips"
-description: "Traveling can be stressful, especially when you're unsure about what you can bring on the plane. If you rely on syringes for medical reasons, you might be wonde"
+title: 'Can I Take Syringes in My Carry On: Essential Travel Tips'
+description: Traveling can be stressful, especially when you're unsure about what
+  you can bring on the plane. If you rely on syringes for medical reasons, you might
+  be wonde
 pubDate: 2026-05-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-syringes-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-syringes-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful, especially when you're unsure about what you can bring on the plane. If you rely on syringes for medical reasons, you might be wondering, "Can I take syringes in my carry-on?"**

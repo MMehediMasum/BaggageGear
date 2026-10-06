@@ -1,10 +1,14 @@
 ---
-title: "Best Portable Door Lock for Travel: Secure Your Stay Anywhere, Anytime"
-description: "Traveling means staying safe wherever you go. Portable door locks add extra security to hotel rooms, apartments, and homes. These small devices fit easily in yo"
+title: 'Best Portable Door Lock for Travel: Secure Your Stay Anywhere, Anytime'
+description: Traveling means staying safe wherever you go. Portable door locks add
+  extra security to hotel rooms, apartments, and homes. These small devices fit easily
+  in yo
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-portable-door-lock-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Locks Tags And Scales
+heroImage: https://tse1.mm.bing.net/th?q=best-portable-door-lock-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling means staying safe wherever you go. Portable door locks add extra security to hotel rooms, apartments, and homes.**

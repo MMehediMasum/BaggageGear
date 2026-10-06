@@ -1,10 +1,14 @@
 ---
-title: "Is a Backpack Considered a Personal Item on Frontier?"
-description: "Are you planning to fly with Frontier Airlines and wondering if your backpack counts as a personal item? Knowing the answer can save you from unexpected fees an"
+title: Is a Backpack Considered a Personal Item on Frontier?
+description: Are you planning to fly with Frontier Airlines and wondering if your
+  backpack counts as a personal item? Knowing the answer can save you from unexpected
+  fees an
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-considered-a-personal-item-on-frontier&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-considered-a-personal-item-on-frontier&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Frontier Airlines and wondering if your backpack counts as a personal item? Knowing the answer can save you from unexpected fees and hassle at the airport.**

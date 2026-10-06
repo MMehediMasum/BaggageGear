@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Bentgo Lunch Bag: Easy Tips for a Fresh Clean"
-description: "Are you tired of finding leftover crumbs and mysterious stains in your Bentgo lunch bag? If you’re nodding along, you’re not alone. Keeping your lunch bag clean"
+title: 'How to Wash Bentgo Lunch Bag: Easy Tips for a Fresh Clean'
+description: Are you tired of finding leftover crumbs and mysterious stains in your
+  Bentgo lunch bag? If you’re nodding along, you’re not alone. Keeping your lunch
+  bag clean
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-bentgo-lunch-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-bentgo-lunch-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of finding leftover crumbs and mysterious stains in your Bentgo lunch bag? If you’re nodding along, you’re not alone.**

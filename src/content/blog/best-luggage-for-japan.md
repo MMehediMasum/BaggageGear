@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Japan: Essential Travel Gear for Seamless Adventures"
-description: "Choosing the best luggage for Japan can make your trip easier and more enjoyable. Durable, lightweight, and secure bags suit Japan’s busy transport and weather."
+title: 'Best Luggage for Japan: Essential Travel Gear for Seamless Adventures'
+description: Choosing the best luggage for Japan can make your trip easier and more
+  enjoyable. Durable, lightweight, and secure bags suit Japan’s busy transport and
+  weather.
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-japan&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Safari And Specialty Trip Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-japan&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for Japan can make your trip easier and more enjoyable. Durable, lightweight, and secure bags suit Japan’s busy transport and weather.**

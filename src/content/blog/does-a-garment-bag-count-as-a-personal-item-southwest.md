@@ -1,10 +1,14 @@
 ---
-title: "Does a Garment Bag Count As a Personal Item Southwest? Ultimate Guide"
-description: "Planning a trip with Southwest Airlines and wondering if your garment bag will count as a personal item? You're not alone. Navigating airline policies can be tr"
+title: Does a Garment Bag Count As a Personal Item Southwest? Ultimate Guide
+description: Planning a trip with Southwest Airlines and wondering if your garment
+  bag will count as a personal item? You're not alone. Navigating airline policies
+  can be tr
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-garment-bag-count-as-a-personal-item-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=does-a-garment-bag-count-as-a-personal-item-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Southwest Airlines and wondering if your garment bag will count as a personal item? You're not alone.**

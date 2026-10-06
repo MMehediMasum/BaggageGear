@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy a Backpack near Me: Top Local Stores Revealed"
-description: "Are you on the hunt for the perfect backpack, but not sure where to start your search? Finding the right backpack that fits your style, needs, and budget can be"
+title: 'Where Can I Buy a Backpack near Me: Top Local Stores Revealed'
+description: Are you on the hunt for the perfect backpack, but not sure where to start
+  your search? Finding the right backpack that fits your style, needs, and budget
+  can be
 pubDate: 2025-10-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-a-backpack-near-me&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-a-backpack-near-me&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect backpack, but not sure where to start your search? Finding the right backpack that fits your style, needs, and budget can be a daunting task.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Lock on Your Luggage: Essential Safety Tips"
-description: "Imagine you're getting ready for a much-anticipated trip. You've packed your bags, checked your itinerary, and are almost ready to go. But then a question pops "
+title: 'Can You Put a Lock on Your Luggage: Essential Safety Tips'
+description: 'Imagine you''re getting ready for a much-anticipated trip. You''ve packed
+  your bags, checked your itinerary, and are almost ready to go. But then a question
+  pops '
 pubDate: 2026-03-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-lock-on-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-lock-on-your-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're getting ready for a much-anticipated trip. You've packed your bags, checked your itinerary, and are almost ready to go.**

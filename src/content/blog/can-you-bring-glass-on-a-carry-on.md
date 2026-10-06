@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Glass on a Carry On: Essential Travel Tips Revealed"
-description: "Are you planning your next trip and wondering if you can bring glass items in your carry-on luggage? You're not alone. Many travelers face the same dilemma, try"
+title: 'Can You Bring Glass on a Carry On: Essential Travel Tips Revealed'
+description: Are you planning your next trip and wondering if you can bring glass
+  items in your carry-on luggage? You're not alone. Many travelers face the same dilemma,
+  try
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-glass-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-glass-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering if you can bring glass items in your carry-on luggage? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Taser in a Checked Bag: Essential Travel Rules Explained"
-description: "Traveling can be a whirlwind of excitement and anxiety, especially when it comes to packing. You might wonder about the rules surrounding certain items, like a "
+title: 'Can I Bring a Taser in a Checked Bag: Essential Travel Rules Explained'
+description: 'Traveling can be a whirlwind of excitement and anxiety, especially when
+  it comes to packing. You might wonder about the rules surrounding certain items,
+  like a '
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-taser-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-taser-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be a whirlwind of excitement and anxiety, especially when it comes to packing. You might wonder about the rules surrounding certain items, like a taser, and whether you can bring it in your checked bag.**

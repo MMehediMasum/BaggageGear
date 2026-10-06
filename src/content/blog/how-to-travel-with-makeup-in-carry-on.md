@@ -1,10 +1,13 @@
 ---
-title: "How to Travel With Makeup in Carry On: Ultimate Packing Hacks"
-description: "Do you love traveling but dread the thought of packing your makeup? You're not alone. Many travelers face the challenge of fitting their favorite beauty product"
+title: 'How to Travel With Makeup in Carry On: Ultimate Packing Hacks'
+description: Do you love traveling but dread the thought of packing your makeup? You're
+  not alone. Many travelers face the challenge of fitting their favorite beauty product
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-travel-with-makeup-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=how-to-travel-with-makeup-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Do you love traveling but dread the thought of packing your makeup? You're not alone.**

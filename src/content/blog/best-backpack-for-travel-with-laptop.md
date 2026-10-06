@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Travel With Laptop: Top Durable USB Charging Picks"
-description: "Finding the best backpack for travel with a laptop makes trips easier and safer. A good backpack protects your device and holds all your essentials. Choosing th"
+title: 'Best Backpack for Travel With Laptop: Top Durable USB Charging Picks'
+description: Finding the best backpack for travel with a laptop makes trips easier
+  and safer. A good backpack protects your device and holds all your essentials. Choosing
+  th
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-travel-with-laptop&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptop Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-travel-with-laptop&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Finding the best backpack for travel with a laptop makes trips easier and safer. A good backpack protects your device and holds all your essentials.**

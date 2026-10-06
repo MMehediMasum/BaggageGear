@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Business Travel: Top Durable, Stylish Picks"
-description: "Choosing the best carry-on luggage for business travel saves time and stress during trips. The right bag fits airline rules and holds your essentials securely. "
+title: 'Best Carry On Luggage for Business Travel: Top Durable, Stylish Picks'
+description: 'Choosing the best carry-on luggage for business travel saves time and
+  stress during trips. The right bag fits airline rules and holds your essentials
+  securely. '
 pubDate: 2026-08-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-business-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Business Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-business-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for business travel saves time and stress during trips. The right bag fits airline rules and holds your essentials securely.**

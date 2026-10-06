@@ -1,10 +1,14 @@
 ---
-title: "Where is Matador Backpack Made: Uncover the True Origin Today"
-description: "Have you ever wondered about the origins of the gear you trust for your adventures? If you're eyeing a Matador backpack, you might be curious about where it's m"
+title: 'Where is Matador Backpack Made: Uncover the True Origin Today'
+description: Have you ever wondered about the origins of the gear you trust for your
+  adventures? If you're eyeing a Matador backpack, you might be curious about where
+  it's m
 pubDate: 2025-10-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-matador-backpack-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-matador-backpack-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered about the origins of the gear you trust for your adventures? If you're eyeing a Matador backpack, you might be curious about where it's made.**

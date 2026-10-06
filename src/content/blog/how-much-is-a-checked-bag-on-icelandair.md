@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Icelandair: Ultimate Cost Guide 2025"
-description: "Planning a trip with Icelandair? If you're curious about how much it costs to check a bag, you're not alone. Baggage fees can be confusing and can add unexpecte"
+title: 'How Much is a Checked Bag on Icelandair: Ultimate Cost Guide 2025'
+description: Planning a trip with Icelandair? If you're curious about how much it
+  costs to check a bag, you're not alone. Baggage fees can be confusing and can add
+  unexpecte
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-icelandair&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-icelandair&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Icelandair? If you're curious about how much it costs to check a bag, you're not alone.**

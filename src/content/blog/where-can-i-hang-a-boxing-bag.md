@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where Can I Hang a Boxing Bag: Ultimate Spots for Perfect Setup"
 description: "Are you itching to throw some punches and get fit with a boxing bag, but wondering where to hang it? You're in the right place. Finding the perfect spot for you"
 pubDate: 2025-09-26

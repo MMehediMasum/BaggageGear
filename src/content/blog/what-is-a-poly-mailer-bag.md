@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Poly Mailer Bag: Ultimate Guide to Secure Shipping"
 description: "Have you ever wondered what a poly mailer bag is and why so many businesses use it to ship their products? If you’re looking for a simple, cost-effective way to"
 pubDate: 2025-08-28

@@ -1,10 +1,14 @@
 ---
-title: "Is Perfume Allowed in Carry On: Essential Travel Rules Revealed"
-description: "Are you packing for your next trip and wondering if you can bring your favorite perfume in your carry-on? You’re not alone. Many travelers face this dilemma, tr"
+title: 'Is Perfume Allowed in Carry On: Essential Travel Rules Revealed'
+description: Are you packing for your next trip and wondering if you can bring your
+  favorite perfume in your carry-on? You’re not alone. Many travelers face this dilemma,
+  tr
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-perfume-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-perfume-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your next trip and wondering if you can bring your favorite perfume in your carry-on? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Do Away Suitcases Ever Go on Sale: Unmissable Deals Revealed!"
-description: "Have you ever found yourself dreaming of owning a stylish Away suitcase but hesitated because of the price tag? You're not alone. Many travelers and fashion ent"
+title: 'Do Away Suitcases Ever Go on Sale: Unmissable Deals Revealed!'
+description: Have you ever found yourself dreaming of owning a stylish Away suitcase
+  but hesitated because of the price tag? You're not alone. Many travelers and fashion
+  ent
 pubDate: 2025-10-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-away-suitcases-ever-go-on-sale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=do-away-suitcases-ever-go-on-sale&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself dreaming of owning a stylish Away suitcase but hesitated because of the price tag? You're not alone.**

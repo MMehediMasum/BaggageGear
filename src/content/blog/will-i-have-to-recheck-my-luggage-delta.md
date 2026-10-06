@@ -1,10 +1,14 @@
 ---
-title: "Will I Have to Recheck My Luggage Delta: Essential Travel Tips"
-description: "Picture this: you're about to embark on your long-awaited trip, and the excitement is palpable. You've packed your bags, checked your itinerary, and are ready t"
+title: 'Will I Have to Recheck My Luggage Delta: Essential Travel Tips'
+description: 'Picture this: you''re about to embark on your long-awaited trip, and
+  the excitement is palpable. You''ve packed your bags, checked your itinerary, and
+  are ready t'
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-i-have-to-recheck-my-luggage-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=will-i-have-to-recheck-my-luggage-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: you're about to embark on your long-awaited trip, and the excitement is palpable. You've packed your bags, checked your itinerary, and are ready to set off.**

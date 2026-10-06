@@ -1,10 +1,14 @@
 ---
-title: "Best Packing Cubes for Families: Organize Your Travel with Ease"
-description: "Packing cubes help families stay organized during trips. They save space and make packing and unpacking easier. Traveling with family means managing many clothe"
+title: 'Best Packing Cubes for Families: Organize Your Travel with Ease'
+description: Packing cubes help families stay organized during trips. They save space
+  and make packing and unpacking easier. Traveling with family means managing many
+  clothe
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packing-cubes-for-families&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Cubes For Carry On
+heroImage: https://tse1.mm.bing.net/th?q=best-packing-cubes-for-families&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing cubes help families stay organized during trips. They save space and make packing and unpacking easier.**

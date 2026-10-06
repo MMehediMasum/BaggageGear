@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Full Size Products in a Checked Bag? Expert Tips!"
-description: "Are you planning your next big adventure and wondering what you can pack in your checked bag? The thought of airport security rules can be daunting, especially "
+title: Can You Put Full Size Products in a Checked Bag? Expert Tips!
+description: 'Are you planning your next big adventure and wondering what you can
+  pack in your checked bag? The thought of airport security rules can be daunting,
+  especially '
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-full-size-products-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-full-size-products-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure and wondering what you can pack in your checked bag? The thought of airport security rules can be daunting, especially when it comes to packing your favorite full-size products.**

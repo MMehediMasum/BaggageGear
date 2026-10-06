@@ -1,10 +1,14 @@
 ---
-title: "How to Weigh My Luggage: Easy Tips for Stress-Free Travel"
-description: "Are you feeling the pre-travel jitters about whether your luggage meets the weight restrictions? You’re not alone. Overweight baggage can lead to unexpected fee"
+title: 'How to Weigh My Luggage: Easy Tips for Stress-Free Travel'
+description: Are you feeling the pre-travel jitters about whether your luggage meets
+  the weight restrictions? You’re not alone. Overweight baggage can lead to unexpected
+  fee
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-weigh-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-weigh-my-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you feeling the pre-travel jitters about whether your luggage meets the weight restrictions? You’re not alone.**

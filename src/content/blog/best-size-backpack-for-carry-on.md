@@ -1,10 +1,14 @@
 ---
-title: "Best Size Backpack for Carry On: Top TSA-Approved Travel Backpacks Reviewed"
-description: "Choosing the best size backpack for carry-on travel helps you avoid extra fees and airport hassles. Airlines have strict size limits for carry-on bags, so packi"
+title: 'Best Size Backpack for Carry On: Top TSA-Approved Travel Backpacks Reviewed'
+description: Choosing the best size backpack for carry-on travel helps you avoid extra
+  fees and airport hassles. Airlines have strict size limits for carry-on bags, so
+  packi
 pubDate: 2026-08-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-backpack-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-size-backpack-for-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best size backpack for carry-on travel helps you avoid extra fees and airport hassles. Airlines have strict size limits for carry-on bags, so packing smart is key.**

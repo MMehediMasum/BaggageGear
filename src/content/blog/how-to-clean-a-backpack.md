@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Backpack: Expert Tips & Tricks"
-description: "Your backpack carries your essentials every day, but when was the last time you gave it a good clean? Dirt, stains, and odors can build up without you even noti"
+title: 'How to Clean a Backpack: Expert Tips & Tricks'
+description: Your backpack carries your essentials every day, but when was the last
+  time you gave it a good clean? Dirt, stains, and odors can build up without you
+  even noti
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning A Backpack By Hand
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your backpack carries your essentials every day, but when was the last time you gave it a good clean? Dirt, stains, and odors can build up without you even noticing.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Thailand: Top Compact & Safe Power Solutions"
-description: "Finding the best travel adapter for Thailand ensures your devices stay charged and ready. Thailand uses Type O plugs, so having the right adapter is crucial. Tr"
+title: 'Best Travel Adapter for Thailand: Top Compact & Safe Power Solutions'
+description: Finding the best travel adapter for Thailand ensures your devices stay
+  charged and ready. Thailand uses Type O plugs, so having the right adapter is crucial.
+  Tr
 pubDate: 2026-05-28
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-thailand&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-thailand&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Thailand ensures your devices stay charged and ready. Thailand uses Type O plugs, so having the right adapter is crucial.**

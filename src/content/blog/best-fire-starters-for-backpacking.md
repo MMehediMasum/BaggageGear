@@ -1,10 +1,14 @@
 ---
-title: "Best Fire Starters for Backpacking: Ultimate Guide to Reliable Ignition"
-description: "Starting a fire quickly and safely is essential for backpacking. Choosing the best fire starter can make your outdoor experience easier and safer. Backpacking r"
+title: 'Best Fire Starters for Backpacking: Ultimate Guide to Reliable Ignition'
+description: Starting a fire quickly and safely is essential for backpacking. Choosing
+  the best fire starter can make your outdoor experience easier and safer. Backpacking
+  r
 pubDate: 2026-06-16
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-fire-starters-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks And Back Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-fire-starters-for-backpacking&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Starting a fire quickly and safely is essential for backpacking. Choosing the best fire starter can make your outdoor experience easier and safer.**

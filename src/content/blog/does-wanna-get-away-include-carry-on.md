@@ -1,10 +1,14 @@
 ---
-title: "Does Wanna Get Away Include Carry On: Essential Travel Facts Revealed"
-description: "Are you planning your next trip and wondering if you can pack everything in a carry-on? If you're considering Southwest Airlines' Wanna Get Away fare, you might"
+title: 'Does Wanna Get Away Include Carry On: Essential Travel Facts Revealed'
+description: Are you planning your next trip and wondering if you can pack everything
+  in a carry-on? If you're considering Southwest Airlines' Wanna Get Away fare, you
+  might
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-wanna-get-away-include-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-wanna-get-away-include-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering if you can pack everything in a carry-on? If you're considering Southwest Airlines' Wanna Get Away fare, you might have questions about what it really includes.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Picnic Backpack for 2 with Cooler, Blanket, and Cutlery Set"
-description: "Planning a cozy outdoor meal? The right picnic backpack can make all the difference for two-person outings. Picnics offer a delightful escape into nature. Havin"
+title: Best Picnic Backpack for 2 with Cooler, Blanket, and Cutlery Set
+description: Planning a cozy outdoor meal? The right picnic backpack can make all
+  the difference for two-person outings. Picnics offer a delightful escape into nature.
+  Havin
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-picnic-backpack-for-2&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-picnic-backpack-for-2&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Planning a cozy outdoor meal? The right picnic backpack can make all the difference for two-person outings.**

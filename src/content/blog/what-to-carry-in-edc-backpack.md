@@ -1,10 +1,14 @@
 ---
-title: "What to Carry in Edc Backpack: Essential Gear for Everyday Preparedness"
-description: "Ever found yourself in a situation where you needed something but didn't have it on hand? Whether it's a flashlight during a power outage or a bandage for a scr"
+title: 'What to Carry in Edc Backpack: Essential Gear for Everyday Preparedness'
+description: Ever found yourself in a situation where you needed something but didn't
+  have it on hand? Whether it's a flashlight during a power outage or a bandage for
+  a scr
 pubDate: 2025-11-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-carry-in-edc-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=what-to-carry-in-edc-backpack&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Ever found yourself in a situation where you needed something but didn't have it on hand? Whether it's a flashlight during a power outage or a bandage for a scraped knee, being unprepared can be frustrating.**

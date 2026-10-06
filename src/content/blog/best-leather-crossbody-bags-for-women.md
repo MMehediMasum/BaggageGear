@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Crossbody Bags for Women: Stylish, Durable, and Versatile Picks"
-description: "Leather crossbody bags combine style and convenience for women on the go. These bags offer hands-free comfort and timeless fashion. Choosing the right leather c"
+title: 'Best Leather Crossbody Bags for Women: Stylish, Durable, and Versatile Picks'
+description: Leather crossbody bags combine style and convenience for women on the
+  go. These bags offer hands-free comfort and timeless fashion. Choosing the right
+  leather c
 pubDate: 2026-06-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-crossbody-bags-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-crossbody-bags-for-women&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Leather crossbody bags combine style and convenience for women on the go. These bags offer hands-free comfort and timeless fashion.**

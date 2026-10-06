@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Luggage for Southwest Airlines: Ultimate Size Guide"
-description: "Are you planning to fly with Southwest Airlines and want to avoid those pesky luggage fees? Knowing how to measure your luggage correctly can save you from unex"
+title: 'How to Measure Luggage for Southwest Airlines: Ultimate Size Guide'
+description: Are you planning to fly with Southwest Airlines and want to avoid those
+  pesky luggage fees? Knowing how to measure your luggage correctly can save you from
+  unex
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-luggage-for-southwest-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-luggage-for-southwest-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Southwest Airlines and want to avoid those pesky luggage fees? Knowing how to measure your luggage correctly can save you from unexpected surprises at the airport.**

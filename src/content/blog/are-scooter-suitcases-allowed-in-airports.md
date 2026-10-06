@@ -1,10 +1,14 @@
 ---
-title: "Are Scooter Suitcases Allowed in Airports: Ultimate Travel Guide"
-description: "Imagine zipping through the airport with ease, your luggage doubling as a scooter. Sounds like a dream, right? But before you start packing your scooter suitcas"
+title: 'Are Scooter Suitcases Allowed in Airports: Ultimate Travel Guide'
+description: Imagine zipping through the airport with ease, your luggage doubling
+  as a scooter. Sounds like a dream, right? But before you start packing your scooter
+  suitcas
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-scooter-suitcases-allowed-in-airports&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-scooter-suitcases-allowed-in-airports&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine zipping through the airport with ease, your luggage doubling as a scooter. Sounds like a dream, right?**

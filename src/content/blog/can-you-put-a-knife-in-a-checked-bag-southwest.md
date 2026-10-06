@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Knife in a Checked Bag Southwest: Essential Rules Explained"
-description: "Are you planning to fly Southwest and wondering if you can pack a knife in your checked bag? Knowing the rules before you pack can save you time, stress, and ev"
+title: 'Can You Put a Knife in a Checked Bag Southwest: Essential Rules Explained'
+description: Are you planning to fly Southwest and wondering if you can pack a knife
+  in your checked bag? Knowing the rules before you pack can save you time, stress,
+  and ev
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-knife-in-a-checked-bag-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-knife-in-a-checked-bag-southwest&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to fly Southwest and wondering if you can pack a knife in your checked bag? Knowing the rules before you pack can save you time, stress, and even extra fees at the airport.**

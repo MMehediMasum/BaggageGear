@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Does Anne-Marie Barton Wear a Backpack: The Surprising Reason Revealed"
 description: "Have you ever wondered why some people always carry a backpack, even when it seems like they don’t need to? Anne-Marie Barton is one such person, and her choice"
 pubDate: 2026-01-05

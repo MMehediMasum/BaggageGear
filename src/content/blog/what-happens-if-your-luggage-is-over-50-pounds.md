@@ -1,10 +1,14 @@
 ---
-title: "What Happens If Your Luggage is Over 50 Pounds: Avoid Fees Fast"
-description: "You've packed your bags, double-checked your itinerary, and are ready to jet off to your next adventure. But wait—what if your luggage tips the scales at over 5"
+title: 'What Happens If Your Luggage is Over 50 Pounds: Avoid Fees Fast'
+description: You've packed your bags, double-checked your itinerary, and are ready
+  to jet off to your next adventure. But wait—what if your luggage tips the scales
+  at over 5
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-happens-if-your-luggage-is-over-50-pounds&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-happens-if-your-luggage-is-over-50-pounds&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You've packed your bags, double-checked your itinerary, and are ready to jet off to your next adventure. But wait—what if your luggage tips the scales at over 50 pounds?**

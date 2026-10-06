@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Hairdryer in Checked Luggage: Essential Travel Tips"
-description: "You're packing for your upcoming trip, and the question strikes: \"Can you put a hairdryer in checked luggage?\" You’re not alone. This common travel query has le"
+title: 'Can You Put Hairdryer in Checked Luggage: Essential Travel Tips'
+description: 'You''re packing for your upcoming trip, and the question strikes: "Can
+  you put a hairdryer in checked luggage?" You’re not alone. This common travel query
+  has le'
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-hairdryer-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-hairdryer-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming trip, and the question strikes: "Can you put a hairdryer in checked luggage?" You’re not alone.**

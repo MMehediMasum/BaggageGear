@@ -1,10 +1,14 @@
 ---
-title: "How to Identify Original Gucci Bag: Expert Tips to Spot Fakes"
-description: "Are you ready to elevate your style with a genuine Gucci bag, but worried about getting duped by a knock-off? You're not alone. With the rise of counterfeit pro"
+title: 'How to Identify Original Gucci Bag: Expert Tips to Spot Fakes'
+description: Are you ready to elevate your style with a genuine Gucci bag, but worried
+  about getting duped by a knock-off? You're not alone. With the rise of counterfeit
+  pro
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-identify-original-gucci-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Gucci Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-identify-original-gucci-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you ready to elevate your style with a genuine Gucci bag, but worried about getting duped by a knock-off? You're not alone.**

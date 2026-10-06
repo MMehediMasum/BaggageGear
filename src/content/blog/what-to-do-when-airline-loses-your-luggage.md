@@ -1,10 +1,13 @@
 ---
-title: "What to Do When Airline Loses Your Luggage: Essential Steps to Take"
-description: "Losing your luggage can feel like a nightmare. You arrive at your destination, ready for adventure or relaxation, but your bags are nowhere to be found. It's fr"
+title: 'What to Do When Airline Loses Your Luggage: Essential Steps to Take'
+description: Losing your luggage can feel like a nightmare. You arrive at your destination,
+  ready for adventure or relaxation, but your bags are nowhere to be found. It's fr
 pubDate: 2026-04-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-do-when-airline-loses-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-to-do-when-airline-loses-your-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Losing your luggage can feel like a nightmare. You arrive at your destination, ready for adventure or relaxation, but your bags are nowhere to be found.**

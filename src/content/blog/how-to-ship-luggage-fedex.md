@@ -1,10 +1,14 @@
 ---
-title: "How to Ship Luggage Fedex: Easy Steps for Safe Delivery"
-description: "Are you tired of lugging heavy bags through crowded airports or worrying about your luggage getting lost in transit? Shipping your luggage with FedEx might be t"
+title: 'How to Ship Luggage Fedex: Easy Steps for Safe Delivery'
+description: Are you tired of lugging heavy bags through crowded airports or worrying
+  about your luggage getting lost in transit? Shipping your luggage with FedEx might
+  be t
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-ship-luggage-fedex&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-to-ship-luggage-fedex&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of lugging heavy bags through crowded airports or worrying about your luggage getting lost in transit? Shipping your luggage with FedEx might be the stress-free solution you've been looking for.**

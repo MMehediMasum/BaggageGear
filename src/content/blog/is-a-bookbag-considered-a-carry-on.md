@@ -1,10 +1,14 @@
 ---
-title: "Is a Bookbag Considered a Carry On? Essential Travel Guide"
-description: "Have you ever stood at the airport check-in, wondering if your trusty bookbag counts as a carry-on? You're not alone. Many travelers face this confusion, and it"
+title: Is a Bookbag Considered a Carry On? Essential Travel Guide
+description: Have you ever stood at the airport check-in, wondering if your trusty
+  bookbag counts as a carry-on? You're not alone. Many travelers face this confusion,
+  and it
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-bookbag-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-a-bookbag-considered-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport check-in, wondering if your trusty bookbag counts as a carry-on? You're not alone.**

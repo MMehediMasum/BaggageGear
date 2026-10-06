@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Food in Luggage: Essential Travel Rules Revealed"
-description: "Ever stood at the airport, suitcase in hand, wondering if you could bring along your favorite snacks or special treats? You're not alone. Many travelers face th"
+title: 'Can You Check Food in Luggage: Essential Travel Rules Revealed'
+description: Ever stood at the airport, suitcase in hand, wondering if you could bring
+  along your favorite snacks or special treats? You're not alone. Many travelers face
+  th
 pubDate: 2026-03-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-food-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-food-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood at the airport, suitcase in hand, wondering if you could bring along your favorite snacks or special treats? You're not alone.**

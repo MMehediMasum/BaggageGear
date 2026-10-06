@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Aerosol in Luggage: Essential Travel Safety Tips"
-description: "Packing for a trip can be a mix of excitement and stress, especially when it comes to figuring out what's allowed in your luggage. You've probably wondered, \"Ca"
+title: 'Can You Check Aerosol in Luggage: Essential Travel Safety Tips'
+description: Packing for a trip can be a mix of excitement and stress, especially
+  when it comes to figuring out what's allowed in your luggage. You've probably wondered,
+  "Ca
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-aerosol-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-aerosol-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a mix of excitement and stress, especially when it comes to figuring out what's allowed in your luggage. You've probably wondered, "Can you check aerosol in luggage?"**

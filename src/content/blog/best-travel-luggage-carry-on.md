@@ -1,10 +1,13 @@
 ---
-title: "Best Travel Luggage Carry On: Top Lightweight and Durable Suitcases Reviewed"
-description: "Finding the best travel luggage carry-on can make your trips easier and more organized. Choosing the right carry-on saves time and stress at airports. Traveling"
+title: 'Best Travel Luggage Carry On: Top Lightweight and Durable Suitcases Reviewed'
+description: Finding the best travel luggage carry-on can make your trips easier and
+  more organized. Choosing the right carry-on saves time and stress at airports. Traveling
 pubDate: 2025-10-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-luggage-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-luggage-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best travel luggage carry-on can make your trips easier and more organized. Choosing the right carry-on saves time and stress at airports.**

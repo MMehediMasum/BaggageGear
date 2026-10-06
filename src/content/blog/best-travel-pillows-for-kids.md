@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillows for Kids: Top Cozy Neck Support for Trips"
-description: "Choosing the best travel pillow for kids helps ensure comfort and support during trips. Kids need pillows that fit well and keep their heads steady. Traveling c"
+title: 'Best Travel Pillows for Kids: Top Cozy Neck Support for Trips'
+description: Choosing the best travel pillow for kids helps ensure comfort and support
+  during trips. Kids need pillows that fit well and keep their heads steady. Traveling
+  c
 pubDate: 2025-10-05
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillows-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Neck Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillows-for-kids&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel pillow for kids helps ensure comfort and support during trips. Kids need pillows that fit well and keep their heads steady.**

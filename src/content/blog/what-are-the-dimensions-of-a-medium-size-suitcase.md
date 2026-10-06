@@ -1,10 +1,14 @@
 ---
-title: "What are the Dimensions of a Medium Size Suitcase: Essential Guide"
-description: "Are you planning your next trip but feeling overwhelmed by the endless array of suitcase options? You're not alone. Many travelers face the same dilemma: what s"
+title: 'What are the Dimensions of a Medium Size Suitcase: Essential Guide'
+description: 'Are you planning your next trip but feeling overwhelmed by the endless
+  array of suitcase options? You''re not alone. Many travelers face the same dilemma:
+  what s'
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-medium-size-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-medium-size-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next trip but feeling overwhelmed by the endless array of suitcase options? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Can a Backpack Be a Checked Bag: Ultimate Travel Packing Tips"
-description: "Are you planning a trip and wondering if your trusty backpack can be used as a checked bag? This is a common question among travelers looking to simplify their "
+title: 'Can a Backpack Be a Checked Bag: Ultimate Travel Packing Tips'
+description: 'Are you planning a trip and wondering if your trusty backpack can be
+  used as a checked bag? This is a common question among travelers looking to simplify
+  their '
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering if your trusty backpack can be used as a checked bag? This is a common question among travelers looking to simplify their packing and travel light.**

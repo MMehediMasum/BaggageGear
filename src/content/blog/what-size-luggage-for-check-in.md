@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage for Check in: Ultimate Guide to Perfect Packing"
-description: "Choosing the right size luggage for check-in can be a game-changer for your travel experience. Are you tired of paying extra fees or struggling to fit everythin"
+title: 'What Size Luggage for Check in: Ultimate Guide to Perfect Packing'
+description: Choosing the right size luggage for check-in can be a game-changer for
+  your travel experience. Are you tired of paying extra fees or struggling to fit
+  everythin
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-for-check-in&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-for-check-in&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the right size luggage for check-in can be a game-changer for your travel experience. Are you tired of paying extra fees or struggling to fit everything you need?**

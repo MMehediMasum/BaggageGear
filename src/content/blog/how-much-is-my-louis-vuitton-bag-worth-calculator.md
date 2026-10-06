@@ -1,10 +1,14 @@
 ---
-title: "How Much is My Louis Vuitton Bag Worth Calculator: Instant Value Guide"
-description: "Do you ever find yourself staring at your Louis Vuitton bag, wondering just how much it's truly worth? You're not alone. Many luxury bag owners often find thems"
+title: 'How Much is My Louis Vuitton Bag Worth Calculator: Instant Value Guide'
+description: Do you ever find yourself staring at your Louis Vuitton bag, wondering
+  just how much it's truly worth? You're not alone. Many luxury bag owners often find
+  thems
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-my-louis-vuitton-bag-worth-calculator&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Louis Vuitton Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-my-louis-vuitton-bag-worth-calculator&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Do you ever find yourself staring at your Louis Vuitton bag, wondering just how much it's truly worth? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Knife in Your Luggage: Essential Travel Rules Explained"
-description: "Have you ever packed your bags for a trip and wondered if you could bring your favorite knife along? Whether you're an avid chef or just like to have a trusty t"
+title: 'Can You Check a Knife in Your Luggage: Essential Travel Rules Explained'
+description: Have you ever packed your bags for a trip and wondered if you could bring
+  your favorite knife along? Whether you're an avid chef or just like to have a trusty
+  t
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-knife-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-knife-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed your bags for a trip and wondered if you could bring your favorite knife along? Whether you're an avid chef or just like to have a trusty tool at hand, knowing the rules about checking a knife in your luggage is crucial.**

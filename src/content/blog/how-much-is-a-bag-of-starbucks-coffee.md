@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bag of Starbucks Coffee: Ultimate Price Guide 2025"
 description: "Are you a coffee lover curious about the cost of a bag of Starbucks coffee? Whether you're sipping it at home or grabbing your favorite blend for the office, kn"
 pubDate: 2026-03-03

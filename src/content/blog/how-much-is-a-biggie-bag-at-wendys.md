@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Biggie Bag at Wendys: Affordable Meal Deal Revealed"
 description: "Are you craving a satisfying meal without breaking the bank? If so, you're probably wondering, \"How much is a Biggie Bag at Wendy's?\" You're not alone. This pop"
 pubDate: 2026-01-25

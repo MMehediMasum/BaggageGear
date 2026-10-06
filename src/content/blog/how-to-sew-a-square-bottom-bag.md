@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Square Bottom Bag: Step-by-Step Guide"
-description: "Have you ever wanted a bag that not only looks stylish but also stands up on its own? Learning how to sew a square bottom bag is the perfect skill to give you j"
+title: 'How to Sew a Square Bottom Bag: Step-by-Step Guide'
+description: Have you ever wanted a bag that not only looks stylish but also stands
+  up on its own? Learning how to sew a square bottom bag is the perfect skill to give
+  you j
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-square-bottom-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-square-bottom-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wanted a bag that not only looks stylish but also stands up on its own? Learning how to sew a square bottom bag is the perfect skill to give you just that.**

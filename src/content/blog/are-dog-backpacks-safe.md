@@ -1,10 +1,14 @@
 ---
-title: "Are Dog Backpacks Safe: Essential Tips Every Owner Should Know"
-description: "Are you considering a dog backpack for your furry friend, but find yourself wondering, \"Are dog backpacks safe?\" You're not alone. Many pet owners are curious a"
+title: 'Are Dog Backpacks Safe: Essential Tips Every Owner Should Know'
+description: Are you considering a dog backpack for your furry friend, but find yourself
+  wondering, "Are dog backpacks safe?" You're not alone. Many pet owners are curious
+  a
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-dog-backpacks-safe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=are-dog-backpacks-safe&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Are you considering a dog backpack for your furry friend, but find yourself wondering, "Are dog backpacks safe?" You're not alone.**

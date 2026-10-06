@@ -1,10 +1,14 @@
 ---
-title: "How Much to Tip Bellman for Storing Luggage: Essential Guide"
-description: "Picture this: you’ve just arrived at your hotel after a long journey. All you want to do is relax and enjoy your stay, but first, there's the matter of your lug"
+title: 'How Much to Tip Bellman for Storing Luggage: Essential Guide'
+description: 'Picture this: you’ve just arrived at your hotel after a long journey.
+  All you want to do is relax and enjoy your stay, but first, there''s the matter
+  of your lug'
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-tip-bellman-for-storing-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hotel Luggage Holding And Tipping
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-tip-bellman-for-storing-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you’ve just arrived at your hotel after a long journey. All you want to do is relax and enjoy your stay, but first, there's the matter of your luggage.**

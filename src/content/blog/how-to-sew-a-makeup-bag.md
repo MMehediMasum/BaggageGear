@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Makeup Bag: Easy Steps for Stylish DIY Storage"
-description: "Do you want a makeup bag that's just right for you—one that fits your style and holds all your essentials perfectly? Sewing your own makeup bag is easier than y"
+title: 'How to Sew a Makeup Bag: Easy Steps for Stylish DIY Storage'
+description: Do you want a makeup bag that's just right for you—one that fits your
+  style and holds all your essentials perfectly? Sewing your own makeup bag is easier
+  than y
 pubDate: 2025-10-10
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-makeup-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-makeup-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Do you want a makeup bag that's just right for you—one that fits your style and holds all your essentials perfectly? Sewing your own makeup bag is easier than you think.**

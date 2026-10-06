@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Activate Hellbomb Backpack Pc: Easy Steps to Power Up"
 description: "Unlocking the full potential of your gaming gear can take your experience to a whole new level. If you've recently snagged the Hellbomb Backpack for your PC, yo"
 pubDate: 2025-12-10

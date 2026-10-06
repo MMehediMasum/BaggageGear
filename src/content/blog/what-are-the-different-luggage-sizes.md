@@ -1,10 +1,14 @@
 ---
-title: "What are the Different Luggage Sizes: Ultimate Guide to Choosing Right"
-description: "Choosing the right luggage size can make or break your travel experience. Imagine the frustration of trying to squeeze your suitcase into a packed overhead bin "
+title: 'What are the Different Luggage Sizes: Ultimate Guide to Choosing Right'
+description: 'Choosing the right luggage size can make or break your travel experience.
+  Imagine the frustration of trying to squeeze your suitcase into a packed overhead
+  bin '
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-different-luggage-sizes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-different-luggage-sizes&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage size can make or break your travel experience. Imagine the frustration of trying to squeeze your suitcase into a packed overhead bin or paying extra fees at the airport because your luggage is too big.**

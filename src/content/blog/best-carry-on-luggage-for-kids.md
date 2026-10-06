@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Luggage for Kids: Top Durable and Fun Travel Picks"
-description: "Choosing the best carry-on luggage for kids can make travel easier and more fun. Kids need suitcases that are light, durable, and easy to handle. Traveling with"
+title: 'Best Carry on Luggage for Kids: Top Durable and Fun Travel Picks'
+description: Choosing the best carry-on luggage for kids can make travel easier and
+  more fun. Kids need suitcases that are light, durable, and easy to handle. Traveling
+  with
 pubDate: 2026-08-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-kids&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for kids can make travel easier and more fun. Kids need suitcases that are light, durable, and easy to handle.**

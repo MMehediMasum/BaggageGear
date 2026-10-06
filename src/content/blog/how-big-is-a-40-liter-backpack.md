@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 40 Liter Backpack: Ultimate Size Guide Revealed"
-description: "Choosing the right backpack can feel like a daunting task, especially when size matters. You're probably wondering, \"How big is a 40-liter backpack?\" This isn't"
+title: 'How Big is a 40 Liter Backpack: Ultimate Size Guide Revealed'
+description: Choosing the right backpack can feel like a daunting task, especially
+  when size matters. You're probably wondering, "How big is a 40-liter backpack?"
+  This isn't
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-40-liter-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-40-liter-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the right backpack can feel like a daunting task, especially when size matters. You're probably wondering, "How big is a 40-liter backpack?"**

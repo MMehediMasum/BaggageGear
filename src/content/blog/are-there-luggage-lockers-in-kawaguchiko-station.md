@@ -1,10 +1,14 @@
 ---
-title: "Are There Luggage Lockers in Kawaguchiko Station: Ultimate Guide"
-description: "Planning a trip to Kawaguchiko and wondering what to do with your luggage? You’re not alone. Many travelers like you are eager to explore the beautiful sights w"
+title: 'Are There Luggage Lockers in Kawaguchiko Station: Ultimate Guide'
+description: Planning a trip to Kawaguchiko and wondering what to do with your luggage?
+  You’re not alone. Many travelers like you are eager to explore the beautiful sights
+  w
 pubDate: 2025-10-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-there-luggage-lockers-in-kawaguchiko-station&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=are-there-luggage-lockers-in-kawaguchiko-station&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to Kawaguchiko and wondering what to do with your luggage? You’re not alone.**

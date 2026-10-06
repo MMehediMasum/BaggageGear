@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Bag Items for Lice: Ultimate Guide to Effective Treatment"
 description: "Dealing with lice can be incredibly frustrating, especially when they seem to pop up unexpectedly. You want to get rid of them quickly, but there's so much conf"
 pubDate: 2026-03-13

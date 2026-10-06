@@ -1,10 +1,14 @@
 ---
-title: "Are Womens North Face Backpacks Smaller: Truth Revealed!"
-description: "Are you shopping for a new backpack and wondering if women's North Face backpacks are smaller? This question might have crossed your mind as you browse through "
+title: 'Are Womens North Face Backpacks Smaller: Truth Revealed!'
+description: 'Are you shopping for a new backpack and wondering if women''s North
+  Face backpacks are smaller? This question might have crossed your mind as you browse
+  through '
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-womens-north-face-backpacks-smaller&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=are-womens-north-face-backpacks-smaller&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you shopping for a new backpack and wondering if women's North Face backpacks are smaller? This question might have crossed your mind as you browse through the options, trying to find the perfect fit for your lifestyle.**

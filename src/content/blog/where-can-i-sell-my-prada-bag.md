@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Prada Bag: Top Trusted Platforms Revealed"
-description: "You've got a Prada bag that's been sitting in your closet, and you're ready to part ways with it. But where do you start? Finding the right place to sell your l"
+title: 'Where Can I Sell My Prada Bag: Top Trusted Platforms Revealed'
+description: You've got a Prada bag that's been sitting in your closet, and you're
+  ready to part ways with it. But where do you start? Finding the right place to sell
+  your l
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-prada-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-prada-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You've got a Prada bag that's been sitting in your closet, and you're ready to part ways with it. But where do you start?**

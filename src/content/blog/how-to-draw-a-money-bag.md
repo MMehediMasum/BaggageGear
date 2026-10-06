@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Draw a Money Bag: Easy Steps for Stunning Results"
 description: "Ever wondered how to draw a money bag that looks as if it could leap off the page? Whether you're a budding artist or just looking to add a creative touch to yo"
 pubDate: 2026-04-01

@@ -1,10 +1,14 @@
 ---
-title: "What is a Get Home Bag: Essential Survival Gear Explained"
-description: "Have you ever thought about how you would make it back home safely during an unexpected emergency? Imagine being caught at work or miles away from home when a s"
+title: 'What is a Get Home Bag: Essential Survival Gear Explained'
+description: Have you ever thought about how you would make it back home safely during
+  an unexpected emergency? Imagine being caught at work or miles away from home when
+  a s
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-get-home-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-get-home-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Have you ever thought about how you would make it back home safely during an unexpected emergency? Imagine being caught at work or miles away from home when a sudden crisis hits.**

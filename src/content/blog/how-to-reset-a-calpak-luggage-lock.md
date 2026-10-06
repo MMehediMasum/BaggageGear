@@ -1,10 +1,14 @@
 ---
-title: "How to Reset a Calpak Luggage Lock: Easy Steps for Quick Unlocking"
-description: "Have you ever faced the frustration of a forgotten combination on your Calpak luggage lock just when you're about to zip off on your next adventure? You're not "
+title: 'How to Reset a Calpak Luggage Lock: Easy Steps for Quick Unlocking'
+description: 'Have you ever faced the frustration of a forgotten combination on your
+  Calpak luggage lock just when you''re about to zip off on your next adventure? You''re
+  not '
 pubDate: 2025-09-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-a-calpak-luggage-lock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-a-calpak-luggage-lock&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever faced the frustration of a forgotten combination on your Calpak luggage lock just when you're about to zip off on your next adventure? You're not alone.**

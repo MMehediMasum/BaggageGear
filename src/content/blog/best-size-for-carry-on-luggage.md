@@ -1,10 +1,14 @@
 ---
-title: "Best Size for Carry On Luggage: Top Picks for Lightweight Travel"
-description: "Choosing the best size for carry-on luggage ensures smooth travel and avoids extra fees. Knowing airline rules helps pick the right bag size easily. Carry-on lu"
+title: 'Best Size for Carry On Luggage: Top Picks for Lightweight Travel'
+description: Choosing the best size for carry-on luggage ensures smooth travel and
+  avoids extra fees. Knowing airline rules helps pick the right bag size easily. Carry-on
+  lu
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-for-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-size-for-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best size for carry-on luggage ensures smooth travel and avoids extra fees. Knowing airline rules helps pick the right bag size easily.**

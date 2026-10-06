@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Soft Luggage for Durable, Lightweight, and Expandable Travel"
-description: "Choosing the best carry-on soft luggage makes travel easier and more organized. Soft luggage offers flexibility, light weight, and convenient storage options. T"
+title: Best Carry On Soft Luggage for Durable, Lightweight, and Expandable Travel
+description: Choosing the best carry-on soft luggage makes travel easier and more
+  organized. Soft luggage offers flexibility, light weight, and convenient storage
+  options. T
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-soft-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-soft-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on soft luggage makes travel easier and more organized. Soft luggage offers flexibility, light weight, and convenient storage options.**

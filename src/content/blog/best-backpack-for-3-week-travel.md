@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for 3 Week Travel: Top Carry-On Bags with Laptop Space"
-description: "Choosing the best backpack for a three-week trip can make your travel easier and more organized. A good travel backpack holds all essentials without being too h"
+title: 'Best Backpack for 3 Week Travel: Top Carry-On Bags with Laptop Space'
+description: Choosing the best backpack for a three-week trip can make your travel
+  easier and more organized. A good travel backpack holds all essentials without being
+  too h
 pubDate: 2026-07-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-3-week-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-3-week-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for a three-week trip can make your travel easier and more organized. A good travel backpack holds all essentials without being too heavy or bulky.**

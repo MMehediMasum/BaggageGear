@@ -1,10 +1,14 @@
 ---
-title: "How to Use a Roof Rack for Luggage: Ultimate Guide for Safe Travel"
-description: "Are you planning a road trip and worried about fitting all your luggage in the car? You're not alone. Many travelers find themselves struggling to pack everythi"
+title: 'How to Use a Roof Rack for Luggage: Ultimate Guide for Safe Travel'
+description: Are you planning a road trip and worried about fitting all your luggage
+  in the car? You're not alone. Many travelers find themselves struggling to pack
+  everythi
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-use-a-roof-rack-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-to-use-a-roof-rack-for-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a road trip and worried about fitting all your luggage in the car? You're not alone.**

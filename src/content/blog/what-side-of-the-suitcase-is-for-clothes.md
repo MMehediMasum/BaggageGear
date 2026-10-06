@@ -1,10 +1,14 @@
 ---
-title: "What Side of the Suitcase is for Clothes: Ultimate Packing Guide"
-description: "Packing for a trip can sometimes feel like solving a puzzle. You want everything to fit perfectly while ensuring your clothes come out wrinkle-free and ready to"
+title: 'What Side of the Suitcase is for Clothes: Ultimate Packing Guide'
+description: Packing for a trip can sometimes feel like solving a puzzle. You want
+  everything to fit perfectly while ensuring your clothes come out wrinkle-free and
+  ready to
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-side-of-the-suitcase-is-for-clothes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=what-side-of-the-suitcase-is-for-clothes&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can sometimes feel like solving a puzzle. You want everything to fit perfectly while ensuring your clothes come out wrinkle-free and ready to wear.**

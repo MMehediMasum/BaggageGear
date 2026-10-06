@@ -1,10 +1,14 @@
 ---
-title: "How to Measure a Suitcase for Airlines: Ultimate Size Guide 2025"
-description: "Are you planning your next adventure and want to avoid any baggage mishaps at the airport? You're not alone. Many travelers face the frustrating challenge of en"
+title: 'How to Measure a Suitcase for Airlines: Ultimate Size Guide 2025'
+description: Are you planning your next adventure and want to avoid any baggage mishaps
+  at the airport? You're not alone. Many travelers face the frustrating challenge
+  of en
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-a-suitcase-for-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-a-suitcase-for-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and want to avoid any baggage mishaps at the airport? You're not alone.**

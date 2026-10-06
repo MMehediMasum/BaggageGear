@@ -1,10 +1,14 @@
 ---
-title: "Do You Get a Carry On With American: Essential Packing Tips Revealed"
-description: "Ever found yourself standing at the airport, ticket in hand, wondering what exactly you can bring onto the plane? You're not alone. When flying with American Ai"
+title: 'Do You Get a Carry On With American: Essential Packing Tips Revealed'
+description: Ever found yourself standing at the airport, ticket in hand, wondering
+  what exactly you can bring onto the plane? You're not alone. When flying with American
+  Ai
 pubDate: 2025-11-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-american&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-american&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Ever found yourself standing at the airport, ticket in hand, wondering what exactly you can bring onto the plane? You're not alone.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Make Coleslaw from a Bag: Easy, Quick & Delicious!"
 description: "Imagine hosting a summer barbecue or a cozy family dinner, and you're in need of a quick yet delicious side dish. That's where coleslaw comes into play. But not"
 pubDate: 2026-01-13

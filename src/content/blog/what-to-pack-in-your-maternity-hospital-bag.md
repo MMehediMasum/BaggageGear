@@ -1,10 +1,13 @@
 ---
-title: "What to Pack in Your Maternity Hospital Bag: Essential Must-Haves"
-description: "Preparing for the arrival of your little one is both exciting and overwhelming. As your due date approaches, you might find yourself wondering what exactly you "
+title: 'What to Pack in Your Maternity Hospital Bag: Essential Must-Haves'
+description: 'Preparing for the arrival of your little one is both exciting and overwhelming.
+  As your due date approaches, you might find yourself wondering what exactly you '
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-your-maternity-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-your-maternity-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for the arrival of your little one is both exciting and overwhelming. As your due date approaches, you might find yourself wondering what exactly you need to pack in your maternity hospital bag.**

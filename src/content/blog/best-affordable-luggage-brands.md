@@ -1,10 +1,14 @@
 ---
-title: "Best Affordable Luggage Brands for Stylish and Durable Travel Solutions"
-description: "Finding durable luggage that fits your budget is not always easy. This guide highlights the best affordable luggage brands for smart travelers. Traveling with r"
+title: Best Affordable Luggage Brands for Stylish and Durable Travel Solutions
+description: Finding durable luggage that fits your budget is not always easy. This
+  guide highlights the best affordable luggage brands for smart travelers. Traveling
+  with r
 pubDate: 2026-07-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-affordable-luggage-brands&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-affordable-luggage-brands&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding durable luggage that fits your budget is not always easy. This guide highlights the best affordable luggage brands for smart travelers.**

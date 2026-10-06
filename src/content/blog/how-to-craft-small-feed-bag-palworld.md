@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Craft Small Feed Bag Palworld: Ultimate Step-by-Step Guide"
 description: "Are you ready to transform your small feed bags into something truly special? If you love crafting and enjoy adding a personal touch to your creations, then you"
 pubDate: 2025-10-22

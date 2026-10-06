@@ -1,10 +1,14 @@
 ---
-title: "Does Disney Have a Clear Bag Policy: What You Need to Know"
-description: "Planning a magical day at Disney? You're probably excited about the rides, the characters, and the unforgettable memories. But before you step foot into the par"
+title: 'Does Disney Have a Clear Bag Policy: What You Need to Know'
+description: Planning a magical day at Disney? You're probably excited about the rides,
+  the characters, and the unforgettable memories. But before you step foot into the
+  par
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-disney-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-disney-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a magical day at Disney? You're probably excited about the rides, the characters, and the unforgettable memories.**

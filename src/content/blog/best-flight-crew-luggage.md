@@ -1,10 +1,14 @@
 ---
-title: "Best Flight Crew Luggage for Lightweight, Durable, and Stylish Travel Gear"
-description: "Choosing the best flight crew luggage can make travel easier and more organized. Flight crew need bags that are durable, lightweight, and easy to handle. Flight"
+title: Best Flight Crew Luggage for Lightweight, Durable, and Stylish Travel Gear
+description: Choosing the best flight crew luggage can make travel easier and more
+  organized. Flight crew need bags that are durable, lightweight, and easy to handle.
+  Flight
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-flight-crew-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-flight-crew-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best flight crew luggage can make travel easier and more organized. Flight crew need bags that are durable, lightweight, and easy to handle.**

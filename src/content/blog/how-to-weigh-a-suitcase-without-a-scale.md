@@ -1,10 +1,14 @@
 ---
-title: "How to Weigh a Suitcase Without a Scale: Easy & Accurate Tips"
-description: "Ever found yourself at the airport, nervously eyeing your suitcase, wondering if it’s too heavy? We've all been there. No one wants to face the embarrassment or"
+title: 'How to Weigh a Suitcase Without a Scale: Easy & Accurate Tips'
+description: Ever found yourself at the airport, nervously eyeing your suitcase, wondering
+  if it’s too heavy? We've all been there. No one wants to face the embarrassment
+  or
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-weigh-a-suitcase-without-a-scale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-weigh-a-suitcase-without-a-scale&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever found yourself at the airport, nervously eyeing your suitcase, wondering if it’s too heavy? We've all been there.**

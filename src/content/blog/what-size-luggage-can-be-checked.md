@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage Can Be Checked: Ultimate Guide for Travelers"
-description: "Are you planning your next trip and wondering what size luggage can be checked at the airport? Navigating airline baggage policies can often feel like decipheri"
+title: 'What Size Luggage Can Be Checked: Ultimate Guide for Travelers'
+description: Are you planning your next trip and wondering what size luggage can be
+  checked at the airport? Navigating airline baggage policies can often feel like
+  decipheri
 pubDate: 2025-10-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-can-be-checked&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-can-be-checked&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering what size luggage can be checked at the airport? Navigating airline baggage policies can often feel like deciphering a complex puzzle.**

@@ -1,10 +1,14 @@
 ---
-title: "What Size Luggage Do I Need: Ultimate Guide for Stress-Free Travel"
-description: "Are you planning your next trip and find yourself staring at a pile of suitcases, unsure of which one to choose? You're not alone. Picking the right luggage siz"
+title: 'What Size Luggage Do I Need: Ultimate Guide for Stress-Free Travel'
+description: Are you planning your next trip and find yourself staring at a pile of
+  suitcases, unsure of which one to choose? You're not alone. Picking the right luggage
+  siz
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-luggage-do-i-need&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-size-luggage-do-i-need&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next trip and find yourself staring at a pile of suitcases, unsure of which one to choose? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Anti Theft Backpack for Travel with USB Charging and RFID Protection"
-description: "Choosing the best anti-theft backpack for travel keeps your belongings safe and your mind at ease. These backpacks offer security features and practical designs"
+title: Best Anti Theft Backpack for Travel with USB Charging and RFID Protection
+description: Choosing the best anti-theft backpack for travel keeps your belongings
+  safe and your mind at ease. These backpacks offer security features and practical
+  designs
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-anti-theft-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Anti Theft Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-anti-theft-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best anti-theft backpack for travel keeps your belongings safe and your mind at ease. These backpacks offer security features and practical designs for every traveler.**

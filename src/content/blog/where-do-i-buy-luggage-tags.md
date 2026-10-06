@@ -1,10 +1,14 @@
 ---
-title: "Where Do I Buy Luggage Tags: Top Spots for Unique Finds"
-description: "You’re planning a trip, and the excitement is building. But amidst the packing and planning, there’s a tiny detail that often slips through the cracks: luggage "
+title: 'Where Do I Buy Luggage Tags: Top Spots for Unique Finds'
+description: 'You’re planning a trip, and the excitement is building. But amidst the
+  packing and planning, there’s a tiny detail that often slips through the cracks:
+  luggage '
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-do-i-buy-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=where-do-i-buy-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’re planning a trip, and the excitement is building. But amidst the packing and planning, there’s a tiny detail that often slips through the cracks: luggage tags.**

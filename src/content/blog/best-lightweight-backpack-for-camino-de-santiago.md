@@ -1,10 +1,15 @@
 ---
-title: "Best Lightweight Backpack for Camino De Santiago: Top Picks with Essential Patches"
-description: "Choosing the best lightweight backpack is essential for a comfortable Camino de Santiago journey. A good pack keeps your gear organized without weighing you dow"
+title: 'Best Lightweight Backpack for Camino De Santiago: Top Picks with Essential
+  Patches'
+description: Choosing the best lightweight backpack is essential for a comfortable
+  Camino de Santiago journey. A good pack keeps your gear organized without weighing
+  you dow
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-camino-de-santiago&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Packs For Europe
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-camino-de-santiago&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best lightweight backpack is essential for a comfortable Camino de Santiago journey. A good pack keeps your gear organized without weighing you down.**

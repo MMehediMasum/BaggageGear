@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Checked Luggage: Top Expandable Suitcases for Hassle-Free Travel"
-description: "Choosing the best rolling checked luggage makes travel easier and more organized. Durable wheels and strong shells protect your belongings during trips. Traveli"
+title: 'Best Rolling Checked Luggage: Top Expandable Suitcases for Hassle-Free Travel'
+description: Choosing the best rolling checked luggage makes travel easier and more
+  organized. Durable wheels and strong shells protect your belongings during trips.
+  Traveli
 pubDate: 2026-07-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best rolling checked luggage makes travel easier and more organized. Durable wheels and strong shells protect your belongings during trips.**

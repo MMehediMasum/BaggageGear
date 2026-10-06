@@ -1,10 +1,14 @@
 ---
-title: "Do Liquids Have to Be in a Clear Bag: Essential Travel Rules Explained"
-description: "Have you ever stood at the airport security line, holding a bottle of shampoo, and wondered if it really needs to be in a clear bag? You’re not alone. Navigatin"
+title: 'Do Liquids Have to Be in a Clear Bag: Essential Travel Rules Explained'
+description: Have you ever stood at the airport security line, holding a bottle of
+  shampoo, and wondered if it really needs to be in a clear bag? You’re not alone.
+  Navigatin
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-liquids-have-to-be-in-a-clear-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=do-liquids-have-to-be-in-a-clear-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at the airport security line, holding a bottle of shampoo, and wondered if it really needs to be in a clear bag? You’re not alone.**

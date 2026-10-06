@@ -1,10 +1,14 @@
 ---
-title: "What Do You Put in a Chalk Bag: Essential Gear for Climbers"
-description: "Imagine this: you're halfway up a cliff, the sun is shining, and your heart is racing with excitement. But then, your hands start to sweat. That's when you reac"
+title: 'What Do You Put in a Chalk Bag: Essential Gear for Climbers'
+description: 'Imagine this: you''re halfway up a cliff, the sun is shining, and your
+  heart is racing with excitement. But then, your hands start to sweat. That''s when
+  you reac'
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-do-you-put-in-a-chalk-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=what-do-you-put-in-a-chalk-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Imagine this: you're halfway up a cliff, the sun is shining, and your heart is racing with excitement. But then, your hands start to sweat.**

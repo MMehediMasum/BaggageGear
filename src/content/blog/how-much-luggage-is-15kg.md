@@ -1,10 +1,14 @@
 ---
-title: "How Much Luggage is 15Kg: Essential Guide to Packing Smart"
-description: "Are you preparing for your next adventure and wondering just how much luggage 15kg really is? You’re not alone. Packing can be a daunting task, especially when "
+title: 'How Much Luggage is 15Kg: Essential Guide to Packing Smart'
+description: 'Are you preparing for your next adventure and wondering just how much
+  luggage 15kg really is? You’re not alone. Packing can be a daunting task, especially
+  when '
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-luggage-is-15kg&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-much-luggage-is-15kg&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you preparing for your next adventure and wondering just how much luggage 15kg really is? You’re not alone.**

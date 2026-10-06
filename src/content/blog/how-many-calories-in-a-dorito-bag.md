@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Calories in a Dorito Bag: Uncover the Surprising Truth"
 description: "Ever found yourself munching on a bag of Doritos and wondering just how many calories you're consuming? You're not alone. With their irresistible crunch and bol"
 pubDate: 2026-02-06

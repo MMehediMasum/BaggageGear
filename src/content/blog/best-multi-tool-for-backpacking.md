@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Multi Tool for Backpacking: Top Versatile Gear for Adventurers"
 description: "Choosing the best multi tool for backpacking means having reliable gear for any situation. A good multi tool combines many useful functions in one compact devic"
 pubDate: 2026-06-09

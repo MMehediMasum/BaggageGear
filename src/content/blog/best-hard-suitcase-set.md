@@ -1,10 +1,14 @@
 ---
-title: "Best Hard Suitcase Set: Discover Durable Luggage for Every Journey"
-description: "Choosing the best hard suitcase set can make travel easier and safer. Durable, lightweight, and spacious luggage sets fit all trip needs. Hard suitcase sets off"
+title: 'Best Hard Suitcase Set: Discover Durable Luggage for Every Journey'
+description: Choosing the best hard suitcase set can make travel easier and safer.
+  Durable, lightweight, and spacious luggage sets fit all trip needs. Hard suitcase
+  sets off
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hard-suitcase-set&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-hard-suitcase-set&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best hard suitcase set can make travel easier and safer. Durable, lightweight, and spacious luggage sets fit all trip needs.**

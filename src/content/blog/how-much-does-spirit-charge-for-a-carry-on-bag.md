@@ -1,10 +1,13 @@
 ---
-title: "How Much Does Spirit Charge for a Carry On Bag: Hidden Fees Revealed"
-description: "When planning your next trip with Spirit Airlines, it's crucial to understand the cost of your carry-on bag. No one likes unexpected fees, especially when you'r"
+title: 'How Much Does Spirit Charge for a Carry On Bag: Hidden Fees Revealed'
+description: When planning your next trip with Spirit Airlines, it's crucial to understand
+  the cost of your carry-on bag. No one likes unexpected fees, especially when you'r
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-spirit-charge-for-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-spirit-charge-for-a-carry-on-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When planning your next trip with Spirit Airlines, it's crucial to understand the cost of your carry-on bag. No one likes unexpected fees, especially when you're trying to keep travel expenses low.**

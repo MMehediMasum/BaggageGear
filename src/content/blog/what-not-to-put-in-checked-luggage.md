@@ -1,10 +1,14 @@
 ---
-title: "What Not to Put in Checked Luggage: Essential Safety Tips"
-description: "Imagine the excitement of planning your next big adventure. You've got your tickets, your itinerary, and your suitcase ready to be packed. But wait—before you z"
+title: 'What Not to Put in Checked Luggage: Essential Safety Tips'
+description: Imagine the excitement of planning your next big adventure. You've got
+  your tickets, your itinerary, and your suitcase ready to be packed. But wait—before
+  you z
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-not-to-put-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-not-to-put-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine the excitement of planning your next big adventure. You've got your tickets, your itinerary, and your suitcase ready to be packed.**

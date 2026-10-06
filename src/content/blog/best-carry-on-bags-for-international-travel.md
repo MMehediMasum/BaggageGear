@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Bags for International Travel: Top Picks for Every Journey"
-description: "Choosing the best carry-on bag makes international travel easier and more comfortable. The right bag fits airline rules and holds all essentials securely. Trave"
+title: 'Best Carry on Bags for International Travel: Top Picks for Every Journey'
+description: Choosing the best carry-on bag makes international travel easier and
+  more comfortable. The right bag fits airline rules and holds all essentials securely.
+  Trave
 pubDate: 2025-09-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-bags-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-bags-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on bag makes international travel easier and more comfortable. The right bag fits airline rules and holds all essentials securely.**

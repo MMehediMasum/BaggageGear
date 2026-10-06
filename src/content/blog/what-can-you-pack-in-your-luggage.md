@@ -1,10 +1,14 @@
 ---
-title: "What Can You Pack in Your Luggage: Ultimate Travel Packing Guide"
-description: "Packing your luggage can feel like solving a puzzle. You want to fit everything you need without overstuffing your suitcase. It’s a delicate balance, isn’t it? "
+title: 'What Can You Pack in Your Luggage: Ultimate Travel Packing Guide'
+description: 'Packing your luggage can feel like solving a puzzle. You want to fit
+  everything you need without overstuffing your suitcase. It’s a delicate balance,
+  isn’t it? '
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-you-pack-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-can-you-pack-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing your luggage can feel like solving a puzzle. You want to fit everything you need without overstuffing your suitcase.**

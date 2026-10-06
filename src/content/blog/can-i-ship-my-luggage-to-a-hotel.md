@@ -1,10 +1,14 @@
 ---
-title: "Can I Ship My Luggage to a Hotel: Ultimate Guide & Smart Tips"
-description: "Have you ever found yourself at the airport, dragging along heavy suitcases, juggling multiple bags, and feeling overwhelmed? Shipping your luggage directly to "
+title: 'Can I Ship My Luggage to a Hotel: Ultimate Guide & Smart Tips'
+description: 'Have you ever found yourself at the airport, dragging along heavy suitcases,
+  juggling multiple bags, and feeling overwhelmed? Shipping your luggage directly
+  to '
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-ship-my-luggage-to-a-hotel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-i-ship-my-luggage-to-a-hotel&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself at the airport, dragging along heavy suitcases, juggling multiple bags, and feeling overwhelmed? Shipping your luggage directly to your hotel might just be the solution you've been searching for.**

@@ -1,10 +1,14 @@
 ---
-title: "What is the Largest Luggage You Can Check: Ultimate Guide"
-description: "Are you wondering how big your suitcase can be when you check it in for a flight? Knowing the largest luggage you can check can save you from unexpected fees, d"
+title: 'What is the Largest Luggage You Can Check: Ultimate Guide'
+description: Are you wondering how big your suitcase can be when you check it in for
+  a flight? Knowing the largest luggage you can check can save you from unexpected
+  fees, d
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-largest-luggage-you-can-check&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-largest-luggage-you-can-check&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering how big your suitcase can be when you check it in for a flight? Knowing the largest luggage you can check can save you from unexpected fees, delays, or even having to leave your stuff behind.**

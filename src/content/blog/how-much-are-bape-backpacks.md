@@ -1,10 +1,13 @@
 ---
-title: "How Much are Bape Backpacks: Discover the Price Now"
-description: "Are you curious about how much Bape backpacks really cost? Whether you’re thinking of adding one to your collection or just want to know if it fits your budget,"
+title: 'How Much are Bape Backpacks: Discover the Price Now'
+description: Are you curious about how much Bape backpacks really cost? Whether you’re
+  thinking of adding one to your collection or just want to know if it fits your budget,
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-are-bape-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack History And Buying Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-are-bape-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you curious about how much Bape backpacks really cost? Whether you’re thinking of adding one to your collection or just want to know if it fits your budget, getting the right information is key.**

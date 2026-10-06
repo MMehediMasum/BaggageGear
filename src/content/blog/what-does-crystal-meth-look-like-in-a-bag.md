@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Crystal Meth Look Like in a Bag: Clear Visual Guide"
 description: "Are you curious about what crystal meth looks like when it's packaged? Understanding the appearance of this drug is crucial, especially if you want to keep your"
 pubDate: 2026-04-20

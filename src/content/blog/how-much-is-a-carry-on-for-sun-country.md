@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Carry On for Sun Country: Ultimate Guide 2025"
-description: "Are you planning a trip with Sun Country Airlines and wondering how much a carry-on will cost you? You're not alone. Many travelers, just like you, are keen to "
+title: 'How Much is a Carry On for Sun Country: Ultimate Guide 2025'
+description: 'Are you planning a trip with Sun Country Airlines and wondering how
+  much a carry-on will cost you? You''re not alone. Many travelers, just like you,
+  are keen to '
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-for-sun-country&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-for-sun-country&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Sun Country Airlines and wondering how much a carry-on will cost you? You're not alone.**

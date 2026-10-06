@@ -1,10 +1,14 @@
 ---
-title: "What is a Carry on Bag Vs Personal Item: Key Differences Explained"
-description: "Traveling can be both exciting and stressful, especially when you're trying to figure out what to pack. One of the most confusing aspects can be understanding t"
+title: 'What is a Carry on Bag Vs Personal Item: Key Differences Explained'
+description: Traveling can be both exciting and stressful, especially when you're
+  trying to figure out what to pack. One of the most confusing aspects can be understanding
+  t
 pubDate: 2025-09-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-carry-on-bag-vs-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-carry-on-bag-vs-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when you're trying to figure out what to pack. One of the most confusing aspects can be understanding the difference between a carry on bag and a personal item.**

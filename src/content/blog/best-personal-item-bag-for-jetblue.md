@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item Bag for JetBlue: Top Picks for Hassle-Free Travel"
-description: "Choosing the best personal item bag for JetBlue can make your travel easier and more comfortable. Personal item bags must fit under the seat and hold all essent"
+title: 'Best Personal Item Bag for JetBlue: Top Picks for Hassle-Free Travel'
+description: Choosing the best personal item bag for JetBlue can make your travel
+  easier and more comfortable. Personal item bags must fit under the seat and hold
+  all essent
 pubDate: 2026-08-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-jetblue&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-jetblue&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item bag for JetBlue can make your travel easier and more comfortable. Personal item bags must fit under the seat and hold all essentials without hassle.**

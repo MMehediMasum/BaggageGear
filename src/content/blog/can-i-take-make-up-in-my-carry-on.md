@@ -1,10 +1,14 @@
 ---
-title: "Can I Take Make Up in My Carry On: Ultimate Packing Tips Revealed"
-description: "Imagine you're packing for your next big adventure, and your favorite lipstick, mascara, and foundation are essentials you can't leave behind. But here's the qu"
+title: 'Can I Take Make Up in My Carry On: Ultimate Packing Tips Revealed'
+description: Imagine you're packing for your next big adventure, and your favorite
+  lipstick, mascara, and foundation are essentials you can't leave behind. But here's
+  the qu
 pubDate: 2025-11-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-take-make-up-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-take-make-up-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're packing for your next big adventure, and your favorite lipstick, mascara, and foundation are essentials you can't leave behind. But here's the question that might be on your mind: "Can I take makeup in my carry-on?"**

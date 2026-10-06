@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Bingo Bag: Easy Steps for a Stylish DIY Project"
-description: "Are you tired of your bingo supplies spilling everywhere? Imagine walking into your next bingo game with a custom-made bag that not only holds everything you ne"
+title: 'How to Sew a Bingo Bag: Easy Steps for a Stylish DIY Project'
+description: Are you tired of your bingo supplies spilling everywhere? Imagine walking
+  into your next bingo game with a custom-made bag that not only holds everything
+  you ne
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-bingo-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-bingo-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Are you tired of your bingo supplies spilling everywhere? Imagine walking into your next bingo game with a custom-made bag that not only holds everything you need but also reflects your personal style.**

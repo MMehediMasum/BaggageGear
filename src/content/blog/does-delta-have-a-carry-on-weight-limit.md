@@ -1,10 +1,14 @@
 ---
-title: "Does Delta Have a Carry on Weight Limit: Ultimate Guide 2025"
-description: "Planning your next trip and wondering if Delta Airlines has a carry-on weight limit? You’re not alone. Many travelers, just like you, are eager to pack efficien"
+title: 'Does Delta Have a Carry on Weight Limit: Ultimate Guide 2025'
+description: Planning your next trip and wondering if Delta Airlines has a carry-on
+  weight limit? You’re not alone. Many travelers, just like you, are eager to pack
+  efficien
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-have-a-carry-on-weight-limit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-have-a-carry-on-weight-limit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip and wondering if Delta Airlines has a carry-on weight limit? You’re not alone.**

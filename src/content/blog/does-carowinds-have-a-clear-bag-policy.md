@@ -1,10 +1,14 @@
 ---
-title: "Does Carowinds Have a Clear Bag Policy: What You Need to Know"
-description: "Planning a day at Carowinds can be thrilling, but navigating their rules might leave you with a few questions. One of the most common concerns visitors have is "
+title: 'Does Carowinds Have a Clear Bag Policy: What You Need to Know'
+description: 'Planning a day at Carowinds can be thrilling, but navigating their rules
+  might leave you with a few questions. One of the most common concerns visitors have
+  is '
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-carowinds-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-carowinds-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a day at Carowinds can be thrilling, but navigating their rules might leave you with a few questions. One of the most common concerns visitors have is about the park's bag policy, specifically if there's a clear bag requirement.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Massage Gun on Carry On: Ultimate Travel Guide"
-description: "Are you planning a trip soon and wondering if you can bring your massage gun in your carry-on luggage? You're not alone. Many travelers, like yourself, are curi"
+title: 'Can You Bring Massage Gun on Carry On: Ultimate Travel Guide'
+description: Are you planning a trip soon and wondering if you can bring your massage
+  gun in your carry-on luggage? You're not alone. Many travelers, like yourself, are
+  curi
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-massage-gun-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-massage-gun-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip soon and wondering if you can bring your massage gun in your carry-on luggage? You're not alone.**

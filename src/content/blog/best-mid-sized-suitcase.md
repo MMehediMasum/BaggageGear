@@ -1,10 +1,14 @@
 ---
-title: "Best Mid Sized Suitcase: Top Expandable Picks for Smooth Travel"
-description: "Choosing the best mid sized suitcase can make travel easier and more organized. A good suitcase fits your belongings and meets airline size rules. Mid sized sui"
+title: 'Best Mid Sized Suitcase: Top Expandable Picks for Smooth Travel'
+description: Choosing the best mid sized suitcase can make travel easier and more
+  organized. A good suitcase fits your belongings and meets airline size rules. Mid
+  sized sui
 pubDate: 2026-07-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-mid-sized-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-mid-sized-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best mid sized suitcase can make travel easier and more organized. A good suitcase fits your belongings and meets airline size rules.**

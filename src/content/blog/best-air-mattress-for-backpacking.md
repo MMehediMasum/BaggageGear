@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Air Mattress for Backpacking: Ultralight, Compact, and Comfortable Picks"
 description: "Finding the best air mattress for backpacking can improve your outdoor sleep quality. A good mattress offers comfort, light weight, and easy packing. Backpackin"
 pubDate: 2026-06-07

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Folding Saw for Backpacking: Top Picks for Outdoor Enthusiasts"
 description: "A folding saw is a must-have tool for backpacking trips. It helps cut wood for fire, shelter, or gear repairs quickly and safely. Choosing the best folding saw "
 pubDate: 2026-06-15

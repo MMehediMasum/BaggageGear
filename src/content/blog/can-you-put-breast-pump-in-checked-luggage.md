@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Breast Pump in Checked Luggage: Essential Travel Tips"
-description: "Traveling as a parent presents its own unique set of challenges, and if you're planning a trip with a breast pump in tow, you're likely wondering about the best"
+title: 'Can You Put Breast Pump in Checked Luggage: Essential Travel Tips'
+description: Traveling as a parent presents its own unique set of challenges, and
+  if you're planning a trip with a breast pump in tow, you're likely wondering about
+  the best
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-breast-pump-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-breast-pump-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling as a parent presents its own unique set of challenges, and if you're planning a trip with a breast pump in tow, you're likely wondering about the best way to transport it. Can you put your breast pump in checked luggage?**

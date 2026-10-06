@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Bar Soap on Carry On: Ultimate TSA Travel Guide"
-description: "Ever found yourself standing in front of your suitcase, wondering if your beloved bar soap can make it through airport security in your carry-on? You're not alo"
+title: 'Can You Bring Bar Soap on Carry On: Ultimate TSA Travel Guide'
+description: Ever found yourself standing in front of your suitcase, wondering if
+  your beloved bar soap can make it through airport security in your carry-on? You're
+  not alo
 pubDate: 2026-04-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-bar-soap-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-bar-soap-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself standing in front of your suitcase, wondering if your beloved bar soap can make it through airport security in your carry-on? You're not alone.**

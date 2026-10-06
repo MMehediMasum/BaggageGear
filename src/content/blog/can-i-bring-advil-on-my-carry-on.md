@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Advil on My Carry On: Essential Travel Tips Revealed"
-description: "Navigating the rules of air travel can sometimes feel like a puzzle, especially when it comes to packing your carry-on bag. One question that might pop into you"
+title: 'Can I Bring Advil on My Carry On: Essential Travel Tips Revealed'
+description: Navigating the rules of air travel can sometimes feel like a puzzle,
+  especially when it comes to packing your carry-on bag. One question that might pop
+  into you
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-advil-on-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-advil-on-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating the rules of air travel can sometimes feel like a puzzle, especially when it comes to packing your carry-on bag. One question that might pop into your mind is: Can you bring Advil on your carry-on?**

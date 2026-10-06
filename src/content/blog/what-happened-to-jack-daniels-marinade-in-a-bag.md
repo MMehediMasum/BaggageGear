@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Happened to Jack Daniels Marinade in a Bag: Shocking Truth Revealed"
 description: "Have you ever reached for your favorite Jack Daniels Marinade in a Bag, only to find it missing from the store shelves? It’s a little frustrating, isn’t it? You"
 pubDate: 2026-03-01

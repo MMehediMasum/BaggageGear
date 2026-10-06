@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Suit Jacket in a Carry On: Expert Tips Revealed"
-description: "Packing a suit jacket in a carry-on can feel tricky. You want to keep it wrinkle-free and ready to wear, but space is limited. If you’ve ever opened your bag to"
+title: 'How to Pack a Suit Jacket in a Carry On: Expert Tips Revealed'
+description: Packing a suit jacket in a carry-on can feel tricky. You want to keep
+  it wrinkle-free and ready to wear, but space is limited. If you’ve ever opened your
+  bag to
 pubDate: 2026-03-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-suit-jacket-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-suit-jacket-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suit jacket in a carry-on can feel tricky. You want to keep it wrinkle-free and ready to wear, but space is limited.**

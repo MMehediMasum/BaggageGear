@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Backpack Boyz: Ultimate Guide to the Trendsetting Crew"
 description: "Curiosity piqued about Backpack Boyz? You're not alone. This intriguing name has been buzzing around, leaving many people wondering what it's all about. Whether"
 pubDate: 2026-01-05

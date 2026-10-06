@@ -1,10 +1,13 @@
 ---
-title: "Can You Carry on a Shaving Razor: Essential Travel Tips Revealed"
-description: "Imagine this: You’re packing for your long-awaited vacation or an important business trip. You’ve got your clothes, your travel-sized toiletries, and your favor"
+title: 'Can You Carry on a Shaving Razor: Essential Travel Tips Revealed'
+description: 'Imagine this: You’re packing for your long-awaited vacation or an important
+  business trip. You’ve got your clothes, your travel-sized toiletries, and your favor'
 pubDate: 2026-02-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-shaving-razor&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-shaving-razor&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You’re packing for your long-awaited vacation or an important business trip. You’ve got your clothes, your travel-sized toiletries, and your favorite book all neatly tucked away in your suitcase.**

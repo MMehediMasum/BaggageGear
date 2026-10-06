@@ -1,10 +1,14 @@
 ---
-title: "Where are Backpacks in Walmart: Ultimate Guide to Easy Finds"
-description: "Are you planning a trip, heading back to school, or just in need of a new backpack for everyday use? You've likely thought about heading to Walmart, a reliable "
+title: 'Where are Backpacks in Walmart: Ultimate Guide to Easy Finds'
+description: 'Are you planning a trip, heading back to school, or just in need of
+  a new backpack for everyday use? You''ve likely thought about heading to Walmart,
+  a reliable '
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-backpacks-in-walmart&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-backpacks-in-walmart&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning a trip, heading back to school, or just in need of a new backpack for everyday use? You've likely thought about heading to Walmart, a reliable go-to for almost everything on your list.**

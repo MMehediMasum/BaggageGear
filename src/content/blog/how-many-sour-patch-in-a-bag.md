@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Sour Patch in a Bag: Uncover the Sweet Truth!"
 description: "Have you ever ripped open a bag of Sour Patch Kids, only to wonder how many of those sweet and tangy delights are actually inside? You're not alone. That curiou"
 pubDate: 2026-02-17

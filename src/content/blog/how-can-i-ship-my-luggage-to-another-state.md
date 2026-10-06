@@ -1,10 +1,14 @@
 ---
-title: "How Can I Ship My Luggage to Another State: Easy & Secure Tips"
-description: "Are you planning a big move or a long vacation and wondering how to ship your luggage to another state? Whether you're relocating for a new job, heading off to "
+title: 'How Can I Ship My Luggage to Another State: Easy & Secure Tips'
+description: 'Are you planning a big move or a long vacation and wondering how to
+  ship your luggage to another state? Whether you''re relocating for a new job, heading
+  off to '
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-can-i-ship-my-luggage-to-another-state&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-can-i-ship-my-luggage-to-another-state&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a big move or a long vacation and wondering how to ship your luggage to another state? Whether you're relocating for a new job, heading off to college, or simply want to avoid the hassle of lugging suitcases through crowded airports, shipping your luggage can be a game-changer.**

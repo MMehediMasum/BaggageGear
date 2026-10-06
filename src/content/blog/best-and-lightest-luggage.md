@@ -1,10 +1,13 @@
 ---
-title: "Best And Lightest Luggage: Top Picks for Effortless Travel Adventures"
-description: "Choosing the best and lightest luggage makes travel easier and less tiring. Lightweight suitcases save effort and fit airline rules better. Travelers want lugga"
+title: 'Best And Lightest Luggage: Top Picks for Effortless Travel Adventures'
+description: Choosing the best and lightest luggage makes travel easier and less tiring.
+  Lightweight suitcases save effort and fit airline rules better. Travelers want lugga
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-and-lightest-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-and-lightest-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best and lightest luggage makes travel easier and less tiring. Lightweight suitcases save effort and fit airline rules better.**

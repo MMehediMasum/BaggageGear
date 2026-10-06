@@ -1,10 +1,14 @@
 ---
-title: "How Much to Ship a Suitcase: Ultimate Cost Guide & Tips"
-description: "Have you ever found yourself standing in an airport, suitcase in hand, wondering just how much it will cost to ship it to your next destination? You're not alon"
+title: 'How Much to Ship a Suitcase: Ultimate Cost Guide & Tips'
+description: Have you ever found yourself standing in an airport, suitcase in hand,
+  wondering just how much it will cost to ship it to your next destination? You're
+  not alon
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-ship-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-ship-a-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself standing in an airport, suitcase in hand, wondering just how much it will cost to ship it to your next destination? You're not alone.**

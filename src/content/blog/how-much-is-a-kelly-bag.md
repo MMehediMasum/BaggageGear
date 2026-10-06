@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Kelly Bag: Unveiling True Luxury Prices"
-description: "Ever found yourself captivated by the elegance and allure of a Kelly bag? You're not alone. This iconic piece of luxury has been a symbol of sophistication and "
+title: 'How Much is a Kelly Bag: Unveiling True Luxury Prices'
+description: 'Ever found yourself captivated by the elegance and allure of a Kelly
+  bag? You''re not alone. This iconic piece of luxury has been a symbol of sophistication
+  and '
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-kelly-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-kelly-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Ever found yourself captivated by the elegance and allure of a Kelly bag? You're not alone.**

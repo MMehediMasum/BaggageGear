@@ -1,10 +1,14 @@
 ---
-title: "Does Minute Maid Park Have a Clear Bag Policy? Essential Guide"
-description: "Planning a visit to Minute Maid Park? Excitement is in the air as you prepare to cheer for your favorite team. But wait—are you aware of the stadium’s bag polic"
+title: Does Minute Maid Park Have a Clear Bag Policy? Essential Guide
+description: Planning a visit to Minute Maid Park? Excitement is in the air as you
+  prepare to cheer for your favorite team. But wait—are you aware of the stadium’s
+  bag polic
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-minute-maid-park-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-minute-maid-park-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a visit to Minute Maid Park? Excitement is in the air as you prepare to cheer for your favorite team.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Moldy Leather Bag: Easy Steps for Spotless Results"
-description: "Is your favorite leather bag looking dull and spotted with mold? Mold not only ruins the look of your bag but can also damage the leather if left untreated. You"
+title: 'How to Clean Moldy Leather Bag: Easy Steps for Spotless Results'
+description: Is your favorite leather bag looking dull and spotted with mold? Mold
+  not only ruins the look of your bag but can also damage the leather if left untreated.
+  You
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-moldy-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-moldy-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your favorite leather bag looking dull and spotted with mold? Mold not only ruins the look of your bag but can also damage the leather if left untreated.**

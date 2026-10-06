@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Tornado Go Bag: Essential Checklist"
-description: "When a tornado warning sounds, every second counts. Do you have a go bag ready to keep you and your loved ones safe? Knowing exactly what to pack in a tornado g"
+title: 'What to Pack in a Tornado Go Bag: Essential Checklist'
+description: When a tornado warning sounds, every second counts. Do you have a go
+  bag ready to keep you and your loved ones safe? Knowing exactly what to pack in
+  a tornado g
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-tornado-go-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-tornado-go-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **When a tornado warning sounds, every second counts. Do you have a go bag ready to keep you and your loved ones safe?**

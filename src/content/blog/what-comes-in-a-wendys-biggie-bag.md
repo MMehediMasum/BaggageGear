@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Comes in a Wendy'S Biggie Bag: Ultimate Meal Breakdown"
 description: "Craving a delicious meal that doesn’t break the bank? You’re not alone. Many of us are on the hunt for the perfect combination of taste, satisfaction, and value"
 pubDate: 2025-10-25

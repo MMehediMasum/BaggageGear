@@ -1,10 +1,14 @@
 ---
-title: "How Big are Carry on Suitcases: Ultimate Size Guide Revealed"
-description: "Are you preparing for your next adventure and wondering how big a carry-on suitcase should be? You're not alone. Many travelers find themselves puzzled by the v"
+title: 'How Big are Carry on Suitcases: Ultimate Size Guide Revealed'
+description: Are you preparing for your next adventure and wondering how big a carry-on
+  suitcase should be? You're not alone. Many travelers find themselves puzzled by
+  the v
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-are-carry-on-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Size Basics
+heroImage: https://tse1.mm.bing.net/th?q=how-big-are-carry-on-suitcases&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you preparing for your next adventure and wondering how big a carry-on suitcase should be? You're not alone.**

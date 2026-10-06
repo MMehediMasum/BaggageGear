@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can I Store Batteries in a Plastic Bag: Safety Tips Revealed"
 description: "Are you wondering if storing batteries in a plastic bag is a good idea? You’re not alone. Many people face this question and want to ensure they are storing the"
 pubDate: 2026-04-05

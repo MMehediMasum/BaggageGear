@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long Can Crickets Live in a Bag: Essential Survival Facts"
 description: "Have you ever wondered how long crickets can survive inside a bag? Whether you’re a pet owner, a fisherman, or just curious, knowing how long your crickets can "
 pubDate: 2026-04-09

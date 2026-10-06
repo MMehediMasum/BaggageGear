@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Did Mike Ross Keep the Briefcase: Unveiling Secrets"
 description: "Have you ever wondered why Mike Ross kept the briefcase? It’s a small detail that holds a lot more meaning than you might think. If you’re a fan of the show or "
 pubDate: 2025-09-18

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Makeup Bag With a Zipper: Easy DIY Tutorial"
-description: "Have you ever wanted a makeup bag that fits your style perfectly? Imagine carrying your favorite products in a bag you made yourself. Sewing a makeup bag with a"
+title: 'How to Sew a Makeup Bag With a Zipper: Easy DIY Tutorial'
+description: Have you ever wanted a makeup bag that fits your style perfectly? Imagine
+  carrying your favorite products in a bag you made yourself. Sewing a makeup bag
+  with a
 pubDate: 2025-08-29
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-makeup-bag-with-a-zipper&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Installing Bag Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-makeup-bag-with-a-zipper&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wanted a makeup bag that fits your style perfectly? Imagine carrying your favorite products in a bag you made yourself.**

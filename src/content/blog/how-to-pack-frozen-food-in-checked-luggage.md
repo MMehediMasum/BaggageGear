@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Frozen Food in Checked Luggage: Expert Tips Revealed"
-description: "Packing frozen food in your checked luggage can feel like a daunting task. You might worry about spills, spoilage, or even those dreaded TSA checks. But don't l"
+title: 'How to Pack Frozen Food in Checked Luggage: Expert Tips Revealed'
+description: Packing frozen food in your checked luggage can feel like a daunting
+  task. You might worry about spills, spoilage, or even those dreaded TSA checks.
+  But don't l
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-frozen-food-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-frozen-food-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing frozen food in your checked luggage can feel like a daunting task. You might worry about spills, spoilage, or even those dreaded TSA checks.**

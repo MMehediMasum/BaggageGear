@@ -1,10 +1,14 @@
 ---
-title: "Are Patagonia Backpacks Waterproof: Ultimate Guide to Weatherproof Gear"
-description: "Are you planning your next outdoor adventure and wondering if a Patagonia backpack is the right choice for you? When you're out in nature, the weather can be un"
+title: 'Are Patagonia Backpacks Waterproof: Ultimate Guide to Weatherproof Gear'
+description: Are you planning your next outdoor adventure and wondering if a Patagonia
+  backpack is the right choice for you? When you're out in nature, the weather can
+  be un
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-patagonia-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-patagonia-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next outdoor adventure and wondering if a Patagonia backpack is the right choice for you? When you're out in nature, the weather can be unpredictable, and you want to ensure your gear stays dry and protected.**

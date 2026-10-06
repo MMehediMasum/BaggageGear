@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Patagonia Duffel Bag: Easy Steps"
-description: "You know how tricky it can be to pack your Patagonia duffel bag neatly after a trip. If you’ve ever struggled to fold it properly, leaving it bulky and messy, y"
+title: 'How to Fold a Patagonia Duffel Bag: Easy Steps'
+description: You know how tricky it can be to pack your Patagonia duffel bag neatly
+  after a trip. If you’ve ever struggled to fold it properly, leaving it bulky and
+  messy, y
 pubDate: 2025-09-22
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-patagonia-duffel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Folding And Packable Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-patagonia-duffel-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **You know how tricky it can be to pack your Patagonia duffel bag neatly after a trip. If you’ve ever struggled to fold it properly, leaving it bulky and messy, you’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Luggage on Top of Car: Easy, Safe & Stress-Free Tips"
-description: "Are you planning a road trip and running out of space inside your car for all that essential luggage? We've all been there. The good news is, you can use the ro"
+title: 'How to Carry Luggage on Top of Car: Easy, Safe & Stress-Free Tips'
+description: Are you planning a road trip and running out of space inside your car
+  for all that essential luggage? We've all been there. The good news is, you can
+  use the ro
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-luggage-on-top-of-car&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-luggage-on-top-of-car&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a road trip and running out of space inside your car for all that essential luggage? We've all been there.**

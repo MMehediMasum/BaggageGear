@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 20 Inch Suitcase: Ultimate Size Guide Revealed"
-description: "Have you ever found yourself standing in front of a row of suitcases, wondering just how big a 20 inch suitcase really is? You're not alone. This seemingly simp"
+title: 'How Big is a 20 Inch Suitcase: Ultimate Size Guide Revealed'
+description: Have you ever found yourself standing in front of a row of suitcases,
+  wondering just how big a 20 inch suitcase really is? You're not alone. This seemingly
+  simp
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-20-inch-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-20-inch-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself standing in front of a row of suitcases, wondering just how big a 20 inch suitcase really is? You're not alone.**

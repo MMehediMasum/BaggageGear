@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Train Your Dragon Backpack: Ultimate Guide for Fans"
 description: "Are you a fan of the magical world of dragons and adventures? If so, a \"How to Train Your Dragon\" backpack might just be the perfect addition to your collection"
 pubDate: 2026-01-04

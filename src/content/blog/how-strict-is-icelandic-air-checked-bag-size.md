@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Icelandic Air Checked Bag Size: Ultimate Guide"
-description: "Planning your next adventure with Icelandic Air? Imagine this: you're at the airport, your excitement is through the roof, and then you get stopped at the gate "
+title: 'How Strict is Icelandic Air Checked Bag Size: Ultimate Guide'
+description: 'Planning your next adventure with Icelandic Air? Imagine this: you''re
+  at the airport, your excitement is through the roof, and then you get stopped at
+  the gate '
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-icelandic-air-checked-bag-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-icelandic-air-checked-bag-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure with Icelandic Air? Imagine this: you're at the airport, your excitement is through the roof, and then you get stopped at the gate because your checked bag is too big.**

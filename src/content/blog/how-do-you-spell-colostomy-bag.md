@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Spell Colostomy Bag: Clear Guide for Correct Spelling"
 description: "Ever found yourself wondering about the correct spelling of medical terms? You're not alone. \"How do you spell colostomy bag? \" Is a question many people ask, e"
 pubDate: 2026-01-17

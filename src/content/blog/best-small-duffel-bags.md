@@ -1,10 +1,14 @@
 ---
-title: "Best Small Duffel Bags for Stylish and Convenient Travel Adventures"
-description: "Small duffel bags offer convenience without bulk. They fit essentials for gym, travel, or daily use. Choosing the best small duffel bag means finding one that i"
+title: Best Small Duffel Bags for Stylish and Convenient Travel Adventures
+description: Small duffel bags offer convenience without bulk. They fit essentials
+  for gym, travel, or daily use. Choosing the best small duffel bag means finding
+  one that i
 pubDate: 2026-06-12
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-duffel-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-small-duffel-bags&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Small duffel bags offer convenience without bulk. They fit essentials for gym, travel, or daily use.**

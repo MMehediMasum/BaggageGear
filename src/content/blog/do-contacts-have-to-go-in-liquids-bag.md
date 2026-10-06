@@ -1,10 +1,14 @@
 ---
-title: "Do Contacts Have to Go in Liquids Bag: Essential Travel Tips"
-description: "Are you preparing for a trip and wondering if your contacts need to go in the liquids bag? Navigating airport security can be tricky, especially when it comes t"
+title: 'Do Contacts Have to Go in Liquids Bag: Essential Travel Tips'
+description: Are you preparing for a trip and wondering if your contacts need to go
+  in the liquids bag? Navigating airport security can be tricky, especially when it
+  comes t
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-contacts-have-to-go-in-liquids-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=do-contacts-have-to-go-in-liquids-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you preparing for a trip and wondering if your contacts need to go in the liquids bag? Navigating airport security can be tricky, especially when it comes to knowing what needs to be packed where.**

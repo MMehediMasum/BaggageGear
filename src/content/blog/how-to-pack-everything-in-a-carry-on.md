@@ -1,10 +1,13 @@
 ---
-title: "How to Pack Everything in a Carry on: Ultimate Space-Saving Tips"
-description: "Are you tired of the hassle of checking in luggage and waiting at baggage claim? Imagine stepping off the plane and heading straight to your destination without"
+title: 'How to Pack Everything in a Carry on: Ultimate Space-Saving Tips'
+description: Are you tired of the hassle of checking in luggage and waiting at baggage
+  claim? Imagine stepping off the plane and heading straight to your destination without
 pubDate: 2025-09-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-everything-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-everything-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you tired of the hassle of checking in luggage and waiting at baggage claim? Imagine stepping off the plane and heading straight to your destination without the extra baggage stress.**

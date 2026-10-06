@@ -1,10 +1,14 @@
 ---
-title: "Do You Get a Carry on With Southwest: Ultimate Packing Guide 2025"
-description: "When planning your next adventure with Southwest Airlines, there's one question that's likely on your mind: \"Do you get a carry-on with Southwest?\" You’re not a"
+title: 'Do You Get a Carry on With Southwest: Ultimate Packing Guide 2025'
+description: 'When planning your next adventure with Southwest Airlines, there''s
+  one question that''s likely on your mind: "Do you get a carry-on with Southwest?"
+  You’re not a'
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=do-you-get-a-carry-on-with-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When planning your next adventure with Southwest Airlines, there's one question that's likely on your mind: "Do you get a carry-on with Southwest?" You’re not alone in wondering about this, and understanding the specifics can make your travel experience smooth and stress-free.**

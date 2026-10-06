@@ -1,10 +1,14 @@
 ---
-title: "What Food to Take Backpacking: Ultimate Energy-Boosting Guide"
-description: "Planning a backpacking trip? One of the most exciting parts is deciding what food to bring along. Choosing the right food can make or break your adventure. You "
+title: 'What Food to Take Backpacking: Ultimate Energy-Boosting Guide'
+description: 'Planning a backpacking trip? One of the most exciting parts is deciding
+  what food to bring along. Choosing the right food can make or break your adventure.
+  You '
 pubDate: 2025-09-04
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-food-to-take-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=what-food-to-take-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Planning a backpacking trip? One of the most exciting parts is deciding what food to bring along.**

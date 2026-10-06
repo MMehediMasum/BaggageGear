@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Who Said Keep Calm And Carry on: Unveiling Its True Origin"
 description: "Have you ever seen the phrase \"Keep Calm and Carry On\" and wondered where it came from? You're not alone. This iconic slogan has found its way onto posters, mug"
 pubDate: 2026-05-01

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change Bag in Diaper Genie: Quick & Easy Steps Guide"
 description: "Are you a new parent juggling the many tasks that come with caring for your little one? Changing diapers is a part of daily life now, and having a Diaper Genie "
 pubDate: 2025-09-14

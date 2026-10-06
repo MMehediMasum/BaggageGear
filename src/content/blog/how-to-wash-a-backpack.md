@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Backpack: Easy Steps for a Fresh, Clean Bag"
-description: "Is your backpack starting to look a bit worse for wear? Maybe it's sporting a few mysterious stains or smells like it’s been on one too many adventures. Don't w"
+title: 'How to Wash a Backpack: Easy Steps for a Fresh, Clean Bag'
+description: Is your backpack starting to look a bit worse for wear? Maybe it's sporting
+  a few mysterious stains or smells like it’s been on one too many adventures. Don't
+  w
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning A Backpack By Hand
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your backpack starting to look a bit worse for wear? Maybe it's sporting a few mysterious stains or smells like it’s been on one too many adventures.**

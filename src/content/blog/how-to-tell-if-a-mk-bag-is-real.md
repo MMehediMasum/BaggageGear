@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Mk Bag is Real: Expert Tips to Spot Fakes"
-description: "You’ve found a Michael Kors bag that caught your eye. But how can you be sure it’s the real deal and not a clever fake? You don’t want to waste your money on a "
+title: 'How to Tell If a Mk Bag is Real: Expert Tips to Spot Fakes'
+description: 'You’ve found a Michael Kors bag that caught your eye. But how can you
+  be sure it’s the real deal and not a clever fake? You don’t want to waste your money
+  on a '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-mk-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-mk-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve found a Michael Kors bag that caught your eye. But how can you be sure it’s the real deal and not a clever fake?**

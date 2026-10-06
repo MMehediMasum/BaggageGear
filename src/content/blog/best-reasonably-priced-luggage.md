@@ -1,10 +1,14 @@
 ---
-title: "Best Reasonably Priced Luggage: Top Picks for Stylish Travelers"
-description: "Finding affordable luggage that lasts and looks good can be hard. This list shows the best reasonably priced luggage options for all travelers. Choosing the rig"
+title: 'Best Reasonably Priced Luggage: Top Picks for Stylish Travelers'
+description: Finding affordable luggage that lasts and looks good can be hard. This
+  list shows the best reasonably priced luggage options for all travelers. Choosing
+  the rig
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-reasonably-priced-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-reasonably-priced-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding affordable luggage that lasts and looks good can be hard. This list shows the best reasonably priced luggage options for all travelers.**

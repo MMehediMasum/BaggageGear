@@ -1,10 +1,14 @@
 ---
-title: "Does Jetblue Charge for Checked Luggage? Truth Revealed!"
-description: "Are you planning your next getaway and considering flying with JetBlue? One of the first questions that might pop into your mind is whether JetBlue charges for "
+title: Does Jetblue Charge for Checked Luggage? Truth Revealed!
+description: 'Are you planning your next getaway and considering flying with JetBlue?
+  One of the first questions that might pop into your mind is whether JetBlue charges
+  for '
 pubDate: 2026-03-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jetblue-charge-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-jetblue-charge-for-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next getaway and considering flying with JetBlue? One of the first questions that might pop into your mind is whether JetBlue charges for checked luggage.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Are Suitcase Record Players Bad: Truths You Need to Know"
 description: "Picture this: you’re at a cozy gathering, and someone opens up a suitcase, revealing a sleek record player inside. Instantly, the room fills with the nostalgic "
 pubDate: 2026-03-16

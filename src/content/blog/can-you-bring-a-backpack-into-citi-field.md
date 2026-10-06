@@ -1,10 +1,13 @@
 ---
-title: "Can You Bring a Backpack into Citi Field: Essential Entry Rules"
-description: "Imagine this: a sunny day in New York City, the excitement of a baseball game at Citi Field, and you're all set to cheer for your favorite team. But wait—you're"
+title: 'Can You Bring a Backpack into Citi Field: Essential Entry Rules'
+description: 'Imagine this: a sunny day in New York City, the excitement of a baseball
+  game at Citi Field, and you''re all set to cheer for your favorite team. But wait—you''re'
 pubDate: 2025-11-19
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-citi-field&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-citi-field&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: a sunny day in New York City, the excitement of a baseball game at Citi Field, and you're all set to cheer for your favorite team. But wait—you're not sure if you can bring your trusty backpack into the stadium.**

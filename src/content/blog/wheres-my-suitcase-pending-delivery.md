@@ -1,10 +1,14 @@
 ---
-title: "Where'S My Suitcase Pending Delivery: Track & Resolve Fast!"
-description: "You’ve just returned from an exciting trip, and as you stand by the baggage carousel, anticipation turns into frustration. “Where’s my suitcase?” you wonder. Wa"
+title: 'Where''S My Suitcase Pending Delivery: Track & Resolve Fast!'
+description: You’ve just returned from an exciting trip, and as you stand by the baggage
+  carousel, anticipation turns into frustration. “Where’s my suitcase?” you wonder.
+  Wa
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=wheres-my-suitcase-pending-delivery&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=wheres-my-suitcase-pending-delivery&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’ve just returned from an exciting trip, and as you stand by the baggage carousel, anticipation turns into frustration. “Where’s my suitcase?” you wonder.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Fit More Clothes in Carry On: Ultimate Packing Hacks"
-description: "Do you ever feel like you're playing a game of Tetris when packing your carry-on? You're not alone. Fitting all your favorite outfits into a tiny suitcase can s"
+title: 'How to Fit More Clothes in Carry On: Ultimate Packing Hacks'
+description: Do you ever feel like you're playing a game of Tetris when packing your
+  carry-on? You're not alone. Fitting all your favorite outfits into a tiny suitcase
+  can s
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fit-more-clothes-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fit-more-clothes-in-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Do you ever feel like you're playing a game of Tetris when packing your carry-on? You're not alone.**

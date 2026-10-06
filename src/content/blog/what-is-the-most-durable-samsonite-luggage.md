@@ -1,10 +1,14 @@
 ---
-title: "What is the Most Durable Samsonite Luggage: Ultimate Strength Tested"
-description: "Imagine you're standing at the baggage carousel, eagerly waiting for your suitcase to appear. You've been on a long flight, and all you want is to grab your lug"
+title: 'What is the Most Durable Samsonite Luggage: Ultimate Strength Tested'
+description: Imagine you're standing at the baggage carousel, eagerly waiting for
+  your suitcase to appear. You've been on a long flight, and all you want is to grab
+  your lug
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-most-durable-samsonite-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-most-durable-samsonite-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Imagine you're standing at the baggage carousel, eagerly waiting for your suitcase to appear. You've been on a long flight, and all you want is to grab your luggage and head to your destination.**

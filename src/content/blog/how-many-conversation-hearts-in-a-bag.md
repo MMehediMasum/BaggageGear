@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Conversation Hearts in a Bag: Surprising Candy Count Revealed"
 description: "Are you curious about the number of conversation hearts in a bag? You've come to the right place. Whether you're planning for a Valentine's Day party or just wa"
 pubDate: 2026-02-27

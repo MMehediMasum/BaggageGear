@@ -1,10 +1,14 @@
 ---
-title: "How to Clean My Kate Spade Bag: Easy Steps for Pristine Care"
-description: "Your Kate Spade bag isn’t just an accessory—it's a statement piece that reflects your style and personality. Over time, though, everyday use can leave it lookin"
+title: 'How to Clean My Kate Spade Bag: Easy Steps for Pristine Care'
+description: Your Kate Spade bag isn’t just an accessory—it's a statement piece that
+  reflects your style and personality. Over time, though, everyday use can leave it
+  lookin
 pubDate: 2025-12-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-my-kate-spade-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Care
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-my-kate-spade-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Kate Spade bag isn’t just an accessory—it's a statement piece that reflects your style and personality. Over time, though, everyday use can leave it looking less than pristine.**

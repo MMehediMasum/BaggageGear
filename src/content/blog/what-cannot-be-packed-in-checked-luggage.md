@@ -1,10 +1,14 @@
 ---
-title: "What Cannot Be Packed in Checked Luggage: Essential Travel Rules"
-description: "Imagine standing at the airport, excited for your upcoming adventure, only to find out that some of your belongings can't fly with you in your checked luggage. "
+title: 'What Cannot Be Packed in Checked Luggage: Essential Travel Rules'
+description: 'Imagine standing at the airport, excited for your upcoming adventure,
+  only to find out that some of your belongings can''t fly with you in your checked
+  luggage. '
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-cannot-be-packed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-cannot-be-packed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine standing at the airport, excited for your upcoming adventure, only to find out that some of your belongings can't fly with you in your checked luggage. Frustrating, right?**

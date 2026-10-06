@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Boil a Foodsaver Bag? Safety Tips & Expert Answers"
 description: "Have you ever found yourself wondering if you can boil a Foodsaver bag? Maybe you're in a rush, trying to whip up a quick meal without compromising on freshness"
 pubDate: 2026-03-08

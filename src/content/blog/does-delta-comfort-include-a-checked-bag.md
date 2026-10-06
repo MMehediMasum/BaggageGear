@@ -1,10 +1,14 @@
 ---
-title: "Does Delta Comfort Include a Checked Bag? Uncover the Truth!"
-description: "Have you ever booked a flight and wondered whether your ticket includes a checked bag? If you're considering Delta Comfort+, you're probably asking yourself the"
+title: Does Delta Comfort Include a Checked Bag? Uncover the Truth!
+description: Have you ever booked a flight and wondered whether your ticket includes
+  a checked bag? If you're considering Delta Comfort+, you're probably asking yourself
+  the
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-comfort-include-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-comfort-include-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever booked a flight and wondered whether your ticket includes a checked bag? If you're considering Delta Comfort+, you're probably asking yourself the same question.**

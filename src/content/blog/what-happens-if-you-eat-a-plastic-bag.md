@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Happens If You Eat a Plastic Bag: Shocking Health Risks Revealed"
 description: "Have you ever wondered what might happen if you accidentally swallowed a piece of plastic? It sounds like an unusual scenario, but it's more common than you mig"
 pubDate: 2025-12-11

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Pistol Holster for Backpacking: Top Versatile and Secure Options"
 description: "Choosing the best pistol holster for backpacking ensures safety, comfort, and quick access to your firearm. A good holster fits your pistol securely and suits o"
 pubDate: 2026-06-12

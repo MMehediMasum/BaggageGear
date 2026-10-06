@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang Backpack Blower: Easy Steps for Safe Storage"
 description: "Ever felt the frustration of tripping over your backpack blower in the garage or shed? You’re not alone. Many homeowners struggle with storing their outdoor equ"
 pubDate: 2025-12-19

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Powdered Eggs for Backpacking: Top Choices for Outdoor Adventures"
 description: "Powdered eggs are a lightweight, nutritious option for backpacking meals. They save space and last long without refrigeration. Backpackers need food that is eas"
 pubDate: 2025-10-20

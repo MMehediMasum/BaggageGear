@@ -1,10 +1,14 @@
 ---
-title: "Does Turkish Airlines Weigh Your Carry On? Essential Travel Tips"
-description: "Picture this: You're at the airport, excitement bubbling as you prepare to board your Turkish Airlines flight. But then, a question pops into your mind: “Does T"
+title: Does Turkish Airlines Weigh Your Carry On? Essential Travel Tips
+description: 'Picture this: You''re at the airport, excitement bubbling as you prepare
+  to board your Turkish Airlines flight. But then, a question pops into your mind:
+  “Does T'
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-turkish-airlines-weigh-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=does-turkish-airlines-weigh-your-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: You're at the airport, excitement bubbling as you prepare to board your Turkish Airlines flight. But then, a question pops into your mind: “Does Turkish Airlines weigh your carry-on?” The last thing you want is an unexpected surprise at the gate, right?**

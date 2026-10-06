@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Medication in a Carry On: Essential Travel Tips"
-description: "You're packing for your upcoming trip, and you're wondering, \"Can you bring medication in a carry-on?\" It's a common question that can make or break your travel"
+title: 'Can You Bring Medication in a Carry On: Essential Travel Tips'
+description: You're packing for your upcoming trip, and you're wondering, "Can you
+  bring medication in a carry-on?" It's a common question that can make or break your
+  travel
 pubDate: 2025-12-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-medication-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-medication-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming trip, and you're wondering, "Can you bring medication in a carry-on?" It's a common question that can make or break your travel experience.**

@@ -1,10 +1,14 @@
 ---
-title: "What Size Pottery Barn Backpack for Kindergarten: Ultimate Guide"
-description: "Choosing the right backpack for your child’s first day of kindergarten can feel like a big decision. You want something stylish yet functional, durable yet ligh"
+title: 'What Size Pottery Barn Backpack for Kindergarten: Ultimate Guide'
+description: Choosing the right backpack for your child’s first day of kindergarten
+  can feel like a big decision. You want something stylish yet functional, durable
+  yet ligh
 pubDate: 2025-09-12
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-pottery-barn-backpack-for-kindergarten&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=what-size-pottery-barn-backpack-for-kindergarten&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the right backpack for your child’s first day of kindergarten can feel like a big decision. You want something stylish yet functional, durable yet lightweight.**

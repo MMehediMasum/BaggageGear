@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Suffocate Fleas in a Plastic Bag? Effective Flea Control Tips"
 description: "Are you battling an invasion of tiny, pesky fleas and wondering if there's a simple solution to get rid of them? You’re not alone. Many pet owners and homeowner"
 pubDate: 2025-12-23

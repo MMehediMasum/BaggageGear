@@ -1,10 +1,13 @@
 ---
-title: "How Much is 15 Kg Luggage: Ultimate Guide to Fees & Limits"
-description: "Are you planning your next trip and wondering, \"How much is 15 kg luggage?\" You're not alone. Many travelers face this question when trying to pack efficiently "
+title: 'How Much is 15 Kg Luggage: Ultimate Guide to Fees & Limits'
+description: 'Are you planning your next trip and wondering, "How much is 15 kg luggage?"
+  You''re not alone. Many travelers face this question when trying to pack efficiently '
 pubDate: 2025-10-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-15-kg-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-15-kg-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next trip and wondering, "How much is 15 kg luggage?" You're not alone.**

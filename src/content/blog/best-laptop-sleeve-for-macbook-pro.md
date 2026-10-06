@@ -1,10 +1,13 @@
 ---
-title: "Best Laptop Sleeve for Macbook Pro: Top Protective Cases Reviewed"
-description: "Choosing the best laptop sleeve for your MacBook Pro helps protect it from scratches and bumps. A good sleeve fits well and offers extra space for accessories. "
+title: 'Best Laptop Sleeve for Macbook Pro: Top Protective Cases Reviewed'
+description: 'Choosing the best laptop sleeve for your MacBook Pro helps protect it
+  from scratches and bumps. A good sleeve fits well and offers extra space for accessories. '
 pubDate: 2025-09-14
-author: "ivercalloway"
-categories: ["Work & Business Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-laptop-sleeve-for-macbook-pro&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Travel Accessories
+heroImage: https://tse1.mm.bing.net/th?q=best-laptop-sleeve-for-macbook-pro&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best laptop sleeve for your MacBook Pro helps protect it from scratches and bumps. A good sleeve fits well and offers extra space for accessories.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Wheeled Carry On Luggage for Smooth Travel and Maximum Durability"
-description: "Choosing the best wheeled carry-on luggage can make travel easier and less stressful. A good carry-on fits airline rules, holds essentials, and rolls smoothly. "
+title: Best Wheeled Carry On Luggage for Smooth Travel and Maximum Durability
+description: 'Choosing the best wheeled carry-on luggage can make travel easier and
+  less stressful. A good carry-on fits airline rules, holds essentials, and rolls
+  smoothly. '
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-wheeled-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-wheeled-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best wheeled carry-on luggage can make travel easier and less stressful. A good carry-on fits airline rules, holds essentials, and rolls smoothly.**

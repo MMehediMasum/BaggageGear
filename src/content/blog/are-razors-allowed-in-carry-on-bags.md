@@ -1,10 +1,14 @@
 ---
-title: "Are Razors Allowed in Carry on Bags: Essential Travel Rules Explained"
-description: "Imagine this: You're packing for your upcoming trip, and you're almost done. But then, a question pops up in your mind. \"Are razors allowed in carry-on bags? \" "
+title: 'Are Razors Allowed in Carry on Bags: Essential Travel Rules Explained'
+description: 'Imagine this: You''re packing for your upcoming trip, and you''re almost
+  done. But then, a question pops up in your mind. "Are razors allowed in carry-on
+  bags? " '
 pubDate: 2026-01-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-razors-allowed-in-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-razors-allowed-in-carry-on-bags&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're packing for your upcoming trip, and you're almost done. But then, a question pops up in your mind.**

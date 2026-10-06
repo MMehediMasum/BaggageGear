@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for African Safari: Top Picks for Adventurous Travelers"
-description: "Choosing the best luggage for an African safari makes your trip easier and more enjoyable. Durable, lightweight bags with useful features suit the rugged safari"
+title: 'Best Luggage for African Safari: Top Picks for Adventurous Travelers'
+description: Choosing the best luggage for an African safari makes your trip easier
+  and more enjoyable. Durable, lightweight bags with useful features suit the rugged
+  safari
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-african-safari&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Safari And Specialty Trip Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-african-safari&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for an African safari makes your trip easier and more enjoyable. Durable, lightweight bags with useful features suit the rugged safari environment.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Start a Husqvarna Backpack Blower: Easy Step-by-Step Guide"
 description: "Starting your Husqvarna backpack blower doesn’t have to be confusing or frustrating. Whether you’re new to using this powerful tool or just need a quick refresh"
 pubDate: 2025-10-07

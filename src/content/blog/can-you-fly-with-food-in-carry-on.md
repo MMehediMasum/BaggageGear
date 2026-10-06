@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Food in Carry On: Ultimate Travel Guide Tips"
-description: "You’re packing for your upcoming flight, and suddenly you wonder, \"Can you fly with food in your carry-on?\" This question might have popped up because you're pl"
+title: 'Can You Fly With Food in Carry On: Ultimate Travel Guide Tips'
+description: You’re packing for your upcoming flight, and suddenly you wonder, "Can
+  you fly with food in your carry-on?" This question might have popped up because
+  you're pl
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-food-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-food-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re packing for your upcoming flight, and suddenly you wonder, "Can you fly with food in your carry-on?" This question might have popped up because you're planning to bring homemade snacks, a special gift, or simply because airplane food isn't your favorite.**

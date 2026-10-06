@@ -1,10 +1,14 @@
 ---
-title: "Does Away Luggage Go on Sale: Insider Tips to Save Big"
-description: "Are you on the hunt for stylish and durable luggage but hoping to snag a deal? If you've had your eye on Away luggage, you're not alone. Known for their sleek d"
+title: 'Does Away Luggage Go on Sale: Insider Tips to Save Big'
+description: Are you on the hunt for stylish and durable luggage but hoping to snag
+  a deal? If you've had your eye on Away luggage, you're not alone. Known for their
+  sleek d
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-away-luggage-go-on-sale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-away-luggage-go-on-sale&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for stylish and durable luggage but hoping to snag a deal? If you've had your eye on Away luggage, you're not alone.**

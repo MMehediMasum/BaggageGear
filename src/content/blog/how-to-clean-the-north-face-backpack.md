@@ -1,10 +1,14 @@
 ---
-title: "How to Clean the North Face Backpack: Ultimate Step-by-Step Guide"
-description: "Are you tired of your North Face backpack looking a little worse for wear? Maybe it's covered in dirt from your last hike or stained from a spilled drink. Whate"
+title: 'How to Clean the North Face Backpack: Ultimate Step-by-Step Guide'
+description: Are you tired of your North Face backpack looking a little worse for
+  wear? Maybe it's covered in dirt from your last hike or stained from a spilled drink.
+  Whate
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-the-north-face-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-the-north-face-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of your North Face backpack looking a little worse for wear? Maybe it's covered in dirt from your last hike or stained from a spilled drink.**

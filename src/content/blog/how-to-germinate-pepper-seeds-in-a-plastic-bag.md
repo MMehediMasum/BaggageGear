@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Germinate Pepper Seeds in a Plastic Bag: Easy Step-by-Step Guide"
 description: "Imagine growing your own vibrant peppers right from your home, without the mess of soil and pots. Sounds intriguing, right? If you've ever felt daunted by the i"
 pubDate: 2026-03-17

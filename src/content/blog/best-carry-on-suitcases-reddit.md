@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Suitcases Reddit Users Recommend for Durable Red Luggage"
-description: "Finding the best carry-on suitcase can make travel easier and less stressful. Reddit users share honest reviews and real experiences to help choose the right on"
+title: Best Carry On Suitcases Reddit Users Recommend for Durable Red Luggage
+description: Finding the best carry-on suitcase can make travel easier and less stressful.
+  Reddit users share honest reviews and real experiences to help choose the right
+  on
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-suitcases-reddit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-suitcases-reddit&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry-on suitcase can make travel easier and less stressful. Reddit users share honest reviews and real experiences to help choose the right one.**

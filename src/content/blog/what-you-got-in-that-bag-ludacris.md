@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What You Got in That Bag Ludacris: Unpacking the Hype"
 description: "Ever wondered what secrets lie within the lyrics of your favorite songs? When Ludacris asks, \"What You Got in That Bag,\" he's not just delivering an iconic line"
 pubDate: 2025-12-06

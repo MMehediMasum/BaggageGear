@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash Osprey Backpacks: Ultimate Cleaning Guide Revealed"
-description: "Have you ever looked at your trusty Osprey backpack and wondered if it's time for a good wash? You're not alone. Whether you're an avid hiker, a frequent travel"
+title: 'Can You Wash Osprey Backpacks: Ultimate Cleaning Guide Revealed'
+description: Have you ever looked at your trusty Osprey backpack and wondered if it's
+  time for a good wash? You're not alone. Whether you're an avid hiker, a frequent
+  travel
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-osprey-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-osprey-backpacks&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your trusty Osprey backpack and wondered if it's time for a good wash? You're not alone.**

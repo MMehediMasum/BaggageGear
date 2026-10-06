@@ -1,10 +1,14 @@
 ---
-title: "Best Weekend Carry on Bag for Women: Stylish, Spacious, and Functional"
-description: "Choosing the best weekend carry-on bag makes short trips easier and more organized. A good bag fits essentials, stays lightweight, and suits your style. Weekend"
+title: 'Best Weekend Carry on Bag for Women: Stylish, Spacious, and Functional'
+description: Choosing the best weekend carry-on bag makes short trips easier and more
+  organized. A good bag fits essentials, stays lightweight, and suits your style.
+  Weekend
 pubDate: 2026-08-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-weekend-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-weekend-carry-on-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best weekend carry-on bag makes short trips easier and more organized. A good bag fits essentials, stays lightweight, and suits your style.**

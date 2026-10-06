@@ -1,10 +1,14 @@
 ---
-title: "Best Dive Bag for Air Travel: Top Picks for Scuba and Snorkeling Gear"
-description: "Finding the best dive bag for air travel makes your trip easier and protects your gear. A good bag fits all your equipment and meets airline rules. Traveling wi"
+title: 'Best Dive Bag for Air Travel: Top Picks for Scuba and Snorkeling Gear'
+description: Finding the best dive bag for air travel makes your trip easier and protects
+  your gear. A good bag fits all your equipment and meets airline rules. Traveling
+  wi
 pubDate: 2026-06-05
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dive-bag-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Waterproof And Dry Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-dive-bag-for-air-travel&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best dive bag for air travel makes your trip easier and protects your gear. A good bag fits all your equipment and meets airline rules.**

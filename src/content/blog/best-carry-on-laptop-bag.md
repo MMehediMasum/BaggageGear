@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Laptop Bag: Ultimate Travel Companion with USB Port"
-description: "Choosing the best carry on laptop bag makes travel easier and keeps your devices safe. A good bag fits laptops, holds essentials, and meets airline rules. A car"
+title: 'Best Carry on Laptop Bag: Ultimate Travel Companion with USB Port'
+description: Choosing the best carry on laptop bag makes travel easier and keeps your
+  devices safe. A good bag fits laptops, holds essentials, and meets airline rules.
+  A car
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-laptop-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptop Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-laptop-bag&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best carry on laptop bag makes travel easier and keeps your devices safe. A good bag fits laptops, holds essentials, and meets airline rules.**

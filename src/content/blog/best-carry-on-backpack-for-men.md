@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Backpack for Men: Top Expandable Travel Bags Reviewed"
-description: "Choosing the best carry on backpack for men makes travel easier and more organized. A good backpack fits airline rules and holds all essentials comfortably. Tra"
+title: 'Best Carry on Backpack for Men: Top Expandable Travel Bags Reviewed'
+description: Choosing the best carry on backpack for men makes travel easier and more
+  organized. A good backpack fits airline rules and holds all essentials comfortably.
+  Tra
 pubDate: 2026-08-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-backpack-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-backpack-for-men&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best carry on backpack for men makes travel easier and more organized. A good backpack fits airline rules and holds all essentials comfortably.**

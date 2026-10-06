@@ -1,10 +1,14 @@
 ---
-title: "Why are Jansport Backpacks So Expensive: Unveiling the True Value"
-description: "Ever found yourself wondering why Jansport backpacks seem to come with a hefty price tag? You're not alone. Many people question why these iconic bags cost more"
+title: 'Why are Jansport Backpacks So Expensive: Unveiling the True Value'
+description: Ever found yourself wondering why Jansport backpacks seem to come with
+  a hefty price tag? You're not alone. Many people question why these iconic bags
+  cost more
 pubDate: 2025-12-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=why-are-jansport-backpacks-so-expensive&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=why-are-jansport-backpacks-so-expensive&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever found yourself wondering why Jansport backpacks seem to come with a hefty price tag? You're not alone.**

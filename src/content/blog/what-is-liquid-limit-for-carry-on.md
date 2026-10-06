@@ -1,10 +1,13 @@
 ---
-title: "What is Liquid Limit for Carry on: Essential Guide & Tips"
-description: "Ever found yourself standing at the airport security checkpoint, frantically rearranging your toiletries, unsure if you're about to lose your favorite shampoo? "
+title: 'What is Liquid Limit for Carry on: Essential Guide & Tips'
+description: 'Ever found yourself standing at the airport security checkpoint, frantically
+  rearranging your toiletries, unsure if you''re about to lose your favorite shampoo? '
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-liquid-limit-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-liquid-limit-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself standing at the airport security checkpoint, frantically rearranging your toiletries, unsure if you're about to lose your favorite shampoo? You're not alone.**

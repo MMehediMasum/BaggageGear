@@ -1,10 +1,14 @@
 ---
-title: "Is Hairspray Allowed in Carry On: Essential TSA Rules Explained"
-description: "You're standing in front of your suitcase, ready for your next adventure, but there's one question lingering in your mind: \"Is hairspray allowed in your carry-o"
+title: 'Is Hairspray Allowed in Carry On: Essential TSA Rules Explained'
+description: 'You''re standing in front of your suitcase, ready for your next adventure,
+  but there''s one question lingering in your mind: "Is hairspray allowed in your
+  carry-o'
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-hairspray-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-hairspray-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're standing in front of your suitcase, ready for your next adventure, but there's one question lingering in your mind: "Is hairspray allowed in your carry-on?" The good news is, you're not alone.**

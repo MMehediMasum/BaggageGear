@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Blow Dryer in a Carry On: Essential Travel Tips"
-description: "Are you planning your next adventure and wondering if you can pack your trusty blow dryer in your carry-on? You’re not alone. Packing for a trip can be a bit of"
+title: 'Can You Bring a Blow Dryer in a Carry On: Essential Travel Tips'
+description: Are you planning your next adventure and wondering if you can pack your
+  trusty blow dryer in your carry-on? You’re not alone. Packing for a trip can be
+  a bit of
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-blow-dryer-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-blow-dryer-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering if you can pack your trusty blow dryer in your carry-on? You’re not alone.**

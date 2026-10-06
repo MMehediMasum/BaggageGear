@@ -1,10 +1,14 @@
 ---
-title: "Where are Sprayground Backpacks Made: Unveiling the Origins"
-description: "Have you ever wondered where your trendy Sprayground backpack comes from? Whether you're a fashion enthusiast or someone who loves a good mystery, discovering t"
+title: 'Where are Sprayground Backpacks Made: Unveiling the Origins'
+description: Have you ever wondered where your trendy Sprayground backpack comes from?
+  Whether you're a fashion enthusiast or someone who loves a good mystery, discovering
+  t
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-sprayground-backpacks-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-sprayground-backpacks-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered where your trendy Sprayground backpack comes from? Whether you're a fashion enthusiast or someone who loves a good mystery, discovering the origin of your favorite backpack can be fascinating.**

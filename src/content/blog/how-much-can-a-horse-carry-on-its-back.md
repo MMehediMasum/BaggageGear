@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Can a Horse Carry on Its Back: Ultimate Weight Limits Revealed"
 description: "Ever wondered just how much weight a horse can carry on its back? It's a question that sparks curiosity in many, especially if you're a horse owner, rider, or s"
 pubDate: 2026-01-30

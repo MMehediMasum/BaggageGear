@@ -1,10 +1,14 @@
 ---
-title: "Will Chocolate Melt in Checked Luggage? Essential Travel Tips"
-description: "You're packing for your trip and everything is going smoothly until you start thinking about those delicious chocolate bars you want to bring along. You've hear"
+title: Will Chocolate Melt in Checked Luggage? Essential Travel Tips
+description: You're packing for your trip and everything is going smoothly until you
+  start thinking about those delicious chocolate bars you want to bring along. You've
+  hear
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-chocolate-melt-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-chocolate-melt-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your trip and everything is going smoothly until you start thinking about those delicious chocolate bars you want to bring along. You've heard stories of melted chocolate disasters and you're wondering, "Will chocolate melt in checked luggage?"**

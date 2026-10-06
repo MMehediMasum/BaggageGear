@@ -1,10 +1,14 @@
 ---
-title: "Best Checked Luggage for European Travel: Top Picks for Stress-Free Trips"
-description: "Choosing the best checked luggage can make European travel easier and more comfortable. The right suitcase offers durability, space, and smooth mobility. Europe"
+title: 'Best Checked Luggage for European Travel: Top Picks for Stress-Free Trips'
+description: Choosing the best checked luggage can make European travel easier and
+  more comfortable. The right suitcase offers durability, space, and smooth mobility.
+  Europe
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-checked-luggage-for-european-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-checked-luggage-for-european-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best checked luggage can make European travel easier and more comfortable. The right suitcase offers durability, space, and smooth mobility.**

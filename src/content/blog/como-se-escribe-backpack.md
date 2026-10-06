@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cómo Se Escribe Backpack: Master the Spelling Like a Pro"
 description: "Have you ever found yourself wondering how to spell \"backpack\" in Spanish? You're not alone. Many people, whether they are learning Spanish or simply curious, s"
 pubDate: 2025-11-20

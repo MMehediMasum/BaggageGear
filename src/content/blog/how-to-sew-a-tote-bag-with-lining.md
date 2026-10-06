@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Tote Bag With Lining: Easy Steps for Beginners"
-description: "Are you ready to create something stylish and practical with your own two hands? Sewing a tote bag with lining is not only a fun and rewarding project, but it a"
+title: 'How to Sew a Tote Bag With Lining: Easy Steps for Beginners'
+description: Are you ready to create something stylish and practical with your own
+  two hands? Sewing a tote bag with lining is not only a fun and rewarding project,
+  but it a
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-tote-bag-with-lining&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-tote-bag-with-lining&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready to create something stylish and practical with your own two hands? Sewing a tote bag with lining is not only a fun and rewarding project, but it also allows you to express your personal style.**

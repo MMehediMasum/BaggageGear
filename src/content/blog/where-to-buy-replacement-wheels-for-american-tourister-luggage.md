@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Replacement Wheels for American Tourister Luggage: Top Picks"
-description: "Imagine this: you're packing for your much-anticipated vacation, your suitcase is almost ready, and then you notice something off. One of your American Touriste"
+title: 'Where to Buy Replacement Wheels for American Tourister Luggage: Top Picks'
+description: 'Imagine this: you''re packing for your much-anticipated vacation, your
+  suitcase is almost ready, and then you notice something off. One of your American
+  Touriste'
 pubDate: 2025-11-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-replacement-wheels-for-american-tourister-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Repairing Luggage Zippers And Handles
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-replacement-wheels-for-american-tourister-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you're packing for your much-anticipated vacation, your suitcase is almost ready, and then you notice something off. One of your American Tourister luggage wheels is wobbling or, worse, it's broken.**

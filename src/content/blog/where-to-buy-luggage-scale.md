@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Luggage Scale: Top Trusted Stores Revealed"
-description: "Are you tired of guessing whether your suitcase is overweight at the airport? The stress of repacking at the check-in counter is something no traveler wants to "
+title: 'Where to Buy Luggage Scale: Top Trusted Stores Revealed'
+description: 'Are you tired of guessing whether your suitcase is overweight at the
+  airport? The stress of repacking at the check-in counter is something no traveler
+  wants to '
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-luggage-scale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-luggage-scale&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of guessing whether your suitcase is overweight at the airport? The stress of repacking at the check-in counter is something no traveler wants to experience.**

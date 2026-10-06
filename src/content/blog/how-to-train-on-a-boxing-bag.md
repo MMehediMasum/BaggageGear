@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Train on a Boxing Bag: Expert Tips for Maximum Impact"
 description: "Are you ready to punch your way to better fitness? Training on a boxing bag is not just a workout; it's a powerful stress-buster that sharpens your reflexes and"
 pubDate: 2025-12-21

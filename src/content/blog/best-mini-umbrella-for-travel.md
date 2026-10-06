@@ -1,10 +1,14 @@
 ---
-title: "Best Mini Umbrella for Travel: Compact, Windproof, and Stylish Choices"
-description: "Finding the best mini umbrella for travel makes rainy days easier to handle. Compact, lightweight, and strong options fit easily in bags and backpacks. Travel u"
+title: 'Best Mini Umbrella for Travel: Compact, Windproof, and Stylish Choices'
+description: Finding the best mini umbrella for travel makes rainy days easier to
+  handle. Compact, lightweight, and strong options fit easily in bags and backpacks.
+  Travel u
 pubDate: 2026-05-20
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-mini-umbrella-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Travel Accessories
+heroImage: https://tse1.mm.bing.net/th?q=best-mini-umbrella-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best mini umbrella for travel makes rainy days easier to handle. Compact, lightweight, and strong options fit easily in bags and backpacks.**

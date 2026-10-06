@@ -1,10 +1,13 @@
 ---
-title: "Best Lightweight Travel Backpack for Women with USB Charging Port"
-description: "Choosing the best lightweight travel backpack for women makes every trip easier and more comfortable. A good backpack balances style, size, and useful features."
+title: Best Lightweight Travel Backpack for Women with USB Charging Port
+description: Choosing the best lightweight travel backpack for women makes every trip
+  easier and more comfortable. A good backpack balances style, size, and useful features.
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-travel-backpack-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpacks For Women
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-travel-backpack-for-women&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best lightweight travel backpack for women makes every trip easier and more comfortable. A good backpack balances style, size, and useful features.**

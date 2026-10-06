@@ -1,10 +1,14 @@
 ---
-title: "How to Self Tag Luggage Heathrow: Easy Steps for Stress-Free Travel"
-description: "Imagine this: You’ve just landed at Heathrow, and the excitement of your trip is bubbling over. But then, the daunting task of managing your luggage looms. What"
+title: 'How to Self Tag Luggage Heathrow: Easy Steps for Stress-Free Travel'
+description: 'Imagine this: You’ve just landed at Heathrow, and the excitement of
+  your trip is bubbling over. But then, the daunting task of managing your luggage
+  looms. What'
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-self-tag-luggage-heathrow&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-self-tag-luggage-heathrow&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You’ve just landed at Heathrow, and the excitement of your trip is bubbling over. But then, the daunting task of managing your luggage looms.**

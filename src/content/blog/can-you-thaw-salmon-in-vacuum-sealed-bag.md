@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Thaw Salmon in Vacuum Sealed Bag: Safe & Easy Tips"
 description: "Have you ever found yourself staring at that vacuum-sealed bag of salmon in your freezer, wondering how to thaw it safely and efficiently? You’re not alone. Man"
 pubDate: 2026-04-21

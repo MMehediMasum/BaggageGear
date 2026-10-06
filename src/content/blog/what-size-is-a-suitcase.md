@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Suitcase: Ultimate Guide to Perfect Luggage Choices"
-description: "Are you planning your next adventure and feeling overwhelmed by the thought of choosing the right suitcase? You're not alone. With so many options out there, fi"
+title: 'What Size is a Suitcase: Ultimate Guide to Perfect Luggage Choices'
+description: Are you planning your next adventure and feeling overwhelmed by the thought
+  of choosing the right suitcase? You're not alone. With so many options out there,
+  fi
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next adventure and feeling overwhelmed by the thought of choosing the right suitcase? You're not alone.**

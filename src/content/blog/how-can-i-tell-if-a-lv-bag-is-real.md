@@ -1,10 +1,14 @@
 ---
-title: "How Can I Tell If a Lv Bag is Real: Expert Tips to Spot Fakes"
-description: "You’ve just spotted a stunning Louis Vuitton bag that you’re itching to add to your collection. But wait, is it the real deal? With the rise of counterfeit prod"
+title: 'How Can I Tell If a Lv Bag is Real: Expert Tips to Spot Fakes'
+description: You’ve just spotted a stunning Louis Vuitton bag that you’re itching
+  to add to your collection. But wait, is it the real deal? With the rise of counterfeit
+  prod
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-can-i-tell-if-a-lv-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-can-i-tell-if-a-lv-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve just spotted a stunning Louis Vuitton bag that you’re itching to add to your collection. But wait, is it the real deal?**

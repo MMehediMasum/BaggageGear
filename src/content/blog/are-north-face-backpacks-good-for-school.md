@@ -1,10 +1,14 @@
 ---
-title: "Are North Face Backpacks Good for School: Durable, Stylish, and Reliable?"
-description: "Are you on the hunt for the perfect backpack for school? With so many options out there, it's easy to feel overwhelmed. But what if there was a backpack that co"
+title: 'Are North Face Backpacks Good for School: Durable, Stylish, and Reliable?'
+description: Are you on the hunt for the perfect backpack for school? With so many
+  options out there, it's easy to feel overwhelmed. But what if there was a backpack
+  that co
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-north-face-backpacks-good-for-school&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=are-north-face-backpacks-good-for-school&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect backpack for school? With so many options out there, it's easy to feel overwhelmed.**

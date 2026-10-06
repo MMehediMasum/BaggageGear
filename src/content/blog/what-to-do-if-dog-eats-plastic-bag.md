@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Do If Dog Eats Plastic Bag: Urgent Steps to Protect Your Pet"
 description: "You just discovered that your furry friend has eaten a plastic bag. Panic sets in, and you're unsure of what to do next. You're not alone; many pet owners have "
 pubDate: 2026-01-14

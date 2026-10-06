@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is the Most Powerful Backpack Blower: Ultimate Guide 2025"
 description: "Imagine tackling your yard work with ease, effortlessly clearing leaves and debris with the power of a mighty machine on your back. If you're tired of weak tool"
 pubDate: 2025-12-26

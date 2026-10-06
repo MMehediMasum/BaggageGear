@@ -1,10 +1,13 @@
 ---
-title: "Can You Bring Olive Oil in Checked Luggage: Travel Rules Explained"
-description: "Are you planning your next adventure and wondering if you can bring your favorite olive oil in checked luggage? You’re not alone. Many travelers find themselves"
+title: 'Can You Bring Olive Oil in Checked Luggage: Travel Rules Explained'
+description: Are you planning your next adventure and wondering if you can bring your
+  favorite olive oil in checked luggage? You’re not alone. Many travelers find themselves
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-olive-oil-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-olive-oil-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering if you can bring your favorite olive oil in checked luggage? You’re not alone.**

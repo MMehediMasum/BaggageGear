@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Ogio Backpacks: Top Deals & Trusted Stores 2025"
-description: "Looking for the perfect backpack that combines style, durability, and functionality? Ogio backpacks might be just what you need. Known for their innovative desi"
+title: 'Where to Buy Ogio Backpacks: Top Deals & Trusted Stores 2025'
+description: Looking for the perfect backpack that combines style, durability, and
+  functionality? Ogio backpacks might be just what you need. Known for their innovative
+  desi
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-ogio-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Backpack Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-ogio-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Looking for the perfect backpack that combines style, durability, and functionality? Ogio backpacks might be just what you need.**

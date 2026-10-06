@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Sunscreen in Carry On: Ultimate TSA-Friendly Tips"
-description: "Picture this: You're at the airport, gearing up for an exciting getaway. You've got your travel essentials, but there's one small yet crucial item that can make"
+title: 'How to Pack Sunscreen in Carry On: Ultimate TSA-Friendly Tips'
+description: 'Picture this: You''re at the airport, gearing up for an exciting getaway.
+  You''ve got your travel essentials, but there''s one small yet crucial item that
+  can make'
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-sunscreen-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-sunscreen-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're at the airport, gearing up for an exciting getaway. You've got your travel essentials, but there's one small yet crucial item that can make or break your sun-soaked adventure—sunscreen.**

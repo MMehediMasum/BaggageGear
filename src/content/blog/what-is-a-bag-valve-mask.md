@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bag Valve Mask: Essential Life-Saving Tool Explained"
 description: "Have you ever wondered what a bag valve mask is and why it's so important? Picture this: you're in a situation where someone needs immediate help with their bre"
 pubDate: 2026-01-12

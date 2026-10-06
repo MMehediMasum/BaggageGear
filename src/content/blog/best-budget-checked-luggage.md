@@ -1,10 +1,14 @@
 ---
-title: "Best Budget Checked Luggage: Top Affordable Options for Every Traveler"
-description: "Finding the best budget checked luggage can save you money and stress on your trips. Choosing sturdy, spacious luggage is key for smooth travel. Travel bags mus"
+title: 'Best Budget Checked Luggage: Top Affordable Options for Every Traveler'
+description: Finding the best budget checked luggage can save you money and stress
+  on your trips. Choosing sturdy, spacious luggage is key for smooth travel. Travel
+  bags mus
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best budget checked luggage can save you money and stress on your trips. Choosing sturdy, spacious luggage is key for smooth travel.**

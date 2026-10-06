@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage for Cobblestone Streets: Top Picks for Smooth Travels"
-description: "Traveling on cobblestone streets can be tough on luggage wheels and durability. Choosing the right suitcase helps you move smoothly and protect your belongings."
+title: 'Best Luggage for Cobblestone Streets: Top Picks for Smooth Travels'
+description: Traveling on cobblestone streets can be tough on luggage wheels and durability.
+  Choosing the right suitcase helps you move smoothly and protect your belongings.
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-cobblestone-streets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Safari And Specialty Trip Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-cobblestone-streets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Traveling on cobblestone streets can be tough on luggage wheels and durability. Choosing the right suitcase helps you move smoothly and protect your belongings.**

@@ -1,10 +1,13 @@
 ---
-title: "Can I Bring Two Backpacks on a Plane: Ultimate Travel Guide 2025"
-description: "Are you planning your next trip and wondering if you can bring two backpacks on a plane? You're not alone. Many travelers, just like you, are curious about airl"
+title: 'Can I Bring Two Backpacks on a Plane: Ultimate Travel Guide 2025'
+description: Are you planning your next trip and wondering if you can bring two backpacks
+  on a plane? You're not alone. Many travelers, just like you, are curious about airl
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-two-backpacks-on-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-two-backpacks-on-a-plane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and wondering if you can bring two backpacks on a plane? You're not alone.**

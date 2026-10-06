@@ -1,10 +1,13 @@
 ---
-title: "How to Clean Ll Bean Canvas Tote Bag: Easy Steps for Spotless Care"
-description: "Is your beloved L.L. Bean canvas tote bag looking a bit dingy or stained? You’re not alone. These sturdy bags are perfect for everyday use, from grocery shoppin"
+title: 'How to Clean Ll Bean Canvas Tote Bag: Easy Steps for Spotless Care'
+description: Is your beloved L.L. Bean canvas tote bag looking a bit dingy or stained?
+  You’re not alone. These sturdy bags are perfect for everyday use, from grocery shoppin
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-ll-bean-canvas-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-ll-bean-canvas-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Is your beloved L.L. Bean canvas tote bag looking a bit dingy or stained?**

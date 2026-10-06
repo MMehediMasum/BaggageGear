@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put a Bag in a Diaper Genie: Easy Steps for Busy Parents"
 description: "Struggling with how to put a bag in your Diaper Genie? You're not alone. Many parents find themselves puzzled by this seemingly simple task. But don't worry—you"
 pubDate: 2025-09-05

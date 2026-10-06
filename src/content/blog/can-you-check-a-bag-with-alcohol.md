@@ -1,10 +1,14 @@
 ---
-title: "Can You Check a Bag With Alcohol: Essential Travel Rules Revealed"
-description: "Traveling can be thrilling, but if you're planning to bring along a bottle of your favorite wine or whiskey, you might be wondering: can you check a bag with al"
+title: 'Can You Check a Bag With Alcohol: Essential Travel Rules Revealed'
+description: 'Traveling can be thrilling, but if you''re planning to bring along a
+  bottle of your favorite wine or whiskey, you might be wondering: can you check a
+  bag with al'
 pubDate: 2025-08-29
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-a-bag-with-alcohol&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-a-bag-with-alcohol&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be thrilling, but if you're planning to bring along a bottle of your favorite wine or whiskey, you might be wondering: can you check a bag with alcohol? Whether you're returning from a trip abroad with a rare find or simply want to enjoy a familiar taste at your destination, knowing the rules is essential.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Laptop in Checked Luggage: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can put your laptop in checked luggage? This question is more common than you might think. With airlines having var"
+title: 'Can You Put a Laptop in Checked Luggage: Essential Travel Tips'
+description: Are you planning a trip and wondering if you can put your laptop in checked
+  luggage? This question is more common than you might think. With airlines having
+  var
 pubDate: 2025-09-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-laptop-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-laptop-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can put your laptop in checked luggage? This question is more common than you might think.**

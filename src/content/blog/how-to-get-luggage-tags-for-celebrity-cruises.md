@@ -1,10 +1,14 @@
 ---
-title: "How to Get Luggage Tags for Celebrity Cruises: Easy & Quick Guide"
-description: "Dreaming of your upcoming Celebrity Cruises vacation? As you prepare for a luxurious escape on the high seas, there's one small but essential item you can't ove"
+title: 'How to Get Luggage Tags for Celebrity Cruises: Easy & Quick Guide'
+description: Dreaming of your upcoming Celebrity Cruises vacation? As you prepare
+  for a luxurious escape on the high seas, there's one small but essential item you
+  can't ove
 pubDate: 2025-10-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-luggage-tags-for-celebrity-cruises&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-luggage-tags-for-celebrity-cruises&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Dreaming of your upcoming Celebrity Cruises vacation? As you prepare for a luxurious escape on the high seas, there's one small but essential item you can't overlook: luggage tags.**

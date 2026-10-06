@@ -1,10 +1,14 @@
 ---
-title: "How to Set a Tumi Luggage Lock: Easy Steps for Secure Travel"
-description: "Picture this: you're at the airport, ready for your big trip, but suddenly you realize you forgot how to set the lock on your Tumi luggage. Panic sets in as you"
+title: 'How to Set a Tumi Luggage Lock: Easy Steps for Secure Travel'
+description: 'Picture this: you''re at the airport, ready for your big trip, but suddenly
+  you realize you forgot how to set the lock on your Tumi luggage. Panic sets in as
+  you'
 pubDate: 2026-04-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-a-tumi-luggage-lock&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-a-tumi-luggage-lock&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're at the airport, ready for your big trip, but suddenly you realize you forgot how to set the lock on your Tumi luggage. Panic sets in as you imagine the worst-case scenarios.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Punching Bag for Home Gym: Transform Your Workout Space Effortlessly"
 description: "Choosing the best punching bag for your home gym boosts fitness and sharpens boxing skills. A good bag fits your space, workout style, and skill level. A punchi"
 pubDate: 2026-06-19

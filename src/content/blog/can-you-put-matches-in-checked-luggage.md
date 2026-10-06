@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Matches in Checked Luggage: Essential Safety Rules"
-description: "When you're preparing for a trip, packing can become a puzzle. You want to make sure you have everything you need, but you also have to be mindful of airline ru"
+title: 'Can You Put Matches in Checked Luggage: Essential Safety Rules'
+description: When you're preparing for a trip, packing can become a puzzle. You want
+  to make sure you have everything you need, but you also have to be mindful of airline
+  ru
 pubDate: 2025-09-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-matches-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-matches-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're preparing for a trip, packing can become a puzzle. You want to make sure you have everything you need, but you also have to be mindful of airline rules and regulations.**

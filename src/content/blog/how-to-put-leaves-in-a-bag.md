@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Put Leaves in a Bag: Easy Tips for Quick Cleanup"
 description: "Have you ever found yourself staring at a yard full of leaves, wondering how to tackle the mess efficiently? You're not alone. As the seasons change, leaves bla"
 pubDate: 2026-02-16

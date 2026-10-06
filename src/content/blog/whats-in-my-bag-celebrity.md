@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in My Bag Celebrity: Must-Have Secrets Revealed!"
 description: "Ever wondered what secrets lie inside the handbags of your favorite celebrities? Imagine getting a sneak peek into the stylish, mysterious world they carry arou"
 pubDate: 2026-03-24

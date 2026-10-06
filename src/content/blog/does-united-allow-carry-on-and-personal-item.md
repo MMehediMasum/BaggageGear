@@ -1,10 +1,14 @@
 ---
-title: "Does United Allow Carry on And Personal Item? Ultimate Guide 2025"
-description: "When you're preparing for a flight, one of the biggest concerns is what you can bring on board. If you're flying with United Airlines, you might be wondering, \""
+title: Does United Allow Carry on And Personal Item? Ultimate Guide 2025
+description: When you're preparing for a flight, one of the biggest concerns is what
+  you can bring on board. If you're flying with United Airlines, you might be wondering,
+  "
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-united-allow-carry-on-and-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-united-allow-carry-on-and-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When you're preparing for a flight, one of the biggest concerns is what you can bring on board. If you're flying with United Airlines, you might be wondering, "Does United allow a carry-on and a personal item?"**

@@ -1,10 +1,14 @@
 ---
-title: "Is Peanut Butter Allowed in Checked Luggage? Essential Travel Tips"
-description: "Peanut butter lovers, you're planning a trip and face a dilemma: can you bring your beloved jar of peanut butter in your checked luggage? The answer is more tha"
+title: Is Peanut Butter Allowed in Checked Luggage? Essential Travel Tips
+description: 'Peanut butter lovers, you''re planning a trip and face a dilemma: can
+  you bring your beloved jar of peanut butter in your checked luggage? The answer
+  is more tha'
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-peanut-butter-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-peanut-butter-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Peanut butter lovers, you're planning a trip and face a dilemma: can you bring your beloved jar of peanut butter in your checked luggage? The answer is more than a simple yes or no, and understanding the rules can save you time, hassle, and even money.**

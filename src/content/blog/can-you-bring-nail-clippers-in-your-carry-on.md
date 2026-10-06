@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Nail Clippers in Your Carry On: TSA Rules Explained"
-description: "Are you planning a trip and wondering about the rules for bringing nail clippers in your carry-on bag? You're not alone. Many travelers find themselves puzzled "
+title: 'Can You Bring Nail Clippers in Your Carry On: TSA Rules Explained'
+description: 'Are you planning a trip and wondering about the rules for bringing nail
+  clippers in your carry-on bag? You''re not alone. Many travelers find themselves
+  puzzled '
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-nail-clippers-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-nail-clippers-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering about the rules for bringing nail clippers in your carry-on bag? You're not alone.**

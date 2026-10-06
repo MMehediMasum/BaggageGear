@@ -1,10 +1,14 @@
 ---
-title: "Do It Yourself Luggage Tags: Creative Ideas to Personalize Your Travel Gear"
-description: "Ever found yourself waiting at the baggage carousel, squinting to spot your suitcase among a sea of identical bags? You're not alone. But what if you could make"
+title: 'Do It Yourself Luggage Tags: Creative Ideas to Personalize Your Travel Gear'
+description: Ever found yourself waiting at the baggage carousel, squinting to spot
+  your suitcase among a sea of identical bags? You're not alone. But what if you could
+  make
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-it-yourself-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=do-it-yourself-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever found yourself waiting at the baggage carousel, squinting to spot your suitcase among a sea of identical bags? You're not alone.**

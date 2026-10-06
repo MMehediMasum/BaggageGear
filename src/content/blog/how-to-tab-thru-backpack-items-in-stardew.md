@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Tab Thru Backpack Items in Stardew: Ultimate Guide Tips"
 description: "Ever found yourself in the midst of a bustling day on your Stardew Valley farm, only to be slowed down by the clutter in your backpack? Navigating through your "
 pubDate: 2026-01-08

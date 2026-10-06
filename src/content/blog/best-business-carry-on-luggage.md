@@ -1,10 +1,14 @@
 ---
-title: "Best Business Carry on Luggage: Top Picks for Every Traveler"
-description: "Choosing the best business carry-on luggage can make your trips easier and more organized. The right suitcase fits airline rules and holds all your essentials c"
+title: 'Best Business Carry on Luggage: Top Picks for Every Traveler'
+description: Choosing the best business carry-on luggage can make your trips easier
+  and more organized. The right suitcase fits airline rules and holds all your essentials
+  c
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-business-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Business Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-business-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best business carry-on luggage can make your trips easier and more organized. The right suitcase fits airline rules and holds all your essentials comfortably.**

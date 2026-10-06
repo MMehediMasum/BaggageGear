@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Icelandair Carry On: Ultimate Guide to Baggage Rules"
-description: "Planning a trip with Icelandair and wondering about their carry-on baggage rules? You're not alone. Navigating airline policies can be tricky, especially when y"
+title: 'How Strict is Icelandair Carry On: Ultimate Guide to Baggage Rules'
+description: Planning a trip with Icelandair and wondering about their carry-on baggage
+  rules? You're not alone. Navigating airline policies can be tricky, especially when
+  y
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-icelandair-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-icelandair-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Icelandair and wondering about their carry-on baggage rules? You're not alone.**

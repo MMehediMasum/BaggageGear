@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Formal Dress in a Suitcase: Expert Tips Revealed"
-description: "Packing a formal dress in a suitcase can feel like trying to solve a tricky puzzle. You want to keep your dress looking crisp and elegant, but squeezing it into"
+title: 'How to Pack a Formal Dress in a Suitcase: Expert Tips Revealed'
+description: Packing a formal dress in a suitcase can feel like trying to solve a
+  tricky puzzle. You want to keep your dress looking crisp and elegant, but squeezing
+  it into
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-formal-dress-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-formal-dress-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a formal dress in a suitcase can feel like trying to solve a tricky puzzle. You want to keep your dress looking crisp and elegant, but squeezing it into your luggage seems like a recipe for wrinkles.**

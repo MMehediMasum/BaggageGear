@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fix Broken Nail Tea Bag: Quick & Easy Repair Tips"
 description: "Ever had that moment when you notice a nail snagging on everything? It's frustrating, right? A broken nail can not only be annoying, but it can also ruin your d"
 pubDate: 2025-09-24

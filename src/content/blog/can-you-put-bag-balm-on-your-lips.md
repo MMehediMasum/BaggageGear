@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Put Bag Balm on Your Lips: Safe or Risky? Find Out!"
 description: "Have you ever wondered if Bag Balm can work wonders on your lips? You might know Bag Balm as a staple in treating dry, cracked skin, but what about using it as "
 pubDate: 2026-01-23

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many M&M in a Bag: Surprising Facts Revealed!"
 description: "Have you ever found yourself reaching into a bag of M&M's, only to wonder just how many of these colorful treats are in there? You're not alone. Whether you're "
 pubDate: 2026-04-27

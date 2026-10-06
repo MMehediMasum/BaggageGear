@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Size Bin Bag Do I Need: Ultimate Guide to Perfect Fit"
 description: "Are you tired of wrestling with bin bags that are either too big or too small for your trash can? You're not alone. Choosing the right size bin bag can feel lik"
 pubDate: 2026-04-20

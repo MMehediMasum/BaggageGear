@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Cook Black Beans from a Bag: Easy Steps for Perfect Beans"
 description: "Are you curious about how to cook black beans from a bag to perfection? You're not alone. Many find themselves staring at a bag of dry black beans, wondering wh"
 pubDate: 2026-04-16

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Tamper Evident Bag: Ultimate Security Explained"
 description: "Have you ever wondered how to ensure your valuables stay secure during transit? Imagine sending an important document or a valuable item, only to worry about ta"
 pubDate: 2025-12-24

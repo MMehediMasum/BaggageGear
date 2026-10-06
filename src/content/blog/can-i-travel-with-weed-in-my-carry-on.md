@@ -1,10 +1,14 @@
 ---
-title: "Can I Travel With Weed in My Carry on: Essential Rules & Tips"
-description: "Traveling can be stressful, and when you're packing your carry-on, it gets even more complicated. You might be wondering, \"Can I travel with weed in my carry-on"
+title: 'Can I Travel With Weed in My Carry on: Essential Rules & Tips'
+description: Traveling can be stressful, and when you're packing your carry-on, it
+  gets even more complicated. You might be wondering, "Can I travel with weed in my
+  carry-on
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-travel-with-weed-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-travel-with-weed-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful, and when you're packing your carry-on, it gets even more complicated. You might be wondering, "Can I travel with weed in my carry-on?"**

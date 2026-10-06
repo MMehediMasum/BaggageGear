@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does the Suitcase Mean on Life360: Unlocking Its Secret Purpose"
 description: "Have you ever noticed the little suitcase icon on your Life360 app and wondered what it means? You're not alone. Life360 is a handy tool that helps keep track o"
 pubDate: 2026-01-29

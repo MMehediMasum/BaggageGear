@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Tiger Woods Bag: Ultimate Golf Gear Revealed!"
 description: "Ever wondered what makes Tiger Woods one of the greatest golfers of all time? A big part of his success lies in his choice of gear. What's in Tiger Woods' bag i"
 pubDate: 2026-03-03

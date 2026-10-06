@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Body Spray in Checked Luggage: Essential Airline Rules"
-description: "Are you planning your next big adventure and wondering what to pack? If you're like most travelers, you probably have a list of essentials that includes your fa"
+title: 'Can You Bring Body Spray in Checked Luggage: Essential Airline Rules'
+description: Are you planning your next big adventure and wondering what to pack?
+  If you're like most travelers, you probably have a list of essentials that includes
+  your fa
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-body-spray-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-body-spray-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure and wondering what to pack? If you're like most travelers, you probably have a list of essentials that includes your favorite body spray.**

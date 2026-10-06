@@ -1,10 +1,14 @@
 ---
-title: "How Many Cm is Carry on Luggage: Ultimate Size Guide 2025"
-description: "Are you planning your next adventure and wondering if your carry-on luggage will fit the airline's requirements? You're not alone. Many travelers face the same "
+title: 'How Many Cm is Carry on Luggage: Ultimate Size Guide 2025'
+description: 'Are you planning your next adventure and wondering if your carry-on
+  luggage will fit the airline''s requirements? You''re not alone. Many travelers
+  face the same '
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-cm-is-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=how-many-cm-is-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next adventure and wondering if your carry-on luggage will fit the airline's requirements? You're not alone.**

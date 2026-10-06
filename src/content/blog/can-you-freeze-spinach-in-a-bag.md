@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Freeze Spinach in a Bag: Easy Tips for Freshness"
 description: "Imagine this: You’re at the grocery store, and spinach is on sale. You think of all the healthy salads and smoothies you can make, but you wonder—can you freeze"
 pubDate: 2026-03-31

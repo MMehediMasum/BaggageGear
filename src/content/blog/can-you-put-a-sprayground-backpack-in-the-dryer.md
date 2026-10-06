@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Sprayground Backpack in the Dryer? Essential Tips"
-description: "Have you ever wondered if you can toss your Sprayground backpack into the dryer for a quick and easy clean-up? You're not alone. Many people love these trendy, "
+title: Can You Put a Sprayground Backpack in the Dryer? Essential Tips
+description: 'Have you ever wondered if you can toss your Sprayground backpack into
+  the dryer for a quick and easy clean-up? You''re not alone. Many people love these
+  trendy, '
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-sprayground-backpack-in-the-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-sprayground-backpack-in-the-dryer&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered if you can toss your Sprayground backpack into the dryer for a quick and easy clean-up? You're not alone.**

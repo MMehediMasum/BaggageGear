@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Food on a Plane in Your Suitcase: Essential Tips"
-description: "Picture this: you're packing for your upcoming trip and wondering if you can bring your favorite snacks or that special local delicacy in your suitcase. This qu"
+title: 'Can You Take Food on a Plane in Your Suitcase: Essential Tips'
+description: 'Picture this: you''re packing for your upcoming trip and wondering if
+  you can bring your favorite snacks or that special local delicacy in your suitcase.
+  This qu'
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-food-on-a-plane-in-your-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-food-on-a-plane-in-your-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're packing for your upcoming trip and wondering if you can bring your favorite snacks or that special local delicacy in your suitcase. This question has crossed the minds of many travelers, and you're not alone.**

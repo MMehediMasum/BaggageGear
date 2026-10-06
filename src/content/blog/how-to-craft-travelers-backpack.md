@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Craft Traveler's Backpack: Ultimate Guide for Smart Packing"
 description: "Are you tired of sifting through endless store options, only to find that no backpack seems to fit your unique travel needs? Imagine having a backpack that perf"
 pubDate: 2025-12-19

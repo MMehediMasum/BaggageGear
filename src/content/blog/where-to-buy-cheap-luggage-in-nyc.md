@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Cheap Luggage in NYC: Top Budget-Friendly Spots"
-description: "Looking for budget-friendly luggage in the bustling streets of NYC? You're in the right place. Whether you're planning a weekend getaway or a long vacation, fin"
+title: 'Where to Buy Cheap Luggage in NYC: Top Budget-Friendly Spots'
+description: Looking for budget-friendly luggage in the bustling streets of NYC? You're
+  in the right place. Whether you're planning a weekend getaway or a long vacation,
+  fin
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-cheap-luggage-in-nyc&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-cheap-luggage-in-nyc&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Looking for budget-friendly luggage in the bustling streets of NYC? You're in the right place.**

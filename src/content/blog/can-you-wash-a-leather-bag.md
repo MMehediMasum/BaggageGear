@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Leather Bag: Essential Tips for Safe Cleaning"
-description: "Have you ever looked at your beloved leather bag and wondered if you could give it a good wash? Leather bags are stylish and durable, but they can also collect "
+title: 'Can You Wash a Leather Bag: Essential Tips for Safe Cleaning'
+description: 'Have you ever looked at your beloved leather bag and wondered if you
+  could give it a good wash? Leather bags are stylish and durable, but they can also
+  collect '
 pubDate: 2026-04-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your beloved leather bag and wondered if you could give it a good wash? Leather bags are stylish and durable, but they can also collect dirt and grime over time.**

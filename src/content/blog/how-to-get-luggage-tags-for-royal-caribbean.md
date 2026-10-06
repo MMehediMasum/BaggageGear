@@ -1,10 +1,14 @@
 ---
-title: "How to Get Luggage Tags for Royal Caribbean: Easy Steps Revealed"
-description: "Imagine this: you're about to embark on an unforgettable cruise with Royal Caribbean. Your mind is filled with thoughts of sun-drenched decks, exotic ports of c"
+title: 'How to Get Luggage Tags for Royal Caribbean: Easy Steps Revealed'
+description: 'Imagine this: you''re about to embark on an unforgettable cruise with
+  Royal Caribbean. Your mind is filled with thoughts of sun-drenched decks, exotic
+  ports of c'
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-luggage-tags-for-royal-caribbean&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-luggage-tags-for-royal-caribbean&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you're about to embark on an unforgettable cruise with Royal Caribbean. Your mind is filled with thoughts of sun-drenched decks, exotic ports of call, and endless ocean views.**

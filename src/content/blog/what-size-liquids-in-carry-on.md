@@ -1,10 +1,14 @@
 ---
-title: "What Size Liquids in Carry On: Ultimate Guide to TSA Rules 2025"
-description: "Packing your carry-on can be a tricky task, especially when it comes to liquids. Have you ever stood in line at airport security, nervously wondering if your sh"
+title: 'What Size Liquids in Carry On: Ultimate Guide to TSA Rules 2025'
+description: Packing your carry-on can be a tricky task, especially when it comes
+  to liquids. Have you ever stood in line at airport security, nervously wondering
+  if your sh
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-liquids-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-liquids-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing your carry-on can be a tricky task, especially when it comes to liquids. Have you ever stood in line at airport security, nervously wondering if your shampoo or sunscreen will make the cut?**

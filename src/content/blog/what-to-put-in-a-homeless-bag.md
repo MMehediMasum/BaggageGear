@@ -1,10 +1,14 @@
 ---
-title: "What to Put in a Homeless Bag: Essential Items for Survival and Comfort"
-description: "Creating a homeless care package is a simple yet powerful way to make a real difference in someone's life. Have you ever wondered what to put in a homeless bag "
+title: 'What to Put in a Homeless Bag: Essential Items for Survival and Comfort'
+description: 'Creating a homeless care package is a simple yet powerful way to make
+  a real difference in someone''s life. Have you ever wondered what to put in a homeless
+  bag '
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-a-homeless-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-a-homeless-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Creating a homeless care package is a simple yet powerful way to make a real difference in someone's life. Have you ever wondered what to put in a homeless bag to truly help those in need?**

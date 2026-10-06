@@ -1,10 +1,14 @@
 ---
-title: "Best Bag for Airplane Carry On: Top Picks for Travel and Convenience"
-description: "Choosing the best bag for airplane carry-on travel can save time and stress. The right bag fits airline rules and holds all essentials comfortably. Travel bags "
+title: 'Best Bag for Airplane Carry On: Top Picks for Travel and Convenience'
+description: 'Choosing the best bag for airplane carry-on travel can save time and
+  stress. The right bag fits airline rules and holds all essentials comfortably. Travel
+  bags '
 pubDate: 2026-08-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-bag-for-airplane-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-bag-for-airplane-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best bag for airplane carry-on travel can save time and stress. The right bag fits airline rules and holds all essentials comfortably.**

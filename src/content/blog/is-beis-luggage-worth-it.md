@@ -1,10 +1,13 @@
 ---
-title: "Is Beis Luggage Worth It: Honest Review & Top Benefits Revealed"
-description: "Is Beis Luggage worth it? If you've been searching for the perfect travel companion, you might have stumbled across Beis Luggage. With sleek designs and promise"
+title: 'Is Beis Luggage Worth It: Honest Review & Top Benefits Revealed'
+description: Is Beis Luggage worth it? If you've been searching for the perfect travel
+  companion, you might have stumbled across Beis Luggage. With sleek designs and promise
 pubDate: 2026-02-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-beis-luggage-worth-it&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-beis-luggage-worth-it&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Is Beis Luggage worth it? If you've been searching for the perfect travel companion, you might have stumbled across Beis Luggage.**

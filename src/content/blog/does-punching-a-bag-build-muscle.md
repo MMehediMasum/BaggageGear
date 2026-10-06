@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Punching a Bag Build Muscle: Effective Strength Secrets Revealed"
 description: "Ever wondered if those powerful punches you throw at a heavy bag can do more than just relieve stress? You're not alone. Many fitness enthusiasts like you are c"
 pubDate: 2026-04-26

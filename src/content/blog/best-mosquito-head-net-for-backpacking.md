@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Mosquito Head Net for Backpacking: Top Choices for Outdoor Protection"
 description: "Mosquito head nets protect backpackers from bites and insect-borne diseases. Choosing the best net ensures comfort and safety outdoors. Backpacking often means "
 pubDate: 2026-06-15

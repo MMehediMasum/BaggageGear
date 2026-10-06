@@ -1,10 +1,14 @@
 ---
-title: "Best Large Luggage for International Travel: Top Choices for Every Jetsetter"
-description: "Choosing the best large luggage makes international travel easier and more organized. Durable, lightweight, and spacious bags suit long trips well. Traveling ab"
+title: 'Best Large Luggage for International Travel: Top Choices for Every Jetsetter'
+description: Choosing the best large luggage makes international travel easier and
+  more organized. Durable, lightweight, and spacious bags suit long trips well. Traveling
+  ab
 pubDate: 2026-07-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-large-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best large luggage makes international travel easier and more organized. Durable, lightweight, and spacious bags suit long trips well.**

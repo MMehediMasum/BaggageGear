@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy Away Luggage: Top Stores & Best Deals Revealed"
-description: "Are you on the hunt for the perfect travel companion? One that combines style, functionality, and durability? If so, you might be wondering, \"Where can I buy Aw"
+title: 'Where Can I Buy Away Luggage: Top Stores & Best Deals Revealed'
+description: Are you on the hunt for the perfect travel companion? One that combines
+  style, functionality, and durability? If so, you might be wondering, "Where can
+  I buy Aw
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-away-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-away-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? One that combines style, functionality, and durability?**

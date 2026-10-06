@@ -1,10 +1,14 @@
 ---
-title: "What Size Carry On is Allowed on Delta: Ultimate Guide 2025"
-description: "Are you planning a trip with Delta Airlines and wondering about the size limits for your carry-on bag? You’re not alone. Figuring out what size carry-on is allo"
+title: 'What Size Carry On is Allowed on Delta: Ultimate Guide 2025'
+description: Are you planning a trip with Delta Airlines and wondering about the size
+  limits for your carry-on bag? You’re not alone. Figuring out what size carry-on
+  is allo
 pubDate: 2026-03-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-carry-on-is-allowed-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-carry-on-is-allowed-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Delta Airlines and wondering about the size limits for your carry-on bag? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Paint on Canvas Tote Bags: Easy Steps for Stunning Designs"
-description: "Imagine carrying a piece of your own art wherever you go. Painting on canvas tote bags allows you to do just that. These bags are not just practical; they’re a "
+title: 'How to Paint on Canvas Tote Bags: Easy Steps for Stunning Designs'
+description: 'Imagine carrying a piece of your own art wherever you go. Painting on
+  canvas tote bags allows you to do just that. These bags are not just practical;
+  they’re a '
 pubDate: 2025-12-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-paint-on-canvas-tote-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Customizing And Decorating Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-paint-on-canvas-tote-bags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine carrying a piece of your own art wherever you go. Painting on canvas tote bags allows you to do just that.**

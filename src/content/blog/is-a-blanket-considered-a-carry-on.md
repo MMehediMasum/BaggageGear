@@ -1,10 +1,14 @@
 ---
-title: "Is a Blanket Considered a Carry On: Essential Travel Tips Revealed"
-description: "Have you ever found yourself at the airport, clutching your cozy blanket, and wondering if it counts as a carry-on? You're not alone. Many travelers like you ar"
+title: 'Is a Blanket Considered a Carry On: Essential Travel Tips Revealed'
+description: Have you ever found yourself at the airport, clutching your cozy blanket,
+  and wondering if it counts as a carry-on? You're not alone. Many travelers like
+  you ar
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-blanket-considered-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-a-blanket-considered-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself at the airport, clutching your cozy blanket, and wondering if it counts as a carry-on? You're not alone.**

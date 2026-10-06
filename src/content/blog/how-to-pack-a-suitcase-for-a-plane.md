@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Suitcase for a Plane: Expert Tips for Stress-Free Travel"
-description: "Packing a suitcase for a plane can feel like a puzzle. With airlines imposing stricter rules, it's easy to worry about what to pack and how to fit everything in"
+title: 'How to Pack a Suitcase for a Plane: Expert Tips for Stress-Free Travel'
+description: Packing a suitcase for a plane can feel like a puzzle. With airlines
+  imposing stricter rules, it's easy to worry about what to pack and how to fit everything
+  in
 pubDate: 2026-03-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase-for-a-plane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase-for-a-plane&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suitcase for a plane can feel like a puzzle. With airlines imposing stricter rules, it's easy to worry about what to pack and how to fit everything in without exceeding weight limits.**

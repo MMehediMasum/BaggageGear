@@ -1,10 +1,14 @@
 ---
-title: "Can You Take an Umbrella in a Carry On: Essential Travel Tips"
-description: "Are you planning your next flight and wondering if you can take an umbrella in your carry-on? You’re not alone. This seemingly simple question can cause a lot o"
+title: 'Can You Take an Umbrella in a Carry On: Essential Travel Tips'
+description: Are you planning your next flight and wondering if you can take an umbrella
+  in your carry-on? You’re not alone. This seemingly simple question can cause a lot
+  o
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-an-umbrella-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-an-umbrella-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next flight and wondering if you can take an umbrella in your carry-on? You’re not alone.**

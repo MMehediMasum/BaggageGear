@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Hard Luggage: Top Picks for Effortless Travel"
-description: "Finding the best lightweight hard luggage makes travel easier and more comfortable. Durable, easy to carry, and spacious options help you move swiftly through a"
+title: 'Best Lightweight Hard Luggage: Top Picks for Effortless Travel'
+description: Finding the best lightweight hard luggage makes travel easier and more
+  comfortable. Durable, easy to carry, and spacious options help you move swiftly
+  through a
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-hard-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-hard-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best lightweight hard luggage makes travel easier and more comfortable. Durable, easy to carry, and spacious options help you move swiftly through airports.**

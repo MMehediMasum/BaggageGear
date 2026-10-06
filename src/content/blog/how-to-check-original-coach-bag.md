@@ -1,10 +1,14 @@
 ---
-title: "How to Check Original Coach Bag: Ultimate Guide to Authenticity"
-description: "Imagine you've just spotted a stunning Coach bag that seems perfect for you. The design, the craftsmanship, everything looks impeccable. But how can you be sure"
+title: 'How to Check Original Coach Bag: Ultimate Guide to Authenticity'
+description: Imagine you've just spotted a stunning Coach bag that seems perfect for
+  you. The design, the craftsmanship, everything looks impeccable. But how can you
+  be sure
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-check-original-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-check-original-coach-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine you've just spotted a stunning Coach bag that seems perfect for you. The design, the craftsmanship, everything looks impeccable.**

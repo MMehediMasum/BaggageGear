@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Hospital Bag for Mom: Essential Checklist"
-description: "Packing your hospital bag can feel overwhelming, especially with so much on your mind. But having the right items ready can make a huge difference in your comfo"
+title: 'What to Pack in Hospital Bag for Mom: Essential Checklist'
+description: Packing your hospital bag can feel overwhelming, especially with so much
+  on your mind. But having the right items ready can make a huge difference in your
+  comfo
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-hospital-bag-for-mom&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-hospital-bag-for-mom&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Packing your hospital bag can feel overwhelming, especially with so much on your mind. But having the right items ready can make a huge difference in your comfort and peace of mind during this important time.**

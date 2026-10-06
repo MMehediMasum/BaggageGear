@@ -1,10 +1,14 @@
 ---
-title: "Does Comfort Plus Include Checked Bag? Discover the Truth Now"
-description: "Are you planning your next trip and trying to figure out if Comfort Plus includes a checked bag? Navigating airline policies can feel like a daunting task, espe"
+title: Does Comfort Plus Include Checked Bag? Discover the Truth Now
+description: Are you planning your next trip and trying to figure out if Comfort Plus
+  includes a checked bag? Navigating airline policies can feel like a daunting task,
+  espe
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-comfort-plus-include-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-comfort-plus-include-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next trip and trying to figure out if Comfort Plus includes a checked bag? Navigating airline policies can feel like a daunting task, especially when you're trying to ensure a smooth and stress-free travel experience.**

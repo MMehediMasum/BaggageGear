@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fold Wrapping Paper into a Bag: Easy Steps for Perfect Gifts"
 description: "Have you ever struggled with wrapping paper that tears or wrinkles while wrapping gifts? What if you could turn that same paper into a neat, sturdy bag instead?"
 pubDate: 2025-09-01

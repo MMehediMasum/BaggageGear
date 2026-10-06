@@ -1,10 +1,14 @@
 ---
-title: "Does Dollywood Have a Clear Bag Policy: What You Need to Know"
-description: "Planning a day at Dollywood can be an exhilarating experience filled with thrilling rides and unforgettable shows. But before you pack your bags and head to the"
+title: 'Does Dollywood Have a Clear Bag Policy: What You Need to Know'
+description: Planning a day at Dollywood can be an exhilarating experience filled
+  with thrilling rides and unforgettable shows. But before you pack your bags and
+  head to the
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-dollywood-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-dollywood-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a day at Dollywood can be an exhilarating experience filled with thrilling rides and unforgettable shows. But before you pack your bags and head to the park, there’s one crucial question you need answered: Does Dollywood have a clear bag policy?**

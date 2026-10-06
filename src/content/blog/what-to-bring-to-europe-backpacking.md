@@ -1,10 +1,14 @@
 ---
-title: "What to Bring to Europe Backpacking: Essential Gear Guide"
-description: "Planning a backpacking trip to Europe? Knowing exactly what to bring can make all the difference between a smooth adventure and a stressful one. You don’t want "
+title: 'What to Bring to Europe Backpacking: Essential Gear Guide'
+description: 'Planning a backpacking trip to Europe? Knowing exactly what to bring
+  can make all the difference between a smooth adventure and a stressful one. You
+  don’t want '
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-bring-to-europe-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=what-to-bring-to-europe-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Planning a backpacking trip to Europe? Knowing exactly what to bring can make all the difference between a smooth adventure and a stressful one.**

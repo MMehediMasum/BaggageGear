@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on a Disposable Razor: TSA Rules Explained Clearly"
-description: "Imagine this: You're packing for a trip, your bags are almost ready, and you suddenly wonder about your grooming essentials. Specifically, you find yourself ask"
+title: 'Can You Carry on a Disposable Razor: TSA Rules Explained Clearly'
+description: 'Imagine this: You''re packing for a trip, your bags are almost ready,
+  and you suddenly wonder about your grooming essentials. Specifically, you find yourself
+  ask'
 pubDate: 2025-10-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-a-disposable-razor&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-a-disposable-razor&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're packing for a trip, your bags are almost ready, and you suddenly wonder about your grooming essentials. Specifically, you find yourself asking, "Can you carry on a disposable razor?"**

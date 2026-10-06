@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Draw a Plastic Bag: Easy Steps for Realistic Art"
 description: "Ever wondered how you can bring the simple everyday plastic bag to life on paper? Drawing a plastic bag might seem easy, but capturing its transparency, texture"
 pubDate: 2026-01-17

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fill a Heavy Bag: Ultimate Guide for Perfect Weight"
 description: "Are you ready to transform your workout routine with a heavy bag, but unsure how to fill it properly? You’re not alone. Many fitness enthusiasts face this chall"
 pubDate: 2026-04-13

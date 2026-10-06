@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Knife in a Checked Bag Internationally? Essential Rules!"
-description: "Navigating the rules of international travel can be tricky, especially when it comes to packing your belongings. You might be planning a trip abroad and wonderi"
+title: Can You Bring a Knife in a Checked Bag Internationally? Essential Rules!
+description: Navigating the rules of international travel can be tricky, especially
+  when it comes to packing your belongings. You might be planning a trip abroad and
+  wonderi
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-knife-in-a-checked-bag-internationally&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-knife-in-a-checked-bag-internationally&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating the rules of international travel can be tricky, especially when it comes to packing your belongings. You might be planning a trip abroad and wondering, "Can you bring a knife in a checked bag internationally?"**

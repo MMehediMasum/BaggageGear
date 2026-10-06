@@ -1,10 +1,14 @@
 ---
-title: "Can You Put an Airtag in Checked Luggage: Essential Travel Tips"
-description: "Ever lost your luggage while traveling? It’s a nightmare nobody wants to experience. Imagine arriving at your destination only to find out your bags decided to "
+title: 'Can You Put an Airtag in Checked Luggage: Essential Travel Tips'
+description: 'Ever lost your luggage while traveling? It’s a nightmare nobody wants
+  to experience. Imagine arriving at your destination only to find out your bags decided
+  to '
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-an-airtag-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Trackers And AirTags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-an-airtag-in-checked-luggage&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Ever lost your luggage while traveling? It’s a nightmare nobody wants to experience.**

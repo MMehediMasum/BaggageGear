@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Candy in Your Carry On: Ultimate Travel Guide"
-description: "Are you gearing up for your next adventure and wondering if you can pack some sweet treats in your carry-on? You're not alone. Many travelers like you ask this "
+title: 'Can You Take Candy in Your Carry On: Ultimate Travel Guide'
+description: 'Are you gearing up for your next adventure and wondering if you can
+  pack some sweet treats in your carry-on? You''re not alone. Many travelers like
+  you ask this '
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-candy-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-candy-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next adventure and wondering if you can pack some sweet treats in your carry-on? You're not alone.**

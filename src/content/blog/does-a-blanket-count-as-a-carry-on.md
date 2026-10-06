@@ -1,10 +1,14 @@
 ---
-title: "Does a Blanket Count As a Carry On? Essential Travel Tips!"
-description: "Does a blanket count as a carry-on? You might find yourself pondering this question as you pack for your next flight. Navigating airline rules can be as tricky "
+title: Does a Blanket Count As a Carry On? Essential Travel Tips!
+description: 'Does a blanket count as a carry-on? You might find yourself pondering
+  this question as you pack for your next flight. Navigating airline rules can be
+  as tricky '
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-a-blanket-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-a-blanket-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Does a blanket count as a carry-on? You might find yourself pondering this question as you pack for your next flight.**

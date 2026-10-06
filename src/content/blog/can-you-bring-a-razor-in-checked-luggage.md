@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Razor in Checked Luggage: Essential Travel Rules"
-description: "Are you planning your next getaway and wondering about what you can pack in your checked luggage? Specifically, you might be curious if you can bring a razor al"
+title: 'Can You Bring a Razor in Checked Luggage: Essential Travel Rules'
+description: Are you planning your next getaway and wondering about what you can pack
+  in your checked luggage? Specifically, you might be curious if you can bring a razor
+  al
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-razor-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-razor-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next getaway and wondering about what you can pack in your checked luggage? Specifically, you might be curious if you can bring a razor along.**

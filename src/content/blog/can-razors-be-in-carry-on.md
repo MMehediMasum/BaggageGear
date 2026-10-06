@@ -1,10 +1,13 @@
 ---
-title: "Can Razors Be in Carry On: Essential Travel Safety Tips Revealed"
-description: "Planning a trip and wondering if you can pack a razor in your carry-on? You’re not alone. This seemingly simple question can cause a lot of confusion, especiall"
+title: 'Can Razors Be in Carry On: Essential Travel Safety Tips Revealed'
+description: Planning a trip and wondering if you can pack a razor in your carry-on?
+  You’re not alone. This seemingly simple question can cause a lot of confusion, especiall
 pubDate: 2025-11-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-razors-be-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-razors-be-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and wondering if you can pack a razor in your carry-on? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Carry a Skateboard With a Backpack: Easy Tips for Riders"
-description: "Do you love the thrill of skating but often find yourself puzzled about how to carry your skateboard when it's not under your feet? You're not alone. Many skate"
+title: 'How to Carry a Skateboard With a Backpack: Easy Tips for Riders'
+description: Do you love the thrill of skating but often find yourself puzzled about
+  how to carry your skateboard when it's not under your feet? You're not alone. Many
+  skate
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-a-skateboard-with-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-a-skateboard-with-a-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Do you love the thrill of skating but often find yourself puzzled about how to carry your skateboard when it's not under your feet? You're not alone.**

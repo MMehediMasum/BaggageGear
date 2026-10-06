@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Quilted Bag: Easy Steps for Stunning Results"
-description: "Are you ready to unlock your creative potential and craft something uniquely yours? Sewing a quilted bag is not only a rewarding project but also a practical on"
+title: 'How to Sew a Quilted Bag: Easy Steps for Stunning Results'
+description: Are you ready to unlock your creative potential and craft something uniquely
+  yours? Sewing a quilted bag is not only a rewarding project but also a practical
+  on
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-quilted-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-quilted-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready to unlock your creative potential and craft something uniquely yours? Sewing a quilted bag is not only a rewarding project but also a practical one.**

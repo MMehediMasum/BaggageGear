@@ -1,10 +1,14 @@
 ---
-title: "What Can You Put in a Checked Bag: Essential Packing Tips Revealed"
-description: "Packing for a trip can often feel like a game of Tetris, with you trying to fit everything you need into your luggage. But there's one crucial question that mig"
+title: 'What Can You Put in a Checked Bag: Essential Packing Tips Revealed'
+description: Packing for a trip can often feel like a game of Tetris, with you trying
+  to fit everything you need into your luggage. But there's one crucial question that
+  mig
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-you-put-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-can-you-put-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can often feel like a game of Tetris, with you trying to fit everything you need into your luggage. But there's one crucial question that might be playing on your mind: What can you put in a checked bag?**

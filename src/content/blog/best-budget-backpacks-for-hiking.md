@@ -1,10 +1,13 @@
 ---
-title: "Best Budget Backpacks for Hiking: Top Picks for Outdoor Adventures"
-description: "Finding a good hiking backpack doesn’t have to cost a lot. Budget backpacks can offer great quality and useful features for outdoor trips. Hiking needs a backpa"
+title: 'Best Budget Backpacks for Hiking: Top Picks for Outdoor Adventures'
+description: Finding a good hiking backpack doesn’t have to cost a lot. Budget backpacks
+  can offer great quality and useful features for outdoor trips. Hiking needs a backpa
 pubDate: 2026-06-09
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-backpacks-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-backpacks-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding a good hiking backpack doesn’t have to cost a lot. Budget backpacks can offer great quality and useful features for outdoor trips.**

@@ -1,10 +1,14 @@
 ---
-title: "Why is Carry on Not Allowed for Purchase Spirit: Shocking Truths Revealed"
-description: "Imagine this: You're booking a flight with Spirit Airlines, and you're looking forward to a hassle-free journey. But then you notice something strange — you can"
+title: 'Why is Carry on Not Allowed for Purchase Spirit: Shocking Truths Revealed'
+description: 'Imagine this: You''re booking a flight with Spirit Airlines, and you''re
+  looking forward to a hassle-free journey. But then you notice something strange
+  — you can'
 pubDate: 2025-12-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=why-is-carry-on-not-allowed-for-purchase-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=why-is-carry-on-not-allowed-for-purchase-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine this: You're booking a flight with Spirit Airlines, and you're looking forward to a hassle-free journey. But then you notice something strange — you can't purchase a carry-on bag.**

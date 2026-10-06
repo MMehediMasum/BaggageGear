@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Aerosol Hairspray in Checked Luggage: Essential Rules"
-description: "Are you wondering if you can pack aerosol hairspray in your checked luggage without any hassle? You’re not alone. Many travelers face this common dilemma and wa"
+title: 'Can You Pack Aerosol Hairspray in Checked Luggage: Essential Rules'
+description: Are you wondering if you can pack aerosol hairspray in your checked luggage
+  without any hassle? You’re not alone. Many travelers face this common dilemma and
+  wa
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-aerosol-hairspray-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-aerosol-hairspray-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you wondering if you can pack aerosol hairspray in your checked luggage without any hassle? You’re not alone.**

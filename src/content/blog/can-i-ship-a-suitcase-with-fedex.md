@@ -1,10 +1,14 @@
 ---
-title: "Can I Ship a Suitcase With Fedex: Essential Tips & Cost Guide"
-description: "Have you ever faced the hassle of lugging around a bulky suitcase during your travels? You're not alone. The thought of navigating through crowded airports or d"
+title: 'Can I Ship a Suitcase With Fedex: Essential Tips & Cost Guide'
+description: Have you ever faced the hassle of lugging around a bulky suitcase during
+  your travels? You're not alone. The thought of navigating through crowded airports
+  or d
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-ship-a-suitcase-with-fedex&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=can-i-ship-a-suitcase-with-fedex&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever faced the hassle of lugging around a bulky suitcase during your travels? You're not alone.**

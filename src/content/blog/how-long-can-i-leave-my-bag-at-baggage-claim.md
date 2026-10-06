@@ -1,10 +1,14 @@
 ---
-title: "How Long Can I Leave My Bag at Baggage Claim: Essential Tips"
-description: "Ever stood at the baggage claim, watching the conveyor belt roll with no sign of your bag? Or maybe you've wondered how long your luggage can safely sit there w"
+title: 'How Long Can I Leave My Bag at Baggage Claim: Essential Tips'
+description: Ever stood at the baggage claim, watching the conveyor belt roll with
+  no sign of your bag? Or maybe you've wondered how long your luggage can safely sit
+  there w
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-can-i-leave-my-bag-at-baggage-claim&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lost And Delayed Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-long-can-i-leave-my-bag-at-baggage-claim&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever stood at the baggage claim, watching the conveyor belt roll with no sign of your bag? Or maybe you've wondered how long your luggage can safely sit there without being claimed?**

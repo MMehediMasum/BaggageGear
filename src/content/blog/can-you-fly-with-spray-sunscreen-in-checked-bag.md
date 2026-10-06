@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Spray Sunscreen in Checked Bag: Essential Rules"
-description: "Navigating airport security and packing your bags can often feel like a daunting task, especially when it comes to figuring out what you can and cannot bring on"
+title: 'Can You Fly With Spray Sunscreen in Checked Bag: Essential Rules'
+description: Navigating airport security and packing your bags can often feel like
+  a daunting task, especially when it comes to figuring out what you can and cannot
+  bring on
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-spray-sunscreen-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-spray-sunscreen-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security and packing your bags can often feel like a daunting task, especially when it comes to figuring out what you can and cannot bring on a flight. If you're planning a trip and wondering whether you can fly with spray sunscreen in your checked bag, you're not alone.**

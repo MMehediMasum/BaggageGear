@@ -1,10 +1,14 @@
 ---
-title: "Best Fanny Pack for Nurses: Ultimate Medical Gear Organizer and Storage"
-description: "Finding the best fanny pack for nurses helps keep essential tools close and organized during shifts. These packs offer easy access to medical supplies like stet"
+title: 'Best Fanny Pack for Nurses: Ultimate Medical Gear Organizer and Storage'
+description: Finding the best fanny pack for nurses helps keep essential tools close
+  and organized during shifts. These packs offer easy access to medical supplies like
+  stet
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-fanny-pack-for-nurses&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tool And Trade Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-fanny-pack-for-nurses&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best fanny pack for nurses helps keep essential tools close and organized during shifts. These packs offer easy access to medical supplies like stethoscopes, scissors, and tape.**

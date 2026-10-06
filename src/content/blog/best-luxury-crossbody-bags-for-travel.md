@@ -1,10 +1,13 @@
 ---
-title: "Best Luxury Crossbody Bags for Travel: Stylish, Secure, and Spacious Picks"
-description: "Choosing the best luxury crossbody bag for travel combines style, safety, and convenience. These bags keep essentials close and hands free during trips. Travel "
+title: 'Best Luxury Crossbody Bags for Travel: Stylish, Secure, and Spacious Picks'
+description: 'Choosing the best luxury crossbody bag for travel combines style, safety,
+  and convenience. These bags keep essentials close and hands free during trips. Travel '
 pubDate: 2025-11-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luxury-crossbody-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Totes And Crossbody Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-luxury-crossbody-bags-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best luxury crossbody bag for travel combines style, safety, and convenience. These bags keep essentials close and hands free during trips.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Patagonia Backpack: Easy Steps for Deep Clean"
-description: "Have you ever looked at your trusty Patagonia backpack and wondered if it's time for a wash? You're not alone. Whether it's been your companion on rugged hikes,"
+title: 'Can You Wash a Patagonia Backpack: Easy Steps for Deep Clean'
+description: Have you ever looked at your trusty Patagonia backpack and wondered if
+  it's time for a wash? You're not alone. Whether it's been your companion on rugged
+  hikes,
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-patagonia-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-patagonia-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever looked at your trusty Patagonia backpack and wondered if it's time for a wash? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Where to Donate Backpacks: Top Places to Make an Impact"
-description: "Are those unused backpacks gathering dust in your closet? Imagine transforming them into a beacon of hope for someone in need. Donating backpacks is more than j"
+title: 'Where to Donate Backpacks: Top Places to Make an Impact'
+description: Are those unused backpacks gathering dust in your closet? Imagine transforming
+  them into a beacon of hope for someone in need. Donating backpacks is more than
+  j
 pubDate: 2025-11-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-donate-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-donate-backpacks&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are those unused backpacks gathering dust in your closet? Imagine transforming them into a beacon of hope for someone in need.**

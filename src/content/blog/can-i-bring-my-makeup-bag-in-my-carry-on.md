@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring My Makeup Bag in My Carry On: Essential Travel Tips"
-description: "Imagine you’re packing for a much-anticipated trip, and you’re staring at your makeup bag, wondering if it can accompany you in your carry-on. You’re not alone "
+title: 'Can I Bring My Makeup Bag in My Carry On: Essential Travel Tips'
+description: 'Imagine you’re packing for a much-anticipated trip, and you’re staring
+  at your makeup bag, wondering if it can accompany you in your carry-on. You’re not
+  alone '
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-my-makeup-bag-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-my-makeup-bag-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you’re packing for a much-anticipated trip, and you’re staring at your makeup bag, wondering if it can accompany you in your carry-on. You’re not alone in this dilemma.**

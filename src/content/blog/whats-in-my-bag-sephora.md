@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in My Bag Sephora: Must-Have Beauty Essentials Revealed"
 description: "Ever wondered what beauty treasures are tucked away in those stylish Sephora bags? You're not alone. Picture this: you're strolling through Sephora, surrounded "
 pubDate: 2026-04-01

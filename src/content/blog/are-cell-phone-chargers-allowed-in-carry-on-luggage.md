@@ -1,10 +1,14 @@
 ---
-title: "Are Cell Phone Chargers Allowed in Carry-On Luggage: Essential Guide"
-description: "You’re packing for your upcoming flight and everything seems to be in order. But then a question pops into your mind: Are cell phone chargers allowed in your ca"
+title: 'Are Cell Phone Chargers Allowed in Carry-On Luggage: Essential Guide'
+description: 'You’re packing for your upcoming flight and everything seems to be in
+  order. But then a question pops into your mind: Are cell phone chargers allowed
+  in your ca'
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-cell-phone-chargers-allowed-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-cell-phone-chargers-allowed-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re packing for your upcoming flight and everything seems to be in order. But then a question pops into your mind: Are cell phone chargers allowed in your carry-on luggage?**

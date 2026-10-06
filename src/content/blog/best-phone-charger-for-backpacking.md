@@ -1,10 +1,13 @@
 ---
-title: "Best Phone Charger for Backpacking: Top Portable Power Solutions Reviewed"
-description: "Choosing the best phone charger for backpacking keeps your devices powered during long outdoor trips. Reliable charging gear prevents battery anxiety and keeps "
+title: 'Best Phone Charger for Backpacking: Top Portable Power Solutions Reviewed'
+description: 'Choosing the best phone charger for backpacking keeps your devices powered
+  during long outdoor trips. Reliable charging gear prevents battery anxiety and keeps '
 pubDate: 2026-06-19
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-phone-charger-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-phone-charger-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best phone charger for backpacking keeps your devices powered during long outdoor trips. Reliable charging gear prevents battery anxiety and keeps you connected.**

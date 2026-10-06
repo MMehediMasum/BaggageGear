@@ -1,10 +1,13 @@
 ---
-title: "What are the Maximum Dimensions for Checked Luggage: Ultimate Guide"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing your bags. You might wonder if your luggage will fit the airline's requirement"
+title: 'What are the Maximum Dimensions for Checked Luggage: Ultimate Guide'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing your bags. You might wonder if your luggage will fit the airline's requirement
 pubDate: 2026-03-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-maximum-dimensions-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-maximum-dimensions-for-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing your bags. You might wonder if your luggage will fit the airline's requirements.**

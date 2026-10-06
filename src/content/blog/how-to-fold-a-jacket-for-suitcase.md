@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Jacket for Suitcase: Expert Tips for Wrinkle-Free Travel"
-description: "Packing for a trip can be a puzzle, and fitting everything into your suitcase often feels like a game of Tetris. When it comes to your jacket, you want it to em"
+title: 'How to Fold a Jacket for Suitcase: Expert Tips for Wrinkle-Free Travel'
+description: Packing for a trip can be a puzzle, and fitting everything into your
+  suitcase often feels like a game of Tetris. When it comes to your jacket, you want
+  it to em
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-jacket-for-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-jacket-for-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can be a puzzle, and fitting everything into your suitcase often feels like a game of Tetris. When it comes to your jacket, you want it to emerge from your suitcase looking as crisp as when you packed it.**

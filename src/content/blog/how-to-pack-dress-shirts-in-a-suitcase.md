@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Dress Shirts in a Suitcase: Expert Tips to Stay Wrinkle-Free"
-description: "Packing dress shirts for travel can feel like solving a tricky puzzle. You want to arrive at your destination looking sharp, but how do you avoid the dreaded wr"
+title: 'How to Pack Dress Shirts in a Suitcase: Expert Tips to Stay Wrinkle-Free'
+description: Packing dress shirts for travel can feel like solving a tricky puzzle.
+  You want to arrive at your destination looking sharp, but how do you avoid the dreaded
+  wr
 pubDate: 2025-09-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-dress-shirts-in-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-dress-shirts-in-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing dress shirts for travel can feel like solving a tricky puzzle. You want to arrive at your destination looking sharp, but how do you avoid the dreaded wrinkles and creases?**

@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Rucking: Top Durable and Comfortable Rucksacks Reviewed"
-description: "Choosing the best backpack for rucking can improve your comfort and performance. A good rucking backpack fits well, holds weight securely, and lasts long. Rucki"
+title: 'Best Backpack for Rucking: Top Durable and Comfortable Rucksacks Reviewed'
+description: Choosing the best backpack for rucking can improve your comfort and performance.
+  A good rucking backpack fits well, holds weight securely, and lasts long. Rucki
 pubDate: 2026-06-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-rucking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-rucking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for rucking can improve your comfort and performance. A good rucking backpack fits well, holds weight securely, and lasts long.**

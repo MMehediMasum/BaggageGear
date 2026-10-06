@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Train With a Boxing Bag: Ultimate Guide for Maximum Power"
 description: "Are you ready to take your fitness game to the next level? Training with a boxing bag can be a game-changer, not just for your physical strength, but for your m"
 pubDate: 2026-02-08

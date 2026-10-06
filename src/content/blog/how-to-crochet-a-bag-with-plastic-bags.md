@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Crochet a Bag With Plastic Bags: Easy Eco-Friendly Craft!"
 description: "Are you tired of throwing away countless plastic bags, only to feel a twinge of guilt each time? What if I told you that you could transform these everyday nuis"
 pubDate: 2025-11-06

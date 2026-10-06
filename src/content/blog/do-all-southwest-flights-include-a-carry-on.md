@@ -1,10 +1,14 @@
 ---
-title: "Do All Southwest Flights Include a Carry On? Essential Facts Revealed"
-description: "Are you planning your next adventure and considering flying with Southwest Airlines? One of the first things you might wonder is whether all Southwest flights i"
+title: Do All Southwest Flights Include a Carry On? Essential Facts Revealed
+description: Are you planning your next adventure and considering flying with Southwest
+  Airlines? One of the first things you might wonder is whether all Southwest flights
+  i
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-all-southwest-flights-include-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=do-all-southwest-flights-include-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and considering flying with Southwest Airlines? One of the first things you might wonder is whether all Southwest flights include a carry-on.**

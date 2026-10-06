@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Canvas Backpack: Easy Steps for a Fresh Look"
-description: "Are you worried about how to clean your canvas backpack without ruining it? You're not alone. Many people are unsure about the best way to wash their trusty bag"
+title: 'How to Wash a Canvas Backpack: Easy Steps for a Fresh Look'
+description: Are you worried about how to clean your canvas backpack without ruining
+  it? You're not alone. Many people are unsure about the best way to wash their trusty
+  bag
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-canvas-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-canvas-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you worried about how to clean your canvas backpack without ruining it? You're not alone.**

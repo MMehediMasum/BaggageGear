@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change a Foley Bag: Simple Steps for Safe Care"
 description: "Changing a Foley bag might seem like a daunting task, especially if you're doing it for the first time. You might be feeling a bit anxious, wondering if you’ll "
 pubDate: 2026-03-25

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Tent for Solo Backpacking: Top Ultralight and Waterproof Options"
 description: "Finding the best tent for solo backpacking is essential for a safe, comfortable trip. A good tent must be lightweight, durable, and easy to set up. Solo backpac"
 pubDate: 2026-06-09

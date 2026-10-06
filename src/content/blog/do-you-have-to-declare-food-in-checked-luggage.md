@@ -1,10 +1,14 @@
 ---
-title: "Do You Have to Declare Food in Checked Luggage? Essential Rules Revealed"
-description: "Traveling can be an exciting adventure, but it often comes with its own set of challenges. One question that might be lingering in your mind as you pack your ba"
+title: Do You Have to Declare Food in Checked Luggage? Essential Rules Revealed
+description: Traveling can be an exciting adventure, but it often comes with its own
+  set of challenges. One question that might be lingering in your mind as you pack
+  your ba
 pubDate: 2026-01-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-have-to-declare-food-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=do-you-have-to-declare-food-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be an exciting adventure, but it often comes with its own set of challenges. One question that might be lingering in your mind as you pack your bags is, "Do you have to declare food in checked luggage?"**

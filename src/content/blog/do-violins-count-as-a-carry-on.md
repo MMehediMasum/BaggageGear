@@ -1,10 +1,14 @@
 ---
-title: "Do Violins Count As a Carry on: Ultimate Travel Guide Tips"
-description: "Are you planning to travel with your violin but unsure if it counts as a carry-on? Carrying a delicate instrument like a violin can be stressful, especially whe"
+title: 'Do Violins Count As a Carry on: Ultimate Travel Guide Tips'
+description: Are you planning to travel with your violin but unsure if it counts as
+  a carry-on? Carrying a delicate instrument like a violin can be stressful, especially
+  whe
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-violins-count-as-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What Counts As Carry On
+heroImage: https://tse1.mm.bing.net/th?q=do-violins-count-as-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to travel with your violin but unsure if it counts as a carry-on? Carrying a delicate instrument like a violin can be stressful, especially when airline rules seem confusing.**

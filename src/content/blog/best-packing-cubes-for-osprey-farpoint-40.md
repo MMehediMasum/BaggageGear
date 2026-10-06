@@ -1,10 +1,14 @@
 ---
-title: "Best Packing Cubes for Osprey Farpoint 40: Maximize Your Travel Space"
-description: "Packing cubes help keep your Osprey Farpoint 40 organized and make travel easier. Choosing the right set saves space and protects your clothes. The Osprey Farpo"
+title: 'Best Packing Cubes for Osprey Farpoint 40: Maximize Your Travel Space'
+description: Packing cubes help keep your Osprey Farpoint 40 organized and make travel
+  easier. Choosing the right set saves space and protects your clothes. The Osprey
+  Farpo
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packing-cubes-for-osprey-farpoint-40&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Cubes For Carry On
+heroImage: https://tse1.mm.bing.net/th?q=best-packing-cubes-for-osprey-farpoint-40&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing cubes help keep your Osprey Farpoint 40 organized and make travel easier. Choosing the right set saves space and protects your clothes.**

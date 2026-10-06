@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Hospital Bag for C Section: Essential Must-Haves"
-description: "Preparing for a C-section can be both an exciting and nerve-wracking experience. As the big day approaches, ensuring that you have everything you need can help "
+title: 'What to Pack in a Hospital Bag for C Section: Essential Must-Haves'
+description: 'Preparing for a C-section can be both an exciting and nerve-wracking
+  experience. As the big day approaches, ensuring that you have everything you need
+  can help '
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-c-section&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-c-section&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for a C-section can be both an exciting and nerve-wracking experience. As the big day approaches, ensuring that you have everything you need can help ease your mind and make the process smoother.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Knife in a Checked Bag: Essential Travel Rules Explained"
-description: "Traveling can be exciting, but packing your bags can sometimes be a puzzle, especially when it comes to items like knives. You might find yourself asking, \"Can "
+title: 'Can You Put a Knife in a Checked Bag: Essential Travel Rules Explained'
+description: 'Traveling can be exciting, but packing your bags can sometimes be a
+  puzzle, especially when it comes to items like knives. You might find yourself asking,
+  "Can '
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-knife-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-knife-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be exciting, but packing your bags can sometimes be a puzzle, especially when it comes to items like knives. You might find yourself asking, "Can you put a knife in a checked bag?"**

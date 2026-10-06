@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Bring on Anything But a Backpack Day: Ultimate Essentials Guide"
 description: "Are you ready for a school day that's anything but ordinary? \"Anything But a Backpack Day\" is your chance to get creative and have some fun! But with all the ex"
 pubDate: 2025-12-18

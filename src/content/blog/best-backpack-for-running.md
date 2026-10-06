@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Running: Top Lightweight Hydration Packs for Runners"
-description: "Choosing the best backpack for running boosts comfort and hydration on every run. A good running backpack fits snugly and carries water without bouncing. Runnin"
+title: 'Best Backpack for Running: Top Lightweight Hydration Packs for Runners'
+description: Choosing the best backpack for running boosts comfort and hydration on
+  every run. A good running backpack fits snugly and carries water without bouncing.
+  Runnin
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-running&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for running boosts comfort and hydration on every run. A good running backpack fits snugly and carries water without bouncing.**

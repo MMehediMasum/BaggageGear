@@ -1,10 +1,14 @@
 ---
-title: "How Heavy Can a Suitcase Be on Southwest: Ultimate Weight Limits Guide"
-description: "Are you planning a trip and flying with Southwest Airlines? You might be wondering, \"How heavy can a suitcase be on Southwest?\" Understanding the airline's bagg"
+title: 'How Heavy Can a Suitcase Be on Southwest: Ultimate Weight Limits Guide'
+description: Are you planning a trip and flying with Southwest Airlines? You might
+  be wondering, "How heavy can a suitcase be on Southwest?" Understanding the airline's
+  bagg
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-heavy-can-a-suitcase-be-on-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-heavy-can-a-suitcase-be-on-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and flying with Southwest Airlines? You might be wondering, "How heavy can a suitcase be on Southwest?"**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Tie a Bin Bag: Easy Tricks for a Secure Seal"
 description: "Tying a bin bag might seem like a simple task, but have you ever found yourself struggling with it? You’re not alone. Many people face the same frustration of a"
 pubDate: 2025-12-19

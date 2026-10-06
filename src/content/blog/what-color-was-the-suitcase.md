@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Color was the Suitcase: Unraveling the Mystery Revealed"
 description: "Have you ever been in a situation where you remember everything about an event except the color of that one important item? Imagine you're trying to recall the "
 pubDate: 2025-11-15

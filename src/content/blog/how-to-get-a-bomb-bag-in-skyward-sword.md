@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get a Bomb Bag in Skyward Sword: Ultimate Guide & Tips"
 description: "Are you ready to boost your adventure in Skyward Sword with an essential item that can make all the difference in your gameplay? Welcome to the ultimate guide o"
 pubDate: 2026-02-22

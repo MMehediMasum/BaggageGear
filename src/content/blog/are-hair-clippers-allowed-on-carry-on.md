@@ -1,10 +1,14 @@
 ---
-title: "Are Hair Clippers Allowed on Carry On: Ultimate TSA Guide 2025"
-description: "Heading to your next destination and wondering if you can bring your trusty hair clippers in your carry-on? You're not alone. Many travelers find themselves puz"
+title: 'Are Hair Clippers Allowed on Carry On: Ultimate TSA Guide 2025'
+description: Heading to your next destination and wondering if you can bring your
+  trusty hair clippers in your carry-on? You're not alone. Many travelers find themselves
+  puz
 pubDate: 2025-09-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-hair-clippers-allowed-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-hair-clippers-allowed-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Heading to your next destination and wondering if you can bring your trusty hair clippers in your carry-on? You're not alone.**

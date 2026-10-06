@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Lighter in Your Carry On: Essential Travel Rules Revealed"
-description: "Are you planning a trip and wondering about the rules for packing a lighter in your carry-on luggage? You're not alone. Many travelers find themselves puzzled b"
+title: 'Can You Bring a Lighter in Your Carry On: Essential Travel Rules Revealed'
+description: Are you planning a trip and wondering about the rules for packing a lighter
+  in your carry-on luggage? You're not alone. Many travelers find themselves puzzled
+  b
 pubDate: 2025-09-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-lighter-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-lighter-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering about the rules for packing a lighter in your carry-on luggage? You're not alone.**

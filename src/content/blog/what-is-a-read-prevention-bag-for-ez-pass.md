@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Read Prevention Bag for Ez Pass: Ultimate Protection Guide"
 description: "Ever zipped through an EZ Pass lane only to wonder how those little transponders work? Or perhaps you've worried about your pass being read when you didn't want"
 pubDate: 2025-11-13

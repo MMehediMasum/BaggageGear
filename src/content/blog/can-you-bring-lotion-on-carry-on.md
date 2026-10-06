@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Lotion on Carry On: Essential Travel Rules Revealed"
-description: "You're at the airport, excited about your trip, and then it hits you—can you bring lotion in your carry-on bag? It's a simple question, but it can cause a lot o"
+title: 'Can You Bring Lotion on Carry On: Essential Travel Rules Revealed'
+description: You're at the airport, excited about your trip, and then it hits you—can
+  you bring lotion in your carry-on bag? It's a simple question, but it can cause
+  a lot o
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-lotion-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-lotion-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're at the airport, excited about your trip, and then it hits you—can you bring lotion in your carry-on bag? It's a simple question, but it can cause a lot of confusion and stress.**

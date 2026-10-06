@@ -1,10 +1,14 @@
 ---
-title: "Can You Put an Ipad in Checked Luggage: Essential Travel Tips"
-description: "Are you packing for your next adventure and wondering if you can safely stash your iPad in your checked luggage? You're not alone. With the convenience of havin"
+title: 'Can You Put an Ipad in Checked Luggage: Essential Travel Tips'
+description: Are you packing for your next adventure and wondering if you can safely
+  stash your iPad in your checked luggage? You're not alone. With the convenience
+  of havin
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-an-ipad-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-an-ipad-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your next adventure and wondering if you can safely stash your iPad in your checked luggage? You're not alone.**

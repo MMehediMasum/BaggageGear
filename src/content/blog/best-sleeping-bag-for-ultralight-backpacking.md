@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Ultralight Backpacking: Top Lightweight Choices Reviewed"
-description: "Choosing the best sleeping bag for ultralight backpacking makes your trip easier and more comfortable. A lightweight, compact sleeping bag saves space and weigh"
+title: 'Best Sleeping Bag for Ultralight Backpacking: Top Lightweight Choices Reviewed'
+description: Choosing the best sleeping bag for ultralight backpacking makes your
+  trip easier and more comfortable. A lightweight, compact sleeping bag saves space
+  and weigh
 pubDate: 2026-06-16
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-ultralight-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-ultralight-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best sleeping bag for ultralight backpacking makes your trip easier and more comfortable. A lightweight, compact sleeping bag saves space and weight in your pack.**

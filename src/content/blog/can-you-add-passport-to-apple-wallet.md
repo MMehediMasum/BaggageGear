@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can You Add Passport to Apple Wallet? Discover How!"
 description: "Have you ever wished you could carry your passport right on your iPhone, just like your credit cards or boarding passes? Imagine the convenience of having this "
 pubDate: 2025-09-02

@@ -1,10 +1,14 @@
 ---
-title: "Does Beis Carry on Fit in Overhead? Ultimate Travel Guide"
-description: "Picture this: you're at the airport, your Beis carry-on suitcase in tow, ready for your adventure. But suddenly, a question pops into your mind: \"Will my Beis c"
+title: Does Beis Carry on Fit in Overhead? Ultimate Travel Guide
+description: 'Picture this: you''re at the airport, your Beis carry-on suitcase in
+  tow, ready for your adventure. But suddenly, a question pops into your mind: "Will
+  my Beis c'
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-in-overhead&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-beis-carry-on-fit-in-overhead&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Picture this: you're at the airport, your Beis carry-on suitcase in tow, ready for your adventure. But suddenly, a question pops into your mind: "Will my Beis carry-on fit in the overhead compartment?"**

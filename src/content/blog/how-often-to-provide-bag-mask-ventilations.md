@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Often to Provide Bag Mask Ventilations: Expert Guidelines"
 description: "Imagine a situation where every second counts, and your actions could mean the difference between life and death. Providing bag mask ventilations is a critical "
 pubDate: 2026-03-02

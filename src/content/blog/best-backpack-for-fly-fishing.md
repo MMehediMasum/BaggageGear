@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Fly Fishing: Top Lightweight, Waterproof Gear Bags"
-description: "Choosing the best backpack for fly fishing makes your trips easier and more organized. A good backpack holds all your gear and keeps it safe and dry. Fly fishin"
+title: 'Best Backpack for Fly Fishing: Top Lightweight, Waterproof Gear Bags'
+description: Choosing the best backpack for fly fishing makes your trips easier and
+  more organized. A good backpack holds all your gear and keeps it safe and dry. Fly
+  fishin
 pubDate: 2026-07-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-fly-fishing&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-fly-fishing&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for fly fishing makes your trips easier and more organized. A good backpack holds all your gear and keeps it safe and dry.**

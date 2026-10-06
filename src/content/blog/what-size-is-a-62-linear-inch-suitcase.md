@@ -1,10 +1,14 @@
 ---
-title: "What Size is a 62 Linear Inch Suitcase: Ultimate Guide Revealed"
-description: "Are you planning a trip and need to figure out the right suitcase size? If you're scratching your head over what a 62 linear inch suitcase really means, you're "
+title: 'What Size is a 62 Linear Inch Suitcase: Ultimate Guide Revealed'
+description: 'Are you planning a trip and need to figure out the right suitcase size?
+  If you''re scratching your head over what a 62 linear inch suitcase really means,
+  you''re '
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-62-linear-inch-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-62-linear-inch-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and need to figure out the right suitcase size? If you're scratching your head over what a 62 linear inch suitcase really means, you're not alone.**

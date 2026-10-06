@@ -1,10 +1,13 @@
 ---
-title: "How to Wash Cotopaxi Backpack: Easy Steps for Deep Clean"
-description: "Your Cotopaxi backpack is more than just a bag; it's your trusted companion on countless adventures. Whether you've taken it on rugged hikes, weekend getaways, "
+title: 'How to Wash Cotopaxi Backpack: Easy Steps for Deep Clean'
+description: 'Your Cotopaxi backpack is more than just a bag; it''s your trusted companion
+  on countless adventures. Whether you''ve taken it on rugged hikes, weekend getaways, '
 pubDate: 2025-11-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-cotopaxi-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-cotopaxi-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Cotopaxi backpack is more than just a bag; it's your trusted companion on countless adventures. Whether you've taken it on rugged hikes, weekend getaways, or daily commutes, it’s been there to carry your essentials.**

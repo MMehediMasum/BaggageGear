@@ -1,10 +1,14 @@
 ---
-title: "Best Hard Shell Carry On Luggage for Durable and Lightweight Travel"
-description: "Choosing the best hard shell carry-on luggage makes travel easier and more secure. These suitcases protect your belongings and fit airline rules well. Hard shel"
+title: Best Hard Shell Carry On Luggage for Durable and Lightweight Travel
+description: Choosing the best hard shell carry-on luggage makes travel easier and
+  more secure. These suitcases protect your belongings and fit airline rules well.
+  Hard shel
 pubDate: 2026-08-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hard-shell-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-hard-shell-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best hard shell carry-on luggage makes travel easier and more secure. These suitcases protect your belongings and fit airline rules well.**

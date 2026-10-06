@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Bear Spray on Backpack: Essential Safety Tips"
-description: "You're all set for your next adventure, ready to explore the great outdoors, but there's one thing you can't forget: bear spray. It's your first line of defense"
+title: 'How to Carry Bear Spray on Backpack: Essential Safety Tips'
+description: 'You''re all set for your next adventure, ready to explore the great
+  outdoors, but there''s one thing you can''t forget: bear spray. It''s your first
+  line of defense'
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-bear-spray-on-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-bear-spray-on-backpack&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're all set for your next adventure, ready to explore the great outdoors, but there's one thing you can't forget: bear spray. It's your first line of defense if you encounter a bear in the wild.**

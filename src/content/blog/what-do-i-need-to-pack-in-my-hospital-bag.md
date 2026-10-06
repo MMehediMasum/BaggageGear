@@ -1,10 +1,14 @@
 ---
-title: "What Do I Need to Pack in My Hospital Bag: Essential Must-Haves"
-description: "Getting ready for the arrival of your little one is both exciting and nerve-wracking. One thing that can help ease your mind is having your hospital bag packed "
+title: 'What Do I Need to Pack in My Hospital Bag: Essential Must-Haves'
+description: 'Getting ready for the arrival of your little one is both exciting and
+  nerve-wracking. One thing that can help ease your mind is having your hospital bag
+  packed '
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-do-i-need-to-pack-in-my-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-do-i-need-to-pack-in-my-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Getting ready for the arrival of your little one is both exciting and nerve-wracking. One thing that can help ease your mind is having your hospital bag packed and ready to go.**

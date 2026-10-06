@@ -1,10 +1,14 @@
 ---
-title: "Is 45 L Bag Big Enough to Travel to Europe: Ultimate Packing Guide"
-description: "Are you dreaming of a European adventure, but feeling overwhelmed by the packing process? If you're wondering whether a 45-liter bag is big enough for your trip"
+title: 'Is 45 L Bag Big Enough to Travel to Europe: Ultimate Packing Guide'
+description: Are you dreaming of a European adventure, but feeling overwhelmed by
+  the packing process? If you're wondering whether a 45-liter bag is big enough for
+  your trip
 pubDate: 2026-03-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-45-l-bag-big-enough-to-travel-to-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=is-45-l-bag-big-enough-to-travel-to-europe&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you dreaming of a European adventure, but feeling overwhelmed by the packing process? If you're wondering whether a 45-liter bag is big enough for your trip, you're in the right place.**

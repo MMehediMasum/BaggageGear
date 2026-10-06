@@ -1,10 +1,13 @@
 ---
-title: "What is the Size of a Jansport Backpack: Ultimate Guide Revealed"
-description: "Ever wondered why Jansport backpacks are so popular? It's not just about style; it's also about getting the perfect size for your needs. Whether you're planning"
+title: 'What is the Size of a Jansport Backpack: Ultimate Guide Revealed'
+description: Ever wondered why Jansport backpacks are so popular? It's not just about
+  style; it's also about getting the perfect size for your needs. Whether you're planning
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-size-of-a-jansport-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-size-of-a-jansport-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever wondered why Jansport backpacks are so popular? It's not just about style; it's also about getting the perfect size for your needs.**

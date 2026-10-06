@@ -1,10 +1,14 @@
 ---
-title: "Does Aeromexico Weigh Carry on Bags: Essential Travel Tips"
-description: "Curious about whether Aeromexico weighs your carry-on bags? If you're planning a trip and want to avoid any surprises at the airport, you've landed in the right"
+title: 'Does Aeromexico Weigh Carry on Bags: Essential Travel Tips'
+description: Curious about whether Aeromexico weighs your carry-on bags? If you're
+  planning a trip and want to avoid any surprises at the airport, you've landed in
+  the right
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-aeromexico-weigh-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=does-aeromexico-weigh-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Curious about whether Aeromexico weighs your carry-on bags? If you're planning a trip and want to avoid any surprises at the airport, you've landed in the right spot.**

@@ -1,10 +1,14 @@
 ---
-title: "What to Do With Luggage After Cruise in Miami: Ultimate Guide"
-description: "Picture this: You've just stepped off a luxurious cruise in Miami, your heart full of memories and your camera brimming with photos. But there's one little dile"
+title: 'What to Do With Luggage After Cruise in Miami: Ultimate Guide'
+description: 'Picture this: You''ve just stepped off a luxurious cruise in Miami,
+  your heart full of memories and your camera brimming with photos. But there''s one
+  little dile'
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-do-with-luggage-after-cruise-in-miami&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=what-to-do-with-luggage-after-cruise-in-miami&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You've just stepped off a luxurious cruise in Miami, your heart full of memories and your camera brimming with photos. But there's one little dilemma—what do you do with your luggage?**

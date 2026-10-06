@@ -1,10 +1,14 @@
 ---
-title: "Can Backpacks Be Washed: Ultimate Guide to Clean and Care"
-description: "Ever tossed your trusty backpack on the floor after a long day and noticed it looks a little worse for wear? You might be wondering if you can just toss it in t"
+title: 'Can Backpacks Be Washed: Ultimate Guide to Clean and Care'
+description: Ever tossed your trusty backpack on the floor after a long day and noticed
+  it looks a little worse for wear? You might be wondering if you can just toss it
+  in t
 pubDate: 2026-01-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-backpacks-be-washed&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning A Backpack By Hand
+heroImage: https://tse1.mm.bing.net/th?q=can-backpacks-be-washed&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever tossed your trusty backpack on the floor after a long day and noticed it looks a little worse for wear? You might be wondering if you can just toss it in the wash to freshen it up.**

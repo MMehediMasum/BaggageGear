@@ -1,10 +1,14 @@
 ---
-title: "Can I Check Sunscreen in My Luggage: Essential Travel Tips"
-description: "You’re gearing up for a much-needed vacation or a business trip, and packing your luggage is high on your to-do list. But then comes the question: Can you check"
+title: 'Can I Check Sunscreen in My Luggage: Essential Travel Tips'
+description: 'You’re gearing up for a much-needed vacation or a business trip, and
+  packing your luggage is high on your to-do list. But then comes the question: Can
+  you check'
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-sunscreen-in-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sunscreen In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-sunscreen-in-my-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re gearing up for a much-needed vacation or a business trip, and packing your luggage is high on your to-do list. But then comes the question: Can you check sunscreen in your luggage?**

@@ -1,10 +1,14 @@
 ---
-title: "What to Put in a Bug Out Bag: Essential Survival Items Revealed"
-description: "Imagine a situation where you need to leave your home in a hurry. Whether it's due to a natural disaster, a sudden emergency, or any unexpected event, having a "
+title: 'What to Put in a Bug Out Bag: Essential Survival Items Revealed'
+description: 'Imagine a situation where you need to leave your home in a hurry. Whether
+  it''s due to a natural disaster, a sudden emergency, or any unexpected event, having
+  a '
 pubDate: 2025-09-14
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine a situation where you need to leave your home in a hurry. Whether it's due to a natural disaster, a sudden emergency, or any unexpected event, having a well-prepared bug out bag can make all the difference.**

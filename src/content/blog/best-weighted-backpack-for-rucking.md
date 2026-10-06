@@ -1,10 +1,14 @@
 ---
-title: "Best Weighted Backpack for Rucking: Top Picks for Strength and Endurance"
-description: "Choosing the best weighted backpack for rucking boosts your training and comfort. A good ruck pack supports weight, fits well, and lasts long. Rucking combines "
+title: 'Best Weighted Backpack for Rucking: Top Picks for Strength and Endurance'
+description: 'Choosing the best weighted backpack for rucking boosts your training
+  and comfort. A good ruck pack supports weight, fits well, and lasts long. Rucking
+  combines '
 pubDate: 2026-07-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-weighted-backpack-for-rucking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ski And Outdoor Sports Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-weighted-backpack-for-rucking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best weighted backpack for rucking boosts your training and comfort. A good ruck pack supports weight, fits well, and lasts long.**

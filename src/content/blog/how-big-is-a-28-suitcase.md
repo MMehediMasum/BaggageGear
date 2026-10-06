@@ -1,10 +1,14 @@
 ---
-title: "How Big is a 28 Suitcase: Ultimate Size Guide Revealed"
-description: "When you're planning a trip, packing efficiently is key. But how can you be sure if a 28-inch suitcase is the right size for your needs? Maybe you're wondering "
+title: 'How Big is a 28 Suitcase: Ultimate Size Guide Revealed'
+description: 'When you''re planning a trip, packing efficiently is key. But how can
+  you be sure if a 28-inch suitcase is the right size for your needs? Maybe you''re
+  wondering '
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-28-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-28-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you're planning a trip, packing efficiently is key. But how can you be sure if a 28-inch suitcase is the right size for your needs?**

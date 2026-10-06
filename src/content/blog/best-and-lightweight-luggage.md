@@ -1,10 +1,14 @@
 ---
-title: "Best And Lightweight Luggage: Discover Durable, Expandable, and Stylish Options"
-description: "Choosing the best and lightweight luggage makes travel easier and less tiring. The right suitcase saves effort and fits your needs perfectly. Traveling with hea"
+title: 'Best And Lightweight Luggage: Discover Durable, Expandable, and Stylish Options'
+description: Choosing the best and lightweight luggage makes travel easier and less
+  tiring. The right suitcase saves effort and fits your needs perfectly. Traveling
+  with hea
 pubDate: 2026-07-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-and-lightweight-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-and-lightweight-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best and lightweight luggage makes travel easier and less tiring. The right suitcase saves effort and fits your needs perfectly.**

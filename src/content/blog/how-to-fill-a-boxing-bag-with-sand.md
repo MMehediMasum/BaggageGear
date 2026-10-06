@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Fill a Boxing Bag With Sand: Easy Steps for Maximum Durability"
 description: "Are you ready to transform your boxing routine without breaking the bank? Filling a boxing bag with sand might be the game-changer you didn't know you needed. I"
 pubDate: 2025-09-03

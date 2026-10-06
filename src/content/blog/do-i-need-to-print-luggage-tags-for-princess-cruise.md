@@ -1,10 +1,14 @@
 ---
-title: "Do I Need to Print Luggage Tags for Princess Cruise: Essential Guide"
-description: "Planning a cruise with Princess Cruises is an exciting adventure. As you prepare for your upcoming voyage, you might be wondering about the little details that "
+title: 'Do I Need to Print Luggage Tags for Princess Cruise: Essential Guide'
+description: 'Planning a cruise with Princess Cruises is an exciting adventure. As
+  you prepare for your upcoming voyage, you might be wondering about the little details
+  that '
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-i-need-to-print-luggage-tags-for-princess-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=do-i-need-to-print-luggage-tags-for-princess-cruise&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a cruise with Princess Cruises is an exciting adventure. As you prepare for your upcoming voyage, you might be wondering about the little details that can make your journey smoother, like whether you need to print luggage tags.**

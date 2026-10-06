@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Shooters in My Carry on: Essential Travel Rules Explained"
-description: "Thinking about your next trip and wondering, \"Can I bring shooters in my carry on?\" You're not alone. Many travelers like you are curious about what they can pa"
+title: 'Can I Bring Shooters in My Carry on: Essential Travel Rules Explained'
+description: Thinking about your next trip and wondering, "Can I bring shooters in
+  my carry on?" You're not alone. Many travelers like you are curious about what they
+  can pa
 pubDate: 2025-12-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-shooters-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-shooters-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Thinking about your next trip and wondering, "Can I bring shooters in my carry on?" You're not alone.**

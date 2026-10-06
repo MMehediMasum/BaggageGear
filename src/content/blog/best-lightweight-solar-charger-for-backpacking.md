@@ -1,10 +1,13 @@
 ---
-title: "Best Lightweight Solar Charger for Backpacking: Top Picks for Adventurers"
-description: "Choosing the best lightweight solar charger makes backpacking more convenient and eco-friendly. Portable solar chargers keep your devices powered without adding"
+title: 'Best Lightweight Solar Charger for Backpacking: Top Picks for Adventurers'
+description: Choosing the best lightweight solar charger makes backpacking more convenient
+  and eco-friendly. Portable solar chargers keep your devices powered without adding
 pubDate: 2026-06-20
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-solar-charger-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-solar-charger-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best lightweight solar charger makes backpacking more convenient and eco-friendly. Portable solar chargers keep your devices powered without adding extra bulk.**

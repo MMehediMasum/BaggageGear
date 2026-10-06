@@ -1,10 +1,14 @@
 ---
-title: "Does Checked Luggage Get Scanned: Essential Airport Security Facts"
-description: "Are you curious about what really happens to your checked luggage once it leaves your hands at the airport? Do you ever wonder if it undergoes a security check,"
+title: 'Does Checked Luggage Get Scanned: Essential Airport Security Facts'
+description: Are you curious about what really happens to your checked luggage once
+  it leaves your hands at the airport? Do you ever wonder if it undergoes a security
+  check,
 pubDate: 2026-02-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-checked-luggage-get-scanned&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=does-checked-luggage-get-scanned&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you curious about what really happens to your checked luggage once it leaves your hands at the airport? Do you ever wonder if it undergoes a security check, or does it simply make its way to the plane without a second glance?**

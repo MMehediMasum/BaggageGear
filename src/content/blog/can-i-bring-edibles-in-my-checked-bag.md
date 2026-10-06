@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Edibles in My Checked Bag? Essential Travel Tips"
-description: "Are you planning your next trip and wondering if you can pack those tasty edibles in your checked bag? You're not alone. Many travelers like you are curious abo"
+title: Can I Bring Edibles in My Checked Bag? Essential Travel Tips
+description: Are you planning your next trip and wondering if you can pack those tasty
+  edibles in your checked bag? You're not alone. Many travelers like you are curious
+  abo
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-edibles-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-edibles-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering if you can pack those tasty edibles in your checked bag? You're not alone.**

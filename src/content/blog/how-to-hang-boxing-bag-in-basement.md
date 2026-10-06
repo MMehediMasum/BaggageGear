@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang Boxing Bag in Basement: Easy Steps for Safe Setup"
 description: "Setting up a home gym can be an exciting venture, and having a boxing bag in your basement is a fantastic way to bring your workout dreams to life. But how exac"
 pubDate: 2025-10-15

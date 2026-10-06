@@ -1,10 +1,14 @@
 ---
-title: "How to Set the Lock for American Tourister Luggage: Easy Step-by-Step Guide"
-description: "Are you ready to embark on your next adventure but worried about the security of your belongings? Setting the lock on your American Tourister luggage can give y"
+title: 'How to Set the Lock for American Tourister Luggage: Easy Step-by-Step Guide'
+description: Are you ready to embark on your next adventure but worried about the
+  security of your belongings? Setting the lock on your American Tourister luggage
+  can give y
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-the-lock-for-american-tourister-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-the-lock-for-american-tourister-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready to embark on your next adventure but worried about the security of your belongings? Setting the lock on your American Tourister luggage can give you peace of mind, knowing your valuables are safe and secure.**

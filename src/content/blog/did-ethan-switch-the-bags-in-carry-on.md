@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Did Ethan Switch the Bags in Carry On? Shocking Truth Revealed!"
 description: "Have you ever found yourself at the edge of your seat, heart pounding, as a movie scene unfolds with unexpected twists and turns? Imagine this: You’re on a plan"
 pubDate: 2025-10-04

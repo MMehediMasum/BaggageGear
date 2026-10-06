@@ -1,10 +1,14 @@
 ---
-title: "What Size Bag Fits under an Airplane Seat: Ultimate Guide 2025"
-description: "Imagine this: You’re standing at the airport, ready to board your flight. You’ve packed your bag just right, and you’re hoping it fits under the airplane seat i"
+title: 'What Size Bag Fits under an Airplane Seat: Ultimate Guide 2025'
+description: 'Imagine this: You’re standing at the airport, ready to board your flight.
+  You’ve packed your bag just right, and you’re hoping it fits under the airplane
+  seat i'
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-bag-fits-under-an-airplane-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-bag-fits-under-an-airplane-seat&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine this: You’re standing at the airport, ready to board your flight. You’ve packed your bag just right, and you’re hoping it fits under the airplane seat in front of you.**

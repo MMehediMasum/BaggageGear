@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Sided Spinner Luggage for Effortless Travel Adventures"
-description: "Choosing the best soft sided spinner luggage makes travel easier and more convenient. These suitcases offer flexibility, lightweight design, and smooth mobility"
+title: Best Soft Sided Spinner Luggage for Effortless Travel Adventures
+description: Choosing the best soft sided spinner luggage makes travel easier and
+  more convenient. These suitcases offer flexibility, lightweight design, and smooth
+  mobility
 pubDate: 2026-07-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-sided-spinner-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-sided-spinner-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft sided spinner luggage makes travel easier and more convenient. These suitcases offer flexibility, lightweight design, and smooth mobility.**

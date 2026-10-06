@@ -1,10 +1,14 @@
 ---
-title: "How Big Can a Carry on Be United: Ultimate Size Guide 2025"
-description: "You’re standing at the airport, ready for your next big adventure, when suddenly you start to wonder: \"How big can a carry-on be for United Airlines?\" This ques"
+title: 'How Big Can a Carry on Be United: Ultimate Size Guide 2025'
+description: 'You’re standing at the airport, ready for your next big adventure, when
+  suddenly you start to wonder: "How big can a carry-on be for United Airlines?" This
+  ques'
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-can-a-carry-on-be-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-big-can-a-carry-on-be-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You’re standing at the airport, ready for your next big adventure, when suddenly you start to wonder: "How big can a carry-on be for United Airlines?" This question might seem simple, but it can mean the difference between a seamless flight and a last-minute scramble at the gate.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Send Luggage to India: Easy Steps for Hassle-Free Shipping"
-description: "Sending luggage to India can be a daunting task, especially when you're unsure where to begin. But what if the process could be seamless and stress-free? Imagin"
+title: 'How to Send Luggage to India: Easy Steps for Hassle-Free Shipping'
+description: Sending luggage to India can be a daunting task, especially when you're
+  unsure where to begin. But what if the process could be seamless and stress-free?
+  Imagin
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-send-luggage-to-india&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-send-luggage-to-india&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Sending luggage to India can be a daunting task, especially when you're unsure where to begin. But what if the process could be seamless and stress-free?**

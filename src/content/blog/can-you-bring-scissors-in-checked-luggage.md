@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Scissors in Checked Luggage: Essential Travel Rules"
-description: "Traveling can be stressful enough without the added worry of what you can and cannot bring in your luggage. You might find yourself wondering about the rules fo"
+title: 'Can You Bring Scissors in Checked Luggage: Essential Travel Rules'
+description: Traveling can be stressful enough without the added worry of what you
+  can and cannot bring in your luggage. You might find yourself wondering about the
+  rules fo
 pubDate: 2025-11-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-scissors-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-scissors-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful enough without the added worry of what you can and cannot bring in your luggage. You might find yourself wondering about the rules for packing everyday items like scissors.**

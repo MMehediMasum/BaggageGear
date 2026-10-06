@@ -1,10 +1,14 @@
 ---
-title: "How Much Can a Checked Bag Weight Alaska Airlines: Ultimate Guide"
-description: "Are you planning a trip with Alaska Airlines and wondering about the weight limit for your checked bag? You're not alone. Understanding airline baggage policies"
+title: 'How Much Can a Checked Bag Weight Alaska Airlines: Ultimate Guide'
+description: Are you planning a trip with Alaska Airlines and wondering about the
+  weight limit for your checked bag? You're not alone. Understanding airline baggage
+  policies
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weight-alaska-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weight-alaska-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Alaska Airlines and wondering about the weight limit for your checked bag? You're not alone.**

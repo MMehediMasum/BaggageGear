@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Make Ice Cream in a Bag: Easy, Fun & Quick Recipe"
 description: "Craving a sweet treat that's both fun to make and delicious to eat? Imagine creating your own ice cream without needing fancy equipment or even an ice cream mak"
 pubDate: 2025-09-02

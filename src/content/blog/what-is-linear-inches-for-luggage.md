@@ -1,10 +1,14 @@
 ---
-title: "What is Linear Inches for Luggage: Ultimate Guide to Size Limits"
-description: "Are you planning a trip and trying to figure out what \"linear inches\" means for your luggage? You're not alone! Many travelers stumble upon this term when check"
+title: 'What is Linear Inches for Luggage: Ultimate Guide to Size Limits'
+description: Are you planning a trip and trying to figure out what "linear inches"
+  means for your luggage? You're not alone! Many travelers stumble upon this term
+  when check
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-linear-inches-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-linear-inches-for-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and trying to figure out what "linear inches" means for your luggage? You're not alone!**

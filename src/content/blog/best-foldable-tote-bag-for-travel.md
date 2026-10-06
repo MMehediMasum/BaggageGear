@@ -1,10 +1,13 @@
 ---
-title: "Best Foldable Tote Bag for Travel: Top Lightweight, Durable Picks"
-description: "Choosing the best foldable tote bag for travel makes packing easier and saves space. These bags offer convenience, durability, and style for any trip. Travelers"
+title: 'Best Foldable Tote Bag for Travel: Top Lightweight, Durable Picks'
+description: Choosing the best foldable tote bag for travel makes packing easier and
+  saves space. These bags offer convenience, durability, and style for any trip. Travelers
 pubDate: 2026-06-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-foldable-tote-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-foldable-tote-bag-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best foldable tote bag for travel makes packing easier and saves space. These bags offer convenience, durability, and style for any trip.**

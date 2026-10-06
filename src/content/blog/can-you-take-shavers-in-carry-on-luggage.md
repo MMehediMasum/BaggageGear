@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Shavers in Carry on Luggage: Essential TSA Rules Explained"
-description: "Are you planning a trip and wondering if you can pack your trusty shaver in your carry-on luggage? You're not alone. Packing can be a puzzle, especially with al"
+title: 'Can You Take Shavers in Carry on Luggage: Essential TSA Rules Explained'
+description: Are you planning a trip and wondering if you can pack your trusty shaver
+  in your carry-on luggage? You're not alone. Packing can be a puzzle, especially
+  with al
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-shavers-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Electric Shavers In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-shavers-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your trusty shaver in your carry-on luggage? You're not alone.**

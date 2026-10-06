@@ -1,10 +1,14 @@
 ---
-title: "What are the Dimensions of a Suitcase: Ultimate Size Guide Revealed"
-description: "Have you ever stood at the airport, watching your suitcase being measured with a tape, hoping it fits the airline's size limits? You're not alone. Choosing the "
+title: 'What are the Dimensions of a Suitcase: Ultimate Size Guide Revealed'
+description: 'Have you ever stood at the airport, watching your suitcase being measured
+  with a tape, hoping it fits the airline''s size limits? You''re not alone. Choosing
+  the '
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood at the airport, watching your suitcase being measured with a tape, hoping it fits the airline's size limits? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Linear Inches for Luggage: Simple Steps Explained"
-description: "Are you planning a trip and feeling puzzled about your luggage size? Airlines often have strict size requirements, and understanding how to measure linear inche"
+title: 'How to Measure Linear Inches for Luggage: Simple Steps Explained'
+description: Are you planning a trip and feeling puzzled about your luggage size?
+  Airlines often have strict size requirements, and understanding how to measure linear
+  inche
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-linear-inches-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-linear-inches-for-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and feeling puzzled about your luggage size? Airlines often have strict size requirements, and understanding how to measure linear inches for your luggage can save you from surprise fees at the airport.**

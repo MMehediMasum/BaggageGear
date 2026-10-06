@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Makeup Bag: Easy Steps for a Fresh, Clean Look"
-description: "You toss it into your purse, take it to the gym, and rely on it to keep your beauty essentials organized. Yes, your makeup bag works hard, but when was the last"
+title: 'How to Wash a Makeup Bag: Easy Steps for a Fresh, Clean Look'
+description: You toss it into your purse, take it to the gym, and rely on it to keep
+  your beauty essentials organized. Yes, your makeup bag works hard, but when was
+  the last
 pubDate: 2025-10-26
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-makeup-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-makeup-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You toss it into your purse, take it to the gym, and rely on it to keep your beauty essentials organized. Yes, your makeup bag works hard, but when was the last time you gave it a little TLC?**

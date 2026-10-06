@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Two Backpacks: Expert Tips for Easy Travel"
-description: "Carrying two backpacks might seem like a juggling act at first, but it’s a skill worth mastering. Whether you're a traveler trying to maximize your luggage or a"
+title: 'How to Carry Two Backpacks: Expert Tips for Easy Travel'
+description: Carrying two backpacks might seem like a juggling act at first, but it’s
+  a skill worth mastering. Whether you're a traveler trying to maximize your luggage
+  or a
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-two-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-two-backpacks&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Carrying two backpacks might seem like a juggling act at first, but it’s a skill worth mastering. Whether you're a traveler trying to maximize your luggage or a student balancing books and gym gear, knowing how to handle two bags can make your life a whole lot easier.**

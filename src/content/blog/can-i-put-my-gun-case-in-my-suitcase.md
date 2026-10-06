@@ -1,10 +1,14 @@
 ---
-title: "Can I Put My Gun Case in My Suitcase: Essential Travel Tips"
-description: "Traveling with firearms can be a daunting task. You want to ensure that your trip goes smoothly, without running into any legal troubles or complications at the"
+title: 'Can I Put My Gun Case in My Suitcase: Essential Travel Tips'
+description: Traveling with firearms can be a daunting task. You want to ensure that
+  your trip goes smoothly, without running into any legal troubles or complications
+  at the
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-my-gun-case-in-my-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-my-gun-case-in-my-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with firearms can be a daunting task. You want to ensure that your trip goes smoothly, without running into any legal troubles or complications at the airport.**

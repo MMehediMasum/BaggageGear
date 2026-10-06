@@ -1,10 +1,14 @@
 ---
-title: "How to Authenticate a Vintage Chanel Bag: Expert Tips Revealed"
-description: "Imagine the thrill of discovering a vintage Chanel bag that could be the crown jewel of your collection. Before you get swept away by its allure, it's essential"
+title: 'How to Authenticate a Vintage Chanel Bag: Expert Tips Revealed'
+description: Imagine the thrill of discovering a vintage Chanel bag that could be
+  the crown jewel of your collection. Before you get swept away by its allure, it's
+  essential
 pubDate: 2026-01-17
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-authenticate-a-vintage-chanel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Hermes And Chanel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-authenticate-a-vintage-chanel-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine the thrill of discovering a vintage Chanel bag that could be the crown jewel of your collection. Before you get swept away by its allure, it's essential to ensure its authenticity.**

@@ -1,10 +1,14 @@
 ---
-title: "How Heavy is 23Kg Luggage: Understand Weight Limits Easily"
-description: "Have you ever wondered just how heavy 23kg of luggage really is? Whether you're planning your next vacation or preparing for a business trip, understanding the "
+title: 'How Heavy is 23Kg Luggage: Understand Weight Limits Easily'
+description: 'Have you ever wondered just how heavy 23kg of luggage really is? Whether
+  you''re planning your next vacation or preparing for a business trip, understanding
+  the '
 pubDate: 2025-11-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-heavy-is-23kg-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-heavy-is-23kg-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered just how heavy 23kg of luggage really is? Whether you're planning your next vacation or preparing for a business trip, understanding the weight of your suitcase can make or break your travel experience.**

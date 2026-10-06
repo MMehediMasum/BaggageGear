@@ -1,10 +1,14 @@
 ---
-title: "Best Insulated Lunch Bag for Work: Top Leakproof Cooler Bags Reviewed"
-description: "Finding the best insulated lunch bag for work keeps your meals fresh and tasty all day. A good lunch bag fits your needs, holds enough food, and stays cool or w"
+title: 'Best Insulated Lunch Bag for Work: Top Leakproof Cooler Bags Reviewed'
+description: Finding the best insulated lunch bag for work keeps your meals fresh
+  and tasty all day. A good lunch bag fits your needs, holds enough food, and stays
+  cool or w
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-insulated-lunch-bag-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Insulated Lunch And Cooler Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-insulated-lunch-bag-for-work&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best insulated lunch bag for work keeps your meals fresh and tasty all day. A good lunch bag fits your needs, holds enough food, and stays cool or warm.**

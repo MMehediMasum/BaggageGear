@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change Litter Genie Bag: Quick & Easy Step-by-Step Guide"
 description: "If you've ever struggled with the mess and hassle of changing your Litter Genie bag, you're not alone. Managing your cat's waste can be a daunting task, but it "
 pubDate: 2025-12-11

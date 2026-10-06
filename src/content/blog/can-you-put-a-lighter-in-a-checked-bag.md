@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Lighter in a Checked Bag: Essential Travel Rules Explained"
-description: "Ever been packing for a flight and wondered whether you can put a lighter in your checked bag? You're not alone. Many travelers find themselves puzzled by airli"
+title: 'Can You Put a Lighter in a Checked Bag: Essential Travel Rules Explained'
+description: Ever been packing for a flight and wondered whether you can put a lighter
+  in your checked bag? You're not alone. Many travelers find themselves puzzled by
+  airli
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-lighter-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-lighter-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever been packing for a flight and wondered whether you can put a lighter in your checked bag? You're not alone.**

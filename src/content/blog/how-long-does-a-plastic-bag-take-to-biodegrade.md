@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long Does a Plastic Bag Take to Biodegrade: Shocking Facts Revealed"
 description: "Have you ever stopped to think about what happens to a plastic bag after you toss it away? While it might seem like a simple, everyday item, the journey of a pl"
 pubDate: 2025-09-10

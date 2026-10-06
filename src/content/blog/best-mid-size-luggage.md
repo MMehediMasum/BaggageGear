@@ -1,10 +1,13 @@
 ---
-title: "Best Mid Size Luggage: Discover Top Expandable Options for Easy Travel"
-description: "Choosing the best mid size luggage can make travel easier and more organized. This size fits most airline rules and offers enough space for trips. Mid size lugg"
+title: 'Best Mid Size Luggage: Discover Top Expandable Options for Easy Travel'
+description: Choosing the best mid size luggage can make travel easier and more organized.
+  This size fits most airline rules and offers enough space for trips. Mid size lugg
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-mid-size-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-mid-size-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best mid size luggage can make travel easier and more organized. This size fits most airline rules and offers enough space for trips.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean White Bag With Baking Soda: Easy & Effective Tips"
-description: "Imagine this: you've just bought a stunning white bag that adds a touch of elegance to every outfit. But as days go by, you notice it’s starting to lose its pri"
+title: 'How to Clean White Bag With Baking Soda: Easy & Effective Tips'
+description: 'Imagine this: you''ve just bought a stunning white bag that adds a touch
+  of elegance to every outfit. But as days go by, you notice it’s starting to lose
+  its pri'
 pubDate: 2025-09-13
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-white-bag-with-baking-soda&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-white-bag-with-baking-soda&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: you've just bought a stunning white bag that adds a touch of elegance to every outfit. But as days go by, you notice it’s starting to lose its pristine charm.**

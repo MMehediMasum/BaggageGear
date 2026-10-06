@@ -1,10 +1,14 @@
 ---
-title: "Best Duffel Bag for Summer Camp: Top Picks for Ultimate Convenience"
-description: "Choosing the best duffel bag for summer camp helps keep your belongings safe and organized. A good bag fits all your gear and handles rough use well. Summer cam"
+title: 'Best Duffel Bag for Summer Camp: Top Picks for Ultimate Convenience'
+description: Choosing the best duffel bag for summer camp helps keep your belongings
+  safe and organized. A good bag fits all your gear and handles rough use well. Summer
+  cam
 pubDate: 2025-11-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-summer-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-summer-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best duffel bag for summer camp helps keep your belongings safe and organized. A good bag fits all your gear and handles rough use well.**

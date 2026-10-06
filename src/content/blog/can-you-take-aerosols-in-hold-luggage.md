@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Aerosols in Hold Luggage: Essential Travel Rules Explained"
-description: "Are you packing for your next adventure and wondering if you can take aerosols in your hold luggage? It’s a common question that leaves many travelers scratchin"
+title: 'Can You Take Aerosols in Hold Luggage: Essential Travel Rules Explained'
+description: Are you packing for your next adventure and wondering if you can take
+  aerosols in your hold luggage? It’s a common question that leaves many travelers
+  scratchin
 pubDate: 2026-03-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-aerosols-in-hold-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-aerosols-in-hold-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for your next adventure and wondering if you can take aerosols in your hold luggage? It’s a common question that leaves many travelers scratching their heads.**

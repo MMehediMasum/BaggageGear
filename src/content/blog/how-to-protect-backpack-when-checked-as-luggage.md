@@ -1,10 +1,14 @@
 ---
-title: "How to Protect Backpack When Checked As Luggage: Ultimate Safety Tips"
-description: "Are you planning a trip and thinking about checking your backpack as luggage? The thought of it can be daunting. Will your backpack survive the journey? Will it"
+title: 'How to Protect Backpack When Checked As Luggage: Ultimate Safety Tips'
+description: Are you planning a trip and thinking about checking your backpack as
+  luggage? The thought of it can be daunting. Will your backpack survive the journey?
+  Will it
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-protect-backpack-when-checked-as-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=how-to-protect-backpack-when-checked-as-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and thinking about checking your backpack as luggage? The thought of it can be daunting.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Medicine in Checked Luggage: Essential Travel Tips"
-description: "Packing for a trip can be a puzzle, especially when it comes to your medicine. You want to ensure it's safe, accessible, and ready to go when you need it. But w"
+title: 'How to Pack Medicine in Checked Luggage: Essential Travel Tips'
+description: Packing for a trip can be a puzzle, especially when it comes to your
+  medicine. You want to ensure it's safe, accessible, and ready to go when you need
+  it. But w
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-medicine-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-medicine-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a puzzle, especially when it comes to your medicine. You want to ensure it's safe, accessible, and ready to go when you need it.**

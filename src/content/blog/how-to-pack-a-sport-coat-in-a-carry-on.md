@@ -1,10 +1,13 @@
 ---
-title: "How to Pack a Sport Coat in a Carry On: Expert Tips Revealed"
-description: "Packing a sport coat in a carry-on can feel like solving a puzzle. You want to arrive at your destination looking sharp and wrinkle-free, but fitting everything"
+title: 'How to Pack a Sport Coat in a Carry On: Expert Tips Revealed'
+description: Packing a sport coat in a carry-on can feel like solving a puzzle. You
+  want to arrive at your destination looking sharp and wrinkle-free, but fitting everything
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-sport-coat-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-sport-coat-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a sport coat in a carry-on can feel like solving a puzzle. You want to arrive at your destination looking sharp and wrinkle-free, but fitting everything neatly into a compact space can be tricky.**

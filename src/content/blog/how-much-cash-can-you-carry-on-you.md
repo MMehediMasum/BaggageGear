@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Cash Can You Carry on You: Legal Limits Explained"
 description: "Have you ever wondered how much cash you can legally carry without raising eyebrows or running into trouble? Whether you're planning a trip, making a big purcha"
 pubDate: 2026-05-08

@@ -1,10 +1,14 @@
 ---
-title: "Can I Buy a Luggage Tag at the Airport: Quick Guide to Smart Travel"
-description: "Picture this: You're at the airport, ready for your long-awaited trip. But suddenly, you realize you've forgotten an essential item – a luggage tag. Panic sets "
+title: 'Can I Buy a Luggage Tag at the Airport: Quick Guide to Smart Travel'
+description: 'Picture this: You''re at the airport, ready for your long-awaited trip.
+  But suddenly, you realize you''ve forgotten an essential item – a luggage tag. Panic
+  sets '
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-buy-a-luggage-tag-at-the-airport&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-buy-a-luggage-tag-at-the-airport&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You're at the airport, ready for your long-awaited trip. But suddenly, you realize you've forgotten an essential item – a luggage tag.**

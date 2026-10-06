@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Carry on Luggage: Top Picks for Effortless Travel"
-description: "Choosing the best soft carry-on luggage can make travel easier and more comfortable. Soft luggage offers flexibility, lightweight design, and extra storage opti"
+title: 'Best Soft Carry on Luggage: Top Picks for Effortless Travel'
+description: Choosing the best soft carry-on luggage can make travel easier and more
+  comfortable. Soft luggage offers flexibility, lightweight design, and extra storage
+  opti
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft carry-on luggage can make travel easier and more comfortable. Soft luggage offers flexibility, lightweight design, and extra storage options.**

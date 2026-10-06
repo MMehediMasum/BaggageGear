@@ -1,10 +1,14 @@
 ---
-title: "Can You Have a Vape in Your Carry On: Essential Travel Rules Revealed"
-description: "Traveling can be exciting, but it also comes with its own set of rules and regulations, especially when it comes to what you can carry on a plane. If you're a v"
+title: 'Can You Have a Vape in Your Carry On: Essential Travel Rules Revealed'
+description: Traveling can be exciting, but it also comes with its own set of rules
+  and regulations, especially when it comes to what you can carry on a plane. If you're
+  a v
 pubDate: 2026-02-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-have-a-vape-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-have-a-vape-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be exciting, but it also comes with its own set of rules and regulations, especially when it comes to what you can carry on a plane. If you're a vaper, you've probably asked yourself, "Can you have a vape in your carry on?"**

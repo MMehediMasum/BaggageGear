@@ -1,10 +1,13 @@
 ---
-title: "Is There a Size Limit to Check Luggage Alaska Train? Essential Guide"
-description: "Planning a trip through the breathtaking landscapes of Alaska on a train? You might be wondering, \"Is there a size limit to check luggage on the Alaska train?\" "
+title: Is There a Size Limit to Check Luggage Alaska Train? Essential Guide
+description: 'Planning a trip through the breathtaking landscapes of Alaska on a train?
+  You might be wondering, "Is there a size limit to check luggage on the Alaska train?" '
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-a-size-limit-to-check-luggage-alaska-train&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-there-a-size-limit-to-check-luggage-alaska-train&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip through the breathtaking landscapes of Alaska on a train? You might be wondering, "Is there a size limit to check luggage on the Alaska train?"**

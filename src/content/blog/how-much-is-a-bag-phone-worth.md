@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bag Phone Worth: Uncover Its True Value Today"
 description: "Are you curious about the value of an old bag phone? Maybe you found one tucked away in your attic or stumbled upon it at a yard sale. You might be surprised to"
 pubDate: 2026-03-04

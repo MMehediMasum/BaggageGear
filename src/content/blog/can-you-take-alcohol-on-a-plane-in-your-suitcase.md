@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Alcohol on a Plane in Your Suitcase: Essential Rules"
-description: "Picture this: You're gearing up for an exciting adventure, meticulously packing your suitcase with all the essentials. And then it hits you—what about that bott"
+title: 'Can You Take Alcohol on a Plane in Your Suitcase: Essential Rules'
+description: 'Picture this: You''re gearing up for an exciting adventure, meticulously
+  packing your suitcase with all the essentials. And then it hits you—what about that
+  bott'
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-alcohol-on-a-plane-in-your-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-alcohol-on-a-plane-in-your-suitcase&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're gearing up for an exciting adventure, meticulously packing your suitcase with all the essentials. And then it hits you—what about that bottle of wine or your favorite craft beer you wanted to bring along?**

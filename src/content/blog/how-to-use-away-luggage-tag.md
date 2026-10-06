@@ -1,10 +1,14 @@
 ---
-title: "How to Use Away Luggage Tag: Ultimate Guide for Easy Travel"
-description: "Are you planning your next adventure and want to ensure your luggage arrives safely? Using a luggage tag correctly can make all the difference between a smooth "
+title: 'How to Use Away Luggage Tag: Ultimate Guide for Easy Travel'
+description: 'Are you planning your next adventure and want to ensure your luggage
+  arrives safely? Using a luggage tag correctly can make all the difference between
+  a smooth '
 pubDate: 2026-03-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-use-away-luggage-tag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-use-away-luggage-tag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning your next adventure and want to ensure your luggage arrives safely? Using a luggage tag correctly can make all the difference between a smooth trip and a stressful search for lost bags.**

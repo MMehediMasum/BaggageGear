@@ -1,10 +1,13 @@
 ---
-title: "What Can You Pack in Checked Luggage: Ultimate Guide for Smart Travelers"
-description: "When you're preparing for a trip, figuring out what you can pack in your checked luggage can feel like solving a puzzle. With airline rules constantly changing,"
+title: 'What Can You Pack in Checked Luggage: Ultimate Guide for Smart Travelers'
+description: When you're preparing for a trip, figuring out what you can pack in your
+  checked luggage can feel like solving a puzzle. With airline rules constantly changing,
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-can-you-pack-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-can-you-pack-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're preparing for a trip, figuring out what you can pack in your checked luggage can feel like solving a puzzle. With airline rules constantly changing, it's easy to feel overwhelmed.**

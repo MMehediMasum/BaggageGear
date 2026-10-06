@@ -1,10 +1,14 @@
 ---
-title: "Best Underseat Luggage With Spinner Wheels: Top Picks for Travelers"
-description: "Underseat luggage with spinner wheels offers easy maneuverability and fits perfectly under airplane seats. These bags combine convenience, style, and durability"
+title: 'Best Underseat Luggage With Spinner Wheels: Top Picks for Travelers'
+description: Underseat luggage with spinner wheels offers easy maneuverability and
+  fits perfectly under airplane seats. These bags combine convenience, style, and
+  durability
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-underseat-luggage-with-spinner-wheels&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-underseat-luggage-with-spinner-wheels&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Underseat luggage with spinner wheels offers easy maneuverability and fits perfectly under airplane seats. These bags combine convenience, style, and durability for travelers.**

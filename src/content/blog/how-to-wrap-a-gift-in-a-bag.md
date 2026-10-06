@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wrap a Gift in a Bag: Easy Steps for Perfect Presentation"
 description: "Are you tired of the endless struggle with gift-wrapping paper, scissors, and tape? Do you wish there was a simpler way to make your presents look stunning and "
 pubDate: 2026-02-09

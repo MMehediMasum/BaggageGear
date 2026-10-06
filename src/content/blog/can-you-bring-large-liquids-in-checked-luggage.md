@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Large Liquids in Checked Luggage: Essential Rules Revealed"
-description: "Planning a trip can be both exciting and a bit overwhelming, especially when it comes to packing. You might wonder about bringing large liquids in your checked "
+title: 'Can You Bring Large Liquids in Checked Luggage: Essential Rules Revealed'
+description: 'Planning a trip can be both exciting and a bit overwhelming, especially
+  when it comes to packing. You might wonder about bringing large liquids in your
+  checked '
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-large-liquids-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-large-liquids-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip can be both exciting and a bit overwhelming, especially when it comes to packing. You might wonder about bringing large liquids in your checked luggage.**

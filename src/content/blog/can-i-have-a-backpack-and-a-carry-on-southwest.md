@@ -1,10 +1,14 @@
 ---
-title: "Can I Have a Backpack And a Carry on Southwest: Ultimate Packing Guide"
-description: "Have you ever stood in front of your luggage, staring down at your backpack and carry-on, wondering if you can bring both on your Southwest flight? You're not a"
+title: 'Can I Have a Backpack And a Carry on Southwest: Ultimate Packing Guide'
+description: Have you ever stood in front of your luggage, staring down at your backpack
+  and carry-on, wondering if you can bring both on your Southwest flight? You're not
+  a
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-have-a-backpack-and-a-carry-on-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=can-i-have-a-backpack-and-a-carry-on-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood in front of your luggage, staring down at your backpack and carry-on, wondering if you can bring both on your Southwest flight? You're not alone.**

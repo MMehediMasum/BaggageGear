@@ -1,10 +1,14 @@
 ---
-title: "How Long Should Luggage Last: Ultimate Guide to Durable Bags"
-description: "When you invest in luggage, you expect it to last. But how long should luggage really last? This is a question that many travelers ponder as they prepare for th"
+title: 'How Long Should Luggage Last: Ultimate Guide to Durable Bags'
+description: When you invest in luggage, you expect it to last. But how long should
+  luggage really last? This is a question that many travelers ponder as they prepare
+  for th
 pubDate: 2026-04-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-should-luggage-last&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-long-should-luggage-last&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you invest in luggage, you expect it to last. But how long should luggage really last?**

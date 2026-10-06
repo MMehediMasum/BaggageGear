@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Sleep Pad for Backpacking: Top Inflatable and Foam Options Reviewed"
 description: "Finding the best sleep pad for backpacking can make your outdoor trips more comfortable and restful. A good pad offers support, warmth, and easy packing for lon"
 pubDate: 2026-06-10

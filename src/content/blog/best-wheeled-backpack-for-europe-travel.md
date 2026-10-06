@@ -1,10 +1,14 @@
 ---
-title: "Best Wheeled Backpack for Europe Travel: Top Carry-On Picks"
-description: "Choosing the best wheeled backpack makes Europe travel easier and more comfortable. It combines the convenience of wheels with the practicality of a backpack. T"
+title: 'Best Wheeled Backpack for Europe Travel: Top Carry-On Picks'
+description: Choosing the best wheeled backpack makes Europe travel easier and more
+  comfortable. It combines the convenience of wheels with the practicality of a backpack.
+  T
 pubDate: 2026-06-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-wheeled-backpack-for-europe-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-wheeled-backpack-for-europe-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best wheeled backpack makes Europe travel easier and more comfortable. It combines the convenience of wheels with the practicality of a backpack.**

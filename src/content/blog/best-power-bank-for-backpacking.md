@@ -1,10 +1,14 @@
 ---
-title: "Best Power Bank for Backpacking: Top Portable Chargers for Outdoor Adventures"
-description: "Finding the best power bank for backpacking ensures your devices stay charged on the go. Choosing the right one means balancing capacity, weight, and charging s"
+title: 'Best Power Bank for Backpacking: Top Portable Chargers for Outdoor Adventures'
+description: Finding the best power bank for backpacking ensures your devices stay
+  charged on the go. Choosing the right one means balancing capacity, weight, and
+  charging s
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-bank-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-power-bank-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best power bank for backpacking ensures your devices stay charged on the go. Choosing the right one means balancing capacity, weight, and charging speed.**

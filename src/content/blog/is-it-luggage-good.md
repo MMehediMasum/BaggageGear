@@ -1,10 +1,13 @@
 ---
-title: "Is It Luggage Good: Ultimate Guide to Durable Travel Gear"
-description: "Is your luggage really up to the task? Whether you're a frequent traveler or planning a special trip, the quality of your luggage can make or break your journey"
+title: 'Is It Luggage Good: Ultimate Guide to Durable Travel Gear'
+description: Is your luggage really up to the task? Whether you're a frequent traveler
+  or planning a special trip, the quality of your luggage can make or break your journey
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-it-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-it-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Is your luggage really up to the task? Whether you're a frequent traveler or planning a special trip, the quality of your luggage can make or break your journey.**

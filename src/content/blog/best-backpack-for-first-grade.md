@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for First Grade: Top Picks for Style and Durability"
-description: "Choosing the best backpack for first grade helps kids carry their school supplies with ease and comfort. A good backpack should be lightweight, durable, and roo"
+title: 'Best Backpack for First Grade: Top Picks for Style and Durability'
+description: Choosing the best backpack for first grade helps kids carry their school
+  supplies with ease and comfort. A good backpack should be lightweight, durable,
+  and roo
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-first-grade&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-first-grade&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for first grade helps kids carry their school supplies with ease and comfort. A good backpack should be lightweight, durable, and roomy enough for books and lunch.**

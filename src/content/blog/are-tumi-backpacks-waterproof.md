@@ -1,10 +1,14 @@
 ---
-title: "Are Tumi Backpacks Waterproof: Ultimate Guide to Weatherproof Gear"
-description: "When you're on the move, whether it's a daily commute or an adventurous hike, having a reliable backpack is crucial. You might have heard about Tumi backpacks a"
+title: 'Are Tumi Backpacks Waterproof: Ultimate Guide to Weatherproof Gear'
+description: When you're on the move, whether it's a daily commute or an adventurous
+  hike, having a reliable backpack is crucial. You might have heard about Tumi backpacks
+  a
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-tumi-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-tumi-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **When you're on the move, whether it's a daily commute or an adventurous hike, having a reliable backpack is crucial. You might have heard about Tumi backpacks and their reputation for durability and style.**

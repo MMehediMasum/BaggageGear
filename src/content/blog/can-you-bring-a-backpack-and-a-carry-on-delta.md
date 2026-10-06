@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack And a Carry on Delta: Ultimate Guide 2025"
-description: "Packing for a trip can be a puzzle, especially when airlines have specific rules about what you can bring on board. If you’re flying with Delta, you might be wo"
+title: 'Can You Bring a Backpack And a Carry on Delta: Ultimate Guide 2025'
+description: Packing for a trip can be a puzzle, especially when airlines have specific
+  rules about what you can bring on board. If you’re flying with Delta, you might
+  be wo
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-and-a-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-and-a-carry-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Packing for a trip can be a puzzle, especially when airlines have specific rules about what you can bring on board. If you’re flying with Delta, you might be wondering, “Can you bring a backpack and a carry-on?” This question is more common than you think, and the answer can make a big difference in how you prepare for your journey.**

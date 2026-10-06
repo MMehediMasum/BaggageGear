@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Below Zero: Ultimate Comfort in Extreme Cold"
-description: "Choosing the best sleeping bag for below zero temperatures is essential for safe, warm camping. Cold weather demands gear that keeps you cozy and protected all "
+title: 'Best Sleeping Bag for Below Zero: Ultimate Comfort in Extreme Cold'
+description: 'Choosing the best sleeping bag for below zero temperatures is essential
+  for safe, warm camping. Cold weather demands gear that keeps you cozy and protected
+  all '
 pubDate: 2026-06-07
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-below-zero&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cold Weather Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-below-zero&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best sleeping bag for below zero temperatures is essential for safe, warm camping. Cold weather demands gear that keeps you cozy and protected all night.**

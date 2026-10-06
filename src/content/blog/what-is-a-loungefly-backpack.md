@@ -1,10 +1,13 @@
 ---
-title: "What is a Loungefly Backpack: Ultimate Guide to Stylish Fun"
-description: "Imagine carrying a piece of your favorite fandom everywhere you go. That's the magic of Loungefly backpacks. These aren't just ordinary bags; they are a delight"
+title: 'What is a Loungefly Backpack: Ultimate Guide to Stylish Fun'
+description: Imagine carrying a piece of your favorite fandom everywhere you go. That's
+  the magic of Loungefly backpacks. These aren't just ordinary bags; they are a delight
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-loungefly-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Types Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-loungefly-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine carrying a piece of your favorite fandom everywhere you go. That's the magic of Loungefly backpacks.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Delete Things from Your Backpack on Scratch: Easy Steps Guide"
 description: "Have you ever found yourself overwhelmed by the clutter in your Scratch backpack? You’re not alone. Scratch is a fantastic platform for creativity and learning,"
 pubDate: 2025-12-13

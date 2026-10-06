@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Makeup in Checked Luggage: Expert Tips for Safe Travel"
-description: "Struggling to figure out how to pack makeup in checked luggage without facing a mess upon arrival? You’re not alone. Many travelers dread opening their suitcase"
+title: 'How to Pack Makeup in Checked Luggage: Expert Tips for Safe Travel'
+description: Struggling to figure out how to pack makeup in checked luggage without
+  facing a mess upon arrival? You’re not alone. Many travelers dread opening their
+  suitcase
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-makeup-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-makeup-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Struggling to figure out how to pack makeup in checked luggage without facing a mess upon arrival? You’re not alone.**

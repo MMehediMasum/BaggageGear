@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Marc Jacobs Tote Bag: Expert Tips for Perfect Care"
-description: "Owning a Marc Jacobs tote bag is like carrying a piece of fashion art. You love the way it complements your outfit and adds a touch of luxury to your style. But"
+title: 'How to Wash a Marc Jacobs Tote Bag: Expert Tips for Perfect Care'
+description: Owning a Marc Jacobs tote bag is like carrying a piece of fashion art.
+  You love the way it complements your outfit and adds a touch of luxury to your style.
+  But
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-marc-jacobs-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-marc-jacobs-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Owning a Marc Jacobs tote bag is like carrying a piece of fashion art. You love the way it complements your outfit and adds a touch of luxury to your style.**

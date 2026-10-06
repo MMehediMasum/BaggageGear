@@ -1,10 +1,14 @@
 ---
-title: "Best Cold Weather Sleeping Bags for Backpacking: Stay Warm and Cozy Outdoors"
-description: "Choosing the right cold weather sleeping bag is key for safe and comfortable backpacking. Staying warm in freezing temperatures helps you rest well and enjoy yo"
+title: 'Best Cold Weather Sleeping Bags for Backpacking: Stay Warm and Cozy Outdoors'
+description: Choosing the right cold weather sleeping bag is key for safe and comfortable
+  backpacking. Staying warm in freezing temperatures helps you rest well and enjoy
+  yo
 pubDate: 2026-06-09
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cold-weather-sleeping-bags-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cold Weather Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-cold-weather-sleeping-bags-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the right cold weather sleeping bag is key for safe and comfortable backpacking. Staying warm in freezing temperatures helps you rest well and enjoy your trip.**

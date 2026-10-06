@@ -1,10 +1,14 @@
 ---
-title: "Best Carry in Bag Options: Explore Perfect Travel Companions for Every Journey"
-description: "Finding the best carry-in bag can make travel easier and more organized. A good bag fits your needs and airport rules. Travel bags come in many styles and sizes"
+title: 'Best Carry in Bag Options: Explore Perfect Travel Companions for Every Journey'
+description: Finding the best carry-in bag can make travel easier and more organized.
+  A good bag fits your needs and airport rules. Travel bags come in many styles and
+  sizes
 pubDate: 2026-06-04
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-in-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-in-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best carry-in bag can make travel easier and more organized. A good bag fits your needs and airport rules.**

@@ -1,10 +1,13 @@
 ---
-title: "Best Travel Crossbody Bag for Europe: Top Lightweight Anti-Theft Picks"
-description: "Choosing the best travel crossbody bag for Europe helps keep your belongings safe and hands-free. A good bag fits essentials, blocks RFID theft, and feels comfo"
+title: 'Best Travel Crossbody Bag for Europe: Top Lightweight Anti-Theft Picks'
+description: Choosing the best travel crossbody bag for Europe helps keep your belongings
+  safe and hands-free. A good bag fits essentials, blocks RFID theft, and feels comfo
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-crossbody-bag-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-crossbody-bag-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best travel crossbody bag for Europe helps keep your belongings safe and hands-free. A good bag fits essentials, blocks RFID theft, and feels comfortable all day.**

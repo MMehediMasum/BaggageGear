@@ -1,10 +1,14 @@
 ---
-title: "What Side of Suitcase Should Shoes Be Packed in: Expert Tips"
-description: "Packing for a trip can feel like solving a puzzle, especially when it comes to fitting everything neatly into your suitcase. One question that often pops up is:"
+title: 'What Side of Suitcase Should Shoes Be Packed in: Expert Tips'
+description: 'Packing for a trip can feel like solving a puzzle, especially when it
+  comes to fitting everything neatly into your suitcase. One question that often pops
+  up is:'
 pubDate: 2025-10-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-side-of-suitcase-should-shoes-be-packed-in&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=what-side-of-suitcase-should-shoes-be-packed-in&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can feel like solving a puzzle, especially when it comes to fitting everything neatly into your suitcase. One question that often pops up is: "What side of the suitcase should shoes be packed in?"**

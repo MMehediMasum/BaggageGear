@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Does Backpack Battles Matchmaking Work: Ultimate Guide Revealed"
 description: "Have you ever wondered how your opponents are chosen in Backpack Battles? Understanding the matchmaking process can give you the edge you need to improve your s"
 pubDate: 2025-09-09

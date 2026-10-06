@@ -1,10 +1,14 @@
 ---
-title: "Best Designer Crossbody Bags for Travel: Stylish, Functional, and Lightweight Picks"
-description: "Designer crossbody bags combine style and convenience, making them perfect for travel. These bags keep your essentials safe and easy to reach. Traveling require"
+title: 'Best Designer Crossbody Bags for Travel: Stylish, Functional, and Lightweight
+  Picks'
+description: Designer crossbody bags combine style and convenience, making them perfect
+  for travel. These bags keep your essentials safe and easy to reach. Traveling require
 pubDate: 2026-06-20
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-designer-crossbody-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Totes And Crossbody Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-designer-crossbody-bags-for-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Designer crossbody bags combine style and convenience, making them perfect for travel. These bags keep your essentials safe and easy to reach.**

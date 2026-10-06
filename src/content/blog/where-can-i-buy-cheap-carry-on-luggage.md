@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Buy Cheap Carry on Luggage: Top Affordable Picks"
-description: "Finding affordable carry-on luggage that doesn't compromise on quality can feel like searching for a needle in a haystack. You've probably been there—standing i"
+title: 'Where Can I Buy Cheap Carry on Luggage: Top Affordable Picks'
+description: Finding affordable carry-on luggage that doesn't compromise on quality
+  can feel like searching for a needle in a haystack. You've probably been there—standing
+  i
 pubDate: 2026-04-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-buy-cheap-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-buy-cheap-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding affordable carry-on luggage that doesn't compromise on quality can feel like searching for a needle in a haystack. You've probably been there—standing in a store aisle, overwhelmed by prices and wondering if you can get a good deal without sacrificing style or durability.**

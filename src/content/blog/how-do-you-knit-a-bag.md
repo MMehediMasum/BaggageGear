@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Knit a Bag: Easy Steps for Stylish DIY Creations"
 description: "Have you ever thought about knitting your own bag? Imagine carrying a piece of art that you crafted with your own hands. A knitted bag isn't just an accessory; "
 pubDate: 2026-02-05

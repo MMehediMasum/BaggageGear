@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Toilet Paper for Backpacking: Top Portable and Biodegradable Options"
 description: "Choosing the best toilet paper for backpacking is essential for comfort and hygiene outdoors. It must be lightweight, compact, and eco-friendly. Backpacking req"
 pubDate: 2026-06-15

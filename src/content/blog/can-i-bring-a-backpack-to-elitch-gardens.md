@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Backpack to Elitch Gardens: Essential Tips Revealed"
-description: "Are you planning a thrilling day at Elitch Gardens and wondering if you can bring your backpack along for the ride? You're not alone. Many visitors like you are"
+title: 'Can I Bring a Backpack to Elitch Gardens: Essential Tips Revealed'
+description: Are you planning a thrilling day at Elitch Gardens and wondering if you
+  can bring your backpack along for the ride? You're not alone. Many visitors like
+  you are
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-elitch-gardens&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-elitch-gardens&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a thrilling day at Elitch Gardens and wondering if you can bring your backpack along for the ride? You're not alone.**

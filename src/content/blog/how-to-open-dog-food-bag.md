@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Open Dog Food Bag: Easy Tips for Freshness & Convenience"
 description: "Have you ever found yourself wrestling with a stubborn dog food bag, only to end up with kibble scattered all over your kitchen floor? If so, you're not alone. "
 pubDate: 2025-10-09

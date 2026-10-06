@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Knives in Checked Luggage: Essential Travel Tips"
-description: "Are you gearing up for your next big adventure and wondering if you can pack knives in your checked luggage? You're not alone. Many travelers find themselves pu"
+title: 'Can You Pack Knives in Checked Luggage: Essential Travel Tips'
+description: Are you gearing up for your next big adventure and wondering if you can
+  pack knives in your checked luggage? You're not alone. Many travelers find themselves
+  pu
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-knives-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-knives-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next big adventure and wondering if you can pack knives in your checked luggage? You're not alone.**

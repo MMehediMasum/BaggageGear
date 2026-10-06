@@ -1,10 +1,13 @@
 ---
-title: "Best Big Agnes Sleeping Bag for Backpacking: Top Picks for Every Adventurer"
-description: "Choosing the best Big Agnes sleeping bag can make your backpacking trips more comfortable and warm. Big Agnes offers a variety of bags for different temperature"
+title: 'Best Big Agnes Sleeping Bag for Backpacking: Top Picks for Every Adventurer'
+description: Choosing the best Big Agnes sleeping bag can make your backpacking trips
+  more comfortable and warm. Big Agnes offers a variety of bags for different temperature
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-big-agnes-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-big-agnes-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best Big Agnes sleeping bag can make your backpacking trips more comfortable and warm. Big Agnes offers a variety of bags for different temperatures and sizes.**

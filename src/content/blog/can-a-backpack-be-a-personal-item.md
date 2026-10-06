@@ -1,10 +1,14 @@
 ---
-title: "Can a Backpack Be a Personal Item? Ultimate Travel Guide 2025"
-description: "Have you ever found yourself at the airport, nervously wondering if your trusty backpack will pass as a personal item? You're not alone. Many travelers face thi"
+title: Can a Backpack Be a Personal Item? Ultimate Travel Guide 2025
+description: Have you ever found yourself at the airport, nervously wondering if your
+  trusty backpack will pass as a personal item? You're not alone. Many travelers face
+  thi
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself at the airport, nervously wondering if your trusty backpack will pass as a personal item? You're not alone.**

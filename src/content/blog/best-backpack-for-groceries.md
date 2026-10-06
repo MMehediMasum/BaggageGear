@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Groceries: Top Insulated and Leakproof Cooler Bags Reviewed"
-description: "Choosing the best backpack for groceries makes shopping easier and more comfortable. These backpacks keep your items organized, cool, and easy to carry. Carryin"
+title: 'Best Backpack for Groceries: Top Insulated and Leakproof Cooler Bags Reviewed'
+description: Choosing the best backpack for groceries makes shopping easier and more
+  comfortable. These backpacks keep your items organized, cool, and easy to carry.
+  Carryin
 pubDate: 2026-07-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-groceries&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-groceries&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for groceries makes shopping easier and more comfortable. These backpacks keep your items organized, cool, and easy to carry.**

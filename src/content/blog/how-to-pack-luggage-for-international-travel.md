@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Luggage for International Travel: Ultimate Expert Tips"
-description: "Packing for an international trip can feel overwhelming, but it doesn't have to be. Imagine breezing through the airport, confident that you have everything you"
+title: 'How to Pack Luggage for International Travel: Ultimate Expert Tips'
+description: Packing for an international trip can feel overwhelming, but it doesn't
+  have to be. Imagine breezing through the airport, confident that you have everything
+  you
 pubDate: 2025-11-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-luggage-for-international-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for an international trip can feel overwhelming, but it doesn't have to be. Imagine breezing through the airport, confident that you have everything you need.**

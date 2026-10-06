@@ -1,10 +1,14 @@
 ---
-title: "Does Coors Field Have a Clear Bag Policy? What Fans Need to Know"
-description: "Are you planning a visit to Coors Field and wondering about their bag policy? You're not alone. Whether you're a die-hard Rockies fan or just love the ballpark "
+title: Does Coors Field Have a Clear Bag Policy? What Fans Need to Know
+description: 'Are you planning a visit to Coors Field and wondering about their bag
+  policy? You''re not alone. Whether you''re a die-hard Rockies fan or just love the
+  ballpark '
 pubDate: 2026-03-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-coors-field-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-coors-field-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a visit to Coors Field and wondering about their bag policy? You're not alone.**

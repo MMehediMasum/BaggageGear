@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Yeti Backpack: Easy Steps for a Spotless Clean"
-description: "Your Yeti backpack is your trusty companion for every adventure, braving the elements and keeping your essentials safe. But, have you ever thought about giving "
+title: 'How to Wash Yeti Backpack: Easy Steps for a Spotless Clean'
+description: 'Your Yeti backpack is your trusty companion for every adventure, braving
+  the elements and keeping your essentials safe. But, have you ever thought about
+  giving '
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-yeti-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-yeti-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Yeti backpack is your trusty companion for every adventure, braving the elements and keeping your essentials safe. But, have you ever thought about giving it the care it deserves?**

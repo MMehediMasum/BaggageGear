@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Away Luggage near Me: Best Local Stores Revealed"
-description: "Are you searching for the perfect Away luggage nearby but don’t know where to start? Finding the right suitcase can make all the difference in your travel exper"
+title: 'Where to Buy Away Luggage near Me: Best Local Stores Revealed'
+description: Are you searching for the perfect Away luggage nearby but don’t know
+  where to start? Finding the right suitcase can make all the difference in your travel
+  exper
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-away-luggage-near-me&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-away-luggage-near-me&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you searching for the perfect Away luggage nearby but don’t know where to start? Finding the right suitcase can make all the difference in your travel experience.**

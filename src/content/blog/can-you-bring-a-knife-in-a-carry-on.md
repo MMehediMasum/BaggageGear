@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Knife in a Carry On: Essential TSA Rules Explained"
-description: "Are you gearing up for your next big adventure and wondering about the do's and don'ts of packing? If you've ever asked yourself, \"Can you bring a knife in a ca"
+title: 'Can You Bring a Knife in a Carry On: Essential TSA Rules Explained'
+description: Are you gearing up for your next big adventure and wondering about the
+  do's and don'ts of packing? If you've ever asked yourself, "Can you bring a knife
+  in a ca
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-knife-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-knife-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next big adventure and wondering about the do's and don'ts of packing? If you've ever asked yourself, "Can you bring a knife in a carry on?"**

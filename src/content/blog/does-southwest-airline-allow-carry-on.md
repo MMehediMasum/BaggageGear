@@ -1,10 +1,14 @@
 ---
-title: "Does Southwest Airline Allow Carry On: Ultimate Guide to Baggage Rules"
-description: "Planning a trip and trying to figure out if Southwest Airlines allows carry-on bags? You're in the right place. Navigating airline policies can feel like solvin"
+title: 'Does Southwest Airline Allow Carry On: Ultimate Guide to Baggage Rules'
+description: Planning a trip and trying to figure out if Southwest Airlines allows
+  carry-on bags? You're in the right place. Navigating airline policies can feel like
+  solvin
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-southwest-airline-allow-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=does-southwest-airline-allow-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip and trying to figure out if Southwest Airlines allows carry-on bags? You're in the right place.**

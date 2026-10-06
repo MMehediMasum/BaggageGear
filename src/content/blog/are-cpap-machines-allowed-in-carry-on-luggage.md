@@ -1,10 +1,14 @@
 ---
-title: "Are Cpap Machines Allowed in Carry on Luggage: Essential Travel Tips"
-description: "Planning a trip and wondering if you can take your CPAP machine in your carry-on luggage? You're not alone. Many travelers who rely on CPAP machines for a good "
+title: 'Are Cpap Machines Allowed in Carry on Luggage: Essential Travel Tips'
+description: 'Planning a trip and wondering if you can take your CPAP machine in your
+  carry-on luggage? You''re not alone. Many travelers who rely on CPAP machines for
+  a good '
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-cpap-machines-allowed-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=are-cpap-machines-allowed-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and wondering if you can take your CPAP machine in your carry-on luggage? You're not alone.**

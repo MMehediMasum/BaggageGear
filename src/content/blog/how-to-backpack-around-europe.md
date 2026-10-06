@@ -1,10 +1,13 @@
 ---
-title: "How to Backpack around Europe: Ultimate Guide for Adventure Seekers"
-description: "Dreaming of a European adventure but worried about your budget? Backpacking around Europe is the perfect solution. Imagine waking up in a quaint French village,"
+title: 'How to Backpack around Europe: Ultimate Guide for Adventure Seekers'
+description: Dreaming of a European adventure but worried about your budget? Backpacking
+  around Europe is the perfect solution. Imagine waking up in a quaint French village,
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-backpack-around-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Travel Planning
+heroImage: https://tse1.mm.bing.net/th?q=how-to-backpack-around-europe&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Dreaming of a European adventure but worried about your budget? Backpacking around Europe is the perfect solution.**

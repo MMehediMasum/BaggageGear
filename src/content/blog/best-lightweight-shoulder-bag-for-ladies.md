@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Shoulder Bag for Ladies: Stylish, Spacious, and Durable Picks"
-description: "Choosing the best lightweight shoulder bag for ladies means finding a balance between style and comfort. A good bag should be easy to carry and hold all your es"
+title: 'Best Lightweight Shoulder Bag for Ladies: Stylish, Spacious, and Durable Picks'
+description: Choosing the best lightweight shoulder bag for ladies means finding a
+  balance between style and comfort. A good bag should be easy to carry and hold all
+  your es
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-shoulder-bag-for-ladies&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-shoulder-bag-for-ladies&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight shoulder bag for ladies means finding a balance between style and comfort. A good bag should be easy to carry and hold all your essentials without feeling heavy.**

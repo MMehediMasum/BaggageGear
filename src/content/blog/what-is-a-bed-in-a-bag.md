@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bed in a Bag: Ultimate Guide to Cozy Convenience"
 description: "Are you tired of juggling multiple bedding pieces every time you want to refresh your bedroom? Imagine grabbing just one package that has everything you need fo"
 pubDate: 2026-03-24

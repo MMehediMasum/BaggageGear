@@ -1,10 +1,13 @@
 ---
-title: "How to Check Luggage for Bed Bugs: Easy Steps to Stay Pest-Free"
-description: "Imagine this: You’ve just returned from a dream vacation. The memories are still fresh, and your suitcase is filled with souvenirs and unforgettable experiences"
+title: 'How to Check Luggage for Bed Bugs: Easy Steps to Stay Pest-Free'
+description: 'Imagine this: You’ve just returned from a dream vacation. The memories
+  are still fresh, and your suitcase is filled with souvenirs and unforgettable experiences'
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-check-luggage-for-bed-bugs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-check-luggage-for-bed-bugs&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine this: You’ve just returned from a dream vacation. The memories are still fresh, and your suitcase is filled with souvenirs and unforgettable experiences.**

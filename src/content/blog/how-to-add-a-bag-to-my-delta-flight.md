@@ -1,10 +1,14 @@
 ---
-title: "How to Add a Bag to My Delta Flight: Easy Steps for Stress-Free Travel"
-description: "Picture this: You've booked your Delta flight, and as the departure date inches closer, you realize you need to add an extra bag. Whether you’re packing for an "
+title: 'How to Add a Bag to My Delta Flight: Easy Steps for Stress-Free Travel'
+description: 'Picture this: You''ve booked your Delta flight, and as the departure
+  date inches closer, you realize you need to add an extra bag. Whether you’re packing
+  for an '
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-add-a-bag-to-my-delta-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-to-add-a-bag-to-my-delta-flight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: You've booked your Delta flight, and as the departure date inches closer, you realize you need to add an extra bag. Whether you’re packing for an extended business trip or a vacation that just can’t be crammed into a carry-on, navigating airline policies can sometimes feel like deciphering a foreign language.**

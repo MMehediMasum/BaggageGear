@@ -1,10 +1,13 @@
 ---
-title: "Is Ifly Luggage Good: Honest Review & Top Benefits Revealed"
-description: "When you're planning your next trip, choosing the right luggage can make all the difference. You want something reliable, durable, and stylish, without breaking"
+title: 'Is Ifly Luggage Good: Honest Review & Top Benefits Revealed'
+description: When you're planning your next trip, choosing the right luggage can make
+  all the difference. You want something reliable, durable, and stylish, without breaking
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-ifly-luggage-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-ifly-luggage-good&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When you're planning your next trip, choosing the right luggage can make all the difference. You want something reliable, durable, and stylish, without breaking the bank.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Fit Everything in a Carry On: Ultimate Packing Hacks Revealed"
-description: "Are you tired of those hefty baggage fees and the hassle of waiting at the luggage carousel? Imagine breezing through the airport, knowing everything you need i"
+title: 'How to Fit Everything in a Carry On: Ultimate Packing Hacks Revealed'
+description: Are you tired of those hefty baggage fees and the hassle of waiting at
+  the luggage carousel? Imagine breezing through the airport, knowing everything you
+  need i
 pubDate: 2026-04-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fit-everything-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fit-everything-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you tired of those hefty baggage fees and the hassle of waiting at the luggage carousel? Imagine breezing through the airport, knowing everything you need is right there in your carry-on.**

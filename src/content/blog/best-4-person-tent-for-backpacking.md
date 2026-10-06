@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best 4 Person Tent for Backpacking: Discover Ultimate Comfort and Durability"
 description: "Choosing the best 4 person tent for backpacking can make your trip more comfortable and enjoyable. A good tent must be lightweight, durable, and easy to set up."
 pubDate: 2026-06-17

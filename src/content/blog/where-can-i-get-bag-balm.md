@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where Can I Get Bag Balm: Top Places to Buy It Now"
 description: "Are you on the hunt for a reliable solution to soothe your dry, cracked skin? If so, you might have already heard about Bag Balm, a time-tested remedy that has "
 pubDate: 2025-12-26

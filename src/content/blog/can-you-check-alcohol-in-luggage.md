@@ -1,10 +1,14 @@
 ---
-title: "Can You Check Alcohol in Luggage: Essential Rules & Tips Revealed"
-description: "Are you planning a trip and wondering if you can bring your favorite bottle of wine or whiskey along in your luggage? The rules about carrying alcohol in your s"
+title: 'Can You Check Alcohol in Luggage: Essential Rules & Tips Revealed'
+description: Are you planning a trip and wondering if you can bring your favorite
+  bottle of wine or whiskey along in your luggage? The rules about carrying alcohol
+  in your s
 pubDate: 2026-02-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-alcohol-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-alcohol-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring your favorite bottle of wine or whiskey along in your luggage? The rules about carrying alcohol in your suitcase can be confusing, and the last thing you want is to have your precious cargo confiscated at the airport.**

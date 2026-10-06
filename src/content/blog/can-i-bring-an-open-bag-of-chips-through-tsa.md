@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring an Open Bag of Chips Through TSA? Expert Tips Revealed"
-description: "Ever stood in the security line, clutching your half-eaten bag of chips, and wondered if you'll have to toss them before boarding your flight? You're not alone."
+title: Can I Bring an Open Bag of Chips Through TSA? Expert Tips Revealed
+description: Ever stood in the security line, clutching your half-eaten bag of chips,
+  and wondered if you'll have to toss them before boarding your flight? You're not
+  alone.
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-an-open-bag-of-chips-through-tsa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-an-open-bag-of-chips-through-tsa&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood in the security line, clutching your half-eaten bag of chips, and wondered if you'll have to toss them before boarding your flight? You're not alone.**

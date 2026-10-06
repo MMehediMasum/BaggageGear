@@ -1,10 +1,14 @@
 ---
-title: "How Long Can You Leave Luggage in Coin Locker: Ultimate Guide"
-description: "Have you ever wondered how long you can leave your luggage in a coin locker without worrying about extra fees or losing your belongings? Whether you're a freque"
+title: 'How Long Can You Leave Luggage in Coin Locker: Ultimate Guide'
+description: Have you ever wondered how long you can leave your luggage in a coin
+  locker without worrying about extra fees or losing your belongings? Whether you're
+  a freque
 pubDate: 2026-03-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-can-you-leave-luggage-in-coin-locker&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=how-long-can-you-leave-luggage-in-coin-locker&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered how long you can leave your luggage in a coin locker without worrying about extra fees or losing your belongings? Whether you're a frequent traveler or planning your first trip, understanding the ins and outs of coin lockers can save you both time and stress.**

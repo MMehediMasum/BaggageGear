@@ -1,10 +1,14 @@
 ---
-title: "Can a Garment Bag Be a Carry On: Ultimate Travel Packing Tips"
-description: "Are you planning a trip and wondering if you can bring your garment bag as a carry-on? You're not alone. Many travelers face this dilemma, trying to balance the"
+title: 'Can a Garment Bag Be a Carry On: Ultimate Travel Packing Tips'
+description: Are you planning a trip and wondering if you can bring your garment bag
+  as a carry-on? You're not alone. Many travelers face this dilemma, trying to balance
+  the
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-garment-bag-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Garment Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-a-garment-bag-be-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you planning a trip and wondering if you can bring your garment bag as a carry-on? You're not alone.**

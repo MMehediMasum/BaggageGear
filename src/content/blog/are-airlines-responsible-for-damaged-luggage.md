@@ -1,10 +1,14 @@
 ---
-title: "Are Airlines Responsible for Damaged Luggage: Know Your Rights"
-description: "Have you ever stood at the baggage claim, eagerly waiting for your luggage, only to find it damaged when it finally arrives? It’s a frustrating situation, and y"
+title: 'Are Airlines Responsible for Damaged Luggage: Know Your Rights'
+description: Have you ever stood at the baggage claim, eagerly waiting for your luggage,
+  only to find it damaged when it finally arrives? It’s a frustrating situation, and
+  y
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-airlines-responsible-for-damaged-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=are-airlines-responsible-for-damaged-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the baggage claim, eagerly waiting for your luggage, only to find it damaged when it finally arrives? It’s a frustrating situation, and you’re not alone in experiencing it.**

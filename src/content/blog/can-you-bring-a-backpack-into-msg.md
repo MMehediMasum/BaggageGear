@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack into MSG: Essential Rules You Must Know"
-description: "Ever planned an exciting trip to Madison Square Garden (MSG) only to pause and wonder, \"Can you bring a backpack into MSG?\" You're not alone. Navigating the rul"
+title: 'Can You Bring a Backpack into MSG: Essential Rules You Must Know'
+description: Ever planned an exciting trip to Madison Square Garden (MSG) only to
+  pause and wonder, "Can you bring a backpack into MSG?" You're not alone. Navigating
+  the rul
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-msg&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-msg&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever planned an exciting trip to Madison Square Garden (MSG) only to pause and wonder, "Can you bring a backpack into MSG?" You're not alone.**

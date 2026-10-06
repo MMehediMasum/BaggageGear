@@ -1,10 +1,13 @@
 ---
-title: "Best Sleeping Bag for Hammock Camping: Top Picks for Outdoor Adventures"
-description: "Choosing the best sleeping bag for hammock camping ensures a warm, comfortable night outdoors. A good sleeping bag fits your hammock setup and weather needs per"
+title: 'Best Sleeping Bag for Hammock Camping: Top Picks for Outdoor Adventures'
+description: Choosing the best sleeping bag for hammock camping ensures a warm, comfortable
+  night outdoors. A good sleeping bag fits your hammock setup and weather needs per
 pubDate: 2026-06-19
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-hammock-camping&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-hammock-camping&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best sleeping bag for hammock camping ensures a warm, comfortable night outdoors. A good sleeping bag fits your hammock setup and weather needs perfectly.**

@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Get North Face Backpacks: Top Stores & Deals Today"
-description: "Are you on the hunt for a reliable and stylish backpack that can keep up with your adventures? North Face backpacks are renowned for their durability, comfort, "
+title: 'Where Can I Get North Face Backpacks: Top Stores & Deals Today'
+description: 'Are you on the hunt for a reliable and stylish backpack that can keep
+  up with your adventures? North Face backpacks are renowned for their durability,
+  comfort, '
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-get-north-face-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-get-north-face-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a reliable and stylish backpack that can keep up with your adventures? North Face backpacks are renowned for their durability, comfort, and design.**

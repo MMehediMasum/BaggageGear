@@ -1,10 +1,14 @@
 ---
-title: "What is a Brahmin Bag Made of: Ultimate Guide to Luxury Materials"
-description: "Have you ever wondered what makes a Brahmin bag so special? Perhaps you've admired the intricate designs and craftsmanship but never really knew what goes into "
+title: 'What is a Brahmin Bag Made of: Ultimate Guide to Luxury Materials'
+description: 'Have you ever wondered what makes a Brahmin bag so special? Perhaps
+  you''ve admired the intricate designs and craftsmanship but never really knew what
+  goes into '
 pubDate: 2025-12-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-brahmin-bag-made-of&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-brahmin-bag-made-of&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever wondered what makes a Brahmin bag so special? Perhaps you've admired the intricate designs and craftsmanship but never really knew what goes into making one.**

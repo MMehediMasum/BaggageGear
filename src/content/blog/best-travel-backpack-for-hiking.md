@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Backpack for Hiking: Top Lightweight Waterproof Daypacks Reviewed"
-description: "Choosing the best travel backpack for hiking makes your outdoor trips easier and more enjoyable. A good backpack holds your gear, stays comfortable, and fits yo"
+title: 'Best Travel Backpack for Hiking: Top Lightweight Waterproof Daypacks Reviewed'
+description: Choosing the best travel backpack for hiking makes your outdoor trips
+  easier and more enjoyable. A good backpack holds your gear, stays comfortable, and
+  fits yo
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-backpack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-backpack-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best travel backpack for hiking makes your outdoor trips easier and more enjoyable. A good backpack holds your gear, stays comfortable, and fits your needs.**

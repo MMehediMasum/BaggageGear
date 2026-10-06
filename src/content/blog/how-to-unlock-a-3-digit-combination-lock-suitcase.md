@@ -1,10 +1,14 @@
 ---
-title: "How to Unlock a 3 Digit Combination Lock Suitcase: Simple Proven Tips"
-description: "Picture this: You're standing in front of your suitcase, ready for your trip, but there's one small problem. The lock won't open. You try a few combinations, bu"
+title: 'How to Unlock a 3 Digit Combination Lock Suitcase: Simple Proven Tips'
+description: 'Picture this: You''re standing in front of your suitcase, ready for
+  your trip, but there''s one small problem. The lock won''t open. You try a few combinations,
+  bu'
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-unlock-a-3-digit-combination-lock-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unlocking Combination Suitcase Locks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-unlock-a-3-digit-combination-lock-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You're standing in front of your suitcase, ready for your trip, but there's one small problem. The lock won't open.**

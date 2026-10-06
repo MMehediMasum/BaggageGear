@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Big is a Bagster Bag: Ultimate Size Guide Revealed"
 description: "Imagine you're tackling a home renovation or a major decluttering project. You're making progress, but then you hit a snag: what to do with all the waste piling"
 pubDate: 2026-01-22

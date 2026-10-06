@@ -1,10 +1,14 @@
 ---
-title: "Can Makeup Wipes Go in Carry On: Essential Travel Tips Revealed"
-description: "Imagine this: You're at the airport, ready for an exciting adventure. You've packed your essentials, and your makeup wipes are right there in your bag. But a na"
+title: 'Can Makeup Wipes Go in Carry On: Essential Travel Tips Revealed'
+description: 'Imagine this: You''re at the airport, ready for an exciting adventure.
+  You''ve packed your essentials, and your makeup wipes are right there in your bag.
+  But a na'
 pubDate: 2026-03-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-makeup-wipes-go-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-makeup-wipes-go-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: You're at the airport, ready for an exciting adventure. You've packed your essentials, and your makeup wipes are right there in your bag.**

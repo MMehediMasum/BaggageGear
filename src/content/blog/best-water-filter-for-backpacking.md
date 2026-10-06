@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Water Filter for Backpacking: Top Portable Systems for Clean Water"
 description: "Finding clean water is vital when backpacking. A good water filter keeps you safe and hydrated in the wild. Backpacking often means relying on natural water sou"
 pubDate: 2025-09-25

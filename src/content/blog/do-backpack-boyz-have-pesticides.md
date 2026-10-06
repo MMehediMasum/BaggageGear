@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Do Backpack Boyz Have Pesticides: Truth Revealed Today"
 description: "Have you ever wondered about the safety of the cannabis products you consume? Specifically, have you asked yourself, \"Do Backpack Boyz have pesticides?\" If you'"
 pubDate: 2026-01-01

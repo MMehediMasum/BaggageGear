@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Italy: Essential Power Solutions for European Trips"
-description: "Finding the best travel adapter for Italy ensures your devices stay charged and ready. Italy uses Type C and Type L plugs with 230V voltage and 50Hz frequency. "
+title: 'Best Travel Adapter for Italy: Essential Power Solutions for European Trips'
+description: 'Finding the best travel adapter for Italy ensures your devices stay
+  charged and ready. Italy uses Type C and Type L plugs with 230V voltage and 50Hz
+  frequency. '
 pubDate: 2026-06-04
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-italy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-italy&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Italy ensures your devices stay charged and ready. Italy uses Type C and Type L plugs with 230V voltage and 50Hz frequency.**

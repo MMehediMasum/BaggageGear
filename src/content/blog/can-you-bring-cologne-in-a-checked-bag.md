@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Cologne in a Checked Bag: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can pack your favorite cologne in your checked bag? You're not alone. Many travelers face this dilemma, eager to ca"
+title: 'Can You Bring Cologne in a Checked Bag: Essential Travel Tips'
+description: Are you planning a trip and wondering if you can pack your favorite cologne
+  in your checked bag? You're not alone. Many travelers face this dilemma, eager to
+  ca
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-cologne-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-cologne-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your favorite cologne in your checked bag? You're not alone.**

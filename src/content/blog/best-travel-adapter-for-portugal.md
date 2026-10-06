@@ -1,10 +1,13 @@
 ---
-title: "Best Travel Adapter for Portugal: Top USB-C European Plug Picks"
-description: "Finding the best travel adapter for Portugal ensures your devices stay charged and ready. Portugal uses Type C and F plugs with 230V voltage and 50Hz frequency."
+title: 'Best Travel Adapter for Portugal: Top USB-C European Plug Picks'
+description: Finding the best travel adapter for Portugal ensures your devices stay
+  charged and ready. Portugal uses Type C and F plugs with 230V voltage and 50Hz frequency.
 pubDate: 2026-05-18
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-portugal&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-portugal&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel adapter for Portugal ensures your devices stay charged and ready. Portugal uses Type C and F plugs with 230V voltage and 50Hz frequency.**

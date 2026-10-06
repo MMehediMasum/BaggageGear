@@ -1,10 +1,14 @@
 ---
-title: "Where are Adidas Backpacks Made: Unveiling Their True Origin"
-description: "Curious about where your favorite Adidas backpack is made? You're not alone. Understanding the origin of your gear can enhance your appreciation for its quality"
+title: 'Where are Adidas Backpacks Made: Unveiling Their True Origin'
+description: Curious about where your favorite Adidas backpack is made? You're not
+  alone. Understanding the origin of your gear can enhance your appreciation for its
+  quality
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-adidas-backpacks-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-adidas-backpacks-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Curious about where your favorite Adidas backpack is made? You're not alone.**

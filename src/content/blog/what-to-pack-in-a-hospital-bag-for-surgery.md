@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Hospital Bag for Surgery: Essential Must-Haves"
-description: "Facing surgery can be a daunting experience, and the last thing you want to worry about is forgetting something important at home. Whether it’s your first time "
+title: 'What to Pack in a Hospital Bag for Surgery: Essential Must-Haves'
+description: 'Facing surgery can be a daunting experience, and the last thing you
+  want to worry about is forgetting something important at home. Whether it’s your
+  first time '
 pubDate: 2026-01-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-surgery&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-surgery&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Facing surgery can be a daunting experience, and the last thing you want to worry about is forgetting something important at home. Whether it’s your first time or you’ve been through it before, packing the perfect hospital bag is crucial for your peace of mind.**

@@ -1,10 +1,14 @@
 ---
-title: "How Much to Check a Bag on Air Canada: Ultimate Cost Guide 2025"
-description: "Have you ever stood at the airport, ticket in hand, only to be hit with unexpected baggage fees? If you’re flying with Air Canada, knowing how much it costs to "
+title: 'How Much to Check a Bag on Air Canada: Ultimate Cost Guide 2025'
+description: 'Have you ever stood at the airport, ticket in hand, only to be hit with
+  unexpected baggage fees? If you’re flying with Air Canada, knowing how much it costs
+  to '
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-air-canada&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-air-canada&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport, ticket in hand, only to be hit with unexpected baggage fees? If you’re flying with Air Canada, knowing how much it costs to check a bag can save you from last-minute surprises.**

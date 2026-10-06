@@ -1,10 +1,14 @@
 ---
-title: "Will a Can Explode in Checked Luggage? Shocking Truth Revealed"
-description: "Imagine you're packing for your dream vacation. You've got everything ready, but then you hesitate over that can of soda or your favorite aerosol hairspray. You"
+title: Will a Can Explode in Checked Luggage? Shocking Truth Revealed
+description: Imagine you're packing for your dream vacation. You've got everything
+  ready, but then you hesitate over that can of soda or your favorite aerosol hairspray.
+  You
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-a-can-explode-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-a-can-explode-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're packing for your dream vacation. You've got everything ready, but then you hesitate over that can of soda or your favorite aerosol hairspray.**

@@ -1,10 +1,14 @@
 ---
-title: "When Does Southwest Bag Policy Change: Essential Updates to Know"
-description: "Are you planning your next adventure with Southwest Airlines? If so, you're probably curious about their bag policy and any upcoming changes. After all, knowing"
+title: 'When Does Southwest Bag Policy Change: Essential Updates to Know'
+description: Are you planning your next adventure with Southwest Airlines? If so,
+  you're probably curious about their bag policy and any upcoming changes. After all,
+  knowing
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-does-southwest-bag-policy-change&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=when-does-southwest-bag-policy-change&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure with Southwest Airlines? If so, you're probably curious about their bag policy and any upcoming changes.**

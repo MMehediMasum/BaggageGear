@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage Size for Ease of Travel in Europe: Top Picks Reviewed"
-description: "Choosing the best luggage size makes traveling in Europe easier and stress-free. The right suitcase fits airline rules and suits different trip lengths. Traveli"
+title: 'Best Luggage Size for Ease of Travel in Europe: Top Picks Reviewed'
+description: Choosing the best luggage size makes traveling in Europe easier and stress-free.
+  The right suitcase fits airline rules and suits different trip lengths. Traveli
 pubDate: 2026-07-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-size-for-ease-of-travel-in-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-size-for-ease-of-travel-in-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage size makes traveling in Europe easier and stress-free. The right suitcase fits airline rules and suits different trip lengths.**

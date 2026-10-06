@@ -1,10 +1,14 @@
 ---
-title: "Best North Face Backpack for Travel: Top Picks for Durability and Style"
-description: "Choosing the best North Face backpack for travel makes your trips easier and more organized. These backpacks offer durability, comfort, and smart features for e"
+title: 'Best North Face Backpack for Travel: Top Picks for Durability and Style'
+description: Choosing the best North Face backpack for travel makes your trips easier
+  and more organized. These backpacks offer durability, comfort, and smart features
+  for e
 pubDate: 2026-06-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-north-face-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-north-face-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best North Face backpack for travel makes your trips easier and more organized. These backpacks offer durability, comfort, and smart features for every journey.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Refill Bean Bag Chair: Easy Steps for a Comfy Upgrade"
 description: "Is your beloved bean bag chair looking a little deflated? Don’t worry; bringing it back to its cozy glory is easier than you might think. Refilling your bean ba"
 pubDate: 2025-12-07

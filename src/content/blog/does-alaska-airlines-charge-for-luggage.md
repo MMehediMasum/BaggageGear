@@ -1,10 +1,14 @@
 ---
-title: "Does Alaska Airlines Charge for Luggage? Essential Fees Explained!"
-description: "Planning your next trip and wondering about luggage fees? If you're flying with Alaska Airlines, you're probably curious about whether they charge for luggage a"
+title: Does Alaska Airlines Charge for Luggage? Essential Fees Explained!
+description: Planning your next trip and wondering about luggage fees? If you're flying
+  with Alaska Airlines, you're probably curious about whether they charge for luggage
+  a
 pubDate: 2026-02-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-alaska-airlines-charge-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-alaska-airlines-charge-for-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip and wondering about luggage fees? If you're flying with Alaska Airlines, you're probably curious about whether they charge for luggage and how it might affect your travel budget.**

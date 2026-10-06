@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Carry On Bag for Women: Stylish, Durable, and TSA Approved Choices"
-description: "Choosing the best travel carry on bag for women can make any trip easier and more organized. The right bag fits essentials, meets airline rules, and stays styli"
+title: 'Best Travel Carry On Bag for Women: Stylish, Durable, and TSA Approved Choices'
+description: Choosing the best travel carry on bag for women can make any trip easier
+  and more organized. The right bag fits essentials, meets airline rules, and stays
+  styli
 pubDate: 2026-08-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-carry-on-bag-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-carry-on-bag-for-women&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best travel carry on bag for women can make any trip easier and more organized. The right bag fits essentials, meets airline rules, and stays stylish.**

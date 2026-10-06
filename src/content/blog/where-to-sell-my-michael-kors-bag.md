@@ -1,10 +1,14 @@
 ---
-title: "Where to Sell My Michael Kors Bag: Top Trusted Platforms Revealed"
-description: "Are you looking to sell your Michael Kors bag but don't know where to start? You’re not alone. Many people have bags sitting in their closet that could be turne"
+title: 'Where to Sell My Michael Kors Bag: Top Trusted Platforms Revealed'
+description: Are you looking to sell your Michael Kors bag but don't know where to
+  start? You’re not alone. Many people have bags sitting in their closet that could
+  be turne
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-sell-my-michael-kors-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-sell-my-michael-kors-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to sell your Michael Kors bag but don't know where to start? You’re not alone.**

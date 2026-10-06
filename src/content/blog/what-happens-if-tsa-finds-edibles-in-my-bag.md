@@ -1,10 +1,14 @@
 ---
-title: "What Happens If Tsa Finds Edibles in My Bag: Risks & Tips Revealed"
-description: "Ever found yourself standing in the security line at the airport, heart racing, wondering if the TSA agents will discover those edibles tucked away in your bag?"
+title: 'What Happens If Tsa Finds Edibles in My Bag: Risks & Tips Revealed'
+description: Ever found yourself standing in the security line at the airport, heart
+  racing, wondering if the TSA agents will discover those edibles tucked away in your
+  bag?
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-happens-if-tsa-finds-edibles-in-my-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-happens-if-tsa-finds-edibles-in-my-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself standing in the security line at the airport, heart racing, wondering if the TSA agents will discover those edibles tucked away in your bag? It's a nerve-wracking moment that many travelers face.**

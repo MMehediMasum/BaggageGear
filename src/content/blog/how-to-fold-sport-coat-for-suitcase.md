@@ -1,10 +1,14 @@
 ---
-title: "How to Fold Sport Coat for Suitcase: Expert Tips for Wrinkle-Free Travel"
-description: "Packing for a trip can be stressful, especially when you’re trying to fit your favorite sport coat into your suitcase without it looking like a crumpled mess up"
+title: 'How to Fold Sport Coat for Suitcase: Expert Tips for Wrinkle-Free Travel'
+description: Packing for a trip can be stressful, especially when you’re trying to
+  fit your favorite sport coat into your suitcase without it looking like a crumpled
+  mess up
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-sport-coat-for-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-sport-coat-for-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a trip can be stressful, especially when you’re trying to fit your favorite sport coat into your suitcase without it looking like a crumpled mess upon arrival. You want to look sharp and sophisticated, whether you’re attending a business meeting or a special occasion.**

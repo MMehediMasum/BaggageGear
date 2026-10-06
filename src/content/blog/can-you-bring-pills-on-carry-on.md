@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Pills on Carry On: Essential Travel Medication Rules"
-description: "Navigating airport security can be a daunting task, especially when it comes to knowing what you can and cannot bring in your carry-on luggage. If you've ever f"
+title: 'Can You Bring Pills on Carry On: Essential Travel Medication Rules'
+description: Navigating airport security can be a daunting task, especially when it
+  comes to knowing what you can and cannot bring in your carry-on luggage. If you've
+  ever f
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-pills-on-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-pills-on-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can be a daunting task, especially when it comes to knowing what you can and cannot bring in your carry-on luggage. If you've ever found yourself wondering whether you can bring pills on a carry-on, you're not alone.**

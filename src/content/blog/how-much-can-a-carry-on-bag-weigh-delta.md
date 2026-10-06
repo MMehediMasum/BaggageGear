@@ -1,10 +1,14 @@
 ---
-title: "How Much Can a Carry on Bag Weigh Delta: Ultimate Weight Guide"
-description: "Are you planning to fly with Delta Airlines and wondering how much your carry-on bag can weigh? You're not alone. Navigating airline baggage rules can be confus"
+title: 'How Much Can a Carry on Bag Weigh Delta: Ultimate Weight Guide'
+description: Are you planning to fly with Delta Airlines and wondering how much your
+  carry-on bag can weigh? You're not alone. Navigating airline baggage rules can be
+  confus
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-a-carry-on-bag-weigh-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-a-carry-on-bag-weigh-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Delta Airlines and wondering how much your carry-on bag can weigh? You're not alone.**

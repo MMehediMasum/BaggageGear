@@ -1,10 +1,14 @@
 ---
-title: "When was the Backpack Invented: Discover Its Surprising Origins"
-description: "Imagine for a moment your life without a backpack. Picture the chaos of juggling your essentials as you dash through a busy day. It's hard to believe, right? Th"
+title: 'When was the Backpack Invented: Discover Its Surprising Origins'
+description: Imagine for a moment your life without a backpack. Picture the chaos
+  of juggling your essentials as you dash through a busy day. It's hard to believe,
+  right? Th
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-was-the-backpack-invented&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack History And Buying Questions
+heroImage: https://tse1.mm.bing.net/th?q=when-was-the-backpack-invented&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine for a moment your life without a backpack. Picture the chaos of juggling your essentials as you dash through a busy day.**

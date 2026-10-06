@@ -1,10 +1,14 @@
 ---
-title: "How Many Ounces on a Carry On: Ultimate TSA Liquid Rules Guide"
-description: "Are you planning a trip and wondering how many ounces you can take in your carry-on? It's a common concern that can make or break your travel experience. Imagin"
+title: 'How Many Ounces on a Carry On: Ultimate TSA Liquid Rules Guide'
+description: Are you planning a trip and wondering how many ounces you can take in
+  your carry-on? It's a common concern that can make or break your travel experience.
+  Imagin
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-ounces-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-ounces-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering how many ounces you can take in your carry-on? It's a common concern that can make or break your travel experience.**

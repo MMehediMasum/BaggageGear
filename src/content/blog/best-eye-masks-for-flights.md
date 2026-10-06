@@ -1,10 +1,14 @@
 ---
-title: "Best Eye Masks for Flights: Discover Comfort and Darkness On-the-Go"
-description: "Flying often means bright cabin lights and restless seats. The best eye masks for flights help block light and improve rest. Choosing a good eye mask makes a bi"
+title: 'Best Eye Masks for Flights: Discover Comfort and Darkness On-the-Go'
+description: Flying often means bright cabin lights and restless seats. The best eye
+  masks for flights help block light and improve rest. Choosing a good eye mask makes
+  a bi
 pubDate: 2026-05-24
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-eye-masks-for-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sleep Eye Masks For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-eye-masks-for-flights&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Flying often means bright cabin lights and restless seats. The best eye masks for flights help block light and improve rest.**

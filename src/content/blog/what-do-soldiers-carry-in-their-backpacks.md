@@ -1,10 +1,14 @@
 ---
-title: "What Do Soldiers Carry in Their Backpacks: Essential Gear Revealed"
-description: "Have you ever wondered what soldiers carry in their backpacks? These packs are more than just a bundle of supplies. They're a lifeline, a toolkit, and a source "
+title: 'What Do Soldiers Carry in Their Backpacks: Essential Gear Revealed'
+description: 'Have you ever wondered what soldiers carry in their backpacks? These
+  packs are more than just a bundle of supplies. They''re a lifeline, a toolkit, and
+  a source '
 pubDate: 2025-12-22
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-do-soldiers-carry-in-their-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=what-do-soldiers-carry-in-their-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered what soldiers carry in their backpacks? These packs are more than just a bundle of supplies.**

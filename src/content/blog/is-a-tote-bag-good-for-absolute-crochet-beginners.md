@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is a Tote Bag Good for Absolute Crochet Beginners? Essential Guide"
 description: "Are you thinking about diving into the world of crochet? If you're new to this creative craft, you might be wondering where to start. A tote bag could be your p"
 pubDate: 2026-03-30

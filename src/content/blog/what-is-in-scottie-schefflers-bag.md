@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in Scottie Scheffler'S Bag: Golf Secrets Revealed"
 description: "Ever found yourself wondering what fuels the success of top golfers like Scottie Scheffler? You’re not alone. Delving into what’s in his bag can reveal secrets "
 pubDate: 2026-02-10

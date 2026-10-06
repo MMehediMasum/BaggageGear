@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Ingredients are in Bag Balm: Unveiling the Secret Formula"
 description: "Have you ever wondered what makes Bag Balm so effective? You're not alone. Whether you're using it for dry skin, cracked heels, or chapped lips, you probably wa"
 pubDate: 2026-04-18

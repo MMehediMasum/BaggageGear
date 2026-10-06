@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where to Drop off Thredup Bag: Easy Tips for Quick Returns"
 description: "Are you ready to declutter your closet and make some extra cash? If you've received a ThredUp bag and are wondering where to drop it off, you're in the right pl"
 pubDate: 2026-04-10

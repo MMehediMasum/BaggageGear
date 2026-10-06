@@ -1,10 +1,13 @@
 ---
-title: "Best Deal Carry On Luggage: Top Durable and Stylish Picks for Travel"
-description: "Finding the best deal on carry-on luggage can save you money and stress during travel. Choosing the right suitcase helps keep your belongings safe and organized"
+title: 'Best Deal Carry On Luggage: Top Durable and Stylish Picks for Travel'
+description: Finding the best deal on carry-on luggage can save you money and stress
+  during travel. Choosing the right suitcase helps keep your belongings safe and organized
 pubDate: 2026-08-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-deal-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-deal-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best deal on carry-on luggage can save you money and stress during travel. Choosing the right suitcase helps keep your belongings safe and organized.**

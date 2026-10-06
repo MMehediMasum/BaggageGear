@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can Boxing a Bag Help You Lose Weight: Ultimate Fat-Burning Workout"
 description: "Are you tired of the same old workout routines that leave you bored and unmotivated? Looking for an exciting way to shed those extra pounds? Boxing a bag might "
 pubDate: 2025-09-06

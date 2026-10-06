@@ -1,10 +1,13 @@
 ---
-title: "Best Dog Pack for Backpacking: Top Picks for Adventurous Canines!"
-description: "Choosing the best dog pack for backpacking helps your pet carry essentials on outdoor trips. A good pack fits well, stays comfortable, and offers enough storage"
+title: 'Best Dog Pack for Backpacking: Top Picks for Adventurous Canines!'
+description: Choosing the best dog pack for backpacking helps your pet carry essentials
+  on outdoor trips. A good pack fits well, stays comfortable, and offers enough storage
 pubDate: 2026-06-13
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-dog-pack-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-dog-pack-for-backpacking&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best dog pack for backpacking helps your pet carry essentials on outdoor trips. A good pack fits well, stays comfortable, and offers enough storage.**

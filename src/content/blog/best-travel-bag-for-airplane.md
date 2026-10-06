@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Bag for Airplane: Top Carry-On Backpacks with USB Ports"
-description: "Finding the perfect travel bag for airplane journeys can enhance your travel experience. A well-chosen bag offers convenience and peace of mind. Traveling requi"
+title: 'Best Travel Bag for Airplane: Top Carry-On Backpacks with USB Ports'
+description: Finding the perfect travel bag for airplane journeys can enhance your
+  travel experience. A well-chosen bag offers convenience and peace of mind. Traveling
+  requi
 pubDate: 2025-09-26
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-bag-for-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-bag-for-airplane&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the perfect travel bag for airplane journeys can enhance your travel experience. A well-chosen bag offers convenience and peace of mind.**

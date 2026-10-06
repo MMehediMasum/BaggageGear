@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Swiss Army Knife in Checked Luggage: Essential Rules Explained"
-description: "You're about to jet off on your next adventure, and you've packed everything you need. As you zip up your suitcase, you wonder: Can I bring a Swiss Army knife i"
+title: 'Can I Bring a Swiss Army Knife in Checked Luggage: Essential Rules Explained'
+description: 'You''re about to jet off on your next adventure, and you''ve packed
+  everything you need. As you zip up your suitcase, you wonder: Can I bring a Swiss
+  Army knife i'
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-swiss-army-knife-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-swiss-army-knife-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're about to jet off on your next adventure, and you've packed everything you need. As you zip up your suitcase, you wonder: Can I bring a Swiss Army knife in checked luggage?**

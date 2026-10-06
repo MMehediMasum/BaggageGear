@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Pepper Spray in a Carry On: Essential Travel Rules Explained"
-description: "Are you gearing up for a trip and wondering if you can pack pepper spray in your carry-on? With safety and security on everyone's mind, this is a question many "
+title: 'Can You Take Pepper Spray in a Carry On: Essential Travel Rules Explained'
+description: 'Are you gearing up for a trip and wondering if you can pack pepper spray
+  in your carry-on? With safety and security on everyone''s mind, this is a question
+  many '
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-pepper-spray-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Firearms And Weapons In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-pepper-spray-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for a trip and wondering if you can pack pepper spray in your carry-on? With safety and security on everyone's mind, this is a question many travelers ask.**

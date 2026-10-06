@@ -1,10 +1,14 @@
 ---
-title: "Can I Carry Spices into Bermuda in My Luggage? Essential Tips!"
-description: "Imagine landing in beautiful Bermuda, ready to explore its stunning landscapes and vibrant culture. But before you set off, there's a burning question: Can you "
+title: Can I Carry Spices into Bermuda in My Luggage? Essential Tips!
+description: 'Imagine landing in beautiful Bermuda, ready to explore its stunning
+  landscapes and vibrant culture. But before you set off, there''s a burning question:
+  Can you '
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-carry-spices-into-bermuda-in-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-carry-spices-into-bermuda-in-my-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine landing in beautiful Bermuda, ready to explore its stunning landscapes and vibrant culture. But before you set off, there's a burning question: Can you carry your favorite spices into Bermuda in your luggage?**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Check in 2 Luggages: Essential Tips for Stress-Free Travel"
-description: "Traveling can be both exciting and daunting, especially when it comes to packing. You might wonder, \"Can I check in 2 luggages?\" This question often pops up as "
+title: 'Can I Check in 2 Luggages: Essential Tips for Stress-Free Travel'
+description: 'Traveling can be both exciting and daunting, especially when it comes
+  to packing. You might wonder, "Can I check in 2 luggages?" This question often pops
+  up as '
 pubDate: 2025-11-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-in-2-luggages&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-in-2-luggages&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Traveling can be both exciting and daunting, especially when it comes to packing. You might wonder, "Can I check in 2 luggages?"**

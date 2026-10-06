@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Deodorant in a Carry On Bag: Ultimate TSA Guide"
-description: "Planning a trip soon? You're probably wondering about what you can pack in your carry-on bag, especially when it comes to personal care items like deodorant. Yo"
+title: 'Can You Take Deodorant in a Carry On Bag: Ultimate TSA Guide'
+description: Planning a trip soon? You're probably wondering about what you can pack
+  in your carry-on bag, especially when it comes to personal care items like deodorant.
+  Yo
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-deodorant-in-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-deodorant-in-a-carry-on-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip soon? You're probably wondering about what you can pack in your carry-on bag, especially when it comes to personal care items like deodorant.**

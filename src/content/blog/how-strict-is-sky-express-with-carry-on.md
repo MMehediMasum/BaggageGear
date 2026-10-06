@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Sky Express With Carry On: Essential Travel Tips"
-description: "Are you planning to fly with Sky Express soon? You might be wondering how strict they are with carry-on luggage. Knowing the rules can save you time, money, and"
+title: 'How Strict is Sky Express With Carry On: Essential Travel Tips'
+description: Are you planning to fly with Sky Express soon? You might be wondering
+  how strict they are with carry-on luggage. Knowing the rules can save you time,
+  money, and
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-sky-express-with-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-sky-express-with-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Sky Express soon? You might be wondering how strict they are with carry-on luggage.**

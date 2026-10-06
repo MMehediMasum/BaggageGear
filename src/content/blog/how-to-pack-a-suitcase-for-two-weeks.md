@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Suitcase for Two Weeks: Ultimate Travel Packing Guide"
-description: "Packing for a two-week trip can feel overwhelming, but it doesn't have to be. Imagine opening your suitcase at your destination and finding everything neatly or"
+title: 'How to Pack a Suitcase for Two Weeks: Ultimate Travel Packing Guide'
+description: Packing for a two-week trip can feel overwhelming, but it doesn't have
+  to be. Imagine opening your suitcase at your destination and finding everything
+  neatly or
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase-for-two-weeks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase-for-two-weeks&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing for a two-week trip can feel overwhelming, but it doesn't have to be. Imagine opening your suitcase at your destination and finding everything neatly organized and ready to go.**

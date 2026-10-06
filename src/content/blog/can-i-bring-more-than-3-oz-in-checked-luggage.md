@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring More Than 3 Oz in Checked Luggage: Essential Guide"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing. You might find yourself wondering, \"Can I bring more than 3 oz in checked lug"
+title: 'Can I Bring More Than 3 Oz in Checked Luggage: Essential Guide'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing. You might find yourself wondering, "Can I bring more than 3 oz in checked
+  lug
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-more-than-3-oz-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-more-than-3-oz-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing. You might find yourself wondering, "Can I bring more than 3 oz in checked luggage?"**

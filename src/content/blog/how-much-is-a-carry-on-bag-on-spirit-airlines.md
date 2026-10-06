@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Carry on Bag on Spirit Airlines: Ultimate Guide 2025"
-description: "Are you planning a trip and considering flying with Spirit Airlines? If so, you're likely wondering about the cost of a carry-on bag. You're not alone. Many tra"
+title: 'How Much is a Carry on Bag on Spirit Airlines: Ultimate Guide 2025'
+description: Are you planning a trip and considering flying with Spirit Airlines?
+  If so, you're likely wondering about the cost of a carry-on bag. You're not alone.
+  Many tra
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-bag-on-spirit-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-carry-on-bag-on-spirit-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and considering flying with Spirit Airlines? If so, you're likely wondering about the cost of a carry-on bag.**

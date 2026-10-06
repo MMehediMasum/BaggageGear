@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Cantilever Umbrella for Windy Conditions: Top Picks for Stability"
 description: "Choosing the best cantilever umbrella for windy conditions protects your outdoor space effectively. Strong winds demand umbrellas with sturdy frames and secure "
 pubDate: 2025-11-13

@@ -1,10 +1,14 @@
 ---
-title: "Best Size Backpack for Day Hike: Top Lightweight Picks for Comfort"
-description: "Choosing the best size backpack for a day hike is key for comfort and convenience. The right pack holds your gear without weighing you down. Day hikes need back"
+title: 'Best Size Backpack for Day Hike: Top Lightweight Picks for Comfort'
+description: Choosing the best size backpack for a day hike is key for comfort and
+  convenience. The right pack holds your gear without weighing you down. Day hikes
+  need back
 pubDate: 2026-06-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-backpack-for-day-hike&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-size-backpack-for-day-hike&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best size backpack for a day hike is key for comfort and convenience. The right pack holds your gear without weighing you down.**

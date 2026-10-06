@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Everlane Backpack: Easy Steps for Spotless Care"
-description: "You've invested in an Everlane backpack, a stylish and sustainable choice that's perfect for your everyday adventures. But after a few months of use, you might "
+title: 'How to Clean Everlane Backpack: Easy Steps for Spotless Care'
+description: 'You''ve invested in an Everlane backpack, a stylish and sustainable
+  choice that''s perfect for your everyday adventures. But after a few months of use,
+  you might '
 pubDate: 2025-12-13
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-everlane-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-everlane-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've invested in an Everlane backpack, a stylish and sustainable choice that's perfect for your everyday adventures. But after a few months of use, you might notice it doesn't look as fresh as it once did.**

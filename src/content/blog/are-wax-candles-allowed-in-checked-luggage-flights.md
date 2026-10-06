@@ -1,10 +1,14 @@
 ---
-title: "Are Wax Candles Allowed in Checked Luggage Flights? Essential Guide"
-description: "Imagine you're packing for your upcoming trip, and you're carefully choosing what to bring along. You've set aside a few of your favorite wax candles, thinking "
+title: Are Wax Candles Allowed in Checked Luggage Flights? Essential Guide
+description: 'Imagine you''re packing for your upcoming trip, and you''re carefully
+  choosing what to bring along. You''ve set aside a few of your favorite wax candles,
+  thinking '
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-wax-candles-allowed-in-checked-luggage-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-wax-candles-allowed-in-checked-luggage-flights&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're packing for your upcoming trip, and you're carefully choosing what to bring along. You've set aside a few of your favorite wax candles, thinking about how they’ll create a cozy atmosphere in your hotel room or serve as perfect souvenirs for friends back home.**

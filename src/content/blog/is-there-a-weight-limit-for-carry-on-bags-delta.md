@@ -1,10 +1,14 @@
 ---
-title: "Is There a Weight Limit for Carry on Bags Delta: Essential Guide"
-description: "Are you gearing up for your next adventure and wondering about the weight limit for carry-on bags on Delta flights? You're not alone. Many travelers find themse"
+title: 'Is There a Weight Limit for Carry on Bags Delta: Essential Guide'
+description: Are you gearing up for your next adventure and wondering about the weight
+  limit for carry-on bags on Delta flights? You're not alone. Many travelers find
+  themse
 pubDate: 2026-01-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-carry-on-bags-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-carry-on-bags-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you gearing up for your next adventure and wondering about the weight limit for carry-on bags on Delta flights? You're not alone.**

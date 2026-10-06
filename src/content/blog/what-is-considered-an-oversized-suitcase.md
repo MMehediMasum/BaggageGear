@@ -1,10 +1,14 @@
 ---
-title: "What is Considered an Oversized Suitcase: Ultimate Size Guide"
-description: "Ever found yourself at the airport, nervously watching as your suitcase inches closer to the scale? The fear of hearing those dreaded words, \"oversized luggage,"
+title: 'What is Considered an Oversized Suitcase: Ultimate Size Guide'
+description: Ever found yourself at the airport, nervously watching as your suitcase
+  inches closer to the scale? The fear of hearing those dreaded words, "oversized
+  luggage,
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-considered-an-oversized-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-considered-an-oversized-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Ever found yourself at the airport, nervously watching as your suitcase inches closer to the scale? The fear of hearing those dreaded words, "oversized luggage," can strike at any moment.**

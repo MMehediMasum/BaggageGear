@@ -1,10 +1,13 @@
 ---
-title: "What is a 62 Inch Luggage: Ultimate Guide to Travel Size"
-description: "Are you planning your next big trip and wondering about the right luggage size to bring along? If you've come across the term \"62 inch luggage\" and are curious "
+title: 'What is a 62 Inch Luggage: Ultimate Guide to Travel Size'
+description: 'Are you planning your next big trip and wondering about the right luggage
+  size to bring along? If you''ve come across the term "62 inch luggage" and are curious '
 pubDate: 2026-03-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-62-inch-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Linear Inch Luggage Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-62-inch-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big trip and wondering about the right luggage size to bring along? If you've come across the term "62 inch luggage" and are curious about what it actually means, you're in the right place.**

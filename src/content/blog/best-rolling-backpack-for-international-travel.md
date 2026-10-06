@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Backpack for International Travel: Top Picks for Savvy Travelers"
-description: "Choosing the best rolling backpack for international travel makes your trip easier and more organized. These backpacks combine wheels and backpacks for smooth c"
+title: 'Best Rolling Backpack for International Travel: Top Picks for Savvy Travelers'
+description: Choosing the best rolling backpack for international travel makes your
+  trip easier and more organized. These backpacks combine wheels and backpacks for
+  smooth c
 pubDate: 2026-07-14
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Rolling Backpacks And Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-international-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best rolling backpack for international travel makes your trip easier and more organized. These backpacks combine wheels and backpacks for smooth carrying through airports and streets.**

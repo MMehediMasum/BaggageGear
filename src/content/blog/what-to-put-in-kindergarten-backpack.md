@@ -1,10 +1,14 @@
 ---
-title: "What to Put in Kindergarten Backpack: Essential Items for Success"
-description: "Imagine it's the first day of kindergarten. Excitement fills the air, but so does a little anxiety. As you prepare your child's backpack, you might wonder what "
+title: 'What to Put in Kindergarten Backpack: Essential Items for Success'
+description: 'Imagine it''s the first day of kindergarten. Excitement fills the air,
+  but so does a little anxiety. As you prepare your child''s backpack, you might wonder
+  what '
 pubDate: 2025-09-06
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-kindergarten-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-kindergarten-backpack&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine it's the first day of kindergarten. Excitement fills the air, but so does a little anxiety.**

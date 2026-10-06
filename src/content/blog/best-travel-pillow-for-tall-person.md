@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillow for Tall Person: Ultimate Comfort on Long Flights"
-description: "Finding the best travel pillow for tall people can make any trip more comfortable. Tall travelers often struggle with neck and head support on planes or cars. T"
+title: 'Best Travel Pillow for Tall Person: Ultimate Comfort on Long Flights'
+description: Finding the best travel pillow for tall people can make any trip more
+  comfortable. Tall travelers often struggle with neck and head support on planes
+  or cars. T
 pubDate: 2026-05-17
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillow-for-tall-person&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Neck Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillow-for-tall-person&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel pillow for tall people can make any trip more comfortable. Tall travelers often struggle with neck and head support on planes or cars.**

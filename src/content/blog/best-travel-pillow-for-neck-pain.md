@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillow for Neck Pain: Discover Ultimate Comfort on the Go"
-description: "Finding the best travel pillow for neck pain can make your journey much more comfortable. A good pillow supports your neck and reduces stiffness during travel. "
+title: 'Best Travel Pillow for Neck Pain: Discover Ultimate Comfort on the Go'
+description: 'Finding the best travel pillow for neck pain can make your journey much
+  more comfortable. A good pillow supports your neck and reduces stiffness during
+  travel. '
 pubDate: 2026-05-31
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillow-for-neck-pain&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Neck Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillow-for-neck-pain&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel pillow for neck pain can make your journey much more comfortable. A good pillow supports your neck and reduces stiffness during travel.**

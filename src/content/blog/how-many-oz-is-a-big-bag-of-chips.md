@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Oz is a Big Bag of Chips: The Ultimate Guide"
 description: "Ever found yourself staring at a shelf full of snacks, wondering just how many ounces are in that big bag of chips you're about to grab? You're not alone. Wheth"
 pubDate: 2026-02-28

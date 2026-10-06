@@ -1,10 +1,14 @@
 ---
-title: "Best Adapter for International Travel: Top Picks for Seamless Connectivity"
-description: "Choosing the best adapter for international travel keeps your devices powered anywhere. A reliable travel adapter fits multiple plug types and charges quickly. "
+title: 'Best Adapter for International Travel: Top Picks for Seamless Connectivity'
+description: 'Choosing the best adapter for international travel keeps your devices
+  powered anywhere. A reliable travel adapter fits multiple plug types and charges
+  quickly. '
 pubDate: 2026-05-17
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-adapter-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-adapter-for-international-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best adapter for international travel keeps your devices powered anywhere. A reliable travel adapter fits multiple plug types and charges quickly.**

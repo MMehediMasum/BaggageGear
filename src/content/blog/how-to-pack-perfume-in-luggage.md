@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Perfume in Luggage: Expert Tips for Safe Travel"
-description: "Traveling with your favorite perfume can be a bit tricky. You don't want to arrive at your destination only to find your suitcase smelling like a broken perfume"
+title: 'How to Pack Perfume in Luggage: Expert Tips for Safe Travel'
+description: Traveling with your favorite perfume can be a bit tricky. You don't want
+  to arrive at your destination only to find your suitcase smelling like a broken
+  perfume
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-perfume-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-perfume-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with your favorite perfume can be a bit tricky. You don't want to arrive at your destination only to find your suitcase smelling like a broken perfume bottle.**

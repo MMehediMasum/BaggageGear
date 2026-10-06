@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in a Hospital Bag for Birth: Ultimate Checklist Essentials"
-description: "You're excited, maybe a little nervous, and definitely counting down the days until your baby arrives. As the due date approaches, one of the most important tas"
+title: 'What to Pack in a Hospital Bag for Birth: Ultimate Checklist Essentials'
+description: You're excited, maybe a little nervous, and definitely counting down
+  the days until your baby arrives. As the due date approaches, one of the most important
+  tas
 pubDate: 2026-02-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-birth&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-a-hospital-bag-for-birth&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **You're excited, maybe a little nervous, and definitely counting down the days until your baby arrives. As the due date approaches, one of the most important tasks on your to-do list is packing your hospital bag for birth.**

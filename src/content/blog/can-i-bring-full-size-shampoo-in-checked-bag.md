@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Full Size Shampoo in Checked Bag: Essential Travel Tips"
-description: "Traveling can be both exciting and a bit overwhelming, especially when it comes to packing. You want to make sure you have everything you need, including your f"
+title: 'Can I Bring Full Size Shampoo in Checked Bag: Essential Travel Tips'
+description: Traveling can be both exciting and a bit overwhelming, especially when
+  it comes to packing. You want to make sure you have everything you need, including
+  your f
 pubDate: 2026-02-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-full-size-shampoo-in-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-full-size-shampoo-in-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and a bit overwhelming, especially when it comes to packing. You want to make sure you have everything you need, including your favorite shampoo, but you're left wondering if you can bring a full-size bottle in your checked bag.**

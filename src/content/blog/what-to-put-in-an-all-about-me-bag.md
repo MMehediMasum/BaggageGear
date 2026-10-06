@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Put in an All About Me Bag: Essential Items for Success"
 description: "Imagine you're given a small bag and asked to fill it with items that tell your unique story. Exciting, right? That's the essence of an \"All About Me Bag. \" It'"
 pubDate: 2025-10-21

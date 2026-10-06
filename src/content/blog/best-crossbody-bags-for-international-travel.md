@@ -1,10 +1,14 @@
 ---
-title: "Best Crossbody Bags for International Travel: Top Anti-Theft Picks"
-description: "Choosing the best crossbody bag for international travel can make your trip safer and easier. These bags offer security, comfort, and enough space for your esse"
+title: 'Best Crossbody Bags for International Travel: Top Anti-Theft Picks'
+description: Choosing the best crossbody bag for international travel can make your
+  trip safer and easier. These bags offer security, comfort, and enough space for
+  your esse
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-crossbody-bags-for-international-travel&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best crossbody bag for international travel can make your trip safer and easier. These bags offer security, comfort, and enough space for your essentials.**

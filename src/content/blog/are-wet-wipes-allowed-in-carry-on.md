@@ -1,10 +1,13 @@
 ---
-title: "Are Wet Wipes Allowed in Carry On: Essential Travel Rules Revealed"
-description: "Are you gearing up for your next trip and wondering about what essentials to pack in your carry-on? Wet wipes have become a staple for many travelers, offering "
+title: 'Are Wet Wipes Allowed in Carry On: Essential Travel Rules Revealed'
+description: 'Are you gearing up for your next trip and wondering about what essentials
+  to pack in your carry-on? Wet wipes have become a staple for many travelers, offering '
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-wet-wipes-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-wet-wipes-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next trip and wondering about what essentials to pack in your carry-on? Wet wipes have become a staple for many travelers, offering convenience and cleanliness on the go.**

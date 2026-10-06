@@ -1,10 +1,14 @@
 ---
-title: "Do Not X Ray Film Bag: Protect Your Photos from Damage Now"
-description: "Imagine you're about to travel, excited about your next adventure, and you’ve got everything packed, including your precious camera gear. But wait, have you con"
+title: 'Do Not X Ray Film Bag: Protect Your Photos from Damage Now'
+description: Imagine you're about to travel, excited about your next adventure, and
+  you’ve got everything packed, including your precious camera gear. But wait, have
+  you con
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-not-x-ray-film-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=do-not-x-ray-film-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're about to travel, excited about your next adventure, and you’ve got everything packed, including your precious camera gear. But wait, have you considered how airport security could affect your film?**

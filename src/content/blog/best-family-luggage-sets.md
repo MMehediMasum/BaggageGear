@@ -1,10 +1,14 @@
 ---
-title: "Best Family Luggage Sets: Discover Top Picks for Stress-Free Travel"
-description: "Choosing the best family luggage sets makes traveling easier and more organized. Durable suitcases with smooth wheels and secure locks keep your belongings safe"
+title: 'Best Family Luggage Sets: Discover Top Picks for Stress-Free Travel'
+description: Choosing the best family luggage sets makes traveling easier and more
+  organized. Durable suitcases with smooth wheels and secure locks keep your belongings
+  safe
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-family-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-family-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best family luggage sets makes traveling easier and more organized. Durable suitcases with smooth wheels and secure locks keep your belongings safe.**

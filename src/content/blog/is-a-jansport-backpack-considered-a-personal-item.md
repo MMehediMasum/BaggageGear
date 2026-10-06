@@ -1,10 +1,14 @@
 ---
-title: "Is a Jansport Backpack Considered a Personal Item? Essential Guide"
-description: "You’re standing at the airport check-in, and the question pops into your mind: \"Is my Jansport backpack considered a personal item?\" This moment of uncertainty "
+title: Is a Jansport Backpack Considered a Personal Item? Essential Guide
+description: 'You’re standing at the airport check-in, and the question pops into
+  your mind: "Is my Jansport backpack considered a personal item?" This moment of
+  uncertainty '
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-jansport-backpack-considered-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-jansport-backpack-considered-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You’re standing at the airport check-in, and the question pops into your mind: "Is my Jansport backpack considered a personal item?" This moment of uncertainty can spark a cascade of anxiety, as you wonder if you'll face unexpected fees or a packing dilemma.**

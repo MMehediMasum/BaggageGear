@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item Bag for Spirit Airlines: Top Travel Duffels Reviewed"
-description: "Choosing the best personal item bag for Spirit Airlines can make your travel easier and more comfortable. Spirit has strict size rules, so picking the right bag"
+title: 'Best Personal Item Bag for Spirit Airlines: Top Travel Duffels Reviewed'
+description: Choosing the best personal item bag for Spirit Airlines can make your
+  travel easier and more comfortable. Spirit has strict size rules, so picking the
+  right bag
 pubDate: 2026-08-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-bag-for-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item bag for Spirit Airlines can make your travel easier and more comfortable. Spirit has strict size rules, so picking the right bag matters a lot.**

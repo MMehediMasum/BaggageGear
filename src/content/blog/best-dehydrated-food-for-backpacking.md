@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Dehydrated Food for Backpacking: Top Freeze-Dried Meals for Adventurers"
 description: "Choosing the best dehydrated food is key for a light and easy backpacking trip. These meals save space and cook quickly with just water. Backpacking needs food "
 pubDate: 2026-06-10

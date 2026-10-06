@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Lock on Your Checked Luggage: Essential Tips"
-description: "Traveling can be both exciting and stressful, especially when it comes to keeping your belongings safe. You may wonder if you can put a lock on your checked lug"
+title: 'Can You Put a Lock on Your Checked Luggage: Essential Tips'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to keeping your belongings safe. You may wonder if you can put a lock on your checked
+  lug
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-lock-on-your-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-lock-on-your-checked-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to keeping your belongings safe. You may wonder if you can put a lock on your checked luggage to give you peace of mind.**

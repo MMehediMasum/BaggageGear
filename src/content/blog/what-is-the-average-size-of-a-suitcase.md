@@ -1,10 +1,14 @@
 ---
-title: "What is the Average Size of a Suitcase: Ultimate Guide for Travelers"
-description: "Have you ever stood in front of a suitcase and wondered if it’s the right size for your trip? Choosing the perfect suitcase can make your travel experience smoo"
+title: 'What is the Average Size of a Suitcase: Ultimate Guide for Travelers'
+description: Have you ever stood in front of a suitcase and wondered if it’s the right
+  size for your trip? Choosing the perfect suitcase can make your travel experience
+  smoo
 pubDate: 2025-10-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-average-size-of-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-average-size-of-a-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood in front of a suitcase and wondered if it’s the right size for your trip? Choosing the perfect suitcase can make your travel experience smoother and less stressful.**

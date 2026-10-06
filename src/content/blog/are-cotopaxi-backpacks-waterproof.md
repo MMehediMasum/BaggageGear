@@ -1,10 +1,13 @@
 ---
-title: "Are Cotopaxi Backpacks Waterproof: Ultimate Weather Protection Guide"
-description: "Have you ever found yourself caught in an unexpected downpour, clutching your trusty backpack, and wondering if your belongings are truly safe from the elements"
+title: 'Are Cotopaxi Backpacks Waterproof: Ultimate Weather Protection Guide'
+description: Have you ever found yourself caught in an unexpected downpour, clutching
+  your trusty backpack, and wondering if your belongings are truly safe from the elements
 pubDate: 2025-12-17
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-cotopaxi-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-cotopaxi-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever found yourself caught in an unexpected downpour, clutching your trusty backpack, and wondering if your belongings are truly safe from the elements? If you're considering investing in a Cotopaxi backpack, you're probably asking yourself one crucial question: Are Cotopaxi backpacks waterproof?**

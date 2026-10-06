@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where Did Keep Calm And Carry On Come From: Unveiling History"
 description: "Have you ever spotted the phrase \"Keep Calm and Carry On\" on posters, mugs, or T-shirts and wondered where it actually came from? It's more than just a catchy s"
 pubDate: 2025-12-30

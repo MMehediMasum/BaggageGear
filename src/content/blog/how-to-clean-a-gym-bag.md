@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Gym Bag: Easy Steps for a Fresh, Odor-Free Gear"
-description: "Your gym bag sees a lot of action. From sweaty clothes to used towels, it endures quite the workout itself. But here's a thought: when was the last time you gav"
+title: 'How to Clean a Gym Bag: Easy Steps for a Fresh, Odor-Free Gear'
+description: 'Your gym bag sees a lot of action. From sweaty clothes to used towels,
+  it endures quite the workout itself. But here''s a thought: when was the last time
+  you gav'
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-gym-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Gym And Lunch Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-gym-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your gym bag sees a lot of action. From sweaty clothes to used towels, it endures quite the workout itself.**

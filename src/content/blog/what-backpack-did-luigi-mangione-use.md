@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Backpack Did Luigi Mangione Use: Ultimate Guide Revealed"
 description: "Imagine you’re about to embark on an exciting adventure, and you need the perfect backpack to accompany you. What if you could choose the same trusted gear as L"
 pubDate: 2026-01-03

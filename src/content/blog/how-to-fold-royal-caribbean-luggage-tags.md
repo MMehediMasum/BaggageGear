@@ -1,10 +1,14 @@
 ---
-title: "How to Fold Royal Caribbean Luggage Tags: Easy Step-by-Step Guide"
-description: "Are you planning an exciting cruise with Royal Caribbean and want to ensure your luggage is perfectly prepared? Properly folding your Royal Caribbean luggage ta"
+title: 'How to Fold Royal Caribbean Luggage Tags: Easy Step-by-Step Guide'
+description: Are you planning an exciting cruise with Royal Caribbean and want to
+  ensure your luggage is perfectly prepared? Properly folding your Royal Caribbean
+  luggage ta
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-royal-caribbean-luggage-tags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-royal-caribbean-luggage-tags&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning an exciting cruise with Royal Caribbean and want to ensure your luggage is perfectly prepared? Properly folding your Royal Caribbean luggage tags is a small yet crucial step that can make your boarding process smoother and stress-free.**

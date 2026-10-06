@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Cups of Tea Per Bag: Maximize Flavor & Quantity Tips"
 description: "Have you ever found yourself standing in the kitchen, staring at a box of tea bags, and wondering how many cups you can actually brew with just one bag? You're "
 pubDate: 2026-03-12

@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Elderly: Lightweight, Durable, and Easy-to-Maneuver Options"
-description: "Choosing the best luggage for elderly travelers helps make trips easier and more comfortable. Lightweight, durable, and easy-to-maneuver bags reduce strain and "
+title: 'Best Luggage for Elderly: Lightweight, Durable, and Easy-to-Maneuver Options'
+description: 'Choosing the best luggage for elderly travelers helps make trips easier
+  and more comfortable. Lightweight, durable, and easy-to-maneuver bags reduce strain
+  and '
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-elderly&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-elderly&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for elderly travelers helps make trips easier and more comfortable. Lightweight, durable, and easy-to-maneuver bags reduce strain and improve mobility.**

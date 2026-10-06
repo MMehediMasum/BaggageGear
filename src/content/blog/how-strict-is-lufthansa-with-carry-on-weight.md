@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Lufthansa With Carry on Weight: Essential Tips Revealed"
-description: "Planning your next adventure with Lufthansa? You might be wondering about their carry-on weight rules. The last thing you want is an unexpected surprise at the "
+title: 'How Strict is Lufthansa With Carry on Weight: Essential Tips Revealed'
+description: 'Planning your next adventure with Lufthansa? You might be wondering
+  about their carry-on weight rules. The last thing you want is an unexpected surprise
+  at the '
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-lufthansa-with-carry-on-weight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-lufthansa-with-carry-on-weight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure with Lufthansa? You might be wondering about their carry-on weight rules.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can I Carry a Gun in My Backpack in Texas: Essential Legal Facts"
 description: "Imagine you're planning a trip across the expansive landscapes of Texas, with its rich history and vibrant culture. As you pack your essentials, a question pops"
 pubDate: 2026-01-01

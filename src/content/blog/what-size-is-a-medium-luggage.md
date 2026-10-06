@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Medium Luggage: Ultimate Guide to Perfect Packing"
-description: "Choosing the right luggage size can feel like a daunting task. You might wonder if medium luggage is the perfect fit for your travel needs. Whether you're plann"
+title: 'What Size is a Medium Luggage: Ultimate Guide to Perfect Packing'
+description: Choosing the right luggage size can feel like a daunting task. You might
+  wonder if medium luggage is the perfect fit for your travel needs. Whether you're
+  plann
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-medium-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-medium-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the right luggage size can feel like a daunting task. You might wonder if medium luggage is the perfect fit for your travel needs.**

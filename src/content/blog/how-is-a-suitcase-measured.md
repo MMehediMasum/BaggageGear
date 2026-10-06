@@ -1,10 +1,14 @@
 ---
-title: "How is a Suitcase Measured: Expert Tips for Perfect Packing"
-description: "Have you ever found yourself struggling at the airport because your suitcase was just a tad too big? It's a common headache, but understanding how to measure yo"
+title: 'How is a Suitcase Measured: Expert Tips for Perfect Packing'
+description: Have you ever found yourself struggling at the airport because your suitcase
+  was just a tad too big? It's a common headache, but understanding how to measure
+  yo
 pubDate: 2025-10-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-is-a-suitcase-measured&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-is-a-suitcase-measured&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself struggling at the airport because your suitcase was just a tad too big? It's a common headache, but understanding how to measure your suitcase can save you from last-minute surprises and extra fees.**

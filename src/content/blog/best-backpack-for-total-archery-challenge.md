@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Total Archery Challenge: Top Durable Hunting Packs Reviewed"
-description: "Choosing the best backpack for the Total Archery Challenge is key for every archer. A good pack holds your gear safely and keeps you comfortable all day. Archer"
+title: 'Best Backpack for Total Archery Challenge: Top Durable Hunting Packs Reviewed'
+description: Choosing the best backpack for the Total Archery Challenge is key for
+  every archer. A good pack holds your gear safely and keeps you comfortable all day.
+  Archer
 pubDate: 2026-06-30
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-total-archery-challenge&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hunting Tactical And Emergency Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-total-archery-challenge&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for the Total Archery Challenge is key for every archer. A good pack holds your gear safely and keeps you comfortable all day.**

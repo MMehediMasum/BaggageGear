@@ -1,10 +1,14 @@
 ---
-title: "Best Medium Hardside Luggage: Top Picks for Seamless Travel"
-description: "Choosing the best medium hardside luggage can make travel easier and safer. This type of suitcase offers good protection and enough space for most trips. Medium"
+title: 'Best Medium Hardside Luggage: Top Picks for Seamless Travel'
+description: Choosing the best medium hardside luggage can make travel easier and
+  safer. This type of suitcase offers good protection and enough space for most trips.
+  Medium
 pubDate: 2025-11-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-medium-hardside-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-medium-hardside-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best medium hardside luggage can make travel easier and safer. This type of suitcase offers good protection and enough space for most trips.**

@@ -1,10 +1,14 @@
 ---
-title: "What to Do With an Old Backpack: Creative Ideas to Repurpose It"
-description: "Have you ever found yourself staring at an old backpack, wondering what to do with it? You're not alone. Many of us have a trusty backpack that has seen better "
+title: 'What to Do With an Old Backpack: Creative Ideas to Repurpose It'
+description: 'Have you ever found yourself staring at an old backpack, wondering what
+  to do with it? You''re not alone. Many of us have a trusty backpack that has seen
+  better '
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-do-with-an-old-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-to-do-with-an-old-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever found yourself staring at an old backpack, wondering what to do with it? You're not alone.**

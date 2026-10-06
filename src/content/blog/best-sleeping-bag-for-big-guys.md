@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Big Guys: Top XXL Options for Maximum Comfort"
-description: "Finding the best sleeping bag for big guys can be tough. Most bags do not fit well or feel uncomfortable. Big and tall men need sleeping bags with extra length,"
+title: 'Best Sleeping Bag for Big Guys: Top XXL Options for Maximum Comfort'
+description: Finding the best sleeping bag for big guys can be tough. Most bags do
+  not fit well or feel uncomfortable. Big and tall men need sleeping bags with extra
+  length,
 pubDate: 2026-06-18
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-big-guys&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-big-guys&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sleeping bag for big guys can be tough. Most bags do not fit well or feel uncomfortable.**

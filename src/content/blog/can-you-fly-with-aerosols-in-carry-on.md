@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Aerosols in Carry On: Essential Travel Tips"
-description: "Navigating airport security with your personal items can be a puzzle, especially when it comes to aerosols. You're probably wondering if you can bring your favo"
+title: 'Can You Fly With Aerosols in Carry On: Essential Travel Tips'
+description: Navigating airport security with your personal items can be a puzzle,
+  especially when it comes to aerosols. You're probably wondering if you can bring
+  your favo
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-aerosols-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-aerosols-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security with your personal items can be a puzzle, especially when it comes to aerosols. You're probably wondering if you can bring your favorite spray deodorant or hair product in your carry-on.**

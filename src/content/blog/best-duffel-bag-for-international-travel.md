@@ -1,10 +1,14 @@
 ---
-title: "Best Duffel Bag for International Travel: Top Durable and Spacious Picks"
-description: "Choosing the best duffel bag for international travel can make your trip easier and more organized. A good duffel bag offers ample space, durability, and conven"
+title: 'Best Duffel Bag for International Travel: Top Durable and Spacious Picks'
+description: Choosing the best duffel bag for international travel can make your trip
+  easier and more organized. A good duffel bag offers ample space, durability, and
+  conven
 pubDate: 2026-06-19
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-duffel-bag-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-duffel-bag-for-international-travel&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best duffel bag for international travel can make your trip easier and more organized. A good duffel bag offers ample space, durability, and convenience for any traveler.**

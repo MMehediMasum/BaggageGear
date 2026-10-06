@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Japan Airlines With Carry on Weight: Ultimate Guide"
-description: "Are you planning a trip with Japan Airlines and wondering just how strict they are about your carry-on luggage weight? You’re not alone. Many travelers find the"
+title: 'How Strict is Japan Airlines With Carry on Weight: Ultimate Guide'
+description: Are you planning a trip with Japan Airlines and wondering just how strict
+  they are about your carry-on luggage weight? You’re not alone. Many travelers find
+  the
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-japan-airlines-with-carry-on-weight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-japan-airlines-with-carry-on-weight&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Japan Airlines and wondering just how strict they are about your carry-on luggage weight? You’re not alone.**

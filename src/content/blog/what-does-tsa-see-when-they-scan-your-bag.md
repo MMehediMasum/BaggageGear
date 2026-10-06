@@ -1,10 +1,13 @@
 ---
-title: "What Does Tsa See When They Scan Your Bag: Secrets Revealed"
-description: "Ever wondered what really happens when your bag slides into that mysterious tunnel at airport security? You watch as it disappears, pondering what the TSA agent"
+title: 'What Does Tsa See When They Scan Your Bag: Secrets Revealed'
+description: Ever wondered what really happens when your bag slides into that mysterious
+  tunnel at airport security? You watch as it disappears, pondering what the TSA agent
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-tsa-see-when-they-scan-your-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-does-tsa-see-when-they-scan-your-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever wondered what really happens when your bag slides into that mysterious tunnel at airport security? You watch as it disappears, pondering what the TSA agents see on their screens.**

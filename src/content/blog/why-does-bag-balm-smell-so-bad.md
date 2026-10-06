@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Does Bag Balm Smell So Bad: Uncovering the Surprising Truth"
 description: "Have you ever opened a tin of Bag Balm and wondered why it smells so bad? You're not alone. That peculiar odor has puzzled many, leaving you curious and perhaps"
 pubDate: 2025-09-23

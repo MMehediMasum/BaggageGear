@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Luggage Dimensions: Easy Steps for Perfect Fit"
-description: "Packing for a trip can be both exciting and stressful. One of the biggest headaches is making sure your luggage meets airline size requirements. You don't want "
+title: 'How to Measure Luggage Dimensions: Easy Steps for Perfect Fit'
+description: 'Packing for a trip can be both exciting and stressful. One of the biggest
+  headaches is making sure your luggage meets airline size requirements. You don''t
+  want '
 pubDate: 2025-11-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-luggage-dimensions&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-luggage-dimensions&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a trip can be both exciting and stressful. One of the biggest headaches is making sure your luggage meets airline size requirements.**

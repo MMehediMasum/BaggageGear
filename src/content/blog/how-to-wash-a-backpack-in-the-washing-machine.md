@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Backpack in the Washing Machine: Easy, Safe Steps"
-description: "Have you ever wondered if you can toss your trusty backpack into the washing machine for a quick clean? You're not alone! Backpacks endure a lot – from daily co"
+title: 'How to Wash a Backpack in the Washing Machine: Easy, Safe Steps'
+description: Have you ever wondered if you can toss your trusty backpack into the
+  washing machine for a quick clean? You're not alone! Backpacks endure a lot – from
+  daily co
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-backpack-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-backpack-in-the-washing-machine&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if you can toss your trusty backpack into the washing machine for a quick clean? You're not alone!**

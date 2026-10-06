@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Vibrator in a Carry on Bag? TSA Rules Explained"
-description: "Are you planning a trip and wondering if you can bring a vibrator in your carry-on bag? You're not alone. With travel rules constantly changing, it's hard to kn"
+title: Can You Bring a Vibrator in a Carry on Bag? TSA Rules Explained
+description: Are you planning a trip and wondering if you can bring a vibrator in
+  your carry-on bag? You're not alone. With travel rules constantly changing, it's
+  hard to kn
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-vibrator-in-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-vibrator-in-a-carry-on-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring a vibrator in your carry-on bag? You're not alone.**

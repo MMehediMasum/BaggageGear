@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where is the Suitcase in Ninjutsu Master of Elements: Ultimate Guide"
 description: "Are you stuck trying to find the suitcase in Ninjutsu Master of Elements? You’re not alone. Many players get frustrated searching for this key item. But don’t w"
 pubDate: 2026-03-09

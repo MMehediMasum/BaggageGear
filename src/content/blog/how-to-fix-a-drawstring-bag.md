@@ -1,10 +1,14 @@
 ---
-title: "How to Fix a Drawstring Bag: Easy DIY Repairs That Last"
-description: "Picture this: you're getting ready for a day out, and just as you grab your favorite drawstring bag, the string slips out. Frustrating, right? But don't worry, "
+title: 'How to Fix a Drawstring Bag: Easy DIY Repairs That Last'
+description: 'Picture this: you''re getting ready for a day out, and just as you grab
+  your favorite drawstring bag, the string slips out. Frustrating, right? But don''t
+  worry, '
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fix-a-drawstring-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tote And Drawstring Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fix-a-drawstring-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Picture this: you're getting ready for a day out, and just as you grab your favorite drawstring bag, the string slips out. Frustrating, right?**

@@ -1,10 +1,14 @@
 ---
-title: "Best Quality Carry On Luggage for Durable and Stylish Travel Solutions"
-description: "Finding the best quality carry-on luggage makes travel easier and less stressful. A reliable carry-on fits airline rules and holds your essentials safely. Choos"
+title: Best Quality Carry On Luggage for Durable and Stylish Travel Solutions
+description: Finding the best quality carry-on luggage makes travel easier and less
+  stressful. A reliable carry-on fits airline rules and holds your essentials safely.
+  Choos
 pubDate: 2026-08-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-quality-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-quality-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best quality carry-on luggage makes travel easier and less stressful. A reliable carry-on fits airline rules and holds your essentials safely.**

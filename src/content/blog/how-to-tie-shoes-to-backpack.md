@@ -1,10 +1,14 @@
 ---
-title: "How to Tie Shoes to Backpack: Easy Steps for Secure Carrying"
-description: "Are you tired of juggling your shoes while your backpack is bursting at the seams? Imagine how much easier your travels could be if you could neatly secure your"
+title: 'How to Tie Shoes to Backpack: Easy Steps for Secure Carrying'
+description: Are you tired of juggling your shoes while your backpack is bursting
+  at the seams? Imagine how much easier your travels could be if you could neatly
+  secure your
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tie-shoes-to-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tie-shoes-to-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you tired of juggling your shoes while your backpack is bursting at the seams? Imagine how much easier your travels could be if you could neatly secure your shoes to your backpack.**

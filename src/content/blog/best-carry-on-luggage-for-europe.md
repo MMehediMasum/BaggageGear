@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Europe: Top Durable and Lightweight Picks"
-description: "Choosing the best carry-on luggage for Europe can make your trip easier and stress-free. Compact, durable bags fit airline rules and handle cobblestone streets "
+title: 'Best Carry On Luggage for Europe: Top Durable and Lightweight Picks'
+description: 'Choosing the best carry-on luggage for Europe can make your trip easier
+  and stress-free. Compact, durable bags fit airline rules and handle cobblestone
+  streets '
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage for Europe can make your trip easier and stress-free. Compact, durable bags fit airline rules and handle cobblestone streets well.**

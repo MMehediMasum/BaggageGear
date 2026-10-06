@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Luxury Bag: Top Trusted Platforms Revealed"
-description: "Are you looking to sell your luxury bag and wondering where to start? You're not alone. Whether it's a designer handbag that's been collecting dust or a piece y"
+title: 'Where Can I Sell My Luxury Bag: Top Trusted Platforms Revealed'
+description: Are you looking to sell your luxury bag and wondering where to start?
+  You're not alone. Whether it's a designer handbag that's been collecting dust or
+  a piece y
 pubDate: 2025-10-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-luxury-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-luxury-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you looking to sell your luxury bag and wondering where to start? You're not alone.**

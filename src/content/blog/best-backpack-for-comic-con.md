@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Comic Con: Top Stylish and Functional Picks"
-description: "Choosing the best backpack for Comic Con is key to enjoying the event comfortably. It must hold your gear, pins, and cosplay items securely. Comic Con fans carr"
+title: 'Best Backpack for Comic Con: Top Stylish and Functional Picks'
+description: Choosing the best backpack for Comic Con is key to enjoying the event
+  comfortably. It must hold your gear, pins, and cosplay items securely. Comic Con
+  fans carr
 pubDate: 2026-07-06
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-comic-con&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-comic-con&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for Comic Con is key to enjoying the event comfortably. It must hold your gear, pins, and cosplay items securely.**

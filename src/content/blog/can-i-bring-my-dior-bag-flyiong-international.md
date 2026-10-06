@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring My Dior Bag Flying International: Essential Travel Tips"
-description: "You’ve finally booked that international trip you’ve been dreaming about, and now you’re excitedly packing your bags. But wait, you’re wondering, \"Can I bring m"
+title: 'Can I Bring My Dior Bag Flying International: Essential Travel Tips'
+description: You’ve finally booked that international trip you’ve been dreaming about,
+  and now you’re excitedly packing your bags. But wait, you’re wondering, "Can I bring
+  m
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-my-dior-bag-flyiong-international&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-my-dior-bag-flyiong-international&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve finally booked that international trip you’ve been dreaming about, and now you’re excitedly packing your bags. But wait, you’re wondering, "Can I bring my Dior bag on this flight?"**

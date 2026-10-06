@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for LDS Missionaries: Essential Travel Gear and Gifts"
-description: "Finding the best luggage for LDS missionaries is essential for a smooth and organized mission. Missionaries need durable, practical bags that hold scriptures an"
+title: 'Best Luggage for LDS Missionaries: Essential Travel Gear and Gifts'
+description: Finding the best luggage for LDS missionaries is essential for a smooth
+  and organized mission. Missionaries need durable, practical bags that hold scriptures
+  an
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-lds-missionaries&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-lds-missionaries&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best luggage for LDS missionaries is essential for a smooth and organized mission. Missionaries need durable, practical bags that hold scriptures and travel items safely.**

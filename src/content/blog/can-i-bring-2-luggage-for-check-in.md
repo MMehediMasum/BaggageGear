@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring 2 Luggage for Check in? Ultimate Airline Guide"
-description: "Planning a trip can be exciting, yet the thought of packing often brings up one major question: \"Can I bring 2 luggage for check-in?\" You're not alone in wonder"
+title: Can I Bring 2 Luggage for Check in? Ultimate Airline Guide
+description: 'Planning a trip can be exciting, yet the thought of packing often brings
+  up one major question: "Can I bring 2 luggage for check-in?" You''re not alone in
+  wonder'
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-2-luggage-for-check-in&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-2-luggage-for-check-in&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be exciting, yet the thought of packing often brings up one major question: "Can I bring 2 luggage for check-in?" You're not alone in wondering about this.**

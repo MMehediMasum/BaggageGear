@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a North Face Backpack in the Dryer? Essential Tips"
-description: "You're standing in your laundry room, staring at your trusty North Face backpack, wondering if you can toss it in the dryer. It's a common dilemma, and you're n"
+title: Can You Put a North Face Backpack in the Dryer? Essential Tips
+description: You're standing in your laundry room, staring at your trusty North Face
+  backpack, wondering if you can toss it in the dryer. It's a common dilemma, and
+  you're n
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-north-face-backpack-in-the-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-north-face-backpack-in-the-dryer&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **You're standing in your laundry room, staring at your trusty North Face backpack, wondering if you can toss it in the dryer. It's a common dilemma, and you're not alone in questioning whether this shortcut to a dry, clean backpack is safe.**

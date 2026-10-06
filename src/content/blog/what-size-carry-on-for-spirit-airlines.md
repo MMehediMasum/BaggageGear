@@ -1,10 +1,14 @@
 ---
-title: "What Size Carry on for Spirit Airlines: Ultimate Guide 2025"
-description: "Planning a trip with Spirit Airlines? One of the first questions you might have is: what size carry-on can you bring? Knowing the exact dimensions allowed can s"
+title: 'What Size Carry on for Spirit Airlines: Ultimate Guide 2025'
+description: 'Planning a trip with Spirit Airlines? One of the first questions you
+  might have is: what size carry-on can you bring? Knowing the exact dimensions allowed
+  can s'
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-carry-on-for-spirit-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-carry-on-for-spirit-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Spirit Airlines? One of the first questions you might have is: what size carry-on can you bring?**

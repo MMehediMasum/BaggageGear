@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Briggs & Riley Luggage: Top Trusted Retailers Revealed"
-description: "Are you on the hunt for the perfect travel companion? Briggs & Riley luggage is renowned for its durability, innovative design, and lifetime guarantee. But wher"
+title: 'Where to Buy Briggs & Riley Luggage: Top Trusted Retailers Revealed'
+description: Are you on the hunt for the perfect travel companion? Briggs & Riley
+  luggage is renowned for its durability, innovative design, and lifetime guarantee.
+  But wher
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-briggs-riley-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-briggs-riley-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion? Briggs & Riley luggage is renowned for its durability, innovative design, and lifetime guarantee.**

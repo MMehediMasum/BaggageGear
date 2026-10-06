@@ -1,10 +1,14 @@
 ---
-title: "How to Fix Broken Bag Zip: Easy DIY Repair Tips That Work"
-description: "Imagine you're rushing out the door, and suddenly, the zip on your favorite bag gives way. Frustrating, right? We've all been there, and it always seems to happ"
+title: 'How to Fix Broken Bag Zip: Easy DIY Repair Tips That Work'
+description: Imagine you're rushing out the door, and suddenly, the zip on your favorite
+  bag gives way. Frustrating, right? We've all been there, and it always seems to
+  happ
 pubDate: 2025-09-01
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fix-broken-bag-zip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Fixing Backpack Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fix-broken-bag-zip&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're rushing out the door, and suddenly, the zip on your favorite bag gives way. Frustrating, right?**

@@ -1,10 +1,14 @@
 ---
-title: "Does Wrigley Field Have a Clear Bag Policy: Ultimate Guide 2025"
-description: "Are you planning a trip to Wrigley Field and wondering about their clear bag policy? You’re not alone. Navigating the rules of what you can and cannot bring to "
+title: 'Does Wrigley Field Have a Clear Bag Policy: Ultimate Guide 2025'
+description: 'Are you planning a trip to Wrigley Field and wondering about their clear
+  bag policy? You’re not alone. Navigating the rules of what you can and cannot bring
+  to '
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-wrigley-field-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-wrigley-field-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip to Wrigley Field and wondering about their clear bag policy? You’re not alone.**

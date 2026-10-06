@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Coach Bag is Real: Ultimate Authenticity Guide"
-description: "Imagine finding a Coach bag at a fraction of its retail price. Tempting, right? But then comes the nagging question: Is it genuine? With countless counterfeit p"
+title: 'How to Tell If a Coach Bag is Real: Ultimate Authenticity Guide'
+description: 'Imagine finding a Coach bag at a fraction of its retail price. Tempting,
+  right? But then comes the nagging question: Is it genuine? With countless counterfeit
+  p'
 pubDate: 2026-04-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-coach-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-coach-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine finding a Coach bag at a fraction of its retail price. Tempting, right?**

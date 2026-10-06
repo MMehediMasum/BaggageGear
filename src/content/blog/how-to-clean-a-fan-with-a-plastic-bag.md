@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Clean a Fan With a Plastic Bag: Easy & Mess-Free Guide"
 description: "Cleaning a fan might seem like a simple task, but the thought of dust flying everywhere can be daunting. Luckily, there's a clever hack that can help you tackle"
 pubDate: 2025-10-07

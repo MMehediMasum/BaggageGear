@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Red Bag Foal: Essential Facts Every Owner Must Know"
 description: "Have you ever heard the term \"Red Bag Foal\" and wondered what it means? If you're involved in the world of horses, or simply curious about equine health, unders"
 pubDate: 2026-03-26

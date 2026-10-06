@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for Under Airplane Seat: Top Compact Travel Picks"
-description: "Finding the perfect backpack to fit under an airplane seat can be challenging. Many options promise convenience and functionality. Travelers need a bag that not"
+title: 'Best Backpack for Under Airplane Seat: Top Compact Travel Picks'
+description: Finding the perfect backpack to fit under an airplane seat can be challenging.
+  Many options promise convenience and functionality. Travelers need a bag that not
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-under-airplane-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-under-airplane-seat&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the perfect backpack to fit under an airplane seat can be challenging. Many options promise convenience and functionality.**

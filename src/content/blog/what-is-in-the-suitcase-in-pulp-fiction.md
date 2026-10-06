@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in the Suitcase in Pulp Fiction: Unveiling the Mystery"
 description: "Ever found yourself captivated by a movie scene, leaving you with a mystery you just can't shake off? That's exactly what \"Pulp Fiction\" does with its enigmatic"
 pubDate: 2026-03-26

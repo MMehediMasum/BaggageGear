@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Summer Camp: Lightweight, Waterproof, and Spacious Picks"
-description: "Choosing the best backpack for summer camp helps keep gear organized and easy to carry. A good backpack fits your needs and lasts throughout the camp. Summer ca"
+title: 'Best Backpack for Summer Camp: Lightweight, Waterproof, and Spacious Picks'
+description: Choosing the best backpack for summer camp helps keep gear organized
+  and easy to carry. A good backpack fits your needs and lasts throughout the camp.
+  Summer ca
 pubDate: 2026-07-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-summer-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-summer-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for summer camp helps keep gear organized and easy to carry. A good backpack fits your needs and lasts throughout the camp.**

@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Carry on for Long Flight: Ultimate Essentials Guide"
-description: "Long flights can be both exciting and daunting. While the destination is often worth the wait, the journey there can sometimes feel never-ending. But what if th"
+title: 'What to Pack in Carry on for Long Flight: Ultimate Essentials Guide'
+description: Long flights can be both exciting and daunting. While the destination
+  is often worth the wait, the journey there can sometimes feel never-ending. But
+  what if th
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-carry-on-for-long-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-carry-on-for-long-flight&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Long flights can be both exciting and daunting. While the destination is often worth the wait, the journey there can sometimes feel never-ending.**

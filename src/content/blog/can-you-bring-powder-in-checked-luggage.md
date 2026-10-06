@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Powder in Checked Luggage: Essential Travel Rules"
-description: "Are you planning your next adventure and wondering about the rules for packing? Specifically, can you bring powder in your checked luggage? It's a common questi"
+title: 'Can You Bring Powder in Checked Luggage: Essential Travel Rules'
+description: Are you planning your next adventure and wondering about the rules for
+  packing? Specifically, can you bring powder in your checked luggage? It's a common
+  questi
 pubDate: 2025-12-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-powder-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-powder-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering about the rules for packing? Specifically, can you bring powder in your checked luggage?**

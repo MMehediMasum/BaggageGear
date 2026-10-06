@@ -1,10 +1,14 @@
 ---
-title: "Can I Pack a Knife in Hold Luggage: Essential Airport Rules Explained"
-description: "Have you ever found yourself wondering, \"Can I pack a knife in hold luggage?\" You're not alone. Many travelers like you face this question as they prepare for t"
+title: 'Can I Pack a Knife in Hold Luggage: Essential Airport Rules Explained'
+description: Have you ever found yourself wondering, "Can I pack a knife in hold luggage?"
+  You're not alone. Many travelers like you face this question as they prepare for
+  t
 pubDate: 2026-04-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-pack-a-knife-in-hold-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-pack-a-knife-in-hold-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever found yourself wondering, "Can I pack a knife in hold luggage?" You're not alone.**

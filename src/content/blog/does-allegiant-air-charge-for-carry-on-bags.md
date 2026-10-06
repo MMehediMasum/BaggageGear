@@ -1,10 +1,14 @@
 ---
-title: "Does Allegiant Air Charge for Carry on Bags? Uncover the Truth"
-description: "Are you planning a trip with Allegiant Air and wondering if you'll need to pay extra for your carry-on bag? You're not alone. Many travelers are curious about w"
+title: Does Allegiant Air Charge for Carry on Bags? Uncover the Truth
+description: Are you planning a trip with Allegiant Air and wondering if you'll need
+  to pay extra for your carry-on bag? You're not alone. Many travelers are curious
+  about w
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-allegiant-air-charge-for-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-allegiant-air-charge-for-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Allegiant Air and wondering if you'll need to pay extra for your carry-on bag? You're not alone.**

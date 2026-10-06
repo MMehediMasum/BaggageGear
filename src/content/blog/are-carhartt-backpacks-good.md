@@ -1,10 +1,14 @@
 ---
-title: "Are Carhartt Backpacks Good: Durable, Stylish, and Worth It?"
-description: "Are you on the hunt for a reliable and durable backpack? If so, you're probably wondering, \"Are Carhartt backpacks good?\" You're not alone. Many people are curi"
+title: 'Are Carhartt Backpacks Good: Durable, Stylish, and Worth It?'
+description: Are you on the hunt for a reliable and durable backpack? If so, you're
+  probably wondering, "Are Carhartt backpacks good?" You're not alone. Many people
+  are curi
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-carhartt-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-carhartt-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a reliable and durable backpack? If so, you're probably wondering, "Are Carhartt backpacks good?"**

@@ -1,10 +1,14 @@
 ---
-title: "Do They Xray Checked Luggage: What Travelers Need to Know"
-description: "Imagine this: you're preparing for an exciting trip, meticulously packing your luggage with all the essentials. But then, a question pops into your mind—what ex"
+title: 'Do They Xray Checked Luggage: What Travelers Need to Know'
+description: 'Imagine this: you''re preparing for an exciting trip, meticulously packing
+  your luggage with all the essentials. But then, a question pops into your mind—what
+  ex'
 pubDate: 2026-02-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-they-xray-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=do-they-xray-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're preparing for an exciting trip, meticulously packing your luggage with all the essentials. But then, a question pops into your mind—what exactly happens to your suitcase once you hand it over at the airport?**

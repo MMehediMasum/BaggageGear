@@ -1,10 +1,14 @@
 ---
-title: "How to Spot a Fake Bogg Bag: Ultimate Guide to Avoid Scams"
-description: "Imagine this: You’ve been eyeing the trendy Bogg Bag for months. You’ve read the reviews, seen the pictures, and can already imagine yourself carrying it to the"
+title: 'How to Spot a Fake Bogg Bag: Ultimate Guide to Avoid Scams'
+description: 'Imagine this: You’ve been eyeing the trendy Bogg Bag for months. You’ve
+  read the reviews, seen the pictures, and can already imagine yourself carrying it
+  to the'
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-bogg-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bogg Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-to-spot-a-fake-bogg-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine this: You’ve been eyeing the trendy Bogg Bag for months. You’ve read the reviews, seen the pictures, and can already imagine yourself carrying it to the beach or pool.**

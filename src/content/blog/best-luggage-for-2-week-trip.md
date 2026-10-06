@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for 2 Week Trip: Top Durable and Spacious Choices"
-description: "Choosing the best luggage for a 2-week trip can make travel easier and more comfortable. The right suitcase offers space, durability, and convenience. Packing f"
+title: 'Best Luggage for 2 Week Trip: Top Durable and Spacious Choices'
+description: Choosing the best luggage for a 2-week trip can make travel easier and
+  more comfortable. The right suitcase offers space, durability, and convenience.
+  Packing f
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-2-week-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-2-week-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a 2-week trip can make travel easier and more comfortable. The right suitcase offers space, durability, and convenience.**

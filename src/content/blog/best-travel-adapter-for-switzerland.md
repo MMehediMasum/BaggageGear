@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Switzerland: Ultimate Power Solution for Your Devices"
-description: "Traveling to Switzerland requires the right power adapter to keep your devices charged. The best travel adapters fit Swiss Type J outlets and support USB chargi"
+title: 'Best Travel Adapter for Switzerland: Ultimate Power Solution for Your Devices'
+description: Traveling to Switzerland requires the right power adapter to keep your
+  devices charged. The best travel adapters fit Swiss Type J outlets and support USB
+  chargi
 pubDate: 2026-06-05
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-switzerland&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-switzerland&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling to Switzerland requires the right power adapter to keep your devices charged. The best travel adapters fit Swiss Type J outlets and support USB charging.**

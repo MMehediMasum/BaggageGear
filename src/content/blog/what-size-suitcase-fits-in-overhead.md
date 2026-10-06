@@ -1,10 +1,13 @@
 ---
-title: "What Size Suitcase Fits in Overhead: Ultimate Carry-On Guide"
-description: "Are you tired of the anxiety that comes with boarding a plane, wondering if your suitcase will fit in the overhead bin? You’re not alone. It’s a common concern "
+title: 'What Size Suitcase Fits in Overhead: Ultimate Carry-On Guide'
+description: 'Are you tired of the anxiety that comes with boarding a plane, wondering
+  if your suitcase will fit in the overhead bin? You’re not alone. It’s a common concern '
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-suitcase-fits-in-overhead&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-suitcase-fits-in-overhead&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you tired of the anxiety that comes with boarding a plane, wondering if your suitcase will fit in the overhead bin? You’re not alone.**

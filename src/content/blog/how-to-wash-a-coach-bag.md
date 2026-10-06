@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Coach Bag: Expert Tips for Pristine Care"
-description: "Are you staring at your beloved Coach bag, worried about those stubborn stains or dull patches? You’re not alone. Many Coach bag owners find themselves wonderin"
+title: 'How to Wash a Coach Bag: Expert Tips for Pristine Care'
+description: Are you staring at your beloved Coach bag, worried about those stubborn
+  stains or dull patches? You’re not alone. Many Coach bag owners find themselves
+  wonderin
 pubDate: 2025-11-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Care
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-coach-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you staring at your beloved Coach bag, worried about those stubborn stains or dull patches? You’re not alone.**

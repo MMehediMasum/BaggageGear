@@ -1,10 +1,14 @@
 ---
-title: "Is Allegiant Checked Bag 40 Or 50 Lbs: Ultimate Weight Guide"
-description: "Planning your trip can be thrilling, but figuring out baggage rules can quickly become a headache. If you're flying with Allegiant Air, you're probably wonderin"
+title: 'Is Allegiant Checked Bag 40 Or 50 Lbs: Ultimate Weight Guide'
+description: Planning your trip can be thrilling, but figuring out baggage rules can
+  quickly become a headache. If you're flying with Allegiant Air, you're probably
+  wonderin
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-allegiant-checked-bag-40-or-50-lbs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-allegiant-checked-bag-40-or-50-lbs&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your trip can be thrilling, but figuring out baggage rules can quickly become a headache. If you're flying with Allegiant Air, you're probably wondering about their checked bag weight limits.**

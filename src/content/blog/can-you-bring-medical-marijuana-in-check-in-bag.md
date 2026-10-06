@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Medical Marijuana in Check in Bag: Essential Travel Tips"
-description: "Traveling with medical marijuana can be confusing and nerve-wracking. You might be wondering if you can bring your medical marijuana in your checked bag without"
+title: 'Can You Bring Medical Marijuana in Check in Bag: Essential Travel Tips'
+description: Traveling with medical marijuana can be confusing and nerve-wracking.
+  You might be wondering if you can bring your medical marijuana in your checked bag
+  without
 pubDate: 2026-02-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-medical-marijuana-in-check-in-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Medication In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-medical-marijuana-in-check-in-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with medical marijuana can be confusing and nerve-wracking. You might be wondering if you can bring your medical marijuana in your checked bag without facing any legal issues.**

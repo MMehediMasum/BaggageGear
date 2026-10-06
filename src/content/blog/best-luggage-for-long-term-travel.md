@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Long Term Travel: Top Durable and Lightweight Picks"
-description: "Choosing the best luggage for long term travel makes your journey easier and more comfortable. Durable, lightweight, and spacious bags suit extended trips best."
+title: 'Best Luggage for Long Term Travel: Top Durable and Lightweight Picks'
+description: Choosing the best luggage for long term travel makes your journey easier
+  and more comfortable. Durable, lightweight, and spacious bags suit extended trips
+  best.
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-long-term-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-long-term-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for long term travel makes your journey easier and more comfortable. Durable, lightweight, and spacious bags suit extended trips best.**

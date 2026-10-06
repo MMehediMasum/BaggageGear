@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack into Wrigley Field: Ultimate Guide 2025"
-description: "Imagine this: the sun is shining, the crowd is buzzing with excitement, and you're gearing up for an unforgettable day at Wrigley Field. You've got your tickets"
+title: 'Can You Bring a Backpack into Wrigley Field: Ultimate Guide 2025'
+description: 'Imagine this: the sun is shining, the crowd is buzzing with excitement,
+  and you''re gearing up for an unforgettable day at Wrigley Field. You''ve got your
+  tickets'
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-wrigley-field&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bags At Stadiums And Venues
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-wrigley-field&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: the sun is shining, the crowd is buzzing with excitement, and you're gearing up for an unforgettable day at Wrigley Field. You've got your tickets, your favorite team gear, and your trusty backpack packed with everything you need.**

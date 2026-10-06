@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Should You Deliver Breaths When Using a Bag Mask: Expert Tips"
 description: "When it comes to emergency situations, knowing how to deliver breaths using a bag mask can be a lifesaver. Your ability to perform this essential skill could ma"
 pubDate: 2026-01-24

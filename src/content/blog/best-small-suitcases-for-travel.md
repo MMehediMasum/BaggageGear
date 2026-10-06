@@ -1,10 +1,14 @@
 ---
-title: "Best Small Suitcases for Travel: Top Picks for Every Adventurer"
-description: "Choosing the best small suitcases for travel can make your trips easier and more organized. Compact, durable luggage fits overhead bins and saves time at the ai"
+title: 'Best Small Suitcases for Travel: Top Picks for Every Adventurer'
+description: Choosing the best small suitcases for travel can make your trips easier
+  and more organized. Compact, durable luggage fits overhead bins and saves time at
+  the ai
 pubDate: 2026-05-26
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-suitcases-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- General Travel Bags And Suitcases
+heroImage: https://tse1.mm.bing.net/th?q=best-small-suitcases-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best small suitcases for travel can make your trips easier and more organized. Compact, durable luggage fits overhead bins and saves time at the airport.**

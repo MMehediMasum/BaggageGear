@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for French Bulldog: Top Hands-Free Carriers for Travel"
-description: "Finding the best backpack for your French Bulldog makes travel and daily outings easier. A good backpack keeps your pet safe, comfortable, and close to you. Fre"
+title: 'Best Backpack for French Bulldog: Top Hands-Free Carriers for Travel'
+description: Finding the best backpack for your French Bulldog makes travel and daily
+  outings easier. A good backpack keeps your pet safe, comfortable, and close to you.
+  Fre
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-french-bulldog&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-french-bulldog&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for your French Bulldog makes travel and daily outings easier. A good backpack keeps your pet safe, comfortable, and close to you.**

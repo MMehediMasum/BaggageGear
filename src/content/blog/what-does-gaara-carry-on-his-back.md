@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Gaara Carry on His Back: Unveiling the Mystery"
 description: "Ever found yourself wondering about the mysterious gourd that Gaara, the enigmatic character from Naruto, carries on his back? If you're a fan of anime, especia"
 pubDate: 2025-12-24

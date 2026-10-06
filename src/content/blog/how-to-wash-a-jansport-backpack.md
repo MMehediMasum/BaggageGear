@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Jansport Backpack: Easy Steps for Deep Clean"
-description: "How to Wash a Jansport Backpack Your Jansport backpack is more than just a bag; it's a trusty companion that goes with you everywhere. From school to hiking tra"
+title: 'How to Wash a Jansport Backpack: Easy Steps for Deep Clean'
+description: How to Wash a Jansport Backpack Your Jansport backpack is more than just
+  a bag; it's a trusty companion that goes with you everywhere. From school to hiking
+  tra
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-jansport-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-jansport-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **How to Wash a Jansport Backpack Your Jansport backpack is more than just a bag; it's a trusty companion that goes with you everywhere. From school to hiking trails, it's seen it all.**

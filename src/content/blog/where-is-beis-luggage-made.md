@@ -1,10 +1,14 @@
 ---
-title: "Where is Beis Luggage Made: Unveiling Its True Origin"
-description: "Curious about where your stylish Beis luggage comes from? You're not alone. As a savvy traveler, you know the importance of understanding the origins of your tr"
+title: 'Where is Beis Luggage Made: Unveiling Its True Origin'
+description: Curious about where your stylish Beis luggage comes from? You're not
+  alone. As a savvy traveler, you know the importance of understanding the origins
+  of your tr
 pubDate: 2025-10-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-beis-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-beis-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Curious about where your stylish Beis luggage comes from? You're not alone.**

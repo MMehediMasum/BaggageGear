@@ -1,10 +1,14 @@
 ---
-title: "Where to Get Cute Backpacks: Top Trendy Picks for Every Style"
-description: "Are you on the hunt for the perfect cute backpack? Whether you're heading back to school, planning a weekend getaway, or simply want to upgrade your daily commu"
+title: 'Where to Get Cute Backpacks: Top Trendy Picks for Every Style'
+description: Are you on the hunt for the perfect cute backpack? Whether you're heading
+  back to school, planning a weekend getaway, or simply want to upgrade your daily
+  commu
 pubDate: 2025-12-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-get-cute-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-to-get-cute-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect cute backpack? Whether you're heading back to school, planning a weekend getaway, or simply want to upgrade your daily commute style, finding the right backpack can make all the difference.**

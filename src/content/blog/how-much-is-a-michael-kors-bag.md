@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Michael Kors Bag: Ultimate Price Guide 2025"
-description: "Ever spotted a Michael Kors bag that caught your eye and wondered about its price tag? You're not alone. These stylish accessories are a favorite for many, comb"
+title: 'How Much is a Michael Kors Bag: Ultimate Price Guide 2025'
+description: Ever spotted a Michael Kors bag that caught your eye and wondered about
+  its price tag? You're not alone. These stylish accessories are a favorite for many,
+  comb
 pubDate: 2026-02-27
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-michael-kors-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-michael-kors-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Ever spotted a Michael Kors bag that caught your eye and wondered about its price tag? You're not alone.**

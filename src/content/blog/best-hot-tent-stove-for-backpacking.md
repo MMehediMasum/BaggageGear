@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Hot Tent Stove for Backpacking: Top Portable Options for Adventurers"
 description: "Choosing the best hot tent stove for backpacking keeps you warm and safe in cold weather. A good stove fits your tent, is lightweight, and burns fuel efficientl"
 pubDate: 2026-06-06

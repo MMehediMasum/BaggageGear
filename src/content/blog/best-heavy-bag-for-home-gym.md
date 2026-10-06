@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Heavy Bag for Home Gym: Top Choices for Intense Workouts"
 description: "Choosing the best heavy bag for your home gym boosts your training and fitness routine. A quality punching bag offers durability, comfort, and versatility for a"
 pubDate: 2026-06-11

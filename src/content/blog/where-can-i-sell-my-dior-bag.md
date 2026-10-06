@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Sell My Dior Bag: Top Trusted Sites Revealed"
-description: "Are you staring at your exquisite Dior bag, wondering where you can sell it for the best price? You’re not alone. Many fashion enthusiasts like you are turning "
+title: 'Where Can I Sell My Dior Bag: Top Trusted Sites Revealed'
+description: 'Are you staring at your exquisite Dior bag, wondering where you can
+  sell it for the best price? You’re not alone. Many fashion enthusiasts like you
+  are turning '
 pubDate: 2026-02-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-sell-my-dior-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Selling Designer Bags
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-sell-my-dior-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you staring at your exquisite Dior bag, wondering where you can sell it for the best price? You’re not alone.**

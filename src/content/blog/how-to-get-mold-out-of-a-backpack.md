@@ -1,10 +1,14 @@
 ---
-title: "How to Get Mold Out of a Backpack: Easy and Effective Steps"
-description: "Picture this: You're ready for your next adventure, but as you reach for your trusty backpack, you're hit with an unpleasant, musty odor. You open it up and—yik"
+title: 'How to Get Mold Out of a Backpack: Easy and Effective Steps'
+description: 'Picture this: You''re ready for your next adventure, but as you reach
+  for your trusty backpack, you''re hit with an unpleasant, musty odor. You open it
+  up and—yik'
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-mold-out-of-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning A Backpack By Hand
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-mold-out-of-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: You're ready for your next adventure, but as you reach for your trusty backpack, you're hit with an unpleasant, musty odor. You open it up and—yikes!—there's mold inside.**

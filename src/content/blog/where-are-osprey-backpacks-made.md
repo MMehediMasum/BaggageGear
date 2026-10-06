@@ -1,10 +1,13 @@
 ---
-title: "Where are Osprey Backpacks Made: Unveiling Quality Origins"
-description: "Are you curious about the origins of your trusty Osprey backpack? Understanding where your gear comes from can deepen your connection to it and even influence y"
+title: 'Where are Osprey Backpacks Made: Unveiling Quality Origins'
+description: Are you curious about the origins of your trusty Osprey backpack? Understanding
+  where your gear comes from can deepen your connection to it and even influence y
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-osprey-backpacks-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-osprey-backpacks-made&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you curious about the origins of your trusty Osprey backpack? Understanding where your gear comes from can deepen your connection to it and even influence your buying decisions.**

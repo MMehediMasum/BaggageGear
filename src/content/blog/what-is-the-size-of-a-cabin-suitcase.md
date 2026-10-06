@@ -1,10 +1,14 @@
 ---
-title: "What is the Size of a Cabin Suitcase: Ultimate Guide 2025"
-description: "Have you ever found yourself standing in front of your closet, pondering over which suitcase to take for your upcoming trip? You know you need something that’s "
+title: 'What is the Size of a Cabin Suitcase: Ultimate Guide 2025'
+description: 'Have you ever found yourself standing in front of your closet, pondering
+  over which suitcase to take for your upcoming trip? You know you need something
+  that’s '
 pubDate: 2026-04-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-size-of-a-cabin-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-size-of-a-cabin-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself standing in front of your closet, pondering over which suitcase to take for your upcoming trip? You know you need something that’s not too big, yet not too small—just the right size to fit in the overhead compartment and keep your essentials close by.**

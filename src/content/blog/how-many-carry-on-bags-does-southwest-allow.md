@@ -1,10 +1,14 @@
 ---
-title: "How Many Carry on Bags Does Southwest Allow: Ultimate Guide 2025"
-description: "When you're gearing up for a trip, packing can be a puzzle. But if you're flying Southwest, you're in luck. They make traveling straightforward, especially when"
+title: 'How Many Carry on Bags Does Southwest Allow: Ultimate Guide 2025'
+description: When you're gearing up for a trip, packing can be a puzzle. But if you're
+  flying Southwest, you're in luck. They make traveling straightforward, especially
+  when
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-does-southwest-allow&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-does-southwest-allow&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **When you're gearing up for a trip, packing can be a puzzle. But if you're flying Southwest, you're in luck.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Know If a Louis Vuitton Bag is Real: Ultimate Authenticity Guide"
-description: "Imagine this: You've just spotted a Louis Vuitton bag that seems too good to be true. The price is right, the design is stunning, and you can't help but picture"
+title: 'How to Know If a Louis Vuitton Bag is Real: Ultimate Authenticity Guide'
+description: 'Imagine this: You''ve just spotted a Louis Vuitton bag that seems too
+  good to be true. The price is right, the design is stunning, and you can''t help
+  but picture'
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-know-if-a-louis-vuitton-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-know-if-a-louis-vuitton-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine this: You've just spotted a Louis Vuitton bag that seems too good to be true. The price is right, the design is stunning, and you can't help but picture it on your arm.**

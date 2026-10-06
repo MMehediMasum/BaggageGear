@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Rolling Bag Picks for Effortless Travel and Style"
-description: "Choosing the best carry-on rolling bag makes travel easier and more organized. Compact size and smooth wheels are key features for quick airport moves. A good c"
+title: Best Carry On Rolling Bag Picks for Effortless Travel and Style
+description: Choosing the best carry-on rolling bag makes travel easier and more organized.
+  Compact size and smooth wheels are key features for quick airport moves. A good
+  c
 pubDate: 2026-08-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-rolling-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-rolling-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on rolling bag makes travel easier and more organized. Compact size and smooth wheels are key features for quick airport moves.**

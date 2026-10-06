@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Hair Dryer: Top Portable Voltage Converters"
-description: "Choosing the best travel adapter for your hair dryer ensures safe and efficient use worldwide. It prevents damage from voltage differences and fits various plug"
+title: 'Best Travel Adapter for Hair Dryer: Top Portable Voltage Converters'
+description: Choosing the best travel adapter for your hair dryer ensures safe and
+  efficient use worldwide. It prevents damage from voltage differences and fits various
+  plug
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-hair-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-hair-dryer&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel adapter for your hair dryer ensures safe and efficient use worldwide. It prevents damage from voltage differences and fits various plug types.**

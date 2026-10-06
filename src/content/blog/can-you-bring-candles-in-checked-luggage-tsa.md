@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Candles in Checked Luggage TSA: Essential Rules Explained"
-description: "You’re packing for your next adventure, and you can't imagine leaving behind your favorite scented candles. They bring a touch of comfort and familiarity to any"
+title: 'Can You Bring Candles in Checked Luggage TSA: Essential Rules Explained'
+description: You’re packing for your next adventure, and you can't imagine leaving
+  behind your favorite scented candles. They bring a touch of comfort and familiarity
+  to any
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-candles-in-checked-luggage-tsa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lighters And Candles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-candles-in-checked-luggage-tsa&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re packing for your next adventure, and you can't imagine leaving behind your favorite scented candles. They bring a touch of comfort and familiarity to any hotel room, don't they?**

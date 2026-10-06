@@ -1,10 +1,14 @@
 ---
-title: "Who Makes Macys Tag Luggage Sets: Discover Top Quality Brands"
-description: "Are you curious about who is behind the sleek and stylish Macy's Tag luggage sets? You're not alone. If you’ve ever admired the chic design and durability of th"
+title: 'Who Makes Macys Tag Luggage Sets: Discover Top Quality Brands'
+description: Are you curious about who is behind the sleek and stylish Macy's Tag
+  luggage sets? You're not alone. If you’ve ever admired the chic design and durability
+  of th
 pubDate: 2026-03-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=who-makes-macys-tag-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=who-makes-macys-tag-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about who is behind the sleek and stylish Macy's Tag luggage sets? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Drawstring Bag: Easy Steps for Perfect DIY Craft"
-description: "Have you ever wanted a simple project to dive into the world of sewing? A drawstring bag might be just what you're looking for! Not only is it a practical item "
+title: 'How to Sew a Drawstring Bag: Easy Steps for Perfect DIY Craft'
+description: 'Have you ever wanted a simple project to dive into the world of sewing?
+  A drawstring bag might be just what you''re looking for! Not only is it a practical
+  item '
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-drawstring-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wanted a simple project to dive into the world of sewing? A drawstring bag might be just what you're looking for!**

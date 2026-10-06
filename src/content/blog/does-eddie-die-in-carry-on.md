@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Eddie Die in Carry On? Shocking Truth Revealed!"
 description: "Have you ever found yourself gripped by a story, heart pounding, as you wonder about the fate of your favorite character? If you're diving into \"Carry On\" and f"
 pubDate: 2026-03-05

@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Underseat Luggage for Lightweight and Convenient Travel"
-description: "Finding the best carry on underseat luggage makes travel easier and more comfortable. These bags fit perfectly under the airplane seat and keep essentials close"
+title: Best Carry On Underseat Luggage for Lightweight and Convenient Travel
+description: Finding the best carry on underseat luggage makes travel easier and more
+  comfortable. These bags fit perfectly under the airplane seat and keep essentials
+  close
 pubDate: 2026-08-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-underseat-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-underseat-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best carry on underseat luggage makes travel easier and more comfortable. These bags fit perfectly under the airplane seat and keep essentials close.**

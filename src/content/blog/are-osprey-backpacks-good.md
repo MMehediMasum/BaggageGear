@@ -1,10 +1,14 @@
 ---
-title: "Are Osprey Backpacks Good: Ultimate Review for Outdoor Enthusiasts"
-description: "Are you planning your next outdoor adventure and wondering if Osprey backpacks are the right choice for you? You’re not alone. Many outdoor enthusiasts are on t"
+title: 'Are Osprey Backpacks Good: Ultimate Review for Outdoor Enthusiasts'
+description: Are you planning your next outdoor adventure and wondering if Osprey
+  backpacks are the right choice for you? You’re not alone. Many outdoor enthusiasts
+  are on t
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-osprey-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-osprey-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next outdoor adventure and wondering if Osprey backpacks are the right choice for you? You’re not alone.**

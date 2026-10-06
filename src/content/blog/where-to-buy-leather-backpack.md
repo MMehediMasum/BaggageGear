@@ -1,10 +1,13 @@
 ---
-title: "Where to Buy Leather Backpack: Top Stores for Quality & Style"
-description: "Imagine the perfect blend of style and durability strapped on your shoulders—a leather backpack. Whether you're heading to work, school, or an adventurous weeke"
+title: 'Where to Buy Leather Backpack: Top Stores for Quality & Style'
+description: Imagine the perfect blend of style and durability strapped on your shoulders—a
+  leather backpack. Whether you're heading to work, school, or an adventurous weeke
 pubDate: 2026-03-11
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-leather-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Backpack Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-leather-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine the perfect blend of style and durability strapped on your shoulders—a leather backpack. Whether you're heading to work, school, or an adventurous weekend getaway, a leather backpack is your go-to accessory.**

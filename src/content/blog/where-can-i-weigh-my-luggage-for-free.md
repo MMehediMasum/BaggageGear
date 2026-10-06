@@ -1,10 +1,14 @@
 ---
-title: "Where Can I Weigh My Luggage for Free: Top Spots Revealed"
-description: "Are you tired of the anxiety that creeps in every time you pack your suitcase for a trip? You're not alone. We all dread the surprise fees at the airport for ov"
+title: 'Where Can I Weigh My Luggage for Free: Top Spots Revealed'
+description: Are you tired of the anxiety that creeps in every time you pack your
+  suitcase for a trip? You're not alone. We all dread the surprise fees at the airport
+  for ov
 pubDate: 2026-04-10
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-can-i-weigh-my-luggage-for-free&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-can-i-weigh-my-luggage-for-free&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of the anxiety that creeps in every time you pack your suitcase for a trip? You're not alone.**

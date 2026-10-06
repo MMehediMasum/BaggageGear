@@ -1,10 +1,14 @@
 ---
-title: "How Heavy Can Your Suitcase Be: Ultimate Guide to Airline Limits"
-description: "Have you ever found yourself at the airport, nervously watching the scale as your suitcase inches closer to the weight limit? You're not alone. Knowing how heav"
+title: 'How Heavy Can Your Suitcase Be: Ultimate Guide to Airline Limits'
+description: Have you ever found yourself at the airport, nervously watching the scale
+  as your suitcase inches closer to the weight limit? You're not alone. Knowing how
+  heav
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-heavy-can-your-suitcase-be&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-heavy-can-your-suitcase-be&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself at the airport, nervously watching the scale as your suitcase inches closer to the weight limit? You're not alone.**

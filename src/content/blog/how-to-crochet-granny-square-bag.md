@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Crochet Granny Square Bag: Easy Steps for Stylish DIY"
 description: "Imagine carrying a bag that not only stands out but also showcases your creativity. A granny square bag is more than just a trendy accessory; it's a statement o"
 pubDate: 2025-09-02

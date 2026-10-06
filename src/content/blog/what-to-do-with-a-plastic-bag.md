@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What to Do With a Plastic Bag: Creative and Eco-Friendly Ideas"
 description: "Are plastic bags piling up in your home, leaving you puzzled about what to do with them? You're not alone! Every time you shop, these bags seem to multiply, cre"
 pubDate: 2026-03-18

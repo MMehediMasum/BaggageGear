@@ -1,10 +1,14 @@
 ---
-title: "How to Remove Smell from Leather Bag: Easy and Effective Tips"
-description: "If you've ever experienced the frustration of dealing with an unpleasant smell in your beloved leather bag, you're not alone. You know that leather bags are mor"
+title: 'How to Remove Smell from Leather Bag: Easy and Effective Tips'
+description: If you've ever experienced the frustration of dealing with an unpleasant
+  smell in your beloved leather bag, you're not alone. You know that leather bags
+  are mor
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-remove-smell-from-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-remove-smell-from-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **If you've ever experienced the frustration of dealing with an unpleasant smell in your beloved leather bag, you're not alone. You know that leather bags are more than just accessories; they're a statement of style and elegance.**

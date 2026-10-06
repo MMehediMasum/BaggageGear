@@ -1,10 +1,13 @@
 ---
-title: "Will Soda Bottle Explode in Checked Luggage Reddit: Shocking Truth!"
-description: "You're packing for a trip and start wondering if you can bring your favorite soda along in your checked luggage. The last thing you want is to open your suitcas"
+title: 'Will Soda Bottle Explode in Checked Luggage Reddit: Shocking Truth!'
+description: You're packing for a trip and start wondering if you can bring your favorite
+  soda along in your checked luggage. The last thing you want is to open your suitcas
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-soda-bottle-explode-in-checked-luggage-reddit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-soda-bottle-explode-in-checked-luggage-reddit&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for a trip and start wondering if you can bring your favorite soda along in your checked luggage. The last thing you want is to open your suitcase and find a fizzy mess.**

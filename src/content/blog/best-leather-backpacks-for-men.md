@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Backpacks for Men: Stylish, Durable, and Spacious Choices"
-description: "Leather backpacks offer style and practicality for men on the go. They combine durability with classic design, perfect for various needs. Choosing the best leat"
+title: 'Best Leather Backpacks for Men: Stylish, Durable, and Spacious Choices'
+description: Leather backpacks offer style and practicality for men on the go. They
+  combine durability with classic design, perfect for various needs. Choosing the
+  best leat
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-backpacks-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luxury And Designer Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-backpacks-for-men&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Leather backpacks offer style and practicality for men on the go. They combine durability with classic design, perfect for various needs.**

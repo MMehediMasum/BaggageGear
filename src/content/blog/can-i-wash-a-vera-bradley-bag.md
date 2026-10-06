@@ -1,10 +1,14 @@
 ---
-title: "Can I Wash a Vera Bradley Bag: Easy Tips for Spotless Care"
-description: "You love your Vera Bradley bag. Its vibrant patterns and soft fabric make it a favorite accessory. But after a few uses, you might notice it’s not as pristine a"
+title: 'Can I Wash a Vera Bradley Bag: Easy Tips for Spotless Care'
+description: You love your Vera Bradley bag. Its vibrant patterns and soft fabric
+  make it a favorite accessory. But after a few uses, you might notice it’s not as
+  pristine a
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-wash-a-vera-bradley-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-wash-a-vera-bradley-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You love your Vera Bradley bag. Its vibrant patterns and soft fabric make it a favorite accessory.**

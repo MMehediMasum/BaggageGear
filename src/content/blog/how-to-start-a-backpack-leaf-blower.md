@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Start a Backpack Leaf Blower: Easy Steps for Quick Power-Up"
 description: "Are you tired of spending hours raking leaves, only for the wind to scatter them back across your yard? Imagine a crisp autumn morning where, instead of battlin"
 pubDate: 2026-01-07

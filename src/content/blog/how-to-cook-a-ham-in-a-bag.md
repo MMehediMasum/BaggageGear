@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Cook a Ham in a Bag: Easy, Juicy, and Flavorful Guide"
 description: "Are you ready to transform your holiday meal or Sunday dinner into a mouthwatering feast? Cooking a ham in a bag could be the game-changer you’ve been searching"
 pubDate: 2025-11-16

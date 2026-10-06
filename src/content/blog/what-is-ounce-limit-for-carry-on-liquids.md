@@ -1,10 +1,14 @@
 ---
-title: "What is Ounce Limit for Carry on Liquids: Essential TSA Rules Explained"
-description: "Ever stood in line at the airport, anxiously wondering if your carry-on bag will pass the security check? You’re not alone. The ounce limit for carry-on liquids"
+title: 'What is Ounce Limit for Carry on Liquids: Essential TSA Rules Explained'
+description: Ever stood in line at the airport, anxiously wondering if your carry-on
+  bag will pass the security check? You’re not alone. The ounce limit for carry-on
+  liquids
 pubDate: 2026-04-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-ounce-limit-for-carry-on-liquids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-is-ounce-limit-for-carry-on-liquids&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever stood in line at the airport, anxiously wondering if your carry-on bag will pass the security check? You’re not alone.**

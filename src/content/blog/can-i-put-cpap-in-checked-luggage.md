@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Cpap in Checked Luggage: Essential Travel Tips"
-description: "Traveling with a CPAP machine can raise questions, especially when it comes to packing it in your checked luggage. You might be wondering if this essential devi"
+title: 'Can I Put Cpap in Checked Luggage: Essential Travel Tips'
+description: Traveling with a CPAP machine can raise questions, especially when it
+  comes to packing it in your checked luggage. You might be wondering if this essential
+  devi
 pubDate: 2026-01-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-cpap-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-cpap-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with a CPAP machine can raise questions, especially when it comes to packing it in your checked luggage. You might be wondering if this essential device will be safe in the belly of the plane or if it might face damage or loss.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry Nail Cutter in Hand Luggage: Ultimate Travel Guide"
-description: "Traveling can be exciting, but packing can sometimes leave you with questions. One common dilemma is whether you can carry a nail cutter in your hand luggage. Y"
+title: 'Can You Carry Nail Cutter in Hand Luggage: Ultimate Travel Guide'
+description: Traveling can be exciting, but packing can sometimes leave you with questions.
+  One common dilemma is whether you can carry a nail cutter in your hand luggage.
+  Y
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-nail-cutter-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-nail-cutter-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be exciting, but packing can sometimes leave you with questions. One common dilemma is whether you can carry a nail cutter in your hand luggage.**

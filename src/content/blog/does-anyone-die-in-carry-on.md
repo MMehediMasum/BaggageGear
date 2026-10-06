@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Anyone Die in Carry On: Shocking Truth Revealed!"
 description: "Have you ever found yourself caught in the whirlwind of laughter that the \"Carry On\" films deliver? These British comedy classics have entertained audiences for"
 pubDate: 2026-03-24

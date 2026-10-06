@@ -1,10 +1,14 @@
 ---
-title: "How to Clean the Tote Bag Marc Jacobs: Easy Steps for Pristine Care"
-description: "Your Marc Jacobs tote bag is more than just an accessory; it’s a statement of style and sophistication. But over time, even the most cherished items can lose th"
+title: 'How to Clean the Tote Bag Marc Jacobs: Easy Steps for Pristine Care'
+description: Your Marc Jacobs tote bag is more than just an accessory; it’s a statement
+  of style and sophistication. But over time, even the most cherished items can lose
+  th
 pubDate: 2025-12-08
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-the-tote-bag-marc-jacobs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-the-tote-bag-marc-jacobs&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Marc Jacobs tote bag is more than just an accessory; it’s a statement of style and sophistication. But over time, even the most cherished items can lose their luster.**

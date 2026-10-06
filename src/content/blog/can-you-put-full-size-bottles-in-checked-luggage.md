@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Full Size Bottles in Checked Luggage: Essential Tips"
-description: "Imagine this: you're getting ready for a long-awaited vacation or an important business trip, and you've meticulously packed your bags. As you stand at the lugg"
+title: 'Can You Put Full Size Bottles in Checked Luggage: Essential Tips'
+description: 'Imagine this: you''re getting ready for a long-awaited vacation or an
+  important business trip, and you''ve meticulously packed your bags. As you stand
+  at the lugg'
 pubDate: 2025-09-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-full-size-bottles-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-full-size-bottles-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're getting ready for a long-awaited vacation or an important business trip, and you've meticulously packed your bags. As you stand at the luggage check-in counter, a question suddenly pops into your mind—can you put full-size bottles in your checked luggage?**

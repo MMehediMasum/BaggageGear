@@ -1,10 +1,14 @@
 ---
-title: "What Should You Have in a Bug Out Bag: Essential Survival Gear"
-description: "Imagine a scenario where you have to leave your home at a moment's notice. It could be due to a natural disaster, a sudden emergency, or any unforeseen event. I"
+title: 'What Should You Have in a Bug Out Bag: Essential Survival Gear'
+description: Imagine a scenario where you have to leave your home at a moment's notice.
+  It could be due to a natural disaster, a sudden emergency, or any unforeseen event.
+  I
 pubDate: 2026-04-02
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-should-you-have-in-a-bug-out-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bug Out And Go Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-should-you-have-in-a-bug-out-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Imagine a scenario where you have to leave your home at a moment's notice. It could be due to a natural disaster, a sudden emergency, or any unforeseen event.**

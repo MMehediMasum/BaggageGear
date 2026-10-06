@@ -1,10 +1,14 @@
 ---
-title: "Can I Have a Backpack And a Duffel Bag Airplane: Ultimate Carry-On Guide"
-description: "Traveling can be both exciting and daunting, especially when it comes to packing. You might wonder, \"Can I have a backpack and a duffel bag on an airplane?\" Thi"
+title: 'Can I Have a Backpack And a Duffel Bag Airplane: Ultimate Carry-On Guide'
+description: Traveling can be both exciting and daunting, especially when it comes
+  to packing. You might wonder, "Can I have a backpack and a duffel bag on an airplane?"
+  Thi
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-have-a-backpack-and-a-duffel-bag-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-i-have-a-backpack-and-a-duffel-bag-airplane&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Traveling can be both exciting and daunting, especially when it comes to packing. You might wonder, "Can I have a backpack and a duffel bag on an airplane?"**

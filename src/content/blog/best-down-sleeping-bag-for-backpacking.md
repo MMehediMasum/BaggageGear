@@ -1,10 +1,14 @@
 ---
-title: "Best Down Sleeping Bag for Backpacking: Top Lightweight Choices for Adventure"
-description: "Choosing the best down sleeping bag for backpacking can make your outdoor trips warmer and lighter. A good sleeping bag keeps you comfortable without adding ext"
+title: 'Best Down Sleeping Bag for Backpacking: Top Lightweight Choices for Adventure'
+description: Choosing the best down sleeping bag for backpacking can make your outdoor
+  trips warmer and lighter. A good sleeping bag keeps you comfortable without adding
+  ext
 pubDate: 2026-06-10
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-down-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-down-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best down sleeping bag for backpacking can make your outdoor trips warmer and lighter. A good sleeping bag keeps you comfortable without adding extra weight.**

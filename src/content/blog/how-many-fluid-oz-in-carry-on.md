@@ -1,10 +1,14 @@
 ---
-title: "How Many Fluid Oz in Carry on: Ultimate Guide for Travelers"
-description: "Are you gearing up for your next flight and wondering how many fluid ounces you can pack in your carry-on? Navigating the maze of airline regulations can be con"
+title: 'How Many Fluid Oz in Carry on: Ultimate Guide for Travelers'
+description: Are you gearing up for your next flight and wondering how many fluid
+  ounces you can pack in your carry-on? Navigating the maze of airline regulations
+  can be con
 pubDate: 2025-11-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-fluid-oz-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-fluid-oz-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next flight and wondering how many fluid ounces you can pack in your carry-on? Navigating the maze of airline regulations can be confusing, especially when it comes to liquids.**

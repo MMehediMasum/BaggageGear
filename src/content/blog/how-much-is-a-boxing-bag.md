@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Boxing Bag: Ultimate Guide to Prices & Value"
 description: "Have you ever found yourself wondering, \"How much is a boxing bag?\" Whether you're a seasoned boxer or just starting out on your fitness journey, choosing the r"
 pubDate: 2025-10-07

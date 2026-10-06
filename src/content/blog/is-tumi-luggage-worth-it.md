@@ -1,10 +1,14 @@
 ---
-title: "Is Tumi Luggage Worth It: Ultimate Review for Smart Travelers"
-description: "Are you planning your next big adventure and considering Tumi luggage for the trip? You're not alone. Many travelers wonder if Tumi is worth the investment. Wit"
+title: 'Is Tumi Luggage Worth It: Ultimate Review for Smart Travelers'
+description: Are you planning your next big adventure and considering Tumi luggage
+  for the trip? You're not alone. Many travelers wonder if Tumi is worth the investment.
+  Wit
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-tumi-luggage-worth-it&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-tumi-luggage-worth-it&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure and considering Tumi luggage for the trip? You're not alone.**

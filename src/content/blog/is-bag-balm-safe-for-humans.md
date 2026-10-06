@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Safe for Humans: Essential Facts You Must Know"
 description: "Have you ever come across a tin of Bag Balm and wondered if it's safe for you to use? Maybe you’ve heard whispers of its magical healing powers and are curious "
 pubDate: 2026-01-11

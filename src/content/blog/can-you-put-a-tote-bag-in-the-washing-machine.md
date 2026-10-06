@@ -1,10 +1,14 @@
 ---
-title: "Can You Put a Tote Bag in the Washing Machine: Essential Tips"
-description: "Have you ever wondered if you can toss your trusty tote bag into the washing machine? You're not alone. With its endless uses, from grocery shopping to beach tr"
+title: 'Can You Put a Tote Bag in the Washing Machine: Essential Tips'
+description: Have you ever wondered if you can toss your trusty tote bag into the
+  washing machine? You're not alone. With its endless uses, from grocery shopping
+  to beach tr
 pubDate: 2025-12-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-tote-bag-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-tote-bag-in-the-washing-machine&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if you can toss your trusty tote bag into the washing machine? You're not alone.**

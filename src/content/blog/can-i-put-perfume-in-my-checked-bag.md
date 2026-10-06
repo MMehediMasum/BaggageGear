@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Perfume in My Checked Bag: Essential Travel Tips"
-description: "Are you planning your next big adventure and wondering if you can bring your favorite perfume along in your checked bag? The thought of arriving at your destina"
+title: 'Can I Put Perfume in My Checked Bag: Essential Travel Tips'
+description: Are you planning your next big adventure and wondering if you can bring
+  your favorite perfume along in your checked bag? The thought of arriving at your
+  destina
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-perfume-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Perfume And Cologne In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-perfume-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure and wondering if you can bring your favorite perfume along in your checked bag? The thought of arriving at your destination without your signature scent might feel like a nightmare.**

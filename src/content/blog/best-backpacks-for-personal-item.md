@@ -1,10 +1,14 @@
 ---
-title: "Best Backpacks for Personal Item: Top Travel-Ready Carry On Picks"
-description: "Finding the best backpacks for personal items can make travel easier and more organized. These backpacks fit airline rules and hold essentials comfortably. Choo"
+title: 'Best Backpacks for Personal Item: Top Travel-Ready Carry On Picks'
+description: Finding the best backpacks for personal items can make travel easier
+  and more organized. These backpacks fit airline rules and hold essentials comfortably.
+  Choo
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpacks-for-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpacks-for-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best backpacks for personal items can make travel easier and more organized. These backpacks fit airline rules and hold essentials comfortably.**

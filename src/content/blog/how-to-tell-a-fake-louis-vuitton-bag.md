@@ -1,10 +1,14 @@
 ---
-title: "How to Tell a Fake Louis Vuitton Bag: Expert Tips to Spot Fakes"
-description: "Imagine this: You've found what seems like the perfect Louis Vuitton bag at an irresistible price. But as you prepare to make it yours, a nagging question arise"
+title: 'How to Tell a Fake Louis Vuitton Bag: Expert Tips to Spot Fakes'
+description: 'Imagine this: You''ve found what seems like the perfect Louis Vuitton
+  bag at an irresistible price. But as you prepare to make it yours, a nagging question
+  arise'
 pubDate: 2025-09-01
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-a-fake-louis-vuitton-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-a-fake-louis-vuitton-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine this: You've found what seems like the perfect Louis Vuitton bag at an irresistible price. But as you prepare to make it yours, a nagging question arises: Is it genuine?**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Store Luggage in Dx: Essential Tips for Safe Storage"
-description: "Are you planning a trip and wondering if you can store your luggage in Dx? Finding a safe and convenient place to keep your bags can make your travel experience"
+title: 'Can You Store Luggage in Dx: Essential Tips for Safe Storage'
+description: Are you planning a trip and wondering if you can store your luggage in
+  Dx? Finding a safe and convenient place to keep your bags can make your travel experience
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-store-luggage-in-dx&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-store-luggage-in-dx&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and wondering if you can store your luggage in Dx? Finding a safe and convenient place to keep your bags can make your travel experience much smoother.**

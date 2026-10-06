@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Justin Rose Bag: Ultimate Golf Gear Revealed"
 description: "Ever wonder what's inside the bag of a golf champion like Justin Rose? As a golf enthusiast, you know that every club, ball, and accessory can make a big differ"
 pubDate: 2026-03-25

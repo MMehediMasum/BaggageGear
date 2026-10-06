@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get Coin Bag in Pokemon Go: Ultimate Guide to Boost Coins"
 description: "If you're an avid Pokémon Go player, you know that collecting coins is essential for enhancing your gameplay experience. But have you ever wondered how to get t"
 pubDate: 2026-03-16

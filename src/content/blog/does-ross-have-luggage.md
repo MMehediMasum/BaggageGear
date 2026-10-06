@@ -1,10 +1,14 @@
 ---
-title: "Does Ross Have Luggage: Uncover the Truth Before You Buy!"
-description: "Curious about whether Ross carries luggage? You're not alone. Many shoppers like you are on the hunt for affordable travel gear without compromising on style or"
+title: 'Does Ross Have Luggage: Uncover the Truth Before You Buy!'
+description: Curious about whether Ross carries luggage? You're not alone. Many shoppers
+  like you are on the hunt for affordable travel gear without compromising on style
+  or
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-ross-have-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-ross-have-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Curious about whether Ross carries luggage? You're not alone.**

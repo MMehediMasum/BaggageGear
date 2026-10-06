@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Does Breathing into a Paper Bag Help: Quick Anxiety Relief Tips"
 description: "Have you ever felt the sudden rush of panic or anxiety that leaves you breathless? It’s a feeling that can be overwhelming and hard to shake off. You might have"
 pubDate: 2025-12-05

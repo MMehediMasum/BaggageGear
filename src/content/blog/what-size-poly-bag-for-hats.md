@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Size Poly Bag for Hats: Ultimate Guide to Perfect Fit"
 description: "Are you struggling to find the perfect poly bag size for your hats? Choosing the right bag isn’t just about fitting your hat inside—it protects your product, ke"
 pubDate: 2025-12-09

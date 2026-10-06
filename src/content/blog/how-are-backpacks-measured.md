@@ -1,10 +1,14 @@
 ---
-title: "How are Backpacks Measured: Ultimate Guide to Find the Perfect Fit"
-description: "Have you ever found yourself puzzled in a store aisle, unsure of how to choose the perfect backpack because you didn't understand the measurements? You're not a"
+title: 'How are Backpacks Measured: Ultimate Guide to Find the Perfect Fit'
+description: Have you ever found yourself puzzled in a store aisle, unsure of how
+  to choose the perfect backpack because you didn't understand the measurements? You're
+  not a
 pubDate: 2025-11-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-are-backpacks-measured&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-are-backpacks-measured&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself puzzled in a store aisle, unsure of how to choose the perfect backpack because you didn't understand the measurements? You're not alone.**

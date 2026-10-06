@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Luggage Sets for Effortless Travel Adventures"
-description: "Choosing the best lightweight luggage sets makes travel easier and less tiring. These sets offer durability, style, and convenience for any trip. Light luggage "
+title: Best Lightweight Luggage Sets for Effortless Travel Adventures
+description: 'Choosing the best lightweight luggage sets makes travel easier and less
+  tiring. These sets offer durability, style, and convenience for any trip. Light
+  luggage '
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight luggage sets makes travel easier and less tiring. These sets offer durability, style, and convenience for any trip.**

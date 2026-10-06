@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can I Put Shipments in a Bag Ups: Essential Tips Revealed"
 description: "Have you ever wondered if you can simply place your shipments in a bag for UPS deliveries? You’re not alone. Many people are unsure about the most efficient and"
 pubDate: 2025-11-01

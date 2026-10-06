@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Clean Backpack Sprayer After Using Roundup: Easy Steps"
 description: "Did you just finish using your backpack sprayer to tackle those pesky weeds with Roundup? Now, it's time to clean it up to keep it in top shape for future use. "
 pubDate: 2026-01-10

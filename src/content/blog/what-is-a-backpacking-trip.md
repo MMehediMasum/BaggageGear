@@ -1,10 +1,14 @@
 ---
-title: "What is a Backpacking Trip: Ultimate Guide to Adventure Travel"
-description: "Are you craving an adventure that combines the thrill of exploration with the simplicity of living out of a backpack? A backpacking trip might be exactly what y"
+title: 'What is a Backpacking Trip: Ultimate Guide to Adventure Travel'
+description: Are you craving an adventure that combines the thrill of exploration
+  with the simplicity of living out of a backpack? A backpacking trip might be exactly
+  what y
 pubDate: 2025-10-23
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-backpacking-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Travel Planning
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-backpacking-trip&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Are you craving an adventure that combines the thrill of exploration with the simplicity of living out of a backpack? A backpacking trip might be exactly what you're looking for.**

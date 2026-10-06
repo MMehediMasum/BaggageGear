@@ -1,10 +1,13 @@
 ---
-title: "Does Delta Charge to Check a Bag: Hidden Fees Explained!"
-description: "Are you planning a trip with Delta Airlines and wondering about the baggage fees? You're not alone. When it comes to flying, understanding the costs of checking"
+title: 'Does Delta Charge to Check a Bag: Hidden Fees Explained!'
+description: Are you planning a trip with Delta Airlines and wondering about the baggage
+  fees? You're not alone. When it comes to flying, understanding the costs of checking
 pubDate: 2026-01-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-delta-charge-to-check-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-delta-charge-to-check-a-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Delta Airlines and wondering about the baggage fees? You're not alone.**

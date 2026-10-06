@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Converter for Hair Dryer: Top Power Adapters Reviewed"
-description: "Traveling with your hair dryer can be tricky without the right converter. Finding the best travel converter is essential for smooth styling. Hair dryers need sp"
+title: 'Best Travel Converter for Hair Dryer: Top Power Adapters Reviewed'
+description: Traveling with your hair dryer can be tricky without the right converter.
+  Finding the best travel converter is essential for smooth styling. Hair dryers need
+  sp
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-converter-for-hair-dryer&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-converter-for-hair-dryer&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling with your hair dryer can be tricky without the right converter. Finding the best travel converter is essential for smooth styling.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Nurses: Discover the Ultimate Work and Travel Companion"
-description: "Choosing the best backpack for nurses can make daily work easier and more organized. Nurses need bags that are durable, roomy, and practical. Nurses carry many "
+title: 'Best Backpack for Nurses: Discover the Ultimate Work and Travel Companion'
+description: 'Choosing the best backpack for nurses can make daily work easier and
+  more organized. Nurses need bags that are durable, roomy, and practical. Nurses
+  carry many '
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-nurses&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tool And Trade Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-nurses&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for nurses can make daily work easier and more organized. Nurses need bags that are durable, roomy, and practical.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Hairdryer on a Carry On: Ultimate Travel Guide"
-description: "Planning your next trip but unsure about what you can pack in your carry-on? You’re not alone. Many travelers find themselves puzzled when it comes to packing e"
+title: 'Can You Bring a Hairdryer on a Carry On: Ultimate Travel Guide'
+description: Planning your next trip but unsure about what you can pack in your carry-on?
+  You’re not alone. Many travelers find themselves puzzled when it comes to packing
+  e
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-hairdryer-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-hairdryer-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning your next trip but unsure about what you can pack in your carry-on? You’re not alone.**

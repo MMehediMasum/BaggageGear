@@ -1,10 +1,14 @@
 ---
-title: "Does Airlines Allow Screws in Luggage: Essential Travel Rules Uncovered"
-description: "Are you planning a trip and wondering if you can pack screws in your luggage? You're not alone. Many travelers find themselves puzzled by airport security regul"
+title: 'Does Airlines Allow Screws in Luggage: Essential Travel Rules Uncovered'
+description: Are you planning a trip and wondering if you can pack screws in your
+  luggage? You're not alone. Many travelers find themselves puzzled by airport security
+  regul
 pubDate: 2026-02-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-airlines-allow-screws-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=does-airlines-allow-screws-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack screws in your luggage? You're not alone.**

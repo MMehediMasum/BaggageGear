@@ -1,10 +1,14 @@
 ---
-title: "Does Globe Life Field Have a Clear Bag Policy? Essential Guide"
-description: "Planning a visit to Globe Life Field? Excitement is in the air, but hold on—are you aware of the stadium's clear bag policy? Whether you're a die-hard fan geari"
+title: Does Globe Life Field Have a Clear Bag Policy? Essential Guide
+description: Planning a visit to Globe Life Field? Excitement is in the air, but hold
+  on—are you aware of the stadium's clear bag policy? Whether you're a die-hard fan
+  geari
 pubDate: 2026-01-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-globe-life-field-have-a-clear-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=does-globe-life-field-have-a-clear-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a visit to Globe Life Field? Excitement is in the air, but hold on—are you aware of the stadium's clear bag policy?**

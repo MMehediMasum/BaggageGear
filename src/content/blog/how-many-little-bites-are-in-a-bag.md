@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Little Bites are in a Bag: Surprising Count Revealed"
 description: "Have you ever found yourself enjoying a bag of Little Bites, only to suddenly wonder just how many of those delicious morsels are tucked inside? You're not alon"
 pubDate: 2026-02-05

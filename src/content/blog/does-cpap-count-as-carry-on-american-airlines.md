@@ -1,10 +1,14 @@
 ---
-title: "Does Cpap Count As Carry on American Airlines? Essential Guide"
-description: "Are you planning a trip with American Airlines and wondering if your CPAP machine can be taken as a carry-on? You're not alone. Many travelers with sleep apnea "
+title: Does Cpap Count As Carry on American Airlines? Essential Guide
+description: 'Are you planning a trip with American Airlines and wondering if your
+  CPAP machine can be taken as a carry-on? You''re not alone. Many travelers with
+  sleep apnea '
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-american-airlines&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip with American Airlines and wondering if your CPAP machine can be taken as a carry-on? You're not alone.**

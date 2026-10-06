@@ -1,10 +1,14 @@
 ---
-title: "What are the Dimensions of a Regular Backpack: Ultimate Size Guide"
-description: "Are you about to buy a new backpack? Or perhaps you're just curious about how spacious your current one really is. Understanding the dimensions of a regular bac"
+title: 'What are the Dimensions of a Regular Backpack: Ultimate Size Guide'
+description: Are you about to buy a new backpack? Or perhaps you're just curious about
+  how spacious your current one really is. Understanding the dimensions of a regular
+  bac
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-regular-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Sizes And Capacity
+heroImage: https://tse1.mm.bing.net/th?q=what-are-the-dimensions-of-a-regular-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you about to buy a new backpack? Or perhaps you're just curious about how spacious your current one really is.**

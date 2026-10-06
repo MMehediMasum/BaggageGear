@@ -1,10 +1,13 @@
 ---
-title: "Is a Diaper Bag Considered a Personal Item? Essential Travel Tips"
-description: "Are you planning a trip with your little one and wondering how to navigate the maze of airline rules? You’re not alone. Many parents find themselves scratching "
+title: Is a Diaper Bag Considered a Personal Item? Essential Travel Tips
+description: 'Are you planning a trip with your little one and wondering how to navigate
+  the maze of airline rules? You’re not alone. Many parents find themselves scratching '
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-diaper-bag-considered-a-personal-item&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-diaper-bag-considered-a-personal-item&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with your little one and wondering how to navigate the maze of airline rules? You’re not alone.**

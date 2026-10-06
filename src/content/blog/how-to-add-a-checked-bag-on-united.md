@@ -1,10 +1,14 @@
 ---
-title: "How to Add a Checked Bag on United: Easy Steps for Stress-Free Travel"
-description: "Planning a trip with United Airlines and need to bring more than just your carry-on? You’re not alone. Many travelers find themselves puzzled when it comes to a"
+title: 'How to Add a Checked Bag on United: Easy Steps for Stress-Free Travel'
+description: Planning a trip with United Airlines and need to bring more than just
+  your carry-on? You’re not alone. Many travelers find themselves puzzled when it
+  comes to a
 pubDate: 2026-03-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-add-a-checked-bag-on-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-to-add-a-checked-bag-on-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with United Airlines and need to bring more than just your carry-on? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Is There Luggage Storage at Penn Station: Ultimate Guide 2025"
-description: "Planning a visit to New York City? One of your first stops might be Penn Station. It’s a bustling hub with trains coming and going at all hours, and you might f"
+title: 'Is There Luggage Storage at Penn Station: Ultimate Guide 2025'
+description: Planning a visit to New York City? One of your first stops might be Penn
+  Station. It’s a bustling hub with trains coming and going at all hours, and you
+  might f
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-luggage-storage-at-penn-station&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=is-there-luggage-storage-at-penn-station&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a visit to New York City? One of your first stops might be Penn Station.**

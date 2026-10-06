@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Empty a Foley Bag: Step-by-Step Guide"
 description: "Dealing with a Foley bag might seem tricky if you’re new to it, but it doesn’t have to be. Knowing how to empty your Foley bag safely and effectively is importa"
 pubDate: 2026-01-18

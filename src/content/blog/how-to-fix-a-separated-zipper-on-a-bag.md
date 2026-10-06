@@ -1,10 +1,14 @@
 ---
-title: "How to Fix a Separated Zipper on a Bag: Easy DIY Solutions"
-description: "Imagine you’re rushing out the door, ready to tackle your day, and you grab your favorite bag. Suddenly, you notice the zipper is separated, and your items are "
+title: 'How to Fix a Separated Zipper on a Bag: Easy DIY Solutions'
+description: 'Imagine you’re rushing out the door, ready to tackle your day, and you
+  grab your favorite bag. Suddenly, you notice the zipper is separated, and your items
+  are '
 pubDate: 2025-10-18
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fix-a-separated-zipper-on-a-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Fixing Backpack Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fix-a-separated-zipper-on-a-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you’re rushing out the door, ready to tackle your day, and you grab your favorite bag. Suddenly, you notice the zipper is separated, and your items are at risk of spilling everywhere.**

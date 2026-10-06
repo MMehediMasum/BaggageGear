@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Converter for Curling Iron: Top Voltage Adapters Reviewed"
-description: "Finding the best travel converter for your curling iron ensures safe and reliable use abroad. A good converter protects your device from voltage differences wor"
+title: 'Best Travel Converter for Curling Iron: Top Voltage Adapters Reviewed'
+description: Finding the best travel converter for your curling iron ensures safe
+  and reliable use abroad. A good converter protects your device from voltage differences
+  wor
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-converter-for-curling-iron&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-converter-for-curling-iron&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel converter for your curling iron ensures safe and reliable use abroad. A good converter protects your device from voltage differences worldwide.**

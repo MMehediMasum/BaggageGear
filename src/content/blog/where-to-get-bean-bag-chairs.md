@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where to Get Bean Bag Chairs: Top Spots for Ultimate Comfort"
 description: "Are you on the hunt for the perfect bean bag chair to complete your living space, home office, or cozy reading nook? You’ve come to the right place. Bean bag ch"
 pubDate: 2026-03-23

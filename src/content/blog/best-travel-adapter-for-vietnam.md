@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Vietnam: Your Essential Power Companion for Asia Adventures"
-description: "Choosing the best travel adapter for Vietnam ensures your devices stay charged and ready. Vietnam uses Type A, C, and D plugs with 220V voltage and 50Hz frequen"
+title: 'Best Travel Adapter for Vietnam: Your Essential Power Companion for Asia Adventures'
+description: Choosing the best travel adapter for Vietnam ensures your devices stay
+  charged and ready. Vietnam uses Type A, C, and D plugs with 220V voltage and 50Hz
+  frequen
 pubDate: 2026-05-14
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-vietnam&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-vietnam&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best travel adapter for Vietnam ensures your devices stay charged and ready. Vietnam uses Type A, C, and D plugs with 220V voltage and 50Hz frequency.**

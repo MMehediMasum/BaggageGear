@@ -1,10 +1,14 @@
 ---
-title: "Best Camera Bag for Sony A7Iv: Top Picks for Ultimate Protection"
-description: "Choosing the best camera bag for your Sony A7IV protects your gear and keeps it organized. A good bag offers durability, space, and easy access. The Sony A7IV i"
+title: 'Best Camera Bag for Sony A7Iv: Top Picks for Ultimate Protection'
+description: Choosing the best camera bag for your Sony A7IV protects your gear and
+  keeps it organized. A good bag offers durability, space, and easy access. The Sony
+  A7IV i
 pubDate: 2026-06-12
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-camera-bag-for-sony-a7iv&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camera Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-camera-bag-for-sony-a7iv&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best camera bag for your Sony A7IV protects your gear and keeps it organized. A good bag offers durability, space, and easy access.**

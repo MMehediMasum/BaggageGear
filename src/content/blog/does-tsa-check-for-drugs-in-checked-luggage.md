@@ -1,10 +1,14 @@
 ---
-title: "Does Tsa Check for Drugs in Checked Luggage? Essential Facts Revealed"
-description: "Imagine the anticipation of planning a trip, packing your bags, and heading to the airport. But a lingering question hangs in the air: does the TSA check for dr"
+title: Does Tsa Check for Drugs in Checked Luggage? Essential Facts Revealed
+description: 'Imagine the anticipation of planning a trip, packing your bags, and
+  heading to the airport. But a lingering question hangs in the air: does the TSA
+  check for dr'
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-tsa-check-for-drugs-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- TSA Screening Of Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=does-tsa-check-for-drugs-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine the anticipation of planning a trip, packing your bags, and heading to the airport. But a lingering question hangs in the air: does the TSA check for drugs in your checked luggage?**

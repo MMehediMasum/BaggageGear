@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long Do a Bag of Potatoes Last: Ultimate Freshness Guide"
 description: "Have you ever found a forgotten bag of potatoes in your pantry and wondered if they're still good to eat? You're not alone. Potatoes are a staple in many kitche"
 pubDate: 2025-10-15

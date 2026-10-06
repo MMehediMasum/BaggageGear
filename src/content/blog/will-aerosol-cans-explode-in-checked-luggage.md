@@ -1,10 +1,13 @@
 ---
-title: "Will Aerosol Cans Explode in Checked Luggage? Safety Tips Revealed"
-description: "Imagine you're eagerly packing for your upcoming trip, carefully deciding what to take along. Among your essentials are a few aerosol cans—perhaps your favorite"
+title: Will Aerosol Cans Explode in Checked Luggage? Safety Tips Revealed
+description: Imagine you're eagerly packing for your upcoming trip, carefully deciding
+  what to take along. Among your essentials are a few aerosol cans—perhaps your favorite
 pubDate: 2025-12-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-aerosol-cans-explode-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=will-aerosol-cans-explode-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine you're eagerly packing for your upcoming trip, carefully deciding what to take along. Among your essentials are a few aerosol cans—perhaps your favorite deodorant or a trusty hairspray.**

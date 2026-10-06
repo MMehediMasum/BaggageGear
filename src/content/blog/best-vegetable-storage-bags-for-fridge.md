@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Vegetable Storage Bags for Fridge to Keep Produce Fresh Longer"
 description: "Choosing the best vegetable storage bags for your fridge helps keep produce fresh longer. These bags reduce waste and save money by preserving fruits and vegeta"
 pubDate: 2026-05-28

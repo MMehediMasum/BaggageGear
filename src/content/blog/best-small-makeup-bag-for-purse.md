@@ -1,10 +1,14 @@
 ---
-title: "Best Small Makeup Bag for Purse: Stylish, Compact, and Travel-Ready Essentials"
-description: "Finding the best small makeup bag for your purse helps keep your essentials neat and easy to reach. Compact, stylish, and practical bags fit perfectly in any ha"
+title: 'Best Small Makeup Bag for Purse: Stylish, Compact, and Travel-Ready Essentials'
+description: Finding the best small makeup bag for your purse helps keep your essentials
+  neat and easy to reach. Compact, stylish, and practical bags fit perfectly in any
+  ha
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-makeup-bag-for-purse&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cosmetic And Makeup Travel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-small-makeup-bag-for-purse&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best small makeup bag for your purse helps keep your essentials neat and easy to reach. Compact, stylish, and practical bags fit perfectly in any handbag.**

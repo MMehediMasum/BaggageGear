@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Hair Tools in Carry On: Essential Travel Rules Revealed"
-description: "Are you packing for an exciting trip and wondering if you can bring your hair tools in your carry-on luggage? You’re not alone! Many travelers face this dilemma"
+title: 'Can You Bring Hair Tools in Carry On: Essential Travel Rules Revealed'
+description: Are you packing for an exciting trip and wondering if you can bring your
+  hair tools in your carry-on luggage? You’re not alone! Many travelers face this
+  dilemma
 pubDate: 2025-11-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-hair-tools-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-hair-tools-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you packing for an exciting trip and wondering if you can bring your hair tools in your carry-on luggage? You’re not alone!**

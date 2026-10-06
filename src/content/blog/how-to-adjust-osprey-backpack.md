@@ -1,10 +1,14 @@
 ---
-title: "How to Adjust Osprey Backpack: Ultimate Guide for Perfect Fit"
-description: "Ever felt the discomfort of a poorly fitted backpack digging into your shoulders? You're not alone. When you're out exploring the great outdoors, the last thing"
+title: 'How to Adjust Osprey Backpack: Ultimate Guide for Perfect Fit'
+description: Ever felt the discomfort of a poorly fitted backpack digging into your
+  shoulders? You're not alone. When you're out exploring the great outdoors, the last
+  thing
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-adjust-osprey-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-adjust-osprey-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever felt the discomfort of a poorly fitted backpack digging into your shoulders? You're not alone.**

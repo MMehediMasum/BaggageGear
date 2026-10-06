@@ -1,10 +1,14 @@
 ---
-title: "Best Day Backpack for Travel: Top Lightweight and Versatile Picks"
-description: "Choosing the best day backpack for travel makes your trips easier and more organized. A good backpack holds essentials, stays comfortable, and fits your style. "
+title: 'Best Day Backpack for Travel: Top Lightweight and Versatile Picks'
+description: 'Choosing the best day backpack for travel makes your trips easier and
+  more organized. A good backpack holds essentials, stays comfortable, and fits your
+  style. '
 pubDate: 2026-07-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-day-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-day-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best day backpack for travel makes your trips easier and more organized. A good backpack holds essentials, stays comfortable, and fits your style.**

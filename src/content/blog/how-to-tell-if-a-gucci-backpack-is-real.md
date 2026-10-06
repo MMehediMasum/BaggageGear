@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Gucci Backpack is Real: Expert Authentication Tips"
-description: "You’ve finally found a Gucci backpack that you absolutely love. But there's just one nagging thought in your mind: is it the real deal? With so many replicas fl"
+title: 'How to Tell If a Gucci Backpack is Real: Expert Authentication Tips'
+description: 'You’ve finally found a Gucci backpack that you absolutely love. But
+  there''s just one nagging thought in your mind: is it the real deal? With so many
+  replicas fl'
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-gucci-backpack-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Gucci Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-gucci-backpack-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve finally found a Gucci backpack that you absolutely love. But there's just one nagging thought in your mind: is it the real deal?**

@@ -1,10 +1,13 @@
 ---
-title: "Can Spray Deodorant Go in Carry On: Essential Travel Rules Revealed"
-description: "You've meticulously packed your carry-on for your upcoming flight, double-checking each item to ensure it meets airline regulations. But then, you pause at your"
+title: 'Can Spray Deodorant Go in Carry On: Essential Travel Rules Revealed'
+description: You've meticulously packed your carry-on for your upcoming flight, double-checking
+  each item to ensure it meets airline regulations. But then, you pause at your
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-spray-deodorant-go-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-spray-deodorant-go-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've meticulously packed your carry-on for your upcoming flight, double-checking each item to ensure it meets airline regulations. But then, you pause at your spray deodorant.**

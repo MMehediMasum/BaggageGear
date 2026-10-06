@@ -1,10 +1,14 @@
 ---
-title: "How Much to Tip Bellman for Luggage: Ultimate Guide 2025"
-description: "You've just arrived at your hotel after a long journey, and the bellman is there to whisk your luggage away, making your check-in experience smooth and stress-f"
+title: 'How Much to Tip Bellman for Luggage: Ultimate Guide 2025'
+description: You've just arrived at your hotel after a long journey, and the bellman
+  is there to whisk your luggage away, making your check-in experience smooth and
+  stress-f
 pubDate: 2026-02-21
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-tip-bellman-for-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hotel Luggage Holding And Tipping
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-tip-bellman-for-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've just arrived at your hotel after a long journey, and the bellman is there to whisk your luggage away, making your check-in experience smooth and stress-free. But then it hits you: how much should you tip the bellman for their service?**

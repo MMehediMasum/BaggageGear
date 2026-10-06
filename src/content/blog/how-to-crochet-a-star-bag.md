@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Crochet a Star Bag: Easy Steps for a Stunning Accessory"
 description: "Ever dreamed of crafting your own stylish accessory that turns heads wherever you go? Imagine stepping out with a unique, handmade star bag that showcases your "
 pubDate: 2025-10-16

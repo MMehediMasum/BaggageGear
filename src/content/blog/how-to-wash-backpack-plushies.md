@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Backpack Plushies: Easy Steps for Spotless Soft Toys"
-description: "Your backpack plushies are more than just cute accessories—they’re little companions that brighten your day. But over time, dirt, sweat, and dust can make them "
+title: 'How to Wash Backpack Plushies: Easy Steps for Spotless Soft Toys'
+description: 'Your backpack plushies are more than just cute accessories—they’re little
+  companions that brighten your day. But over time, dirt, sweat, and dust can make
+  them '
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-backpack-plushies&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-backpack-plushies&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your backpack plushies are more than just cute accessories—they’re little companions that brighten your day. But over time, dirt, sweat, and dust can make them look dull and feel less soft.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Mount a Heavy Bag in Garage: Easy Steps for Safe Setup"
 description: "Mounting a heavy bag in your garage can transform your workout routine and elevate your fitness game. Imagine having the perfect spot to unleash stress, improve"
 pubDate: 2025-09-16

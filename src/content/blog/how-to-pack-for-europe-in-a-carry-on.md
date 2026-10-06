@@ -1,10 +1,13 @@
 ---
-title: "How to Pack for Europe in a Carry On: Ultimate Space-Saving Guide"
-description: "Planning a trip to Europe is exciting, but packing can be a challenge, especially if you're sticking to a carry-on. You might be wondering how to fit everything"
+title: 'How to Pack for Europe in a Carry On: Ultimate Space-Saving Guide'
+description: Planning a trip to Europe is exciting, but packing can be a challenge,
+  especially if you're sticking to a carry-on. You might be wondering how to fit everything
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-for-europe-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-for-europe-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Planning a trip to Europe is exciting, but packing can be a challenge, especially if you're sticking to a carry-on. You might be wondering how to fit everything you need without compromising on style or comfort.**

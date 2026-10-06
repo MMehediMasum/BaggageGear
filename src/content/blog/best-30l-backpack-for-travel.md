@@ -1,10 +1,13 @@
 ---
-title: "Best 30L Backpack for Travel: Top Lightweight, Water-Resistant Picks"
-description: "Choosing the best 30L backpack for travel helps you pack smart and stay organized. A good backpack fits essentials without being too bulky or heavy. A 30-liter "
+title: 'Best 30L Backpack for Travel: Top Lightweight, Water-Resistant Picks'
+description: 'Choosing the best 30L backpack for travel helps you pack smart and stay
+  organized. A good backpack fits essentials without being too bulky or heavy. A 30-liter '
 pubDate: 2026-07-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-30l-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-30l-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best 30L backpack for travel helps you pack smart and stay organized. A good backpack fits essentials without being too bulky or heavy.**

@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in My Personal Bag for Flying: Ultimate Essentials Guide"
-description: "You're standing at the edge of your next adventure, ticket in hand, ready to take to the skies. But there's one question lingering: \"What should I pack in my pe"
+title: 'What to Pack in My Personal Bag for Flying: Ultimate Essentials Guide'
+description: 'You''re standing at the edge of your next adventure, ticket in hand,
+  ready to take to the skies. But there''s one question lingering: "What should I
+  pack in my pe'
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-my-personal-bag-for-flying&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-my-personal-bag-for-flying&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **You're standing at the edge of your next adventure, ticket in hand, ready to take to the skies. But there's one question lingering: "What should I pack in my personal bag for flying?"**

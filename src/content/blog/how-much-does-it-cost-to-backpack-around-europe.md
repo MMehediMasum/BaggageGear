@@ -1,10 +1,13 @@
 ---
-title: "How Much Does It Cost to Backpack around Europe: Ultimate Budget Guide"
-description: "Dreaming of wandering through the cobblestone streets of Paris, sipping espresso in a quaint Italian café, or exploring the ancient ruins of Greece? Backpacking"
+title: 'How Much Does It Cost to Backpack around Europe: Ultimate Budget Guide'
+description: Dreaming of wandering through the cobblestone streets of Paris, sipping
+  espresso in a quaint Italian café, or exploring the ancient ruins of Greece? Backpacking
 pubDate: 2025-12-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-backpack-around-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Travel Planning
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-backpack-around-europe&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Dreaming of wandering through the cobblestone streets of Paris, sipping espresso in a quaint Italian café, or exploring the ancient ruins of Greece? Backpacking around Europe offers a world of diverse experiences and breathtaking sights.**

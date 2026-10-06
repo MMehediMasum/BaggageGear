@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With a Stoma Bag: Essential Travel Tips Revealed"
-description: "Flying with a stoma bag might seem daunting, but you're not alone in wondering how it all works. This journey is filled with questions and maybe even a bit of a"
+title: 'Can You Fly With a Stoma Bag: Essential Travel Tips Revealed'
+description: Flying with a stoma bag might seem daunting, but you're not alone in
+  wondering how it all works. This journey is filled with questions and maybe even
+  a bit of a
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-a-stoma-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-a-stoma-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Flying with a stoma bag might seem daunting, but you're not alone in wondering how it all works. This journey is filled with questions and maybe even a bit of anxiety.**

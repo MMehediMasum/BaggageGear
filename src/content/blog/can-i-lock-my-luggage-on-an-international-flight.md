@@ -1,10 +1,14 @@
 ---
-title: "Can I Lock My Luggage on an International Flight? Expert Tips!"
-description: "Are you gearing up for your next adventure across the globe? As you pack your bags and plan your itinerary, one question might keep popping into your mind: \"Can"
+title: Can I Lock My Luggage on an International Flight? Expert Tips!
+description: 'Are you gearing up for your next adventure across the globe? As you
+  pack your bags and plan your itinerary, one question might keep popping into your
+  mind: "Can'
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-lock-my-luggage-on-an-international-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-lock-my-luggage-on-an-international-flight&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you gearing up for your next adventure across the globe? As you pack your bags and plan your itinerary, one question might keep popping into your mind: "Can I lock my luggage on an international flight?"**

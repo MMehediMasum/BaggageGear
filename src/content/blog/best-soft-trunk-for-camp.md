@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Trunk for Camp: Durable Storage Solutions for Adventurers"
-description: "Choosing the best soft trunk for camp makes packing and organizing gear easier. A good trunk offers durability, space, and convenience for any trip. Camping req"
+title: 'Best Soft Trunk for Camp: Durable Storage Solutions for Adventurers'
+description: Choosing the best soft trunk for camp makes packing and organizing gear
+  easier. A good trunk offers durability, space, and convenience for any trip. Camping
+  req
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-trunk-for-camp&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Summer Camp Bags And Trunks
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-trunk-for-camp&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best soft trunk for camp makes packing and organizing gear easier. A good trunk offers durability, space, and convenience for any trip.**

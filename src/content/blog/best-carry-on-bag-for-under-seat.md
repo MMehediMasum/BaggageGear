@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Bag for Under Seat: Top Picks for Travelers"
-description: "Choosing the best carry-on bag for under seat use makes travel easier and less stressful. These bags fit airline rules and keep essentials close during flights."
+title: 'Best Carry On Bag for Under Seat: Top Picks for Travelers'
+description: Choosing the best carry-on bag for under seat use makes travel easier
+  and less stressful. These bags fit airline rules and keep essentials close during
+  flights.
 pubDate: 2025-09-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-under-seat&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-bag-for-under-seat&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on bag for under seat use makes travel easier and less stressful. These bags fit airline rules and keep essentials close during flights.**

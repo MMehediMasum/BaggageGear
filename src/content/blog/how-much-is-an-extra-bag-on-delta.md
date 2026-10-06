@@ -1,10 +1,14 @@
 ---
-title: "How Much is an Extra Bag on Delta: Ultimate Fee Guide 2025"
-description: "Planning your next adventure? You're probably excited about the trip, but there might be a tiny detail that's causing a bit of stress: figuring out how much an "
+title: 'How Much is an Extra Bag on Delta: Ultimate Fee Guide 2025'
+description: 'Planning your next adventure? You''re probably excited about the trip,
+  but there might be a tiny detail that''s causing a bit of stress: figuring out how
+  much an '
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-an-extra-bag-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-an-extra-bag-on-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next adventure? You're probably excited about the trip, but there might be a tiny detail that's causing a bit of stress: figuring out how much an extra bag on Delta will cost you.**

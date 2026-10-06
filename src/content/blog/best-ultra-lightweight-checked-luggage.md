@@ -1,10 +1,14 @@
 ---
-title: "Best Ultra Lightweight Checked Luggage for Stress-Free Travel Adventures"
-description: "Choosing the best ultra lightweight checked luggage makes travel easier and less tiring. The right suitcase offers durability, smooth wheels, and extra space wi"
+title: Best Ultra Lightweight Checked Luggage for Stress-Free Travel Adventures
+description: Choosing the best ultra lightweight checked luggage makes travel easier
+  and less tiring. The right suitcase offers durability, smooth wheels, and extra
+  space wi
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-ultra-lightweight-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-ultra-lightweight-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best ultra lightweight checked luggage makes travel easier and less tiring. The right suitcase offers durability, smooth wheels, and extra space without heavy weight.**

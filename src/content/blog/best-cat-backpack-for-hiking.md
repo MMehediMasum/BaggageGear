@@ -1,10 +1,14 @@
 ---
-title: "Best Cat Backpack for Hiking: Top Comfortable & Breathable Carriers"
-description: "Finding the best cat backpack for hiking makes outdoor adventures easier and safer. A good backpack keeps your pet comfortable and secure on the trail. Hiking w"
+title: 'Best Cat Backpack for Hiking: Top Comfortable & Breathable Carriers'
+description: Finding the best cat backpack for hiking makes outdoor adventures easier
+  and safer. A good backpack keeps your pet comfortable and secure on the trail. Hiking
+  w
 pubDate: 2026-06-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cat-backpack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-cat-backpack-for-hiking&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best cat backpack for hiking makes outdoor adventures easier and safer. A good backpack keeps your pet comfortable and secure on the trail.**

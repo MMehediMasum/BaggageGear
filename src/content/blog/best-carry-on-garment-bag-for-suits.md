@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Garment Bag for Suits: Top Travel & Business Picks"
-description: "Choosing the best carry on garment bag protects your suits during travel. A good bag keeps clothes neat, wrinkle-free, and easy to carry. Traveling with suits n"
+title: 'Best Carry On Garment Bag for Suits: Top Travel & Business Picks'
+description: Choosing the best carry on garment bag protects your suits during travel.
+  A good bag keeps clothes neat, wrinkle-free, and easy to carry. Traveling with suits
+  n
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-garment-bag-for-suits&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-garment-bag-for-suits&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry on garment bag protects your suits during travel. A good bag keeps clothes neat, wrinkle-free, and easy to carry.**

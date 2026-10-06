@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Vera Bradley Bag: Easy Steps for Spotless Care"
-description: "Are you worried about keeping your beloved Vera Bradley bag looking as vibrant as the day you bought it? You’re not alone. These beautifully patterned bags have"
+title: 'How to Clean a Vera Bradley Bag: Easy Steps for Spotless Care'
+description: Are you worried about keeping your beloved Vera Bradley bag looking as
+  vibrant as the day you bought it? You’re not alone. These beautifully patterned
+  bags have
 pubDate: 2025-09-08
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-vera-bradley-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-vera-bradley-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you worried about keeping your beloved Vera Bradley bag looking as vibrant as the day you bought it? You’re not alone.**

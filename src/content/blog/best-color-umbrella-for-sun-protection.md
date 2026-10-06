@@ -1,10 +1,13 @@
 ---
-title: "Best Color Umbrella for Sun Protection: Top Picks for UV Safety"
-description: "Choosing the best color umbrella can improve your sun protection significantly. Color affects how much UV light the umbrella blocks from the sun. A good umbrell"
+title: 'Best Color Umbrella for Sun Protection: Top Picks for UV Safety'
+description: Choosing the best color umbrella can improve your sun protection significantly.
+  Color affects how much UV light the umbrella blocks from the sun. A good umbrell
 pubDate: 2026-05-21
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-color-umbrella-for-sun-protection&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Travel Accessories
+heroImage: https://tse1.mm.bing.net/th?q=best-color-umbrella-for-sun-protection&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best color umbrella can improve your sun protection significantly. Color affects how much UV light the umbrella blocks from the sun.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Beach Umbrella for Plane Travel: Compact, Portable, and UV Protected"
-description: "Finding the best beach umbrella for plane travel means choosing one that is lightweight, compact, and strong. A good umbrella keeps you safe from the sun and fi"
+title: 'Best Beach Umbrella for Plane Travel: Compact, Portable, and UV Protected'
+description: Finding the best beach umbrella for plane travel means choosing one that
+  is lightweight, compact, and strong. A good umbrella keeps you safe from the sun
+  and fi
 pubDate: 2025-10-23
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-beach-umbrella-for-plane-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Travel Accessories
+heroImage: https://tse1.mm.bing.net/th?q=best-beach-umbrella-for-plane-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best beach umbrella for plane travel means choosing one that is lightweight, compact, and strong. A good umbrella keeps you safe from the sun and fits easily in your luggage.**

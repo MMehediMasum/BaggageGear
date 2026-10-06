@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Shoes in Carry On: Smart Tips for Space Saving"
-description: "Imagine you're preparing for a trip, and the struggle of packing your shoes in a carry-on becomes a daunting task. You want to fit everything you need without s"
+title: 'How to Pack Shoes in Carry On: Smart Tips for Space Saving'
+description: Imagine you're preparing for a trip, and the struggle of packing your
+  shoes in a carry-on becomes a daunting task. You want to fit everything you need
+  without s
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-shoes-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Clothes And Shoes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-shoes-in-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine you're preparing for a trip, and the struggle of packing your shoes in a carry-on becomes a daunting task. You want to fit everything you need without sacrificing style or comfort, but how?**

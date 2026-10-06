@@ -1,10 +1,13 @@
 ---
-title: "Does Cpap Count As Carry on Southwest? Essential Travel Tips"
-description: "Traveling can be stressful, especially when you're managing medical equipment like a CPAP machine. If you're flying with Southwest Airlines, you might be wonder"
+title: Does Cpap Count As Carry on Southwest? Essential Travel Tips
+description: Traveling can be stressful, especially when you're managing medical equipment
+  like a CPAP machine. If you're flying with Southwest Airlines, you might be wonder
 pubDate: 2026-01-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- CPAP And Medical Gear Flying
+heroImage: https://tse1.mm.bing.net/th?q=does-cpap-count-as-carry-on-southwest&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be stressful, especially when you're managing medical equipment like a CPAP machine. If you're flying with Southwest Airlines, you might be wondering, "Does a CPAP count as a carry-on?"**

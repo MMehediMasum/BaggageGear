@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Large Backpack: Ultimate Guide to Perfect Fit"
-description: "Have you ever found yourself standing in an outdoor gear store, staring at a wall of backpacks, and wondering, \"What size is a large backpack?\" You're not alone"
+title: 'What Size is a Large Backpack: Ultimate Guide to Perfect Fit'
+description: Have you ever found yourself standing in an outdoor gear store, staring
+  at a wall of backpacks, and wondering, "What size is a large backpack?" You're not
+  alone
 pubDate: 2025-12-23
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-large-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-large-backpack&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself standing in an outdoor gear store, staring at a wall of backpacks, and wondering, "What size is a large backpack?" You're not alone.**

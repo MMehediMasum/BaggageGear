@@ -1,10 +1,14 @@
 ---
-title: "Can I Carry Artificial Jewellery in Hand Luggage: Essential Travel Tips"
-description: "Are you planning a trip and wondering whether you can carry your beloved artificial jewellery in your hand luggage? You're not alone! Many travelers find themse"
+title: 'Can I Carry Artificial Jewellery in Hand Luggage: Essential Travel Tips'
+description: Are you planning a trip and wondering whether you can carry your beloved
+  artificial jewellery in your hand luggage? You're not alone! Many travelers find
+  themse
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-carry-artificial-jewellery-in-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-carry-artificial-jewellery-in-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering whether you can carry your beloved artificial jewellery in your hand luggage? You're not alone!**

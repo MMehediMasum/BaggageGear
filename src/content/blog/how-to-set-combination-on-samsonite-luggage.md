@@ -1,10 +1,14 @@
 ---
-title: "How to Set Combination on Samsonite Luggage: Easy Step-by-Step Guide"
-description: "Unlocking the secrets of your Samsonite luggage can feel like finding the key to a treasure chest. Imagine the peace of mind you'll have knowing your valuables "
+title: 'How to Set Combination on Samsonite Luggage: Easy Step-by-Step Guide'
+description: 'Unlocking the secrets of your Samsonite luggage can feel like finding
+  the key to a treasure chest. Imagine the peace of mind you''ll have knowing your
+  valuables '
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-set-combination-on-samsonite-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-set-combination-on-samsonite-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Unlocking the secrets of your Samsonite luggage can feel like finding the key to a treasure chest. Imagine the peace of mind you'll have knowing your valuables are safely secured.**

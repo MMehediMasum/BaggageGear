@@ -1,10 +1,13 @@
 ---
-title: "How to Wash a Canvas Tote Bag: Easy Steps for Lasting Cleanliness"
-description: "Have you ever noticed how your trusty canvas tote bag can get a little grubby over time? Whether it's your go-to for groceries, books, or just about everything,"
+title: 'How to Wash a Canvas Tote Bag: Easy Steps for Lasting Cleanliness'
+description: Have you ever noticed how your trusty canvas tote bag can get a little
+  grubby over time? Whether it's your go-to for groceries, books, or just about everything,
 pubDate: 2025-12-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-canvas-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-canvas-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever noticed how your trusty canvas tote bag can get a little grubby over time? Whether it's your go-to for groceries, books, or just about everything, your tote bag deserves some TLC.**

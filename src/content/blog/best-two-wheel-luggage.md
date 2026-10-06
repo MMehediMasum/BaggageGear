@@ -1,10 +1,14 @@
 ---
-title: "Best Two Wheel Luggage for Effortless Travel and Maximum Durability"
-description: "Two wheel luggage offers easy maneuverability and reliable support for travelers. Choosing the right set simplifies trips and protects belongings. Traveling lig"
+title: Best Two Wheel Luggage for Effortless Travel and Maximum Durability
+description: Two wheel luggage offers easy maneuverability and reliable support for
+  travelers. Choosing the right set simplifies trips and protects belongings. Traveling
+  lig
 pubDate: 2025-10-08
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-two-wheel-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-two-wheel-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Two wheel luggage offers easy maneuverability and reliable support for travelers. Choosing the right set simplifies trips and protects belongings.**

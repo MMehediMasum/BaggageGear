@@ -1,10 +1,14 @@
 ---
-title: "Can I Put My Laptop Charger in My Checked Bag? Travel Safety Tips"
-description: "Are you planning your next big trip and wondering, \"Can I put my laptop charger in my checked bag?\" This question might seem simple, but getting it right is cru"
+title: Can I Put My Laptop Charger in My Checked Bag? Travel Safety Tips
+description: Are you planning your next big trip and wondering, "Can I put my laptop
+  charger in my checked bag?" This question might seem simple, but getting it right
+  is cru
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-my-laptop-charger-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-my-laptop-charger-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big trip and wondering, "Can I put my laptop charger in my checked bag?" This question might seem simple, but getting it right is crucial for a hassle-free travel experience.**

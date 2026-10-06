@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Carry on With United Basic Economy? Essential Tips!"
-description: "Navigating the maze of airline policies can often feel like a puzzle, especially when you're trying to pack for a trip. If you're flying with United Airlines an"
+title: Can I Bring a Carry on With United Basic Economy? Essential Tips!
+description: Navigating the maze of airline policies can often feel like a puzzle,
+  especially when you're trying to pack for a trip. If you're flying with United Airlines
+  an
 pubDate: 2025-11-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-carry-on-with-united-basic-economy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-carry-on-with-united-basic-economy&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Navigating the maze of airline policies can often feel like a puzzle, especially when you're trying to pack for a trip. If you're flying with United Airlines and considering their Basic Economy option, you might be wondering about the carry-on baggage rules.**

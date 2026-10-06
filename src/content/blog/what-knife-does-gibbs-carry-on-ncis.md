@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Knife Does Gibbs Carry on NCIS: Revealing the Iconic Blade"
 description: "Ever found yourself glued to the screen watching NCIS and wondering about the knife that Gibbs always carries? You're not alone. This iconic piece of his charac"
 pubDate: 2026-01-31

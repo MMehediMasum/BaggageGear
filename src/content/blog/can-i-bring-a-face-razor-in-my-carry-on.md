@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Face Razor in My Carry On: TSA Rules Explained"
-description: "Ever found yourself packing for a trip and wondering, \"Can I bring a face razor in my carry-on?\" You're not alone. The rules around what you can and can't bring"
+title: 'Can I Bring a Face Razor in My Carry On: TSA Rules Explained'
+description: Ever found yourself packing for a trip and wondering, "Can I bring a
+  face razor in my carry-on?" You're not alone. The rules around what you can and
+  can't bring
 pubDate: 2026-04-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-face-razor-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-face-razor-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Ever found yourself packing for a trip and wondering, "Can I bring a face razor in my carry-on?" You're not alone.**

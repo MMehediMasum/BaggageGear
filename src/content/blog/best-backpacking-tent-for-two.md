@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Tent for Two: Lightweight, Waterproof, Easy Setup Picks"
 description: "Finding the best backpacking tent for two means balancing weight, space, and weather protection. A good tent keeps you dry and comfortable on any trip. Choosing"
 pubDate: 2025-10-19

@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Hobo Bag: Easy Steps for Stylish DIY Fashion"
-description: "Are you looking to add a personal touch to your style without spending a fortune? Learning how to sew a hobo bag might be just the creative outlet you need. Thi"
+title: 'How to Sew a Hobo Bag: Easy Steps for Stylish DIY Fashion'
+description: Are you looking to add a personal touch to your style without spending
+  a fortune? Learning how to sew a hobo bag might be just the creative outlet you
+  need. Thi
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-hobo-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Handbags And Zippers
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-hobo-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you looking to add a personal touch to your style without spending a fortune? Learning how to sew a hobo bag might be just the creative outlet you need.**

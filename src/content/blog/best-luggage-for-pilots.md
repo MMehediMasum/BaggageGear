@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Pilots: Top Carry-On Suitcases for Easy Travel"
-description: "Choosing the best luggage for pilots means finding bags that combine durability, convenience, and style. Pilots need luggage that fits airline rules and handles"
+title: 'Best Luggage for Pilots: Top Carry-On Suitcases for Easy Travel'
+description: Choosing the best luggage for pilots means finding bags that combine
+  durability, convenience, and style. Pilots need luggage that fits airline rules
+  and handles
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-pilots&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-pilots&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for pilots means finding bags that combine durability, convenience, and style. Pilots need luggage that fits airline rules and handles frequent travel with ease.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Hang Punching Bag in Garage: Easy Steps for Perfect Setup"
 description: "Looking to transform your garage into a personal gym? Hanging a punching bag is a fantastic start. Whether you're a seasoned boxer or a fitness enthusiast, havi"
 pubDate: 2026-03-16

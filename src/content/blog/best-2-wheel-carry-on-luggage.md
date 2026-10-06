@@ -1,10 +1,14 @@
 ---
-title: "Best 2 Wheel Carry on Luggage for Lightweight and Durable Travel Gear"
-description: "Choosing the best 2 wheel carry on luggage makes travel easier and more convenient. These suitcases offer lightweight, durable, and compact options for any trip"
+title: Best 2 Wheel Carry on Luggage for Lightweight and Durable Travel Gear
+description: Choosing the best 2 wheel carry on luggage makes travel easier and more
+  convenient. These suitcases offer lightweight, durable, and compact options for
+  any trip
 pubDate: 2025-11-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-2-wheel-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-2-wheel-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best 2 wheel carry on luggage makes travel easier and more convenient. These suitcases offer lightweight, durable, and compact options for any trip.**

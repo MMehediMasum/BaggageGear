@@ -1,10 +1,14 @@
 ---
-title: "How Much Does It Cost to Ship Luggage: Ultimate Guide & Tips"
-description: "Are you tired of lugging heavy suitcases through crowded airports, only to be hit with unexpected baggage fees? Shipping your luggage ahead of time might be the"
+title: 'How Much Does It Cost to Ship Luggage: Ultimate Guide & Tips'
+description: Are you tired of lugging heavy suitcases through crowded airports, only
+  to be hit with unexpected baggage fees? Shipping your luggage ahead of time might
+  be the
 pubDate: 2026-02-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-ship-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shipping Luggage Costs
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-it-cost-to-ship-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of lugging heavy suitcases through crowded airports, only to be hit with unexpected baggage fees? Shipping your luggage ahead of time might be the solution you’ve been searching for.**

@@ -1,10 +1,14 @@
 ---
-title: "How to Spot Authentic Lv Bag: Ultimate Guide to Avoid Fakes"
-description: "Imagine you've just spotted a stunning Louis Vuitton bag in a shop or online, and you're tempted to make it your next prized possession. But before you reach fo"
+title: 'How to Spot Authentic Lv Bag: Ultimate Guide to Avoid Fakes'
+description: Imagine you've just spotted a stunning Louis Vuitton bag in a shop or
+  online, and you're tempted to make it your next prized possession. But before you
+  reach fo
 pubDate: 2026-02-10
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-spot-authentic-lv-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Louis Vuitton Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-spot-authentic-lv-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine you've just spotted a stunning Louis Vuitton bag in a shop or online, and you're tempted to make it your next prized possession. But before you reach for your wallet, how can you be sure it's the real deal?**

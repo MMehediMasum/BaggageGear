@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Backpack to Six Flags Over Texas: Ultimate Guide 2025"
-description: "Planning a day of thrills at Six Flags Over Texas? You might be wondering if you can bring along your trusty backpack. After all, it’s your go-to for carrying s"
+title: 'Can I Bring a Backpack to Six Flags Over Texas: Ultimate Guide 2025'
+description: Planning a day of thrills at Six Flags Over Texas? You might be wondering
+  if you can bring along your trusty backpack. After all, it’s your go-to for carrying
+  s
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-six-flags-over-texas&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-backpack-to-six-flags-over-texas&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a day of thrills at Six Flags Over Texas? You might be wondering if you can bring along your trusty backpack.**

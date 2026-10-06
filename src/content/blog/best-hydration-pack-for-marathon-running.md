@@ -1,10 +1,14 @@
 ---
-title: "Best Hydration Pack for Marathon Running: Lightweight Vests for Peak Performance"
-description: "Staying hydrated during marathon running is essential for peak performance and safety. Choosing the right hydration pack helps runners carry water comfortably a"
+title: 'Best Hydration Pack for Marathon Running: Lightweight Vests for Peak Performance'
+description: Staying hydrated during marathon running is essential for peak performance
+  and safety. Choosing the right hydration pack helps runners carry water comfortably
+  a
 pubDate: 2025-10-06
-author: "ivercalloway"
-categories: ["Packing & Organizers"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hydration-pack-for-marathon-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hydration Packs For Running
+heroImage: https://tse1.mm.bing.net/th?q=best-hydration-pack-for-marathon-running&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Staying hydrated during marathon running is essential for peak performance and safety. Choosing the right hydration pack helps runners carry water comfortably and easily.**

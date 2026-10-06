@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Aer Lingus About Carry On Size: Essential Guide"
-description: "Are you planning a trip and flying with Aer Lingus? You might be wondering, \"How strict is Aer Lingus about carry on size?\" Navigating airline baggage rules can"
+title: 'How Strict is Aer Lingus About Carry On Size: Essential Guide'
+description: Are you planning a trip and flying with Aer Lingus? You might be wondering,
+  "How strict is Aer Lingus about carry on size?" Navigating airline baggage rules
+  can
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-aer-lingus-about-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-aer-lingus-about-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and flying with Aer Lingus? You might be wondering, "How strict is Aer Lingus about carry on size?"**

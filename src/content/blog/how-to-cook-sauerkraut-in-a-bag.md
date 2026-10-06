@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Cook Sauerkraut in a Bag: Easy, Quick & Delicious Guide"
 description: "Do you love the tangy taste of sauerkraut but dread the mess of traditional cooking methods? Imagine making this delicious, fermented delight without the hassle"
 pubDate: 2025-11-02

@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Blazer into a Suitcase: Expert Tips for Wrinkle-Free Travel"
-description: "Traveling with a blazer can be a challenge. You want to look sharp, but the thought of arriving with a wrinkled jacket is daunting. Picture this: you reach your"
+title: 'How to Fold a Blazer into a Suitcase: Expert Tips for Wrinkle-Free Travel'
+description: 'Traveling with a blazer can be a challenge. You want to look sharp,
+  but the thought of arriving with a wrinkled jacket is daunting. Picture this: you
+  reach your'
 pubDate: 2026-04-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-blazer-into-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Blazers And Sport Coats
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-blazer-into-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Traveling with a blazer can be a challenge. You want to look sharp, but the thought of arriving with a wrinkled jacket is daunting.**

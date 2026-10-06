@@ -1,10 +1,14 @@
 ---
-title: "Where to Donate Suitcases for Foster Care near Me: Top Local Spots"
-description: "Imagine the difference you can make by giving a child in foster care a sense of dignity and hope. If you have an unused suitcase gathering dust, it could be the"
+title: 'Where to Donate Suitcases for Foster Care near Me: Top Local Spots'
+description: Imagine the difference you can make by giving a child in foster care
+  a sense of dignity and hope. If you have an unused suitcase gathering dust, it could
+  be the
 pubDate: 2026-01-24
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-donate-suitcases-for-foster-care-near-me&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Storing Or Disposing Old Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-donate-suitcases-for-foster-care-near-me&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine the difference you can make by giving a child in foster care a sense of dignity and hope. If you have an unused suitcase gathering dust, it could be the key to providing these kids with something more than a trash bag to carry their belongings.**

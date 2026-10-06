@@ -1,10 +1,13 @@
 ---
-title: "Does Target Have Jansport Backpacks: Find Out Now!"
-description: "Imagine walking through the aisles of Target, where style meets convenience, and you're on the hunt for the perfect backpack. You have your eyes set on the icon"
+title: 'Does Target Have Jansport Backpacks: Find Out Now!'
+description: Imagine walking through the aisles of Target, where style meets convenience,
+  and you're on the hunt for the perfect backpack. You have your eyes set on the icon
 pubDate: 2025-12-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-target-have-jansport-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Jansport Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=does-target-have-jansport-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine walking through the aisles of Target, where style meets convenience, and you're on the hunt for the perfect backpack. You have your eyes set on the iconic Jansport backpack, known for its durability and timeless design.**

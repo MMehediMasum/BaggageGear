@@ -1,10 +1,14 @@
 ---
-title: "How to Sew a Duffle Bag: Easy Steps for a Stylish DIY Project"
-description: "Imagine carrying a bag that's not just functional, but also a unique piece of your own creativity. Sewing your own duffle bag can be a fun and rewarding project"
+title: 'How to Sew a Duffle Bag: Easy Steps for a Stylish DIY Project'
+description: Imagine carrying a bag that's not just functional, but also a unique
+  piece of your own creativity. Sewing your own duffle bag can be a fun and rewarding
+  project
 pubDate: 2025-09-21
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-sew-a-duffle-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sewing Backpacks And Duffels
+heroImage: https://tse1.mm.bing.net/th?q=how-to-sew-a-duffle-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine carrying a bag that's not just functional, but also a unique piece of your own creativity. Sewing your own duffle bag can be a fun and rewarding project, even if you’re just starting out with sewing.**

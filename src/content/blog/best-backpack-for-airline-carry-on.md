@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Airline Carry On: Top Lightweight Travel Picks"
-description: "Finding the best backpack for airline carry-on travel makes your trip easier and more comfortable. A good carry-on backpack fits airline rules and holds all ess"
+title: 'Best Backpack for Airline Carry On: Top Lightweight Travel Picks'
+description: Finding the best backpack for airline carry-on travel makes your trip
+  easier and more comfortable. A good carry-on backpack fits airline rules and holds
+  all ess
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-airline-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-airline-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best backpack for airline carry-on travel makes your trip easier and more comfortable. A good carry-on backpack fits airline rules and holds all essentials.**

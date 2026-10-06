@@ -1,10 +1,14 @@
 ---
-title: "Best Anti Theft Wallet for Travel: Top RFID Blocking Wallets Reviewed"
-description: "Choosing the best anti theft wallet for travel keeps your valuables safe and your mind at ease. These wallets protect your money and personal information from p"
+title: 'Best Anti Theft Wallet for Travel: Top RFID Blocking Wallets Reviewed'
+description: Choosing the best anti theft wallet for travel keeps your valuables safe
+  and your mind at ease. These wallets protect your money and personal information
+  from p
 pubDate: 2026-06-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-anti-theft-wallet-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Wallets And Passport Holders
+heroImage: https://tse1.mm.bing.net/th?q=best-anti-theft-wallet-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best anti theft wallet for travel keeps your valuables safe and your mind at ease. These wallets protect your money and personal information from pickpockets and electronic theft.**

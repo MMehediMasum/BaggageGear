@@ -1,10 +1,13 @@
 ---
-title: "Can You Fly Standby With a Checked Bag: Essential Tips Revealed"
-description: "Imagine snagging a last-minute seat on an earlier flight, bypassing those long wait hours at the airport. Flying standby might just be your ticket to a smoother"
+title: 'Can You Fly Standby With a Checked Bag: Essential Tips Revealed'
+description: Imagine snagging a last-minute seat on an earlier flight, bypassing those
+  long wait hours at the airport. Flying standby might just be your ticket to a smoother
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-standby-with-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-standby-with-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine snagging a last-minute seat on an earlier flight, bypassing those long wait hours at the airport. Flying standby might just be your ticket to a smoother travel experience.**

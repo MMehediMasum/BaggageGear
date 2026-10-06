@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Tote Bag for Women: Stylish and Functional Choices"
-description: "Finding the best carry-on tote bag for women makes travel easier and more organized. These bags offer style, space, and convenience in one package. Travel deman"
+title: 'Best Carry on Tote Bag for Women: Stylish and Functional Choices'
+description: Finding the best carry-on tote bag for women makes travel easier and
+  more organized. These bags offer style, space, and convenience in one package. Travel
+  deman
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-tote-bag-for-women&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-tote-bag-for-women&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best carry-on tote bag for women makes travel easier and more organized. These bags offer style, space, and convenience in one package.**

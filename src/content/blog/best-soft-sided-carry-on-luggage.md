@@ -1,10 +1,14 @@
 ---
-title: "Best Soft-Sided Carry-On Luggage for Durable, Lightweight Travel Convenience"
-description: "Choosing the best soft-sided carry-on luggage makes travel easier and more organized. Soft-sided bags offer flexibility, lightweight design, and extra pockets f"
+title: Best Soft-Sided Carry-On Luggage for Durable, Lightweight Travel Convenience
+description: Choosing the best soft-sided carry-on luggage makes travel easier and
+  more organized. Soft-sided bags offer flexibility, lightweight design, and extra
+  pockets f
 pubDate: 2026-08-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-sided-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-sided-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft-sided carry-on luggage makes travel easier and more organized. Soft-sided bags offer flexibility, lightweight design, and extra pockets for your needs.**

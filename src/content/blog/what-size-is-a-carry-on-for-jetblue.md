@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Carry on for Jetblue: Ultimate Guide for Travelers"
-description: "Planning a trip soon and flying with JetBlue? One of the first things on your checklist is likely your luggage. But before you start packing, have you ever wond"
+title: 'What Size is a Carry on for Jetblue: Ultimate Guide for Travelers'
+description: Planning a trip soon and flying with JetBlue? One of the first things
+  on your checklist is likely your luggage. But before you start packing, have you
+  ever wond
 pubDate: 2025-09-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-carry-on-for-jetblue&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-carry-on-for-jetblue&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip soon and flying with JetBlue? One of the first things on your checklist is likely your luggage.**

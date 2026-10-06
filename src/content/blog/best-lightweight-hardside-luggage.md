@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Hardside Luggage for Stress-Free Travel Adventures"
-description: "Choosing the best lightweight hardside luggage makes travel easier and less tiring. These suitcases offer durability without adding extra weight. Lightweight ha"
+title: Best Lightweight Hardside Luggage for Stress-Free Travel Adventures
+description: Choosing the best lightweight hardside luggage makes travel easier and
+  less tiring. These suitcases offer durability without adding extra weight. Lightweight
+  ha
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-hardside-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-hardside-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight hardside luggage makes travel easier and less tiring. These suitcases offer durability without adding extra weight.**

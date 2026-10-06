@@ -1,10 +1,14 @@
 ---
-title: "Best 22X18X10 Carry On Luggage for Durable and Spacious Travel"
-description: "Finding the best 22x18x10 carry-on luggage helps you travel easy and smart. This size fits most airline rules and offers good space for your essentials. Choosin"
+title: Best 22X18X10 Carry On Luggage for Durable and Spacious Travel
+description: Finding the best 22x18x10 carry-on luggage helps you travel easy and
+  smart. This size fits most airline rules and offers good space for your essentials.
+  Choosin
 pubDate: 2026-08-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-22x18x10-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Budget And Compact Carry Ons
+heroImage: https://tse1.mm.bing.net/th?q=best-22x18x10-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best 22x18x10 carry-on luggage helps you travel easy and smart. This size fits most airline rules and offers good space for your essentials.**

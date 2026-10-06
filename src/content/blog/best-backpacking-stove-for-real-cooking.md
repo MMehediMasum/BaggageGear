@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Stove for Real Cooking: Top Portable Camp Stove Picks"
 description: "Finding the best backpacking stove for real cooking makes outdoor meals easy and enjoyable. A good stove offers stability, heat control, and portability for any"
 pubDate: 2025-10-15

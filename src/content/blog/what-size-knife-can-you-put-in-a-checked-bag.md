@@ -1,10 +1,14 @@
 ---
-title: "What Size Knife Can You Put in a Checked Bag: Essential Rules Explained"
-description: "Are you planning your next adventure and wondering about what you can bring along? If you're thinking of packing a knife in your checked bag, you might be unsur"
+title: 'What Size Knife Can You Put in a Checked Bag: Essential Rules Explained'
+description: Are you planning your next adventure and wondering about what you can
+  bring along? If you're thinking of packing a knife in your checked bag, you might
+  be unsur
 pubDate: 2025-09-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-knife-can-you-put-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-size-knife-can-you-put-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next adventure and wondering about what you can bring along? If you're thinking of packing a knife in your checked bag, you might be unsure about the regulations.**

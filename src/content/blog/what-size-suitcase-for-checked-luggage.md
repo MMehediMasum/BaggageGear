@@ -1,10 +1,14 @@
 ---
-title: "What Size Suitcase for Checked Luggage: Ultimate Guide to Packing Right"
-description: "Are you planning your next big adventure and wondering what size suitcase is perfect for your checked luggage? You're not alone. Choosing the right suitcase can"
+title: 'What Size Suitcase for Checked Luggage: Ultimate Guide to Packing Right'
+description: Are you planning your next big adventure and wondering what size suitcase
+  is perfect for your checked luggage? You're not alone. Choosing the right suitcase
+  can
 pubDate: 2026-03-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-suitcase-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=what-size-suitcase-for-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next big adventure and wondering what size suitcase is perfect for your checked luggage? You're not alone.**

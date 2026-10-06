@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Hair Dryer in a Carry on: Travel Essentials"
-description: "Planning your next trip and wondering, “Can I bring a hair dryer in a carry on?” You’re not alone. Many travelers worry about what gadgets they can pack without"
+title: 'Can I Bring a Hair Dryer in a Carry on: Travel Essentials'
+description: Planning your next trip and wondering, “Can I bring a hair dryer in a
+  carry on?” You’re not alone. Many travelers worry about what gadgets they can pack
+  without
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-hair-dryer-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hair Tools In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-hair-dryer-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning your next trip and wondering, “Can I bring a hair dryer in a carry on?” You’re not alone. Many travelers worry about what gadgets they can pack without hitting airport security trouble.**

@@ -1,10 +1,14 @@
 ---
-title: "Where are North Face Backpacks Manufactured: Unveiling Origins"
-description: "Have you ever wondered where your trusty North Face backpack is made? You're not alone. Many people are curious about the origins of these durable, stylish, and"
+title: 'Where are North Face Backpacks Manufactured: Unveiling Origins'
+description: Have you ever wondered where your trusty North Face backpack is made?
+  You're not alone. Many people are curious about the origins of these durable, stylish,
+  and
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-are-north-face-backpacks-manufactured&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Backpacks Are Made
+heroImage: https://tse1.mm.bing.net/th?q=where-are-north-face-backpacks-manufactured&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever wondered where your trusty North Face backpack is made? You're not alone.**

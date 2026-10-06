@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Kelly Bag Cost: Ultimate Price Guide Revealed"
-description: "Are you dreaming of owning a Kelly Bag but unsure about the price tag? You're not alone. This iconic piece has captivated fashion lovers for decades, and its al"
+title: 'How Much Does a Kelly Bag Cost: Ultimate Price Guide Revealed'
+description: Are you dreaming of owning a Kelly Bag but unsure about the price tag?
+  You're not alone. This iconic piece has captivated fashion lovers for decades, and
+  its al
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-kelly-bag-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Birkin And Kelly Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-kelly-bag-cost&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you dreaming of owning a Kelly Bag but unsure about the price tag? You're not alone.**

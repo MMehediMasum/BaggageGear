@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Clubs Should Be in My Bag: Ultimate Guide for Every Golfer"
 description: "Are you ready to elevate your golf game to the next level? Understanding what clubs should be in your bag is crucial for improving your performance on the cours"
 pubDate: 2026-01-21

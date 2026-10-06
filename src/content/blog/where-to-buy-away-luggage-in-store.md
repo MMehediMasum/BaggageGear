@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Away Luggage in Store: Top Spots to Shop Now"
-description: "Are you on the hunt for the perfect Away luggage, but prefer the tactile experience of shopping in-store? You're not alone. Many travelers, like you, love to se"
+title: 'Where to Buy Away Luggage in Store: Top Spots to Shop Now'
+description: Are you on the hunt for the perfect Away luggage, but prefer the tactile
+  experience of shopping in-store? You're not alone. Many travelers, like you, love
+  to se
 pubDate: 2026-04-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-away-luggage-in-store&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-away-luggage-in-store&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect Away luggage, but prefer the tactile experience of shopping in-store? You're not alone.**

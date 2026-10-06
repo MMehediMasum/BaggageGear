@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Lululemon Backpack: Ultimate Cleaning Guide"
-description: "Have you ever wondered if you can wash your Lululemon backpack? You’re not alone. Many people love their stylish and functional Lululemon bags, but keeping them"
+title: 'Can You Wash a Lululemon Backpack: Ultimate Cleaning Guide'
+description: Have you ever wondered if you can wash your Lululemon backpack? You’re
+  not alone. Many people love their stylish and functional Lululemon bags, but keeping
+  them
 pubDate: 2025-10-27
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-lululemon-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lululemon Belt Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-lululemon-backpack&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever wondered if you can wash your Lululemon backpack? You’re not alone.**

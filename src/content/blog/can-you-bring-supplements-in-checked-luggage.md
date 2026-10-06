@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Supplements in Checked Luggage: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can pack your supplements in your checked luggage? You're not alone. Many travelers face this dilemma, unsure of th"
+title: 'Can You Bring Supplements in Checked Luggage: Essential Travel Tips'
+description: Are you planning a trip and wondering if you can pack your supplements
+  in your checked luggage? You're not alone. Many travelers face this dilemma, unsure
+  of th
 pubDate: 2026-05-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-supplements-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-supplements-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your supplements in your checked luggage? You're not alone.**

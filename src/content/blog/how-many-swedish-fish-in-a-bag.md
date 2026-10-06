@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Swedish Fish in a Bag: Surprising Count Revealed!"
 description: "Have you ever torn open a bag of Swedish Fish and wondered just how many of these delightful little candies are inside? You're not alone. Whether you’re plannin"
 pubDate: 2026-04-27

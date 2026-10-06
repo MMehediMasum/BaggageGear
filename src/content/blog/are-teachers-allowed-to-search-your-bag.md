@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Are Teachers Allowed to Search Your Bag? Know Your Rights Now!"
 description: "Have you ever wondered if your teacher can legally search your bag at school? It's a question that stirs curiosity and, sometimes, concern among students and pa"
 pubDate: 2025-09-12

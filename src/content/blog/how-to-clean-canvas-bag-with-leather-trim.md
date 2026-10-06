@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Canvas Bag With Leather Trim: Easy Expert Tips"
-description: "Your beloved canvas bag with leather trim is more than just an accessory; it's a statement of style and practicality. But with regular use, dirt and stains can "
+title: 'How to Clean Canvas Bag With Leather Trim: Easy Expert Tips'
+description: 'Your beloved canvas bag with leather trim is more than just an accessory;
+  it''s a statement of style and practicality. But with regular use, dirt and stains
+  can '
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-canvas-bag-with-leather-trim&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-canvas-bag-with-leather-trim&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your beloved canvas bag with leather trim is more than just an accessory; it's a statement of style and practicality. But with regular use, dirt and stains can creep in, dulling its appearance and charm.**

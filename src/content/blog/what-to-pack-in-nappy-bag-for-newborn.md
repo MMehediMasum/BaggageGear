@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in Nappy Bag for Newborn: Essential Must-Haves List"
-description: "Picture this: you’re about to head out with your newborn for the first time. Exciting, isn’t it? But wait, what do you pack in that nappy bag? The last thing yo"
+title: 'What to Pack in Nappy Bag for Newborn: Essential Must-Haves List'
+description: 'Picture this: you’re about to head out with your newborn for the first
+  time. Exciting, isn’t it? But wait, what do you pack in that nappy bag? The last
+  thing yo'
 pubDate: 2026-02-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-nappy-bag-for-newborn&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Diaper Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-nappy-bag-for-newborn&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Picture this: you’re about to head out with your newborn for the first time. Exciting, isn’t it?**

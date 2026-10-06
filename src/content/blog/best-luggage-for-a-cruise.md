@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for a Cruise: Top Picks for Seamless Travel"
-description: "Choosing the best luggage for a cruise can make packing and traveling easier. The right suitcase keeps your belongings safe and organized. Cruise trips need lug"
+title: 'Best Luggage for a Cruise: Top Picks for Seamless Travel'
+description: Choosing the best luggage for a cruise can make packing and traveling
+  easier. The right suitcase keeps your belongings safe and organized. Cruise trips
+  need lug
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-a-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-a-cruise&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for a cruise can make packing and traveling easier. The right suitcase keeps your belongings safe and organized.**

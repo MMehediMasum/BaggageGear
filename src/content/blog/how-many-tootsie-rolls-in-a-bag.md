@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Tootsie Rolls in a Bag: Surprising Count Revealed!"
 description: "Have you ever found yourself tearing open a bag of Tootsie Rolls, eager to indulge, only to wonder how many of those chewy treats are actually inside? You're no"
 pubDate: 2026-02-18

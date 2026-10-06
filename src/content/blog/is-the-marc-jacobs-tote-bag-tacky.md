@@ -1,10 +1,14 @@
 ---
-title: "Is the Marc Jacobs Tote Bag Tacky: Stylish or Fashion Faux Pas?"
-description: "Is the Marc Jacobs Tote Bag tacky? You've probably asked yourself this question while scrolling through your social media feeds or passing by a store display. T"
+title: 'Is the Marc Jacobs Tote Bag Tacky: Stylish or Fashion Faux Pas?'
+description: Is the Marc Jacobs Tote Bag tacky? You've probably asked yourself this
+  question while scrolling through your social media feeds or passing by a store display.
+  T
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-the-marc-jacobs-tote-bag-tacky&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-the-marc-jacobs-tote-bag-tacky&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Is the Marc Jacobs Tote Bag tacky? You've probably asked yourself this question while scrolling through your social media feeds or passing by a store display.**

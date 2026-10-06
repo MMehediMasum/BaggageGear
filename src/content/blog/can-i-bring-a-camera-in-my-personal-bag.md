@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Camera in My Personal Bag: Essential Travel Tips"
-description: "Picture this: you're all set for your next adventure, ready to capture those unforgettable moments with your trusty camera. But as you pack your bags, a questio"
+title: 'Can I Bring a Camera in My Personal Bag: Essential Travel Tips'
+description: 'Picture this: you''re all set for your next adventure, ready to capture
+  those unforgettable moments with your trusty camera. But as you pack your bags,
+  a questio'
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-camera-in-my-personal-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-camera-in-my-personal-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: you're all set for your next adventure, ready to capture those unforgettable moments with your trusty camera. But as you pack your bags, a question pops up in your mind—can you bring your camera in your personal bag?**

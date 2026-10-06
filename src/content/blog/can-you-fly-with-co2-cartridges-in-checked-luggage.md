@@ -1,10 +1,14 @@
 ---
-title: "Can You Fly With Co2 Cartridges in Checked Luggage: Essential Rules"
-description: "Have you ever packed for a trip and wondered if you can bring those CO2 cartridges in your checked luggage? It’s a common question that pops into the minds of t"
+title: 'Can You Fly With Co2 Cartridges in Checked Luggage: Essential Rules'
+description: Have you ever packed for a trip and wondered if you can bring those CO2
+  cartridges in your checked luggage? It’s a common question that pops into the minds
+  of t
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-co2-cartridges-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Aerosols In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-co2-cartridges-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever packed for a trip and wondered if you can bring those CO2 cartridges in your checked luggage? It’s a common question that pops into the minds of travelers like you.**

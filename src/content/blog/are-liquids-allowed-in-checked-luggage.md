@@ -1,10 +1,13 @@
 ---
-title: "Are Liquids Allowed in Checked Luggage: Essential Travel Rules Unveiled"
-description: "Are you planning your next big adventure but feeling puzzled about packing your liquids? You're not alone. The question of whether liquids are allowed in checke"
+title: 'Are Liquids Allowed in Checked Luggage: Essential Travel Rules Unveiled'
+description: Are you planning your next big adventure but feeling puzzled about packing
+  your liquids? You're not alone. The question of whether liquids are allowed in checke
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-liquids-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=are-liquids-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next big adventure but feeling puzzled about packing your liquids? You're not alone.**

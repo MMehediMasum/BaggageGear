@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does 1 Plastic Bag Cost: Shocking Price Breakdown Revealed"
 description: "Have you ever wondered about the real cost of that simple plastic bag you grab at the store? It might seem like just a few pennies, but there's more to it than "
 pubDate: 2026-01-19

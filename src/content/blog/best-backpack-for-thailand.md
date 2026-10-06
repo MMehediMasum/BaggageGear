@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Thailand Travel: Lightweight, Durable & TSA Friendly Picks"
-description: "Choosing the best backpack for Thailand travel makes your trip easier and more comfortable. A good backpack fits your needs and suits Thailand’s climate and act"
+title: 'Best Backpack for Thailand Travel: Lightweight, Durable & TSA Friendly Picks'
+description: Choosing the best backpack for Thailand travel makes your trip easier
+  and more comfortable. A good backpack fits your needs and suits Thailand’s climate
+  and act
 pubDate: 2026-06-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-thailand&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-thailand&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for Thailand travel makes your trip easier and more comfortable. A good backpack fits your needs and suits Thailand’s climate and activities.**

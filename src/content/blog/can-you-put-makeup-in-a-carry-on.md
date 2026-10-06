@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Makeup in a Carry On: Ultimate Travel Guide Tips"
-description: "Navigating airport security can feel like a puzzle, especially when you're trying to pack your favorite makeup in a carry-on. You might be wondering if your bea"
+title: 'Can You Put Makeup in a Carry On: Ultimate Travel Guide Tips'
+description: Navigating airport security can feel like a puzzle, especially when you're
+  trying to pack your favorite makeup in a carry-on. You might be wondering if your
+  bea
 pubDate: 2026-04-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-makeup-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-makeup-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can feel like a puzzle, especially when you're trying to pack your favorite makeup in a carry-on. You might be wondering if your beauty essentials will make it through the security checkpoint without a hitch.**

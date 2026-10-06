@@ -1,10 +1,13 @@
 ---
-title: "Will Leather Goods Tote Bag: Ultimate Style and Durability Guide"
-description: "Are you tired of flimsy tote bags that can't keep up with your busy lifestyle? Imagine a bag that not only elevates your style but also stands the test of time."
+title: 'Will Leather Goods Tote Bag: Ultimate Style and Durability Guide'
+description: Are you tired of flimsy tote bags that can't keep up with your busy lifestyle?
+  Imagine a bag that not only elevates your style but also stands the test of time.
 pubDate: 2025-12-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-leather-goods-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=will-leather-goods-tote-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you tired of flimsy tote bags that can't keep up with your busy lifestyle? Imagine a bag that not only elevates your style but also stands the test of time.**

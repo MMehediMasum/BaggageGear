@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Corgi: Top Carriers and School Bags Reviewed"
-description: "Finding the best backpack for your Corgi helps keep your dog safe and comfortable during outings. A good carrier supports your pet and makes travel easier. Choo"
+title: 'Best Backpack for Corgi: Top Carriers and School Bags Reviewed'
+description: Finding the best backpack for your Corgi helps keep your dog safe and
+  comfortable during outings. A good carrier supports your pet and makes travel easier.
+  Choo
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-corgi&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-corgi&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best backpack for your Corgi helps keep your dog safe and comfortable during outings. A good carrier supports your pet and makes travel easier.**

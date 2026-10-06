@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage Sets for Durable, Lightweight Travel Convenience"
-description: "Choosing the best carry-on luggage sets can make travel easier and more organized. The right set fits airline rules and holds all essentials. Traveling often me"
+title: Best Carry On Luggage Sets for Durable, Lightweight Travel Convenience
+description: Choosing the best carry-on luggage sets can make travel easier and more
+  organized. The right set fits airline rules and holds all essentials. Traveling
+  often me
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-sets&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Sets
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-sets&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage sets can make travel easier and more organized. The right set fits airline rules and holds all essentials.**

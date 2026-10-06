@@ -1,10 +1,13 @@
 ---
-title: "Best Carry On for Men: Top Durable and Stylish Luggage Picks"
-description: "Choosing the best carry-on for men can make travel easier and more comfortable. The right bag fits airline rules and meets your style and needs. Traveling with "
+title: 'Best Carry On for Men: Top Durable and Stylish Luggage Picks'
+description: 'Choosing the best carry-on for men can make travel easier and more comfortable.
+  The right bag fits airline rules and meets your style and needs. Traveling with '
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-for-men&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on for men can make travel easier and more comfortable. The right bag fits airline rules and meets your style and needs.**

@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Full Size Deodorant in Carry On: TSA Rules Explained"
-description: "Packing for a trip can sometimes feel like solving a puzzle, especially when you're trying to fit everything into your carry-on bag. One question that often lea"
+title: 'Can You Take Full Size Deodorant in Carry On: TSA Rules Explained'
+description: Packing for a trip can sometimes feel like solving a puzzle, especially
+  when you're trying to fit everything into your carry-on bag. One question that often
+  lea
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-full-size-deodorant-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-full-size-deodorant-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can sometimes feel like solving a puzzle, especially when you're trying to fit everything into your carry-on bag. One question that often leaves travelers scratching their heads is, "Can you take full-size deodorant in your carry-on?"**

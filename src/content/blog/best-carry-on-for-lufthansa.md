@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On for Lufthansa: Top Lightweight and Durable Travel Bags"
-description: "Choosing the best carry-on for Lufthansa ensures smooth boarding and hassle-free travel. The right bag fits airline rules and keeps your items organized. Luftha"
+title: 'Best Carry On for Lufthansa: Top Lightweight and Durable Travel Bags'
+description: Choosing the best carry-on for Lufthansa ensures smooth boarding and
+  hassle-free travel. The right bag fits airline rules and keeps your items organized.
+  Luftha
 pubDate: 2026-08-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-for-lufthansa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-for-lufthansa&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on for Lufthansa ensures smooth boarding and hassle-free travel. The right bag fits airline rules and keeps your items organized.**

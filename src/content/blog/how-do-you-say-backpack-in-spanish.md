@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Say Backpack in Spanish: Essential Travel Vocabulary Guide"
 description: "Have you ever found yourself in a situation where you needed to express a simple word in another language but didn’t know how? It can be frustrating, especially"
 pubDate: 2025-12-19

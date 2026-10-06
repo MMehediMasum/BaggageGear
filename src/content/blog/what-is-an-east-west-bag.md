@@ -1,10 +1,14 @@
 ---
-title: "What is an East West Bag: Ultimate Style and Function Guide"
-description: "Ever stumbled upon the term \"East West Bag\" and wondered what it means? You’re not alone. In the world of fashion, where trends shift like the wind, keeping up "
+title: 'What is an East West Bag: Ultimate Style and Function Guide'
+description: 'Ever stumbled upon the term "East West Bag" and wondered what it means?
+  You’re not alone. In the world of fashion, where trends shift like the wind, keeping
+  up '
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-an-east-west-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bag Styles And Terms Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-an-east-west-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Ever stumbled upon the term "East West Bag" and wondered what it means? You’re not alone.**

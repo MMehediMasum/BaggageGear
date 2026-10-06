@@ -1,10 +1,14 @@
 ---
-title: "Are Adidas Backpacks Waterproof: Ultimate Guide to Water Resistance"
-description: "Are you on the hunt for a reliable backpack that can withstand unexpected rain showers? If you've been eyeing Adidas backpacks, you're probably wondering if the"
+title: 'Are Adidas Backpacks Waterproof: Ultimate Guide to Water Resistance'
+description: Are you on the hunt for a reliable backpack that can withstand unexpected
+  rain showers? If you've been eyeing Adidas backpacks, you're probably wondering
+  if the
 pubDate: 2026-01-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-adidas-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-adidas-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for a reliable backpack that can withstand unexpected rain showers? If you've been eyeing Adidas backpacks, you're probably wondering if they can keep your belongings safe and dry.**

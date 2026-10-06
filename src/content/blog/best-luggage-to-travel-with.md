@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage to Travel With: Top Durable, Lightweight Suitcases Reviewed"
-description: "Choosing the best luggage makes travel easier and more comfortable. The right suitcase protects your belongings and fits airline rules. Travel needs vary, so lu"
+title: 'Best Luggage to Travel With: Top Durable, Lightweight Suitcases Reviewed'
+description: Choosing the best luggage makes travel easier and more comfortable. The
+  right suitcase protects your belongings and fits airline rules. Travel needs vary,
+  so lu
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-to-travel-with&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- General Travel Bags And Suitcases
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-to-travel-with&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage makes travel easier and more comfortable. The right suitcase protects your belongings and fits airline rules.**

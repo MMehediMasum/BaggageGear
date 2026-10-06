@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Coach Bag Worth: Ultimate Guide to True Value"
-description: "Have you ever found yourself wondering, \"How much is a Coach bag worth?\" You're not alone. Many fashion enthusiasts and savvy shoppers are curious about the val"
+title: 'How Much is a Coach Bag Worth: Ultimate Guide to True Value'
+description: Have you ever found yourself wondering, "How much is a Coach bag worth?"
+  You're not alone. Many fashion enthusiasts and savvy shoppers are curious about
+  the val
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-coach-bag-worth&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-coach-bag-worth&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever found yourself wondering, "How much is a Coach bag worth?" You're not alone.**

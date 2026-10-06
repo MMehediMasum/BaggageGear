@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Rory Mcilroy Bag: Ultimate Gear Revealed for 2025"
 description: "Ever wonder what gives Rory McIlroy his edge on the golf course? You're not alone. Knowing what’s inside his golf bag can offer you insights into the tools and "
 pubDate: 2025-11-04

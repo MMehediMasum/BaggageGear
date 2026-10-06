@@ -1,10 +1,14 @@
 ---
-title: "Can the Beis Weekender Bag Be a Carry On? Ultimate Guide"
-description: "Are you planning your next trip and wondering if the Beis Weekender Bag can be your trusty carry-on companion? You're not alone. Many travelers are on the hunt "
+title: Can the Beis Weekender Bag Be a Carry On? Ultimate Guide
+description: 'Are you planning your next trip and wondering if the Beis Weekender
+  Bag can be your trusty carry-on companion? You''re not alone. Many travelers are
+  on the hunt '
 pubDate: 2026-04-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-the-beis-weekender-bag-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-the-beis-weekender-bag-be-a-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next trip and wondering if the Beis Weekender Bag can be your trusty carry-on companion? You're not alone.**

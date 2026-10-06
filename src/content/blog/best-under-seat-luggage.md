@@ -1,10 +1,14 @@
 ---
-title: "Best Under Seat Luggage: Compact Travel Solutions with USB Charging"
-description: "Finding the best under seat luggage can save space and make travel easier. These bags fit under airplane seats and carry your essentials safely. Traveling light"
+title: 'Best Under Seat Luggage: Compact Travel Solutions with USB Charging'
+description: Finding the best under seat luggage can save space and make travel easier.
+  These bags fit under airplane seats and carry your essentials safely. Traveling
+  light
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-under-seat-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-under-seat-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best under seat luggage can save space and make travel easier. These bags fit under airplane seats and carry your essentials safely.**

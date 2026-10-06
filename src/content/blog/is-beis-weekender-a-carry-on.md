@@ -1,10 +1,14 @@
 ---
-title: "Is Beis Weekender a Carry On: Ultimate Travel Bag Guide"
-description: "Have you ever stood at the airport check-in counter, nervously eyeing your luggage, hoping it meets the carry-on size limits? If so, you’re not alone. Many trav"
+title: 'Is Beis Weekender a Carry On: Ultimate Travel Bag Guide'
+description: Have you ever stood at the airport check-in counter, nervously eyeing
+  your luggage, hoping it meets the carry-on size limits? If so, you’re not alone.
+  Many trav
 pubDate: 2026-02-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-beis-weekender-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Away And Beis Luggage Questions
+heroImage: https://tse1.mm.bing.net/th?q=is-beis-weekender-a-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood at the airport check-in counter, nervously eyeing your luggage, hoping it meets the carry-on size limits? If so, you’re not alone.**

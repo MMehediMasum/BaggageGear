@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Large Luggage: Top Picks for Stress-Free Travel"
-description: "Finding the best lightweight large luggage makes travel easier and less tiring. Choosing the right suitcase helps you pack more without extra weight or hassle. "
+title: 'Best Lightweight Large Luggage: Top Picks for Stress-Free Travel'
+description: 'Finding the best lightweight large luggage makes travel easier and less
+  tiring. Choosing the right suitcase helps you pack more without extra weight or
+  hassle. '
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-large-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-large-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best lightweight large luggage makes travel easier and less tiring. Choosing the right suitcase helps you pack more without extra weight or hassle.**

@@ -1,10 +1,13 @@
 ---
-title: "How Many Carry on Bags Allowed Alaska: Ultimate Packing Guide"
-description: "Are you planning a trip with Alaska Airlines and wondering how many carry-on bags you can take with you? Navigating airline baggage policies can feel like decip"
+title: 'How Many Carry on Bags Allowed Alaska: Ultimate Packing Guide'
+description: Are you planning a trip with Alaska Airlines and wondering how many carry-on
+  bags you can take with you? Navigating airline baggage policies can feel like decip
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-allowed-alaska&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Alaska Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-many-carry-on-bags-allowed-alaska&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Alaska Airlines and wondering how many carry-on bags you can take with you? Navigating airline baggage policies can feel like deciphering a complex puzzle, but it doesn't have to be.**

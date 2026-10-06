@@ -1,10 +1,14 @@
 ---
-title: "Do You Have to Print Luggage Tags for Carnival Cruise? Essential Guide"
-description: "Planning a Carnival Cruise can be an exciting adventure, but it often comes with a few questions. Among them, a common query is whether you need to print luggag"
+title: Do You Have to Print Luggage Tags for Carnival Cruise? Essential Guide
+description: Planning a Carnival Cruise can be an exciting adventure, but it often
+  comes with a few questions. Among them, a common query is whether you need to print
+  luggag
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-have-to-print-luggage-tags-for-carnival-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cruise Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=do-you-have-to-print-luggage-tags-for-carnival-cruise&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a Carnival Cruise can be an exciting adventure, but it often comes with a few questions. Among them, a common query is whether you need to print luggage tags before setting sail.**

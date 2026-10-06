@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Goldfish are in a Bag: Surprising Facts Revealed!"
 description: "Have you ever stood in a pet store, mesmerized by a bag full of swimming goldfish and wondered just how many are in there? It's a question many fish enthusiasts"
 pubDate: 2026-03-19

@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Vera Bradley Lunch Bag: Easy Steps for Freshness"
-description: "Are you tired of your Vera Bradley lunch bag looking less than fresh? You’re not alone. Over time, lunch bags can accumulate stains, odors, and a general sense "
+title: 'How to Wash a Vera Bradley Lunch Bag: Easy Steps for Freshness'
+description: 'Are you tired of your Vera Bradley lunch bag looking less than fresh?
+  You’re not alone. Over time, lunch bags can accumulate stains, odors, and a general
+  sense '
 pubDate: 2025-08-29
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-vera-bradley-lunch-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Brand Name Handbags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-vera-bradley-lunch-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of your Vera Bradley lunch bag looking less than fresh? You’re not alone.**

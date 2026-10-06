@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Should Plastic Bags Be Banned: Urgent Steps for Our Planet"
 description: "Picture this: You're walking down the grocery store aisle, and you reach for a plastic bag to carry your items. It seems harmless, right? But have you ever stop"
 pubDate: 2025-12-05

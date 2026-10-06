@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is Wendy'S Boo Bag: Unveiling the Price and Value"
 description: "Imagine the excitement of Halloween and the craving for a tasty treat all wrapped into one. That’s exactly what Wendy's Boo Bag offers! If you’ve heard the buzz"
 pubDate: 2026-02-07

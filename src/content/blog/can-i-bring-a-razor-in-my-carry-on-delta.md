@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring a Razor in My Carry on Delta: Essential Travel Rules"
-description: "Planning a trip with Delta Airlines? If you're like most travelers, you're probably wondering what you can and cannot pack in your carry-on. One of the most com"
+title: 'Can I Bring a Razor in My Carry on Delta: Essential Travel Rules'
+description: Planning a trip with Delta Airlines? If you're like most travelers, you're
+  probably wondering what you can and cannot pack in your carry-on. One of the most
+  com
 pubDate: 2026-05-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-a-razor-in-my-carry-on-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-a-razor-in-my-carry-on-delta&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip with Delta Airlines? If you're like most travelers, you're probably wondering what you can and cannot pack in your carry-on.**

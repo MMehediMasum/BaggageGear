@@ -1,10 +1,13 @@
 ---
-title: "Can You Put Electronics in Checked Luggage: Essential Travel Tips"
-description: "You're packing for your upcoming trip, and your suitcase is rapidly filling up. You glance at your electronics—your laptop, camera, and other gadgets—and wonder"
+title: 'Can You Put Electronics in Checked Luggage: Essential Travel Tips'
+description: You're packing for your upcoming trip, and your suitcase is rapidly filling
+  up. You glance at your electronics—your laptop, camera, and other gadgets—and wonder
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-electronics-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-electronics-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming trip, and your suitcase is rapidly filling up. You glance at your electronics—your laptop, camera, and other gadgets—and wonder: Can you put these in your checked luggage?**

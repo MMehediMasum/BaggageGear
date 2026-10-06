@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Bag of Mulch Cover: Ultimate Yard Coverage Guide"
 description: "Are you planning a landscaping project or trying to refresh your garden? One of the essential components you might be considering is mulch. It's great for maint"
 pubDate: 2026-04-03

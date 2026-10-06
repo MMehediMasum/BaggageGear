@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Keep Weed Fresh in Plastic Bag: Expert Tips Revealed"
 description: "Ever opened your stash only to find your weed dried out and lacking that fresh aroma you love? It's frustrating, isn't it? You might be using plastic bags to st"
 pubDate: 2025-12-23

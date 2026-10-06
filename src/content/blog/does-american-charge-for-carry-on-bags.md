@@ -1,10 +1,13 @@
 ---
-title: "Does American Charge for Carry on Bags: What You Need to Know"
-description: "If you're planning a trip and considering flying with American Airlines, one question might be on your mind: Does American charge for carry-on bags? Navigating "
+title: 'Does American Charge for Carry on Bags: What You Need to Know'
+description: 'If you''re planning a trip and considering flying with American Airlines,
+  one question might be on your mind: Does American charge for carry-on bags? Navigating '
 pubDate: 2026-04-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-american-charge-for-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-american-charge-for-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **If you're planning a trip and considering flying with American Airlines, one question might be on your mind: Does American charge for carry-on bags? Navigating the world of airline fees can be confusing, and unexpected costs can quickly throw off your travel budget.**

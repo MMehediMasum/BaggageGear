@@ -1,10 +1,14 @@
 ---
-title: "How to Change Suitcase Lock Code from 000: Easy Step-by-Step Guide"
-description: "Are you ready to travel but can't remember how to change your suitcase lock code from the default 000? We've all been there, and the last thing you want is to b"
+title: 'How to Change Suitcase Lock Code from 000: Easy Step-by-Step Guide'
+description: Are you ready to travel but can't remember how to change your suitcase
+  lock code from the default 000? We've all been there, and the last thing you want
+  is to b
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-change-suitcase-lock-code-from-000&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Setting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-change-suitcase-lock-code-from-000&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you ready to travel but can't remember how to change your suitcase lock code from the default 000? We've all been there, and the last thing you want is to be fumbling with your luggage when you're supposed to be zipping through security.**

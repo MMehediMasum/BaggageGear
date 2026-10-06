@@ -1,10 +1,14 @@
 ---
-title: "Are Tweezers Allowed on a Carry On: Ultimate TSA Travel Guide"
-description: "You're packing your bags for an exciting trip, and suddenly, a question pops up in your mind: Are tweezers allowed in your carry-on luggage? If you've ever been"
+title: 'Are Tweezers Allowed on a Carry On: Ultimate TSA Travel Guide'
+description: 'You''re packing your bags for an exciting trip, and suddenly, a question
+  pops up in your mind: Are tweezers allowed in your carry-on luggage? If you''ve
+  ever been'
 pubDate: 2026-04-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-tweezers-allowed-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-tweezers-allowed-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing your bags for an exciting trip, and suddenly, a question pops up in your mind: Are tweezers allowed in your carry-on luggage? If you've ever been in this situation, you're not alone.**

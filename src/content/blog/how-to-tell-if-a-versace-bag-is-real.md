@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Versace Bag is Real: Expert Tips to Spot Fakes"
-description: "Are you dreaming of owning a Versace bag but worried about getting duped into buying a fake? You're not alone. The luxury market is flooded with counterfeits, a"
+title: 'How to Tell If a Versace Bag is Real: Expert Tips to Spot Fakes'
+description: Are you dreaming of owning a Versace bag but worried about getting duped
+  into buying a fake? You're not alone. The luxury market is flooded with counterfeits,
+  a
 pubDate: 2025-12-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-versace-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Hermes And Chanel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-versace-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you dreaming of owning a Versace bag but worried about getting duped into buying a fake? You're not alone.**

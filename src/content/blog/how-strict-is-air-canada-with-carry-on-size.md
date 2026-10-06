@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Air Canada With Carry On Size: Ultimate Guide 2025"
-description: "Are you wondering if your carry-on bag will meet Air Canada’s rules? You’re not alone. Many travelers worry about whether their suitcase is too big or too heavy"
+title: 'How Strict is Air Canada With Carry On Size: Ultimate Guide 2025'
+description: Are you wondering if your carry-on bag will meet Air Canada’s rules?
+  You’re not alone. Many travelers worry about whether their suitcase is too big or
+  too heavy
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-air-canada-with-carry-on-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-air-canada-with-carry-on-size&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you wondering if your carry-on bag will meet Air Canada’s rules? You’re not alone.**

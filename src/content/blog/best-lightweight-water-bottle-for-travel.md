@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Water Bottle for Travel: Top Picks for Every Adventure"
-description: "Choosing the best lightweight water bottle for travel can make your trips easier and more enjoyable. A good bottle stays leak-proof, light, and easy to carry. T"
+title: 'Best Lightweight Water Bottle for Travel: Top Picks for Every Adventure'
+description: Choosing the best lightweight water bottle for travel can make your trips
+  easier and more enjoyable. A good bottle stays leak-proof, light, and easy to carry.
+  T
 pubDate: 2026-05-15
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-water-bottle-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Water Bottles
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-water-bottle-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best lightweight water bottle for travel can make your trips easier and more enjoyable. A good bottle stays leak-proof, light, and easy to carry.**

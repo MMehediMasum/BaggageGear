@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Do You Clean a Colostomy Bag: Easy Steps for Effective Care"
 description: "Cleaning a colostomy bag might seem daunting at first, but it’s an essential routine that can significantly enhance your quality of life. If you or someone you "
 pubDate: 2025-11-05

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Leave Tea Bag in Water: Perfect Brew Secrets Revealed"
 description: "Imagine this: You’re eagerly waiting for that perfect cup of tea to warm your hands and soul. You’ve chosen your favorite mug, the water’s just the right temper"
 pubDate: 2026-04-23

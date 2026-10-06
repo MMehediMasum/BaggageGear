@@ -1,10 +1,14 @@
 ---
-title: "How Much Can a Checked Bag Weigh on American Airlines: Essential Limits"
-description: "Planning a trip with American Airlines? One of the most important things to know is how much your checked bag can weigh. This information can save you from unex"
+title: 'How Much Can a Checked Bag Weigh on American Airlines: Essential Limits'
+description: Planning a trip with American Airlines? One of the most important things
+  to know is how much your checked bag can weigh. This information can save you from
+  unex
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weigh-on-american-airlines&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- American Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-much-can-a-checked-bag-weigh-on-american-airlines&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with American Airlines? One of the most important things to know is how much your checked bag can weigh.**

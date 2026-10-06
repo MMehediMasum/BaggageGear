@@ -1,10 +1,14 @@
 ---
-title: "Best Large Checked Luggage: Top Picks for Stylish and Stress-Free Travel"
-description: "Finding the best large checked luggage makes traveling easier and more organized. Choosing the right suitcase saves time and protects your belongings. Travel ne"
+title: 'Best Large Checked Luggage: Top Picks for Stylish and Stress-Free Travel'
+description: Finding the best large checked luggage makes traveling easier and more
+  organized. Choosing the right suitcase saves time and protects your belongings.
+  Travel ne
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-large-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best large checked luggage makes traveling easier and more organized. Choosing the right suitcase saves time and protects your belongings.**

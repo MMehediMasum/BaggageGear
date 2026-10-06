@@ -1,10 +1,14 @@
 ---
-title: "Where to Get Cheap Suitcases: Top Deals You Can’t Miss"
-description: "Looking for a cheap suitcase that doesn’t sacrifice quality? You’re in the right place. Finding the perfect suitcase at a low price can feel overwhelming, espec"
+title: 'Where to Get Cheap Suitcases: Top Deals You Can’t Miss'
+description: Looking for a cheap suitcase that doesn’t sacrifice quality? You’re in
+  the right place. Finding the perfect suitcase at a low price can feel overwhelming,
+  espec
 pubDate: 2026-04-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-get-cheap-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-get-cheap-suitcases&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Looking for a cheap suitcase that doesn’t sacrifice quality? You’re in the right place.**

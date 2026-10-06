@@ -1,10 +1,14 @@
 ---
-title: "Does Jetblue Include a Checked Bag: Essential Travel Info Revealed"
-description: "Picture this: You're at the airport, ready to start your much-anticipated trip. You approach the check-in counter, your suitcase in tow, only to be hit with a q"
+title: 'Does Jetblue Include a Checked Bag: Essential Travel Info Revealed'
+description: 'Picture this: You''re at the airport, ready to start your much-anticipated
+  trip. You approach the check-in counter, your suitcase in tow, only to be hit with
+  a q'
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jetblue-include-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-jetblue-include-a-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Picture this: You're at the airport, ready to start your much-anticipated trip. You approach the check-in counter, your suitcase in tow, only to be hit with a question that sends a jolt of uncertainty through you—does JetBlue include a checked bag in your ticket?**

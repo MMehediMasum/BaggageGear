@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Do You Need a Bag After Prostate Removal? Essential Facts Revealed"
 description: "Are you or a loved one facing prostate removal surgery and wondering if you’ll need a bag afterward? This question is more common than you might think, and the "
 pubDate: 2025-09-17

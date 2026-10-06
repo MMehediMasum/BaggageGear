@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Duffel Bags for Travel: Top Lightweight, Water-Resistant Picks"
-description: "Finding the best carry on duffel bag makes travel easier and more organized. Choose bags that fit airline rules and hold all essentials. Traveling light saves t"
+title: 'Best Carry on Duffel Bags for Travel: Top Lightweight, Water-Resistant Picks'
+description: Finding the best carry on duffel bag makes travel easier and more organized.
+  Choose bags that fit airline rules and hold all essentials. Traveling light saves
+  t
 pubDate: 2026-08-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-duffel-bags-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-duffel-bags-for-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Finding the best carry on duffel bag makes travel easier and more organized. Choose bags that fit airline rules and hold all essentials.**

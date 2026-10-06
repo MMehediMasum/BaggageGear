@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What are They Smuggling in Carry On: Shocking Secrets Revealed"
 description: "Ever wonder what's hidden inside those carry-on bags zipping through airport security? You'd be surprised at the unexpected and sometimes audacious items people"
 pubDate: 2025-12-25

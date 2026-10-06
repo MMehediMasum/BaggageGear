@@ -1,10 +1,14 @@
 ---
-title: "What Happens If Tsa Finds Weed in Checked Luggage: Legal Risks Explained"
-description: "You’re heading to the airport, bags packed, and ready for your trip. But there’s one thing on your mind: what if the TSA finds weed in your checked luggage? Thi"
+title: 'What Happens If Tsa Finds Weed in Checked Luggage: Legal Risks Explained'
+description: 'You’re heading to the airport, bags packed, and ready for your trip.
+  But there’s one thing on your mind: what if the TSA finds weed in your checked luggage?
+  Thi'
 pubDate: 2026-04-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-happens-if-tsa-finds-weed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-happens-if-tsa-finds-weed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re heading to the airport, bags packed, and ready for your trip. But there’s one thing on your mind: what if the TSA finds weed in your checked luggage?**

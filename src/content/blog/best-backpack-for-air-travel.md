@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Air Travel: Top Airline Approved Picks with USB Ports"
-description: "Choosing the best backpack for air travel makes your trip easier and more organized. A good backpack fits airline rules and keeps your items safe. Travel backpa"
+title: 'Best Backpack for Air Travel: Top Airline Approved Picks with USB Ports'
+description: Choosing the best backpack for air travel makes your trip easier and
+  more organized. A good backpack fits airline rules and keeps your items safe. Travel
+  backpa
 pubDate: 2026-07-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-air-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best backpack for air travel makes your trip easier and more organized. A good backpack fits airline rules and keeps your items safe.**

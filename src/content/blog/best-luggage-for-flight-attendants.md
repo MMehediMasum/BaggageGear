@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Flight Attendants: Top Lightweight Carry-Ons Reviewed"
-description: "Flight attendants need luggage that is durable, lightweight, and easy to carry. Choosing the right bag makes travel more comfortable and efficient. This guide c"
+title: 'Best Luggage for Flight Attendants: Top Lightweight Carry-Ons Reviewed'
+description: Flight attendants need luggage that is durable, lightweight, and easy
+  to carry. Choosing the right bag makes travel more comfortable and efficient. This
+  guide c
 pubDate: 2025-10-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-flight-attendants&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Specific Travelers
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-flight-attendants&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Flight attendants need luggage that is durable, lightweight, and easy to carry. Choosing the right bag makes travel more comfortable and efficient.**

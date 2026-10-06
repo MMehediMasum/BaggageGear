@@ -1,10 +1,14 @@
 ---
-title: "Best Light Sleeping Bag for Hiking: Top Picks for Ultimate Comfort"
-description: "Choosing the best light sleeping bag for hiking makes your outdoor trips comfortable and easy. A lightweight, compact sleeping bag fits well in your backpack an"
+title: 'Best Light Sleeping Bag for Hiking: Top Picks for Ultimate Comfort'
+description: Choosing the best light sleeping bag for hiking makes your outdoor trips
+  comfortable and easy. A lightweight, compact sleeping bag fits well in your backpack
+  an
 pubDate: 2026-06-09
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-light-sleeping-bag-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-light-sleeping-bag-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best light sleeping bag for hiking makes your outdoor trips comfortable and easy. A lightweight, compact sleeping bag fits well in your backpack and keeps you warm.**

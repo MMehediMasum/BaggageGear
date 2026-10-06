@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Two Suitcases Together: Easy Tips for Effortless Travel"
-description: "Imagine you're at the airport, juggling two suitcases and feeling like you're in a circus act. You know the struggle—trying to keep both bags in check while nav"
+title: 'How to Carry Two Suitcases Together: Easy Tips for Effortless Travel'
+description: Imagine you're at the airport, juggling two suitcases and feeling like
+  you're in a circus act. You know the struggle—trying to keep both bags in check
+  while nav
 pubDate: 2026-04-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-two-suitcases-together&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-two-suitcases-together&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine you're at the airport, juggling two suitcases and feeling like you're in a circus act. You know the struggle—trying to keep both bags in check while navigating through a sea of travelers.**

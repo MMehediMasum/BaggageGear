@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Luggage for Europe: Top Carry-On and Backpack Picks"
-description: "Choosing the best lightweight luggage for Europe makes travel easier and more comfortable. Carrying less weight helps you move quickly through airports and busy"
+title: 'Best Lightweight Luggage for Europe: Top Carry-On and Backpack Picks'
+description: Choosing the best lightweight luggage for Europe makes travel easier
+  and more comfortable. Carrying less weight helps you move quickly through airports
+  and busy
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-europe&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-europe&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight luggage for Europe makes travel easier and more comfortable. Carrying less weight helps you move quickly through airports and busy streets.**

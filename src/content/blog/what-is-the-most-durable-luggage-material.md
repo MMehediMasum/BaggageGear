@@ -1,10 +1,14 @@
 ---
-title: "What is the Most Durable Luggage Material: Ultimate Guide to Strength"
-description: "When planning your next adventure, choosing the right luggage is crucial. You want something that can withstand the bumps and scrapes of travel, keeping your be"
+title: 'What is the Most Durable Luggage Material: Ultimate Guide to Strength'
+description: When planning your next adventure, choosing the right luggage is crucial.
+  You want something that can withstand the bumps and scrapes of travel, keeping your
+  be
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-most-durable-luggage-material&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Vs Softside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-most-durable-luggage-material&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **When planning your next adventure, choosing the right luggage is crucial. You want something that can withstand the bumps and scrapes of travel, keeping your belongings safe and secure.**

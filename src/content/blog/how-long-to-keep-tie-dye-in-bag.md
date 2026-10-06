@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Keep Tie Dye in Bag: Ultimate Timing for Perfect Colors"
 description: "Are you ready to dive into the colorful world of tie-dye? You’ve got your vibrant dyes, your blank canvas of a shirt, and now comes the crucial part: timing. Ho"
 pubDate: 2025-10-09

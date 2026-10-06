@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Bag of Rice Cost: Surprising Price Insights 2025"
 description: "Have you ever stood in the grocery aisle, staring at the shelves, wondering how much a bag of rice should really cost? You’re not alone. The price of rice can v"
 pubDate: 2025-10-19

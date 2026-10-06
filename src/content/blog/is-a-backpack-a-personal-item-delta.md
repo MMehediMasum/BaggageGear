@@ -1,10 +1,13 @@
 ---
-title: "Is a Backpack a Personal Item Delta: Ultimate Guide for Travelers"
-description: "Navigating airline policies can be tricky, especially when you're trying to pack efficiently for your trip. If you're flying with Delta, you might be wondering,"
+title: 'Is a Backpack a Personal Item Delta: Ultimate Guide for Travelers'
+description: Navigating airline policies can be tricky, especially when you're trying
+  to pack efficiently for your trip. If you're flying with Delta, you might be wondering,
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Navigating airline policies can be tricky, especially when you're trying to pack efficiently for your trip. If you're flying with Delta, you might be wondering, "Is a backpack a personal item?"**

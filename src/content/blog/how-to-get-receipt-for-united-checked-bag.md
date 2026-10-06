@@ -1,10 +1,14 @@
 ---
-title: "How to Get Receipt for United Checked Bag: Easy Steps to Follow"
-description: "Are you planning a trip with United Airlines and wondering how to get a receipt for your checked bag? You're not alone. Many travelers like you are eager to kee"
+title: 'How to Get Receipt for United Checked Bag: Easy Steps to Follow'
+description: Are you planning a trip with United Airlines and wondering how to get
+  a receipt for your checked bag? You're not alone. Many travelers like you are eager
+  to kee
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-receipt-for-united-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-receipt-for-united-checked-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with United Airlines and wondering how to get a receipt for your checked bag? You're not alone.**

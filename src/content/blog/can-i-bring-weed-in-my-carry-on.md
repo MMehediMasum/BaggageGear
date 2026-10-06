@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Weed in My Carry On: Essential Travel Rules Revealed"
-description: "Thinking about flying soon and wondering if you can bring weed in your carry-on? You're not alone. With the changing laws around cannabis, it’s a question more "
+title: 'Can I Bring Weed in My Carry On: Essential Travel Rules Revealed'
+description: 'Thinking about flying soon and wondering if you can bring weed in your
+  carry-on? You''re not alone. With the changing laws around cannabis, it’s a question
+  more '
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-weed-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-weed-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Thinking about flying soon and wondering if you can bring weed in your carry-on? You're not alone.**

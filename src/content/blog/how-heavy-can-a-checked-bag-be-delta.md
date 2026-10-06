@@ -1,10 +1,14 @@
 ---
-title: "How Heavy Can a Checked Bag Be Delta: Ultimate Weight Limits Guide"
-description: "Planning a trip with Delta Airlines and wondering how heavy your checked bag can be? You’re not alone. Baggage policies can be confusing, and the last thing you"
+title: 'How Heavy Can a Checked Bag Be Delta: Ultimate Weight Limits Guide'
+description: Planning a trip with Delta Airlines and wondering how heavy your checked
+  bag can be? You’re not alone. Baggage policies can be confusing, and the last thing
+  you
 pubDate: 2026-03-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-heavy-can-a-checked-bag-be-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Checked Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-heavy-can-a-checked-bag-be-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with Delta Airlines and wondering how heavy your checked bag can be? You’re not alone.**

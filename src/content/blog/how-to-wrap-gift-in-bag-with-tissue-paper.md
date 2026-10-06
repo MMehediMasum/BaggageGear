@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wrap Gift in Bag With Tissue Paper: Easy & Stylish Tips"
 description: "Are you staring at a pile of gift bags and tissue paper, wondering how to make your presents look as beautiful on the outside as they are thoughtful on the insi"
 pubDate: 2026-02-10

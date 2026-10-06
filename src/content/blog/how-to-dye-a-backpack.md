@@ -1,10 +1,14 @@
 ---
-title: "How to Dye a Backpack: Easy Steps for a Bold New Look"
-description: "Ever looked at your backpack and wished it had a bit more personality? Maybe it's time to give it a fresh new look. Dyeing a backpack is a creative and fun way "
+title: 'How to Dye a Backpack: Easy Steps for a Bold New Look'
+description: 'Ever looked at your backpack and wished it had a bit more personality?
+  Maybe it''s time to give it a fresh new look. Dyeing a backpack is a creative and
+  fun way '
 pubDate: 2026-01-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-dye-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Customizing And Decorating Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-dye-a-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever looked at your backpack and wished it had a bit more personality? Maybe it's time to give it a fresh new look.**

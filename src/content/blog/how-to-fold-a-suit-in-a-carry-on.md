@@ -1,10 +1,14 @@
 ---
-title: "How to Fold a Suit in a Carry On: Expert Tips for Wrinkle-Free Travel"
-description: "Packing a suit in a carry-on can feel like a daunting task. You want your suit to arrive as crisp and wrinkle-free as when you packed it. But how do you achieve"
+title: 'How to Fold a Suit in a Carry On: Expert Tips for Wrinkle-Free Travel'
+description: Packing a suit in a carry-on can feel like a daunting task. You want
+  your suit to arrive as crisp and wrinkle-free as when you packed it. But how do
+  you achieve
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Suit For Travel
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fold-a-suit-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing a suit in a carry-on can feel like a daunting task. You want your suit to arrive as crisp and wrinkle-free as when you packed it.**

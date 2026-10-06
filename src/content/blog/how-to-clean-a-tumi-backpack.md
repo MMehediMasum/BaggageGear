@@ -1,10 +1,14 @@
 ---
-title: "How to Clean a Tumi Backpack: Easy Steps for Spotless Care"
-description: "Your Tumi backpack is more than just a bag; it's a trusty companion on your daily adventures. Whether you're commuting to work, exploring new cities, or heading"
+title: 'How to Clean a Tumi Backpack: Easy Steps for Spotless Care'
+description: Your Tumi backpack is more than just a bag; it's a trusty companion on
+  your daily adventures. Whether you're commuting to work, exploring new cities, or
+  heading
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-a-tumi-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Premium And Outdoor Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-a-tumi-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Tumi backpack is more than just a bag; it's a trusty companion on your daily adventures. Whether you're commuting to work, exploring new cities, or heading out for a weekend getaway, your Tumi backpack carries your essentials and reflects your style.**

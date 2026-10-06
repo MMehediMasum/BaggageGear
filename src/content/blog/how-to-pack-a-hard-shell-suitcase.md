@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Hard Shell Suitcase: Expert Tips for Perfect Packing"
-description: "Picture this: you’re standing in front of your hard shell suitcase, surrounded by piles of clothes, shoes, and travel essentials. The clock is ticking, and the "
+title: 'How to Pack a Hard Shell Suitcase: Expert Tips for Perfect Packing'
+description: 'Picture this: you’re standing in front of your hard shell suitcase,
+  surrounded by piles of clothes, shoes, and travel essentials. The clock is ticking,
+  and the '
 pubDate: 2026-02-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-hard-shell-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-hard-shell-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Picture this: you’re standing in front of your hard shell suitcase, surrounded by piles of clothes, shoes, and travel essentials. The clock is ticking, and the stress of fitting everything neatly into your luggage is mounting.**

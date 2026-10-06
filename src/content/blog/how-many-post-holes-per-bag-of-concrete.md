@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Post Holes Per Bag of Concrete: Ultimate Guide for DIY Success"
 description: "Are you planning a DIY project that involves setting fence posts or building a deck? If so, you've probably asked yourself, \"How many post holes can I fill with"
 pubDate: 2026-03-25

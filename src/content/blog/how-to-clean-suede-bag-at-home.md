@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Suede Bag at Home: Easy DIY Guide"
-description: "Your suede bag is more than just an accessory—it’s a style statement. But keeping it clean can feel tricky and even scary. What if you ruin the soft texture or "
+title: 'How to Clean Suede Bag at Home: Easy DIY Guide'
+description: 'Your suede bag is more than just an accessory—it’s a style statement.
+  But keeping it clean can feel tricky and even scary. What if you ruin the soft texture
+  or '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-suede-bag-at-home&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-suede-bag-at-home&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your suede bag is more than just an accessory—it’s a style statement. But keeping it clean can feel tricky and even scary.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Two Person Tent for Backpacking: Top Picks for Outdoor Adventures"
 description: "Choosing the best two-person tent for backpacking means balancing weight, durability, and ease of setup. A reliable tent keeps you safe and comfortable on every"
 pubDate: 2026-06-11

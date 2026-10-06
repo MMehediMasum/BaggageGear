@@ -1,10 +1,14 @@
 ---
-title: "Best Affordable Luggage for International Travel: Top Picks for Jetsetters"
-description: "Finding the best affordable luggage for international travel helps you pack smart and save money. Quality suitcases protect your belongings and make moving thro"
+title: 'Best Affordable Luggage for International Travel: Top Picks for Jetsetters'
+description: Finding the best affordable luggage for international travel helps you
+  pack smart and save money. Quality suitcases protect your belongings and make moving
+  thro
 pubDate: 2026-07-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-affordable-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-affordable-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best affordable luggage for international travel helps you pack smart and save money. Quality suitcases protect your belongings and make moving through airports easy.**

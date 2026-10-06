@@ -1,10 +1,13 @@
 ---
-title: "Best Luggage Carry On: Top Lightweight Hardshell & Softside Suitcases"
-description: "Choosing the best carry-on luggage makes travel easier and more comfortable. It saves time and fits easily in overhead bins. A good carry-on should be lightweig"
+title: 'Best Luggage Carry On: Top Lightweight Hardshell & Softside Suitcases'
+description: Choosing the best carry-on luggage makes travel easier and more comfortable.
+  It saves time and fits easily in overhead bins. A good carry-on should be lightweig
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage makes travel easier and more comfortable. It saves time and fits easily in overhead bins.**

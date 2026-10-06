@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Bag in Spades: Ultimate Guide to Winning Strategies"
 description: "Ever found yourself in the middle of a lively game of Spades and someone mentions \"the bag,\" leaving you puzzled? Understanding the concept of a bag in Spades c"
 pubDate: 2026-01-13

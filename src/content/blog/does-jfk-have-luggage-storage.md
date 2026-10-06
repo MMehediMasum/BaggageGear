@@ -1,10 +1,14 @@
 ---
-title: "Does JFK Have Luggage Storage? Ultimate Guide for Travelers"
-description: "Wondering what to do with your luggage when you land at JFK Airport? You're not alone. Navigating the hustle and bustle of one of the busiest airports in the wo"
+title: Does JFK Have Luggage Storage? Ultimate Guide for Travelers
+description: Wondering what to do with your luggage when you land at JFK Airport?
+  You're not alone. Navigating the hustle and bustle of one of the busiest airports
+  in the wo
 pubDate: 2026-03-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jfk-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=does-jfk-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Wondering what to do with your luggage when you land at JFK Airport? You're not alone.**

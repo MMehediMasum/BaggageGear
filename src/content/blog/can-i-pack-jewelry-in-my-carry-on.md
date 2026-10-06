@@ -1,10 +1,14 @@
 ---
-title: "Can I Pack Jewelry in My Carry on: Essential Travel Tips"
-description: "Traveling can be both exciting and stressful, especially when it comes to packing your valuables. If you're wondering, \"Can I pack jewelry in my carry on?\" You'"
+title: 'Can I Pack Jewelry in My Carry on: Essential Travel Tips'
+description: Traveling can be both exciting and stressful, especially when it comes
+  to packing your valuables. If you're wondering, "Can I pack jewelry in my carry
+  on?" You'
 pubDate: 2026-03-24
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-pack-jewelry-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-i-pack-jewelry-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling can be both exciting and stressful, especially when it comes to packing your valuables. If you're wondering, "Can I pack jewelry in my carry on?"**

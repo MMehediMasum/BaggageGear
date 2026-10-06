@@ -1,10 +1,13 @@
 ---
-title: "Can You Put Champagne in Checked Luggage: Essential Travel Tips"
-description: "Imagine this: you're on a blissful vacation in the heart of Champagne, France. You've just discovered a sparkling wine that perfectly captures your unforgettabl"
+title: 'Can You Put Champagne in Checked Luggage: Essential Travel Tips'
+description: 'Imagine this: you''re on a blissful vacation in the heart of Champagne,
+  France. You''ve just discovered a sparkling wine that perfectly captures your unforgettabl'
 pubDate: 2026-05-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-champagne-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-champagne-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're on a blissful vacation in the heart of Champagne, France. You've just discovered a sparkling wine that perfectly captures your unforgettable experience.**

@@ -1,10 +1,14 @@
 ---
-title: "Are Disposable Razors Allowed in Carry On: Ultimate TSA Guide"
-description: "You've packed your bags, double-checked your itinerary, and are ready for your next adventure. But there's a lingering question at the back of your mind: \"Are d"
+title: 'Are Disposable Razors Allowed in Carry On: Ultimate TSA Guide'
+description: 'You''ve packed your bags, double-checked your itinerary, and are ready
+  for your next adventure. But there''s a lingering question at the back of your mind:
+  "Are d'
 pubDate: 2026-05-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-disposable-razors-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=are-disposable-razors-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You've packed your bags, double-checked your itinerary, and are ready for your next adventure. But there's a lingering question at the back of your mind: "Are disposable razors allowed in carry-on luggage?"**

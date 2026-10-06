@@ -1,10 +1,14 @@
 ---
-title: "What Size Bag Can You Carry-On Frontier for Free: Ultimate Guide"
-description: "Imagine you're excitedly packing for your next adventure, and all that's left to figure out is what size bag you can carry on Frontier Airlines for free. This l"
+title: 'What Size Bag Can You Carry-On Frontier for Free: Ultimate Guide'
+description: Imagine you're excitedly packing for your next adventure, and all that's
+  left to figure out is what size bag you can carry on Frontier Airlines for free.
+  This l
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-bag-can-you-carry-on-frontier-for-free&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-size-bag-can-you-carry-on-frontier-for-free&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine you're excitedly packing for your next adventure, and all that's left to figure out is what size bag you can carry on Frontier Airlines for free. This little detail could mean the difference between a smooth journey and unexpected fees.**

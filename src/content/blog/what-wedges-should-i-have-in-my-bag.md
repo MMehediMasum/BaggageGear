@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Wedges Should I Have in My Bag: Essential Picks for Success"
 description: "Are you standing over your golf bag, puzzled about which wedges should make the cut for your next round? You're not alone. Choosing the right wedges can feel li"
 pubDate: 2026-03-08

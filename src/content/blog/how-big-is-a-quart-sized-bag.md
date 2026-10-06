@@ -1,10 +1,14 @@
 ---
-title: "How Big is a Quart Sized Bag: Ultimate Size Guide Revealed"
-description: "Have you ever stood at the airport security line, puzzled about whether your toiletries fit in a quart-sized bag? You're not alone. Many travelers are unsure ab"
+title: 'How Big is a Quart Sized Bag: Ultimate Size Guide Revealed'
+description: Have you ever stood at the airport security line, puzzled about whether
+  your toiletries fit in a quart-sized bag? You're not alone. Many travelers are unsure
+  ab
 pubDate: 2026-04-27
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-is-a-quart-sized-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-big-is-a-quart-sized-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood at the airport security line, puzzled about whether your toiletries fit in a quart-sized bag? You're not alone.**

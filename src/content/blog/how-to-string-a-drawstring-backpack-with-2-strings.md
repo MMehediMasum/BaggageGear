@@ -1,10 +1,14 @@
 ---
-title: "How to String a Drawstring Backpack With 2 Strings: Easy Step-by-Step Guide"
-description: "Have you ever struggled with a drawstring backpack that just won't cooperate? You know the frustration: one string is longer than the other, or they’re tangled "
+title: 'How to String a Drawstring Backpack With 2 Strings: Easy Step-by-Step Guide'
+description: 'Have you ever struggled with a drawstring backpack that just won''t
+  cooperate? You know the frustration: one string is longer than the other, or they’re
+  tangled '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-string-a-drawstring-backpack-with-2-strings&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-string-a-drawstring-backpack-with-2-strings&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Have you ever struggled with a drawstring backpack that just won't cooperate? You know the frustration: one string is longer than the other, or they’re tangled beyond belief.**

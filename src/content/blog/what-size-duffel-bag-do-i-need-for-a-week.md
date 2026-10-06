@@ -1,10 +1,13 @@
 ---
-title: "What Size Duffel Bag Do I Need for a Week: Ultimate Packing Guide"
-description: "Choosing the right duffel bag size for your week-long trip can feel like a puzzle. You want enough space for all your essentials without lugging around unnecess"
+title: 'What Size Duffel Bag Do I Need for a Week: Ultimate Packing Guide'
+description: Choosing the right duffel bag size for your week-long trip can feel like
+  a puzzle. You want enough space for all your essentials without lugging around unnecess
 pubDate: 2025-09-02
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-duffel-bag-do-i-need-for-a-week&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-size-duffel-bag-do-i-need-for-a-week&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the right duffel bag size for your week-long trip can feel like a puzzle. You want enough space for all your essentials without lugging around unnecessary bulk.**

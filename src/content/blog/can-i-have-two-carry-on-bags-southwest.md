@@ -1,10 +1,14 @@
 ---
-title: "Can I Have Two Carry On Bags Southwest: Essential Travel Tips"
-description: "Are you planning a trip with Southwest Airlines and wondering about their carry-on luggage policy? If you're like most travelers, you want to make sure you’re p"
+title: 'Can I Have Two Carry On Bags Southwest: Essential Travel Tips'
+description: Are you planning a trip with Southwest Airlines and wondering about their
+  carry-on luggage policy? If you're like most travelers, you want to make sure you’re
+  p
 pubDate: 2026-02-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-have-two-carry-on-bags-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=can-i-have-two-carry-on-bags-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Southwest Airlines and wondering about their carry-on luggage policy? If you're like most travelers, you want to make sure you’re packing efficiently without any surprises at the gate.**

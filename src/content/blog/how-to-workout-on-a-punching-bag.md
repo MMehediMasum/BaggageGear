@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Workout on a Punching Bag: Ultimate Guide for Fast Results"
 description: "Are you ready to take your fitness routine to the next level? Discover the exhilarating world of punching bag workouts. Imagine the stress melting away as you u"
 pubDate: 2025-09-14

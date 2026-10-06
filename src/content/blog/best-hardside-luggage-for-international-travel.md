@@ -1,10 +1,14 @@
 ---
-title: "Best Hardside Luggage for International Travel: Top Picks for Durability"
-description: "Choosing the best hardside luggage ensures safe and easy international travel. Durable, lightweight suitcases with smooth wheels make trips more comfortable. Ha"
+title: 'Best Hardside Luggage for International Travel: Top Picks for Durability'
+description: Choosing the best hardside luggage ensures safe and easy international
+  travel. Durable, lightweight suitcases with smooth wheels make trips more comfortable.
+  Ha
 pubDate: 2026-07-28
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hardside-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-hardside-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best hardside luggage ensures safe and easy international travel. Durable, lightweight suitcases with smooth wheels make trips more comfortable.**

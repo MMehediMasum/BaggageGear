@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Happened to Mixed Bag Designs: Shocking Truth Revealed"
 description: "Have you ever found yourself rifling through a catalog, captivated by vibrant designs and unique products? If Mixed Bag Designs rings a bell, you're not alone. "
 pubDate: 2026-03-08

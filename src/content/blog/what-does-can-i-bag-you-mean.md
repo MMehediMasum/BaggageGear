@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Can I Bag You Mean: Decoding This Trendy Phrase"
 description: "Have you ever stumbled upon the phrase \"Can I bag you?\" And wondered what it truly means? You're not alone. This intriguing expression has found its way into ev"
 pubDate: 2026-02-23

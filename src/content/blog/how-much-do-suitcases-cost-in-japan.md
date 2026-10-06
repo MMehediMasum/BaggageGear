@@ -1,10 +1,13 @@
 ---
-title: "How Much Do Suitcases Cost in Japan: Ultimate Price Guide 2025"
-description: "Are you planning a trip to Japan and wondering how much you should budget for a suitcase? You're not alone. Navigating the world of luggage can be overwhelming,"
+title: 'How Much Do Suitcases Cost in Japan: Ultimate Price Guide 2025'
+description: Are you planning a trip to Japan and wondering how much you should budget
+  for a suitcase? You're not alone. Navigating the world of luggage can be overwhelming,
 pubDate: 2026-02-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-do-suitcases-cost-in-japan&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-do-suitcases-cost-in-japan&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you planning a trip to Japan and wondering how much you should budget for a suitcase? You're not alone.**

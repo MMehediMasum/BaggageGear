@@ -1,10 +1,14 @@
 ---
-title: "Best Carry on Suit Cases: Top Picks for Stylish and Easy Travel"
-description: "Choosing the best carry-on suitcases can make travel easier and more comfortable. This guide covers top options with smart features and durable designs. Traveli"
+title: 'Best Carry on Suit Cases: Top Picks for Stylish and Easy Travel'
+description: Choosing the best carry-on suitcases can make travel easier and more
+  comfortable. This guide covers top options with smart features and durable designs.
+  Traveli
 pubDate: 2026-08-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-suit-cases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-suit-cases&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on suitcases can make travel easier and more comfortable. This guide covers top options with smart features and durable designs.**

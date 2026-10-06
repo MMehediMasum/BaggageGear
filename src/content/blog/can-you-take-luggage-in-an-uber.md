@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Luggage in an Uber: Essential Tips for Travelers"
-description: "Have you ever wondered if you can take luggage with you when you book an Uber? You're not alone. Many travelers face this question, especially when heading to t"
+title: 'Can You Take Luggage in an Uber: Essential Tips for Travelers'
+description: Have you ever wondered if you can take luggage with you when you book
+  an Uber? You're not alone. Many travelers face this question, especially when heading
+  to t
 pubDate: 2026-01-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-luggage-in-an-uber&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage On Car And Train
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-luggage-in-an-uber&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if you can take luggage with you when you book an Uber? You're not alone.**

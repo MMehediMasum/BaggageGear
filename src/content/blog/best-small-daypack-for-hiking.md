@@ -1,10 +1,14 @@
 ---
-title: "Best Small Daypack for Hiking: Top Compact Backpacks for Outdoor Adventures"
-description: "Choosing the best small daypack for hiking makes your outdoor trips easier and more comfortable. A good daypack holds your essentials without weighing you down."
+title: 'Best Small Daypack for Hiking: Top Compact Backpacks for Outdoor Adventures'
+description: Choosing the best small daypack for hiking makes your outdoor trips easier
+  and more comfortable. A good daypack holds your essentials without weighing you
+  down.
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-daypack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-small-daypack-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best small daypack for hiking makes your outdoor trips easier and more comfortable. A good daypack holds your essentials without weighing you down.**

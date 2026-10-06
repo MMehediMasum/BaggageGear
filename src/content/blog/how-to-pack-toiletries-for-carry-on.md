@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Toiletries for Carry on: Ultimate Travel Packing Guide"
-description: "Packing toiletries for a carry-on can feel like solving a tricky puzzle. You want to bring all your essentials but avoid any security hassles or leaks in your b"
+title: 'How to Pack Toiletries for Carry on: Ultimate Travel Packing Guide'
+description: Packing toiletries for a carry-on can feel like solving a tricky puzzle.
+  You want to bring all your essentials but avoid any security hassles or leaks in
+  your b
 pubDate: 2025-10-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-toiletries-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-toiletries-for-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing toiletries for a carry-on can feel like solving a tricky puzzle. You want to bring all your essentials but avoid any security hassles or leaks in your bag.**

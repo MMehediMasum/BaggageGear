@@ -1,10 +1,14 @@
 ---
-title: "Can You Mail Luggage: Essential Tips for Safe and Easy Shipping"
-description: "Have you ever wondered if there's an easier way to deal with your luggage while traveling? Imagine skipping the long lines at check-in and avoiding the hassle o"
+title: 'Can You Mail Luggage: Essential Tips for Safe and Easy Shipping'
+description: Have you ever wondered if there's an easier way to deal with your luggage
+  while traveling? Imagine skipping the long lines at check-in and avoiding the hassle
+  o
 pubDate: 2026-04-22
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-mail-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-you-mail-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if there's an easier way to deal with your luggage while traveling? Imagine skipping the long lines at check-in and avoiding the hassle of lugging your heavy bags through the airport.**

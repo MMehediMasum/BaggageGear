@@ -1,10 +1,14 @@
 ---
-title: "Are Swissgear Backpacks Machine Washable: Ultimate Cleaning Guide"
-description: "Have you ever wondered if your Swissgear backpack can be tossed into the washing machine? You're not alone. Many people love the durability and style of Swissge"
+title: 'Are Swissgear Backpacks Machine Washable: Ultimate Cleaning Guide'
+description: Have you ever wondered if your Swissgear backpack can be tossed into
+  the washing machine? You're not alone. Many people love the durability and style
+  of Swissge
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-swissgear-backpacks-machine-washable&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=are-swissgear-backpacks-machine-washable&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever wondered if your Swissgear backpack can be tossed into the washing machine? You're not alone.**

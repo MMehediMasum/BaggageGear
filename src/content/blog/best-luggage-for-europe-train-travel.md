@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Europe Train Travel: Top Lightweight Carry-Ons Reviewed"
-description: "Choosing the best luggage for Europe train travel makes your trip easier and more enjoyable. Train trips need bags that fit small spaces and move smoothly. Trav"
+title: 'Best Luggage for Europe Train Travel: Top Lightweight Carry-Ons Reviewed'
+description: Choosing the best luggage for Europe train travel makes your trip easier
+  and more enjoyable. Train trips need bags that fit small spaces and move smoothly.
+  Trav
 pubDate: 2026-08-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-europe-train-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Safari And Specialty Trip Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-europe-train-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for Europe train travel makes your trip easier and more enjoyable. Train trips need bags that fit small spaces and move smoothly.**

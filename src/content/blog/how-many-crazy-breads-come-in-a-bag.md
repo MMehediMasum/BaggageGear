@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Crazy Breads Come in a Bag: Surprising Count Revealed!"
 description: "Have you ever found yourself craving the delicious, cheesy aroma of Crazy Bread from Little Caesars? If you're a fan of these irresistible breadsticks, you're n"
 pubDate: 2025-10-01

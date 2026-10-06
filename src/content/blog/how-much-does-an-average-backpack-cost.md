@@ -1,10 +1,14 @@
 ---
-title: "How Much Does an Average Backpack Cost: Ultimate Price Guide 2025"
-description: "Are you planning an adventure or preparing for the upcoming school year? The right backpack can make all the difference. But how much should you really be spend"
+title: 'How Much Does an Average Backpack Cost: Ultimate Price Guide 2025'
+description: Are you planning an adventure or preparing for the upcoming school year?
+  The right backpack can make all the difference. But how much should you really be
+  spend
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-an-average-backpack-cost&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-an-average-backpack-cost&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you planning an adventure or preparing for the upcoming school year? The right backpack can make all the difference.**

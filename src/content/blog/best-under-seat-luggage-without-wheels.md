@@ -1,10 +1,13 @@
 ---
-title: "Best Under Seat Luggage Without Wheels for Lightweight Travel Convenience"
-description: "Finding the best under seat luggage without wheels makes traveling simple and stress-free. These bags fit easily under airplane seats and offer great convenienc"
+title: Best Under Seat Luggage Without Wheels for Lightweight Travel Convenience
+description: Finding the best under seat luggage without wheels makes traveling simple
+  and stress-free. These bags fit easily under airplane seats and offer great convenienc
 pubDate: 2026-08-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-under-seat-luggage-without-wheels&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-under-seat-luggage-without-wheels&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best under seat luggage without wheels makes traveling simple and stress-free. These bags fit easily under airplane seats and offer great convenience.**

@@ -1,10 +1,14 @@
 ---
-title: "Is Monos Luggage Worth It? Unveiling Quality & Value"
-description: "Are you on the hunt for the perfect travel companion to elevate your journeys? With the plethora of luggage brands flooding the market, you might find yourself "
+title: Is Monos Luggage Worth It? Unveiling Quality & Value
+description: 'Are you on the hunt for the perfect travel companion to elevate your
+  journeys? With the plethora of luggage brands flooding the market, you might find
+  yourself '
 pubDate: 2026-04-11
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-monos-luggage-worth-it&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Direct To Consumer Luggage Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-monos-luggage-worth-it&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for the perfect travel companion to elevate your journeys? With the plethora of luggage brands flooding the market, you might find yourself asking, "Is Monos Luggage worth it?"**

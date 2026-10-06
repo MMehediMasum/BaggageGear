@@ -1,10 +1,14 @@
 ---
-title: "Best Crossbody Bag for Plus Size: Stylish, Spacious & Adjustable Comfort"
-description: "Finding the best crossbody bag for plus size can boost comfort and style. The right bag fits well and holds all essentials without feeling tight or heavy. Cross"
+title: 'Best Crossbody Bag for Plus Size: Stylish, Spacious & Adjustable Comfort'
+description: Finding the best crossbody bag for plus size can boost comfort and style.
+  The right bag fits well and holds all essentials without feeling tight or heavy.
+  Cross
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-crossbody-bag-for-plus-size&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-crossbody-bag-for-plus-size&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best crossbody bag for plus size can boost comfort and style. The right bag fits well and holds all essentials without feeling tight or heavy.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Draw a Backpack Step by Step: Easy Guide for Beginners"
 description: "Ready to unleash your creativity? Drawing a backpack might sound challenging, but with the right guidance, you can master it step by step. Imagine the satisfact"
 pubDate: 2025-12-08

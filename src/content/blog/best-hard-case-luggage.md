@@ -1,10 +1,14 @@
 ---
-title: "Best Hard Case Luggage for Durable and Stylish Travel Solutions"
-description: "Choosing the best hard case luggage ensures your belongings stay safe and organized during travel. Hard shell suitcases offer durability, protection, and style "
+title: Best Hard Case Luggage for Durable and Stylish Travel Solutions
+description: 'Choosing the best hard case luggage ensures your belongings stay safe
+  and organized during travel. Hard shell suitcases offer durability, protection,
+  and style '
 pubDate: 2026-07-29
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-hard-case-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-hard-case-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best hard case luggage ensures your belongings stay safe and organized during travel. Hard shell suitcases offer durability, protection, and style for every trip.**

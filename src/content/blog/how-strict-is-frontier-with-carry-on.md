@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Frontier With Carry On: Essential Travel Rules Revealed"
-description: "Are you planning to fly with Frontier Airlines soon and wondering just how strict they are when it comes to carry-on luggage? You’re not alone. Navigating the m"
+title: 'How Strict is Frontier With Carry On: Essential Travel Rules Revealed'
+description: Are you planning to fly with Frontier Airlines soon and wondering just
+  how strict they are when it comes to carry-on luggage? You’re not alone. Navigating
+  the m
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-frontier-with-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-frontier-with-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Frontier Airlines soon and wondering just how strict they are when it comes to carry-on luggage? You’re not alone.**

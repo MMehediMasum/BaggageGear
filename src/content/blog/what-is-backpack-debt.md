@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Backpack Debt: Uncover Shocking Student Loan Truths"
 description: "Ever felt like you're carrying an invisible weight on your shoulders every time you think about money? This burden, often referred to as \"Backpack Debt,\" could "
 pubDate: 2025-12-10

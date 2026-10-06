@@ -1,10 +1,14 @@
 ---
-title: "Where to Put Luggage Tag on Suitcase: Expert Placement Tips"
-description: "You've packed your bags, double-checked your itinerary, and are ready to jet off to your next destination. But wait, have you thought about where to place your "
+title: 'Where to Put Luggage Tag on Suitcase: Expert Placement Tips'
+description: 'You''ve packed your bags, double-checked your itinerary, and are ready
+  to jet off to your next destination. But wait, have you thought about where to place
+  your '
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-put-luggage-tag-on-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=where-to-put-luggage-tag-on-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've packed your bags, double-checked your itinerary, and are ready to jet off to your next destination. But wait, have you thought about where to place your luggage tag on your suitcase?**

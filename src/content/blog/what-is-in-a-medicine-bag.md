@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in a Medicine Bag: Essential Items You Must Know"
 description: "Have you ever wondered about the secrets tucked away in a medicine bag? Picture this: a small, unassuming pouch that holds the key to healing, tradition, and pe"
 pubDate: 2026-03-09

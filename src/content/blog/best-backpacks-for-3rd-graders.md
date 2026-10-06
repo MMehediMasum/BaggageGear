@@ -1,10 +1,14 @@
 ---
-title: "Best Backpacks for 3rd Graders: Top Picks for School and Travel"
-description: "Choosing the best backpack for 3rd graders helps kids carry their school supplies comfortably and safely. The right backpack fits their size, holds books, and s"
+title: 'Best Backpacks for 3rd Graders: Top Picks for School and Travel'
+description: Choosing the best backpack for 3rd graders helps kids carry their school
+  supplies comfortably and safely. The right backpack fits their size, holds books,
+  and s
 pubDate: 2026-05-31
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpacks-for-3rd-graders&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpacks-for-3rd-graders&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for 3rd graders helps kids carry their school supplies comfortably and safely. The right backpack fits their size, holds books, and stays durable for daily use.**

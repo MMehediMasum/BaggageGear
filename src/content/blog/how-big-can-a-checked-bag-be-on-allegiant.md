@@ -1,10 +1,14 @@
 ---
-title: "How Big Can a Checked Bag Be on Allegiant: Ultimate Size Limits Revealed"
-description: "Planning your next trip and wondering about your luggage? You're not alone. If Allegiant Air is your chosen airline, you'll want to get it right when it comes t"
+title: 'How Big Can a Checked Bag Be on Allegiant: Ultimate Size Limits Revealed'
+description: Planning your next trip and wondering about your luggage? You're not
+  alone. If Allegiant Air is your chosen airline, you'll want to get it right when
+  it comes t
 pubDate: 2026-03-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-big-can-a-checked-bag-be-on-allegiant&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Frontier And Allegiant Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-big-can-a-checked-bag-be-on-allegiant&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip and wondering about your luggage? You're not alone.**

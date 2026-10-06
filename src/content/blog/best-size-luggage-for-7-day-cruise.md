@@ -1,10 +1,14 @@
 ---
-title: "Best Size Luggage for 7 Day Cruise: Top Picks and Expert Tips"
-description: "Choosing the best size luggage for a 7-day cruise ensures you pack smart and travel comfortably. The right suitcase fits your clothes, gear, and cruise rules pe"
+title: 'Best Size Luggage for 7 Day Cruise: Top Picks and Expert Tips'
+description: Choosing the best size luggage for a 7-day cruise ensures you pack smart
+  and travel comfortably. The right suitcase fits your clothes, gear, and cruise rules
+  pe
 pubDate: 2026-08-09
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-luggage-for-7-day-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-size-luggage-for-7-day-cruise&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best size luggage for a 7-day cruise ensures you pack smart and travel comfortably. The right suitcase fits your clothes, gear, and cruise rules perfectly.**

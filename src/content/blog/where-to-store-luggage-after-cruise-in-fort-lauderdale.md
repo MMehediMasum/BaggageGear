@@ -1,10 +1,14 @@
 ---
-title: "Where to Store Luggage After Cruise in Fort Lauderdale: Top Secure Spots"
-description: "You’ve just disembarked from a thrilling cruise, the ocean breeze still lingering in your hair, and the vibrant city of Fort Lauderdale beckons. But there’s one"
+title: 'Where to Store Luggage After Cruise in Fort Lauderdale: Top Secure Spots'
+description: You’ve just disembarked from a thrilling cruise, the ocean breeze still
+  lingering in your hair, and the vibrant city of Fort Lauderdale beckons. But there’s
+  one
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-store-luggage-after-cruise-in-fort-lauderdale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Storage By City
+heroImage: https://tse1.mm.bing.net/th?q=where-to-store-luggage-after-cruise-in-fort-lauderdale&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You’ve just disembarked from a thrilling cruise, the ocean breeze still lingering in your hair, and the vibrant city of Fort Lauderdale beckons. But there’s one tiny problem — your luggage.**

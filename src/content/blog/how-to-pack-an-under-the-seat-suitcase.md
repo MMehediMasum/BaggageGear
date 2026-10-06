@@ -1,10 +1,14 @@
 ---
-title: "How to Pack an Under the Seat Suitcase: Ultimate Space-Saving Tips"
-description: "You know the struggle of fitting everything you need into a tiny under the seat suitcase. It feels impossible, right? But what if you could pack smartly and eff"
+title: 'How to Pack an Under the Seat Suitcase: Ultimate Space-Saving Tips'
+description: You know the struggle of fitting everything you need into a tiny under
+  the seat suitcase. It feels impossible, right? But what if you could pack smartly
+  and eff
 pubDate: 2026-04-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-an-under-the-seat-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-an-under-the-seat-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **You know the struggle of fitting everything you need into a tiny under the seat suitcase. It feels impossible, right?**

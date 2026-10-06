@@ -1,10 +1,14 @@
 ---
-title: "Is There a Weight Limit for Luggage on a Cruise? Essential Guide"
-description: "Planning for a cruise can be thrilling yet nerve-wracking, especially when you start thinking about what to pack. You might be wondering, \"Is there a weight lim"
+title: Is There a Weight Limit for Luggage on a Cruise? Essential Guide
+description: Planning for a cruise can be thrilling yet nerve-wracking, especially
+  when you start thinking about what to pack. You might be wondering, "Is there a
+  weight lim
 pubDate: 2026-03-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-luggage-on-a-cruise&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Scales And Weighing Luggage
+heroImage: https://tse1.mm.bing.net/th?q=is-there-a-weight-limit-for-luggage-on-a-cruise&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning for a cruise can be thrilling yet nerve-wracking, especially when you start thinking about what to pack. You might be wondering, "Is there a weight limit for luggage on a cruise?"**

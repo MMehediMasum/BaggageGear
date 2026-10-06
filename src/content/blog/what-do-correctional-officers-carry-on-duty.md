@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Do Correctional Officers Carry on Duty: Essential Gear Revealed"
 description: "Have you ever wondered what correctional officers carry with them every day while on duty? These professionals play a crucial role in maintaining safety and ord"
 pubDate: 2026-03-22

@@ -1,10 +1,14 @@
 ---
-title: "How to Add Carry on Bag Spirit: Easy Tips for Stress-Free Travel"
-description: "Planning a trip and flying with Spirit Airlines? Then you know how important it is to make the most of your carry-on bag allowance. It can be a bit confusing to"
+title: 'How to Add Carry on Bag Spirit: Easy Tips for Stress-Free Travel'
+description: Planning a trip and flying with Spirit Airlines? Then you know how important
+  it is to make the most of your carry-on bag allowance. It can be a bit confusing
+  to
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-add-carry-on-bag-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-to-add-carry-on-bag-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip and flying with Spirit Airlines? Then you know how important it is to make the most of your carry-on bag allowance.**

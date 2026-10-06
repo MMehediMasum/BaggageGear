@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Hardside Luggage for Durable and Stylish Travel Gear"
-description: "Choosing the best carry-on hardside luggage can make travel easier and more organized. Sturdy, lightweight suitcases protect your belongings and fit airline rul"
+title: Best Carry On Hardside Luggage for Durable and Stylish Travel Gear
+description: Choosing the best carry-on hardside luggage can make travel easier and
+  more organized. Sturdy, lightweight suitcases protect your belongings and fit airline
+  rul
 pubDate: 2026-08-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-hardside-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-hardside-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on hardside luggage can make travel easier and more organized. Sturdy, lightweight suitcases protect your belongings and fit airline rules.**

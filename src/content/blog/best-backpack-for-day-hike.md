@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Day Hike: Top Lightweight and Durable Picks"
-description: "Choosing the best backpack for a day hike makes your outdoor trip easier and more enjoyable. A good daypack holds your essentials without feeling heavy or bulky"
+title: 'Best Backpack for Day Hike: Top Lightweight and Durable Picks'
+description: Choosing the best backpack for a day hike makes your outdoor trip easier
+  and more enjoyable. A good daypack holds your essentials without feeling heavy or
+  bulky
 pubDate: 2026-06-24
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-day-hike&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-day-hike&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for a day hike makes your outdoor trip easier and more enjoyable. A good daypack holds your essentials without feeling heavy or bulky.**

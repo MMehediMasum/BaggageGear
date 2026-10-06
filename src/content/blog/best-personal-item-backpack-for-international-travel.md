@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item Backpack for International Travel: Top TSA-Approved Picks"
-description: "Choosing the best personal item backpack for international travel makes your journey easier and more comfortable. A good backpack keeps your essentials organize"
+title: 'Best Personal Item Backpack for International Travel: Top TSA-Approved Picks'
+description: Choosing the best personal item backpack for international travel makes
+  your journey easier and more comfortable. A good backpack keeps your essentials
+  organize
 pubDate: 2026-08-06
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-backpack-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-backpack-for-international-travel&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item backpack for international travel makes your journey easier and more comfortable. A good backpack keeps your essentials organized, safe, and easy to carry on the plane.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Donettes are in a Bag: Unveiling the Perfect Count"
 description: "Have you ever grabbed a bag of Donettes and wondered just how many little donuts you’re actually getting inside? Whether you’re planning a snack for yourself, s"
 pubDate: 2026-02-11

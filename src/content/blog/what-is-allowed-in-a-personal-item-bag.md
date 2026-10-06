@@ -1,10 +1,14 @@
 ---
-title: "What is Allowed in a Personal Item Bag: Ultimate Packing Guide"
-description: "Have you ever stood at the airport security line wondering exactly what you can pack in your personal item bag? You’re not alone. Knowing the rules can save you"
+title: 'What is Allowed in a Personal Item Bag: Ultimate Packing Guide'
+description: Have you ever stood at the airport security line wondering exactly what
+  you can pack in your personal item bag? You’re not alone. Knowing the rules can
+  save you
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-allowed-in-a-personal-item-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Size And Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-is-allowed-in-a-personal-item-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport security line wondering exactly what you can pack in your personal item bag? You’re not alone.**

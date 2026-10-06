@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Corn Seeds in a Bag: Essential Guide for Farmers"
 description: "Are you planning to plant corn but wondering how many seeds come in a bag? Knowing the exact number can help you plan your field better, save money, and avoid s"
 pubDate: 2025-09-06

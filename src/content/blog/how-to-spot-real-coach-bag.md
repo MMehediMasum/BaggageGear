@@ -1,10 +1,14 @@
 ---
-title: "How to Spot Real Coach Bag: Ultimate Guide to Authenticity"
-description: "Imagine the feeling of excitement as you spot a Coach bag that seems perfect for you. But how can you be sure it’s the real deal? The world of fashion is filled"
+title: 'How to Spot Real Coach Bag: Ultimate Guide to Authenticity'
+description: Imagine the feeling of excitement as you spot a Coach bag that seems
+  perfect for you. But how can you be sure it’s the real deal? The world of fashion
+  is filled
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-spot-real-coach-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-spot-real-coach-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Imagine the feeling of excitement as you spot a Coach bag that seems perfect for you. But how can you be sure it’s the real deal?**

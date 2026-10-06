@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Shaving Razors in Checked Luggage: Essential Rules"
-description: "Planning a trip can be exciting, but packing can sometimes be a headache, especially when it comes to knowing what you can and can't take in your luggage. You m"
+title: 'Can You Take Shaving Razors in Checked Luggage: Essential Rules'
+description: Planning a trip can be exciting, but packing can sometimes be a headache,
+  especially when it comes to knowing what you can and can't take in your luggage.
+  You m
 pubDate: 2026-04-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-shaving-razors-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-shaving-razors-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip can be exciting, but packing can sometimes be a headache, especially when it comes to knowing what you can and can't take in your luggage. You might find yourself pondering, "Can you take shaving razors in checked luggage?"**

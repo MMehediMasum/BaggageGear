@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wash Shoes in Washing Machine Without Mesh Bag: Safe & Easy Tips"
 description: "Are your favorite sneakers looking a bit too worn-out? You might be surprised to learn that you can give them a fresh, clean look using your washing machine. Ye"
 pubDate: 2025-11-07

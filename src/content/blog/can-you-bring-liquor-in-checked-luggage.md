@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Liquor in Checked Luggage: Essential Airline Rules Explained"
-description: "Are you planning to pack liquor in your checked luggage for your next trip? Before you do, it’s important to know the rules and avoid surprises at the airport. "
+title: 'Can You Bring Liquor in Checked Luggage: Essential Airline Rules Explained'
+description: 'Are you planning to pack liquor in your checked luggage for your next
+  trip? Before you do, it’s important to know the rules and avoid surprises at the
+  airport. '
 pubDate: 2026-05-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-liquor-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-liquor-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to pack liquor in your checked luggage for your next trip? Before you do, it’s important to know the rules and avoid surprises at the airport.**

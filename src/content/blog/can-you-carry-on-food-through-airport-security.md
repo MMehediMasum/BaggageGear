@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on Food Through Airport Security: Ultimate Guide 2025"
-description: "Navigating airport security can feel like a puzzle, especially when it comes to food. You might wonder, \"Can you carry on food through airport security?\" This q"
+title: 'Can You Carry on Food Through Airport Security: Ultimate Guide 2025'
+description: Navigating airport security can feel like a puzzle, especially when it
+  comes to food. You might wonder, "Can you carry on food through airport security?"
+  This q
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-food-through-airport-security&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-food-through-airport-security&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Navigating airport security can feel like a puzzle, especially when it comes to food. You might wonder, "Can you carry on food through airport security?"**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Pocket Knife for Backpacking: Top Picks for Outdoor Adventures"
 description: "Choosing the best pocket knife for backpacking ensures safety and convenience on every trail. A reliable knife handles cutting, cooking, and emergency tasks wit"
 pubDate: 2026-06-19

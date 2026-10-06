@@ -1,10 +1,14 @@
 ---
-title: "How to Adjust Kanken Backpack Straps: Ultimate Comfort Guide"
-description: "Are your Kanken backpack straps giving you trouble? You're not alone. Whether you're heading to class, off on a hike, or just tackling your daily commute, havin"
+title: 'How to Adjust Kanken Backpack Straps: Ultimate Comfort Guide'
+description: Are your Kanken backpack straps giving you trouble? You're not alone.
+  Whether you're heading to class, off on a hike, or just tackling your daily commute,
+  havin
 pubDate: 2026-01-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-adjust-kanken-backpack-straps&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Adjusting Backpack Straps
+heroImage: https://tse1.mm.bing.net/th?q=how-to-adjust-kanken-backpack-straps&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are your Kanken backpack straps giving you trouble? You're not alone.**

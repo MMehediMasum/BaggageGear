@@ -1,10 +1,14 @@
 ---
-title: "Can I Have Two Carry on Bags: Ultimate Guide to Airline Rules"
-description: "Have you ever stood at the airport, nervously clutching your boarding pass, wondering if you can get away with bringing two carry-on bags onto the plane? You're"
+title: 'Can I Have Two Carry on Bags: Ultimate Guide to Airline Rules'
+description: Have you ever stood at the airport, nervously clutching your boarding
+  pass, wondering if you can get away with bringing two carry-on bags onto the plane?
+  You're
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-have-two-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carrying Two Bags Or Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=can-i-have-two-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever stood at the airport, nervously clutching your boarding pass, wondering if you can get away with bringing two carry-on bags onto the plane? You're not alone.**

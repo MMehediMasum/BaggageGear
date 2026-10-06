@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Suitcase: Ultimate Tips for Stress-Free Travel"
-description: "Are you tired of arriving at your travel destination only to find a wrinkled mess in your suitcase? Packing can often feel like a stressful game of Tetris, but "
+title: 'How to Pack a Suitcase: Ultimate Tips for Stress-Free Travel'
+description: 'Are you tired of arriving at your travel destination only to find a
+  wrinkled mess in your suitcase? Packing can often feel like a stressful game of
+  Tetris, but '
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Pack A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-suitcase&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you tired of arriving at your travel destination only to find a wrinkled mess in your suitcase? Packing can often feel like a stressful game of Tetris, but it doesn’t have to be.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Garment Bags for Stylish and Convenient Travel Packing"
-description: "Choosing the best carry-on garment bag makes travel easier and keeps clothes neat. These bags fit in overhead compartments and protect suits and dresses. Travel"
+title: Best Carry On Garment Bags for Stylish and Convenient Travel Packing
+description: Choosing the best carry-on garment bag makes travel easier and keeps
+  clothes neat. These bags fit in overhead compartments and protect suits and dresses.
+  Travel
 pubDate: 2026-08-13
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-garment-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Suitcases For Suits
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-garment-bags&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on garment bag makes travel easier and keeps clothes neat. These bags fit in overhead compartments and protect suits and dresses.**

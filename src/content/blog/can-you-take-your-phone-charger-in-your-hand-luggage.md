@@ -1,10 +1,14 @@
 ---
-title: "Can You Take Your Phone Charger in Your Hand Luggage: Essential Tips"
-description: "Are you gearing up for your next flight and wondering if you can pack your phone charger in your hand luggage? You're not alone. Many travelers find themselves "
+title: 'Can You Take Your Phone Charger in Your Hand Luggage: Essential Tips'
+description: 'Are you gearing up for your next flight and wondering if you can pack
+  your phone charger in your hand luggage? You''re not alone. Many travelers find
+  themselves '
 pubDate: 2025-10-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-your-phone-charger-in-your-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-your-phone-charger-in-your-hand-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you gearing up for your next flight and wondering if you can pack your phone charger in your hand luggage? You're not alone.**

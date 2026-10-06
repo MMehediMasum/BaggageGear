@@ -1,10 +1,14 @@
 ---
-title: "Can a Backpack Be a Carry On: Ultimate Guide for Travelers"
-description: "Are you planning a trip soon and wondering if your trusty backpack can double as a carry-on? You're not alone. The convenience of skipping checked baggage fees "
+title: 'Can a Backpack Be a Carry On: Ultimate Guide for Travelers'
+description: 'Are you planning a trip soon and wondering if your trusty backpack can
+  double as a carry-on? You''re not alone. The convenience of skipping checked baggage
+  fees '
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Backpack Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-a-backpack-be-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip soon and wondering if your trusty backpack can double as a carry-on? You're not alone.**

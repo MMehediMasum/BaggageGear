@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Cruise Excursions: Top Lightweight and Packable Options"
-description: "Choosing the best backpack for cruise excursions makes your day trips easy and fun. It holds your essentials safely and keeps your hands free. Cruise excursions"
+title: 'Best Backpack for Cruise Excursions: Top Lightweight and Packable Options'
+description: Choosing the best backpack for cruise excursions makes your day trips
+  easy and fun. It holds your essentials safely and keeps your hands free. Cruise
+  excursions
 pubDate: 2026-08-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-cruise-excursions&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Cruises
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-cruise-excursions&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best backpack for cruise excursions makes your day trips easy and fun. It holds your essentials safely and keeps your hands free.**

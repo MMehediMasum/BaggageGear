@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Glass Pipe in Checked Luggage: Essential Tips"
-description: "Are you planning to travel with a glass pipe and wondering if you can pack it in your checked luggage? You’re not alone. Many travelers face this question and w"
+title: 'Can You Bring a Glass Pipe in Checked Luggage: Essential Tips'
+description: Are you planning to travel with a glass pipe and wondering if you can
+  pack it in your checked luggage? You’re not alone. Many travelers face this question
+  and w
 pubDate: 2025-09-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-glass-pipe-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cannabis And Edibles In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-glass-pipe-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning to travel with a glass pipe and wondering if you can pack it in your checked luggage? You’re not alone.**

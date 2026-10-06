@@ -1,10 +1,14 @@
 ---
-title: "Best Voltage Converter for Travel: Top Picks for Safe Global Adventures"
-description: "Finding the best voltage converter for travel helps protect your devices abroad. It ensures your electronics work safely with foreign power outlets. Traveling t"
+title: 'Best Voltage Converter for Travel: Top Picks for Safe Global Adventures'
+description: Finding the best voltage converter for travel helps protect your devices
+  abroad. It ensures your electronics work safely with foreign power outlets. Traveling
+  t
 pubDate: 2026-05-13
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-voltage-converter-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Power Adapters And Converters
+heroImage: https://tse1.mm.bing.net/th?q=best-voltage-converter-for-travel&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best voltage converter for travel helps protect your devices abroad. It ensures your electronics work safely with foreign power outlets.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is Bag Balm Good for: Surprising Uses You Need to Know"
 description: "Have you ever wondered what that little green tin of Bag Balm can do for you? If you've seen it on a shelf or heard about it from a friend, you might be curious"
 pubDate: 2026-03-07

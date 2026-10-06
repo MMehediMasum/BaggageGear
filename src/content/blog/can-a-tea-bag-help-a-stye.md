@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can a Tea Bag Help a Stye: Effective Home Remedy Tips"
 description: "Have you ever woken up to find a painful, swollen stye on your eyelid, wondering how to get rid of it quickly? You're not alone. Styes can be not only irritatin"
 pubDate: 2026-01-18

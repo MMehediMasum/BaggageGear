@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is the Ga Suitcase: Ultimate Guide to Features & Benefits"
 description: "Imagine a world where packing for a trip becomes a breeze, and your suitcase isn’t just a container for clothes but a smart travel companion. The Ga Suitcase co"
 pubDate: 2026-02-04

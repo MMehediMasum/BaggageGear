@@ -1,10 +1,14 @@
 ---
-title: "How to Fix Scratches on Leather Bag: Easy DIY Repair Tips"
-description: "Scratches on your leather bag can feel like a heartbreak. You love that bag, and seeing it marred by scratches can be disappointing. But what if you could resto"
+title: 'How to Fix Scratches on Leather Bag: Easy DIY Repair Tips'
+description: Scratches on your leather bag can feel like a heartbreak. You love that
+  bag, and seeing it marred by scratches can be disappointing. But what if you could
+  resto
 pubDate: 2026-02-24
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-fix-scratches-on-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Fixing And Softening Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-fix-scratches-on-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Scratches on your leather bag can feel like a heartbreak. You love that bag, and seeing it marred by scratches can be disappointing.**

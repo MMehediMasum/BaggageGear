@@ -1,10 +1,14 @@
 ---
-title: "Best Large Suitcase for Family Travel: Top Picks for Ultimate Convenience"
-description: "Finding the best large suitcase for family travel makes packing easier and trips more enjoyable. A good suitcase holds all essentials and moves smoothly through"
+title: 'Best Large Suitcase for Family Travel: Top Picks for Ultimate Convenience'
+description: Finding the best large suitcase for family travel makes packing easier
+  and trips more enjoyable. A good suitcase holds all essentials and moves smoothly
+  through
 pubDate: 2026-07-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-suitcase-for-family-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-large-suitcase-for-family-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best large suitcase for family travel makes packing easier and trips more enjoyable. A good suitcase holds all essentials and moves smoothly through airports.**

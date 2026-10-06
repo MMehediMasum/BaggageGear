@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack into Disney World: Ultimate Packing Tips"
-description: "Planning a trip to Disney World is exciting, but it comes with a lot of questions. One of the most common queries is, \"Can you bring a backpack into Disney Worl"
+title: 'Can You Bring a Backpack into Disney World: Ultimate Packing Tips'
+description: Planning a trip to Disney World is exciting, but it comes with a lot
+  of questions. One of the most common queries is, "Can you bring a backpack into
+  Disney Worl
 pubDate: 2025-09-01
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-disney-world&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-disney-world&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip to Disney World is exciting, but it comes with a lot of questions. One of the most common queries is, "Can you bring a backpack into Disney World?"**

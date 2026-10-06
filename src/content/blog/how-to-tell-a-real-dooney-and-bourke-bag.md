@@ -1,10 +1,14 @@
 ---
-title: "How to Tell a Real Dooney And Bourke Bag: Ultimate Authenticity Guide"
-description: "Are you wondering if that Dooney and Bourke bag you adore is the real deal? You're not alone. With countless replicas flooding the market, spotting an authentic"
+title: 'How to Tell a Real Dooney And Bourke Bag: Ultimate Authenticity Guide'
+description: Are you wondering if that Dooney and Bourke bag you adore is the real
+  deal? You're not alone. With countless replicas flooding the market, spotting an
+  authentic
 pubDate: 2026-01-23
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-a-real-dooney-and-bourke-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-a-real-dooney-and-bourke-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you wondering if that Dooney and Bourke bag you adore is the real deal? You're not alone.**

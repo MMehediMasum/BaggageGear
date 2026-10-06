@@ -1,10 +1,14 @@
 ---
-title: "How to Get Rid of Bed Bugs in Luggage: Quick & Effective Tips"
-description: "You're back from a trip, and as you unpack, you notice something unsettling: tiny, unwelcome stowaways hiding in your luggage. Bed bugs. These pesky critters ar"
+title: 'How to Get Rid of Bed Bugs in Luggage: Quick & Effective Tips'
+description: 'You''re back from a trip, and as you unpack, you notice something unsettling:
+  tiny, unwelcome stowaways hiding in your luggage. Bed bugs. These pesky critters
+  ar'
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-rid-of-bed-bugs-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-rid-of-bed-bugs-in-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You're back from a trip, and as you unpack, you notice something unsettling: tiny, unwelcome stowaways hiding in your luggage. Bed bugs.**

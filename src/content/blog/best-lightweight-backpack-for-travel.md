@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Backpack for Travel: Top Compact, Durable Picks for Adventures"
-description: "Choosing the best lightweight backpack for travel makes your trips easier and more comfortable. A good backpack should be light, durable, and fit all your essen"
+title: 'Best Lightweight Backpack for Travel: Top Compact, Durable Picks for Adventures'
+description: Choosing the best lightweight backpack for travel makes your trips easier
+  and more comfortable. A good backpack should be light, durable, and fit all your
+  essen
 pubDate: 2026-07-01
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-backpack-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight backpack for travel makes your trips easier and more comfortable. A good backpack should be light, durable, and fit all your essentials.**

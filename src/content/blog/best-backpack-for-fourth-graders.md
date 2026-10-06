@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Fourth Graders: Top Durable, Stylish Picks for School"
-description: "Choosing the best backpack for fourth graders helps kids carry their books comfortably and stay organized. A good backpack fits well, lasts long, and looks fun."
+title: 'Best Backpack for Fourth Graders: Top Durable, Stylish Picks for School'
+description: Choosing the best backpack for fourth graders helps kids carry their
+  books comfortably and stay organized. A good backpack fits well, lasts long, and
+  looks fun.
 pubDate: 2026-07-11
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-fourth-graders&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-fourth-graders&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for fourth graders helps kids carry their books comfortably and stay organized. A good backpack fits well, lasts long, and looks fun.**

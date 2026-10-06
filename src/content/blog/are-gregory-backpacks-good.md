@@ -1,10 +1,14 @@
 ---
-title: "Are Gregory Backpacks Good: Ultimate Review for Durability & Comfort"
-description: "Are you on the hunt for the perfect backpack for your next adventure? If you're considering a Gregory backpack, you're not alone. These backpacks have been crea"
+title: 'Are Gregory Backpacks Good: Ultimate Review for Durability & Comfort'
+description: Are you on the hunt for the perfect backpack for your next adventure?
+  If you're considering a Gregory backpack, you're not alone. These backpacks have
+  been crea
 pubDate: 2025-09-25
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-gregory-backpacks-good&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Outdoor Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-gregory-backpacks-good&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect backpack for your next adventure? If you're considering a Gregory backpack, you're not alone.**

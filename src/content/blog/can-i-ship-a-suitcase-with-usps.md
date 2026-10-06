@@ -1,10 +1,13 @@
 ---
-title: "Can I Ship a Suitcase With USPS: Essential Tips & Cost Guide"
-description: "Imagine the convenience of sending your suitcase directly to your destination without lugging it through crowded airports or train stations. It's a stress-free "
+title: 'Can I Ship a Suitcase With USPS: Essential Tips & Cost Guide'
+description: 'Imagine the convenience of sending your suitcase directly to your destination
+  without lugging it through crowded airports or train stations. It''s a stress-free '
 pubDate: 2026-04-04
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-ship-a-suitcase-with-usps&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Ship A Suitcase
+heroImage: https://tse1.mm.bing.net/th?q=can-i-ship-a-suitcase-with-usps&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine the convenience of sending your suitcase directly to your destination without lugging it through crowded airports or train stations. It's a stress-free travel hack many people are curious about.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Folding Shovel for Backpacking: Top Portable Picks for Outdoor Adventures"
 description: "Choosing the best folding shovel for backpacking can make your outdoor trips easier and safer. A lightweight, durable shovel helps with digging, camping tasks, "
 pubDate: 2025-10-28

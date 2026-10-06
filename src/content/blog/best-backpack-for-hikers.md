@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Hikers: Top Lightweight and Waterproof Picks for Adventures"
-description: "Choosing the best backpack for hikers is key to a comfortable trip. A good hiking backpack holds your gear, fits well, and lasts long. Hiking backpacks come in "
+title: 'Best Backpack for Hikers: Top Lightweight and Waterproof Picks for Adventures'
+description: 'Choosing the best backpack for hikers is key to a comfortable trip.
+  A good hiking backpack holds your gear, fits well, and lasts long. Hiking backpacks
+  come in '
 pubDate: 2026-07-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-hikers&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-hikers&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best backpack for hikers is key to a comfortable trip. A good hiking backpack holds your gear, fits well, and lasts long.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for Durable, Lightweight, and Expandable Travel Solutions"
-description: "Choosing the best carry-on luggage makes travel easier and stress-free. The right suitcase fits airline rules and holds your essentials comfortably. Travelers w"
+title: Best Carry On Luggage for Durable, Lightweight, and Expandable Travel Solutions
+description: Choosing the best carry-on luggage makes travel easier and stress-free.
+  The right suitcase fits airline rules and holds your essentials comfortably. Travelers
+  w
 pubDate: 2026-08-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best carry-on luggage makes travel easier and stress-free. The right suitcase fits airline rules and holds your essentials comfortably.**

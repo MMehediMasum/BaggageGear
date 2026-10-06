@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Rake Leaves into a Bag: Easy Tips for Quick Cleanup"
 description: "Leaves piling up in your yard can quickly turn a beautiful lawn into a messy mess. You might feel overwhelmed just thinking about raking all those leaves and ge"
 pubDate: 2026-03-04

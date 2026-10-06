@@ -1,10 +1,14 @@
 ---
-title: "Does Athens Airport Have Luggage Storage: Ultimate Guide 2025"
-description: "Planning a trip to the historic city of Athens? Whether you're on a quick layover or starting your Greek adventure, dealing with luggage can be a hassle. You mi"
+title: 'Does Athens Airport Have Luggage Storage: Ultimate Guide 2025'
+description: Planning a trip to the historic city of Athens? Whether you're on a quick
+  layover or starting your Greek adventure, dealing with luggage can be a hassle.
+  You mi
 pubDate: 2026-01-20
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-athens-airport-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=does-athens-airport-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a trip to the historic city of Athens? Whether you're on a quick layover or starting your Greek adventure, dealing with luggage can be a hassle.**

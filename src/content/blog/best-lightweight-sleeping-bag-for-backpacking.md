@@ -1,10 +1,13 @@
 ---
-title: "Best Lightweight Sleeping Bag for Backpacking: Top Picks for Outdoor Adventures"
-description: "Choosing the best lightweight sleeping bag makes backpacking more comfortable and easier. A good sleeping bag keeps you warm without adding bulk or weight. Back"
+title: 'Best Lightweight Sleeping Bag for Backpacking: Top Picks for Outdoor Adventures'
+description: Choosing the best lightweight sleeping bag makes backpacking more comfortable
+  and easier. A good sleeping bag keeps you warm without adding bulk or weight. Back
 pubDate: 2026-06-08
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best lightweight sleeping bag makes backpacking more comfortable and easier. A good sleeping bag keeps you warm without adding bulk or weight.**

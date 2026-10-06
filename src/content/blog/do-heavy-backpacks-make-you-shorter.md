@@ -1,10 +1,14 @@
 ---
-title: "Do Heavy Backpacks Make You Shorter: The Truth Revealed!"
-description: "Are you worried that carrying a heavy backpack might be affecting your height? You're not alone. Many people wonder if the weight of their backpack could be mak"
+title: 'Do Heavy Backpacks Make You Shorter: The Truth Revealed!'
+description: Are you worried that carrying a heavy backpack might be affecting your
+  height? You're not alone. Many people wonder if the weight of their backpack could
+  be mak
 pubDate: 2026-01-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-heavy-backpacks-make-you-shorter&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks And Back Pain
+heroImage: https://tse1.mm.bing.net/th?q=do-heavy-backpacks-make-you-shorter&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you worried that carrying a heavy backpack might be affecting your height? You're not alone.**

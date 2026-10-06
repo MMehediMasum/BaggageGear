@@ -1,10 +1,14 @@
 ---
-title: "What is the Average Size of Carry on Luggage: Ultimate Guide 2025"
-description: "Are you planning your next getaway and wondering if your trusty suitcase will fit in the overhead bin? The size of your carry-on luggage is crucial to a hassle-"
+title: 'What is the Average Size of Carry on Luggage: Ultimate Guide 2025'
+description: Are you planning your next getaway and wondering if your trusty suitcase
+  will fit in the overhead bin? The size of your carry-on luggage is crucial to a
+  hassle-
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-the-average-size-of-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Standard Suitcase Sizes
+heroImage: https://tse1.mm.bing.net/th?q=what-is-the-average-size-of-carry-on-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next getaway and wondering if your trusty suitcase will fit in the overhead bin? The size of your carry-on luggage is crucial to a hassle-free travel experience.**

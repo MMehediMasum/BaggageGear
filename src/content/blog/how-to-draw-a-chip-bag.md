@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Draw a Chip Bag: Easy Steps for Stunning Artwork"
 description: "Have you ever looked at a chip bag and thought, \"I wish I could draw that\"? If so, you're in the right place. Drawing a chip bag might seem simple, but capturin"
 pubDate: 2026-04-28

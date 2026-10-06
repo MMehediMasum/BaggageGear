@@ -1,10 +1,13 @@
 ---
-title: "Can You Put a Sprayground Backpack in the Washing Machine? Expert Tips"
-description: "Ever found yourself staring at your beloved Sprayground backpack, wondering if you can just toss it into the washing machine for a quick clean? You’re not alone"
+title: Can You Put a Sprayground Backpack in the Washing Machine? Expert Tips
+description: Ever found yourself staring at your beloved Sprayground backpack, wondering
+  if you can just toss it into the washing machine for a quick clean? You’re not alone
 pubDate: 2025-08-31
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-a-sprayground-backpack-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-a-sprayground-backpack-in-the-washing-machine&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Ever found yourself staring at your beloved Sprayground backpack, wondering if you can just toss it into the washing machine for a quick clean? You’re not alone.**

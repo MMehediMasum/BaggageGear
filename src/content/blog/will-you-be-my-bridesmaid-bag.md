@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Will You Be My Bridesmaid Bag: Perfect Gifts to Say Yes!"
 description: "Imagine the joy of being asked to be part of your best friend's wedding. It's a moment filled with excitement and anticipation. But how can you make this invita"
 pubDate: 2025-12-17

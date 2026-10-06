@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Dry Shampoo in a Carry On: Travel Rules Explained"
-description: "You're packing for your upcoming flight and checking off the essentials: passport, tickets, and, of course, your trusty dry shampoo. But then the question hits—"
+title: 'Can You Bring Dry Shampoo in a Carry On: Travel Rules Explained'
+description: 'You''re packing for your upcoming flight and checking off the essentials:
+  passport, tickets, and, of course, your trusty dry shampoo. But then the question
+  hits—'
 pubDate: 2025-12-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-dry-shampoo-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-dry-shampoo-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming flight and checking off the essentials: passport, tickets, and, of course, your trusty dry shampoo. But then the question hits—can you bring dry shampoo in your carry-on?**

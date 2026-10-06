@@ -1,10 +1,14 @@
 ---
-title: "What to Put on a Luggage Tag: Essential Tips for Safe Travel"
-description: "Have you ever stood at the luggage carousel, heart pounding, as you watch endless bags that look just like yours pass by? You’re not alone. One small yet crucia"
+title: 'What to Put on a Luggage Tag: Essential Tips for Safe Travel'
+description: Have you ever stood at the luggage carousel, heart pounding, as you watch
+  endless bags that look just like yours pass by? You’re not alone. One small yet
+  crucia
 pubDate: 2026-04-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-on-a-luggage-tag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-on-a-luggage-tag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever stood at the luggage carousel, heart pounding, as you watch endless bags that look just like yours pass by? You’re not alone.**

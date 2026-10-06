@@ -1,10 +1,14 @@
 ---
-title: "Can You Take a Backpack in Dollywood: Essential Packing Tips!"
-description: "Imagine this: you're planning your visit to Dollywood, excited for a day filled with thrilling rides, toe-tapping music, and delicious Southern treats. As you p"
+title: 'Can You Take a Backpack in Dollywood: Essential Packing Tips!'
+description: 'Imagine this: you''re planning your visit to Dollywood, excited for
+  a day filled with thrilling rides, toe-tapping music, and delicious Southern treats.
+  As you p'
 pubDate: 2025-10-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-in-dollywood&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-in-dollywood&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Imagine this: you're planning your visit to Dollywood, excited for a day filled with thrilling rides, toe-tapping music, and delicious Southern treats. As you pack your essentials, a question pops up—can you take a backpack into the park?**

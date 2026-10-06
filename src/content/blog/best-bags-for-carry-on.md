@@ -1,10 +1,14 @@
 ---
-title: "Best Bags for Carry On: Top Stylish and Functional Travel Backpacks"
-description: "Choosing the best bags for carry-on travel makes trips easier and more organized. The right bag fits airline rules and holds everything you need. Travel bags co"
+title: 'Best Bags for Carry On: Top Stylish and Functional Travel Backpacks'
+description: Choosing the best bags for carry-on travel makes trips easier and more
+  organized. The right bag fits airline rules and holds everything you need. Travel
+  bags co
 pubDate: 2026-08-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-bags-for-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Carry On Luggage Overall
+heroImage: https://tse1.mm.bing.net/th?q=best-bags-for-carry-on&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best bags for carry-on travel makes trips easier and more organized. The right bag fits airline rules and holds everything you need.**

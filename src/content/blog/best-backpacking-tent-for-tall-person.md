@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Backpacking Tent for Tall Person: Top Picks for Comfort and Space"
 description: "Finding the best backpacking tent for tall people can be tough. Most tents don’t offer enough length or headroom for comfort. Tall campers need tents with extra"
 pubDate: 2026-06-14

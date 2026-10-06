@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring a Backpack into Disneyland: Essential Guide"
-description: "Are you planning a trip to Disneyland and wondering if you can bring a backpack inside? You’re not alone. Carrying a backpack can make your day easier, letting "
+title: 'Can You Bring a Backpack into Disneyland: Essential Guide'
+description: 'Are you planning a trip to Disneyland and wondering if you can bring
+  a backpack inside? You’re not alone. Carrying a backpack can make your day easier,
+  letting '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-disneyland&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Bag Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-a-backpack-into-disneyland&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip to Disneyland and wondering if you can bring a backpack inside? You’re not alone.**

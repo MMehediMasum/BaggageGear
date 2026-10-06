@@ -1,10 +1,14 @@
 ---
-title: "Does Goodwill Take Suitcases? Ultimate Donation Guide 2025"
-description: "Have you ever wondered what to do with that old suitcase collecting dust in your closet? If you're looking to declutter and give your suitcase a new lease on li"
+title: Does Goodwill Take Suitcases? Ultimate Donation Guide 2025
+description: Have you ever wondered what to do with that old suitcase collecting dust
+  in your closet? If you're looking to declutter and give your suitcase a new lease
+  on li
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-goodwill-take-suitcases&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Stores That Sell Luggage
+heroImage: https://tse1.mm.bing.net/th?q=does-goodwill-take-suitcases&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever wondered what to do with that old suitcase collecting dust in your closet? If you're looking to declutter and give your suitcase a new lease on life, donating it might just be the perfect solution.**

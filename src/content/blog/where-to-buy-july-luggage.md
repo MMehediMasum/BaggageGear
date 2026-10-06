@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy July Luggage: Top Deals & Stylish Picks 2025"
-description: "Looking for the perfect July luggage can feel overwhelming. You want something stylish, durable, and affordable—but where do you start? If you’re ready to find "
+title: 'Where to Buy July Luggage: Top Deals & Stylish Picks 2025'
+description: 'Looking for the perfect July luggage can feel overwhelming. You want
+  something stylish, durable, and affordable—but where do you start? If you’re ready
+  to find '
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-july-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-july-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Looking for the perfect July luggage can feel overwhelming. You want something stylish, durable, and affordable—but where do you start?**

@@ -1,10 +1,14 @@
 ---
-title: "Can I Lock My Suitcase for International Travel: Essential Safety Tips"
-description: "Picture this: you're all set for your dream international trip. Your flights are booked, your itinerary is ready, and your suitcase is packed. But then a though"
+title: 'Can I Lock My Suitcase for International Travel: Essential Safety Tips'
+description: 'Picture this: you''re all set for your dream international trip. Your
+  flights are booked, your itinerary is ready, and your suitcase is packed. But then
+  a though'
 pubDate: 2026-04-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-lock-my-suitcase-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-lock-my-suitcase-for-international-travel&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Picture this: you're all set for your dream international trip. Your flights are booked, your itinerary is ready, and your suitcase is packed.**

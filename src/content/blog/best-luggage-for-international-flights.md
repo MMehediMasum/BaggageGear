@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for International Flights: Top Carry-Ons for Hassle-Free Travel"
-description: "Choosing the best luggage for international flights makes travel easier and less stressful. The right suitcase fits airline rules and keeps belongings safe. Int"
+title: 'Best Luggage for International Flights: Top Carry-Ons for Hassle-Free Travel'
+description: Choosing the best luggage for international flights makes travel easier
+  and less stressful. The right suitcase fits airline rules and keeps belongings safe.
+  Int
 pubDate: 2026-07-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-international-flights&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Long Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-international-flights&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for international flights makes travel easier and less stressful. The right suitcase fits airline rules and keeps belongings safe.**

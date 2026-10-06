@@ -1,10 +1,14 @@
 ---
-title: "Best Diaper Bag for Petite Mom: Stylish and Functional Picks"
-description: "Finding the best diaper bag for petite moms means choosing style, comfort, and smart storage. Small frames need bags that fit well without feeling heavy or bulk"
+title: 'Best Diaper Bag for Petite Mom: Stylish and Functional Picks'
+description: Finding the best diaper bag for petite moms means choosing style, comfort,
+  and smart storage. Small frames need bags that fit well without feeling heavy or
+  bulk
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-diaper-bag-for-petite-mom&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Diaper Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-diaper-bag-for-petite-mom&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best diaper bag for petite moms means choosing style, comfort, and smart storage. Small frames need bags that fit well without feeling heavy or bulky.**

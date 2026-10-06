@@ -1,10 +1,14 @@
 ---
-title: "How Long before Boarding to Check Bag: Essential Timing Tips"
-description: "Planning a trip can be both exciting and nerve-wracking, especially when it comes to the logistics of getting to the airport on time. One question that might be"
+title: 'How Long before Boarding to Check Bag: Essential Timing Tips'
+description: Planning a trip can be both exciting and nerve-wracking, especially when
+  it comes to the logistics of getting to the airport on time. One question that might
+  be
 pubDate: 2025-12-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-long-before-boarding-to-check-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=how-long-before-boarding-to-check-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip can be both exciting and nerve-wracking, especially when it comes to the logistics of getting to the airport on time. One question that might be on your mind is, "How long before boarding should you check your bag?"**

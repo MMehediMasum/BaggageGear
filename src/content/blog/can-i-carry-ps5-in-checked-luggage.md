@@ -1,10 +1,14 @@
 ---
-title: "Can I Carry Ps5 in Checked Luggage: Essential Travel Tips Revealed"
-description: "You’re planning a trip, and among the many things on your packing list is your beloved PlayStation 5. After all, what's a vacation without some gaming fun, righ"
+title: 'Can I Carry Ps5 in Checked Luggage: Essential Travel Tips Revealed'
+description: You’re planning a trip, and among the many things on your packing list
+  is your beloved PlayStation 5. After all, what's a vacation without some gaming
+  fun, righ
 pubDate: 2025-11-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-carry-ps5-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-carry-ps5-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re planning a trip, and among the many things on your packing list is your beloved PlayStation 5. After all, what's a vacation without some gaming fun, right?**

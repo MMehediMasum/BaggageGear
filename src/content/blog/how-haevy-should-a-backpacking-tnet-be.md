@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Haevy Should a Backpacking Tnet Be: Ultimate Lightweight Guide"
 description: "Are you ready to hit the trails and experience the great outdoors like never before? If you're gearing up for a backpacking adventure, one crucial question migh"
 pubDate: 2025-09-24

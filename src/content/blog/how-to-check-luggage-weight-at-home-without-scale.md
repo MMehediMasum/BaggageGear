@@ -1,10 +1,14 @@
 ---
-title: "How to Check Luggage Weight at Home Without Scale: Easy Hacks"
-description: "Are you getting ready for your next big adventure but worried about luggage weight limits? Airlines can be quite strict with their baggage rules, and the last t"
+title: 'How to Check Luggage Weight at Home Without Scale: Easy Hacks'
+description: Are you getting ready for your next big adventure but worried about luggage
+  weight limits? Airlines can be quite strict with their baggage rules, and the last
+  t
 pubDate: 2025-11-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-check-luggage-weight-at-home-without-scale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-to-check-luggage-weight-at-home-without-scale&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you getting ready for your next big adventure but worried about luggage weight limits? Airlines can be quite strict with their baggage rules, and the last thing you want is to be caught off guard at the airport.**

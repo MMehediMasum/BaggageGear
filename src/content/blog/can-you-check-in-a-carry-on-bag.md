@@ -1,10 +1,14 @@
 ---
-title: "Can You Check in a Carry on Bag? Essential Airline Tips Revealed"
-description: "Have you ever been at the airport, standing in line, wondering if you can check in a carry-on bag? You’re not alone. Understanding the rules of air travel can b"
+title: Can You Check in a Carry on Bag? Essential Airline Tips Revealed
+description: Have you ever been at the airport, standing in line, wondering if you
+  can check in a carry-on bag? You’re not alone. Understanding the rules of air travel
+  can b
 pubDate: 2026-04-30
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-check-in-a-carry-on-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How Luggage Travels On Planes
+heroImage: https://tse1.mm.bing.net/th?q=can-you-check-in-a-carry-on-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever been at the airport, standing in line, wondering if you can check in a carry-on bag? You’re not alone.**

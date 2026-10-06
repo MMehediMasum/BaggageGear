@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Winter Clothes in a Carry on: Expert Tips & Tricks"
-description: "Are you planning a winter getaway but dreading the thought of lugging around a heavy suitcase? Packing winter clothes in a carry-on might seem like an impossibl"
+title: 'How to Pack Winter Clothes in a Carry on: Expert Tips & Tricks'
+description: Are you planning a winter getaway but dreading the thought of lugging
+  around a heavy suitcase? Packing winter clothes in a carry-on might seem like an
+  impossibl
 pubDate: 2026-03-25
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-winter-clothes-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-winter-clothes-in-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you planning a winter getaway but dreading the thought of lugging around a heavy suitcase? Packing winter clothes in a carry-on might seem like an impossible task, but with the right strategy, you can travel light and still stay warm.**

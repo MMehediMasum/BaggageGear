@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is a Wind Bag in Weather: Essential Facts You Must Know"
 description: "Ever wondered what those long, colorful tubes waving in the wind at airports and open fields are? You're not alone. They're called wind bags, and they play a cr"
 pubDate: 2026-04-24

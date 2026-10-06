@@ -1,10 +1,14 @@
 ---
-title: "Best Large Hard Shell Luggage: Top Picks for Stress-Free Travel"
-description: "Choosing the best large hard shell luggage can make travel easier and more organized. Durable and spacious suitcases protect your belongings and help you move q"
+title: 'Best Large Hard Shell Luggage: Top Picks for Stress-Free Travel'
+description: Choosing the best large hard shell luggage can make travel easier and
+  more organized. Durable and spacious suitcases protect your belongings and help
+  you move q
 pubDate: 2026-07-17
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-hard-shell-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hardside Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-large-hard-shell-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best large hard shell luggage can make travel easier and more organized. Durable and spacious suitcases protect your belongings and help you move quickly through airports.**

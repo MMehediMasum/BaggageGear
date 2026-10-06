@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Crochet a Strong Bag Strap: Durable & Stylish Guide"
 description: "Are you tired of bag straps that just don't hold up? Do you want to create something both functional and stylish? Learning how to crochet a strong bag strap mig"
 pubDate: 2025-09-17

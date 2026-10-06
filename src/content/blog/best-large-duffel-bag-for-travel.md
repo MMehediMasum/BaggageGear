@@ -1,10 +1,14 @@
 ---
-title: "Best Large Duffel Bag for Travel: Top Picks for Every Adventure"
-description: "Choosing the best large duffel bag for travel can make your trips easier and more organized. Large duffel bags offer plenty of space without being bulky or hard"
+title: 'Best Large Duffel Bag for Travel: Top Picks for Every Adventure'
+description: Choosing the best large duffel bag for travel can make your trips easier
+  and more organized. Large duffel bags offer plenty of space without being bulky
+  or hard
 pubDate: 2026-06-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-large-duffel-bag-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-large-duffel-bag-for-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best large duffel bag for travel can make your trips easier and more organized. Large duffel bags offer plenty of space without being bulky or hard to carry.**

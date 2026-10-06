@@ -1,10 +1,14 @@
 ---
-title: "How to Pack Makeup on a Carry On: Expert Tips for Stress-Free Travel"
-description: "Packing makeup for a trip can be a daunting task, especially when you're limited to a carry-on. You want to bring all your favorite products, but the TSA restri"
+title: 'How to Pack Makeup on a Carry On: Expert Tips for Stress-Free Travel'
+description: Packing makeup for a trip can be a daunting task, especially when you're
+  limited to a carry-on. You want to bring all your favorite products, but the TSA
+  restri
 pubDate: 2025-09-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-makeup-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Makeup In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-makeup-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing makeup for a trip can be a daunting task, especially when you're limited to a carry-on. You want to bring all your favorite products, but the TSA restrictions and limited space can make it challenging.**

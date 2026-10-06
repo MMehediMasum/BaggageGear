@@ -1,10 +1,14 @@
 ---
-title: "Do Airports Have Luggage Storage: Ultimate Guide for Travelers"
-description: "Are you planning a trip and wondering what to do with your luggage during those long airport layovers? Or perhaps you're looking to explore a new city without b"
+title: 'Do Airports Have Luggage Storage: Ultimate Guide for Travelers'
+description: Are you planning a trip and wondering what to do with your luggage during
+  those long airport layovers? Or perhaps you're looking to explore a new city without
+  b
 pubDate: 2026-03-14
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-airports-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=do-airports-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you planning a trip and wondering what to do with your luggage during those long airport layovers? Or perhaps you're looking to explore a new city without being weighed down by bags?**

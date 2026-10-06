@@ -1,10 +1,14 @@
 ---
-title: "Can You Bring Any Size Liquid in a Checked Bag: Ultimate Guide"
-description: "Are you planning your next trip and wondering what liquids you can pack in your checked bag? You might have heard strict rules about liquids in carry-ons, but w"
+title: 'Can You Bring Any Size Liquid in a Checked Bag: Ultimate Guide'
+description: Are you planning your next trip and wondering what liquids you can pack
+  in your checked bag? You might have heard strict rules about liquids in carry-ons,
+  but w
 pubDate: 2025-08-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-any-size-liquid-in-a-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-any-size-liquid-in-a-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering what liquids you can pack in your checked bag? You might have heard strict rules about liquids in carry-ons, but what about checked luggage?**

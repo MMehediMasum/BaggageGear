@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Kate Spade Bag is Real: Expert Tips Revealed"
-description: "Have you ever found yourself captivated by the allure of a Kate Spade bag, only to wonder if it's the real deal? You're not alone. In a world flooded with imita"
+title: 'How to Tell If a Kate Spade Bag is Real: Expert Tips Revealed'
+description: Have you ever found yourself captivated by the allure of a Kate Spade
+  bag, only to wonder if it's the real deal? You're not alone. In a world flooded
+  with imita
 pubDate: 2026-04-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-kate-spade-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-kate-spade-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever found yourself captivated by the allure of a Kate Spade bag, only to wonder if it's the real deal? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Are Fjallraven Kanken Backpacks Waterproof: Ultimate Guide 2025"
-description: "Are you considering a Fjallraven Kanken backpack for your next adventure, but wondering if it will hold up against unexpected rain? You're not alone. Many peopl"
+title: 'Are Fjallraven Kanken Backpacks Waterproof: Ultimate Guide 2025'
+description: Are you considering a Fjallraven Kanken backpack for your next adventure,
+  but wondering if it will hold up against unexpected rain? You're not alone. Many
+  peopl
 pubDate: 2026-01-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-fjallraven-kanken-backpacks-waterproof&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Brand Backpack Reviews
+heroImage: https://tse1.mm.bing.net/th?q=are-fjallraven-kanken-backpacks-waterproof&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you considering a Fjallraven Kanken backpack for your next adventure, but wondering if it will hold up against unexpected rain? You're not alone.**

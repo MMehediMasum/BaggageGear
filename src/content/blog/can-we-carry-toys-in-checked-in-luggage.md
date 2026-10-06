@@ -1,10 +1,14 @@
 ---
-title: "Can We Carry Toys in Checked-In Luggage: Essential Travel Tips"
-description: "Packing for a trip can be a puzzle, especially when it comes to deciding what to put in your checked-in luggage. If you're a parent, a toy collector, or simply "
+title: 'Can We Carry Toys in Checked-In Luggage: Essential Travel Tips'
+description: 'Packing for a trip can be a puzzle, especially when it comes to deciding
+  what to put in your checked-in luggage. If you''re a parent, a toy collector, or
+  simply '
 pubDate: 2026-01-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-we-carry-toys-in-checked-in-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Allowed Items In Checked Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-we-carry-toys-in-checked-in-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Packing for a trip can be a puzzle, especially when it comes to deciding what to put in your checked-in luggage. If you're a parent, a toy collector, or simply someone who loves bringing joy through playthings, you might wonder: "Can you carry toys in checked-in luggage?"**

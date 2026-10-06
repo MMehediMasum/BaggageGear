@@ -1,10 +1,14 @@
 ---
-title: "Best Battery Bank for Backpacking: Top Portable Chargers for Outdoor Adventures"
-description: "Choosing the best battery bank for backpacking keeps your devices charged and ready outdoors. A reliable power bank must be lightweight, durable, and offer fast"
+title: 'Best Battery Bank for Backpacking: Top Portable Chargers for Outdoor Adventures'
+description: Choosing the best battery bank for backpacking keeps your devices charged
+  and ready outdoors. A reliable power bank must be lightweight, durable, and offer
+  fast
 pubDate: 2025-10-12
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-battery-bank-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-battery-bank-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best battery bank for backpacking keeps your devices charged and ready outdoors. A reliable power bank must be lightweight, durable, and offer fast charging.**

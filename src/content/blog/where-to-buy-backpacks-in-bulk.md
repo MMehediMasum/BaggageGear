@@ -1,10 +1,13 @@
 ---
-title: "Where to Buy Backpacks in Bulk: Top Wholesale Deals Revealed"
-description: "Are you on the hunt for high-quality backpacks in bulk without breaking the bank? Whether you're gearing up for a school event, planning a promotional giveaway,"
+title: 'Where to Buy Backpacks in Bulk: Top Wholesale Deals Revealed'
+description: Are you on the hunt for high-quality backpacks in bulk without breaking
+  the bank? Whether you're gearing up for a school event, planning a promotional giveaway,
 pubDate: 2025-12-29
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-backpacks-in-bulk&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Cheap Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-backpacks-in-bulk&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for high-quality backpacks in bulk without breaking the bank? Whether you're gearing up for a school event, planning a promotional giveaway, or equipping your team for an outdoor adventure, finding the right supplier is key.**

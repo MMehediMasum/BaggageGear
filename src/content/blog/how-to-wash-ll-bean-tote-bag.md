@@ -1,10 +1,14 @@
 ---
-title: "How to Wash Ll Bean Tote Bag: Easy Steps for Spotless Cleaning"
-description: "If you own an L.L. Bean tote bag, you know how handy and stylish it is. But like any favorite item, it can get dirty over time. Maybe you’ve noticed a few stain"
+title: 'How to Wash Ll Bean Tote Bag: Easy Steps for Spotless Cleaning'
+description: If you own an L.L. Bean tote bag, you know how handy and stylish it is.
+  But like any favorite item, it can get dirty over time. Maybe you’ve noticed a few
+  stain
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-ll-bean-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Tote Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-ll-bean-tote-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **If you own an L.L. Bean tote bag, you know how handy and stylish it is.**

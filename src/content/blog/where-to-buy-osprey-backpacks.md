@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Osprey Backpacks: Top Trusted Retailers Revealed"
-description: "Are you on the hunt for the perfect Osprey backpack? You've come to the right place! Whether you're preparing for your next hiking adventure or simply need a re"
+title: 'Where to Buy Osprey Backpacks: Top Trusted Retailers Revealed'
+description: Are you on the hunt for the perfect Osprey backpack? You've come to the
+  right place! Whether you're preparing for your next hiking adventure or simply need
+  a re
 pubDate: 2025-12-09
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-osprey-backpacks&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where To Buy Backpack Brands
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-osprey-backpacks&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you on the hunt for the perfect Osprey backpack? You've come to the right place!**

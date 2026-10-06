@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Solar Panels for Backpacking: Lightweight, Waterproof, and Fast Charging Options"
 description: "Choosing the best solar panels for backpacking can keep your devices charged off the grid. Lightweight and portable panels suit outdoor adventures best. Backpac"
 pubDate: 2026-06-12

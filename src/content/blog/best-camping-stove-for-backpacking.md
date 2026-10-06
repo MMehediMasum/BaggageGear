@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Camping Stove for Backpacking: Top Portable Picks for Your Adventures"
 description: "Choosing the best camping stove for backpacking makes your outdoor cooking easier and safer. The right stove is lightweight, strong, and quick to use. Camping s"
 pubDate: 2026-06-17

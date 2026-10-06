@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much is a Bagster Bag Pick Up: Affordable Pricing Guide"
 description: "Have you ever found yourself knee-deep in clutter or debris, wondering how to get rid of it all without the hassle of renting a massive dumpster? Enter the Bags"
 pubDate: 2026-01-13

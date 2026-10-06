@@ -1,10 +1,14 @@
 ---
-title: "Can You Take a Backpack on Spirit: Ultimate Carry-On Guide"
-description: "Are you planning a trip with Spirit Airlines and wondering if you can take a backpack with you? You’re not alone. Many travelers like you are trying to navigate"
+title: 'Can You Take a Backpack on Spirit: Ultimate Carry-On Guide'
+description: Are you planning a trip with Spirit Airlines and wondering if you can
+  take a backpack with you? You’re not alone. Many travelers like you are trying to
+  navigate
 pubDate: 2025-12-21
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-on-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=can-you-take-a-backpack-on-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Spirit Airlines and wondering if you can take a backpack with you? You’re not alone.**

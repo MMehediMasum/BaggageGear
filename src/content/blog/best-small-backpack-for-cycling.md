@@ -1,10 +1,14 @@
 ---
-title: "Best Small Backpack for Cycling: Top Lightweight, Waterproof Picks"
-description: "Choosing the best small backpack for cycling makes your rides easier and more comfortable. A lightweight, water-resistant pack keeps your essentials safe and cl"
+title: 'Best Small Backpack for Cycling: Top Lightweight, Waterproof Picks'
+description: Choosing the best small backpack for cycling makes your rides easier
+  and more comfortable. A lightweight, water-resistant pack keeps your essentials
+  safe and cl
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-small-backpack-for-cycling&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cycling Backpacks And Commuter Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-small-backpack-for-cycling&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best small backpack for cycling makes your rides easier and more comfortable. A lightweight, water-resistant pack keeps your essentials safe and close.**

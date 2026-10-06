@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Does a Bean Bag Cost: Ultimate Guide to Prices & Value"
 description: "When you're looking to add a touch of comfort and style to your home, bean bags can be a fantastic option. But how much does a bean bag really cost? You might b"
 pubDate: 2026-01-20

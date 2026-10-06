@@ -1,10 +1,14 @@
 ---
-title: "How Many Bags Can You Carry on United: Ultimate Baggage Guide"
-description: "Planning a trip with United Airlines and wondering about their baggage policy? You're not alone. Figuring out how many bags you can carry can be a bit confusing"
+title: 'How Many Bags Can You Carry on United: Ultimate Baggage Guide'
+description: Planning a trip with United Airlines and wondering about their baggage
+  policy? You're not alone. Figuring out how many bags you can carry can be a bit
+  confusing
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-bags-can-you-carry-on-united&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=how-many-bags-can-you-carry-on-united&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning a trip with United Airlines and wondering about their baggage policy? You're not alone.**

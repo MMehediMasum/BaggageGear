@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Luggage for International Travel: Top Picks for Easy Journey"
-description: "Choosing the best lightweight luggage makes international travel easier and less stressful. It saves energy and meets airline weight limits comfortably. Travele"
+title: 'Best Lightweight Luggage for International Travel: Top Picks for Easy Journey'
+description: Choosing the best lightweight luggage makes international travel easier
+  and less stressful. It saves energy and meets airline weight limits comfortably.
+  Travele
 pubDate: 2026-07-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight luggage makes international travel easier and less stressful. It saves energy and meets airline weight limits comfortably.**

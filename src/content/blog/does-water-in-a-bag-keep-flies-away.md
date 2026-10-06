@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Water in a Bag Keep Flies Away? Surprising Truth Revealed"
 description: "Are you tired of pesky flies invading your space every time you try to enjoy a meal outdoors or relax on your porch? You're not alone. Many people are on the lo"
 pubDate: 2026-03-18

@@ -1,10 +1,14 @@
 ---
-title: "Can I Bring Contact Solution in My Carry On: Essential TSA Tips"
-description: "You're packing for your upcoming flight, and suddenly a question pops into your mind: \"Can I bring contact solution in my carry-on?\" It's a common concern for m"
+title: 'Can I Bring Contact Solution in My Carry On: Essential TSA Tips'
+description: 'You''re packing for your upcoming flight, and suddenly a question pops
+  into your mind: "Can I bring contact solution in my carry-on?" It''s a common concern
+  for m'
 pubDate: 2026-02-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-bring-contact-solution-in-my-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-bring-contact-solution-in-my-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your upcoming flight, and suddenly a question pops into your mind: "Can I bring contact solution in my carry-on?" It's a common concern for many travelers who rely on contact lenses daily.**

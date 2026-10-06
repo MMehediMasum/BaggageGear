@@ -1,10 +1,14 @@
 ---
-title: "Best Carry Bag for Small Dogs: Top Picks for Comfortable Travel"
-description: "Finding the best carry bag for small dogs makes traveling easier and safer. A good carrier keeps your pet comfortable and secure on the go. Small dogs need carr"
+title: 'Best Carry Bag for Small Dogs: Top Picks for Comfortable Travel'
+description: Finding the best carry bag for small dogs makes traveling easier and
+  safer. A good carrier keeps your pet comfortable and secure on the go. Small dogs
+  need carr
 pubDate: 2025-11-05
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-bag-for-small-dogs&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Dog And Cat Carrier Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-bag-for-small-dogs&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Finding the best carry bag for small dogs makes traveling easier and safer. A good carrier keeps your pet comfortable and secure on the go.**

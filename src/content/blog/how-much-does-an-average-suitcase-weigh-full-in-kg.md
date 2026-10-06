@@ -1,10 +1,14 @@
 ---
-title: "How Much Does an Average Suitcase Weigh Full in Kg: Essential Guide"
-description: "Are you planning your next adventure and wondering how much your suitcase should weigh when it's packed? You're not alone. Knowing the weight of a fully packed "
+title: 'How Much Does an Average Suitcase Weigh Full in Kg: Essential Guide'
+description: 'Are you planning your next adventure and wondering how much your suitcase
+  should weigh when it''s packed? You''re not alone. Knowing the weight of a fully
+  packed '
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-an-average-suitcase-weigh-full-in-kg&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-an-average-suitcase-weigh-full-in-kg&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next adventure and wondering how much your suitcase should weigh when it's packed? You're not alone.**

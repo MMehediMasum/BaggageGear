@@ -1,10 +1,14 @@
 ---
-title: "Do I Get a Carry on With Delta: Ultimate Guide to Baggage Rules"
-description: "Are you getting ready to fly with Delta Airlines and wondering about their carry-on policies? You're not alone. Packing for a trip can be stressful, especially "
+title: 'Do I Get a Carry on With Delta: Ultimate Guide to Baggage Rules'
+description: 'Are you getting ready to fly with Delta Airlines and wondering about
+  their carry-on policies? You''re not alone. Packing for a trip can be stressful,
+  especially '
 pubDate: 2025-12-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-i-get-a-carry-on-with-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=do-i-get-a-carry-on-with-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you getting ready to fly with Delta Airlines and wondering about their carry-on policies? You're not alone.**

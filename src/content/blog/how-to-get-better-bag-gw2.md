@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Get Better Bag Gw2: Ultimate Tips for Fast Upgrades"
 description: "Are you tired of constantly juggling items in your Guild Wars 2 inventory? Do you wish your bag had a little more breathing room for all those precious finds an"
 pubDate: 2026-03-31

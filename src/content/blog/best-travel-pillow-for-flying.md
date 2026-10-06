@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Pillow for Flying: Discover Ultimate Comfort with Memory Foam"
-description: "Finding the best travel pillow for flying can make long flights much more comfortable. A good pillow supports your neck and helps you rest better in your seat. "
+title: 'Best Travel Pillow for Flying: Discover Ultimate Comfort with Memory Foam'
+description: 'Finding the best travel pillow for flying can make long flights much
+  more comfortable. A good pillow supports your neck and helps you rest better in
+  your seat. '
 pubDate: 2025-10-28
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-pillow-for-flying&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Neck Pillows For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-pillow-for-flying&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best travel pillow for flying can make long flights much more comfortable. A good pillow supports your neck and helps you rest better in your seat.**

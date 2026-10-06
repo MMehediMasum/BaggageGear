@@ -1,10 +1,14 @@
 ---
-title: "Best Leather Weekender Bag for Men: Top Durable Stylish Travel Picks"
-description: "Choosing the best leather weekender bag for men combines style, durability, and practicality. A quality bag ensures easy packing and long-lasting use on short t"
+title: 'Best Leather Weekender Bag for Men: Top Durable Stylish Travel Picks'
+description: Choosing the best leather weekender bag for men combines style, durability,
+  and practicality. A quality bag ensures easy packing and long-lasting use on short
+  t
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leather-weekender-bag-for-men&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Leather Totes And Weekender Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-leather-weekender-bag-for-men&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Choosing the best leather weekender bag for men combines style, durability, and practicality. A quality bag ensures easy packing and long-lasting use on short trips.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Packing Cubes for Backpacking: Top Lightweight Organizers Reviewed"
-description: "Packing cubes help keep your backpack neat and organized during trips. They save space and protect your clothes from wrinkles and dirt. Backpacking means carryi"
+title: 'Best Packing Cubes for Backpacking: Top Lightweight Organizers Reviewed'
+description: Packing cubes help keep your backpack neat and organized during trips.
+  They save space and protect your clothes from wrinkles and dirt. Backpacking means
+  carryi
 pubDate: 2025-10-09
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-packing-cubes-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing Cubes For Carry On
+heroImage: https://tse1.mm.bing.net/th?q=best-packing-cubes-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing cubes help keep your backpack neat and organized during trips. They save space and protect your clothes from wrinkles and dirt.**

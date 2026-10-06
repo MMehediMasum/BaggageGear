@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Wrap Flowers in Trader Joe'S Bag: Easy & Stylish Tips"
 description: "Imagine this: You’ve just picked up a stunning bouquet of flowers, and you want to gift them in a way that’s both unique and environmentally friendly. What if I"
 pubDate: 2026-03-21

@@ -1,10 +1,14 @@
 ---
-title: "Where is July Luggage Made: Discover Quality Craftsmanship Origins"
-description: "Are you curious about the origins of your favorite travel companion, July Luggage? Knowing where and how your luggage is made can be as important as choosing th"
+title: 'Where is July Luggage Made: Discover Quality Craftsmanship Origins'
+description: Are you curious about the origins of your favorite travel companion,
+  July Luggage? Knowing where and how your luggage is made can be as important as
+  choosing th
 pubDate: 2026-04-07
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-is-july-luggage-made&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=where-is-july-luggage-made&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you curious about the origins of your favorite travel companion, July Luggage? Knowing where and how your luggage is made can be as important as choosing the right suitcase for your journey.**

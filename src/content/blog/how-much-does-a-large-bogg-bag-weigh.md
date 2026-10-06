@@ -1,10 +1,14 @@
 ---
-title: "How Much Does a Large Bogg Bag Weigh: Essential Weight Guide"
-description: "Are you curious about how much a large Bogg Bag weighs? Whether you're planning a day at the beach, a weekend getaway, or simply a trip to the grocery store, kn"
+title: 'How Much Does a Large Bogg Bag Weigh: Essential Weight Guide'
+description: Are you curious about how much a large Bogg Bag weighs? Whether you're
+  planning a day at the beach, a weekend getaway, or simply a trip to the grocery
+  store, kn
 pubDate: 2026-02-03
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-does-a-large-bogg-bag-weigh&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bogg Bag Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-does-a-large-bogg-bag-weigh&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Are you curious about how much a large Bogg Bag weighs? Whether you're planning a day at the beach, a weekend getaway, or simply a trip to the grocery store, knowing the weight of your bag can make all the difference in comfort and convenience.**

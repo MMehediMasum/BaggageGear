@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in My Bag Trend: Ultimate Must-Haves for 2025 Style"
 description: "Ever wondered what secrets lie within the everyday bags of influencers, celebrities, and fashion icons? The \"What's in My Bag\" trend has taken the internet by s"
 pubDate: 2025-10-27

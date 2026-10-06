@@ -1,10 +1,14 @@
 ---
-title: "Does Kings Cross Station Have Luggage Storage: Ultimate Guide"
-description: "Planning a visit to London and wondering about luggage storage at Kings Cross Station? Whether you're a seasoned traveler or this is your first adventure, manag"
+title: 'Does Kings Cross Station Have Luggage Storage: Ultimate Guide'
+description: Planning a visit to London and wondering about luggage storage at Kings
+  Cross Station? Whether you're a seasoned traveler or this is your first adventure,
+  manag
 pubDate: 2026-02-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-kings-cross-station-have-luggage-storage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airport And Station Luggage Storage
+heroImage: https://tse1.mm.bing.net/th?q=does-kings-cross-station-have-luggage-storage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Planning a visit to London and wondering about luggage storage at Kings Cross Station? Whether you're a seasoned traveler or this is your first adventure, managing your bags can be a hassle.**

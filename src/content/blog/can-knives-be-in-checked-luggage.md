@@ -1,10 +1,14 @@
 ---
-title: "Can Knives Be in Checked Luggage: Essential Airport Rules Explained"
-description: "Flying can be stressful, especially when it comes to packing your bags. You might find yourself wondering, \"Can knives be in checked luggage?\" This is a common "
+title: 'Can Knives Be in Checked Luggage: Essential Airport Rules Explained'
+description: 'Flying can be stressful, especially when it comes to packing your bags.
+  You might find yourself wondering, "Can knives be in checked luggage?" This is a
+  common '
 pubDate: 2026-01-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-knives-be-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-knives-be-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Flying can be stressful, especially when it comes to packing your bags. You might find yourself wondering, "Can knives be in checked luggage?"**

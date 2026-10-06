@@ -1,10 +1,14 @@
 ---
-title: "Best Synthetic Sleeping Bag for Backpacking: Top Lightweight Picks for Hikers"
-description: "Choosing the best synthetic sleeping bag for backpacking can make your outdoor trips more comfortable. Synthetic bags dry quickly and keep you warm in damp cond"
+title: 'Best Synthetic Sleeping Bag for Backpacking: Top Lightweight Picks for Hikers'
+description: Choosing the best synthetic sleeping bag for backpacking can make your
+  outdoor trips more comfortable. Synthetic bags dry quickly and keep you warm in
+  damp cond
 pubDate: 2026-06-07
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-synthetic-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-synthetic-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best synthetic sleeping bag for backpacking can make your outdoor trips more comfortable. Synthetic bags dry quickly and keep you warm in damp conditions.**

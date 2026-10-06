@@ -1,10 +1,14 @@
 ---
-title: "What Electronics are Not Allowed in Checked Luggage: Essential Guide"
-description: "Are you getting ready for a trip and planning what to pack in your luggage? You might be wondering about the rules for electronics in checked luggage. It's cruc"
+title: 'What Electronics are Not Allowed in Checked Luggage: Essential Guide'
+description: Are you getting ready for a trip and planning what to pack in your luggage?
+  You might be wondering about the rules for electronics in checked luggage. It's
+  cruc
 pubDate: 2025-12-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-electronics-are-not-allowed-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Laptops And Electronics In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-electronics-are-not-allowed-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you getting ready for a trip and planning what to pack in your luggage? You might be wondering about the rules for electronics in checked luggage.**

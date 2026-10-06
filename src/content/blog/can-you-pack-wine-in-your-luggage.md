@@ -1,10 +1,14 @@
 ---
-title: "Can You Pack Wine in Your Luggage: Essential Tips & Rules"
-description: "Planning a trip and wondering if you can pack wine in your luggage? Whether you're bringing home a special bottle from a vineyard visit or simply want to enjoy "
+title: 'Can You Pack Wine in Your Luggage: Essential Tips & Rules'
+description: 'Planning a trip and wondering if you can pack wine in your luggage?
+  Whether you''re bringing home a special bottle from a vineyard visit or simply want
+  to enjoy '
 pubDate: 2026-02-18
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-pack-wine-in-your-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Wine And Beer In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-pack-wine-in-your-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and wondering if you can pack wine in your luggage? Whether you're bringing home a special bottle from a vineyard visit or simply want to enjoy a favorite vintage on vacation, it's a question many travelers face.**

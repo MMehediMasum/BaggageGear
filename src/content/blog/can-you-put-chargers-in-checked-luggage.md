@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Chargers in Checked Luggage: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can pack your chargers in checked luggage? You’re not alone. This is a common question that many travelers grapple "
+title: 'Can You Put Chargers in Checked Luggage: Essential Travel Tips'
+description: 'Are you planning a trip and wondering if you can pack your chargers
+  in checked luggage? You’re not alone. This is a common question that many travelers
+  grapple '
 pubDate: 2025-11-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-chargers-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Batteries And Chargers In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-chargers-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can pack your chargers in checked luggage? You’re not alone.**

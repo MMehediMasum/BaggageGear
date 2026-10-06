@@ -1,10 +1,14 @@
 ---
-title: "How Strict is Capital One Arena Bag Policy: Ultimate Guide Revealed"
-description: "Planning a visit to Capital One Arena and worried about the bag policy? You're not alone. Many visitors, whether attending a thrilling game or a captivating con"
+title: 'How Strict is Capital One Arena Bag Policy: Ultimate Guide Revealed'
+description: Planning a visit to Capital One Arena and worried about the bag policy?
+  You're not alone. Many visitors, whether attending a thrilling game or a captivating
+  con
 pubDate: 2026-03-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-capital-one-arena-bag-policy&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Clear Bag Policies At Stadiums
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-capital-one-arena-bag-policy&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a visit to Capital One Arena and worried about the bag policy? You're not alone.**

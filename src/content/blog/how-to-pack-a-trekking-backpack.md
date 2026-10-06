@@ -1,10 +1,14 @@
 ---
-title: "How to Pack a Trekking Backpack: Ultimate Guide"
-description: "Packing your trekking backpack the right way can make or break your adventure. Imagine reaching your campsite tired and sore, only to realize your gear is all j"
+title: 'How to Pack a Trekking Backpack: Ultimate Guide'
+description: Packing your trekking backpack the right way can make or break your adventure.
+  Imagine reaching your campsite tired and sore, only to realize your gear is all
+  j
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-a-trekking-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Hiking Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-a-trekking-backpack&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Packing your trekking backpack the right way can make or break your adventure. Imagine reaching your campsite tired and sore, only to realize your gear is all jumbled and uncomfortable.**

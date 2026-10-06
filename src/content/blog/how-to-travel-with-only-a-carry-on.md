@@ -1,10 +1,14 @@
 ---
-title: "How to Travel With Only a Carry On: Ultimate Packing Hacks Revealed"
-description: "Are you tired of lugging around heavy suitcases and paying extra baggage fees every time you travel? Imagine breezing through airports with just a carry-on, fee"
+title: 'How to Travel With Only a Carry On: Ultimate Packing Hacks Revealed'
+description: Are you tired of lugging around heavy suitcases and paying extra baggage
+  fees every time you travel? Imagine breezing through airports with just a carry-on,
+  fee
 pubDate: 2025-11-04
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-travel-with-only-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Carry On Only
+heroImage: https://tse1.mm.bing.net/th?q=how-to-travel-with-only-a-carry-on&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Are you tired of lugging around heavy suitcases and paying extra baggage fees every time you travel? Imagine breezing through airports with just a carry-on, feeling light and free, ready to explore your destination without the hassle.**

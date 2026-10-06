@@ -1,10 +1,14 @@
 ---
-title: "Can I Put Shampoo in My Checked Bag: Essential Travel Tips"
-description: "You're packing for your trip and wondering about the rules for carrying liquids in your checked bag. Specifically, can you put shampoo in there? You're not alon"
+title: 'Can I Put Shampoo in My Checked Bag: Essential Travel Tips'
+description: You're packing for your trip and wondering about the rules for carrying
+  liquids in your checked bag. Specifically, can you put shampoo in there? You're
+  not alon
 pubDate: 2025-09-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-shampoo-in-my-checked-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-shampoo-in-my-checked-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're packing for your trip and wondering about the rules for carrying liquids in your checked bag. Specifically, can you put shampoo in there?**

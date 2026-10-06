@@ -1,10 +1,14 @@
 ---
-title: "What Does No Carry on Mean: Essential Travel Tips Explained"
-description: "What does \"no carry on\" mean? You've probably seen this phrase while booking a flight, and it might have left you scratching your head. Understanding this term "
+title: 'What Does No Carry on Mean: Essential Travel Tips Explained'
+description: 'What does "no carry on" mean? You''ve probably seen this phrase while
+  booking a flight, and it might have left you scratching your head. Understanding
+  this term '
 pubDate: 2026-05-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-no-carry-on-mean&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Unusual Items In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=what-does-no-carry-on-mean&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **What does "no carry on" mean? You've probably seen this phrase while booking a flight, and it might have left you scratching your head.**

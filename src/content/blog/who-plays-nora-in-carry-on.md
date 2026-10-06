@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Who Plays Nora in Carry On: Discover the Actress Behind the Role"
 description: "Curious about who brings the character of Nora to life in the beloved film \"Carry On\"? You're not alone! Unraveling the identity of this talented actress will n"
 pubDate: 2026-02-24

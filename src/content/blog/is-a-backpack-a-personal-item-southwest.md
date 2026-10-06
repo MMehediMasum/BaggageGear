@@ -1,10 +1,14 @@
 ---
-title: "Is a Backpack a Personal Item Southwest: Ultimate Carry-On Guide"
-description: "Are you planning a trip with Southwest Airlines and wondering if you can carry your backpack as a personal item? You're not alone. Many travelers face this dile"
+title: 'Is a Backpack a Personal Item Southwest: Ultimate Carry-On Guide'
+description: Are you planning a trip with Southwest Airlines and wondering if you
+  can carry your backpack as a personal item? You're not alone. Many travelers face
+  this dile
 pubDate: 2025-10-04
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Southwest Baggage Policy
+heroImage: https://tse1.mm.bing.net/th?q=is-a-backpack-a-personal-item-southwest&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Southwest Airlines and wondering if you can carry your backpack as a personal item? You're not alone.**

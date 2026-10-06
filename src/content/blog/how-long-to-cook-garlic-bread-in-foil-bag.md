@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Long to Cook Garlic Bread in Foil Bag: Perfect Timing Guide"
 description: "Imagine the smell of warm, buttery garlic bread wafting through your kitchen, making your mouth water in anticipation. You're probably wondering how long it tak"
 pubDate: 2026-01-30

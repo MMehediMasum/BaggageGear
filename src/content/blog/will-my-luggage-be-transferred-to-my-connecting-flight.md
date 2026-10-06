@@ -1,10 +1,14 @@
 ---
-title: "Will My Luggage Be Transferred to My Connecting Flight? Essential Facts"
-description: "Navigating the complexities of air travel can be daunting, especially when you have connecting flights. One of the burning questions that might be on your mind "
+title: Will My Luggage Be Transferred to My Connecting Flight? Essential Facts
+description: 'Navigating the complexities of air travel can be daunting, especially
+  when you have connecting flights. One of the burning questions that might be on
+  your mind '
 pubDate: 2026-05-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=will-my-luggage-be-transferred-to-my-connecting-flight&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Connections And Layovers
+heroImage: https://tse1.mm.bing.net/th?q=will-my-luggage-be-transferred-to-my-connecting-flight&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Navigating the complexities of air travel can be daunting, especially when you have connecting flights. One of the burning questions that might be on your mind is: "Will my luggage be transferred to my connecting flight?"**

@@ -1,10 +1,14 @@
 ---
-title: "Best Crossbody Bag for Running: Top Lightweight, Waterproof Picks"
-description: "Finding the best crossbody bag for running makes carrying essentials easier and safer. These bags offer comfort, security, and hands-free convenience during you"
+title: 'Best Crossbody Bag for Running: Top Lightweight, Waterproof Picks'
+description: Finding the best crossbody bag for running makes carrying essentials
+  easier and safer. These bags offer comfort, security, and hands-free convenience
+  during you
 pubDate: 2026-06-21
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-crossbody-bag-for-running&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Crossbody Bags For Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-crossbody-bag-for-running&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Finding the best crossbody bag for running makes carrying essentials easier and safer. These bags offer comfort, security, and hands-free convenience during your workout.**

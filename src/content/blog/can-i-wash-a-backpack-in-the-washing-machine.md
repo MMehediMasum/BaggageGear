@@ -1,10 +1,14 @@
 ---
-title: "Can I Wash a Backpack in the Washing Machine: Ultimate Guide"
-description: "Your backpack is your trusty companion, whether you’re heading to school, hitting the trails, or jetting off on a new adventure. But over time, it picks up dirt"
+title: 'Can I Wash a Backpack in the Washing Machine: Ultimate Guide'
+description: Your backpack is your trusty companion, whether you’re heading to school,
+  hitting the trails, or jetting off on a new adventure. But over time, it picks up
+  dirt
 pubDate: 2026-01-05
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-wash-a-backpack-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Backpacks In A Machine
+heroImage: https://tse1.mm.bing.net/th?q=can-i-wash-a-backpack-in-the-washing-machine&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your backpack is your trusty companion, whether you’re heading to school, hitting the trails, or jetting off on a new adventure. But over time, it picks up dirt, stains, and those mysterious odors.**

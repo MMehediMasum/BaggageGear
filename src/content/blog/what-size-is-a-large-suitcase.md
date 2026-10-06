@@ -1,10 +1,14 @@
 ---
-title: "What Size is a Large Suitcase: Ultimate Guide to Dimensions"
-description: "Have you ever stood in front of a luggage store, staring at the rows of suitcases and wondering, \"What size is a large suitcase?\" You’re not alone. Choosing the"
+title: 'What Size is a Large Suitcase: Ultimate Guide to Dimensions'
+description: Have you ever stood in front of a luggage store, staring at the rows
+  of suitcases and wondering, "What size is a large suitcase?" You’re not alone. Choosing
+  the
 pubDate: 2026-03-20
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-size-is-a-large-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Large And Medium Suitcase Dimensions
+heroImage: https://tse1.mm.bing.net/th?q=what-size-is-a-large-suitcase&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood in front of a luggage store, staring at the rows of suitcases and wondering, "What size is a large suitcase?" You’re not alone.**

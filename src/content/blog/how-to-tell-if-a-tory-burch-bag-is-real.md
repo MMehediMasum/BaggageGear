@@ -1,10 +1,14 @@
 ---
-title: "How to Tell If a Tory Burch Bag is Real: Ultimate Authenticity Guide"
-description: "You’ve found a Tory Burch bag that catches your eye, but how can you be sure it’s the real deal? With so many fakes out there, it’s easy to feel unsure about wh"
+title: 'How to Tell If a Tory Burch Bag is Real: Ultimate Authenticity Guide'
+description: You’ve found a Tory Burch bag that catches your eye, but how can you
+  be sure it’s the real deal? With so many fakes out there, it’s easy to feel unsure
+  about wh
 pubDate: 2026-03-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-tell-if-a-tory-burch-bag-is-real&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Authenticating Coach And MK Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-tell-if-a-tory-burch-bag-is-real&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **You’ve found a Tory Burch bag that catches your eye, but how can you be sure it’s the real deal? With so many fakes out there, it’s easy to feel unsure about what to look for.**

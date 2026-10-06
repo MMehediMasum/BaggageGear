@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Change an Ostomy Bag: Easy Steps for Confident Care"
 description: "Changing an ostomy bag might seem daunting at first, but it's simpler than you think. You deserve to feel confident and comfortable in every step of your ostomy"
 pubDate: 2026-04-23

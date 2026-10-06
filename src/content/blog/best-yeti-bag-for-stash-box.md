@@ -1,10 +1,14 @@
 ---
-title: "Best Yeti Bag for Stash Box: Top Picks for Odorless Storage"
-description: "Choosing the best Yeti bag for a stash box helps keep your items safe and odor-free. These bags combine strong insulation and smell-proof features for reliable "
+title: 'Best Yeti Bag for Stash Box: Top Picks for Odorless Storage'
+description: 'Choosing the best Yeti bag for a stash box helps keep your items safe
+  and odor-free. These bags combine strong insulation and smell-proof features for
+  reliable '
 pubDate: 2026-05-20
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-yeti-bag-for-stash-box&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Specialty Use Bags And Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-yeti-bag-for-stash-box&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best Yeti bag for a stash box helps keep your items safe and odor-free. These bags combine strong insulation and smell-proof features for reliable storage.**

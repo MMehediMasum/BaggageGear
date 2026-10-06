@@ -1,10 +1,14 @@
 ---
-title: "Best Power Bank for Travelpro Luggage: Top Portable Chargers for Travelers"
-description: "Finding the best power bank for Travelpro luggage makes traveling easier and more convenient. A reliable power bank keeps your devices charged on the go without"
+title: 'Best Power Bank for Travelpro Luggage: Top Portable Chargers for Travelers'
+description: Finding the best power bank for Travelpro luggage makes traveling easier
+  and more convenient. A reliable power bank keeps your devices charged on the go
+  without
 pubDate: 2026-07-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-power-bank-for-travelpro-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-power-bank-for-travelpro-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best power bank for Travelpro luggage makes traveling easier and more convenient. A reliable power bank keeps your devices charged on the go without adding bulk.**

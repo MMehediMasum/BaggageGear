@@ -1,10 +1,14 @@
 ---
-title: "What is a Framed Backpack: Ultimate Guide to Benefits & Uses"
-description: "Imagine you're about to embark on your next adventure. Whether it's a challenging hike through rugged terrain or a leisurely stroll through the city, the right "
+title: 'What is a Framed Backpack: Ultimate Guide to Benefits & Uses'
+description: 'Imagine you''re about to embark on your next adventure. Whether it''s
+  a challenging hike through rugged terrain or a leisurely stroll through the city,
+  the right '
 pubDate: 2026-01-07
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-a-framed-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpack Types Explained
+heroImage: https://tse1.mm.bing.net/th?q=what-is-a-framed-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine you're about to embark on your next adventure. Whether it's a challenging hike through rugged terrain or a leisurely stroll through the city, the right gear can make all the difference.**

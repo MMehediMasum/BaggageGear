@@ -1,10 +1,14 @@
 ---
-title: "Can You Put North Face Backpacks in the Washing Machine? Ultimate Guide"
-description: "If you've ever glanced at your North Face backpack and wondered if a spin in the washing machine could bring it back to its pristine glory, you're not alone. Ba"
+title: Can You Put North Face Backpacks in the Washing Machine? Ultimate Guide
+description: If you've ever glanced at your North Face backpack and wondered if a
+  spin in the washing machine could bring it back to its pristine glory, you're not
+  alone. Ba
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-north-face-backpacks-in-the-washing-machine&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- North Face Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-north-face-backpacks-in-the-washing-machine&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **If you've ever glanced at your North Face backpack and wondered if a spin in the washing machine could bring it back to its pristine glory, you're not alone. Backpacks are trusty companions that often bear the brunt of our daily adventures, collecting dirt and grime along the way.**

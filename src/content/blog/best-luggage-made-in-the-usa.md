@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage Made in the USA: Top Durable & Stylish Picks"
-description: "Finding the best luggage made in the USA ensures quality and durability for every trip. American-made suitcases offer strong materials and reliable features tra"
+title: 'Best Luggage Made in the USA: Top Durable & Stylish Picks'
+description: Finding the best luggage made in the USA ensures quality and durability
+  for every trip. American-made suitcases offer strong materials and reliable features
+  tra
 pubDate: 2026-07-19
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-made-in-the-usa&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-made-in-the-usa&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best luggage made in the USA ensures quality and durability for every trip. American-made suitcases offer strong materials and reliable features travelers trust.**

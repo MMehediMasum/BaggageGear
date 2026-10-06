@@ -1,10 +1,14 @@
 ---
-title: "Best Personal Item Weekender Bag: Stylish Travel Companion with Shoe Compartment"
-description: "Choosing the best personal item weekender bag helps you travel light and stay organized. These bags fit under the seat and hold all essentials for short trips. "
+title: 'Best Personal Item Weekender Bag: Stylish Travel Companion with Shoe Compartment'
+description: 'Choosing the best personal item weekender bag helps you travel light
+  and stay organized. These bags fit under the seat and hold all essentials for short
+  trips. '
 pubDate: 2026-08-02
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-personal-item-weekender-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Personal Item Bags For Flying
+heroImage: https://tse1.mm.bing.net/th?q=best-personal-item-weekender-bag&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Choosing the best personal item weekender bag helps you travel light and stay organized. These bags fit under the seat and hold all essentials for short trips.**

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Much Caffeine in a Tea Bag: Surprising Facts Revealed"
 description: "Have you ever wondered just how much caffeine is hiding in your daily cup of tea? You're not alone. Many tea lovers are curious about the caffeine content in th"
 pubDate: 2025-12-19

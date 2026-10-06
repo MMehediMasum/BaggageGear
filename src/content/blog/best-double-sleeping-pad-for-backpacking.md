@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Double Sleeping Pad for Backpacking: Top Ultralight Inflatable Picks"
 description: "Choosing the best double sleeping pad for backpacking ensures comfort and rest on outdoor trips. A good pad supports two people while staying light and easy to "
 pubDate: 2026-06-18

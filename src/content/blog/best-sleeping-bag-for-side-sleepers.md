@@ -1,10 +1,14 @@
 ---
-title: "Best Sleeping Bag for Side Sleepers: Top Picks for Cozy Nights"
-description: "Finding the best sleeping bag for side sleepers can improve your camping comfort. Side sleepers need extra room and proper support to sleep well outdoors. Side "
+title: 'Best Sleeping Bag for Side Sleepers: Top Picks for Cozy Nights'
+description: 'Finding the best sleeping bag for side sleepers can improve your camping
+  comfort. Side sleepers need extra room and proper support to sleep well outdoors.
+  Side '
 pubDate: 2026-06-19
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-side-sleepers&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-sleeping-bag-for-side-sleepers&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best sleeping bag for side sleepers can improve your camping comfort. Side sleepers need extra room and proper support to sleep well outdoors.**

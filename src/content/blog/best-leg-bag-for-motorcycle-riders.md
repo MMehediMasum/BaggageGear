@@ -1,10 +1,14 @@
 ---
-title: "Best Leg Bag for Motorcycle Riders: Top Picks for Adventure Seekers"
-description: "Choosing the best leg bag for motorcycle riders helps keep essentials close and secure. These bags offer easy access and comfort during rides. Motorcycle riders"
+title: 'Best Leg Bag for Motorcycle Riders: Top Picks for Adventure Seekers'
+description: Choosing the best leg bag for motorcycle riders helps keep essentials
+  close and secure. These bags offer easy access and comfort during rides. Motorcycle
+  riders
 pubDate: 2026-05-30
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-leg-bag-for-motorcycle-riders&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Bike Bags And Racks
+heroImage: https://tse1.mm.bing.net/th?q=best-leg-bag-for-motorcycle-riders&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best leg bag for motorcycle riders helps keep essentials close and secure. These bags offer easy access and comfort during rides.**

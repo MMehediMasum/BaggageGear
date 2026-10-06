@@ -1,10 +1,14 @@
 ---
-title: "Can I Put a Sword in My Checked Luggage: Essential Travel Rules"
-description: "Planning a trip and considering bringing your prized sword along? You might be wondering if you can put a sword in your checked luggage. This curiosity isn't ju"
+title: 'Can I Put a Sword in My Checked Luggage: Essential Travel Rules'
+description: Planning a trip and considering bringing your prized sword along? You
+  might be wondering if you can put a sword in your checked luggage. This curiosity
+  isn't ju
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-put-a-sword-in-my-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Knives In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-put-a-sword-in-my-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and considering bringing your prized sword along? You might be wondering if you can put a sword in your checked luggage.**

@@ -1,10 +1,14 @@
 ---
-title: "How Many 3.5 Oz Bottles Can I Carry on: Ultimate TSA Guide"
-description: "Are you planning a trip and wondering how many 3.5 oz bottles you can carry on board? Knowing the rules about liquids in your carry-on can save you time, hassle"
+title: 'How Many 3.5 Oz Bottles Can I Carry on: Ultimate TSA Guide'
+description: Are you planning a trip and wondering how many 3.5 oz bottles you can
+  carry on board? Knowing the rules about liquids in your carry-on can save you time,
+  hassle
 pubDate: 2026-04-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-35-oz-bottles-can-i-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-35-oz-bottles-can-i-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering how many 3.5 oz bottles you can carry on board? Knowing the rules about liquids in your carry-on can save you time, hassle, and stress at the airport.**

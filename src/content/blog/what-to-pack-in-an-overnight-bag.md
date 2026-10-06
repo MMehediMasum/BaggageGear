@@ -1,10 +1,14 @@
 ---
-title: "What to Pack in an Overnight Bag: Essential Items for Stress-Free Trips"
-description: "Packing an overnight bag can feel like a puzzle, especially when you want to be prepared for anything without overloading your suitcase. You might wonder, \"What"
+title: 'What to Pack in an Overnight Bag: Essential Items for Stress-Free Trips'
+description: Packing an overnight bag can feel like a puzzle, especially when you
+  want to be prepared for anything without overloading your suitcase. You might wonder,
+  "What
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-in-an-overnight-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- What To Pack In Bags
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-in-an-overnight-bag&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Packing an overnight bag can feel like a puzzle, especially when you want to be prepared for anything without overloading your suitcase. You might wonder, "What do I really need?"**

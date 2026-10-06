@@ -1,10 +1,14 @@
 ---
-title: "Best Budget Sleeping Bag for Backpacking: Top Ultralight Mummy Bags Reviewed"
-description: "Finding the best budget sleeping bag for backpacking can improve your outdoor trips without breaking the bank. A good sleeping bag keeps you warm, light, and co"
+title: 'Best Budget Sleeping Bag for Backpacking: Top Ultralight Mummy Bags Reviewed'
+description: Finding the best budget sleeping bag for backpacking can improve your
+  outdoor trips without breaking the bank. A good sleeping bag keeps you warm, light,
+  and co
 pubDate: 2026-06-13
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-budget-sleeping-bag-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-budget-sleeping-bag-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Finding the best budget sleeping bag for backpacking can improve your outdoor trips without breaking the bank. A good sleeping bag keeps you warm, light, and comfortable while hiking or camping.**

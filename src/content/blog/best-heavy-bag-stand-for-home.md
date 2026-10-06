@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Heavy Bag Stand for Home: Top Durable and Adjustable Options"
 description: "Choosing the best heavy bag stand for home use helps improve your boxing or kickboxing workouts. A sturdy stand keeps your bag stable and safe during training. "
 pubDate: 2026-06-19

@@ -1,10 +1,14 @@
 ---
-title: "How to Lock Luggage: Easy Tips for Ultimate Travel Security"
-description: "Have you ever felt that little twinge of anxiety when handing over your luggage at the airport or leaving it in a hotel room? It's completely normal to worry ab"
+title: 'How to Lock Luggage: Easy Tips for Ultimate Travel Security'
+description: Have you ever felt that little twinge of anxiety when handing over your
+  luggage at the airport or leaving it in a hotel room? It's completely normal to
+  worry ab
 pubDate: 2026-03-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-lock-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Should You Lock Your Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-lock-luggage&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Have you ever felt that little twinge of anxiety when handing over your luggage at the airport or leaving it in a hotel room? It's completely normal to worry about the security of your belongings while traveling.**

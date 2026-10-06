@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is a Colostomy Bag for Urine Or Poop: Essential Facts Explained"
 description: "Have you ever wondered what a colostomy bag is really for? You might be curious if it's designed for urine, poop, or perhaps both. This question might seem simp"
 pubDate: 2026-04-09

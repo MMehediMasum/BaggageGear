@@ -1,10 +1,14 @@
 ---
-title: "Best Size Daypack for Hiking: Top Lightweight Backpacks for Outdoor Adventures"
-description: "Choosing the best size daypack for hiking ensures comfort and convenience on every trail. The right backpack holds all essentials without feeling heavy or bulky"
+title: 'Best Size Daypack for Hiking: Top Lightweight Backpacks for Outdoor Adventures'
+description: Choosing the best size daypack for hiking ensures comfort and convenience
+  on every trail. The right backpack holds all essentials without feeling heavy or
+  bulky
 pubDate: 2026-06-23
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-size-daypack-for-hiking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Day Hiking Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-size-daypack-for-hiking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best size daypack for hiking ensures comfort and convenience on every trail. The right backpack holds all essentials without feeling heavy or bulky.**

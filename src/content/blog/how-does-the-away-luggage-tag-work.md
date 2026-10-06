@@ -1,10 +1,14 @@
 ---
-title: "How Does the Away Luggage Tag Work: Ultimate Guide to Smart Travel"
-description: "Are you tired of losing track of your luggage during your travels? The stress of wondering if your bags will arrive at your destination can dampen the excitemen"
+title: 'How Does the Away Luggage Tag Work: Ultimate Guide to Smart Travel'
+description: Are you tired of losing track of your luggage during your travels? The
+  stress of wondering if your bags will arrive at your destination can dampen the
+  excitemen
 pubDate: 2026-02-14
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-does-the-away-luggage-tag-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Luggage Tags
+heroImage: https://tse1.mm.bing.net/th?q=how-does-the-away-luggage-tag-work&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Are you tired of losing track of your luggage during your travels? The stress of wondering if your bags will arrive at your destination can dampen the excitement of any trip.**

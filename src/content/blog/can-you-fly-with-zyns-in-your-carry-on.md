@@ -1,10 +1,13 @@
 ---
-title: "Can You Fly With Zyns in Your Carry On: Essential Travel Tips"
-description: "Are you planning a trip and wondering if you can bring Zyns in your carry-on? You're not alone. Many travelers face this dilemma, trying to navigate TSA regulat"
+title: 'Can You Fly With Zyns in Your Carry On: Essential Travel Tips'
+description: Are you planning a trip and wondering if you can bring Zyns in your carry-on?
+  You're not alone. Many travelers face this dilemma, trying to navigate TSA regulat
 pubDate: 2026-04-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-fly-with-zyns-in-your-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Vapes And Tobacco In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-fly-with-zyns-in-your-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning a trip and wondering if you can bring Zyns in your carry-on? You're not alone.**

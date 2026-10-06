@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Luggage in Tokyo: Top Spots for Quality & Deals"
-description: "Planning a trip to Tokyo and wondering where to buy the perfect luggage? You're in the right place. Tokyo is a bustling metropolis that offers a wide range of o"
+title: 'Where to Buy Luggage in Tokyo: Top Spots for Quality & Deals'
+description: Planning a trip to Tokyo and wondering where to buy the perfect luggage?
+  You're in the right place. Tokyo is a bustling metropolis that offers a wide range
+  of o
 pubDate: 2025-09-03
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-luggage-in-tokyo&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-luggage-in-tokyo&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Planning a trip to Tokyo and wondering where to buy the perfect luggage? You're in the right place.**

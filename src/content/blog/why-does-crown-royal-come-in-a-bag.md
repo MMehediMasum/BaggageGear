@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Why Does Crown Royal Come in a Bag: The Surprising Reason Explained"
 description: "Have you ever wondered why Crown Royal comes in a bag? You’re not alone. This iconic packaging has intrigued many and sparked curiosity among whiskey lovers and"
 pubDate: 2026-04-17

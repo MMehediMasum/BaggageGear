@@ -1,10 +1,14 @@
 ---
-title: "Can You Put Alcohol in a Checked Bag Southwest: Essential Rules Revealed"
-description: "Can you put alcohol in a checked bag on Southwest Airlines? If you've ever found yourself wondering about this while packing for a trip, you're not alone. Navig"
+title: 'Can You Put Alcohol in a Checked Bag Southwest: Essential Rules Revealed'
+description: Can you put alcohol in a checked bag on Southwest Airlines? If you've
+  ever found yourself wondering about this while packing for a trip, you're not alone.
+  Navig
 pubDate: 2026-03-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-put-alcohol-in-a-checked-bag-southwest&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-put-alcohol-in-a-checked-bag-southwest&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Can you put alcohol in a checked bag on Southwest Airlines? If you've ever found yourself wondering about this while packing for a trip, you're not alone.**

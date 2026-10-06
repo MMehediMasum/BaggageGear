@@ -1,10 +1,14 @@
 ---
-title: "Are All Sprayground Backpacks Limited Edition? Unveiling Truths!"
-description: "Imagine walking into a room, and all eyes are on you because of your unique style. That's the power of a Sprayground backpack. You might be wondering, \"Are all "
+title: Are All Sprayground Backpacks Limited Edition? Unveiling Truths!
+description: 'Imagine walking into a room, and all eyes are on you because of your
+  unique style. That''s the power of a Sprayground backpack. You might be wondering,
+  "Are all '
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-all-sprayground-backpacks-limited-edition&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sprayground Backpack Questions
+heroImage: https://tse1.mm.bing.net/th?q=are-all-sprayground-backpacks-limited-edition&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Imagine walking into a room, and all eyes are on you because of your unique style. That's the power of a Sprayground backpack.**

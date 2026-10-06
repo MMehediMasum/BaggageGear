@@ -1,10 +1,14 @@
 ---
-title: "How to Pack for a Week in a Backpack: Ultimate Guide for Travelers"
-description: "Imagine the freedom of exploring new places with just a backpack on your shoulders. No heavy suitcases, no excess baggage fees, just you and the open road. Pack"
+title: 'How to Pack for a Week in a Backpack: Ultimate Guide for Travelers'
+description: Imagine the freedom of exploring new places with just a backpack on your
+  shoulders. No heavy suitcases, no excess baggage fees, just you and the open road.
+  Pack
 pubDate: 2026-01-03
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-pack-for-a-week-in-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Packing A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-pack-for-a-week-in-a-backpack&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Imagine the freedom of exploring new places with just a backpack on your shoulders. No heavy suitcases, no excess baggage fees, just you and the open road.**

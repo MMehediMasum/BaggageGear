@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for 17 Inch Laptop and Switch: Top Picks for You"
-description: "Finding the best backpack for a 17-inch laptop and Nintendo Switch can be tricky. You need space, protection, and style all in one bag. A good backpack holds yo"
+title: 'Best Backpack for 17 Inch Laptop and Switch: Top Picks for You'
+description: Finding the best backpack for a 17-inch laptop and Nintendo Switch can
+  be tricky. You need space, protection, and style all in one bag. A good backpack
+  holds yo
 pubDate: 2025-11-16
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-17-inch-laptop-and-swith&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Size Guides
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-17-inch-laptop-and-swith&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best backpack for a 17-inch laptop and Nintendo Switch can be tricky. You need space, protection, and style all in one bag.**

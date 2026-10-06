@@ -1,10 +1,14 @@
 ---
-title: "What Does Qoh Mean on United Bag Tracking Notes: Clear Explanation"
-description: "Have you ever tracked a package and stumbled upon unfamiliar abbreviations or terms? You’re not alone. When dealing with United Bag tracking notes, one of the m"
+title: 'What Does Qoh Mean on United Bag Tracking Notes: Clear Explanation'
+description: Have you ever tracked a package and stumbled upon unfamiliar abbreviations
+  or terms? You’re not alone. When dealing with United Bag tracking notes, one of
+  the m
 pubDate: 2026-02-08
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-qoh-mean-on-united-bag-tracking-notes&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- United Airlines Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-does-qoh-mean-on-united-bag-tracking-notes&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever tracked a package and stumbled upon unfamiliar abbreviations or terms? You’re not alone.**

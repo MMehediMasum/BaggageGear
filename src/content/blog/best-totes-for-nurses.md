@@ -1,10 +1,14 @@
 ---
-title: "Best Totes for Nurses: Stylish and Functional Bags with Compartments"
-description: "Nurses need strong, roomy totes to carry their daily essentials with ease. The best totes combine style, function, and durability for busy healthcare profession"
+title: 'Best Totes for Nurses: Stylish and Functional Bags with Compartments'
+description: Nurses need strong, roomy totes to carry their daily essentials with
+  ease. The best totes combine style, function, and durability for busy healthcare
+  profession
 pubDate: 2026-05-17
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-totes-for-nurses&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tool And Trade Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-totes-for-nurses&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Nurses need strong, roomy totes to carry their daily essentials with ease. The best totes combine style, function, and durability for busy healthcare professionals.**

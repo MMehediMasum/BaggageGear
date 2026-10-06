@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in a Rosin Bag: Essential Ingredients Revealed"
 description: "Have you ever wondered what's inside a rosin bag and why it's a must-have for athletes like baseball pitchers and weightlifters? Whether you're an athlete yours"
 pubDate: 2026-04-07

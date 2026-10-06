@@ -1,10 +1,14 @@
 ---
-title: "How Many Ml Can You Take on a Carry On: Ultimate Guide 2025"
-description: "Are you planning your next trip and wondering how many milliliters you can take in your carry-on? Navigating the maze of airport security can be daunting, espec"
+title: 'How Many Ml Can You Take on a Carry On: Ultimate Guide 2025'
+description: Are you planning your next trip and wondering how many milliliters you
+  can take in your carry-on? Navigating the maze of airport security can be daunting,
+  espec
 pubDate: 2025-12-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-ml-can-you-take-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-ml-can-you-take-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next trip and wondering how many milliliters you can take in your carry-on? Navigating the maze of airport security can be daunting, especially when it comes to packing your liquids.**

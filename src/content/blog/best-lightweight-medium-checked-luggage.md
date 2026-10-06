@@ -1,10 +1,13 @@
 ---
-title: "Best Lightweight Medium Checked Luggage for Effortless Travel and Durability"
-description: "Choosing the best lightweight medium checked luggage makes travel easier and less tiring. It offers enough space without being heavy or hard to carry. Travelers"
+title: Best Lightweight Medium Checked Luggage for Effortless Travel and Durability
+description: Choosing the best lightweight medium checked luggage makes travel easier
+  and less tiring. It offers enough space without being heavy or hard to carry. Travelers
 pubDate: 2026-07-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-medium-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Lightweight Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-medium-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight medium checked luggage makes travel easier and less tiring. It offers enough space without being heavy or hard to carry.**

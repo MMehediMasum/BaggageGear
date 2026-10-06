@@ -1,10 +1,14 @@
 ---
-title: "Best Roller Bags for Work: Top Picks for Professionals on the Go"
-description: "Choosing the best roller bag for work helps you carry your laptop and documents with ease. These bags offer convenience and style for busy professionals. Roller"
+title: 'Best Roller Bags for Work: Top Picks for Professionals on the Go'
+description: Choosing the best roller bag for work helps you carry your laptop and
+  documents with ease. These bags offer convenience and style for busy professionals.
+  Roller
 pubDate: 2026-07-23
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-roller-bags-for-work&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-roller-bags-for-work&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best roller bag for work helps you carry your laptop and documents with ease. These bags offer convenience and style for busy professionals.**

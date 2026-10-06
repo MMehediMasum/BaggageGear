@@ -1,10 +1,14 @@
 ---
-title: "Can You Wash a Down Sleeping Bag: Essential Tips for Freshness"
-description: "Have you ever wondered if you can wash your down sleeping bag without ruining it? You're not alone. Many adventurers like you face this dilemma after a thrillin"
+title: 'Can You Wash a Down Sleeping Bag: Essential Tips for Freshness'
+description: Have you ever wondered if you can wash your down sleeping bag without
+  ruining it? You're not alone. Many adventurers like you face this dilemma after
+  a thrillin
 pubDate: 2025-10-31
-author: "ivercalloway"
-categories: ["Bag Care & Repairs"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-wash-a-down-sleeping-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=can-you-wash-a-down-sleeping-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Have you ever wondered if you can wash your down sleeping bag without ruining it? You're not alone.**

@@ -1,10 +1,13 @@
 ---
-title: "Can You Carry on Hiking Poles: Essential Travel Tips Revealed"
-description: "Are you planning your next hiking adventure and wondering about the logistics of packing your gear? You might be asking yourself, \"Can you carry on hiking poles"
+title: 'Can You Carry on Hiking Poles: Essential Travel Tips Revealed'
+description: Are you planning your next hiking adventure and wondering about the logistics
+  of packing your gear? You might be asking yourself, "Can you carry on hiking poles
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-hiking-poles&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Sharp Items In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-hiking-poles&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Are you planning your next hiking adventure and wondering about the logistics of packing your gear? You might be asking yourself, "Can you carry on hiking poles?"**

@@ -1,10 +1,14 @@
 ---
-title: "Best Backpack for Disney Trips: Top Lightweight, Stylish, and Functional Picks"
-description: "Choosing the best backpack for Disney makes your trip easier and more fun. A good backpack holds all your essentials and fits your style. Disney parks require b"
+title: 'Best Backpack for Disney Trips: Top Lightweight, Stylish, and Functional Picks'
+description: Choosing the best backpack for Disney makes your trip easier and more
+  fun. A good backpack holds all your essentials and fits your style. Disney parks
+  require b
 pubDate: 2025-10-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-disney&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-disney&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for Disney makes your trip easier and more fun. A good backpack holds all your essentials and fits your style.**

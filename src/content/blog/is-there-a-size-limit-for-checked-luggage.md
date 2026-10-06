@@ -1,10 +1,14 @@
 ---
-title: "Is There a Size Limit for Checked Luggage: Essential Airline Rules"
-description: "Are you planning a trip and wondering about the size limit for checked luggage? If so, you're not alone. Many travelers like you are curious about the rules and"
+title: 'Is There a Size Limit for Checked Luggage: Essential Airline Rules'
+description: Are you planning a trip and wondering about the size limit for checked
+  luggage? If so, you're not alone. Many travelers like you are curious about the
+  rules and
 pubDate: 2025-09-21
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-there-a-size-limit-for-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checked Bag Size Limits
+heroImage: https://tse1.mm.bing.net/th?q=is-there-a-size-limit-for-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering about the size limit for checked luggage? If so, you're not alone.**

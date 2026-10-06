@@ -1,10 +1,14 @@
 ---
-title: "Best Under Seat Travel Bag for Convenient and Stylish Carry-On Solutions"
-description: "Finding the best under seat travel bag makes your journey easier and more organized. These bags fit perfectly under airplane seats and keep essentials close. Tr"
+title: Best Under Seat Travel Bag for Convenient and Stylish Carry-On Solutions
+description: Finding the best under seat travel bag makes your journey easier and
+  more organized. These bags fit perfectly under airplane seats and keep essentials
+  close. Tr
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-under-seat-travel-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Underseat Carry On Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-under-seat-travel-bag&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding the best under seat travel bag makes your journey easier and more organized. These bags fit perfectly under airplane seats and keep essentials close.**

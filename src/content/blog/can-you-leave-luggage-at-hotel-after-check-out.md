@@ -1,10 +1,14 @@
 ---
-title: "Can You Leave Luggage at Hotel After Check Out: Ultimate Guide"
-description: "You've just enjoyed a wonderful stay at a hotel, but your flight isn't until later in the day. You're wondering, \"Can you leave luggage at the hotel after check"
+title: 'Can You Leave Luggage at Hotel After Check Out: Ultimate Guide'
+description: You've just enjoyed a wonderful stay at a hotel, but your flight isn't
+  until later in the day. You're wondering, "Can you leave luggage at the hotel after
+  check
 pubDate: 2026-03-26
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-leave-luggage-at-hotel-after-check-out&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hotel Luggage Holding And Tipping
+heroImage: https://tse1.mm.bing.net/th?q=can-you-leave-luggage-at-hotel-after-check-out&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You've just enjoyed a wonderful stay at a hotel, but your flight isn't until later in the day. You're wondering, "Can you leave luggage at the hotel after check out?"**

@@ -1,10 +1,14 @@
 ---
-title: "Who Makes Travelhouse Luggage: Discover the Trusted Manufacturer"
-description: "Have you ever found yourself wondering about the origins of your trusty Travelhouse luggage? You're not alone. Many travelers are curious about who crafts these"
+title: 'Who Makes Travelhouse Luggage: Discover the Trusted Manufacturer'
+description: Have you ever found yourself wondering about the origins of your trusty
+  Travelhouse luggage? You're not alone. Many travelers are curious about who crafts
+  these
 pubDate: 2026-05-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=who-makes-travelhouse-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Where Luggage Is Made
+heroImage: https://tse1.mm.bing.net/th?q=who-makes-travelhouse-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever found yourself wondering about the origins of your trusty Travelhouse luggage? You're not alone.**

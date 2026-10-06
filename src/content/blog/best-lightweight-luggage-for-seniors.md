@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Luggage for Seniors: Top Durable, Easy-Roll Options"
-description: "Choosing the best lightweight luggage helps seniors travel with ease and comfort. Lightweight suitcases reduce strain and make moving through airports simpler. "
+title: 'Best Lightweight Luggage for Seniors: Top Durable, Easy-Roll Options'
+description: 'Choosing the best lightweight luggage helps seniors travel with ease
+  and comfort. Lightweight suitcases reduce strain and make moving through airports
+  simpler. '
 pubDate: 2026-07-27
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-seniors&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Families And Seniors
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-luggage-for-seniors&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best lightweight luggage helps seniors travel with ease and comfort. Lightweight suitcases reduce strain and make moving through airports simpler.**

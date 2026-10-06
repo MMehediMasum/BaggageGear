@@ -1,10 +1,14 @@
 ---
-title: "Best Cooler Backpack for Disney: Top Picks for Magical Adventures"
-description: "Choosing the best cooler backpack for Disney trips makes your day easier and more fun. It keeps your food and drinks fresh while you explore the park. A cooler "
+title: 'Best Cooler Backpack for Disney: Top Picks for Magical Adventures'
+description: 'Choosing the best cooler backpack for Disney trips makes your day easier
+  and more fun. It keeps your food and drinks fresh while you explore the park. A
+  cooler '
 pubDate: 2026-07-15
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-cooler-backpack-for-disney&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Theme Park Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-cooler-backpack-for-disney&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best cooler backpack for Disney trips makes your day easier and more fun. It keeps your food and drinks fresh while you explore the park.**

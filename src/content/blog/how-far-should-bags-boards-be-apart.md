@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Far Should Bags Boards Be Apart: Expert Tips for Perfect Play"
 description: "Are you ready to dominate your next cornhole game? Whether you're a seasoned player or just getting started, one crucial detail can make all the difference: the"
 pubDate: 2026-04-13

@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Checked Bag on Sun Country: Ultimate Cost Guide"
-description: "Are you planning a trip and wondering about the cost of checking a bag with Sun Country Airlines? You're not alone. Navigating airline fees can be confusing and"
+title: 'How Much is a Checked Bag on Sun Country: Ultimate Cost Guide'
+description: Are you planning a trip and wondering about the cost of checking a bag
+  with Sun Country Airlines? You're not alone. Navigating airline fees can be confusing
+  and
 pubDate: 2025-09-16
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-sun-country&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-checked-bag-on-sun-country&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and wondering about the cost of checking a bag with Sun Country Airlines? You're not alone.**

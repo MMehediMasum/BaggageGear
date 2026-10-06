@@ -1,10 +1,14 @@
 ---
-title: "Is Shaving Razor Allowed in Carry On: Essential TSA Rules Explained"
-description: "Planning a trip and wondering if you can pack your shaving razor in your carry-on? You're not alone. Navigating the rules of airport security can be tricky, esp"
+title: 'Is Shaving Razor Allowed in Carry On: Essential TSA Rules Explained'
+description: Planning a trip and wondering if you can pack your shaving razor in your
+  carry-on? You're not alone. Navigating the rules of airport security can be tricky,
+  esp
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-shaving-razor-allowed-in-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Razors In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=is-shaving-razor-allowed-in-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip and wondering if you can pack your shaving razor in your carry-on? You're not alone.**

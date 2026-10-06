@@ -1,10 +1,14 @@
 ---
-title: "Does Avelo Charge for Carry on Bags: Truth Revealed!"
-description: "Have you ever found yourself standing at the airport, ticket in hand, only to be surprised by unexpected fees? If you're planning to fly with Avelo Airlines, yo"
+title: 'Does Avelo Charge for Carry on Bags: Truth Revealed!'
+description: Have you ever found yourself standing at the airport, ticket in hand,
+  only to be surprised by unexpected fees? If you're planning to fly with Avelo Airlines,
+  yo
 pubDate: 2025-09-10
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-avelo-charge-for-carry-on-bags&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Small Budget Airline Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=does-avelo-charge-for-carry-on-bags&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Have you ever found yourself standing at the airport, ticket in hand, only to be surprised by unexpected fees? If you're planning to fly with Avelo Airlines, you might be wondering, "Does Avelo charge for carry-on bags?"**

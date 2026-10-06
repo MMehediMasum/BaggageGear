@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Wendy'S Still Have $5 Biggie Bag? Find Out Now!"
 description: "Craving a hearty meal without breaking the bank? You're not alone. Many fast food lovers often wonder, \"Does Wendy's still have the $5 Biggie Bag? \" This deal h"
 pubDate: 2025-09-08

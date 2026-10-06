@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Is Bag Balm Good for Sunburn: Soothing Relief or Myth?"
 description: "Have you ever spent a little too long basking in the sun, only to later find your skin red, hot, and uncomfortable? Sunburn can sneak up on you, leaving you sea"
 pubDate: 2025-10-28

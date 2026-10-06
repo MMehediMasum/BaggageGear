@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Duffel Bag for Air Travel: Top Picks for Every Journey"
-description: "Choosing the best rolling duffel bag can make air travel easier and more organized. Rolling duffel bags combine the space of a duffel with the convenience of wh"
+title: 'Best Rolling Duffel Bag for Air Travel: Top Picks for Every Journey'
+description: Choosing the best rolling duffel bag can make air travel easier and more
+  organized. Rolling duffel bags combine the space of a duffel with the convenience
+  of wh
 pubDate: 2026-06-11
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-duffel-bag-for-air-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Duffel Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-duffel-bag-for-air-travel&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best rolling duffel bag can make air travel easier and more organized. Rolling duffel bags combine the space of a duffel with the convenience of wheels and handles.**

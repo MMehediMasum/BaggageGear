@@ -1,10 +1,14 @@
 ---
-title: "How Many Liquids Can You Take on a Carry On: Ultimate Guide 2025"
-description: "Have you ever stood in line at airport security, wondering exactly how many liquids you can bring in your carry-on? You’re not alone. Knowing the rules can save"
+title: 'How Many Liquids Can You Take on a Carry On: Ultimate Guide 2025'
+description: Have you ever stood in line at airport security, wondering exactly how
+  many liquids you can bring in your carry-on? You’re not alone. Knowing the rules
+  can save
 pubDate: 2026-03-03
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-many-liquids-can-you-take-on-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Carry On Liquid Limits
+heroImage: https://tse1.mm.bing.net/th?q=how-many-liquids-can-you-take-on-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Have you ever stood in line at airport security, wondering exactly how many liquids you can bring in your carry-on? You’re not alone.**

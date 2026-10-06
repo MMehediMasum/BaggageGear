@@ -1,10 +1,14 @@
 ---
-title: "Best Medium Checked Luggage: Top Picks for Every Traveler's Needs"
-description: "Choosing the best medium checked luggage makes travel easier and more comfortable. This guide highlights top suitcases that balance size, durability, and conven"
+title: 'Best Medium Checked Luggage: Top Picks for Every Traveler''s Needs'
+description: Choosing the best medium checked luggage makes travel easier and more
+  comfortable. This guide highlights top suitcases that balance size, durability,
+  and conven
 pubDate: 2026-07-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-medium-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-medium-checked-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best medium checked luggage makes travel easier and more comfortable. This guide highlights top suitcases that balance size, durability, and convenience.**

@@ -1,10 +1,14 @@
 ---
-title: "What to Pack for Husband Hospital Bag: Essential Must-Haves Guide"
-description: "Preparing for a hospital stay can be overwhelming, especially when it's for someone you deeply care about. As you get ready to support your husband during this "
+title: 'What to Pack for Husband Hospital Bag: Essential Must-Haves Guide'
+description: 'Preparing for a hospital stay can be overwhelming, especially when it''s
+  for someone you deeply care about. As you get ready to support your husband during
+  this '
 pubDate: 2025-08-30
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-pack-for-husband-hospital-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Hospital Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-pack-for-husband-hospital-bag&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Preparing for a hospital stay can be overwhelming, especially when it's for someone you deeply care about. As you get ready to support your husband during this important time, packing the right items for his hospital bag can make all the difference.**

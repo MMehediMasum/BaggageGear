@@ -1,10 +1,14 @@
 ---
-title: "Are Duffle Bags Allowed As Checked Luggage: Essential Travel Tips"
-description: "Are you planning your next adventure and wondering if your trusty duffle bag can make the trip as checked luggage? You're not alone! Many travelers love the ver"
+title: 'Are Duffle Bags Allowed As Checked Luggage: Essential Travel Tips'
+description: Are you planning your next adventure and wondering if your trusty duffle
+  bag can make the trip as checked luggage? You're not alone! Many travelers love
+  the ver
 pubDate: 2026-04-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=are-duffle-bags-allowed-as-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Checking Bags At Airport
+heroImage: https://tse1.mm.bing.net/th?q=are-duffle-bags-allowed-as-checked-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning your next adventure and wondering if your trusty duffle bag can make the trip as checked luggage? You're not alone!**

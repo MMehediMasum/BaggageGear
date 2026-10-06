@@ -1,10 +1,13 @@
 ---
-title: "How to Dye a Leather Bag: Easy Steps for a Stunning Makeover"
-description: "Ever looked at your leather bag and wished it came in a different color? Maybe you're tired of its old look, or perhaps you've seen a shade that would perfectly"
+title: 'How to Dye a Leather Bag: Easy Steps for a Stunning Makeover'
+description: Ever looked at your leather bag and wished it came in a different color?
+  Maybe you're tired of its old look, or perhaps you've seen a shade that would perfectly
 pubDate: 2026-02-06
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-dye-a-leather-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Leather Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-dye-a-leather-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Ever looked at your leather bag and wished it came in a different color? Maybe you're tired of its old look, or perhaps you've seen a shade that would perfectly match your style.**

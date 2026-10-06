@@ -1,10 +1,14 @@
 ---
-title: "Best Rolling Backpack for Kids: Top Durable and Stylish Picks"
-description: "Choosing the best rolling backpack for kids helps ease the weight on their backs and makes school days easier. These backpacks combine style, comfort, and durab"
+title: 'Best Rolling Backpack for Kids: Top Durable and Stylish Picks'
+description: Choosing the best rolling backpack for kids helps ease the weight on
+  their backs and makes school days easier. These backpacks combine style, comfort,
+  and durab
 pubDate: 2026-06-28
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-rolling-backpack-for-kids&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best rolling backpack for kids helps ease the weight on their backs and makes school days easier. These backpacks combine style, comfort, and durability for active children.**

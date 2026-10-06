@@ -1,10 +1,14 @@
 ---
-title: "How Much is Spirit Carry on Fee: Ultimate Guide to Save Money"
-description: "Are you planning a trip with Spirit Airlines and curious about their carry-on fees? You’re not alone. Navigating the ins and outs of airline fees can be like so"
+title: 'How Much is Spirit Carry on Fee: Ultimate Guide to Save Money'
+description: Are you planning a trip with Spirit Airlines and curious about their
+  carry-on fees? You’re not alone. Navigating the ins and outs of airline fees can
+  be like so
 pubDate: 2025-12-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-spirit-carry-on-fee&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-spirit-carry-on-fee&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip with Spirit Airlines and curious about their carry-on fees? You’re not alone.**

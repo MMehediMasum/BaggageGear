@@ -1,10 +1,13 @@
 ---
-title: "Best Backpack for International Travel: Top Durable and Spacious Picks"
-description: "Choosing the best backpack for international travel makes your trip easier and more comfortable. A good backpack fits airline rules and holds all your essential"
+title: 'Best Backpack for International Travel: Top Durable and Spacious Picks'
+description: Choosing the best backpack for international travel makes your trip easier
+  and more comfortable. A good backpack fits airline rules and holds all your essential
 pubDate: 2026-07-02
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpack-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Travel Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=best-backpack-for-international-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best backpack for international travel makes your trip easier and more comfortable. A good backpack fits airline rules and holds all your essentials.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Luggage for Kids: Top Durable and Fun Travel Suitcases"
-description: "Choosing the best luggage for kids can make traveling easier and more fun. Kids need bags that are light, durable, and easy to carry. Traveling with children re"
+title: 'Best Luggage for Kids: Top Durable and Fun Travel Suitcases'
+description: Choosing the best luggage for kids can make traveling easier and more
+  fun. Kids need bags that are light, durable, and easy to carry. Traveling with children
+  re
 pubDate: 2025-09-09
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-luggage-for-kids&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Kids Luggage And Scooters
+heroImage: https://tse1.mm.bing.net/th?q=best-luggage-for-kids&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best luggage for kids can make traveling easier and more fun. Kids need bags that are light, durable, and easy to carry.**

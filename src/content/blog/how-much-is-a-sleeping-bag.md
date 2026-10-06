@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Sleeping Bag: Ultimate Price Guide for Every Budget"
-description: "Have you ever wondered how much a sleeping bag really costs? Whether you're planning your first camping trip or upgrading your gear, understanding the price ran"
+title: 'How Much is a Sleeping Bag: Ultimate Price Guide for Every Budget'
+description: Have you ever wondered how much a sleeping bag really costs? Whether
+  you're planning your first camping trip or upgrading your gear, understanding the
+  price ran
 pubDate: 2026-02-19
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-sleeping-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Camping Sleeping Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-sleeping-bag&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Have you ever wondered how much a sleeping bag really costs? Whether you're planning your first camping trip or upgrading your gear, understanding the price range of sleeping bags can help you make the best choice.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Tote Bag for Nurses: Durable, Spacious, and Stylish Picks"
-description: "Nurses need tote bags that are practical, roomy, and easy to carry every day. The best tote bags combine style with useful features for busy nursing work. Choos"
+title: 'Best Tote Bag for Nurses: Durable, Spacious, and Stylish Picks'
+description: Nurses need tote bags that are practical, roomy, and easy to carry every
+  day. The best tote bags combine style with useful features for busy nursing work.
+  Choos
 pubDate: 2026-06-22
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-tote-bag-for-nurses&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Tool And Trade Work Bags
+heroImage: https://tse1.mm.bing.net/th?q=best-tote-bag-for-nurses&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Nurses need tote bags that are practical, roomy, and easy to carry every day. The best tote bags combine style with useful features for busy nursing work.**

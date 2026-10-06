@@ -1,10 +1,14 @@
 ---
-title: "When Do North Face Backpacks Go on Sale: Ultimate Buying Guide"
-description: "Are you on the hunt for a durable and stylish backpack that doesn’t break the bank? If you've got your eyes set on a North Face backpack, you're not alone. Thes"
+title: 'When Do North Face Backpacks Go on Sale: Ultimate Buying Guide'
+description: Are you on the hunt for a durable and stylish backpack that doesn’t break
+  the bank? If you've got your eyes set on a North Face backpack, you're not alone.
+  Thes
 pubDate: 2025-09-08
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=when-do-north-face-backpacks-go-on-sale&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Choosing And Buying Luggage
+heroImage: https://tse1.mm.bing.net/th?q=when-do-north-face-backpacks-go-on-sale&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you on the hunt for a durable and stylish backpack that doesn’t break the bank? If you've got your eyes set on a North Face backpack, you're not alone.**

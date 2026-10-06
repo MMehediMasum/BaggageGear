@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Where Should You Store Full Bags of Garbage: Expert Tips Revealed"
 description: "Imagine this: You’ve just finished cleaning up after a big party or a major decluttering session, and now you’re left with bags of garbage that need a temporary"
 pubDate: 2026-02-25

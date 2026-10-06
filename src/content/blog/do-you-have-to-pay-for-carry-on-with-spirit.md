@@ -1,10 +1,14 @@
 ---
-title: "Do You Have to Pay for Carry on With Spirit: Essential Guide 2025"
-description: "Are you planning a trip and considering flying with Spirit Airlines? If so, you've probably asked yourself, \"Do I have to pay for a carry-on with Spirit?\" This "
+title: 'Do You Have to Pay for Carry on With Spirit: Essential Guide 2025'
+description: 'Are you planning a trip and considering flying with Spirit Airlines?
+  If so, you''ve probably asked yourself, "Do I have to pay for a carry-on with Spirit?"
+  This '
 pubDate: 2026-03-23
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=do-you-have-to-pay-for-carry-on-with-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Baggage Fees
+heroImage: https://tse1.mm.bing.net/th?q=do-you-have-to-pay-for-carry-on-with-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning a trip and considering flying with Spirit Airlines? If so, you've probably asked yourself, "Do I have to pay for a carry-on with Spirit?"**

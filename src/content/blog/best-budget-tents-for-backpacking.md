@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Best Budget Tents for Backpacking: Lightweight, Waterproof, and Easy Setup Options"
 description: "Finding a good backpacking tent on a budget can be tough. You want something light, strong, and easy to carry. Backpacking trips need tents that protect you fro"
 pubDate: 2025-09-23

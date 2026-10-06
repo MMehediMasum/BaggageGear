@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Many Unexpired Vds Must You Carry on Board: Essential Guide"
 description: "Navigating the vast waters, whether you're a seasoned sailor or a weekend enthusiast, safety is always paramount. Among the essential items you must have on boa"
 pubDate: 2026-02-01

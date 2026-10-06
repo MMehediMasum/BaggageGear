@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Frost Cupcakes With a Pastry Bag: Easy Steps for Perfect Swirls"
 description: "Are you ready to take your cupcake decorating skills to the next level? Imagine impressing your friends and family with beautifully frosted cupcakes that look l"
 pubDate: 2026-03-14

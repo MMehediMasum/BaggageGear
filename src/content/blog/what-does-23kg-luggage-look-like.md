@@ -1,10 +1,14 @@
 ---
-title: "What Does 23Kg Luggage Look Like: Visual Guide & Packing Tips"
-description: "Have you ever stood at the airport, staring at your suitcase, and wondered if it really weighs 23kg? You're not alone. Many travelers struggle to visualize what"
+title: 'What Does 23Kg Luggage Look Like: Visual Guide & Packing Tips'
+description: Have you ever stood at the airport, staring at your suitcase, and wondered
+  if it really weighs 23kg? You're not alone. Many travelers struggle to visualize
+  what
 pubDate: 2025-11-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-does-23kg-luggage-look-like&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage Weight Limits And Kilograms
+heroImage: https://tse1.mm.bing.net/th?q=what-does-23kg-luggage-look-like&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Have you ever stood at the airport, staring at your suitcase, and wondered if it really weighs 23kg? You're not alone.**

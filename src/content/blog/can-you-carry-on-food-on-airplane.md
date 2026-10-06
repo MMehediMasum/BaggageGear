@@ -1,10 +1,14 @@
 ---
-title: "Can You Carry on Food on Airplane: Essential Travel Tips Revealed"
-description: "You’re packing for your upcoming flight and wondering if you can bring your favorite snacks or homemade sandwich onboard. The rules about carrying food on airpl"
+title: 'Can You Carry on Food on Airplane: Essential Travel Tips Revealed'
+description: You’re packing for your upcoming flight and wondering if you can bring
+  your favorite snacks or homemade sandwich onboard. The rules about carrying food
+  on airpl
 pubDate: 2025-12-28
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-carry-on-food-on-airplane&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Food In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-you-carry-on-food-on-airplane&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You’re packing for your upcoming flight and wondering if you can bring your favorite snacks or homemade sandwich onboard. The rules about carrying food on airplanes can be confusing, leaving you unsure whether your carefully prepared meals will make it past security.**

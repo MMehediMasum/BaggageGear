@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Crochet a Backpack: Easy Steps for Stylish DIY Bags"
 description: "Are you ready to turn yarn into something both beautiful and practical? Crocheting a backpack might be just the challenge you’re looking for. Imagine creating a"
 pubDate: 2026-01-09

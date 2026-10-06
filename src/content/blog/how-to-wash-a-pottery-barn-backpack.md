@@ -1,10 +1,14 @@
 ---
-title: "How to Wash a Pottery Barn Backpack: Easy, Effective Steps"
-description: "You love your Pottery Barn backpack, and keeping it clean is important to you. But how do you wash it without damaging the fabric or colors? If you’ve been unsu"
+title: 'How to Wash a Pottery Barn Backpack: Easy, Effective Steps'
+description: You love your Pottery Barn backpack, and keeping it clean is important
+  to you. But how do you wash it without damaging the fabric or colors? If you’ve
+  been unsu
 pubDate: 2026-05-10
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-wash-a-pottery-barn-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Fashion And Lifestyle Backpacks
+heroImage: https://tse1.mm.bing.net/th?q=how-to-wash-a-pottery-barn-backpack&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **You love your Pottery Barn backpack, and keeping it clean is important to you. But how do you wash it without damaging the fabric or colors?**

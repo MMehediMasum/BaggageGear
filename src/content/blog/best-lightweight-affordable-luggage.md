@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Affordable Luggage Sets for Effortless Travel Convenience"
-description: "Finding luggage that is both lightweight and affordable can make travel easier and less stressful. Choosing the right suitcase saves money and helps avoid heavy"
+title: Best Lightweight Affordable Luggage Sets for Effortless Travel Convenience
+description: Finding luggage that is both lightweight and affordable can make travel
+  easier and less stressful. Choosing the right suitcase saves money and helps avoid
+  heavy
 pubDate: 2025-10-13
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-affordable-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Best Luggage Brands
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-affordable-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Finding luggage that is both lightweight and affordable can make travel easier and less stressful. Choosing the right suitcase saves money and helps avoid heavy baggage fees.**

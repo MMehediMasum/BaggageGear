@@ -1,10 +1,14 @@
 ---
-title: "Does Liquid Makeup Need to Be in a Clear Bag: Travel Essentials Explained"
-description: "Traveling with your favorite beauty products can be a bit of a challenge, especially when it comes to airport security rules. If you've ever wondered, \"Does liq"
+title: 'Does Liquid Makeup Need to Be in a Clear Bag: Travel Essentials Explained'
+description: Traveling with your favorite beauty products can be a bit of a challenge,
+  especially when it comes to airport security rules. If you've ever wondered, "Does
+  liq
 pubDate: 2026-03-07
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-liquid-makeup-need-to-be-in-a-clear-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Quart Size Clear Liquid Bags
+heroImage: https://tse1.mm.bing.net/th?q=does-liquid-makeup-need-to-be-in-a-clear-bag&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Traveling with your favorite beauty products can be a bit of a challenge, especially when it comes to airport security rules. If you've ever wondered, "Does liquid makeup need to be in a clear bag?**

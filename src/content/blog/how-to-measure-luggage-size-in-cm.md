@@ -1,10 +1,14 @@
 ---
-title: "How to Measure Luggage Size in Cm: Easy Steps for Perfect Fit"
-description: "Are you planning a trip and feeling overwhelmed by the thought of measuring your luggage? You're not alone. The confusion of converting inches to centimeters, e"
+title: 'How to Measure Luggage Size in Cm: Easy Steps for Perfect Fit'
+description: Are you planning a trip and feeling overwhelmed by the thought of measuring
+  your luggage? You're not alone. The confusion of converting inches to centimeters,
+  e
 pubDate: 2026-01-25
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-measure-luggage-size-in-cm&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- How To Measure Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-measure-luggage-size-in-cm&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning a trip and feeling overwhelmed by the thought of measuring your luggage? You're not alone.**

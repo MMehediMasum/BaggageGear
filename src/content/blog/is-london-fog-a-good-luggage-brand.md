@@ -1,10 +1,14 @@
 ---
-title: "Is London Fog a Good Luggage Brand: Honest Review & Benefits"
-description: "Are you planning your next big adventure and wondering if your luggage is up to the task? When it comes to choosing the right travel companion, the brand of you"
+title: 'Is London Fog a Good Luggage Brand: Honest Review & Benefits'
+description: Are you planning your next big adventure and wondering if your luggage
+  is up to the task? When it comes to choosing the right travel companion, the brand
+  of you
 pubDate: 2026-03-30
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-london-fog-a-good-luggage-brand&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Established Luggage Brand Reviews
+heroImage: https://tse1.mm.bing.net/th?q=is-london-fog-a-good-luggage-brand&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you planning your next big adventure and wondering if your luggage is up to the task? When it comes to choosing the right travel companion, the brand of your suitcase can make all the difference.**

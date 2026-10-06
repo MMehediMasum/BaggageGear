@@ -1,10 +1,14 @@
 ---
-title: "Best Collapsible Rolling Luggage for Hassle-Free Travel Adventures"
-description: "Choosing the best collapsible rolling luggage makes travel easier and saves space. These bags combine convenience, lightweight design, and large capacity. Trave"
+title: Best Collapsible Rolling Luggage for Hassle-Free Travel Adventures
+description: Choosing the best collapsible rolling luggage makes travel easier and
+  saves space. These bags combine convenience, lightweight design, and large capacity.
+  Trave
 pubDate: 2026-07-31
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-collapsible-rolling-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spinner And Wheeled Luggage
+heroImage: https://tse1.mm.bing.net/th?q=best-collapsible-rolling-luggage&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best collapsible rolling luggage makes travel easier and saves space. These bags combine convenience, lightweight design, and large capacity.**

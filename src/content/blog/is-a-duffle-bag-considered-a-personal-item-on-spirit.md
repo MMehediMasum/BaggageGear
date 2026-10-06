@@ -1,10 +1,14 @@
 ---
-title: "Is a Duffle Bag Considered a Personal Item on Spirit: Ultimate Guide"
-description: "Imagine this: you're getting ready for your flight with Spirit Airlines, and you've packed everything perfectly into your trusty duffle bag. But then, a questio"
+title: 'Is a Duffle Bag Considered a Personal Item on Spirit: Ultimate Guide'
+description: 'Imagine this: you''re getting ready for your flight with Spirit Airlines,
+  and you''ve packed everything perfectly into your trusty duffle bag. But then, a
+  questio'
 pubDate: 2026-03-29
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=is-a-duffle-bag-considered-a-personal-item-on-spirit&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Spirit Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=is-a-duffle-bag-considered-a-personal-item-on-spirit&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Imagine this: you're getting ready for your flight with Spirit Airlines, and you've packed everything perfectly into your trusty duffle bag. But then, a question pops into your mind: Is your duffle bag considered a personal item on Spirit Airlines?**

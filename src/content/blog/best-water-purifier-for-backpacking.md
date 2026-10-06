@@ -1,10 +1,14 @@
 ---
-title: "Best Water Purifier for Backpacking: Top Portable Filtration Systems Reviewed"
-description: "Choosing the best water purifier for backpacking ensures safe drinking water on your adventures. Clean water prevents illness and keeps you healthy outdoors. Ba"
+title: 'Best Water Purifier for Backpacking: Top Portable Filtration Systems Reviewed'
+description: Choosing the best water purifier for backpacking ensures safe drinking
+  water on your adventures. Clean water prevents illness and keeps you healthy outdoors.
+  Ba
 pubDate: 2026-06-17
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-water-purifier-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks And Back Pain
+heroImage: https://tse1.mm.bing.net/th?q=best-water-purifier-for-backpacking&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best water purifier for backpacking ensures safe drinking water on your adventures. Clean water prevents illness and keeps you healthy outdoors.**

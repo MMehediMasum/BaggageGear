@@ -1,10 +1,14 @@
 ---
-title: "Best 40 Liter Backpack for Travel: Top Durable, Lightweight Carry-Ons"
-description: "Choosing the best 40 liter backpack for travel makes your trips easier and more comfortable. A well-sized backpack fits essentials without being too heavy or bu"
+title: 'Best 40 Liter Backpack for Travel: Top Durable, Lightweight Carry-Ons'
+description: Choosing the best 40 liter backpack for travel makes your trips easier
+  and more comfortable. A well-sized backpack fits essentials without being too heavy
+  or bu
 pubDate: 2026-07-12
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-40-liter-backpack-for-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Backpack Sizes And Types
+heroImage: https://tse1.mm.bing.net/th?q=best-40-liter-backpack-for-travel&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Choosing the best 40 liter backpack for travel makes your trips easier and more comfortable. A well-sized backpack fits essentials without being too heavy or bulky.**

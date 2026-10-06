@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Who Says I Like My Suitcase: Surprising Travel Truths Revealed"
 description: "Have you ever caught yourself staring at your suitcase, wondering why you chose that particular one? Maybe it’s the color, the size, or the memories it holds. B"
 pubDate: 2026-04-07

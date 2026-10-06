@@ -1,10 +1,14 @@
 ---
-title: "Best Noise Cancelling Ear Plugs for Sleep: Ultimate Quiet Comfort Solutions"
-description: "Finding the best noise cancelling ear plugs for sleep can improve your rest and block unwanted sounds. Quality ear plugs reduce noise from snoring, traffic, or "
+title: 'Best Noise Cancelling Ear Plugs for Sleep: Ultimate Quiet Comfort Solutions'
+description: 'Finding the best noise cancelling ear plugs for sleep can improve your
+  rest and block unwanted sounds. Quality ear plugs reduce noise from snoring, traffic,
+  or '
 pubDate: 2026-05-20
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-noise-cancelling-ear-plugs-for-sleep&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Ear Plugs For Flights
+heroImage: https://tse1.mm.bing.net/th?q=best-noise-cancelling-ear-plugs-for-sleep&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Finding the best noise cancelling ear plugs for sleep can improve your rest and block unwanted sounds. Quality ear plugs reduce noise from snoring, traffic, or loud environments.**

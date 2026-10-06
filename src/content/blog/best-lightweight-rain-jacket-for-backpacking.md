@@ -1,10 +1,14 @@
 ---
-title: "Best Lightweight Rain Jacket for Backpacking: Top Picks for Outdoor Adventures"
-description: "Choosing the best lightweight rain jacket for backpacking keeps you dry without adding extra weight. A good jacket protects from rain and wind while staying bre"
+title: 'Best Lightweight Rain Jacket for Backpacking: Top Picks for Outdoor Adventures'
+description: Choosing the best lightweight rain jacket for backpacking keeps you dry
+  without adding extra weight. A good jacket protects from rain and wind while staying
+  bre
 pubDate: 2026-06-17
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-lightweight-rain-jacket-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Apparel And Trekking Poles
+heroImage: https://tse1.mm.bing.net/th?q=best-lightweight-rain-jacket-for-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Choosing the best lightweight rain jacket for backpacking keeps you dry without adding extra weight. A good jacket protects from rain and wind while staying breathable and easy to pack.**

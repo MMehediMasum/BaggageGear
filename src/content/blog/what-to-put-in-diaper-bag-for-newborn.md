@@ -1,10 +1,14 @@
 ---
-title: "What to Put in Diaper Bag for Newborn: Essential Must-Haves"
-description: "You’re about to step out the door with your newborn, and the diaper bag is your new best friend. But what exactly should you pack in it? This question can feel "
+title: 'What to Put in Diaper Bag for Newborn: Essential Must-Haves'
+description: 'You’re about to step out the door with your newborn, and the diaper
+  bag is your new best friend. But what exactly should you pack in it? This question
+  can feel '
 pubDate: 2025-10-11
-author: "ivercalloway"
-categories: ["Kids & Family Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-to-put-in-diaper-bag-for-newborn&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Diaper Bag Packing Lists
+heroImage: https://tse1.mm.bing.net/th?q=what-to-put-in-diaper-bag-for-newborn&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **You’re about to step out the door with your newborn, and the diaper bag is your new best friend. But what exactly should you pack in it?**

@@ -1,10 +1,14 @@
 ---
-title: "How to Clean Coach Canvas Bag: Easy Tips for a Spotless Look"
-description: "Your Coach canvas bag is more than just an accessory; it's a statement of style and sophistication. But what happens when life’s little mishaps leave their mark"
+title: 'How to Clean Coach Canvas Bag: Easy Tips for a Spotless Look'
+description: Your Coach canvas bag is more than just an accessory; it's a statement
+  of style and sophistication. But what happens when life’s little mishaps leave their
+  mark
 pubDate: 2025-11-09
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-clean-coach-canvas-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Washing Canvas And Nylon Bags
+heroImage: https://tse1.mm.bing.net/th?q=how-to-clean-coach-canvas-bag&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Your Coach canvas bag is more than just an accessory; it's a statement of style and sophistication. But what happens when life’s little mishaps leave their mark on your prized possession?**

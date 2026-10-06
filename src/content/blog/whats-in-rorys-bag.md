@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What'S in Rory'S Bag: Ultimate Secrets Revealed for 2025"
 description: "Ever find yourself curious about what top golfers carry in their bags? If you’re nodding, then you’re in the right place. Imagine getting a sneak peek into the "
 pubDate: 2026-01-12

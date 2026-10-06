@@ -1,10 +1,14 @@
 ---
-title: "What is Goyard Bag Made of: Unveiling Luxury Materials & Craftsmanship"
-description: "Have you ever wondered what makes a Goyard bag so special? You're not alone. These bags have captured the hearts of fashion lovers worldwide, and the mystery be"
+title: 'What is Goyard Bag Made of: Unveiling Luxury Materials & Craftsmanship'
+description: Have you ever wondered what makes a Goyard bag so special? You're not
+  alone. These bags have captured the hearts of fashion lovers worldwide, and the
+  mystery be
 pubDate: 2026-02-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-goyard-bag-made-of&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=what-is-goyard-bag-made-of&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever wondered what makes a Goyard bag so special? You're not alone.**

@@ -1,10 +1,13 @@
 ---
-title: "How Strict is Lot With Hand Luggage: Essential Travel Tips"
-description: "Are you getting ready for your next adventure and feeling a little anxious about packing your hand luggage? You’re not alone. Whether you're a seasoned traveler"
+title: 'How Strict is Lot With Hand Luggage: Essential Travel Tips'
+description: Are you getting ready for your next adventure and feeling a little anxious
+  about packing your hand luggage? You’re not alone. Whether you're a seasoned traveler
 pubDate: 2026-02-26
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-strict-is-lot-with-hand-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Airline Carry On Strictness
+heroImage: https://tse1.mm.bing.net/th?q=how-strict-is-lot-with-hand-luggage&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you getting ready for your next adventure and feeling a little anxious about packing your hand luggage? You’re not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Travel Adapter for Japan: Top Picks for Seamless Connectivity"
-description: "Planning a trip to Japan means preparing for different power outlets. The best travel adapter ensures your devices stay charged and ready. Japan uses Type A and"
+title: 'Best Travel Adapter for Japan: Top Picks for Seamless Connectivity'
+description: Planning a trip to Japan means preparing for different power outlets.
+  The best travel adapter ensures your devices stay charged and ready. Japan uses
+  Type A and
 pubDate: 2026-06-04
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-travel-adapter-for-japan&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Travel Adapters By Country
+heroImage: https://tse1.mm.bing.net/th?q=best-travel-adapter-for-japan&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Planning a trip to Japan means preparing for different power outlets. The best travel adapter ensures your devices stay charged and ready.**

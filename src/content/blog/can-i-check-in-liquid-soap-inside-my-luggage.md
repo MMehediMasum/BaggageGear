@@ -1,10 +1,14 @@
 ---
-title: "Can I Check in Liquid Soap Inside My Luggage: Essential Travel Tips"
-description: "When you're packing for a trip, you want everything to go smoothly, right? But then, you pause, staring at that bottle of liquid soap, wondering if you can take"
+title: 'Can I Check in Liquid Soap Inside My Luggage: Essential Travel Tips'
+description: When you're packing for a trip, you want everything to go smoothly, right?
+  But then, you pause, staring at that bottle of liquid soap, wondering if you can
+  take
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-i-check-in-liquid-soap-inside-my-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Shampoo And Toiletries In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-i-check-in-liquid-soap-inside-my-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **When you're packing for a trip, you want everything to go smoothly, right? But then, you pause, staring at that bottle of liquid soap, wondering if you can take it with you in your luggage.**

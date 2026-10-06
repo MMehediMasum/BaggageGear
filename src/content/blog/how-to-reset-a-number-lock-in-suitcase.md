@@ -1,10 +1,14 @@
 ---
-title: "How to Reset a Number Lock in Suitcase: Quick & Easy Guide"
-description: "Imagine you're about to embark on an exciting journey. Your bags are packed, your itinerary is set, and you're ready to go. But there's a small hiccup: you can'"
+title: 'How to Reset a Number Lock in Suitcase: Quick & Easy Guide'
+description: 'Imagine you''re about to embark on an exciting journey. Your bags are
+  packed, your itinerary is set, and you''re ready to go. But there''s a small hiccup:
+  you can'''
 pubDate: 2025-11-01
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-reset-a-number-lock-in-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Resetting Luggage Lock Codes
+heroImage: https://tse1.mm.bing.net/th?q=how-to-reset-a-number-lock-in-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Imagine you're about to embark on an exciting journey. Your bags are packed, your itinerary is set, and you're ready to go.**

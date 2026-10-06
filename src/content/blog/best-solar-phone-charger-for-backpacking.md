@@ -1,10 +1,14 @@
 ---
-title: "Best Solar Phone Charger for Backpacking: Top Picks for Adventurous Travelers"
-description: "Choosing the best solar phone charger for backpacking helps keep your devices powered on the go. Portable solar chargers combine convenience, durability, and gr"
+title: 'Best Solar Phone Charger for Backpacking: Top Picks for Adventurous Travelers'
+description: Choosing the best solar phone charger for backpacking helps keep your
+  devices powered on the go. Portable solar chargers combine convenience, durability,
+  and gr
 pubDate: 2026-06-06
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-solar-phone-charger-for-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Power Banks For Backpacking
+heroImage: https://tse1.mm.bing.net/th?q=best-solar-phone-charger-for-backpacking&w=424&h=424&c=7
+topic: Packing & Travel Accessories
 ---
 
 **Choosing the best solar phone charger for backpacking helps keep your devices powered on the go. Portable solar chargers combine convenience, durability, and green energy.**

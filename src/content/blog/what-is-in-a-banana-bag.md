@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What is in a Banana Bag: Essential Nutrients Explained Clearly"
 description: "Ever heard of a banana bag and wondered what it is? You’re not alone. Many people are curious about this intriguing term. While it might sound like something yo"
 pubDate: 2025-12-23

@@ -1,10 +1,14 @@
 ---
-title: "Does Jetblue Allow a Carry On: Ultimate Guide to Baggage Rules"
-description: "Are you planning to fly with JetBlue and wondering if you can bring a carry-on bag? Knowing the airline’s rules about carry-ons can save you from last-minute ha"
+title: 'Does Jetblue Allow a Carry On: Ultimate Guide to Baggage Rules'
+description: Are you planning to fly with JetBlue and wondering if you can bring a
+  carry-on bag? Knowing the airline’s rules about carry-ons can save you from last-minute
+  ha
 pubDate: 2025-10-15
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=does-jetblue-allow-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- JetBlue Baggage Rules
+heroImage: https://tse1.mm.bing.net/th?q=does-jetblue-allow-a-carry-on&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with JetBlue and wondering if you can bring a carry-on bag? Knowing the airline’s rules about carry-ons can save you from last-minute hassles at the airport.**

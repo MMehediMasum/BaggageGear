@@ -1,10 +1,14 @@
 ---
-title: "How Much Water to Take Backpacking: Essential Guide for Hikers"
-description: "Are you gearing up for your next backpacking adventure and wondering about the right amount of water to bring along? You're not alone. Every backpacker faces th"
+title: 'How Much Water to Take Backpacking: Essential Guide for Hikers'
+description: Are you gearing up for your next backpacking adventure and wondering
+  about the right amount of water to bring along? You're not alone. Every backpacker
+  faces th
 pubDate: 2025-10-22
-author: "ivercalloway"
-categories: ["Sports & Outdoor Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-water-to-take-backpacking&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacking Preparation And Training
+heroImage: https://tse1.mm.bing.net/th?q=how-much-water-to-take-backpacking&w=424&h=424&c=7
+topic: Hiking, Camping & Outdoor Gear
 ---
 
 **Are you gearing up for your next backpacking adventure and wondering about the right amount of water to bring along? You're not alone.**

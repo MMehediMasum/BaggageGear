@@ -1,10 +1,14 @@
 ---
-title: "How to Attach a Sleeping Pad to a Backpack: Easy & Secure Tips"
-description: "Are you planning your next backpacking adventure and wondering how to efficiently attach your sleeping pad to your backpack? You're not alone. This simple yet c"
+title: 'How to Attach a Sleeping Pad to a Backpack: Easy & Secure Tips'
+description: Are you planning your next backpacking adventure and wondering how to
+  efficiently attach your sleeping pad to your backpack? You're not alone. This simple
+  yet c
 pubDate: 2025-12-26
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-attach-a-sleeping-pad-to-a-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Attaching Gear To A Backpack
+heroImage: https://tse1.mm.bing.net/th?q=how-to-attach-a-sleeping-pad-to-a-backpack&w=424&h=424&c=7
+topic: Backpacks
 ---
 
 **Are you planning your next backpacking adventure and wondering how to efficiently attach your sleeping pad to your backpack? You're not alone.**

@@ -1,10 +1,14 @@
 ---
-title: "Best Soft Luggage for International Travel: Top Picks for Every Journey"
-description: "Choosing the best soft luggage makes international travel easier and more organized. Soft luggage offers flexibility, lightweight design, and extra pockets for "
+title: 'Best Soft Luggage for International Travel: Top Picks for Every Journey'
+description: 'Choosing the best soft luggage makes international travel easier and
+  more organized. Soft luggage offers flexibility, lightweight design, and extra pockets
+  for '
 pubDate: 2026-07-16
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-soft-luggage-for-international-travel&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For International Travel
+heroImage: https://tse1.mm.bing.net/th?q=best-soft-luggage-for-international-travel&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Choosing the best soft luggage makes international travel easier and more organized. Soft luggage offers flexibility, lightweight design, and extra pockets for convenience.**

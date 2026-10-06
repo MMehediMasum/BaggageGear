@@ -1,10 +1,13 @@
 ---
-title: "Can You Bring Alcohol Shooters in a Carry On: Essential Travel Tips"
-description: "Planning a trip can be exciting, but packing can sometimes lead to questions, especially when it comes to bringing your favorite drinks along. If you're wonderi"
+title: 'Can You Bring Alcohol Shooters in a Carry On: Essential Travel Tips'
+description: Planning a trip can be exciting, but packing can sometimes lead to questions,
+  especially when it comes to bringing your favorite drinks along. If you're wonderi
 pubDate: 2026-01-11
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-you-bring-alcohol-shooters-in-a-carry-on&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Flying With Alcohol In Luggage
+heroImage: https://tse1.mm.bing.net/th?q=can-you-bring-alcohol-shooters-in-a-carry-on&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Planning a trip can be exciting, but packing can sometimes lead to questions, especially when it comes to bringing your favorite drinks along. If you're wondering, "Can you bring alcohol shooters in a carry on?"**

@@ -1,10 +1,14 @@
 ---
-title: "Best Backpacks for 1st Graders: Top Picks for Style and Durability"
-description: "Choosing the best backpack for 1st graders helps children carry school supplies with ease and comfort. Backpacks must be lightweight, durable, and sized right f"
+title: 'Best Backpacks for 1st Graders: Top Picks for Style and Durability'
+description: Choosing the best backpack for 1st graders helps children carry school
+  supplies with ease and comfort. Backpacks must be lightweight, durable, and sized
+  right f
 pubDate: 2026-05-31
-author: "ivercalloway"
-categories: ["Accessories & Travel Services"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-backpacks-for-1st-graders&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Backpacks For Kids And Teens
+heroImage: https://tse1.mm.bing.net/th?q=best-backpacks-for-1st-graders&w=424&h=424&c=7
+topic: Specialty, Sports, Kids & Duffel Bags
 ---
 
 **Choosing the best backpack for 1st graders helps children carry school supplies with ease and comfort. Backpacks must be lightweight, durable, and sized right for young kids.**

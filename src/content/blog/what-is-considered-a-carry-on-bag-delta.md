@@ -1,10 +1,14 @@
 ---
-title: "What is Considered a Carry on Bag Delta: Ultimate Size Guide 2025"
-description: "Are you planning to fly with Delta Airlines soon? If so, understanding what qualifies as a carry-on bag can make your journey smoother and stress-free. You migh"
+title: 'What is Considered a Carry on Bag Delta: Ultimate Size Guide 2025'
+description: Are you planning to fly with Delta Airlines soon? If so, understanding
+  what qualifies as a carry-on bag can make your journey smoother and stress-free.
+  You migh
 pubDate: 2026-03-17
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=what-is-considered-a-carry-on-bag-delta&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Delta Carry On Rules
+heroImage: https://tse1.mm.bing.net/th?q=what-is-considered-a-carry-on-bag-delta&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Are you planning to fly with Delta Airlines soon? If so, understanding what qualifies as a carry-on bag can make your journey smoother and stress-free.**

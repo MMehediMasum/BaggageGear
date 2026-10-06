@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Can I Reuse a Tea Bag: Surprising Benefits and Tips Revealed"
 description: "Have you ever sipped on a cup of tea and wondered if that tea bag could be used again? You're not alone. Many tea lovers find themselves pondering this question"
 pubDate: 2026-03-06

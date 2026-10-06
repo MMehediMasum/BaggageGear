@@ -1,10 +1,13 @@
 ---
-title: "How to Get Cat Pee Out of a Suitcase: Easy and Effective Tips"
-description: "Discovering that your beloved cat has turned your suitcase into a makeshift litter box can feel overwhelming. You might be wondering how to tackle the situation"
+title: 'How to Get Cat Pee Out of a Suitcase: Easy and Effective Tips'
+description: Discovering that your beloved cat has turned your suitcase into a makeshift
+  litter box can feel overwhelming. You might be wondering how to tackle the situation
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Suitcases & Luggage"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-get-cat-pee-out-of-a-suitcase&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cleaning Luggage Odors And Pests
+heroImage: https://tse1.mm.bing.net/th?q=how-to-get-cat-pee-out-of-a-suitcase&w=424&h=424&c=7
+topic: Luggage & Bag Care, Repair & Services
 ---
 
 **Discovering that your beloved cat has turned your suitcase into a makeshift litter box can feel overwhelming. You might be wondering how to tackle the situation without causing any damage to your suitcase or lingering smells.**

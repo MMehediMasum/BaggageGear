@@ -1,10 +1,14 @@
 ---
-title: "How Much to Check a Bag on Aer Lingus: Ultimate Cost Guide 2025"
-description: "Planning your next trip and flying with Aer Lingus? One of the first questions on your mind is likely: \"How much will it cost to check a bag?\" Let's face it, un"
+title: 'How Much to Check a Bag on Aer Lingus: Ultimate Cost Guide 2025'
+description: 'Planning your next trip and flying with Aer Lingus? One of the first
+  questions on your mind is likely: "How much will it cost to check a bag?" Let''s
+  face it, un'
 pubDate: 2026-04-05
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-aer-lingus&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- International Airline Bag Fees
+heroImage: https://tse1.mm.bing.net/th?q=how-much-to-check-a-bag-on-aer-lingus&w=424&h=424&c=7
+topic: Airline Baggage Fees & Carry-On Rules
 ---
 
 **Planning your next trip and flying with Aer Lingus? One of the first questions on your mind is likely: "How much will it cost to check a bag?"**

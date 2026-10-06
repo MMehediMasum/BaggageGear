@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Nike Elite Backpack: Ultimate Price Guide 2025"
-description: "Have you ever wondered, \"How much is a Nike Elite Backpack?\" You're not alone. With its sleek design and reputation for quality, this backpack has captured the "
+title: 'How Much is a Nike Elite Backpack: Ultimate Price Guide 2025'
+description: 'Have you ever wondered, "How much is a Nike Elite Backpack?" You''re
+  not alone. With its sleek design and reputation for quality, this backpack has captured
+  the '
 pubDate: 2025-09-18
-author: "ivercalloway"
-categories: ["Backpacks"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-nike-elite-backpack&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Everyday Designer Bag Prices
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-nike-elite-backpack&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Have you ever wondered, "How much is a Nike Elite Backpack?" You're not alone.**

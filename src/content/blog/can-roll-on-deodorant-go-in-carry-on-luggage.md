@@ -1,10 +1,14 @@
 ---
-title: "Can Roll on Deodorant Go in Carry on Luggage: Ultimate TSA Guide"
-description: "Picture this: You're packing for your long-awaited trip, and you're trying to make sure everything fits into your carry-on. As you meticulously organize your es"
+title: 'Can Roll on Deodorant Go in Carry on Luggage: Ultimate TSA Guide'
+description: 'Picture this: You''re packing for your long-awaited trip, and you''re
+  trying to make sure everything fits into your carry-on. As you meticulously organize
+  your es'
 pubDate: 2025-12-12
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=can-roll-on-deodorant-go-in-carry-on-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Deodorant In Carry On
+heroImage: https://tse1.mm.bing.net/th?q=can-roll-on-deodorant-go-in-carry-on-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **Picture this: You're packing for your long-awaited trip, and you're trying to make sure everything fits into your carry-on. As you meticulously organize your essentials, a question pops into your head: "Can roll-on deodorant go in carry-on luggage?"**

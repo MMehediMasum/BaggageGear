@@ -1,10 +1,14 @@
 ---
-title: "How to Carry Liquids in Checked Luggage: Expert Tips & Rules"
-description: "You're planning a trip and packing your bags, but there's one question on your mind: How do you carry liquids in checked luggage without risking a messy disaste"
+title: 'How to Carry Liquids in Checked Luggage: Expert Tips & Rules'
+description: 'You''re planning a trip and packing your bags, but there''s one question
+  on your mind: How do you carry liquids in checked luggage without risking a messy
+  disaste'
 pubDate: 2026-03-27
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-to-carry-liquids-in-checked-luggage&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Liquids In Checked Luggage
+heroImage: https://tse1.mm.bing.net/th?q=how-to-carry-liquids-in-checked-luggage&w=424&h=424&c=7
+topic: TSA, Security & Venue Bag Rules
 ---
 
 **You're planning a trip and packing your bags, but there's one question on your mind: How do you carry liquids in checked luggage without risking a messy disaster? Whether it's your favorite shampoo, a special perfume, or a bottle of wine, traveling with liquids can be tricky.**

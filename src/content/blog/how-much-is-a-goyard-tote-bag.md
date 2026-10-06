@@ -1,10 +1,14 @@
 ---
-title: "How Much is a Goyard Tote Bag: Ultimate Price Guide 2025"
-description: "Curious about the price of a Goyard tote bag? You're not alone. These chic and iconic bags have captured the attention of fashion enthusiasts worldwide. But how"
+title: 'How Much is a Goyard Tote Bag: Ultimate Price Guide 2025'
+description: Curious about the price of a Goyard tote bag? You're not alone. These
+  chic and iconic bags have captured the attention of fashion enthusiasts worldwide.
+  But how
 pubDate: 2026-03-31
-author: "ivercalloway"
-categories: ["Fashion & Designer Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=how-much-is-a-goyard-tote-bag&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Designer Bag Brand Questions
+heroImage: https://tse1.mm.bing.net/th?q=how-much-is-a-goyard-tote-bag&w=424&h=424&c=7
+topic: Handbags, Totes & Designer Bags
 ---
 
 **Curious about the price of a Goyard tote bag? You're not alone.**

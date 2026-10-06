@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "What Does Punching a Boxing Bag Do: Benefits for Fitness & Strength"
 description: "Ever found yourself wondering why so many people are drawn to the rhythmic thud of fists meeting a punching bag? It’s not just for seasoned boxers or those trai"
 pubDate: 2025-10-15

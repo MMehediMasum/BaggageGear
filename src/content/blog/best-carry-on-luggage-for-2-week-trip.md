@@ -1,10 +1,14 @@
 ---
-title: "Best Carry On Luggage for 2 Week Trip: Top Lightweight & Durable Picks"
-description: "Packing for a two-week trip with only carry-on luggage saves time and hassle. Choosing the best carry-on ensures you stay organized and travel light. Traveling "
+title: 'Best Carry On Luggage for 2 Week Trip: Top Lightweight & Durable Picks'
+description: 'Packing for a two-week trip with only carry-on luggage saves time and
+  hassle. Choosing the best carry-on ensures you stay organized and travel light.
+  Traveling '
 pubDate: 2026-08-01
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-2-week-trip&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Luggage For Europe Trips
+heroImage: https://tse1.mm.bing.net/th?q=best-carry-on-luggage-for-2-week-trip&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Packing for a two-week trip with only carry-on luggage saves time and hassle. Choosing the best carry-on ensures you stay organized and travel light.**

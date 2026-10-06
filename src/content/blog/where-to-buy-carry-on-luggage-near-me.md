@@ -1,10 +1,14 @@
 ---
-title: "Where to Buy Carry on Luggage near Me: Top Local Stores Revealed"
-description: "Are you gearing up for your next adventure and need the perfect carry-on luggage? Finding the right piece can make or break your travel experience. Imagine glid"
+title: 'Where to Buy Carry on Luggage near Me: Top Local Stores Revealed'
+description: Are you gearing up for your next adventure and need the perfect carry-on
+  luggage? Finding the right piece can make or break your travel experience. Imagine
+  glid
 pubDate: 2026-01-18
-author: "ivercalloway"
-categories: ["Air Travel Bags"]
-heroImage: "https://tse1.mm.bing.net/th?q=where-to-buy-carry-on-luggage-near-me&w=424&h=424&c=7"
+author: ivercalloway
+categories:
+- Cheap And Used Luggage
+heroImage: https://tse1.mm.bing.net/th?q=where-to-buy-carry-on-luggage-near-me&w=424&h=424&c=7
+topic: Luggage, Suitcases & Brands
 ---
 
 **Are you gearing up for your next adventure and need the perfect carry-on luggage? Finding the right piece can make or break your travel experience.**

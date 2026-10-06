@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How Heavy is a Punch Bag: Ultimate Guide to Choosing Right Weight"
 description: "Have you ever wondered just how heavy a punch bag really is? Whether you're setting up your home gym or considering a new workout routine, understanding the wei"
 pubDate: 2026-02-11
