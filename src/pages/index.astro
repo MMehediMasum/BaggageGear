@@ -9,7 +9,7 @@ const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-const topics = [...new Set(allPosts.map((post) => post.data.topic).filter(Boolean))].sort();
+const topics = [...new Set(allPosts.map((post) => post.data.topic).filter(Boolean))] as string[];
 const topicCategorySets = new Map();
 for (const post of allPosts) {
 	if (!post.data.topic) continue;
@@ -24,11 +24,131 @@ const topicCounts = new Map(
 	[...topicCategorySets.entries()].map(([topic, set]) => [topic, set.size])
 );
 
-const latestPosts = allPosts.slice(0, 9);
+/* ---------- Topic design config (order here = display order) ---------- */
+const ICONS = {
+	plane:
+		'<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>',
+	shield:
+		'<path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/>',
+	luggage:
+		'<path d="M6 20a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2"/><path d="M8 18V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v14"/><path d="M10 20v2"/><path d="M14 20v2"/>',
+	backpack:
+		'<path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z"/><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"/><path d="M8 21v-5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v5"/><path d="M8 10h8"/>',
+	mountain: '<path d="m8 3 4 8 5-5 5 15H2L8 3z"/>',
+	bag: '<path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/>',
+	duffel:
+		'<rect x="2" y="9" width="20" height="11" rx="5"/><path d="M7 9c0-3 2-5 5-5s5 2 5 5"/><path d="M2 14h20"/>',
+	package:
+		'<path d="m7.5 4.27 9 5.15"/><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/>',
+	wrench:
+		'<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94z"/>',
+};
 
-function thumbUrl(query: string) {
+const topicMeta = [
+	{
+		name: 'Airline Baggage Fees & Carry-On Rules',
+		icon: ICONS.plane,
+		c1: '#0a3d62',
+		c2: '#2380c4',
+		img: 'airport check-in carry-on luggage airplane',
+		tagline: 'Size limits, weight caps and extra fees, airline by airline.',
+	},
+	{
+		name: 'TSA, Security & Venue Bag Rules',
+		icon: ICONS.shield,
+		c1: '#1b2447',
+		c2: '#4c5fb0',
+		img: 'airport security checkpoint bag screening',
+		tagline: 'What clears security at airports, stadiums and venues.',
+	},
+	{
+		name: 'Luggage, Suitcases & Brands',
+		icon: ICONS.luggage,
+		c1: '#0b5f59',
+		c2: '#1fb5a6',
+		img: 'suitcase luggage travel',
+		tagline: 'Hardside, softside and carry-on picks compared.',
+	},
+	{
+		name: 'Backpacks',
+		icon: ICONS.backpack,
+		c1: '#9a4a07',
+		c2: '#f0a02a',
+		img: 'travel backpack',
+		tagline: 'Daypacks, travel packs and commuter bags.',
+	},
+	{
+		name: 'Hiking, Camping & Outdoor Gear',
+		icon: ICONS.mountain,
+		c1: '#12482a',
+		c2: '#47a05f',
+		img: 'hiking camping outdoor gear backpack mountain',
+		tagline: 'Trail-ready packs and outdoor carry gear.',
+	},
+	{
+		name: 'Handbags, Totes & Designer Bags',
+		icon: ICONS.bag,
+		c1: '#8a1546',
+		c2: '#e5568a',
+		img: 'designer handbag tote bag',
+		tagline: 'Totes, crossbodies and designer bags worth carrying.',
+	},
+	{
+		name: 'Specialty, Sports, Kids & Duffel Bags',
+		icon: ICONS.duffel,
+		c1: '#4a1d96',
+		c2: '#8b5cf6',
+		img: 'duffel bag sports gym kids bag',
+		tagline: 'Duffels, sports bags and kids’ travel bags.',
+	},
+	{
+		name: 'Packing & Travel Accessories',
+		icon: ICONS.package,
+		c1: '#a53a0a',
+		c2: '#f98a45',
+		img: 'packing cubes travel accessories organizer',
+		tagline: 'Packing cubes, locks, tags and organizers that earn their space.',
+	},
+	{
+		name: 'Luggage & Bag Care, Repair & Services',
+		icon: ICONS.wrench,
+		c1: '#2b3a4d',
+		c2: '#6b8099',
+		img: 'luggage repair zipper wheel fix',
+		tagline: 'Cleaning, repairs and replacement parts that extend a bag’s life.',
+	},
+];
+const fallbackPalette = [
+	['#0a3d62', '#2380c4'],
+	['#0b5f59', '#1fb5a6'],
+	['#9a4a07', '#f0a02a'],
+	['#4a1d96', '#8b5cf6'],
+];
+
+const norm = (s: string) => s.trim().toLowerCase();
+const metaIndex = new Map(topicMeta.map((m, i) => [norm(m.name), i]));
+
+const orderedTopics = [...topics].sort((a, b) => {
+	const ia = metaIndex.get(norm(a)) ?? 999;
+	const ib = metaIndex.get(norm(b)) ?? 999;
+	return ia - ib || a.localeCompare(b);
+});
+
+function metaFor(topic: string, i: number) {
+	const idx = metaIndex.get(norm(topic));
+	if (idx !== undefined) return topicMeta[idx];
+	const [c1, c2] = fallbackPalette[i % fallbackPalette.length];
+	return { name: topic, icon: ICONS.luggage, c1, c2, img: topic, tagline: '' };
+}
+
+/* ---------- Posts: 1 featured + 3 stacked + 3 in a row = 7 ---------- */
+const featuredPost = allPosts[0];
+const stackPosts = allPosts.slice(1, 4);
+const rowPosts = allPosts.slice(4, 7);
+
+function thumbUrl(query: string, w = 474, h = 274) {
 	const q = encodeURIComponent(query);
-	return `https://tse1.mm.bing.net/th?q=${q}&w=474&h=274&c=7`;
+	return `https://tse1.mm.bing.net/th?q=${q}&w=${w}&h=${h}&c=7`;
 }
 
 function formatDate(date: Date) {
@@ -38,6 +158,8 @@ function formatDate(date: Date) {
 		day: 'numeric',
 	}).format(date);
 }
+
+const topicHref = (topic: string) => `/topic/${topic.toLowerCase().replace(/\s+/g, '-')}/`;
 ---
 
 <!doctype html>
@@ -50,131 +172,561 @@ function formatDate(date: Date) {
 				margin: 0 auto;
 			}
 
-			/* ---------- Hero ---------- */
+			/* =====================================================
+			   HERO
+			   Always a dark teal "departures board" background in both
+			   light and dark site themes, so text uses fixed light
+			   colors instead of the theme variables.
+			   ===================================================== */
 			.hero {
 				position: relative;
 				overflow: hidden;
-				background:
-					radial-gradient(ellipse 60% 85% at 12% 15%, rgba(84, 142, 155, 0.22), transparent 60%),
-					radial-gradient(ellipse 55% 75% at 88% 10%, rgba(224, 138, 95, 0.16), transparent 60%),
-					radial-gradient(ellipse 70% 60% at 50% 115%, rgba(84, 142, 155, 0.14), transparent 65%),
-					linear-gradient(180deg, #fbf8f2 0%, #f3ede0 100%);
-				border-radius: 24px;
-				padding: 4.5rem 2.5rem;
-				margin: 1.5rem auto 3.5rem;
+				isolation: isolate;
+				border-radius: 28px;
+				padding: 5.2rem 2.5rem 5rem;
+				margin: 1.5rem auto 4rem;
 				text-align: center;
+				color: #f4fbfb;
+				background:
+					radial-gradient(ellipse 45% 70% at 92% 0%, rgba(244, 162, 89, 0.38), transparent 62%),
+					radial-gradient(ellipse 55% 80% at 4% 100%, rgba(45, 190, 176, 0.3), transparent 60%),
+					linear-gradient(135deg, #071e2c 0%, #0b3a4f 55%, #115e6b 100%);
 			}
+			/* dotted map grid */
 			.hero::before {
 				content: '';
 				position: absolute;
-				top: 0;
-				right: 0;
-				bottom: 0;
-				left: 0;
-				z-index: 0;
-				background-image: url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27130%27 height=%27130%27%3E%3Cg fill=%27%233b636d%27%3E%3Cellipse cx=%2765%27 cy=%2782%27 rx=%2724%27 ry=%2719%27/%3E%3Cellipse cx=%2737%27 cy=%2748%27 rx=%2711%27 ry=%2714%27/%3E%3Cellipse cx=%2765%27 cy=%2736%27 rx=%2711%27 ry=%2714%27/%3E%3Cellipse cx=%2793%27 cy=%2748%27 rx=%2711%27 ry=%2714%27/%3E%3C/g%3E%3C/svg%3E");
-				background-size: 130px 130px;
-				opacity: 0.05;
+				inset: 0;
+				z-index: -1;
+				background-image: radial-gradient(rgba(255, 255, 255, 0.16) 1.2px, transparent 1.5px);
+				background-size: 24px 24px;
+				-webkit-mask-image: linear-gradient(180deg, #000 0%, transparent 90%);
+				mask-image: linear-gradient(180deg, #000 0%, transparent 90%);
+			}
+			/* luggage-style stitching */
+			.hero::after {
+				content: '';
+				position: absolute;
+				inset: 12px;
+				border: 1.5px dashed rgba(255, 255, 255, 0.22);
+				border-radius: 19px;
 				pointer-events: none;
 			}
+			.flight {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+				z-index: -1;
+				pointer-events: none;
+			}
+			.flight .route {
+				fill: none;
+				stroke: rgba(255, 214, 160, 0.5);
+				stroke-width: 2;
+				stroke-dasharray: 3 11;
+				stroke-linecap: round;
+				animation: route-flow 14s linear infinite;
+			}
+			.flight .plane {
+				fill: #ffe2b8;
+				stroke: #ffe2b8;
+				stroke-width: 0.6;
+				stroke-linejoin: round;
+			}
+			@keyframes route-flow {
+				to {
+					stroke-dashoffset: -140;
+				}
+			}
+
+			/* luggage-tag chips */
+			.tag {
+				position: absolute;
+				display: none;
+				align-items: center;
+				gap: 0.55rem;
+				padding: 0.5rem 1rem 0.5rem 0.6rem;
+				border-radius: 10px 999px 999px 10px;
+				background: rgba(255, 255, 255, 0.09);
+				border: 1px solid rgba(255, 255, 255, 0.28);
+				-webkit-backdrop-filter: blur(6px);
+				backdrop-filter: blur(6px);
+				font-size: 0.82rem;
+				font-weight: 600;
+				color: #fff;
+				z-index: 1;
+			}
+			.tag::before {
+				content: '';
+				width: 11px;
+				height: 11px;
+				border-radius: 50%;
+				border: 2px solid #ffd29a;
+				flex: none;
+			}
+			.tag-a {
+				left: 4.5%;
+				top: 24%;
+				transform: rotate(-6deg);
+			}
+			.tag-b {
+				right: 4.5%;
+				top: 40%;
+				transform: rotate(5deg);
+			}
+			.tag-c {
+				left: 7%;
+				bottom: 17%;
+				transform: rotate(4deg);
+			}
+			@media (min-width: 1000px) {
+				.tag {
+					display: inline-flex;
+				}
+			}
+
 			.hero-content {
 				position: relative;
 				z-index: 1;
-				/* Hero background is always a light cream gradient, in both
-				   light and dark site themes, so its text must stay fixed
-				   dark colors rather than following the --black/--gray-dark
-				   theme variables (which flip to light colors in dark mode
-				   and would become invisible here). */
-				color: #14171f;
+				color: #f4fbfb;
+			}
+			.hero-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				padding: 0.4rem 1rem;
+				margin-bottom: 1.4rem;
+				border-radius: 999px;
+				background: rgba(255, 255, 255, 0.1);
+				border: 1px solid rgba(255, 255, 255, 0.22);
+				font-size: 0.88rem;
+				font-weight: 600;
+				color: #ffe2b8;
 			}
 			.hero h1 {
-				font-size: clamp(2rem, 4vw, 2.9rem);
-				line-height: 1.15;
-				margin: 0 0 0.6em;
-				max-width: 22ch;
-				margin-left: auto;
-				margin-right: auto;
-				color: #14171f;
+				font-size: clamp(2.3rem, 5.4vw, 4rem);
+				line-height: 1.06;
+				letter-spacing: -0.025em;
+				font-weight: 800;
+				margin: 0 auto 0.55em;
+				max-width: 17ch;
+				color: #fff;
+				text-wrap: balance;
 			}
 			.hero p {
-				max-width: 52ch;
+				max-width: 56ch;
 				margin: 0 auto;
-				color: #4a5164;
-				font-size: 1.1rem;
+				color: rgba(235, 247, 247, 0.84);
+				font-size: 1.12rem;
+				line-height: 1.6;
+			}
+			.hero-cta {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 0.8rem;
+				margin-top: 2rem;
+			}
+			.btn {
+				display: inline-block;
+				padding: 0.85rem 1.5rem;
+				border-radius: 999px;
+				font-weight: 700;
+				text-decoration: none;
+				transition:
+					transform 0.2s ease,
+					background-color 0.2s ease;
+			}
+			.btn:focus-visible {
+				outline: 3px solid #fff;
+				outline-offset: 3px;
+			}
+			.btn-primary {
+				background: #f4a259;
+				color: #1d1204;
+			}
+			.btn-primary:hover {
+				background: #ffb877;
+				transform: translateY(-2px);
+			}
+			.btn-ghost {
+				color: #fff;
+				border: 1.5px solid rgba(255, 255, 255, 0.45);
+			}
+			.btn-ghost:hover {
+				background: rgba(255, 255, 255, 0.12);
 			}
 
-			/* ---------- Topic cards ---------- */
-			.section-heading {
-				font-size: 1.5rem;
-				margin: 0 0 1.2rem;
+			/* =====================================================
+			   SECTION HEADINGS
+			   ===================================================== */
+			.section-head {
+				margin: 0 0 1.5rem;
 			}
-			.topic-row {
+			.section-heading {
+				font-size: clamp(1.6rem, 3vw, 2.1rem);
+				margin: 0 0 0.35rem;
+				letter-spacing: -0.015em;
+			}
+			.section-sub {
+				margin: 0;
+				max-width: 60ch;
+				color: rgb(var(--gray));
+			}
+			.block {
+				margin-bottom: 4.5rem;
+				scroll-margin-top: 1.5rem;
+			}
+
+			/* =====================================================
+			   TOPICS — bento layout (9 tiles, mixed sizes, no orphan row)
+
+			   [  1 (big)  ][ 2 ][ 3 ]
+			   [           ][ 4 ][ 5 ]
+			   [ 6 ][     7 (wide)  ][ 8 ]
+			   [   ][     9 (wide)  ][   ]
+			   ===================================================== */
+			.topic-bento {
 				display: grid;
-				grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-				gap: 1.5rem;
+				grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+				grid-auto-rows: 170px;
+				gap: 1rem;
 				list-style: none;
-				margin: 0 0 3.5rem;
+				margin: 0;
 				padding: 0;
 			}
+			.topic-bento.is-bento {
+				grid-template-columns: repeat(12, 1fr);
+				grid-auto-rows: 150px;
+			}
+			.is-bento .t-1 { grid-column: 1 / 7; grid-row: 1 / 3; }
+			.is-bento .t-2 { grid-column: 7 / 10; grid-row: 1; }
+			.is-bento .t-3 { grid-column: 10 / 13; grid-row: 1; }
+			.is-bento .t-4 { grid-column: 7 / 10; grid-row: 2; }
+			.is-bento .t-5 { grid-column: 10 / 13; grid-row: 2; }
+			.is-bento .t-6 { grid-column: 1 / 4; grid-row: 3 / 5; }
+			.is-bento .t-7 { grid-column: 4 / 10; grid-row: 3; }
+			.is-bento .t-8 { grid-column: 10 / 13; grid-row: 3 / 5; }
+			.is-bento .t-9 { grid-column: 4 / 10; grid-row: 4; }
+
 			.topic-card {
 				position: relative;
-				display: block;
-				border-radius: 16px;
+				display: flex;
+				flex-direction: column;
+				justify-content: flex-end;
+				height: 100%;
+				border-radius: 22px;
 				overflow: hidden;
-				aspect-ratio: 4 / 3;
+				isolation: isolate;
 				text-decoration: none;
-				color: white;
-				box-shadow: 0 1px 3px rgba(var(--gray), 25%);
-				transition: transform 0.2s ease;
+				/* explicit white so global h3/link colors can't turn text black */
+				color: #fff;
+				background: linear-gradient(135deg, var(--c1), var(--c2));
+				box-shadow: 0 10px 26px -14px rgba(7, 30, 44, 0.65);
+				transition:
+					transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1),
+					box-shadow 0.35s ease;
 			}
-			.topic-card:hover {
-				transform: translateY(-3px);
+			.topic-card:hover,
+			.topic-card:focus-visible {
+				transform: translateY(-5px);
+				box-shadow: 0 18px 34px -14px rgba(7, 30, 44, 0.75);
 			}
+			.topic-card:focus-visible {
+				outline: 3px solid var(--accent);
+				outline-offset: 3px;
+			}
+			/* photo is blended into the tile color, so it never fights the text */
 			.topic-card img {
+				position: absolute;
+				inset: 0;
+				z-index: -2;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				opacity: 0.55;
+				mix-blend-mode: luminosity;
+				transition: transform 0.6s ease;
+			}
+			.topic-card:hover img {
+				transform: scale(1.07);
+			}
+			.topic-card .shade {
+				position: absolute;
+				inset: 0;
+				z-index: -1;
+				background: linear-gradient(180deg, rgba(4, 12, 20, 0) 25%, rgba(4, 12, 20, 0.78) 100%);
+			}
+			/* stitched edge, like a bag seam */
+			.topic-card::after {
+				content: '';
+				position: absolute;
+				inset: 8px;
+				border: 1.5px dashed rgba(255, 255, 255, 0.3);
+				border-radius: 15px;
+				pointer-events: none;
+			}
+			.topic-card .icon {
+				position: absolute;
+				top: 1.1rem;
+				left: 1.2rem;
+				width: 44px;
+				height: 44px;
+				display: grid;
+				place-items: center;
+				border-radius: 13px;
+				background: rgba(255, 255, 255, 0.18);
+				-webkit-backdrop-filter: blur(6px);
+				backdrop-filter: blur(6px);
+			}
+			.topic-card .icon svg {
+				width: 23px;
+				height: 23px;
+				fill: none;
+				stroke: #fff;
+				stroke-width: 1.8;
+				stroke-linecap: round;
+				stroke-linejoin: round;
+			}
+			.topic-card .label {
+				position: relative;
+				padding: 1.2rem 4rem 1.3rem 1.4rem;
+			}
+			.topic-card .label h3 {
+				margin: 0;
+				color: #fff;
+				font-size: 1.08rem;
+				line-height: 1.25;
+				font-weight: 700;
+				text-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
+			}
+			.topic-card .tagline {
+				display: none;
+				margin: 0.4rem 0 0;
+				color: rgba(255, 255, 255, 0.9);
+				font-size: 0.92rem;
+				line-height: 1.45;
+				text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+			}
+			.topic-card .meta {
+				display: inline-block;
+				margin-top: 0.55rem;
+				padding: 0.18rem 0.65rem;
+				border-radius: 999px;
+				background: rgba(255, 255, 255, 0.2);
+				color: #fff;
+				font-size: 0.78rem;
+				font-weight: 600;
+			}
+			.topic-card .go {
+				position: absolute;
+				right: 1.2rem;
+				bottom: 1.3rem;
+				width: 36px;
+				height: 36px;
+				display: grid;
+				place-items: center;
+				border-radius: 50%;
+				background: #fff;
+				color: var(--c1);
+				transition: transform 0.3s ease;
+			}
+			.topic-card .go svg {
+				width: 16px;
+				height: 16px;
+				fill: none;
+				stroke: currentColor;
+				stroke-width: 2.4;
+				stroke-linecap: round;
+				stroke-linejoin: round;
+			}
+			.topic-card:hover .go {
+				transform: translateX(4px);
+			}
+			/* size-dependent typography in bento mode */
+			.is-bento .t-1 .label h3 { font-size: 1.85rem; line-height: 1.15; }
+			.is-bento .t-1 .tagline,
+			.is-bento .t-6 .tagline,
+			.is-bento .t-7 .tagline,
+			.is-bento .t-8 .tagline,
+			.is-bento .t-9 .tagline { display: block; }
+			.is-bento .t-6 .label h3,
+			.is-bento .t-8 .label h3 { font-size: 1.25rem; }
+			.is-bento .t-7 .label h3,
+			.is-bento .t-9 .label h3 { font-size: 1.2rem; }
+			.is-bento .t-1 .icon { width: 52px; height: 52px; border-radius: 15px; }
+			.is-bento .t-1 .icon svg { width: 27px; height: 27px; }
+
+			@media (max-width: 900px) {
+				.topic-bento.is-bento {
+					grid-template-columns: repeat(2, 1fr);
+					grid-auto-rows: 170px;
+				}
+				.is-bento > li {
+					grid-column: auto !important;
+					grid-row: auto !important;
+				}
+				.is-bento > .t-1 {
+					grid-column: 1 / -1 !important;
+					grid-row: span 2 !important;
+				}
+				.is-bento .t-6 .tagline,
+				.is-bento .t-8 .tagline { display: none; }
+				.is-bento .t-6 .label h3,
+				.is-bento .t-8 .label h3,
+				.is-bento .t-7 .label h3,
+				.is-bento .t-9 .label h3 { font-size: 1.05rem; }
+			}
+			@media (max-width: 520px) {
+				.topic-bento.is-bento {
+					grid-template-columns: 1fr;
+					grid-auto-rows: 150px;
+				}
+				.is-bento > .t-1 { grid-row: span 2 !important; }
+				.is-bento .t-1 .label h3 { font-size: 1.5rem; }
+			}
+
+			/* =====================================================
+			   LATEST ARTICLES — editorial layout
+			   [   Featured (large)   ][ stacked 3 ]
+			   [   3 cards in a row                ]
+			   ===================================================== */
+			.feed {
+				display: grid;
+				grid-template-columns: 7fr 5fr;
+				gap: 1.4rem;
+			}
+			.feature {
+				position: relative;
+				display: flex;
+				flex-direction: column;
+				justify-content: flex-end;
+				min-height: 440px;
+				border-radius: 24px;
+				overflow: hidden;
+				isolation: isolate;
+				text-decoration: none;
+				color: #fff;
+				background: linear-gradient(135deg, #0b3a4f, #115e6b);
+			}
+			.feature img {
+				position: absolute;
+				inset: 0;
+				z-index: -2;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				transition: transform 0.7s ease;
+			}
+			.feature:hover img {
+				transform: scale(1.05);
+			}
+			.feature .shade {
+				position: absolute;
+				inset: 0;
+				z-index: -1;
+				background: linear-gradient(180deg, rgba(4, 14, 22, 0.05) 20%, rgba(4, 14, 22, 0.88) 100%);
+			}
+			.feature-body {
+				padding: 2rem 2rem 1.8rem;
+			}
+			.pill {
+				display: inline-block;
+				padding: 0.28rem 0.8rem;
+				margin-bottom: 0.9rem;
+				border-radius: 999px;
+				background: #f4a259;
+				color: #1d1204;
+				font-size: 0.8rem;
+				font-weight: 700;
+			}
+			.feature h3 {
+				margin: 0 0 0.7rem;
+				color: #fff;
+				font-size: clamp(1.45rem, 2.6vw, 2.1rem);
+				line-height: 1.2;
+				letter-spacing: -0.015em;
+				text-shadow: 0 2px 14px rgba(0, 0, 0, 0.4);
+			}
+			.feature-meta {
+				display: flex;
+				align-items: center;
+				gap: 1rem;
+				font-size: 0.9rem;
+				color: rgba(255, 255, 255, 0.85);
+			}
+			.feature-meta .read {
+				font-weight: 700;
+				color: #ffd29a;
+				border-bottom: 2px solid currentColor;
+			}
+
+			.stack {
+				display: grid;
+				grid-template-rows: repeat(3, 1fr);
+				gap: 1rem;
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+			.stack > li {
+				display: flex;
+			}
+			.stack-item {
+				flex: 1;
+				display: grid;
+				grid-template-columns: 1fr 112px;
+				align-items: center;
+				gap: 1rem;
+				padding: 0.9rem 0.9rem 0.9rem 1.2rem;
+				border: 1px solid rgb(var(--gray-light));
+				border-left: 4px solid var(--accent);
+				border-radius: 6px 18px 18px 6px;
+				text-decoration: none;
+				color: rgb(var(--black));
+				transition:
+					transform 0.25s ease,
+					box-shadow 0.25s ease;
+			}
+			.stack-item:hover {
+				transform: translateX(4px);
+				box-shadow: 0 10px 24px -14px rgba(var(--black), 0.35);
+			}
+			.stack-thumb {
+				width: 112px;
+				height: 86px;
+				border-radius: 12px;
+				overflow: hidden;
+				background: rgb(var(--gray-light));
+			}
+			.stack-thumb img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
 				display: block;
 			}
-			.topic-card .overlay {
-				position: absolute;
-				inset: 0;
-				background: linear-gradient(180deg, rgba(15, 18, 25, 0) 40%, rgba(15, 18, 25, 0.75) 100%);
-			}
-			.topic-card .label {
-				position: absolute;
-				left: 1.2rem;
-				bottom: 1rem;
-				right: 1.2rem;
-			}
-			.topic-card .label h3 {
-				margin: 0;
-				font-size: 1.4rem;
-			}
-			.topic-card .label span {
-				font-size: 0.85rem;
-				opacity: 0.85;
-			}
 
-			/* ---------- Latest posts ---------- */
-			.post-grid {
+			.row {
+				grid-column: 1 / -1;
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-				gap: 1.8rem;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 1.4rem;
 				list-style: none;
-				margin: 0;
+				margin: 0.4rem 0 0;
 				padding: 0;
 			}
 			.post-card {
 				display: flex;
 				flex-direction: column;
+				height: 100%;
 				text-decoration: none;
 				color: rgb(var(--black));
 			}
 			.post-thumb {
 				width: 100%;
 				aspect-ratio: 474 / 274;
-				border-radius: 12px;
+				border-radius: 16px;
 				overflow: hidden;
 				background: rgb(var(--gray-light));
 				margin-bottom: 0.8rem;
@@ -184,36 +736,79 @@ function formatDate(date: Date) {
 				height: 100%;
 				object-fit: cover;
 				display: block;
-				transition: transform 0.3s ease;
+				transition: transform 0.4s ease;
 			}
 			.post-card:hover .post-thumb img {
-				transform: scale(1.04);
+				transform: scale(1.05);
 			}
+
 			.post-category {
+				display: block;
 				font-size: 0.8rem;
 				color: var(--accent-dark);
-				font-weight: 600;
+				font-weight: 700;
 				margin-bottom: 0.25rem;
 			}
 			.post-title {
-				font-size: 1.1rem;
+				font-size: 1.05rem;
 				line-height: 1.35;
 				font-weight: 700;
 				margin: 0 0 0.4rem;
+				display: -webkit-box;
+				-webkit-line-clamp: 3;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
 			}
-			.post-card:hover .post-title {
+			.post-card:hover .post-title,
+			.stack-item:hover .post-title {
 				color: var(--accent);
 			}
 			.post-date {
 				margin-top: auto;
-				padding-top: 0.3rem;
 				font-size: 0.82rem;
 				color: rgb(var(--gray));
 			}
 
+			@media (max-width: 900px) {
+				.feed {
+					grid-template-columns: 1fr;
+				}
+				.feature {
+					min-height: 380px;
+				}
+				.stack {
+					grid-template-rows: none;
+				}
+			}
 			@media (max-width: 640px) {
 				.hero {
-					padding: 2.2rem 1.4rem;
+					padding: 3.4rem 1.4rem 3.2rem;
+				}
+				.row {
+					grid-template-columns: 1fr;
+				}
+				.feature-body {
+					padding: 1.4rem;
+				}
+				.stack-item {
+					grid-template-columns: 1fr 92px;
+				}
+				.stack-thumb {
+					width: 92px;
+					height: 74px;
+				}
+			}
+			@media (prefers-reduced-motion: reduce) {
+				.flight .route {
+					animation: none;
+				}
+				.topic-card,
+				.topic-card img,
+				.feature img,
+				.post-thumb img,
+				.stack-item,
+				.btn {
+					transition: none;
 				}
 			}
 		</style>
@@ -221,58 +816,160 @@ function formatDate(date: Date) {
 	<body>
 		<Header />
 		<main>
+			<!-- ================= HERO ================= -->
 			<section class="hero">
+				<svg class="flight" viewBox="0 0 1000 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+					<path class="route" d="M -20 330 C 250 60, 650 40, 1020 190"></path>
+					<g class="plane" transform="translate(796 121) rotate(57) scale(1.6) translate(-12 -12)">
+						<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"></path>
+					</g>
+				</svg>
+
+				<span class="tag tag-a">Carry-on size limits</span>
+				<span class="tag tag-b">TSA-ready packing</span>
+				<span class="tag tag-c">Luggage that lasts</span>
+
 				<div class="hero-content">
-					<h1>One home for everything your cat, dog or bird needs</h1>
-					<p>{SITE_DESCRIPTION}</p>
+					<span class="hero-badge">Your guide to baggage &amp; travel gear</span>
+					<h1>Know the rules. Pick the right bag. Pack once.</h1>
+					<p>
+						Airline fees, security checks, suitcase and backpack comparisons, and care tips, all in
+						one place so your bag works as hard as you do on every trip.
+					</p>
+					<div class="hero-cta">
+						<a class="btn btn-primary" href="#topics">Browse topics</a>
+						<a class="btn btn-ghost" href="#latest">Read the latest guides</a>
+					</div>
 				</div>
 			</section>
 
-			<section>
-				<h2 class="section-heading">Browse by pet</h2>
-				<ul class="topic-row">
-					{
-						topics.map((topic) => (
-							<li>
-								<a class="topic-card" href={`/topic/${topic.toLowerCase().replace(/\s+/g, '-')}/`}>
-									<img src={thumbUrl(topic)} alt="" loading="lazy" onerror="this.style.display='none'" />
-									<div class="overlay" />
-									<div class="label">
-										<h3>{topic}</h3>
-										<span>{topicCounts.get(topic)} categories</span>
-									</div>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
+			<!-- ================= TOPICS ================= -->
+			<section id="topics" class="block">
+				<header class="section-head">
+					<h2 class="section-heading">Browse by topic</h2>
+					<p class="section-sub">
+						From airline fees to bag repair, start with whatever you’re trying to sort out.
+					</p>
+				</header>
 
-			<section>
-				<h2 class="section-heading">Latest articles</h2>
-				<ul class="post-grid">
+				<ul class:list={['topic-bento', { 'is-bento': orderedTopics.length === 9 }]}>
 					{
-						latestPosts.map((post) => (
-							<li>
-								<a class="post-card" href={`/${post.id}/`}>
-									<div class="post-thumb">
+						orderedTopics.map((topic, i) => {
+							const m = metaFor(topic, i);
+							return (
+								<li class={`t-${i + 1}`}>
+									<a class="topic-card" style={`--c1:${m.c1};--c2:${m.c2}`} href={topicHref(topic)}>
 										<img
-											src={thumbUrl(`${post.data.topic ?? ''} ${post.data.title}`)}
+											src={thumbUrl(m.img, 800, 600)}
 											alt=""
 											loading="lazy"
 											onerror="this.style.display='none'"
 										/>
-									</div>
-									{post.data.categories?.[0] && (
-										<span class="post-category">{post.data.categories[0]}</span>
-									)}
-									<h3 class="post-title">{post.data.title}</h3>
-									<span class="post-date">{formatDate(post.data.pubDate)}</span>
-								</a>
-							</li>
-						))
+										<span class="shade" />
+										<span class="icon">
+											<svg viewBox="0 0 24 24" aria-hidden="true" set:html={m.icon} />
+										</span>
+										<div class="label">
+											<h3>{topic}</h3>
+											{m.tagline && <p class="tagline">{m.tagline}</p>}
+											<span class="meta">{topicCounts.get(topic)} categories</span>
+										</div>
+										<span class="go" aria-hidden="true">
+											<svg viewBox="0 0 24 24">
+												<path d="M5 12h14" />
+												<path d="m13 6 6 6-6 6" />
+											</svg>
+										</span>
+									</a>
+								</li>
+							);
+						})
 					}
 				</ul>
+			</section>
+
+			<!-- ================= LATEST ARTICLES ================= -->
+			<section id="latest" class="block">
+				<header class="section-head">
+					<h2 class="section-heading">Latest articles</h2>
+					<p class="section-sub">Fresh guides on rules, gear and packing.</p>
+				</header>
+
+				<div class="feed">
+					{
+						featuredPost && (
+							<a class="feature" href={`/${featuredPost.id}/`}>
+								<img
+									src={thumbUrl(`${featuredPost.data.topic ?? ''} ${featuredPost.data.title}`, 900, 640)}
+									alt=""
+									loading="lazy"
+									onerror="this.style.display='none'"
+								/>
+								<span class="shade" />
+								<div class="feature-body">
+									{featuredPost.data.categories?.[0] && (
+										<span class="pill">{featuredPost.data.categories[0]}</span>
+									)}
+									<h3>{featuredPost.data.title}</h3>
+									<div class="feature-meta">
+										<span>{formatDate(featuredPost.data.pubDate)}</span>
+										<span class="read">Read the guide</span>
+									</div>
+								</div>
+							</a>
+						)
+					}
+
+					<ul class="stack">
+						{
+							stackPosts.map((post) => (
+								<li>
+									<a class="stack-item" href={`/${post.id}/`}>
+										<div>
+											{post.data.categories?.[0] && (
+												<span class="post-category">{post.data.categories[0]}</span>
+											)}
+											<h3 class="post-title">{post.data.title}</h3>
+											<span class="post-date">{formatDate(post.data.pubDate)}</span>
+										</div>
+										<div class="stack-thumb">
+											<img
+												src={thumbUrl(`${post.data.topic ?? ''} ${post.data.title}`, 300, 230)}
+												alt=""
+												loading="lazy"
+												onerror="this.style.display='none'"
+											/>
+										</div>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+
+					<ul class="row">
+						{
+							rowPosts.map((post) => (
+								<li>
+									<a class="post-card" href={`/${post.id}/`}>
+										<div class="post-thumb">
+											<img
+												src={thumbUrl(`${post.data.topic ?? ''} ${post.data.title}`)}
+												alt=""
+												loading="lazy"
+												onerror="this.style.display='none'"
+											/>
+										</div>
+										{post.data.categories?.[0] && (
+											<span class="post-category">{post.data.categories[0]}</span>
+										)}
+										<h3 class="post-title">{post.data.title}</h3>
+										<span class="post-date">{formatDate(post.data.pubDate)}</span>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+				</div>
 			</section>
 		</main>
 		<Footer />
