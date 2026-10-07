@@ -4,6 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { slugify } from '../utils/slug';
 
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -159,7 +160,7 @@ function formatDate(date: Date) {
 	}).format(date);
 }
 
-const topicHref = (topic: string) => `/topic/${topic.toLowerCase().replace(/\s+/g, '-')}/`;
+const topicHref = (topic: string) => `/topic/${slugify(topic)}/`;
 ---
 
 <!doctype html>
