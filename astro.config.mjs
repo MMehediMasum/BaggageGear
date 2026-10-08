@@ -9,27 +9,25 @@ export default defineConfig({
 	site: 'https://baggagegear.com',
 	integrations: [mdx(), sitemap()],
 	fonts: [
+		// Headings: Fraunces (editorial serif with a travel-journal feel)
 		{
-			provider: fontProviders.local(),
-			name: 'Atkinson',
-			cssVariable: '--font-atkinson',
-			fallbacks: ['sans-serif'],
-			options: {
-				variants: [
-					{
-						src: ['./src/assets/fonts/atkinson-regular.woff'],
-						weight: 400,
-						style: 'normal',
-						display: 'swap',
-					},
-					{
-						src: ['./src/assets/fonts/atkinson-bold.woff'],
-						weight: 700,
-						style: 'normal',
-						display: 'swap',
-					},
-				],
-			},
+			provider: fontProviders.google(),
+			name: 'Fraunces',
+			cssVariable: '--font-heading',
+			weights: [600, 700],
+			styles: ['normal'],
+			subsets: ['latin'],
+			fallbacks: ['Georgia', 'Times New Roman', 'serif'],
+		},
+		// Body & UI: Figtree (clean, friendly, very readable)
+		{
+			provider: fontProviders.google(),
+			name: 'Figtree',
+			cssVariable: '--font-body',
+			weights: [400, 500, 600, 700],
+			styles: ['normal'],
+			subsets: ['latin'],
+			fallbacks: ['system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
 		},
 	],
 });

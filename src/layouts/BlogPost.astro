@@ -73,7 +73,8 @@ const breadcrumbJsonLd = {
 	],
 };
 ---
- 
+
+<!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} noindex={noindex} />
@@ -81,115 +82,342 @@ const breadcrumbJsonLd = {
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
 		<style>
 			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
+				width: 100%;
+				max-width: none;
 				margin: 0;
+				padding: 2.2em 0 4em;
+			}
+			.post-wrap {
+				width: 760px;
+				max-width: calc(100% - 2.5em);
+				margin: 0 auto;
+			}
+
+			/* ---------- Header ---------- */
+			.post-header {
+				text-align: center;
+				padding: 0.5em 0 1.6em;
+			}
+			.cat-chip {
+				display: inline-block;
+				margin-bottom: 1.1rem;
+				padding: 0.3em 1em;
+				border-radius: 999px;
+				background: var(--accent-soft);
+				color: var(--accent);
+				font-size: 0.78rem;
+				font-weight: 700;
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+				text-decoration: none;
+				transition: background-color 0.2s ease, color 0.2s ease;
+			}
+			.cat-chip:hover {
+				background: var(--accent);
+				color: var(--on-accent);
+			}
+			.post-title {
+				margin: 0 0 1.1rem;
+				font-size: clamp(2rem, 1.4rem + 2.8vw, 3.1rem);
+				line-height: 1.12;
+				text-wrap: balance;
+			}
+			.post-meta {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				justify-content: center;
+				gap: 0.4em 0.9em;
+				color: rgb(var(--gray));
+				font-size: 0.92rem;
+				font-weight: 500;
+			}
+			.post-meta .byline {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.55em;
+				color: rgb(var(--black));
+				font-weight: 600;
+			}
+			.post-meta .byline img {
+				width: 32px;
+				height: 32px;
+				border-radius: 50%;
+				object-fit: cover;
+			}
+			.post-meta .dot::before {
+				content: '·';
+				margin-right: 0.9em;
+				opacity: 0.6;
+			}
+			.last-updated-on {
+				width: 100%;
+				font-size: 0.85rem;
+				font-style: italic;
+			}
+
+			/* ---------- Hero image ---------- */
+			.hero-image {
+				width: 1000px;
+				max-width: calc(100% - 2.5em);
+				margin: 0.8em auto 2.4em;
 			}
 			.hero-image img {
 				display: block;
+				width: 100%;
+				aspect-ratio: 2 / 1;
+				object-fit: cover;
 				margin: 0 auto;
-				border-radius: 12px;
+				border-radius: 18px;
 				box-shadow: var(--box-shadow);
 			}
+
+			/* ---------- Article typography ---------- */
 			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
 				color: rgb(var(--gray-dark));
+				font-size: 1.06rem;
+				line-height: 1.8;
 			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0 0;
-				text-align: center;
-				line-height: 1;
+			.prose :global(h2) {
+				margin: 2.1em 0 0.6em;
+				padding-top: 0.2em;
+				font-size: clamp(1.55rem, 1.3rem + 1vw, 1.95rem);
+				line-height: 1.22;
 			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
+			.prose :global(h3) {
+				margin: 1.8em 0 0.5em;
+				font-size: 1.4rem;
+				line-height: 1.28;
 			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+			.prose :global(h4) {
+				margin: 1.6em 0 0.4em;
+				font-size: 1.15rem;
 			}
-			.last-updated-on {
-				font-style: italic;
+			.prose :global(p),
+			.prose :global(ul),
+			.prose :global(ol) {
+				margin-top: 0;
+			}
+			.prose :global(ul),
+			.prose :global(ol) {
+				margin-bottom: 1.5em;
+				padding-left: 1.4em;
+			}
+			.prose :global(li) {
+				margin-bottom: 0.45em;
+				padding-left: 0.2em;
+			}
+			.prose :global(li)::marker {
+				color: var(--accent);
+				font-weight: 700;
+			}
+			.prose :global(strong) {
+				color: rgb(var(--black));
+			}
+			.prose :global(a:not(.cat-chip)) {
+				color: var(--accent);
+				text-decoration: underline;
+				text-decoration-thickness: 0.08em;
+				text-underline-offset: 0.2em;
+				box-shadow: none;
+			}
+			.prose :global(a:not(.cat-chip):hover) {
+				color: var(--accent-dark);
+				background: var(--accent-soft);
+			}
+			.prose :global(img) {
+				display: block;
+				margin: 1.8em auto;
+				border-radius: 14px;
+			}
+			.prose :global(blockquote) {
+				margin: 1.8em 0;
+				padding: 1em 1.4em;
+				border-left: 4px solid var(--accent);
+				border-radius: 0 12px 12px 0;
+				background: var(--accent-soft);
+				font-size: 1.15rem;
+			}
+			.prose :global(blockquote p:last-child) {
+				margin-bottom: 0;
+			}
+			.prose :global(table) {
+				display: block;
+				width: 100%;
+				margin: 1.8em 0;
+				overflow-x: auto;
+				border-collapse: collapse;
+				font-size: 0.95rem;
+				line-height: 1.5;
+			}
+			.prose :global(th),
+			.prose :global(td) {
+				padding: 0.7em 0.9em;
+				border-bottom: 1px solid var(--line);
+				text-align: left;
+				vertical-align: top;
+			}
+			.prose :global(th) {
+				background: rgb(var(--gray-light));
+				color: rgb(var(--black));
+				font-weight: 700;
+				white-space: nowrap;
+			}
+			.prose :global(tbody tr:hover) {
+				background: var(--accent-soft);
+			}
+
+			/* ---------- Footer area of the post ---------- */
+			.post-end hr {
+				margin: 2.4em 0 2em;
 			}
 			.author-box {
 				display: flex;
 				align-items: center;
-				gap: 1em;
-				margin: 1.5em 0;
-				padding: 1em;
-				border: 1px solid rgb(var(--gray-light));
-				border-radius: 12px;
+				gap: 1.1em;
+				margin: 0 0 1.6em;
+				padding: 1.2em 1.4em;
+				background: var(--surface);
+				border: 1px solid var(--line);
+				border-radius: 16px;
 			}
 			.author-box img {
-				width: 48px;
-				height: 48px;
+				flex: none;
+				width: 64px;
+				height: 64px;
 				border-radius: 50%;
+				object-fit: cover;
 			}
 			.author-box .name {
-				font-weight: bold;
-				margin: 0;
+				margin: 0 0 0.2em;
+				color: rgb(var(--black));
+				font-family: var(--font-serif);
+				font-size: 1.1rem;
+				font-weight: 700;
 			}
 			.author-box .bio {
 				margin: 0;
-				font-size: 0.9em;
 				color: rgb(var(--gray));
+				font-size: 0.92rem;
+				line-height: 1.55;
 			}
 			.categories {
-				margin: 1em 0;
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				gap: 0.5em;
+				margin: 0 0 1em;
+			}
+			.categories .label {
+				margin-right: 0.3em;
+				color: rgb(var(--gray));
+				font-size: 0.85rem;
+				font-weight: 600;
 			}
 			.categories a {
 				display: inline-block;
-				margin-right: 0.5em;
-				padding: 0.2em 0.6em;
-				border-radius: 6px;
-				background: rgb(var(--gray-light));
+				padding: 0.3em 0.9em;
+				border-radius: 999px;
+				background: var(--surface);
+				border: 1px solid var(--line);
+				color: rgb(var(--black));
+				font-size: 0.85rem;
+				font-weight: 600;
 				text-decoration: none;
-				font-size: 0.85em;
+				transition: border-color 0.2s ease, color 0.2s ease;
+			}
+			.categories a:hover {
+				border-color: var(--accent);
+				color: var(--accent);
+			}
+
+			@media (max-width: 720px) {
+				main {
+					padding-top: 1.2em;
+				}
+				.prose {
+					font-size: 1.02rem;
+					line-height: 1.75;
+				}
+				.hero-image img {
+					border-radius: 12px;
+				}
+				.author-box {
+					align-items: flex-start;
+					padding: 1em;
+				}
+				.author-box img {
+					width: 52px;
+					height: 52px;
+				}
+			}
+			@media (prefers-reduced-motion: reduce) {
+				.cat-chip,
+				.categories a {
+					transition: none;
+				}
 			}
 		</style>
 	</head>
- 
+
 	<body>
 		<Header />
 		<main>
 			<article>
-				<div class="prose">
-					<div class="title">
-						<h1>{title}</h1>
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{readingTime && <span> ~ {readingTime} min read</span>}
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-						<hr />
-					</div>
- 
+				<header class="post-wrap post-header">
 					{
-						heroImage && (
-							<div class="hero-image">
-								<img src={heroImage} alt="" loading="lazy" width="1020" height="510" />
-							</div>
+						firstCategory && (
+							<a class="cat-chip" href={`/categories/${slugify(firstCategory)}/`}>
+								{firstCategory}
+							</a>
 						)
 					}
- 
+					<h1 class="post-title">{title}</h1>
+					<div class="post-meta">
+						{
+							authorEntry && (
+								<span class="byline">
+									{authorEntry.data.avatar && (
+										<img src={authorEntry.data.avatar} alt="" width="32" height="32" />
+									)}
+									{authorEntry.data.name}
+								</span>
+							)
+						}
+						<span class:list={[{ dot: !!authorEntry }]}>
+							<FormattedDate date={pubDate} />
+						</span>
+						{readingTime && <span class="dot">{readingTime} min read</span>}
+						{
+							updatedDate && (
+								<div class="last-updated-on">
+									Last updated on <FormattedDate date={updatedDate} />
+								</div>
+							)
+						}
+					</div>
+				</header>
+
+				{
+					heroImage && (
+						<div class="hero-image">
+							<img src={heroImage} alt="" width="1020" height="510" />
+						</div>
+					)
+				}
+
+				<div class="post-wrap prose">
 					<slot />
- 
+				</div>
+
+				<div class="post-wrap post-end">
 					<hr />
- 
+
 					{
 						authorEntry && (
 							<div class="author-box">
 								{authorEntry.data.avatar && (
-									<img src={authorEntry.data.avatar} alt={authorEntry.data.name} />
+									<img src={authorEntry.data.avatar} alt={authorEntry.data.name} width="64" height="64" />
 								)}
 								<div>
 									<p class="name">By {authorEntry.data.name}</p>
@@ -198,32 +426,32 @@ const breadcrumbJsonLd = {
 							</div>
 						)
 					}
- 
+
 					{
 						categories && categories.length > 0 && (
 							<div class="categories">
+								<span class="label">Filed under</span>
 								{categories.map((category) => (
-									<a href={`/categories/${slugify(category)}/`}>
-										{category}
-									</a>
+									<a href={`/categories/${slugify(category)}/`}>{category}</a>
 								))}
 							</div>
 						)
 					}
-					
-					{related.length > 0 && (
-					  <section class="related-posts">
-						<h2>Related Posts</h2>
-						<ul>
-						  {related.map((r) => (
-							<li>
-							  <a href={`/${r.id}/`}>{r.data.title}</a>
-							</li>
-						  ))}
-						</ul>
-					  </section>
-					)}
 
+					{
+						related.length > 0 && (
+							<section class="related-posts">
+								<h2>Related Posts</h2>
+								<ul>
+									{related.map((r) => (
+										<li>
+											<a href={`/${r.id}/`}>{r.data.title}</a>
+										</li>
+									))}
+								</ul>
+							</section>
+						)
+					}
 				</div>
 			</article>
 		</main>
