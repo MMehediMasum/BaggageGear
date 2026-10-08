@@ -1,197 +1,295 @@
 ---
+import { getCollection } from 'astro:content';
 import StaticPage from '../layouts/StaticPage.astro';
+import Icon from '../components/Icon.astro';
+import { slugify } from '../utils/slug';
+import '../styles/about.css';
+
+// Topics that already have published guides get a live link; the rest show "coming soon".
+const posts = await getCollection('blog');
+const liveTopics = new Set(posts.map((p) => p.data.topic).filter(Boolean));
+
+const topicList = [
+	{ name: 'Airline Baggage Fees & Carry-On Rules', icon: 'plane', c1: '#0a3d62', c2: '#2380c4', blurb: 'Size limits, weight caps and extra fees, airline by airline.' },
+	{ name: 'TSA, Security & Venue Bag Rules', icon: 'shield', c1: '#1b2447', c2: '#4c5fb0', blurb: 'What clears security at airports, stadiums and venues.' },
+	{ name: 'Luggage, Suitcases & Brands', icon: 'luggage', c1: '#0b5f59', c2: '#1fb5a6', blurb: 'Hardside, softside and carry-on picks compared.' },
+	{ name: 'Backpacks', icon: 'backpack', c1: '#9a4a07', c2: '#f0a02a', blurb: 'Daypacks, travel packs and commuter bags.' },
+	{ name: 'Hiking, Camping & Outdoor Gear', icon: 'mountain', c1: '#12482a', c2: '#47a05f', blurb: 'Trail-ready packs and outdoor carry gear.' },
+	{ name: 'Handbags, Totes & Designer Bags', icon: 'bag', c1: '#8a1546', c2: '#e5568a', blurb: 'Totes, crossbodies and designer bags worth carrying.' },
+	{ name: 'Specialty, Sports, Kids & Duffel Bags', icon: 'duffel', c1: '#4a1d96', c2: '#8b5cf6', blurb: 'Duffels, sports bags and kids’ travel bags.' },
+	{ name: 'Packing & Travel Accessories', icon: 'package', c1: '#a53a0a', c2: '#f98a45', blurb: 'Packing cubes, locks, tags and organizers that earn their space.' },
+	{ name: 'Luggage & Bag Care, Repair & Services', icon: 'wrench', c1: '#2b3a4d', c2: '#6b8099', blurb: 'Cleaning, repairs and replacement parts that extend a bag’s life.' },
+].map((t) => ({
+	...t,
+	style: `--c1:${t.c1};--c2:${t.c2}`,
+	href: liveTopics.has(t.name) ? `/topic/${slugify(t.name)}/` : undefined,
+	soon: !liveTopics.has(t.name),
+}));
+
+const personLd = JSON.stringify({
+	'@context': 'https://schema.org',
+	'@type': 'Person',
+	name: 'Iver Calloway',
+	jobTitle: 'Travel Gear Specialist & Frequent Flyer',
+	image: 'https://baggagegear.com/iver-calloway.jpg',
+	url: 'https://baggagegear.com/about/',
+	homeLocation: { '@type': 'Place', name: 'Miami, Florida, United States' },
+	knowsAbout: ['Luggage reviews', 'Airline baggage policy', 'Carry-on optimization', 'Packing strategy', 'One-bag travel'],
+	sameAs: ['https://www.facebook.com/IverCalloway/'],
+	worksFor: { '@type': 'Organization', name: 'Baggage Gear', url: 'https://baggagegear.com/' },
+});
 ---
 
 <StaticPage
-	title="About Us"
-	description="Learn about BaggageGear, our mission, and the travel bag, backpack, bag care and family gear guides you read here."
-	icon="🧳"
+	title="About Baggage Gear"
+	description="Meet Iver Calloway, a former airline ground operations supervisor who tests luggage in real transit. Honest bag reviews, airline baggage rules and packing advice."
+	c1="#0f2f45"
+	c2="#3b7f8f"
+	wide
 >
-	<p>
-		Welcome to <strong>BaggageGear</strong>, your trusted companion for all things bags! Whether you're a frequent
-		flyer, a student, a busy parent, or simply someone who appreciates well-crafted travel gear, BaggageGear is
-		here to make your journeys smoother, organized, and stylish. Our passion is helping travelers, families, and
-		adventurers find the perfect bag for every occasion, along with tips, tools, and solutions to care for them.
-	</p>
-
-	<h2>Our Story</h2>
-	<p>
-		BaggageGear was born from a simple idea:
-		<strong>bags are more than just accessories—they are essential tools for life on the move.</strong> We
-		realized that while there are countless options available in stores, few websites truly guide users to choose
-		the right bag for their specific needs. From the perfect carry-on for a business trip to a sturdy backpack for
-		outdoor adventures, and even bags that cater to the unique needs of kids and families, we wanted to create a
-		space that simplifies your decision-making.
-	</p>
-	<p>
-		Our journey started with a small team of travel enthusiasts and product experts who shared one goal: to
-		provide honest reviews, practical advice, and reliable resources to help people make smarter choices about
-		their luggage and travel gear. Over the years, BaggageGear has grown into a comprehensive online hub, trusted
-		by thousands of travelers, parents, and everyday adventurers.
-	</p>
-
-	<h2>Our Mission</h2>
-	<p>At BaggageGear, our mission is simple:</p>
-	<ul>
-		<li><strong>To guide you in choosing the right bag</strong> for every trip and lifestyle.</li>
-		<li><strong>To provide trusted insights</strong> into bag quality, functionality, and durability.</li>
-		<li><strong>To empower you with knowledge</strong> about maintaining, repairing, and prolonging the life of your bags.</li>
-	</ul>
-	<p>
-		We believe that a great bag isn't just about looks—it's about convenience, reliability, and peace of mind.
-		Every product we feature, every guide we publish, and every tip we share is designed to enhance your travel
-		experience and make your life easier.
-	</p>
-
-	<h2>What We Offer</h2>
-
-	<h3>1. Air Travel Bags</h3>
-	<p>
-		Traveling by air can be stressful, but the right luggage can make all the difference. At BaggageGear, we focus
-		on <strong>air travel bags</strong> that are stylish, lightweight, durable, and packed with practical features.
-		From <strong>carry-ons with easy-access compartments</strong> to
-		<strong>checked luggage built to withstand the rigors of travel</strong>, we provide detailed guides and
-		reviews to help you find bags that meet your needs.
-	</p>
-	<p>We evaluate bags on factors like:</p>
-	<ul>
-		<li>Weight and ease of transport</li>
-		<li>Security features (locks, zippers, and anti-theft designs)</li>
-		<li>Compartments and organizational options</li>
-		<li>Durability of materials and wheels</li>
-		<li>Warranty and customer support</li>
-	</ul>
-	<p>
-		Whether you're a frequent flyer or planning a once-in-a-lifetime trip, we help you pick the right luggage to
-		travel smart and stress-free.
-	</p>
-
-	<h3>2. Backpacks</h3>
-	<p>
-		Backpacks are no longer just for students—they're essential for commuters, hikers, digital nomads, and anyone
-		who needs to carry their essentials comfortably. Our <strong>backpack guides</strong> cover everything from
-		everyday backpacks for work or school to specialized hiking, travel, and tech backpacks.
-	</p>
-	<p>We highlight features such as:</p>
-	<ul>
-		<li>Ergonomic designs and padded straps for comfort</li>
-		<li>Laptop and gadget compartments</li>
-		<li>Water-resistant or weatherproof materials</li>
-		<li>Expandable storage for flexible packing</li>
-		<li>Style and aesthetics that match your lifestyle</li>
-	</ul>
-	<p>
-		Our aim is to help you find backpacks that are practical, durable, and stylish, so you can carry your world
-		with ease.
-	</p>
-
-	<h3>3. Bag Care &amp; Repairs</h3>
-	<p>
-		A high-quality bag is an investment, and keeping it in top condition matters. That's why BaggageGear also
-		focuses on <strong>bag care and repair tips</strong>. From cleaning guides and maintenance routines to
-		professional repair services, we provide actionable advice to extend the life of your favorite bags.
-	</p>
-	<p>Key areas include:</p>
-	<ul>
-		<li>Cleaning techniques for leather, fabric, and synthetic materials</li>
-		<li>Repair solutions for broken zippers, straps, and handles</li>
-		<li>Storage tips to prevent wear and tear</li>
-		<li>Seasonal maintenance routines</li>
-	</ul>
-	<p>
-		By caring for your bags properly, you not only protect your investment but also reduce waste and embrace a
-		more sustainable lifestyle.
-	</p>
-
-	<h3>4. Kids &amp; Family Bags</h3>
-	<p>
-		Traveling with kids is a unique challenge, and having the right bags makes a world of difference. Our
-		<strong>kids and family bags section</strong> focuses on:
-	</p>
-	<ul>
-		<li>Lightweight, durable, and colorful backpacks for children</li>
-		<li>Family travel organizers and packing solutions</li>
-		<li>School bags that balance fun designs with ergonomics</li>
-		<li>Kid-friendly carry-ons for flights and trips</li>
-	</ul>
-	<p>
-		We understand the demands of family travel and provide recommendations that make packing, organizing, and
-		traveling with children stress-free.
-	</p>
-
-	<h2>Our Values</h2>
-	<p>At BaggageGear, we are guided by a set of core values that shape everything we do:</p>
-	<ul class="icon-grid">
-		<li><span class="emoji">🤝</span><span><strong>Trust and Honesty</strong> – Our product reviews and recommendations are unbiased, research-based, and customer-focused.</span></li>
-		<li><span class="emoji">⭐</span><span><strong>Quality over Quantity</strong> – We prioritize quality products and practical advice rather than overwhelming you with endless options.</span></li>
-		<li><span class="emoji">🎯</span><span><strong>Customer-Centric Approach</strong> – Every guide, blog post, and review is created with your needs in mind.</span></li>
-		<li><span class="emoji">♻️</span><span><strong>Sustainability</strong> – We encourage responsible consumption by promoting durable products and bag care practices.</span></li>
-		<li><span class="emoji">💡</span><span><strong>Innovation and Insight</strong> – We stay up-to-date with the latest bag trends, travel innovations, and technology to offer relevant and timely advice.</span></li>
-	</ul>
-
-	<h2>Why Choose BaggageGear?</h2>
-	<p>
-		There are many websites out there that sell bags or offer product information, but
-		<strong>BaggageGear stands out because we combine expertise, research, and passion.</strong>
-	</p>
-	<ul>
-		<li><strong>Expert Recommendations:</strong> Every review is based on hands-on testing and thorough research.</li>
-		<li><strong>Practical Tips:</strong> From packing hacks to maintenance tips, our content goes beyond just product reviews.</li>
-		<li><strong>Diverse Selection:</strong> Whether you're a solo traveler, a student, or a parent managing family trips, we have advice tailored to your lifestyle.</li>
-		<li><strong>Trusted Community:</strong> Thousands of readers rely on our insights to make informed decisions.</li>
-	</ul>
-	<p>
-		We aim to be more than a website—we want to be a resource and companion for all your travel and bag-related
-		needs.
-	</p>
-
-	<h2>Our Team</h2>
-	<p>
-		Our team consists of <strong>travel enthusiasts, parents, lifestyle bloggers, and product experts</strong> who
-		share a passion for bags and organization. Every member of BaggageGear brings unique insights:
-	</p>
-	<ul>
-		<li>Our travel experts test luggage in real-world scenarios to ensure durability and convenience.</li>
-		<li>Our family-focused writers explore backpacks, school bags, and family travel gear that makes life easier.</li>
-		<li>Our repair and care specialists provide practical guides to keep your bags looking and performing their best.</li>
-	</ul>
-	<p>
-		Together, we create content that is <strong>informative, engaging, and actionable</strong>, helping you make
-		smarter choices with confidence.
-	</p>
-
-	<h2>Our Commitment to You</h2>
-	<p>
-		BaggageGear is committed to
-		<strong>empowering you to travel smarter, pack efficiently, and care for your belongings.</strong> We promise:
-	</p>
-	<ul>
-		<li>To provide accurate, honest, and updated information.</li>
-		<li>To prioritize your needs in every guide and recommendation.</li>
-		<li>To offer tips that help you save money, time, and stress.</li>
-	</ul>
-	<div class="note-box">
-		<span class="note-icon">🧳</span>
-		<span>
-			We believe that the right bag can transform your experience, whether it's a short city trip, a long-haul
-			flight, or daily life with kids. Our goal is to ensure that every bag you choose serves you well and lasts
-			longer.
-		</span>
+	<div slot="hero" class="ab-hero">
+		<div>
+			<h1 class="sp-hero-title">Luggage advice from the other side of the check-in counter</h1>
+			<p class="sp-hero-lead">
+				Baggage Gear is run by Iver Calloway, a former airline ground operations supervisor. Every bag here is
+				judged by how it survives real travel, not how it looks on a showroom shelf.
+			</p>
+			<div class="ab-hero-cta">
+				<a class="btn" href="#how-i-test"><Icon name="route" size={18} /> See how I test bags</a>
+				<a class="btn ghost" href="/contact/"><Icon name="mail" size={18} /> Contact Iver</a>
+			</div>
+		</div>
+		<aside class="tag" aria-label="Author card for Iver Calloway">
+			<span class="tag-strap" aria-hidden="true"></span>
+			<div class="tag-body">
+				<span class="tag-hole" aria-hidden="true"></span>
+				<img class="tag-photo" src="/iver-calloway.jpg" alt="Portrait of Iver Calloway" width="112" height="112" />
+				<p class="tag-name">Iver Calloway</p>
+				<p class="tag-role">Travel Gear Specialist &amp; Frequent Flyer</p>
+				<div class="tag-route"><b>MIA</b><small>Miami, Florida<br />United States</small></div>
+				<ul class="tag-stats">
+					<li><strong>9</strong><span>years in airline ground ops</span></li>
+					<li><strong>60+</strong><span>flight segments a year</span></li>
+					<li><strong>250+</strong><span>bags and accessories reviewed</span></li>
+				</ul>
+				<div class="tag-bars" aria-hidden="true"></div>
+			</div>
+		</aside>
 	</div>
 
-	<h2>Join the BaggageGear Community</h2>
-	<p>
-		We invite you to explore our website, read our guides, and discover products that fit your lifestyle. Follow
-		our blog for the latest tips, reviews, and trends in
-		<strong>air travel bags, backpacks, bag care, and family travel gear</strong>.
+	<script type="application/ld+json" is:inline set:html={personLd}></script>
+
+	<div class="sec-head" style="margin-top:0">
+		<span class="chip" style="--c1:#0f2f45;--c2:#3b7f8f"><Icon name="user" /></span>
+		<h2>Hi, I’m Iver</h2>
+	</div>
+	<p class="ab-intro">
+		I’m Iver Calloway, and I live in Miami, Florida. I spent nine years as an airline ground operations
+		supervisor, and today I fly more than 60 segments a year with a bag I’m trying to break. I write this site
+		for the person standing in front of a wall of suitcases, or looking at an airline fee table, and wondering
+		what is actually worth buying.
 	</p>
 	<p>
-		Your journey is our inspiration, and we are here to make it smoother, safer, and more enjoyable. Connect with
-		us, share your experiences, and be part of the BaggageGear community that celebrates smart travel, organized
-		living, and quality bags.
+		This page is not a résumé. It is the short version of who I am, why you can trust what I say, and just as
+		important, where my knowledge stops.
+	</p>
+	<ul class="facts">
+		<li><span class="dot" style="--d:#2380c4"></span>Based in Miami, Florida</li>
+		<li><span class="dot" style="--d:#0b9c8d"></span>Aviation and plane spotting</li>
+		<li><span class="dot" style="--d:#f0a02a"></span>Travel points and miles</li>
+		<li><span class="dot" style="--d:#8b5cf6"></span>One-bag travel</li>
+		<li><span class="dot" style="--d:#e5568a"></span>Scuba diving</li>
+		<li><span class="dot" style="--d:#f98a45"></span>Latin cuisine</li>
+	</ul>
+
+	<div class="sec-head">
+		<span class="chip" style="--c1:#9a4a07;--c2:#f0a02a"><Icon name="briefcase" /></span>
+		<h2>How I ended up in luggage</h2>
+	</div>
+	<p>
+		I learned what luggage can and can’t survive from behind the counter. For nine years I worked in airline
+		ground operations, supervising baggage handling and working with airline policy every day. I saw which bags
+		came off the belt looking fine and which ones were finished after a single trip: gate checks, tight
+		connections, rough conveyor belts.
 	</p>
 	<p>
-		Questions or feedback? Visit our <a href="/contact/">Contact page</a>. For how we earn revenue, see our
-		<a href="/disclosure/">Disclosure</a>.
+		That job left me with an annoying habit. I can’t look at a suitcase without checking the wheels and the zipper
+		first. Baggage Gear is where I put that habit to work for you.
 	</p>
+	<ol class="timeline">
+		<li>
+			<span class="chip" style="--c1:#0a3d62;--c2:#2380c4"><Icon name="plane" /></span>
+			<div>
+				<strong>9 years in airline ground operations</strong>
+				<p>Supervising baggage handling and applying airline baggage policy at the airport.</p>
+			</div>
+		</li>
+		<li>
+			<span class="chip" style="--c1:#9a4a07;--c2:#f0a02a"><Icon name="route" /></span>
+			<div>
+				<strong>Now flying 60+ segments a year</strong>
+				<p>I travel to test luggage in real transit conditions, not in a showroom.</p>
+			</div>
+		</li>
+		<li>
+			<span class="chip" style="--c1:#0b5f59;--c2:#1fb5a6"><Icon name="luggage" /></span>
+			<div>
+				<strong>250+ bags and travel accessories reviewed</strong>
+				<p>Each one stress-tested before it earned a recommendation.</p>
+			</div>
+		</li>
+	</ol>
+
+	<div class="sec-head">
+		<span class="chip" style="--c1:#0b5f59;--c2:#1fb5a6"><Icon name="clipboard" /></span>
+		<h2>What I know, and what I don’t</h2>
+	</div>
+	<p>
+		“I know a lot about luggage” is a weak claim, so here is the specific list. These are the areas where I have
+		hands-on experience:
+	</p>
+	<ul class="cards">
+		<li>
+			<span class="chip sm" style="--c1:#0a3d62;--c2:#2380c4"><Icon name="clipboard" size={18} /></span>
+			<strong>Airline baggage policy</strong>
+			Size and weight limits, fees, and how rules are applied at the counter and the gate.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#9a4a07;--c2:#f0a02a"><Icon name="archive" size={18} /></span>
+			<strong>Carry-on optimization</strong>
+			Fitting more into a bag that still goes in the overhead bin without a fight.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#0b5f59;--c2:#1fb5a6"><Icon name="gauge" size={18} /></span>
+			<strong>What breaks, and when</strong>
+			Wheel durability, zipper strength under weight, and how a bag looks after its fifth rough carousel.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#4a1d96;--c2:#8b5cf6"><Icon name="package" size={18} /></span>
+			<strong>Packing strategy</strong>
+			One-bag travel, packing systems, and the accessories that actually earn their space.
+		</li>
+	</ul>
+	<div class="callout warm">
+		<span class="chip sm"><Icon name="info" size={18} /></span>
+		<div>
+			<strong>Where my limits are.</strong> My experience is real-world, not laboratory testing. I don’t run bags
+			through a lab rig. My airline background is strongest on luggage, carry-on and checked-bag rules. On topics
+			further from it, such as handbags, outdoor gear or kids’ bags, I lean more on research and will say so in
+			the article. And airline rules change, so check the carrier before you fly.
+		</div>
+	</div>
+
+	<div class="sec-head">
+		<span class="chip" style="--c1:#8a1546;--c2:#e5568a"><Icon name="search" /></span>
+		<h2>The gap I kept seeing</h2>
+	</div>
+	<p>
+		When I went looking for luggage advice, the same four problems kept turning up. They are the reason this site
+		exists.
+	</p>
+	<ul class="cards">
+		<li>
+			<span class="chip sm" style="--c1:#8a1546;--c2:#e5568a"><Icon name="eye" size={18} /></span>
+			<strong>Showroom verdicts</strong>
+			Reviews written after a bag was unboxed, not after it was dragged through an airport.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#0a3d62;--c2:#2380c4"><Icon name="refreshcw" size={18} /></span>
+			<strong>Stale baggage rules</strong>
+			Fees and size limits copied from page to page long after the airline changed them.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#1b2447;--c2:#4c5fb0"><Icon name="users" size={18} /></span>
+			<strong>No operations view</strong>
+			Very little from someone who has actually handled bags and enforced airline policy.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#a53a0a;--c2:#f98a45"><Icon name="link" size={18} /></span>
+			<strong>Advice in fragments</strong>
+			Bag choice, fees and packing treated as separate questions, when you decide them together.
+		</li>
+	</ul>
+
+	<div class="sec-head" id="how-i-test">
+		<span class="chip" style="--c1:#0a3d62;--c2:#2380c4"><Icon name="route" /></span>
+		<h2>How every bag gets tested</h2>
+	</div>
+	<p>
+		My rule is simple: <strong>I review a bag only after real transit abuse.</strong> That means three places
+		where luggage really gets punished.
+	</p>
+	<ol class="gauntlet">
+		<li>
+			<span class="chip sm" style="--c1:#9a4a07;--c2:#f0a02a"><Icon name="archive" size={18} /></span>
+			<strong>Overhead bins</strong>
+			Does it fit, squeeze and slide in as promised, flight after flight?
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#8a1546;--c2:#e5568a"><Icon name="drop" size={18} /></span>
+			<strong>Gate checks</strong>
+			What happens when the flight is full and your carry-on gets tagged at the door.
+		</li>
+		<li>
+			<span class="chip sm" style="--c1:#0b5f59;--c2:#1fb5a6"><Icon name="refresh" size={18} /></span>
+			<strong>Baggage carousels</strong>
+			Wheels, handles and zippers after the belt has had its turn.
+		</li>
+	</ol>
+	<p>My promises to you:</p>
+	<ul class="ticks">
+		<li>I’ll tell you what I tested and what I only researched.</li>
+		<li>I’ll say where a bag failed, not just where it shined.</li>
+		<li>I’ll point you to the airline for the final word on fees and limits.</li>
+		<li>I’ll keep affiliate links separate from my verdicts. <a href="/disclosure/">Here is exactly how.</a></li>
+	</ul>
+
+	<div class="sec-head">
+		<span class="chip" style="--c1:#12482a;--c2:#47a05f"><Icon name="compass" /></span>
+		<h2>What you’ll find here</h2>
+	</div>
+	<p>
+		This site is for frequent flyers and vacation travelers choosing luggage and packing systems. Nine topics
+		cover the whole trip, from the airline fee table to repairing a broken zipper. Topics with published guides
+		link straight through.
+	</p>
+	<ul class="topics">
+		{
+			topicList.map((t) => (
+				<li>
+					<a class={`tcard${t.soon ? ' soon' : ''}`} href={t.href} style={t.style}>
+						<span class="chip sm">
+							<Icon name={t.icon} size={18} />
+						</span>
+						<span>
+							<strong>{t.name}</strong>
+							<small>{t.blurb}</small>
+						</span>
+					</a>
+				</li>
+			))
+		}
+	</ul>
+
+	<section class="finish" aria-labelledby="finish-title">
+		<h2 id="finish-title">Let’s get your bag home in one piece</h2>
+		<p>
+			Pack smarter, travel farther. That’s the whole idea, and I’d love to have you along. Start with a guide,
+			and if something is unclear or wrong, tell me. I read what you send.
+		</p>
+		<div class="ab-hero-cta" style="margin-top:1.2rem">
+			<a class="btn" href="/topic/airline-baggage-fees-and-carry-on-rules/">
+				<Icon name="plane" size={18} /> Start with airline baggage fees
+			</a>
+			<a class="btn ghost" href="mailto:iverjcalloway@gmail.com?subject=Hello%20from%20Baggage%20Gear">
+				<Icon name="mail" size={18} /> Email Iver
+			</a>
+		</div>
+		<ul class="finish-links">
+			<li><a href="/contact/">Contact page</a></li>
+			<li><a href="/disclosure/">How this site earns money</a></li>
+			<li><a href="https://www.facebook.com/IverCalloway/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+		</ul>
+		<p class="sign">Iver Calloway, Miami, Florida</p>
+	</section>
 </StaticPage>

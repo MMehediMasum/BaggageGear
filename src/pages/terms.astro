@@ -1,167 +1,152 @@
 ---
 import StaticPage from '../layouts/StaticPage.astro';
-
-const lastUpdated = 'October 5, 2026';
+import Icon from '../components/Icon.astro';
 ---
 
 <StaticPage
 	title="Terms & Conditions"
-	description="The terms and conditions governing your use of BaggageGear."
-	icon="📜"
+	description="The terms that apply when you use Baggage Gear, including content use, affiliate links, disclaimers and liability."
+	icon="scroll"
+	lead="The ground rules for using Baggage Gear, in plain language. The main point: it’s advice, so check the details before you travel."
+	c1="#2b3a4d"
+	c2="#5d7690"
+	updated="October 8, 2026"
 >
-	<p class="updated" style="margin-top:-1rem;">Last updated: {lastUpdated}</p>
+	<ul class="glance">
+		<li style="--c1:#2b3a4d;--c2:#6b8099">
+			<span class="chip sm"><Icon name="check" size={18} /></span>
+			<strong>Using the site</strong>
+			Use it lawfully. You may read and share links freely, and copy content for personal use only.
+		</li>
+		<li style="--c1:#9a4a07;--c2:#f0a02a">
+			<span class="chip sm"><Icon name="plane" size={18} /></span>
+			<strong>Travel rules change</strong>
+			Airline and TSA rules can change anytime. Confirm fees and limits before you fly.
+		</li>
+		<li style="--c1:#4a1d96;--c2:#8b5cf6">
+			<span class="chip sm"><Icon name="scale" size={18} /></span>
+			<strong>Your decisions</strong>
+			Content is informational. What you buy and how you travel is your call.
+		</li>
+	</ul>
 
 	<p>
-		Welcome to <strong>BaggageGear</strong>. By accessing or using our website, you agree to comply with and be
-		bound by the following <strong>Terms and Conditions</strong>. Please read them carefully. If you do not agree
-		to these terms, you should not use our website.
-	</p>
-	<p>
-		These Terms and Conditions ("Terms") govern your access to and use of <strong>BaggageGear.com</strong> (the
-		"Website"), including all content, services, and resources available through the Website.
+		Welcome to <strong>Baggage Gear</strong>. By using <strong>baggagegear.com</strong> (the “Website”), you agree
+		to these Terms and Conditions (the “Terms”). If you don’t agree, please don’t use the Website.
 	</p>
 
 	<h2>1. Acceptance of terms</h2>
 	<p>
-		By visiting or using BaggageGear, you confirm that you accept these Terms and agree to be legally bound by
-		them. These Terms apply to all visitors, users, and others who access the Website.
-	</p>
-	<p>
-		If you are using the Website on behalf of a company, organization, or legal entity, you agree that these
-		Terms apply to that entity, and you represent that you have the authority to bind that entity.
+		By visiting or using the Website, you confirm that you accept these Terms. They apply to all visitors and
+		users. If you use the Website for a company or organization, you confirm that you have authority to accept the
+		Terms on its behalf.
 	</p>
 
 	<h2>2. Use of the website</h2>
-	<p>You agree to use BaggageGear <strong>only for lawful purposes</strong>. You must not:</p>
+	<p>You agree to use Baggage Gear <strong>only for lawful purposes</strong>. You must not:</p>
 	<ul>
-		<li>Violate any applicable laws, regulations, or third-party rights</li>
-		<li>Post or transmit harmful, offensive, or inappropriate content</li>
-		<li>Attempt to gain unauthorized access to the Website, servers, or networks</li>
-		<li>Interfere with or disrupt the Website's security, functionality, or performance</li>
+		<li>Violate any law or the rights of others</li>
+		<li>Post or send harmful, offensive or inappropriate content</li>
+		<li>Try to gain unauthorized access to the Website, its servers or networks</li>
+		<li>Interfere with the Website’s security, functionality or performance</li>
 	</ul>
-	<p>BaggageGear reserves the right to <strong>suspend or terminate access</strong> to users who violate these Terms.</p>
+	<p>I may suspend or end access for anyone who breaks these Terms.</p>
 
 	<h2>3. Intellectual property</h2>
 	<p>
-		All content on BaggageGear, including but not limited to <strong>text, images, graphics, logos, videos, and
-		digital downloads</strong>, is the property of BaggageGear or its content partners and is protected by
-		copyright, trademark, and other intellectual property laws.
+		Text, images, graphics, logos and other content on the Website belong to Baggage Gear or its content partners
+		and are protected by copyright, trademark and other laws. Brand names and product images belong to their
+		owners.
 	</p>
 	<p>
-		You may <strong>view, download, or print content</strong> for personal, non-commercial use only. Any
-		<strong>unauthorized use, reproduction, or distribution</strong> of the Website's content is strictly
-		prohibited without prior written permission from BaggageGear.
+		You may view, download or print content for <strong>personal, non-commercial use</strong>. Copying,
+		republishing or distributing it otherwise requires my written permission.
 	</p>
 
 	<h2>4. Affiliate links and advertising</h2>
 	<p>
-		BaggageGear contains <strong>affiliate links and advertisements</strong>. This means we may earn a commission
-		if you purchase products through these links at no extra cost to you.
+		The Website contains affiliate links and advertisements. I may earn a commission if you buy through a link,
+		at no extra cost to you. Recommendations rest on testing, research and relevance to readers rather than
+		commission potential. See the <a href="/disclosure/">Disclosure page</a> for details. You acknowledge that:
 	</p>
-	<p>
-		We participate in affiliate programs to support the Website and continue providing high-quality content. Our
-		product recommendations are based on <strong>research, experience, and relevance to our audience</strong>, not
-		on commission potential. Full details are on our <a href="/disclosure/">Disclosure page</a>.
-	</p>
-	<p>By using the Website, you acknowledge and accept that:</p>
 	<ul>
-		<li>We may receive compensation from affiliated companies</li>
-		<li>We do not guarantee the quality, performance, or availability of products sold by third parties</li>
-		<li>All purchases are subject to the terms and policies of the respective retailer</li>
+		<li>I may receive compensation from affiliated companies</li>
+		<li>I don’t guarantee the quality, performance or availability of products sold by third parties</li>
+		<li>Purchases are subject to the retailer’s terms and policies</li>
 	</ul>
 
 	<h2>5. User content</h2>
-	<p>
-		BaggageGear may allow users to <strong>submit comments, reviews, or other content</strong> ("User Content").
-		By submitting User Content, you:
-	</p>
+	<p>If the Website allows comments or other submissions (“User Content”), by submitting it you:</p>
 	<ul>
-		<li>Grant BaggageGear a <strong>non-exclusive, royalty-free, worldwide license</strong> to use, modify, and display the content</li>
-		<li>Confirm that the content does not infringe any third-party rights or violate any laws</li>
-		<li>Agree that BaggageGear may remove or edit any User Content at its discretion</li>
+		<li>Grant Baggage Gear a non-exclusive, royalty-free, worldwide license to use, modify and display it</li>
+		<li>Confirm it doesn’t infringe anyone’s rights or break any law</li>
+		<li>Accept that I may edit or remove it at my discretion</li>
 	</ul>
-	<p>You are solely responsible for any content you submit, and BaggageGear is not liable for your submissions.</p>
+	<p>You are solely responsible for what you submit.</p>
 
 	<h2>6. Disclaimers</h2>
-	<div class="note-box warm">
-		<span class="note-icon">ℹ️</span>
-		<span>
-			BaggageGear provides content for <strong>informational and educational purposes only</strong>. We do not
-			provide professional, legal, medical, or financial advice.
-		</span>
+	<div class="callout warm">
+		<span class="chip sm"><Icon name="alert" size={18} /></span>
+		<div>
+			<strong>Baggage and travel rules change.</strong> Airline fees, bag size and weight limits, and TSA or
+			venue bag policies are updated often. I work to keep articles current, but always confirm with your
+			airline, TSA or the venue before you travel.
+		</div>
 	</div>
+	<p>
+		Baggage Gear provides content for <strong>informational and educational purposes only</strong>. It is not
+		professional, legal, medical or financial advice.
+	</p>
 	<ul>
-		<li><strong>Product Information:</strong> We strive for accuracy, but we do not guarantee that product descriptions, pricing, or availability are complete or current.</li>
-		<li><strong>User Decisions:</strong> Any decisions made based on our content are your responsibility.</li>
-		<li><strong>Results:</strong> We do not guarantee results from using products, tips, or guides mentioned on the Website.</li>
+		<li><strong>Product information:</strong> descriptions, prices and availability may be incomplete or out of date.</li>
+		<li><strong>Your decisions:</strong> anything you decide based on this content is your responsibility.</li>
+		<li><strong>Results:</strong> I can’t guarantee how a product or tip will work for you or your trip.</li>
 	</ul>
-	<p>All content is provided "as is" without warranties of any kind, either express or implied.</p>
+	<p>Content is provided “as is,” without warranties of any kind, express or implied.</p>
 
 	<h2>7. Limitation of liability</h2>
-	<p>To the fullest extent permitted by law, BaggageGear and its team <strong>shall not be liable</strong> for:</p>
+	<p>To the fullest extent the law allows, Baggage Gear and its author are not liable for:</p>
 	<ul>
-		<li>Any direct, indirect, incidental, or consequential damages</li>
-		<li>Loss of data, income, or profits arising from the use of the Website</li>
-		<li>Any errors, inaccuracies, or omissions in content or links</li>
+		<li>Direct, indirect, incidental or consequential damages</li>
+		<li>Loss of data, income or profits arising from use of the Website</li>
+		<li>Errors, inaccuracies or omissions in content or links</li>
+		<li>Fees, delays or denied boarding caused by relying on out-of-date baggage information</li>
 	</ul>
-	<p>
-		By using the Website, you agree that your use is at your <strong>own risk</strong>, and BaggageGear cannot be
-		held responsible for any outcomes resulting from your use of our content.
-	</p>
+	<p>You use the Website at your own risk.</p>
 
 	<h2>8. Third-party links</h2>
 	<p>
-		The Website may contain links to third-party websites. These links are provided for your convenience and do
-		not constitute endorsement.
-	</p>
-	<p>
-		BaggageGear is <strong>not responsible for the content, products, services, or policies</strong> of any
-		third-party websites. You acknowledge and agree that we are not liable for any loss or damage caused by your
-		use of such sites.
+		Links to other websites are for convenience and don’t imply endorsement. I’m not responsible for the content,
+		products, services or policies of third-party sites.
 	</p>
 
 	<h2>9. Privacy</h2>
 	<p>
-		Your privacy is important to us. Our <a href="/privacy-policy/"><strong>Privacy Policy</strong></a> explains
-		how we collect, use, and protect your information. By using the Website, you agree to our Privacy Policy and
-		consent to the collection and use of your information as described.
+		Our <a href="/privacy-policy/"><strong>Privacy Policy</strong></a> explains how information is collected and
+		used. By using the Website, you agree to it.
 	</p>
 
 	<h2>10. Governing law</h2>
 	<p>
-		These Terms are governed by and construed in accordance with the
-		<strong>laws of [Your Country – e.g., Bangladesh]</strong>, without regard to its conflict of law principles.
-	</p>
-	<p>
-		Any disputes arising from the use of the Website or these Terms shall be subject to the
-		<strong>exclusive jurisdiction of the courts</strong> in [Your Country – e.g., Dhaka, Bangladesh].
+		These Terms are governed by the laws of the <strong>State of Florida, United States</strong>, without regard
+		to conflict-of-law principles. Disputes relating to the Website or these Terms are subject to the
+		jurisdiction of the courts located in <strong>Florida</strong>.
 	</p>
 
 	<h2>11. Termination</h2>
 	<p>
-		BaggageGear reserves the right to <strong>terminate or suspend access</strong> to the Website, for any
-		reason, including violation of these Terms.
-	</p>
-	<p>
-		Upon termination, all rights granted to you under these Terms <strong>immediately cease</strong>, and you must
-		discontinue all use of the Website's content and services.
+		I may suspend or end your access to the Website at any time, including for breaking these Terms. When that
+		happens, your rights under the Terms end immediately and you must stop using the Website’s content.
 	</p>
 
-	<h2>12. Modifications to terms</h2>
+	<h2>12. Changes to the terms</h2>
 	<p>
-		BaggageGear may <strong>update or revise these Terms at any time</strong> without prior notice. Changes will
-		be posted on this page with a revised "Last updated" date, and your continued use of the Website constitutes
-		acceptance of the updated Terms.
-	</p>
-	<p>
-		We encourage users to <strong>review this page periodically</strong> to stay informed about the rules and
-		policies governing your use of the Website.
+		I may update these Terms at any time. Changes appear on this page with a new “Last updated” date, and
+		continued use of the Website means you accept them.
 	</p>
 
-	<h2>13. Contact information</h2>
+	<h2>13. Contact</h2>
 	<p>
-		If you have questions, concerns, or feedback regarding these Terms and Conditions, please contact us via our
-		<a href="/contact/"><strong>Contact Page</strong></a>. We are happy to provide clarifications and address any
-		issues promptly.
+		Questions about these Terms? Reach me through the <a href="/contact/"><strong>Contact page</strong></a>.
 	</p>
 </StaticPage>

@@ -1,199 +1,112 @@
 ---
 import StaticPage from '../layouts/StaticPage.astro';
-
-const lastUpdated = 'October 5, 2026';
+import Icon from '../components/Icon.astro';
 ---
 
 <StaticPage
 	title="Disclosure"
-	description="BaggageGear's disclosure covering affiliate relationships, sponsored content, advertising, product reviews, and editorial integrity."
-	icon="💰"
+	description="How Baggage Gear earns money: affiliate links, sponsored content and ads, and the editorial rules that keep reviews honest."
+	icon="coins"
+	lead="This site earns money in a few ways. Here they all are, and here is why none of them decide what I recommend."
+	c1="#9a4a07"
+	c2="#d9822b"
+	updated="October 8, 2026"
 >
-	<p class="updated" style="margin-top:-1rem;">Last updated: {lastUpdated}</p>
-
-	<p>
-		At <strong>BaggageGear</strong>, we believe in <strong>transparency, honesty, and trust</strong>. As a website
-		that provides product reviews, buying guides, and travel gear recommendations, it's important for our readers
-		to understand how we operate, how we earn revenue, and how we maintain integrity in all our content. This
-		disclosure explains our practices, affiliations, and policies to ensure you have complete clarity while using
-		our website.
-	</p>
-
-	<h2>Affiliate relationships</h2>
-	<p>
-		Some of the products and services featured on BaggageGear are linked to <strong>affiliate programs</strong>.
-		This means that we may earn a <strong>small commission</strong> if you make a purchase through these links,
-		<strong>at no additional cost to you</strong>.
-	</p>
-	<p>We are a participant in various affiliate programs, including but not limited to:</p>
-	<ul>
-		<li>Amazon Associates Program</li>
-		<li>Other travel and lifestyle retailer affiliate programs</li>
+	<ul class="glance">
+		<li style="--c1:#9a4a07;--c2:#f0a02a">
+			<span class="chip sm"><Icon name="link" size={18} /></span>
+			<strong>Affiliate links</strong>
+			If you buy through some links, I may earn a commission at no extra cost to you.
+		</li>
+		<li style="--c1:#4a1d96;--c2:#8b5cf6">
+			<span class="chip sm"><Icon name="megaphone" size={18} /></span>
+			<strong>Sponsored posts</strong>
+			Always labeled “Sponsored” or “Paid Partnership,” and held to the same standards.
+		</li>
+		<li style="--c1:#0b5f59;--c2:#1fb5a6">
+			<span class="chip sm"><Icon name="scale" size={18} /></span>
+			<strong>Independent verdicts</strong>
+			Money never decides which bag wins, or what I say about its flaws.
+		</li>
 	</ul>
-	<div class="note-box">
-		<span class="note-icon">💵</span>
-		<span>
-			<strong>As an Amazon Associate, we earn from qualifying purchases.</strong> BaggageGear is a participant in
+
+	<p>
+		I’m Iver Calloway, and I want you to know how Baggage Gear pays for itself before you act on anything I
+		write. Plain disclosure is part of the job when you’re telling people what to buy.
+	</p>
+
+	<h2>Affiliate links</h2>
+	<p>
+		Some products and services here link to affiliate programs. If you purchase through one of those links, I may
+		earn a small commission, <strong>at no additional cost to you</strong>. The programs I take part in include:
+	</p>
+	<ul>
+		<li>The Amazon Associates Program</li>
+		<li>Other travel and retail affiliate programs</li>
+	</ul>
+	<div class="callout">
+		<span class="chip sm"><Icon name="coins" size={18} /></span>
+		<div>
+			<strong>As an Amazon Associate, I earn from qualifying purchases.</strong> Baggage Gear participates in
 			the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means
-			for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
-		</span>
+			for sites to earn fees by linking to Amazon.com and affiliated sites.
+		</div>
 	</div>
 	<p>
-		These programs help support our website and allow us to continue producing high-quality content. Importantly,
-		our participation in these programs <strong>does not influence our recommendations or reviews</strong>. Every
-		product we feature is carefully researched and evaluated based on quality, usability, and value.
+		A commission never changes a ranking. A bag I recommend earns its place by surviving real travel, and I do
+		mention the ones that don’t.
 	</p>
 
-	<h3>How we choose products</h3>
-	<p>We select products for review and recommendation based on:</p>
+	<h2>How I choose and test products</h2>
+	<p>My goal is to review bags the way they actually get used. In practice that works like this:</p>
 	<ol>
-		<li><strong>Quality:</strong> We prioritize products that are durable, reliable, and well-made.</li>
-		<li><strong>User Experience:</strong> We consider ease of use, convenience, and design.</li>
-		<li><strong>Value for Money:</strong> We focus on products that provide a good balance of quality and price.</li>
-		<li><strong>Reader Relevance:</strong> Products are chosen based on relevance to our audience of travelers, parents, and everyday adventurers.</li>
+		<li><strong>Durability first.</strong> Wheels, zippers, handles and fabric, judged after real transit abuse.</li>
+		<li><strong>Everyday use.</strong> Packing space, access, carrying comfort and fit within airline limits.</li>
+		<li><strong>Value.</strong> What the bag costs against what it delivers over many trips.</li>
+		<li><strong>Relevance.</strong> Products that suit frequent flyers and vacation travelers.</li>
 	</ol>
-	<p>
-		Our goal is to ensure that every recommendation genuinely benefits our readers and enhances their travel or
-		daily experience.
-	</p>
+	<div class="callout warm">
+		<span class="chip sm"><Icon name="info" size={18} /></span>
+		<div>
+			<strong>Tested versus researched.</strong> I put as many bags through real travel as I can, but I can’t
+			test everything personally. Where a review rests on research, owner feedback or expert sources instead of
+			my own trips, the article says so.
+		</div>
+	</div>
 
 	<h2>Sponsored content</h2>
 	<p>
-		Occasionally, BaggageGear may publish <strong>sponsored posts or reviews</strong> in partnership with brands
-		and companies. These posts are clearly labeled as "Sponsored" or "Paid Partnership."
+		Now and then I may publish sponsored posts or work with a brand. These are clearly labeled, and I disclose any
+		material connection. A sponsor can supply a product or fund a post, but it cannot approve my verdict or ask me
+		to hide a flaw.
 	</p>
-	<p>Even in sponsored content, our <strong>editorial standards remain strict</strong>:</p>
-	<ul>
-		<li>We provide honest, unbiased opinions.</li>
-		<li>We disclose any material connections to the brand.</li>
-		<li>We aim to provide useful information, tips, and insights that benefit our readers.</li>
-	</ul>
-	<p>Our commitment is always to <strong>maintain transparency</strong> while providing valuable and informative content.</p>
 
 	<h2>Advertising</h2>
 	<p>
-		BaggageGear may display advertisements through various networks, including Google AdSense or other
-		third-party providers. These ads may be targeted based on your interests, browsing behavior, or website
-		activity.
+		Baggage Gear may display ads through networks such as Google AdSense. Ads can be personalized based on your
+		browsing, and I don’t control every ad that appears. Advertising has no influence on my editorial content. Our
+		<a href="/privacy-policy/">Privacy Policy</a> explains how cookies work.
 	</p>
-	<p>
-		We do not have direct control over every ad you see, and the presence of ads
-		<strong>does not influence our editorial content or product recommendations</strong>. Our editorial integrity
-		is always independent of advertising partnerships. See our <a href="/privacy-policy/">Privacy Policy</a> for
-		more on how cookies are used.
-	</p>
-
-	<h2>Product reviews and opinions</h2>
-	<p>
-		All reviews, guides, and recommendations on BaggageGear reflect our <strong>honest opinions</strong>. While we
-		strive to test products personally, some products may be reviewed based on
-		<strong>thorough research, customer feedback, and expert insights</strong>.
-	</p>
-	<p>Key points about our reviews:</p>
-	<ul>
-		<li><strong>Accuracy:</strong> We aim to provide accurate and up-to-date information.</li>
-		<li><strong>Honesty:</strong> Positive and negative aspects of a product are disclosed.</li>
-		<li><strong>Transparency:</strong> Affiliate relationships and sponsored content are clearly identified.</li>
-	</ul>
-	<p>Your trust is our priority, and we never compromise our recommendations for profit or sponsorship.</p>
 
 	<h2>Third-party links</h2>
 	<p>
-		BaggageGear may contain links to third-party websites, including online stores, travel services, and other
-		resources. These links are provided for <strong>convenience and reference</strong>.
-	</p>
-	<p>Important notes:</p>
-	<ul>
-		<li>We do not control third-party websites and are not responsible for their content, products, or privacy practices.</li>
-		<li>Any transactions or interactions with third-party sites are <strong>solely between you and the third-party provider</strong>.</li>
-		<li>We recommend reviewing the terms, policies, and disclosures of any third-party site before making purchases or sharing personal information.</li>
-	</ul>
-	<p>Using external links does not imply endorsement or guarantee of any products or services.</p>
-
-	<h2>Earnings disclaimer</h2>
-	<p>
-		While BaggageGear may generate revenue through affiliate commissions, sponsorships, or advertising,
-		<strong>earnings and income potential mentioned on the website are not guaranteed</strong>.
-	</p>
-	<p>Factors that affect revenue from products or services include:</p>
-	<ul>
-		<li>Your location and access to retailers</li>
-		<li>Product availability and pricing changes</li>
-		<li>Your personal usage and choices</li>
-	</ul>
-	<p>All income or savings claims are based on estimates, research, and publicly available information. Individual results may vary.</p>
-
-	<h2>Testimonials and reader feedback</h2>
-	<p>
-		BaggageGear may publish <strong>testimonials, comments, or feedback</strong> from readers, customers, or
-		partners. While we aim to present authentic experiences,
-		<strong>results and opinions shared by others do not guarantee the same outcome for you</strong>.
-	</p>
-	<p>
-		We encourage readers to use our guides and recommendations as <strong>informative resources</strong>, while
-		making independent decisions based on their unique needs and circumstances.
+		Links to stores, airlines and other sites are there for your convenience. I don’t control those sites, and a
+		link isn’t an endorsement of everything on them. Check their terms and policies before you buy or share
+		personal information. Airline baggage rules in particular can change, so confirm fees and limits with the
+		airline before you fly.
 	</p>
 
 	<h2>Editorial integrity</h2>
-	<p>
-		Our editorial team at BaggageGear maintains <strong>strict independence from brands and advertisers</strong>.
-		Editorial decisions are based solely on:
-	</p>
-	<ul>
-		<li>Product performance and usability</li>
-		<li>Relevance to our audience</li>
-		<li>Trustworthiness of sources and research</li>
+	<ul class="ticks">
+		<li>Recommendations are based on performance, usability, value and relevance to you.</li>
+		<li>Positive and negative points are both reported.</li>
+		<li>Affiliate relationships and sponsorships are identified.</li>
+		<li>I follow the FTC’s guidelines on endorsements and disclosures.</li>
 	</ul>
-	<p>
-		We never allow sponsorships, affiliate relationships, or advertising to influence the accuracy, tone, or
-		integrity of our content.
-	</p>
 
-	<h2>Privacy and personal data</h2>
+	<h2>Questions or updates</h2>
 	<p>
-		BaggageGear respects your <strong>privacy and personal information</strong>. We may collect non-personal
-		information such as website usage data, browser type, and pages visited to improve our services and provide a
-		better user experience.
-	</p>
-	<p>For personal information collected through forms, subscriptions, or contact pages:</p>
-	<ul>
-		<li>We will only use your information for communication and service purposes.</li>
-		<li>We do not sell or share your personal data with unauthorized third parties.</li>
-		<li>We adhere to privacy best practices to keep your information secure.</li>
-	</ul>
-	<p>For more details, please refer to our <a href="/privacy-policy/">Privacy Policy</a>.</p>
-
-	<h2>Compliance with regulations</h2>
-	<p>BaggageGear complies with applicable laws and guidelines, including:</p>
-	<ul>
-		<li><strong>FTC Guidelines</strong> for affiliate disclosure and sponsored content</li>
-		<li><strong>Advertising standards</strong> for online promotions</li>
-		<li><strong>Consumer protection laws</strong> for accurate product representation</li>
-	</ul>
-	<p>
-		We are committed to <strong>transparency and compliance</strong>, ensuring that our readers have all the
-		information needed to make informed decisions.
-	</p>
-
-	<h2>Commitment to honesty</h2>
-	<p>
-		At the heart of BaggageGear is our commitment to <strong>honest and trustworthy communication</strong>. We
-		aim to:
-	</p>
-	<ul>
-		<li>Clearly identify affiliate links and sponsored content</li>
-		<li>Provide unbiased reviews and practical advice</li>
-		<li>Maintain transparency in all aspects of our website</li>
-	</ul>
-	<p>Your confidence in our recommendations is essential, and we work diligently to uphold this trust every day.</p>
-
-	<h2>Updates to our disclosure</h2>
-	<p>
-		BaggageGear reserves the right to <strong>update or modify this disclosure</strong> at any time to reflect
-		changes in affiliate relationships, advertising partnerships, or website policies.
-	</p>
-	<p>
-		We encourage readers to <strong>check this page periodically</strong> to stay informed about how we operate
-		and maintain transparency. Questions? Visit our <a href="/contact/">Contact page</a>.
+		I may update this page as the site changes, and I’ll change the date above when I do. Questions about how
+		Baggage Gear earns money? <a href="/contact/">Ask me on the Contact page</a>.
 	</p>
 </StaticPage>

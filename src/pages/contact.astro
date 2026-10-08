@@ -1,21 +1,71 @@
 ---
 import StaticPage from '../layouts/StaticPage.astro';
+import Icon from '../components/Icon.astro';
 ---
 
 <StaticPage
-	title="Contact Us"
-	description="Get in touch with the BaggageGear team with questions about travel bags, backpacks, bag care, or family travel gear."
-	icon="📬"
+	title="Contact"
+	description="Contact Iver Calloway at Baggage Gear with luggage questions, corrections, partnership ideas or press and speaking requests."
+	icon="mail"
+	lead="Questions about a bag, a baggage rule or a review? Write to me directly. I’m Iver, and I read every message."
+	c1="#0b5f59"
+	c2="#1fb5a6"
 >
+	<div class="channels">
+		<a class="channel" style="--c1:#0a3d62;--c2:#2380c4" href="mailto:iverjcalloway@gmail.com?subject=Question%20about%20luggage%20or%20baggage%20rules">
+			<span class="chip"><Icon name="luggage" /></span>
+			<strong>Ask a luggage question</strong>
+			<span class="desc">Choosing a bag, fitting a carry-on, comparing models, or sorting out a packing plan.</span>
+			<span class="go">Email a question</span>
+		</a>
+		<a class="channel" style="--c1:#9a4a07;--c2:#f0a02a" href="mailto:iverjcalloway@gmail.com?subject=Correction%20or%20policy%20update">
+			<span class="chip"><Icon name="flag" /></span>
+			<strong>Report a correction</strong>
+			<span class="desc">Spotted an outdated fee, size limit or detail? Send the page and the source and I’ll fix it.</span>
+			<span class="go">Send a correction</span>
+		</a>
+		<a class="channel" style="--c1:#4a1d96;--c2:#8b5cf6" href="mailto:iverjcalloway@gmail.com?subject=Partnership%20or%20collaboration">
+			<span class="chip"><Icon name="users" /></span>
+			<strong>Partnerships and brands</strong>
+			<span class="desc">Collaborations, review samples and consulting. See the note below on how I handle them.</span>
+			<span class="go">Start a conversation</span>
+		</a>
+		<a class="channel" style="--c1:#8a1546;--c2:#e5568a" href="mailto:iverjcalloway@gmail.com?subject=Press%20or%20speaking%20inquiry">
+			<span class="chip"><Icon name="mic" /></span>
+			<strong>Press and speaking</strong>
+			<span class="desc">Interviews, quotes on baggage policy, talks and events.</span>
+			<span class="go">Send an inquiry</span>
+		</a>
+	</div>
+
 	<p>
-		We'd love to hear from you! At <strong>BaggageGear</strong>, your feedback, questions, and suggestions are
-		important to us. Whether you're looking for advice on travel bags, backpacks, bag care, or family travel gear,
-		we are here to help.
+		Prefer to write your own message? Email <a href="mailto:iverjcalloway@gmail.com">iverjcalloway@gmail.com</a>.
+		I’m based in Miami, Florida, and I answer personally.
 	</p>
 
-	<h2>Email</h2>
+	<h2>Help me help you</h2>
+	<ul class="ticks">
+		<li><strong>Name the bag.</strong> Brand, model and size make an answer much more useful.</li>
+		<li><strong>Name the airline and route.</strong> Baggage rules differ by carrier, fare type and sometimes route.</li>
+		<li><strong>Tell me the date.</strong> Fees and limits change, so I need to know when you saw the rule.</li>
+		<li><strong>Send the link.</strong> If you’re reporting a mistake, include the page address and, if you can, the airline’s own source.</li>
+	</ul>
+
+	<h2>What I can’t do</h2>
+	<div class="callout warm">
+		<span class="chip sm"><Icon name="alert" size={18} /></span>
+		<div>
+			<strong>I can’t handle claims or act for brands and airlines.</strong> Baggage Gear is an independent
+			review site. I can’t trace a lost bag, file a damage claim, or change an order. For those, contact your
+			airline’s baggage service or the retailer you bought from. I can point you to what to ask, though.
+		</div>
+	</div>
+
+	<h2>Partnership requests</h2>
 	<p>
-		The fastest way to reach us is by email:
-		<a href="mailto:YOUR-EMAIL@example.com">YOUR-EMAIL@example.com</a>
+		I’m open to collaborations, but products and sponsors don’t buy a good review. Anything sponsored is labeled
+		as such, and I report failures as plainly as successes. The full policy is on the
+		<a href="/disclosure/">Disclosure page</a>. If you write for a brand, expect me to ask how I’ll be free to
+		say what I find.
 	</p>
 </StaticPage>
