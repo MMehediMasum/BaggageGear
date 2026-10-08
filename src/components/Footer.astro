@@ -1,13 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
-import { slugify } from '../utils/slug';
 import { SITE_TITLE } from '../consts';
 import Icon from './Icon.astro';
 
 const today = new Date();
-
-const posts = await getCollection('blog');
-const topics = [...new Set(posts.map((post) => post.data.topic).filter(Boolean))].sort();
 
 const normalize = (path: string) => path.replace(/\/+$/, '') || '/';
 const footerLinks = [
@@ -53,19 +48,6 @@ const footerLinks = [
 					</a>
 				</div>
 			</div>
-
-			<nav class="footer-col" aria-label="Topics">
-				<h2 class="col-title">Topics</h2>
-				<ul>
-					{
-						topics.map((topic) => (
-							<li>
-								<a href={`/topic/${slugify(topic)}/`}>{topic}</a>
-							</li>
-						))
-					}
-				</ul>
-			</nav>
 
 			<nav class="footer-col" aria-label="Footer">
 				<h2 class="col-title">{SITE_TITLE}</h2>
@@ -113,7 +95,7 @@ const footerLinks = [
 	}
 	.footer-grid {
 		display: grid;
-		grid-template-columns: 1.4fr 1.3fr 1fr;
+		grid-template-columns: 1.6fr 1fr;
 		gap: 2.5em 3em;
 	}
 
@@ -237,14 +219,6 @@ const footerLinks = [
 		white-space: nowrap;
 	}
 
-	@media (max-width: 860px) {
-		.footer-grid {
-			grid-template-columns: 1fr 1fr;
-		}
-		.footer-brand {
-			grid-column: 1 / -1;
-		}
-	}
 	@media (max-width: 560px) {
 		.site-footer {
 			padding-top: 2.6em;
