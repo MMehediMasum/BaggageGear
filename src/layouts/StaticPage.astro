@@ -31,18 +31,6 @@ const {
 	updated,
 	wide = false,
 } = Astro.props;
-
-const here = Astro.url.pathname.replace(/\/$/, '') || '/';
-
-const pages = [
-	{ href: '/', label: 'Home', icon: 'home' },
-	{ href: '/about/', label: 'About', icon: 'user' },
-	{ href: '/contact/', label: 'Contact', icon: 'mail' },
-	{ href: '/disclosure/', label: 'Disclosure', icon: 'coins' },
-	{ href: '/privacy-policy/', label: 'Privacy Policy', icon: 'lock' },
-	{ href: '/terms/', label: 'Terms', icon: 'scroll' },
-];
-const relatedPages = pages.filter((p) => (p.href.replace(/\/$/, '') || '/') !== here);
 ---
 
 <!doctype html>
@@ -71,23 +59,6 @@ const relatedPages = pages.filter((p) => (p.href.replace(/\/$/, '') || '/') !== 
 			<div class="static-page">
 				<slot />
 			</div>
-			<nav class="related-nav static-page" aria-label="More pages">
-				<h2>More from Baggage Gear</h2>
-				<ul class="related-links">
-					{
-						relatedPages.map((p) => (
-							<li>
-								<a href={p.href}>
-									<span class="mini">
-										<Icon name={p.icon} size={15} />
-									</span>
-									{p.label}
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</nav>
 		</main>
 		<Footer />
 	</body>

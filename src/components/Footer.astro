@@ -1,13 +1,16 @@
 ---
+import Icon from './Icon.astro';
+
 const today = new Date();
 
+const normalize = (path: string) => path.replace(/\/+$/, '') || '/';
 const footerLinks = [
-	{ href: '/about/', label: 'About' },
-	{ href: '/contact/', label: 'Contact' },
-	{ href: '/privacy-policy/', label: 'Privacy Policy' },
-	{ href: '/disclosure/', label: 'Disclosure' },
-	{ href: '/terms/', label: 'Terms' },
-];
+	{ href: '/about/', label: 'About Us', icon: 'user' },
+	{ href: '/contact/', label: 'Contact', icon: 'mail' },
+	{ href: '/privacy-policy/', label: 'Privacy Policy', icon: 'lock' },
+	{ href: '/disclosure/', label: 'Disclosure', icon: 'coins' },
+	{ href: '/terms/', label: 'Terms', icon: 'scroll' },
+].filter((link) => normalize(link.href) !== normalize(Astro.url.pathname));
 ---
 
 <footer>
@@ -16,7 +19,12 @@ const footerLinks = [
 			{
 				footerLinks.map((link) => (
 					<li>
-						<a href={link.href}>{link.label}</a>
+						<a href={link.href}>
+							<span class="mini">
+								<Icon name={link.icon} size={15} />
+							</span>
+							{link.label}
+						</a>
 					</li>
 				))
 			}
@@ -67,24 +75,59 @@ const footerLinks = [
 		color: rgb(var(--gray));
 		text-align: center;
 	}
+	.footer-menu {
+		--pill-bg: #ffffff;
+		--pill-line: rgba(96, 115, 159, 0.25);
+	}
+	:global(:root[data-theme='dark']) .footer-menu {
+		--pill-bg: #161b26;
+		--pill-line: rgba(148, 163, 184, 0.25);
+	}
 	.footer-menu ul {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
-		gap: 0.4em 1.4em;
+		gap: 0.7em;
 		list-style: none;
-		margin: 0 0 1em;
+		margin: 0 0 1.2em;
 		padding: 0;
 	}
 	.footer-menu a {
-		color: rgb(var(--gray-dark));
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5em;
+		padding: 0.5em 1em 0.5em 0.6em;
+		background: var(--pill-bg);
+		border: 1px solid var(--pill-line);
+		border-radius: 999px;
+		color: rgb(var(--black));
 		text-decoration: none;
 		font-size: 0.9em;
 		font-weight: 600;
+		transition: 0.15s ease;
 	}
 	.footer-menu a:hover {
-		color: var(--accent);
-		text-decoration: underline;
+		border-color: var(--accent);
+		transform: translateY(-1px);
+	}
+	.footer-menu a:focus-visible {
+		outline: 3px solid var(--accent);
+		outline-offset: 3px;
+	}
+	.footer-menu .mini {
+		width: 28px;
+		height: 28px;
+		border-radius: 50%;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		color: #fff;
+		background: var(--accent-dark);
+	}
+	@media (prefers-reduced-motion: reduce) {
+		.footer-menu a {
+			transition: none;
+		}
 	}
 	.social-links {
 		display: flex;
