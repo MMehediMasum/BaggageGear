@@ -23,10 +23,10 @@ Some are reusable, while others offer multiple pairs for long-term care. Using e
 
 
 
-## <a href="https://www.amazon.com/dp/B014E2D6BY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Grace &amp; Stella Award Winning Under Eye Mask</a>
+## <a href="https://www.amazon.com/dp/B014E2D6BY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Grace &amp; Stella Award Winning Under Eye Mask</a>
 
 
-<a href="https://www.amazon.com/dp/B014E2D6BY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="grace &amp; stella Award Winning Under Eye Mask - Travel Essentials - Birthday Gifts for Women - Gel Eye Patches for Dark Circles, Puffy Eyes, Wrinkles, Undereye Bags - Vegan - Self Care (24 Pairs, Gold)" src="https://m.media-amazon.com/images/I/41UhpYOwtPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B014E2D6BY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="grace &amp; stella Award Winning Under Eye Mask - Travel Essentials - Birthday Gifts for Women - Gel Eye Patches for Dark Circles, Puffy Eyes, Wrinkles, Undereye Bags - Vegan - Self Care (24 Pairs, Gold)" src="https://m.media-amazon.com/images/I/41UhpYOwtPL._SL500_.jpg"/></a>
 
 
 Ideal for individuals seeking an effective solution to combat **dark circles**, **puffy eyes**, and **undereye bags**, the **grace & stella Award Winning Under Eye Mask** is perfect for those who prioritize self-care and want a convenient, travel-friendly skincare option. This product is especially suitable for women looking for a **vegan**, gentle, and rejuvenating treatment to refresh tired eyes and reduce the visible signs of aging such as **wrinkles**.
@@ -49,10 +49,10 @@ The **grace & stella Award Winning Under Eye Mask** features a carefully crafted
 
 Beyond its aesthetic appeal, the product’s **vegan** certification ensures it aligns with ethical beauty standards, making it a thoughtful gift choice for women who appreciate cruelty-free skincare. Regular use helps diminish the appearance of fine lines and enhances skin elasticity, providing a soothing and rejuvenating experience that complements any beauty regimen.
 
-## <a href="https://www.amazon.com/dp/B0CTK5ZTNK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Under Eye Patches</a>
+## <a href="https://www.amazon.com/dp/B0CTK5ZTNK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Under Eye Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTK5ZTNK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Under Eye Patches, 40 Pairs Eye Mask for Dark Circles, Puffy Eyes, Undereye Bags,Wrinkles,Eye Mask Patches with 24K Gold, Hyaluronic Acid,Rose &amp; Aloe Vera, Eye Treatment Skin Care for Men &amp; Women Gift" src="https://m.media-amazon.com/images/I/51kIAKZFUUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTK5ZTNK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Under Eye Patches, 40 Pairs Eye Mask for Dark Circles, Puffy Eyes, Undereye Bags,Wrinkles,Eye Mask Patches with 24K Gold, Hyaluronic Acid,Rose &amp; Aloe Vera, Eye Treatment Skin Care for Men &amp; Women Gift" src="https://m.media-amazon.com/images/I/51kIAKZFUUL._SL500_.jpg"/></a>
 
 
 Ideal for both men and women looking to combat signs of fatigue such as **dark circles**, **puffy eyes**, and **undereye bags**, these **Under Eye Patches** by USTELIR offer a luxurious and effective skincare solution. Perfect for those who want to rejuvenate their eye area with a quick and easy treatment, these patches are designed to target wrinkles and provide deep hydration, making them suitable for anyone seeking a refreshed and youthful look.
@@ -76,10 +76,10 @@ These **Under Eye Patches** are expertly formulated to deliver targeted treatmen
 
 With a generous supply of **40 pairs**, these eye masks offer excellent value and convenience for regular skincare routines. The variety of colors adds a fun and personalized touch to your self-care regimen. Whether you need a quick pick-me-up after a long day or want to maintain youthful eyes, these patches provide a simple and effective solution for everyday eye treatment. Their easy application and fast-absorbing formula ensure that users can enjoy the benefits without any hassle, making them a must-have in any skincare collection.
 
-## <a href="https://www.amazon.com/dp/B09NXS395V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nazano 24k Gold Under Eye Patches</a>
+## <a href="https://www.amazon.com/dp/B09NXS395V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nazano 24k Gold Under Eye Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B09NXS395V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NAZANO 24K Gold Under Eye Patches - 60 Pack for Puffy Eyes, Dark Circles, Bags &amp; Wrinkles with Collagen &amp; Hyaluronic Acid" src="https://m.media-amazon.com/images/I/41ZHn0qwWwL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09NXS395V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NAZANO 24K Gold Under Eye Patches - 60 Pack for Puffy Eyes, Dark Circles, Bags &amp; Wrinkles with Collagen &amp; Hyaluronic Acid" src="https://m.media-amazon.com/images/I/41ZHn0qwWwL._SL500_.jpg"/></a>
 
 
 The **NAZANO 24K Gold Under Eye Patches** are ideal for individuals struggling with **puffy eyes**, **dark circles**, **under-eye bags**, or early signs of **wrinkles**. If you are someone looking to rejuvenate the delicate skin around your eyes with an effective and luxurious skincare solution, these patches are designed to provide targeted relief and nourishment. They are perfect for those who want to incorporate anti-aging ingredients like **collagen** and **hyaluronic acid** into their routine with ease.
@@ -101,10 +101,10 @@ The **NAZANO 24K Gold Under Eye Patches** feature a unique formula that combines
 
 Using these patches regularly helps to boost skin hydration and promote collagen production, which can soften fine lines and wrinkles around the eyes. Their compact size and easy application make them perfect for daily use, whether at home or while traveling. The luxurious gold color not only enhances the experience but also adds an element of indulgence to your skincare routine, making self-care both effective and enjoyable.
 
-## <a href="https://www.amazon.com/dp/B0C4NWGVTF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Taimand Under Eye Patches</a>
+## <a href="https://www.amazon.com/dp/B0C4NWGVTF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Taimand Under Eye Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0C4NWGVTF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Taimand Under Eye Patches (30 Pairs), 24K Gold Under Eye Mask for Puffy Eyes, Dark Circles,Bags and Wrinkles with Collagen,Relieves Pressure and Reduces Wrinkles,Revitalises and Refreshes Your Skin" src="https://m.media-amazon.com/images/I/51lAmpjfDsL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C4NWGVTF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Taimand Under Eye Patches (30 Pairs), 24K Gold Under Eye Mask for Puffy Eyes, Dark Circles,Bags and Wrinkles with Collagen,Relieves Pressure and Reduces Wrinkles,Revitalises and Refreshes Your Skin" src="https://m.media-amazon.com/images/I/51lAmpjfDsL._SL500_.jpg"/></a>
 
 
 The **Taimand Under Eye Patches** are ideal for individuals looking to combat common eye area concerns such as **puffy eyes, dark circles, bags, and wrinkles**. If you want to revitalize and refresh your skin with a luxurious touch, these **24K Gold under eye masks** infused with collagen are perfect for you. Whether you have a hectic lifestyle causing tired eyes or are beginning to notice signs of aging, these patches provide targeted relief and rejuvenation.
@@ -127,10 +127,10 @@ The **Taimand Under Eye Patches** stand out due to their luxurious **24K Gold fo
 
 Designed for ease of use, the patches adhere comfortably to the skin and can be incorporated into any skincare routine without hassle. Regular use leads to visible improvements in skin texture and firmness, while the pressure-relieving properties help alleviate tension around tired eyes. With 30 pairs included, users can enjoy consistent treatment and long-lasting benefits, making the **Taimand Under Eye Patches** a worthwhile investment for anyone seeking radiant and revitalized under-eye skin.
 
-## <a href="https://www.amazon.com/dp/B0CM27F4PM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Qyiywim Under Eye Patches</a>
+## <a href="https://www.amazon.com/dp/B0CM27F4PM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Qyiywim Under Eye Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0CM27F4PM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Qyiywim Under Eye Patches 70PCS, 24K Gold Eye Patches for Puffy Eyes Treatment, Under Eye Masks for Dark Circles and Puffiness, Non-Irritating Eye Mask Skincare, Eyes Bags Treatment, Eye Gel Pads" src="https://m.media-amazon.com/images/I/51VIbZBkdHL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CM27F4PM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Qyiywim Under Eye Patches 70PCS, 24K Gold Eye Patches for Puffy Eyes Treatment, Under Eye Masks for Dark Circles and Puffiness, Non-Irritating Eye Mask Skincare, Eyes Bags Treatment, Eye Gel Pads" src="https://m.media-amazon.com/images/I/51VIbZBkdHL._SL500_.jpg"/></a>
 
 
 The **Qyiywim Under Eye Patches 70PCS** are ideal for individuals seeking an effective solution to reduce **puffy eyes, dark circles, and eye bags**. If you want a non-irritating, easy-to-use skincare product that refreshes and rejuvenates the delicate skin around your eyes, these **24K gold eye patches** are perfect for you. Whether you have tired eyes from lack of sleep, stress, or aging, this treatment offers a convenient way to improve your eye area’s appearance.
@@ -152,10 +152,10 @@ The **Qyiywim Under Eye Patches** feature a luxurious **gold color** and are cra
 
 Users will benefit from the soothing and revitalizing effects of these eye gel pads, making them an excellent addition to any skincare routine. Their non-irritating formulation means even sensitive skin types can safely use them without discomfort. Regular use promotes a refreshed, youthful look, helping you feel more confident and awake throughout your day.
 
-## <a href="https://www.amazon.com/dp/B0BLHFPFV9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Enaskin Naturals Under Eye Patches</a>
+## <a href="https://www.amazon.com/dp/B0BLHFPFV9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Enaskin Naturals Under Eye Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0BLHFPFV9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Enaskin Naturals Under Eye Patches for Dark Circles: 30 Pairs Retinol Collagen Eye Gels Mask - Reduce Wrinkles Puffy &amp; Bags - Skin Treatment Pads - Anti Aging Moisturizer For Women (Blue)" src="https://m.media-amazon.com/images/I/419FsKlxPlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BLHFPFV9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Enaskin Naturals Under Eye Patches for Dark Circles: 30 Pairs Retinol Collagen Eye Gels Mask - Reduce Wrinkles Puffy &amp; Bags - Skin Treatment Pads - Anti Aging Moisturizer For Women (Blue)" src="https://m.media-amazon.com/images/I/419FsKlxPlL._SL500_.jpg"/></a>
 
 
 The **Enaskin Naturals Under Eye Patches for Dark Circles** are ideal for women seeking an effective solution to reduce under-eye wrinkles, puffiness, and dark circles. These **retinol collagen eye gels** are perfect for those who want to rejuvenate their delicate under-eye skin with a convenient and soothing treatment that fits easily into any skincare routine. If you are looking for an anti-aging moisturizer that targets common signs of fatigue and aging around the eyes, this product is tailored for you.
@@ -178,10 +178,10 @@ The **Enaskin Naturals Under Eye Patches** stand out for their inclusion of **re
 
 Additionally, these eye gels effectively target **dark circles and puffiness**, common concerns that can make the eyes look tired and aged. The soothing formula provides hydration and reduces inflammation, resulting in a brighter and more refreshed eye area. With 30 pairs included, the product offers sustained care, allowing users to maintain a consistent treatment schedule for optimal results. The **blue color** of the patches adds a calming effect, making the skincare routine a relaxing experience.
 
-## <a href="https://www.amazon.com/dp/B0F24D8MHV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Under Eye Patches For Puffy Eyes And Dark Circles</a>
+## <a href="https://www.amazon.com/dp/B0F24D8MHV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Under Eye Patches For Puffy Eyes And Dark Circles</a>
 
 
-<a href="https://www.amazon.com/dp/B0F24D8MHV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Under Eye Patches for Puffy Eyes and Dark Circles – 60 PCS Aloe Vera Under Eye Mask with Pure Natural Extracts to Combat Puffiness, Fine Lines, Wrinkles, and Bags" src="https://m.media-amazon.com/images/I/511zO0XYptL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F24D8MHV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Under Eye Patches for Puffy Eyes and Dark Circles – 60 PCS Aloe Vera Under Eye Mask with Pure Natural Extracts to Combat Puffiness, Fine Lines, Wrinkles, and Bags" src="https://m.media-amazon.com/images/I/511zO0XYptL._SL500_.jpg"/></a>
 
 
 Ideal for individuals struggling with **puffy eyes**, **dark circles**, and early signs of **fine lines** and **wrinkles**, the **Under Eye Patches for Puffy Eyes and Dark Circles – 60 PCS Aloe Vera Under Eye Mask** by **Caewous** is perfect for those seeking a natural and effective skincare solution. Whether you experience tired eyes from long hours of work, lack of sleep, or aging, these patches help rejuvenate and refresh your delicate under-eye area.
@@ -203,10 +203,10 @@ The **Caewous Under Eye Patches** feature a unique blend of **natural aloe vera 
 
 Each patch is crafted with optimal dimensions to fit comfortably under the eyes, ensuring maximum contact and absorption of active ingredients. Regular use supports the reduction of **fine lines** and **wrinkles** by delivering essential nutrients that promote skin elasticity and firmness. Overall, these patches provide a simple, relaxing, and non-invasive way to maintain youthful and radiant eyes every day.
 
-## <a href="https://www.amazon.com/dp/B0C1MJCK2M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peauamie Under Eye Patchs</a>
+## <a href="https://www.amazon.com/dp/B0C1MJCK2M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peauamie Under Eye Patchs</a>
 
 
-<a href="https://www.amazon.com/dp/B0C1MJCK2M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PEAUAMIE Under Eye Patchs Hyaluronic Acid Eye Mask for Dark Circles and Puffiness Wrinkle Eye Bags 30 Pairs" src="https://m.media-amazon.com/images/I/41dmQspmY3L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C1MJCK2M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PEAUAMIE Under Eye Patchs Hyaluronic Acid Eye Mask for Dark Circles and Puffiness Wrinkle Eye Bags 30 Pairs" src="https://m.media-amazon.com/images/I/41dmQspmY3L._SL500_.jpg"/></a>
 
 
 The **PEAUAMIE Under Eye Patchs Hyaluronic Acid Eye Mask** is ideal for individuals struggling with **dark circles**, **puffiness**, **wrinkles**, and **eye bags**. If you are looking for a gentle yet effective solution to rejuvenate your under-eye area and achieve a refreshed, youthful appearance, this product is designed specifically for you. Suitable for all skin types, especially those seeking hydration and anti-aging benefits, it provides an easy and convenient way to enhance your skincare routine.
@@ -228,10 +228,10 @@ The **PEAUAMIE Under Eye Patchs** are infused with potent **hyaluronic acid**, w
 
 Additionally, these eye masks are designed to address **wrinkles** and **eye bags** by improving blood circulation and stimulating skin renewal. The soothing effect of the **blue-colored patches** helps calm tired eyes, making them ideal for use after long days or sleepless nights. Overall, the product offers a simple yet effective solution to enhance your skincare routine and maintain a refreshed, youthful eye appearance.
 
-## <a href="https://www.amazon.com/dp/B0DQ1753ZT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yoyory Under Eye Patches Masks</a>
+## <a href="https://www.amazon.com/dp/B0DQ1753ZT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yoyory Under Eye Patches Masks</a>
 
 
-<a href="https://www.amazon.com/dp/B0DQ1753ZT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="YOYORY Under Eye Patches Masks - for Dark Circles, Puffiness, Eye bags,and Fine Lines Smoothing Skin Care Treatment with Collagen and Hyaluronic Acid for Women and Men, (60 Pcs) Pink" src="https://m.media-amazon.com/images/I/41st8RZ+LIL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DQ1753ZT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="YOYORY Under Eye Patches Masks - for Dark Circles, Puffiness, Eye bags,and Fine Lines Smoothing Skin Care Treatment with Collagen and Hyaluronic Acid for Women and Men, (60 Pcs) Pink" src="https://m.media-amazon.com/images/I/41st8RZ+LIL._SL500_.jpg"/></a>
 
 
 The **YOYORY Under Eye Patches Masks** are ideal for individuals looking to combat **dark circles**, **puffiness**, **eye bags**, and **fine lines**. Suitable for both **women and men**, these patches offer a convenient and effective solution for those wanting to rejuvenate and smooth the delicate skin around their eyes. If you spend long hours in front of screens, struggle with tired-looking eyes, or want to maintain youthful skin, this product is designed for you.
@@ -255,10 +255,10 @@ The **YOYORY Under Eye Patches Masks** are formulated with powerful ingredients 
 
 Additionally, the patches are designed for easy application and comfort, making them a practical addition to any skincare regimen. The soothing pink color and compact size allow for a calming treatment experience, whether at home or on the go. Regular use helps revitalize tired eyes, leaving skin looking brighter and smoother, making these patches a valuable tool for anyone seeking to improve their under-eye skin health.
 
-## <a href="https://www.amazon.com/dp/B08SHHLS4H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">2pcs Gel Eye Mask</a>
+## <a href="https://www.amazon.com/dp/B08SHHLS4H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">2pcs Gel Eye Mask</a>
 
 
-<a href="https://www.amazon.com/dp/B08SHHLS4H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="2PCS Gel Eye Mask Reusable Cold Therapy Gel Bead Eye Mask for Puffiness/Dark Circles/Eye Bags/Dry Eyes/Headaches/Migraines/Stress Relief (Blue)" src="https://m.media-amazon.com/images/I/51mcEX1fQQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08SHHLS4H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="2PCS Gel Eye Mask Reusable Cold Therapy Gel Bead Eye Mask for Puffiness/Dark Circles/Eye Bags/Dry Eyes/Headaches/Migraines/Stress Relief (Blue)" src="https://m.media-amazon.com/images/I/51mcEX1fQQL._SL500_.jpg"/></a>
 
 
 The **2PCS Gel Eye Mask Reusable Cold Therapy Gel Bead Eye Mask** is ideal for individuals who suffer from **puffiness, dark circles, eye bags, dry eyes, headaches, migraines,** or those seeking **stress relief**. Whether you spend long hours in front of screens, experience frequent migraines, or simply want to rejuvenate tired eyes, this product offers an effective and soothing solution.

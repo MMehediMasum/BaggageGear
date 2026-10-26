@@ -23,10 +23,10 @@ Women may prefer the Voyageur Celina or Montana backpacks, designed for work and
 
 
 
-## <a href="https://www.amazon.com/dp/B0BS6K31NP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Just In Case Foldable Backpack</a>
+## <a href="https://www.amazon.com/dp/B0BS6K31NP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Just In Case Foldable Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0BS6K31NP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Just In Case Foldable Backpack - Lightweight, Compact Travel Backpack - For One Bag Travel - 15.5" src="https://m.media-amazon.com/images/I/319ynkFsiaL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BS6K31NP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Just In Case Foldable Backpack - Lightweight, Compact Travel Backpack - For One Bag Travel - 15.5" src="https://m.media-amazon.com/images/I/319ynkFsiaL._SL500_.jpg"/></a>
 
 
 The **TUMI - Just In Case Foldable Backpack** is perfect for travelers and commuters who value convenience and versatility. Ideal for individuals who prefer to travel light but want an extra bag on hand for unexpected needs, this backpack is designed for those who appreciate quality, functionality, and style in a compact form.
@@ -49,10 +49,10 @@ The **TUMI Just In Case Foldable Backpack** stands out with its thoughtful desig
 
 Measuring **15.5 inches in height, 12.3 inches in width, and 4.5 inches in depth**, this backpack provides enough room for essentials without feeling cumbersome. The durable construction from **TUMI** guarantees that it can handle the rigors of travel, while its compact weight of just **0.75 pounds** means it won't add unnecessary burden. This bag is perfect for those who value efficiency and style, offering a reliable companion for spontaneous excursions or extra storage during busy travel days.
 
-## <a href="https://www.amazon.com/dp/B09N8RZPHN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Search Backpack</a>
+## <a href="https://www.amazon.com/dp/B09N8RZPHN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Search Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B09N8RZPHN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Search Backpack - Laptop Backpack for Men &amp; Women - Backpack for Work &amp; Travel - 17.0" src="https://m.media-amazon.com/images/I/41jfajjLacL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09N8RZPHN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Search Backpack - Laptop Backpack for Men &amp; Women - Backpack for Work &amp; Travel - 17.0" src="https://m.media-amazon.com/images/I/41jfajjLacL._SL500_.jpg"/></a>
 
 
 The **TUMI - Alpha Bravo Search Backpack** is perfect for professionals and travelers who need a reliable and stylish **laptop backpack** that offers both functionality and durability. Ideal for men and women who commute to work or frequently travel, this backpack is designed to accommodate a **17-inch laptop** while providing ample storage for essentials in a sleek **black** design.
@@ -76,10 +76,10 @@ The **TUMI Alpha Bravo Search Backpack** stands out with its thoughtfully design
 
 In addition to its practicality, the backpack’s sleek **black color** and modern design make it suitable for a variety of settings—from professional work environments to casual travel. The lightweight nature of the backpack reduces strain on the shoulders, while the padded straps enhance comfort during extended wear. This combination of style, comfort, and utility makes the **TUMI Alpha Bravo Search Backpack** a smart investment for anyone seeking a dependable and stylish laptop backpack.
 
-## <a href="https://www.amazon.com/dp/B0BS6HY947?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Voyageur Celina Backpack</a>
+## <a href="https://www.amazon.com/dp/B0BS6HY947?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Voyageur Celina Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0BS6HY947?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Celina Backpack - Women's Work and Travel Bag - 16.0" src="https://m.media-amazon.com/images/I/312mxW9zHGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BS6HY947?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Celina Backpack - Women's Work and Travel Bag - 16.0" src="https://m.media-amazon.com/images/I/312mxW9zHGL._SL500_.jpg"/></a>
 
 
 Ideal for professional women who are always on the move, the **TUMI - Voyageur Celina Backpack** is designed for those seeking a stylish yet functional **work and travel bag**. This backpack perfectly suits individuals who need to carry a **laptop up to 16 inches** and essential daily items without compromising on elegance and comfort.
@@ -101,10 +101,10 @@ The **TUMI Voyageur Celina Backpack** stands out with its sleek design and pract
 
 Featuring a dedicated laptop compartment that accommodates devices up to **16 inches**, this bag offers both protection and easy access for your technology. The elegant black finish paired with gold hardware adds a sophisticated touch, ensuring that your professional style is maintained. Overall, this backpack combines function with fashion, providing a reliable and chic solution for work and travel needs.
 
-## <a href="https://www.amazon.com/dp/B0DSLZMM4P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Expedition Flap Backpack</a>
+## <a href="https://www.amazon.com/dp/B0DSLZMM4P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Expedition Flap Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSLZMM4P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Expedition Flap Backpack - Large Carry On Backpack - 21.0" src="https://m.media-amazon.com/images/I/41H9KvqgYXL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSLZMM4P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Expedition Flap Backpack - Large Carry On Backpack - 21.0" src="https://m.media-amazon.com/images/I/41H9KvqgYXL._SL500_.jpg"/></a>
 
 
 Ideal for frequent travelers and professionals, the **TUMI Alpha Bravo Expedition Flap Backpack** is perfect for those who need a durable, spacious, and stylish carry-on backpack. This item is especially suited for individuals who want to keep their **laptop up to 17 inches** protected while having ample room for essentials during business trips or daily commutes.
@@ -127,10 +127,10 @@ The **TUMI Alpha Bravo Expedition Flap Backpack** boasts a well-thought-out desi
 
 Additionally, the lightweight nature and ergonomic design enhance comfort during long hours of carrying, whether on flights or daily commutes. The sleek **Black Onyx** finish offers a professional look that complements any outfit, making it an ideal choice for business travelers and professionals who demand both practicality and elegance from their carry-on gear.
 
-## <a href="https://www.amazon.com/dp/B0CQ9SSF1C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi - Alpha Bravo Renegade Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CQ9SSF1C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi - Alpha Bravo Renegade Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CQ9SSF1C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Renegade Backpack - Travel Backpack &amp; Laptop Bag - With TUMI Tracer - 18.5" src="https://m.media-amazon.com/images/I/31pz4BtvDbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CQ9SSF1C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Renegade Backpack - Travel Backpack &amp; Laptop Bag - With TUMI Tracer - 18.5" src="https://m.media-amazon.com/images/I/31pz4BtvDbL._SL500_.jpg"/></a>
 
 
 The **TUMI - Alpha Bravo Renegade Backpack** is ideal for frequent travelers and professionals who require a versatile and durable **travel backpack** that also functions as a reliable **laptop bag**. Those who value organized storage, style, and advanced security features will find this backpack a perfect companion for both work and leisure.
@@ -152,10 +152,10 @@ Featuring a thoughtfully designed interior, the **Alpha Bravo Renegade Backpack*
 
 Additionally, the inclusion of the proprietary **TUMI Tracer** system adds a significant layer of security, allowing owners to register their backpack for recovery in case of loss or theft. The backpack’s ergonomic design and lightweight yet robust construction contribute to comfortable wear over extended periods, making it a reliable choice for daily commuting or global travel in a sophisticated **navy** finish.
 
-## <a href="https://www.amazon.com/dp/B0CV5YQYV3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi - Voyageur Montana Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CV5YQYV3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi - Voyageur Montana Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CV5YQYV3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Montana Backpack - Stylish Travel Backpack for Women - For Business, Work - Fits up to 16" src="https://m.media-amazon.com/images/I/31-gy5-Bt0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CV5YQYV3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Montana Backpack - Stylish Travel Backpack for Women - For Business, Work - Fits up to 16" src="https://m.media-amazon.com/images/I/31-gy5-Bt0L._SL500_.jpg"/></a>
 
 
 The **TUMI - Voyageur Montana Backpack** is perfect for **women professionals** who need a **stylish yet functional travel companion**. Ideal for those who frequently travel for **business or work**, this backpack fits laptops up to **16 inches** and combines elegance with practicality, making it a great choice for commuters and travelers alike.
@@ -178,10 +178,10 @@ The **Voyageur Montana Backpack** by **TUMI** features a sleek design tailored f
 
 Functionality is at the forefront with ample space for a **16-inch laptop** and other essentials, making it ideal for business trips or daily commutes. The sophisticated **Black/Gold** color palette adds a touch of luxury, allowing users to maintain a professional appearance without compromising on style. Overall, this backpack perfectly blends fashion with utility, catering to women who value both form and function in their travel gear.
 
-## <a href="https://www.amazon.com/dp/B07MTCVZH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Brief Pack</a>
+## <a href="https://www.amazon.com/dp/B07MTCVZH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Brief Pack</a>
 
 
-<a href="https://www.amazon.com/dp/B07MTCVZH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Brief Pack - Men's Laptop Backpack with Padded Adjustable Straps - Fit up to 15" src="https://m.media-amazon.com/images/I/41v3HYqqZeL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07MTCVZH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Brief Pack - Men's Laptop Backpack with Padded Adjustable Straps - Fit up to 15" src="https://m.media-amazon.com/images/I/41v3HYqqZeL._SL500_.jpg"/></a>
 
 
 The **TUMI Alpha Brief Pack** is perfect for **men** who need a stylish yet functional **laptop backpack** that fits up to a **15-inch screen**. Ideal for professionals, students, and frequent travelers, this backpack combines durability with comfort, making it a smart choice for those who carry their tech and essentials daily.
@@ -203,10 +203,10 @@ The **TUMI Alpha Brief Pack** features a well-thought-out design that prioritize
 
 Additionally, the backpack’s durable build ensures long-lasting performance, standing up to daily wear and tear. The professional **Anthracite color** and sleek appearance make it suitable for business environments, blending function with style seamlessly. Overall, this backpack offers users a reliable and comfortable way to transport their laptops and belongings efficiently.
 
-## <a href="https://www.amazon.com/dp/B09N8XX73V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Navigation Backpack</a>
+## <a href="https://www.amazon.com/dp/B09N8XX73V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Navigation Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B09N8XX73V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Navigation Backpack - Everyday Travel Backpack - Fits Up to 15" src="https://m.media-amazon.com/images/I/41C89v0pvBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09N8XX73V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Navigation Backpack - Everyday Travel Backpack - Fits Up to 15" src="https://m.media-amazon.com/images/I/41C89v0pvBL._SL500_.jpg"/></a>
 
 
 The **TUMI - Alpha Bravo Navigation Backpack** is ideal for **everyday travelers** and professionals who need a reliable and stylish backpack that can comfortably fit a **15-inch laptop**. If you are someone who values **durability, organization, and sleek design** in your travel gear, this backpack is designed to meet your needs.
@@ -228,10 +228,10 @@ The **TUMI Alpha Bravo Navigation Backpack** boasts dimensions of approximately 
 
 In addition to its functionality, the backpack’s ergonomic features, such as padded shoulder straps and a balanced weight distribution, contribute to user comfort even when carrying heavier loads. Its sleek black aesthetic complements professional attire while remaining versatile enough for casual use, making the **TUMI Alpha Bravo Navigation Backpack** a smart investment for anyone seeking a blend of style, comfort, and practicality.
 
-## <a href="https://www.amazon.com/dp/B0BS6JR37Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Voyageur Halsey Backpack</a>
+## <a href="https://www.amazon.com/dp/B0BS6JR37Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Voyageur Halsey Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0BS6JR37Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Halsey Backpack - Women's Lightweight Everyday and Travel Bag - 14.5" src="https://m.media-amazon.com/images/I/217geq9yDcL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BS6JR37Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Voyageur Halsey Backpack - Women's Lightweight Everyday and Travel Bag - 14.5" src="https://m.media-amazon.com/images/I/217geq9yDcL._SL500_.jpg"/></a>
 
 
 The **TUMI - Voyageur Halsey Backpack** is ideal for **women** seeking a **lightweight, stylish, and functional everyday and travel bag**. If you need a backpack that comfortably holds up to a **14-inch screen** and combines elegance with practicality, this backpack is perfect for busy professionals, frequent travelers, and students alike.
@@ -254,10 +254,10 @@ The **TUMI Voyageur Halsey Backpack** boasts a thoughtfully engineered design th
 
 Additionally, the brand's commitment to quality is evident in the durable materials and meticulous craftsmanship, ensuring the backpack withstands daily wear and tear. The compact yet roomy interior allows for organized storage, helping users keep their belongings neat and accessible. Overall, this backpack offers an excellent blend of style, convenience, and durability, making it a valuable investment for anyone in need of a versatile everyday bag.
 
-## <a href="https://www.amazon.com/dp/B0DV9WMY89?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Detrick Backpack</a>
+## <a href="https://www.amazon.com/dp/B0DV9WMY89?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tumi Alpha Bravo Detrick Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DV9WMY89?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Detrick Backpack - Multi-Compartment Travel Gear - Adjustable Straps &amp; Easy to Carry - Black Onyx" src="https://m.media-amazon.com/images/I/41RCw9iVQpL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DV9WMY89?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUMI - Alpha Bravo Detrick Backpack - Multi-Compartment Travel Gear - Adjustable Straps &amp; Easy to Carry - Black Onyx" src="https://m.media-amazon.com/images/I/41RCw9iVQpL._SL500_.jpg"/></a>
 
 
 The **TUMI - Alpha Bravo Detrick Backpack** is ideal for frequent travelers, professionals, and anyone in need of a reliable and stylish multi-compartment travel gear. Its design caters to those who prioritize organization and comfort while on the go, making it perfect for business trips, daily commutes, or weekend getaways.

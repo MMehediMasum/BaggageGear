@@ -23,10 +23,10 @@ Weight options range from light to heavy, fitting beginners and experienced user
 
 
 
-## <a href="https://www.amazon.com/dp/B07518RBH2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Zelus Weighted Vest</a>
+## <a href="https://www.amazon.com/dp/B07518RBH2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Zelus Weighted Vest</a>
 
 
-<a href="https://www.amazon.com/dp/B07518RBH2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting, Black(12 lb)" src="https://m.media-amazon.com/images/I/41yAdNhFebL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07518RBH2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting, Black(12 lb)" src="https://m.media-amazon.com/images/I/41yAdNhFebL._SL500_.jpg"/></a>
 
 
 The **ZELUS Weighted Vest** is ideal for fitness enthusiasts, athletes, and anyone looking to enhance their workout routine with added resistance. Whether you are into **strength training**, **running**, **muscle building**, or **weight loss**, this vest offers versatile weight options to suit different fitness levels and goals. It is perfect for those who want to intensify their exercises safely and effectively.
@@ -49,10 +49,10 @@ The **ZELUS Weighted Vest** with its adjustable weight options from **6lb to 30l
 
 Constructed by **Z ZELUS**, this vest is made with durable materials that withstand rigorous use. The added resistance from the vest enhances calorie burn, boosts endurance, and accelerates muscle development. Whether you are performing bodyweight exercises, lifting weights, or running, this vest adds a layer of challenge that promotes faster fitness gains. Its sleek **black color** also ensures it complements any workout attire, making it a practical and stylish choice for consistent training.
 
-## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
 
 
 The **WOLF TACTICAL Weighted Backpack Rucking Backpack** is perfect for fitness enthusiasts, military personnel, and outdoor adventurers who want to enhance their training routines with added resistance. Ideal for those involved in **running, walking,** or **strength training**, this backpack is designed to securely hold weight plates, making it a versatile tool for improving endurance and muscle strength.
@@ -73,10 +73,10 @@ The **WOLF TACTICAL Weighted Backpack** features a sturdy construction that supp
 
 Additionally, the backpack's adaptability makes it a valuable asset for strength training regimes. By allowing users to incrementally add weight plates, it enables progressive overload, a key factor in muscle growth and endurance improvement. Its high-quality materials and secure fastening systems ensure that weights stay in place, providing a reliable and safe training experience for athletes at all levels.
 
-## <a href="https://www.amazon.com/dp/B0F6CJR42D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
+## <a href="https://www.amazon.com/dp/B0F6CJR42D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0F6CJR42D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black" src="https://m.media-amazon.com/images/I/41JupmR5vUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F6CJR42D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black" src="https://m.media-amazon.com/images/I/41JupmR5vUL._SL500_.jpg"/></a>
 
 
 The **Polyfit Rucking Backpack 2.0** is ideal for fitness enthusiasts who want to combine cardio and strength training, especially those interested in **rucking**, walking, or running with additional weight. If you are someone looking to improve endurance, build strength, or enhance your overall workout regimen using a durable, functional, and innovative weighted backpack, this ruck pack is designed with you in mind.
@@ -99,10 +99,10 @@ The **Polyfit Rucking Backpack 2.0** stands out with its innovative patent pendi
 
 Made from sturdy materials and finished in a sleek **black color**, this ruck pack is both functional and stylish. The ergonomic design supports the back and shoulders comfortably even during extended sessions, helping reduce fatigue and risk of injury. Whether you are a beginner or an experienced athlete, the **Polyfit Rucking Backpack 2.0** provides a reliable and efficient solution to elevate your workout intensity and improve overall endurance and strength.
 
-## <a href="https://www.amazon.com/dp/B0BFWM6SCD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Apexup 20lbs Weighted Vest</a>
+## <a href="https://www.amazon.com/dp/B0BFWM6SCD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Apexup 20lbs Weighted Vest</a>
 
 
-<a href="https://www.amazon.com/dp/B0BFWM6SCD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="APEXUP 20lbs Weighted Vest Men Women, Weight Vest for Women Workout Equipment for Strength Training Running (Black)" src="https://m.media-amazon.com/images/I/41FkZAcQmnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BFWM6SCD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="APEXUP 20lbs Weighted Vest Men Women, Weight Vest for Women Workout Equipment for Strength Training Running (Black)" src="https://m.media-amazon.com/images/I/41FkZAcQmnL._SL500_.jpg"/></a>
 
 
 The **APEXUP 20lbs Weighted Vest** is ideal for fitness enthusiasts looking to enhance their strength training and running workouts. Whether you are a beginner aiming to increase resistance or an experienced athlete seeking to improve endurance and muscle tone, this vest suits both men and women who want a versatile and effective workout accessory.
@@ -124,10 +124,10 @@ The **APEXUP 20lbs Weighted Vest** is crafted to provide added resistance to you
 
 Wearing this weighted vest during your training sessions effectively enhances calorie burn and improves cardiovascular health by increasing the intensity of your workouts. Additionally, it supports progressive overload, a key factor in muscle growth and strength development. Its durable material and ergonomic fit make it a long-lasting investment for anyone serious about improving their fitness level.
 
-## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
+## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
 
 
 The **GORUCK Ruck Plate Carrier 3.0** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who want a durable and ergonomic solution for weighted rucking. If you're looking to enhance your endurance training or need a reliable backpack compatible with **GORUCK Ruck Plates**, this item is designed specifically to meet those needs with comfort and functionality.
@@ -151,10 +151,10 @@ The **GORUCK Ruck Plate Carrier 3.0** features a streamlined profile that reduce
 
 Additionally, the **extra padded straps** provide superior cushioning around the shoulders, making it easier to carry heavier loads without strain. Its compatibility with all **GORUCK Ruck Plates** offers flexibility in training intensity, enabling users to adjust their weighted rucking experience to their fitness level. The compact and lightweight design ensures that the carrier itself adds minimal weight, allowing for a more comfortable and effective workout session.
 
-## <a href="https://www.amazon.com/dp/B01AJ12MFA?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Runmax Run Fast Weighted Vest</a>
+## <a href="https://www.amazon.com/dp/B01AJ12MFA?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Runmax Run Fast Weighted Vest</a>
 
 
-<a href="https://www.amazon.com/dp/B01AJ12MFA?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="RUNmax Run Fast 12lb-140lb Weighted Vest (with Shoulder Pads, 20lb)" src="https://m.media-amazon.com/images/I/51PMH9+agAL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01AJ12MFA?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="RUNmax Run Fast 12lb-140lb Weighted Vest (with Shoulder Pads, 20lb)" src="https://m.media-amazon.com/images/I/51PMH9+agAL._SL500_.jpg"/></a>
 
 
 The **RUNmax Run Fast 12lb-140lb Weighted Vest** with Shoulder Pads is ideal for fitness enthusiasts, athletes, and anyone looking to enhance their strength training, endurance, and overall workout intensity. Whether you are a runner aiming to increase speed and stamina or someone who incorporates bodyweight exercises and cardio into your routine, this adjustable weighted vest offers versatility and added resistance to help you reach your fitness goals.
@@ -177,10 +177,10 @@ The **RUNmax Run Fast Weighted Vest** is designed to provide customizable resist
 
 Constructed by **RUNmax**, a reputable manufacturer known for durability and quality, this vest is built to withstand intense training sessions. Its solid black color offers a sleek look while being versatile enough to pair with any workout gear. Overall, this weighted vest is an excellent investment for those serious about enhancing their fitness regimen with added resistance, making every workout more challenging and effective.
 
-## <a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
+## <a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
 
 
-<a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black with White Embroidery - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31oj4cTT7AL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black with White Embroidery - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31oj4cTT7AL._SL500_.jpg"/></a>
 
 
 The **GORUCK Rucker 4.0 20L Black with White Embroidery** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who need a durable and purpose-built backpack designed specifically for rucking and weight training. Those looking for a high-quality, versatile rucksack with extra padding and a dedicated ruck plate pocket will find this backpack especially beneficial.
@@ -203,10 +203,10 @@ The **GORUCK Rucker 4.0** stands out with its military-grade construction and th
 
 With its compact yet functional dimensions, the backpack balances capacity and portability, fitting essentials without unnecessary bulk. The sleek black color with white embroidery adds a professional and tactical aesthetic suitable for both urban and outdoor environments. Overall, this backpack offers a blend of durability, comfort, and specialized features that cater perfectly to serious ruckers and military trainers.
 
-## <a href="https://www.amazon.com/dp/B07PJMP3LT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yes4all Ruck Weight Plate</a>
+## <a href="https://www.amazon.com/dp/B07PJMP3LT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yes4all Ruck Weight Plate</a>
 
 
-<a href="https://www.amazon.com/dp/B07PJMP3LT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yes4All Ruck Weight Plate, Cast Iron Rucking Plates with Wide Grip for Swings, Squat, Strength, Weighted Vest Training - Multiple Rucking Weights: 10LB to 45LB" src="https://m.media-amazon.com/images/I/41nvKWUajxL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07PJMP3LT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yes4All Ruck Weight Plate, Cast Iron Rucking Plates with Wide Grip for Swings, Squat, Strength, Weighted Vest Training - Multiple Rucking Weights: 10LB to 45LB" src="https://m.media-amazon.com/images/I/41nvKWUajxL._SL500_.jpg"/></a>
 
 
 The **Yes4All Ruck Weight Plate** is ideal for fitness enthusiasts who want to enhance their **strength training** and **weighted vest workouts**. Whether you're into **rucking**, **swings**, or **squats**, these **cast iron plates** with a **wide grip** design cater to users looking for durable and versatile weight options ranging from **10LB to 45LB**.
@@ -229,10 +229,10 @@ The **Yes4All Ruck Weight Plate** features a solid **cast iron build** that guar
 
 With weights ranging from **10LB to 45LB**, this product offers flexibility for users at different strength levels, making it suitable for gradual progression. The compact size, measuring just under an inch in height and approximately 15 inches in length, ensures easy portability for outdoor rucking or gym sessions. Overall, the **Yes4All Ruck Weight Plate** stands out as a versatile and reliable choice for anyone seeking to boost their strength and endurance.
 
-## <a href="https://www.amazon.com/dp/B0DYNN7G85?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bagail Weighted Vest</a>
+## <a href="https://www.amazon.com/dp/B0DYNN7G85?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bagail Weighted Vest</a>
 
 
-<a href="https://www.amazon.com/dp/B0DYNN7G85?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking Vest for Women, Men, Walking, Weight Loss, Training, Running" src="https://m.media-amazon.com/images/I/41qpqWDsntL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DYNN7G85?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking Vest for Women, Men, Walking, Weight Loss, Training, Running" src="https://m.media-amazon.com/images/I/41qpqWDsntL._SL500_.jpg"/></a>
 
 
 The **BAGAIL Weighted Vest** is perfect for fitness enthusiasts and individuals looking to enhance their workout routines with added resistance. Ideal for both **men and women**, this vest caters to those interested in **weight loss, strength training, running, walking,** and **rucking**. If you're aiming to increase calorie burn, improve endurance, or add intensity to your exercises, this adjustable weighted vest is an excellent choice.
@@ -254,10 +254,10 @@ The **BAGAIL Weighted Vest** is crafted to provide customizable resistance, allo
 
 Made by **DIYOUTH** and featuring a sleek **black color**, this vest combines style with performance. Whether you aim to boost calorie burn, enhance muscle tone, or improve endurance, this weighted vest offers a practical and effective solution. Its versatility allows seamless transition between different exercise forms, making it a valuable addition to any fitness regimen.
 
-## <a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ruckercise Rucking Backpack - Ridge 21l Rucksack</a>
+## <a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ruckercise Rucking Backpack - Ridge 21l Rucksack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ruckercise Rucking Backpack - Ridge 21L Rucksack, Engineered for Rucking, Ruck Pack, Weight Plate Backpack, Extra Padding for Running, Walking, Strength Training, Compatible with Yes4All Ruck Weight" src="https://m.media-amazon.com/images/I/41Pu5+aOa2L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ruckercise Rucking Backpack - Ridge 21L Rucksack, Engineered for Rucking, Ruck Pack, Weight Plate Backpack, Extra Padding for Running, Walking, Strength Training, Compatible with Yes4All Ruck Weight" src="https://m.media-amazon.com/images/I/41Pu5+aOa2L._SL500_.jpg"/></a>
 
 
 The **Ruckercise Rucking Backpack - Ridge 21L Rucksack** is ideal for fitness enthusiasts, outdoor adventurers, and strength trainers who want a versatile and durable backpack designed specifically for rucking. If you are someone who enjoys walking, running, or strength training with added weight for enhanced fitness benefits, this backpack is tailored for you. It is especially suitable for those looking to combine cardio and strength workouts while carrying weight comfortably and efficiently.

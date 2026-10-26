@@ -23,10 +23,10 @@ Compact and lightweight designs are best for packing light. Safety features like
 
 
 
-## <a href="https://www.amazon.com/dp/B01MYBLNR9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Japan Philippines Travel Adapter Plug By Ceptics</a>
+## <a href="https://www.amazon.com/dp/B01MYBLNR9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Japan Philippines Travel Adapter Plug By Ceptics</a>
 
 
-<a href="https://www.amazon.com/dp/B01MYBLNR9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Japan, Philippines Travel Adapter Plug by Ceptics - USA 3 Pin Polarized to 2 Prong Unpolarized - Type A (3 Pack) - Dual Inputs - Ultra Compact - Perfect for Cell Phones, Tablet, Camera Chargers (CT-6)" src="https://m.media-amazon.com/images/I/31q9dxX-DFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01MYBLNR9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Japan, Philippines Travel Adapter Plug by Ceptics - USA 3 Pin Polarized to 2 Prong Unpolarized - Type A (3 Pack) - Dual Inputs - Ultra Compact - Perfect for Cell Phones, Tablet, Camera Chargers (CT-6)" src="https://m.media-amazon.com/images/I/31q9dxX-DFL._SL500_.jpg"/></a>
 
 
 The **Japan, Philippines Travel Adapter Plug by Ceptics** is ideal for travelers from the USA who frequently visit Japan or the Philippines and need a reliable way to connect their **3 pin polarized devices** to local **2 prong unpolarized outlets**. This compact adapter is perfect for individuals carrying multiple electronic devices such as **cell phones, tablets, and camera chargers** who want a hassle-free and safe charging solution while abroad.
@@ -48,10 +48,10 @@ The **Ceptics Japan, Philippines Travel Adapter Plug** offers a smart solution f
 
 Beyond its size and compatibility, the adapter's build quality reflects the reliability expected from the **Paul Zeng Universal Supplies-LLC** brand. Users benefit from safe, secure connections that minimize the risk of loose contacts or electrical faults. While it does not provide voltage conversion, it serves as an essential plug adapter for those whose electronics support the 100-240V range typical in Japan and the Philippines, ensuring that devices remain charged and ready throughout the trip.
 
-## <a href="https://www.amazon.com/dp/B07Z44FDCM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan, Philippines Power Travel Plug Adapter Set</a>
+## <a href="https://www.amazon.com/dp/B07Z44FDCM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan, Philippines Power Travel Plug Adapter Set</a>
 
 
-<a href="https://www.amazon.com/dp/B07Z44FDCM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Power Travel Plug Adapter Set, 20W PD &amp; QC, Safe Dual USB &amp; USB-C 3.1A - 2 USA Socket - Compact - Use in USA, Bahamas, Canada Includes Type A, Type B Swadapt Attachments" src="https://m.media-amazon.com/images/I/31mWZXA9twL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07Z44FDCM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Power Travel Plug Adapter Set, 20W PD &amp; QC, Safe Dual USB &amp; USB-C 3.1A - 2 USA Socket - Compact - Use in USA, Bahamas, Canada Includes Type A, Type B Swadapt Attachments" src="https://m.media-amazon.com/images/I/31mWZXA9twL._SL500_.jpg"/></a>
 
 
 The **Ceptics Japan, Philippines Power Travel Plug Adapter Set** is ideal for frequent travelers who need a reliable and compact solution to charge their electronic devices while visiting countries like the USA, Bahamas, Canada, Japan, and the Philippines. This adapter set is perfect for tech-savvy individuals, business professionals, and tourists who require compatibility with various plug types and fast charging capabilities on the go.
@@ -73,10 +73,10 @@ The **Ceptics Japan, Philippines Power Travel Plug Adapter Set** stands out with
 
 Designed with safety in mind, this adapter set incorporates protective mechanisms against voltage spikes, overheating, and short circuits, giving users peace of mind while charging abroad. Its lightweight and compact dimensions make it easy to pack in carry-ons or backpacks, reducing travel hassle. While it caters primarily to travelers visiting the USA, Bahamas, Canada, Japan, and the Philippines, its practical design and robust features make it a must-have accessory for anyone seeking a dependable and efficient travel charger solution.
 
-## <a href="https://www.amazon.com/dp/B06XSJ14CX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Universal Travel Adapter Kit</a>
+## <a href="https://www.amazon.com/dp/B06XSJ14CX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Universal Travel Adapter Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B06XSJ14CX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Universal Travel Adapter Kit – 2 USA sockets, 2 USB-A (1x QC 3.0) and USB-C cable, Surge Protected, Plugs for EU, UK, China, AU, Japan - Use with Laptop, Phones, Cameras - ETL Tested" src="https://m.media-amazon.com/images/I/41Q7lcpX96L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B06XSJ14CX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Universal Travel Adapter Kit – 2 USA sockets, 2 USB-A (1x QC 3.0) and USB-C cable, Surge Protected, Plugs for EU, UK, China, AU, Japan - Use with Laptop, Phones, Cameras - ETL Tested" src="https://m.media-amazon.com/images/I/41Q7lcpX96L._SL500_.jpg"/></a>
 
 
 The **Ceptics Universal Travel Adapter Kit** is ideal for frequent travelers and digital nomads who need a reliable and versatile charging solution across multiple countries. If you often visit destinations like the EU, UK, China, Australia, or Japan and require fast charging for your **laptop, phones, and cameras**, this adapter kit is designed to keep your devices powered safely and efficiently.
@@ -99,10 +99,10 @@ The **Ceptics Universal Travel Adapter Kit** is designed with convenience and sa
 
 Safety features such as **surge protection** and **ETL testing** guarantee that your valuable electronics are protected against unexpected power surges and comply with safety standards. The universal plug support means that this adapter kit works seamlessly across multiple countries, eliminating the need for multiple adapters. Overall, it’s a practical and efficient solution for travelers seeking a dependable power accessory.
 
-## <a href="https://www.amazon.com/dp/B0CJHQCW26?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">2 Pack Us To Japan Plug Adapter</a>
+## <a href="https://www.amazon.com/dp/B0CJHQCW26?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">2 Pack Us To Japan Plug Adapter</a>
 
 
-<a href="https://www.amazon.com/dp/B0CJHQCW26?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="2 Pack US to Japan Plug Adapter, 2 Prong to 3 Prong Outlet Adapter with 3 AC Outlets 3 USB Ports(1 USB C), Type A Travel Power Converter Plug Adaptor for USA to Japanese Canada Mexico Philippines Peru" src="https://m.media-amazon.com/images/I/21Ptsyif+-L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CJHQCW26?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="2 Pack US to Japan Plug Adapter, 2 Prong to 3 Prong Outlet Adapter with 3 AC Outlets 3 USB Ports(1 USB C), Type A Travel Power Converter Plug Adaptor for USA to Japanese Canada Mexico Philippines Peru" src="https://m.media-amazon.com/images/I/21Ptsyif+-L._SL500_.jpg"/></a>
 
 
 The **2 Pack US to Japan Plug Adapter** is ideal for **travelers** and **business professionals** who frequently visit **Japan** or other countries like **Canada, Mexico, Philippines, and Peru**. If you own devices with **2-prong US plugs** and need a reliable way to connect to **3-prong Japanese outlets**, this adapter is designed for you. It is perfect for those who want to power multiple devices safely and conveniently during international travel.
@@ -125,10 +125,10 @@ The **One Beat 2 Pack US to Japan Plug Adapter** offers a practical solution for
 
 Designed specifically for compatibility with **Type A plugs** and Japanese outlets, this adapter supports travelers visiting countries such as **Japan, Canada, Mexico, Philippines, and Peru**. However, users should be aware that it does not convert voltage, so it is important to verify device voltage compatibility before use. Overall, this adapter provides a convenient and efficient way to stay connected and powered up when abroad.
 
-## <a href="https://www.amazon.com/dp/B01N7VKQKJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan, Philippines Travel Adapter Plug With Dual Usb</a>
+## <a href="https://www.amazon.com/dp/B01N7VKQKJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan, Philippines Travel Adapter Plug With Dual Usb</a>
 
 
-<a href="https://www.amazon.com/dp/B01N7VKQKJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Travel Adapter Plug with Dual USB - Usa Input - Type A - Ultra Compact (CTU-6) - Perfect for Cell Phones, Laptops, Camera Chargers" src="https://m.media-amazon.com/images/I/31GV9NPp9fL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01N7VKQKJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Travel Adapter Plug with Dual USB - Usa Input - Type A - Ultra Compact (CTU-6) - Perfect for Cell Phones, Laptops, Camera Chargers" src="https://m.media-amazon.com/images/I/31GV9NPp9fL._SL500_.jpg"/></a>
 
 
 The **Ceptics Japan, Philippines Travel Adapter Plug with Dual USB** is ideal for frequent travelers, digital nomads, and anyone who needs a reliable and compact solution to charge their **cell phones, laptops, and camera chargers** while visiting Japan or the Philippines. This adapter is perfect for those who want a versatile, ultra-compact device that supports **USA input** and features **Type A** plugs, ensuring compatibility with local outlets without the hassle of carrying multiple adapters.
@@ -149,10 +149,10 @@ The **Ceptics Travel Adapter** offers a compact and lightweight design, making i
 
 Additionally, the adapter is specifically designed for the electrical systems in **Japan and the Philippines**, providing a seamless and reliable connection to local power outlets with **Type A** plugs. The sturdy construction and trusted brand reputation of **Ceptics** ensure long-lasting performance, giving users peace of mind while traveling abroad. Overall, this adapter is an excellent choice for anyone seeking a practical, efficient, and travel-friendly charging solution.
 
-## <a href="https://www.amazon.com/dp/B0CXD881LN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter Hanycony</a>
+## <a href="https://www.amazon.com/dp/B0CXD881LN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter Hanycony</a>
 
 
-<a href="https://www.amazon.com/dp/B0CXD881LN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter, HANYCONY Japan Power Travel Adpter with 2 Outlets 3 USB Ports(2 USB C), Type A Plug Adapter for Amercian USA to Japanese China Canada Mexico Philippines Peru" src="https://m.media-amazon.com/images/I/21DyaR89j+L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CXD881LN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter, HANYCONY Japan Power Travel Adpter with 2 Outlets 3 USB Ports(2 USB C), Type A Plug Adapter for Amercian USA to Japanese China Canada Mexico Philippines Peru" src="https://m.media-amazon.com/images/I/21DyaR89j+L._SL500_.jpg"/></a>
 
 
 The **US to Japan Plug Adapter** by **HANYCONY** is ideal for travelers from the **USA, Canada, Mexico, Philippines, Peru**, and other countries who need a reliable and efficient way to connect their devices to power outlets in **Japan** and **China**. If you frequently travel internationally and require a compact, versatile adapter that supports multiple devices, this product is perfect for you.
@@ -173,10 +173,10 @@ The **HANYCONY US to Japan Plug Adapter** offers outstanding functionality with 
 
 Additionally, the adapter's broad compatibility covers a range of countries, making it a versatile choice for international travelers. While it does not convert voltage, its compatibility with Type A plugs ensures that users can safely connect their devices to Japanese and Chinese outlets with minimal hassle. The sturdy construction from **HANYCONY** guarantees reliability and safety, providing peace of mind during your travels.
 
-## <a href="https://www.amazon.com/dp/B083JPZT6J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan Philippines Power Travel Plug Adapter</a>
+## <a href="https://www.amazon.com/dp/B083JPZT6J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ceptics Japan Philippines Power Travel Plug Adapter</a>
 
 
-<a href="https://www.amazon.com/dp/B083JPZT6J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Power Travel Plug Adapter, QC 3.0 &amp; PD, Safe Dual USB &amp; USB-C - 2 USA Socket Compact &amp; Powerful - USA 3 Pin Polarized to 2 Prong Unpolarized - Type A - AP-6 Fast Charging" src="https://m.media-amazon.com/images/I/41A-UW4E3nL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B083JPZT6J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ceptics Japan, Philippines Power Travel Plug Adapter, QC 3.0 &amp; PD, Safe Dual USB &amp; USB-C - 2 USA Socket Compact &amp; Powerful - USA 3 Pin Polarized to 2 Prong Unpolarized - Type A - AP-6 Fast Charging" src="https://m.media-amazon.com/images/I/41A-UW4E3nL._SL500_.jpg"/></a>
 
 
 The **Ceptics Japan, Philippines Power Travel Plug Adapter** is ideal for frequent travelers who need a reliable and efficient way to charge their devices in countries with different plug standards, especially in Japan and the Philippines. This adapter is perfect for tech-savvy users who value fast charging capabilities and require compatibility with both USB and USB-C devices. If you’re looking for a compact and powerful travel solution that supports multiple charging protocols, this product is a great choice.
@@ -198,10 +198,10 @@ The **Ceptics AP-6 adapter** excels in providing a seamless charging experience 
 
 Designed with portability in mind, this adapter’s compact dimensions and solid build make it an excellent travel companion. The white gray color offers a sleek and professional look, while the adapter’s compatibility with USA 3 Pin Polarized to 2 Prong Unpolarized sockets ensures safe and reliable use in Japan and the Philippines. Overall, the Ceptics travel adapter combines versatility, safety, and performance, meeting the needs of modern travelers looking for efficient charging solutions abroad.
 
-## <a href="https://www.amazon.com/dp/B0CXD8YL2S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter</a>
+## <a href="https://www.amazon.com/dp/B0CXD8YL2S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter</a>
 
 
-<a href="https://www.amazon.com/dp/B0CXD8YL2S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter - One Beat Japan Power Travel Adapter with 3 Outlets 3 USB Ports(2 USB C), 2 Prong to 3 Prong Outlet Adapter, Type A Plug Adapter for USA to Japanese Philippines China Canada" src="https://m.media-amazon.com/images/I/21OLZucXAML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CXD8YL2S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter - One Beat Japan Power Travel Adapter with 3 Outlets 3 USB Ports(2 USB C), 2 Prong to 3 Prong Outlet Adapter, Type A Plug Adapter for USA to Japanese Philippines China Canada" src="https://m.media-amazon.com/images/I/21OLZucXAML._SL500_.jpg"/></a>
 
 
 The **US to Japan Plug Adapter** by **One Beat** is ideal for frequent travelers from the **USA**, **Canada**, and other countries using Type A plugs who plan to visit **Japan**, the **Philippines**, or **China**. This adapter is perfect for those who need a reliable and versatile solution to power multiple devices simultaneously while abroad, ensuring their electronics remain charged and functional without compatibility issues.
@@ -222,10 +222,10 @@ This **One Beat Japan Power Travel Adapter** stands out for its ability to simul
 
 Additionally, the adapter ensures safe and efficient power conversion from the US 2-prong plug to the 3-prong Japanese outlets, minimizing the risk of electrical incompatibility. While it does not convert voltage, it is perfect for users whose devices support dual voltage, making it a practical and cost-effective accessory for international travel. Overall, the **One Beat US to Japan Plug Adapter** offers a convenient, reliable, and versatile charging solution for travelers heading to Japan and nearby countries.
 
-## <a href="https://www.amazon.com/dp/B0DQSHLQ2N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter 2 Pack</a>
+## <a href="https://www.amazon.com/dp/B0DQSHLQ2N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Us To Japan Plug Adapter 2 Pack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DQSHLQ2N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter 2 Pack, TESSAN 2 Prong to 3 Prong Outlet Adapter with 4 Outlets 3 USB (1 USB-C), Outlet Adaptor US to Japan China Mexico Philippines Canada Peru Thailand Vietnam" src="https://m.media-amazon.com/images/I/31gcin4lGiL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DQSHLQ2N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="US to Japan Plug Adapter 2 Pack, TESSAN 2 Prong to 3 Prong Outlet Adapter with 4 Outlets 3 USB (1 USB-C), Outlet Adaptor US to Japan China Mexico Philippines Canada Peru Thailand Vietnam" src="https://m.media-amazon.com/images/I/31gcin4lGiL._SL500_.jpg"/></a>
 
 
 Ideal for travelers and professionals who frequently visit Japan or other countries with similar plug types, the **US to Japan Plug Adapter 2 Pack** by **TESSAN** is perfect for those needing a reliable and versatile solution to power multiple devices simultaneously. This adapter is especially useful for individuals with multiple electronics, such as smartphones, laptops, and other USB-powered gadgets, ensuring seamless connectivity abroad.
@@ -247,10 +247,10 @@ The **TESSAN US to Japan Plug Adapter** combines functionality and convenience b
 
 Compact yet robust, this adapter pack is designed for durability and safety, meeting the standards set by its manufacturer, **Zhuhai Tessan Power Technology Co., Ltd.** Its compatibility with various countries makes it a versatile accessory for international travelers. However, users should be mindful that it does not convert voltage, so checking device compatibility beforehand is essential to avoid damage.
 
-## <a href="https://www.amazon.com/dp/B079RWN8M5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Orei Japan, Philippines Power Plug Adapter</a>
+## <a href="https://www.amazon.com/dp/B079RWN8M5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Orei Japan, Philippines Power Plug Adapter</a>
 
 
-<a href="https://www.amazon.com/dp/B079RWN8M5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OREI Japan, Philippines Power Plug Adapter with 2 USA Inputs - Travel 3 Pack - Type A (US-6) Safe Use with Cell Phones, Laptop, Camera Chargers, CPAP, and More" src="https://m.media-amazon.com/images/I/31-MNv922YL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B079RWN8M5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OREI Japan, Philippines Power Plug Adapter with 2 USA Inputs - Travel 3 Pack - Type A (US-6) Safe Use with Cell Phones, Laptop, Camera Chargers, CPAP, and More" src="https://m.media-amazon.com/images/I/31-MNv922YL._SL500_.jpg"/></a>
 
 
 The **OREI Japan, Philippines Power Plug Adapter** is ideal for frequent travelers and expatriates who need a reliable solution to connect their **US devices** in countries using Type A plugs, such as Japan and the Philippines. This adapter is perfect for those carrying multiple electronic devices like **cell phones, laptops, cameras, and CPAP machines**, ensuring safe and convenient power access during international trips.

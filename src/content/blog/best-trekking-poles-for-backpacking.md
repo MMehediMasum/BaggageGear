@@ -23,10 +23,10 @@ Some poles fold compactly for easy packing, while others have shock absorption f
 
 
 
-## <a href="https://www.amazon.com/dp/B01L2HYPNW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cascade Mountain Tech Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B01L2HYPNW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cascade Mountain Tech Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B01L2HYPNW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cascade Mountain Tech Trekking Poles, Shaft Material: Aircraft- grade 6061 Aluminum with Adjustable Locks Expandable to 54" src="https://m.media-amazon.com/images/I/41MeCq7ug4L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01L2HYPNW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cascade Mountain Tech Trekking Poles, Shaft Material: Aircraft- grade 6061 Aluminum with Adjustable Locks Expandable to 54" src="https://m.media-amazon.com/images/I/41MeCq7ug4L._SL500_.jpg"/></a>
 
 
 The **Cascade Mountain Tech Trekking Poles** are ideal for outdoor enthusiasts who seek reliable and durable gear for hiking, trekking, or walking on various terrains. Whether you are a beginner looking for extra stability or an experienced hiker wanting lightweight and adjustable poles, this set provides excellent support and comfort for all skill levels.
@@ -50,10 +50,10 @@ Constructed from **aircraft-grade 6061 aluminum**, the Cascade Mountain Tech Tre
 
 The combination of **cork grips** and **EVA extended grips** caters to both comfort and functionality. Cork naturally wicks away moisture, keeping hands dry and preventing slippage during long hikes. Meanwhile, the EVA foam extension allows a comfortable lower grip option, useful when tackling steep inclines or rough terrain. Overall, these trekking poles provide durability, comfort, and versatility, making them a great companion for any outdoor adventure.
 
-## <a href="https://www.amazon.com/dp/B07X6MXH51?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Trek-z Cork Grip Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B07X6MXH51?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Trek-z Cork Grip Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B07X6MXH51?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Trek-Z Cork Grip Trekking Poles – Lightweight Folding Hiking Poles, Adjustable Height, Compact Travel Design, Aircraft-Grade Aluminum Walking Sticks for Men &amp; Women" src="https://m.media-amazon.com/images/I/41hAN9SIkPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07X6MXH51?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Trek-Z Cork Grip Trekking Poles – Lightweight Folding Hiking Poles, Adjustable Height, Compact Travel Design, Aircraft-Grade Aluminum Walking Sticks for Men &amp; Women" src="https://m.media-amazon.com/images/I/41hAN9SIkPL._SL500_.jpg"/></a>
 
 
 The **TREKOLOGY Trek-Z Cork Grip Trekking Poles** are ideal for avid hikers, backpackers, and outdoor enthusiasts who seek durable, lightweight, and adjustable trekking poles to enhance their hiking experience. Whether you're navigating rugged trails or taking casual nature walks, these poles provide excellent support and stability for both men and women. Their compact travel design makes them perfect for those who value portability without compromising performance.
@@ -76,10 +76,10 @@ Crafted with **aircraft-grade aluminum**, the TREKOLOGY Trek-Z poles combine str
 
 The innovative folding design ensures these trekking poles can be collapsed into a compact size, fitting conveniently into backpacks or luggage, making them an excellent choice for travelers and adventurers on the go. Overall, these poles strike a balance between portability, durability, and user comfort, contributing to a safer and more enjoyable hiking experience.
 
-## <a href="https://www.amazon.com/dp/B07Q6BZQZC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Trek-z Collapsible Hiking &amp; Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B07Q6BZQZC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Trek-z Collapsible Hiking &amp; Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B07Q6BZQZC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Trek-Z Collapsible Hiking &amp; Trekking Poles - Balance Support for Seniors, Women, and Men, 2pc Per Set" src="https://m.media-amazon.com/images/I/41Lm6qxZKOL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07Q6BZQZC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Trek-Z Collapsible Hiking &amp; Trekking Poles - Balance Support for Seniors, Women, and Men, 2pc Per Set" src="https://m.media-amazon.com/images/I/41Lm6qxZKOL._SL500_.jpg"/></a>
 
 
 Ideal for **seniors**, **women**, and **men** seeking reliable **balance support** during hiking or trekking adventures, the **TREKOLOGY Trek-Z Collapsible Hiking & Trekking Poles** offer a versatile and durable solution. These poles are perfect for those who want to enhance stability on uneven terrain, reduce strain on joints, and enjoy longer outdoor excursions with confidence.
@@ -103,10 +103,10 @@ The **TREKOLOGY Trek-Z Collapsible Hiking & Trekking Poles** feature a compact a
 
 With an emphasis on **balance support**, these poles help reduce the impact on knees and joints, which is particularly beneficial for seniors or individuals recovering from injuries. The adjustable length ensures a customized fit, improving posture and minimizing fatigue during long treks. Overall, the **TREKOLOGY Trek-Z** poles combine functionality, comfort, and durability, making them a smart investment for anyone looking to enhance their hiking experience.
 
-## <a href="https://www.amazon.com/dp/B01NCI8CKR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thefitlife Nordic Walking Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B01NCI8CKR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thefitlife Nordic Walking Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B01NCI8CKR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TheFitLife Nordic Walking Trekking Poles - 2 Pack with Antishock and Quick Lock System, Telescopic, Collapsible, Ultralight for Hiking, Camping, Mountaining, Backpacking, Walking, Trekking (Silver)" src="https://m.media-amazon.com/images/I/41vUjWsy6dL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01NCI8CKR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TheFitLife Nordic Walking Trekking Poles - 2 Pack with Antishock and Quick Lock System, Telescopic, Collapsible, Ultralight for Hiking, Camping, Mountaining, Backpacking, Walking, Trekking (Silver)" src="https://m.media-amazon.com/images/I/41vUjWsy6dL._SL500_.jpg"/></a>
 
 
 TheFitLife Nordic Walking Trekking Poles are ideal for outdoor enthusiasts who enjoy hiking, camping, mountaineering, backpacking, or walking. These poles are perfect for individuals seeking enhanced stability, reduced joint impact, and improved endurance during their outdoor adventures. Whether you are a beginner or an experienced trekker, these **ultralight**, **telescopic**, and **collapsible** poles offer versatility and convenience for all skill levels.
@@ -128,10 +128,10 @@ TheFitLife Nordic Walking Trekking Poles feature a robust **antishock mechanism*
 
 Additionally, the poles' **ultralight and collapsible construction** ensures they are easy to carry and store without adding unnecessary bulk or weight to your backpack. The durable **silver finish** not only adds to the aesthetic appeal but also enhances the poles' resistance to wear and corrosion, making them reliable companions for various outdoor activities. Overall, these features combine to provide users with enhanced stability, improved posture, and increased confidence on any trail.
 
-## <a href="https://www.amazon.com/dp/B01N69RARX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trailbuddy Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B01N69RARX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trailbuddy Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B01N69RARX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TrailBuddy Trekking Poles - Lightweight, Collapsible Hiking Poles for Backpacking Gear - Pair of 2 Walking Sticks for Hiking, 7075 Aluminum with Cork Grip" src="https://m.media-amazon.com/images/I/51VsqnA0SgL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01N69RARX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TrailBuddy Trekking Poles - Lightweight, Collapsible Hiking Poles for Backpacking Gear - Pair of 2 Walking Sticks for Hiking, 7075 Aluminum with Cork Grip" src="https://m.media-amazon.com/images/I/51VsqnA0SgL._SL500_.jpg"/></a>
 
 
 The **TrailBuddy Trekking Poles** are ideal for avid hikers, backpackers, and outdoor enthusiasts seeking reliable, lightweight support during their adventures. These poles are perfect for individuals who want to reduce strain on their joints, improve stability on uneven terrain, and enhance their overall hiking experience. If you value durability combined with convenience in a compact form, these trekking poles are designed for you.
@@ -153,10 +153,10 @@ The **TrailBuddy Trekking Poles** feature a robust yet lightweight **7075 alumin
 
 In addition to their functional build, these trekking poles contribute significantly to user safety and comfort. By offering stability on challenging terrains, they help reduce the risk of slips and falls. The lightweight nature means users can hike longer distances without added fatigue, while the vibrant **Spring Green color** ensures the poles are easy to locate if set down. Overall, the TrailBuddy poles are a valuable addition to any hiking gear collection, blending practicality with user-friendly features.
 
-## <a href="https://www.amazon.com/dp/B07JF1YM86?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Covacure Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B07JF1YM86?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Covacure Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B07JF1YM86?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Covacure Trekking Poles Collapsible Hiking Poles - Aluminum Alloy 7075 Trekking Sticks with Quick Lock System, Telescopic, Collapsible, Ultralight for Hiking, Camping" src="https://m.media-amazon.com/images/I/51cCtG-2lZL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07JF1YM86?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Covacure Trekking Poles Collapsible Hiking Poles - Aluminum Alloy 7075 Trekking Sticks with Quick Lock System, Telescopic, Collapsible, Ultralight for Hiking, Camping" src="https://m.media-amazon.com/images/I/51cCtG-2lZL._SL500_.jpg"/></a>
 
 
 The **Covacure Trekking Poles Collapsible Hiking Poles** are ideal for avid hikers, campers, and outdoor enthusiasts who seek reliable, lightweight, and durable trekking sticks. If you often embark on long trails or rugged terrains and need supportive gear that is easy to carry and adjust, these **aluminum alloy 7075 trekking sticks** are perfect for you.
@@ -178,10 +178,10 @@ The **Covacure Trekking Poles** feature a sturdy yet lightweight **aluminum allo
 
 Equipped with a **quick lock system**, these trekking poles allow users to effortlessly secure the poles at the desired length without fumbling during hikes. This system enhances convenience and safety, as users can adapt to changing terrains quickly. The ultralight weight significantly reduces arm strain, allowing hikers to maintain endurance and enjoy longer excursions comfortably. Overall, these features combine to provide a reliable and user-friendly trekking companion for outdoor adventures.
 
-## <a href="https://www.amazon.com/dp/B01C60REBO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiker Hunger Carbon Fiber Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B01C60REBO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiker Hunger Carbon Fiber Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B01C60REBO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiker Hunger Carbon Fiber Trekking Poles | Collapsible Walking Sticks for Travel | Walking Poles for Women | Hiking Poles for Men | Hiking Sticks | Walking Stick - 3k Black &amp; Green Cork" src="https://m.media-amazon.com/images/I/51SHDi2rQHL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01C60REBO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiker Hunger Carbon Fiber Trekking Poles | Collapsible Walking Sticks for Travel | Walking Poles for Women | Hiking Poles for Men | Hiking Sticks | Walking Stick - 3k Black &amp; Green Cork" src="https://m.media-amazon.com/images/I/51SHDi2rQHL._SL500_.jpg"/></a>
 
 
 The **Hiker Hunger Carbon Fiber Trekking Poles** are ideal for avid hikers, travelers, and outdoor enthusiasts who seek a lightweight yet durable walking aid. Whether you're a woman or man who enjoys trail hiking, backpacking, or long-distance walking, these **collapsible trekking poles** offer the perfect combination of portability and support to enhance your outdoor experience. Their compact design makes them especially suited for those who need reliable gear that fits easily into backpacks during travel.
@@ -205,10 +205,10 @@ These **Hiker Hunger trekking poles** feature a premium **carbon fiber construct
 
 The poles' **collapsible design** offers excellent convenience, allowing users to fold them down into a compact form that fits neatly into backpacks or luggage. This portability is a key benefit for travelers or day hikers who need versatile gear that adapts to different conditions. With their sleek **3k black and green finish**, these trekking poles combine functionality with style, making them a favored choice for both men and women who want dependable, attractive hiking accessories.
 
-## <a href="https://www.amazon.com/dp/B00XM0YGW8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cascade Mountain Tech Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B00XM0YGW8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cascade Mountain Tech Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B00XM0YGW8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cascade Mountain Tech Trekking Poles - Carbon Fiber Walking or Hiking Sticks with Quick Adjustable Locks (Set of 2),Green" src="https://m.media-amazon.com/images/I/514zNq3WD+L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00XM0YGW8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cascade Mountain Tech Trekking Poles - Carbon Fiber Walking or Hiking Sticks with Quick Adjustable Locks (Set of 2),Green" src="https://m.media-amazon.com/images/I/514zNq3WD+L._SL500_.jpg"/></a>
 
 
 The **Cascade Mountain Tech Trekking Poles** are ideal for outdoor enthusiasts who enjoy hiking, walking, or trekking on various terrains. Whether you are a casual walker or a seasoned hiker, these lightweight and durable **carbon fiber walking sticks** are designed to provide stability, reduce strain on your joints, and improve balance on uneven paths. If you’re looking for reliable and easy-to-adjust trekking poles, this set is perfect for you.
@@ -231,10 +231,10 @@ The **Cascade Mountain Tech Trekking Poles** feature a robust yet lightweight **
 
 Additionally, the poles’ ergonomic design and compact size contribute to enhanced user comfort and ease of transport. The vibrant **green color** not only adds a stylish touch but also improves visibility during outdoor adventures, enhancing safety. Overall, these trekking poles provide excellent support, reduce joint impact, and help maintain balance, making them a valuable companion for anyone seeking an improved hiking or walking experience.
 
-## <a href="https://www.amazon.com/dp/B0DC62NBJY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Hiking Poles</a>
+## <a href="https://www.amazon.com/dp/B0DC62NBJY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Trekology Hiking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B0DC62NBJY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Hiking Poles with Real Cork Grips, Adjustable for Heights 5'2'' to 6'5'' – Lightweight Trekking Poles, Aircraft-Grade Aluminum, Compact Fold for Hiking &amp; Backpacking (2pc Set) TREKZ Cork SE" src="https://m.media-amazon.com/images/I/41-Jw-2MK7L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DC62NBJY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TREKOLOGY Hiking Poles with Real Cork Grips, Adjustable for Heights 5'2'' to 6'5'' – Lightweight Trekking Poles, Aircraft-Grade Aluminum, Compact Fold for Hiking &amp; Backpacking (2pc Set) TREKZ Cork SE" src="https://m.media-amazon.com/images/I/41-Jw-2MK7L._SL500_.jpg"/></a>
 
 
 The **TREKOLOGY Hiking Poles with Real Cork Grips** are ideal for outdoor enthusiasts who enjoy hiking, trekking, or backpacking and need reliable, lightweight support on various terrains. These poles are perfect for individuals ranging in height from **5'2'' to 6'5''**, making them versatile for most users seeking enhanced stability and reduced joint strain during their adventures.
@@ -256,10 +256,10 @@ The **TREKOLOGY Hiking Poles** feature a robust yet lightweight construction mad
 
 The **real cork grips** provide a natural, comfortable hold that reduces hand fatigue and absorbs moisture, keeping hands dry during intense hikes. Additionally, the poles fold compactly, making them convenient to store in backpacks or carry when not in use. Overall, these features combine to create a reliable trekking pole set that improves balance, reduces joint impact, and elevates the hiking experience for both casual and serious hikers.
 
-## <a href="https://www.amazon.com/dp/B06X6GLMFM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fizan Compact 3 Trekking Poles</a>
+## <a href="https://www.amazon.com/dp/B06X6GLMFM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fizan Compact 3 Trekking Poles</a>
 
 
-<a href="https://www.amazon.com/dp/B06X6GLMFM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fizan Compact 3 Trekking Poles – 5.6 oz Ultralight, Backpacking, Thru Hiking Poles, Adjustable, Collapsible, Customized Fit, EVA Grips, Aluminum Walking Sticks (Compact 3 / EVA/Blue)" src="https://m.media-amazon.com/images/I/31xnnR9boHL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B06X6GLMFM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fizan Compact 3 Trekking Poles – 5.6 oz Ultralight, Backpacking, Thru Hiking Poles, Adjustable, Collapsible, Customized Fit, EVA Grips, Aluminum Walking Sticks (Compact 3 / EVA/Blue)" src="https://m.media-amazon.com/images/I/31xnnR9boHL._SL500_.jpg"/></a>
 
 
 The **Fizan Compact 3 Trekking Poles** are ideal for avid hikers, backpackers, and outdoor enthusiasts who prioritize lightweight gear without sacrificing durability and functionality. Perfect for those who enjoy **thru hiking** or long-distance trekking, these poles offer a **customized fit** and compact design that easily fits into any backpack, making them a great choice for anyone seeking reliable support on rugged trails.

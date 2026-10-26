@@ -23,10 +23,10 @@ The right ear plugs block out sound while fitting snugly in the ear canal. Some 
 
 
 
-## <a href="https://www.amazon.com/dp/B0F9NN286C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs</a>
+## <a href="https://www.amazon.com/dp/B0F9NN286C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B0F9NN286C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs, Sleep Earplugs with Cleaning, Memory Foam &amp; Silicone Tips, Noise Reduction up to 35 dB, with 3 Sizes &amp; Case, Reusable, Noise Protection Earplug for Side Sleepers, Travel, Work Black" src="https://m.media-amazon.com/images/I/31M8uywA3iL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F9NN286C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs, Sleep Earplugs with Cleaning, Memory Foam &amp; Silicone Tips, Noise Reduction up to 35 dB, with 3 Sizes &amp; Case, Reusable, Noise Protection Earplug for Side Sleepers, Travel, Work Black" src="https://m.media-amazon.com/images/I/31M8uywA3iL._SL500_.jpg"/></a>
 
 
 These **Ear Plugs** are ideal for individuals who struggle with noisy environments during sleep, work, or travel. If you are a **side sleeper** seeking effective noise reduction or someone frequently exposed to loud sounds, these **noise protection earplugs** with memory foam and silicone tips are designed to provide comfort and superior sound blocking.
@@ -48,10 +48,10 @@ The **IDE11 Ear Plugs** combine **memory foam and silicone tips** to deliver a c
 
 With a noise reduction rating of **up to 35 dB**, these earplugs significantly reduce ambient noise, making them perfect for use in noisy environments such as airplanes, busy offices, or loud household settings. The **reusable and easy-to-clean** design enhances their practicality, allowing users to maintain hygiene without constantly purchasing replacements. The included **carrying case** also adds to their convenience, making them an excellent choice for travelers and professionals alike.
 
-## <a href="https://www.amazon.com/dp/B0D3V6Y38G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loop Quiet 2 Ear Plugs</a>
+## <a href="https://www.amazon.com/dp/B0D3V6Y38G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loop Quiet 2 Ear Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B0D3V6Y38G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Noise-Reducing Earplugs for Sleep, Deep Focus, Travel, Sensitivity | Flexible Hearing Protection | Customizable Fit | 24dB (SNR) Noise Reduction" src="https://m.media-amazon.com/images/I/215ktnAgWtL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D3V6Y38G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Noise-Reducing Earplugs for Sleep, Deep Focus, Travel, Sensitivity | Flexible Hearing Protection | Customizable Fit | 24dB (SNR) Noise Reduction" src="https://m.media-amazon.com/images/I/215ktnAgWtL._SL500_.jpg"/></a>
 
 
 The **Loop Quiet 2 Ear Plugs** are ideal for individuals seeking effective **noise reduction** without compromising comfort. Whether you are a light sleeper, a frequent traveler, someone who needs to maintain deep focus in noisy environments, or a person with sound sensitivity, these **ultra-comfy reusable earplugs** offer a customizable fit that adapts to your unique ear shape for maximum comfort and protection.
@@ -75,10 +75,10 @@ The **Loop Quiet 2 Ear Plugs** feature a unique design that balances **flexibili
 
 Made by **Loop**, a trusted name in hearing protection, these earplugs come in a vibrant **violet color** and lightweight form factor, ensuring they are easy to carry and use on the go. The **customizable fit** allows users to adjust the earplugs to their specific ear anatomy, enhancing comfort and effectiveness. Whether you are sensitive to noise or simply want to create a peaceful personal space, the Loop Quiet 2 offers a reliable solution without sacrificing comfort or style.
 
-## <a href="https://www.amazon.com/dp/B0FBR7B3FY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping 45db Noise Cancelling</a>
+## <a href="https://www.amazon.com/dp/B0FBR7B3FY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping 45db Noise Cancelling</a>
 
 
-<a href="https://www.amazon.com/dp/B0FBR7B3FY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping 45dB Noise Cancelling Earplugs for Concerts, Snoring, Travel, Sleep, Reusable Silicone Noise Reduction Ear Plug Soft Ear Plug with 8 Ear Tips &amp; Case Black" src="https://m.media-amazon.com/images/I/31we7tebp8L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0FBR7B3FY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping 45dB Noise Cancelling Earplugs for Concerts, Snoring, Travel, Sleep, Reusable Silicone Noise Reduction Ear Plug Soft Ear Plug with 8 Ear Tips &amp; Case Black" src="https://m.media-amazon.com/images/I/31we7tebp8L._SL500_.jpg"/></a>
 
 
 The **Ear Plugs for Sleeping 45dB Noise Cancelling Earplugs** are ideal for individuals who seek a peaceful and undisturbed environment, whether at home, during travel, or at loud events like concerts. These earplugs are perfect for light sleepers, frequent travelers, concert-goers, and anyone looking to reduce the impact of snoring or noisy surroundings.
@@ -100,10 +100,10 @@ These **noise cancelling earplugs** feature a compact design with dimensions opt
 
 The portability of the earplugs, combined with the sturdy carrying case, makes them an excellent travel companion. Whether on a plane, train, or staying in a noisy hotel, users can enjoy restful sleep without interruption. Additionally, the **45dB noise cancelling capability** ensures that loud events like concerts do not damage hearing, providing protection while still allowing the user to enjoy the experience. Overall, these earplugs offer a practical, comfortable, and effective solution for a wide range of noise reduction needs.
 
-## <a href="https://www.amazon.com/dp/B0B9CDC567?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Alpine Sleepdeep Mini</a>
+## <a href="https://www.amazon.com/dp/B0B9CDC567?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Alpine Sleepdeep Mini</a>
 
 
-<a href="https://www.amazon.com/dp/B0B9CDC567?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Alpine SleepDeep Mini - Soft Ear Plugs for Sleeping and Concentration - New 3D Oval Shape and Noise Reducing Gel for Better Attenuation - 27dB - Ideal for Side Sleeper - 1-Pair Reusable: S" src="https://m.media-amazon.com/images/I/41WkP8Bo2zL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B9CDC567?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Alpine SleepDeep Mini - Soft Ear Plugs for Sleeping and Concentration - New 3D Oval Shape and Noise Reducing Gel for Better Attenuation - 27dB - Ideal for Side Sleeper - 1-Pair Reusable: S" src="https://m.media-amazon.com/images/I/41WkP8Bo2zL._SL500_.jpg"/></a>
 
 
 The **Alpine SleepDeep Mini** ear plugs are perfect for individuals who struggle with sleep disturbances due to noise or those who need enhanced concentration in noisy environments. Ideal for **side sleepers**, these ear plugs provide a comfortable and effective solution for anyone seeking a peaceful rest or focused work time without distractions. Whether you are a light sleeper, a shift worker, or someone working in a busy office, these ear plugs are designed to meet your noise reduction needs.
@@ -126,10 +126,10 @@ The **Alpine SleepDeep Mini** ear plugs incorporate innovative design features t
 
 Beyond noise reduction, the ear plugs are crafted from high-quality, soft materials that provide a gentle feel without causing irritation, allowing for extended wear throughout the night. Their **reusability** and easy maintenance ensure they remain hygienic and functional over time, offering great value. Lightweight and discreet, the Alpine SleepDeep Mini combines comfort and efficiency, making it a top choice for anyone looking to improve sleep quality or focus in noisy surroundings.
 
-## <a href="https://www.amazon.com/dp/B07G1MWHNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Pillow Soft Silicone Earplugs</a>
+## <a href="https://www.amazon.com/dp/B07G1MWHNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Pillow Soft Silicone Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B07G1MWHNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Pillow Soft Silicone Earplugs, 12 Pair – The Original Moldable Silicone Putty Ear Plugs for Sleeping, Snoring, Swimming, Travel, Concerts and Studying | Made in USA" src="https://m.media-amazon.com/images/I/51xb3+YIUzL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07G1MWHNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Pillow Soft Silicone Earplugs, 12 Pair – The Original Moldable Silicone Putty Ear Plugs for Sleeping, Snoring, Swimming, Travel, Concerts and Studying | Made in USA" src="https://m.media-amazon.com/images/I/51xb3+YIUzL._SL500_.jpg"/></a>
 
 
 The **Mack's Pillow Soft Silicone Earplugs** are ideal for individuals seeking effective noise reduction in various environments. Whether you are a light sleeper disturbed by snoring, a frequent traveler needing to block out ambient noise, a swimmer looking to protect your ears from water, or a student aiming for better concentration, these earplugs offer versatile protection and comfort. Their moldable silicone putty design ensures a custom fit for all ear shapes, making them a great choice for anyone prioritizing both noise cancellation and comfort.
@@ -152,10 +152,10 @@ These earplugs feature a unique moldable silicone putty that allows users to cus
 
 Another significant benefit is their versatility; they can be used in a variety of noisy environments, from loud concerts to busy travel scenarios and even for improving concentration during study sessions. The compact size and lightweight build ensure that you can carry multiple pairs on the go without hassle. Additionally, being manufactured by McKeon Products, Inc. in the USA guarantees compliance with high manufacturing standards, providing users with a reliable and safe product.
 
-## <a href="https://www.amazon.com/dp/B0051U7W32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Ultra Soft Foam Earplugs</a>
+## <a href="https://www.amazon.com/dp/B0051U7W32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Ultra Soft Foam Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B0051U7W32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Ultra Soft Foam Earplugs, 50 Pair - 33dB Highest NRR, Comfortable Ear Plugs for Sleeping, Snoring, Travel, Concerts, Studying, Loud Noise, Work | Made in USA" src="https://m.media-amazon.com/images/I/41lqnvPYumL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0051U7W32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Ultra Soft Foam Earplugs, 50 Pair - 33dB Highest NRR, Comfortable Ear Plugs for Sleeping, Snoring, Travel, Concerts, Studying, Loud Noise, Work | Made in USA" src="https://m.media-amazon.com/images/I/41lqnvPYumL._SL500_.jpg"/></a>
 
 
 The **Mack's Ultra Soft Foam Earplugs** are ideal for individuals seeking effective noise reduction in various environments. Whether you are a light sleeper, a frequent traveler, a concert-goer, or someone who works in a noisy setting, these earplugs provide a comfortable and reliable solution to block out unwanted sounds.
@@ -177,10 +177,10 @@ The **Mack's Ultra Soft Foam Earplugs** feature a high noise reduction rating (N
 
 These earplugs are highly versatile, suitable for a wide range of noisy environments. Whether you need to concentrate while studying, protect your hearing at a concert, or get a restful night's sleep despite snoring, the **Mack's Ultra Soft Foam Earplugs** offer reliable noise control without sacrificing comfort. Additionally, their lightweight and compact dimensions make them easy to carry around, ensuring you have them on hand whenever needed.
 
-## <a href="https://www.amazon.com/dp/B0871QFP82?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Sleep Ear Plugs For Side Sleepers</a>
+## <a href="https://www.amazon.com/dp/B0871QFP82?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Sleep Ear Plugs For Side Sleepers</a>
 
 
-<a href="https://www.amazon.com/dp/B0871QFP82?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Sleep Ear Plugs for Side Sleepers 3 Pairs, 100x Reusable Soft Earplugs for Noise Reduction Cancelling Earbuds for Snoring, Study, Travel, Working, Safety -32dB Hearing Protection" src="https://m.media-amazon.com/images/I/41aloxjzpLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0871QFP82?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Sleep Ear Plugs for Side Sleepers 3 Pairs, 100x Reusable Soft Earplugs for Noise Reduction Cancelling Earbuds for Snoring, Study, Travel, Working, Safety -32dB Hearing Protection" src="https://m.media-amazon.com/images/I/41aloxjzpLL._SL500_.jpg"/></a>
 
 
 The **Softvox Sleep Ear Plugs for Side Sleepers** are ideal for individuals who struggle with noise disturbances during sleep, such as those living in noisy environments or sharing rooms with snorers. They are perfect for side sleepers looking for comfortable, effective noise reduction and anyone needing reliable ear protection for **study, travel, work, or safety** purposes.
@@ -203,10 +203,10 @@ The **Softvox Sleep Ear Plugs** are crafted from ultra-soft materials that confo
 
 These earplugs deliver impressive **-32dB noise reduction**, effectively blocking out disruptive sounds like snoring, traffic, or background noise during travel and work. The fact that they are **100 times reusable** makes them an economical and eco-friendly choice, while the compact size and appealing pink hue add to their convenience and style. Overall, they provide a practical solution for anyone seeking enhanced hearing protection and a better night's rest.
 
-## <a href="https://www.amazon.com/dp/B0FDKS5PZQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping</a>
+## <a href="https://www.amazon.com/dp/B0FDKS5PZQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping</a>
 
 
-<a href="https://www.amazon.com/dp/B0FDKS5PZQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping - Soft Reusable Gel Ear Plugs for Noise Reduction &amp; Focus, 3D Oval Noise Cancelling Design (35dB), Ideal for Side Sleepers - 2 Pairs (S + M/L)" src="https://m.media-amazon.com/images/I/61YrM91EVkL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0FDKS5PZQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping - Soft Reusable Gel Ear Plugs for Noise Reduction &amp; Focus, 3D Oval Noise Cancelling Design (35dB), Ideal for Side Sleepers - 2 Pairs (S + M/L)" src="https://m.media-amazon.com/images/I/61YrM91EVkL._SL500_.jpg"/></a>
 
 
 The **Ear Plugs for Sleeping** by EARHOPE are perfect for individuals who struggle with noisy environments or have difficulty focusing due to sound disturbances. Ideal for **side sleepers** and anyone seeking a comfortable, effective solution for **noise reduction**, these plugs are designed to enhance sleep quality and concentration, making them a great buy for light sleepers, shift workers, travelers, and students.
@@ -229,10 +229,10 @@ These **soft gel ear plugs** are crafted to provide a snug and comfortable fit, 
 
 The inclusion of two pairs in different sizes ensures a tailored fit, which is crucial for comfort and effective noise cancellation. Made from reusable materials, these ear plugs not only offer a sustainable option but also maintain their softness and flexibility after multiple uses. Their discreet white color and sleek design make them ideal for everyday use, whether at home, in the office, or while traveling. Overall, the EARHOPE Ear Plugs combine innovative design with practical benefits, making them an excellent investment for anyone seeking peace and quiet in a noisy world.
 
-## <a href="https://www.amazon.com/dp/B005YUW7A2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Slim Fit Soft Foam Earplugs</a>
+## <a href="https://www.amazon.com/dp/B005YUW7A2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack's Slim Fit Soft Foam Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B005YUW7A2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Slim Fit Soft Foam Earplugs, 50 Pair - Small Ear Plugs for Sleeping, Snoring, Traveling, Concerts, Shooting Sports &amp; Power Tools | Made in USA" src="https://m.media-amazon.com/images/I/41FVNQAVcEL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B005YUW7A2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack's Slim Fit Soft Foam Earplugs, 50 Pair - Small Ear Plugs for Sleeping, Snoring, Traveling, Concerts, Shooting Sports &amp; Power Tools | Made in USA" src="https://m.media-amazon.com/images/I/41FVNQAVcEL._SL500_.jpg"/></a>
 
 
 The **Mack's Slim Fit Soft Foam Earplugs** are ideal for individuals seeking effective noise reduction in a comfortable, discreet design. Perfect for light sleepers, frequent travelers, concert-goers, and those exposed to loud environments such as shooting sports or power tools, these earplugs provide a snug fit that helps block out unwanted noise without causing discomfort.
@@ -255,10 +255,10 @@ The **Mack's Slim Fit Soft Foam Earplugs** feature a compact design measuring ju
 
 In addition to comfort, these earplugs excel in versatility. Whether you're trying to block out snoring, drown out the loud sounds of power tools, or enjoy concerts and shooting sports safely, these earplugs deliver reliable noise reduction. The bulk pack of 50 pairs ensures you always have a fresh pair ready, which is especially convenient for travelers and frequent users. Made by McKeon Products in the USA, these earplugs meet high standards of quality and safety, providing peace of mind along with effective ear protection.
 
-## <a href="https://www.amazon.com/dp/B0DPH7HNT1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping Noise Cancelling</a>
+## <a href="https://www.amazon.com/dp/B0DPH7HNT1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Sleeping Noise Cancelling</a>
 
 
-<a href="https://www.amazon.com/dp/B0DPH7HNT1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping Noise Cancelling,45dB Soft EarPlugs for Concert,Reusable Ear Plugs for Noise Reduction with 8 EarTips,Silicone Hearing Protectio for Work and Travel(Black)" src="https://m.media-amazon.com/images/I/41JslYXs-sL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DPH7HNT1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Sleeping Noise Cancelling,45dB Soft EarPlugs for Concert,Reusable Ear Plugs for Noise Reduction with 8 EarTips,Silicone Hearing Protectio for Work and Travel(Black)" src="https://m.media-amazon.com/images/I/41JslYXs-sL._SL500_.jpg"/></a>
 
 
 These **Ear Plugs for Sleeping Noise Cancelling** are ideal for individuals who struggle with noisy environments disrupting their sleep or concentration. Whether you are a frequent traveler, a concert-goer, or someone working in loud settings, these **45dB soft silicone ear plugs** offer effective noise reduction and comfort, making them perfect for anyone seeking peaceful rest or focused work time.

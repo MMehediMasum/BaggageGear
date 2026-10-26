@@ -23,10 +23,10 @@ From flint rods to fuel tablets, many types fit different needs. Selecting the r
 
 
 
-## <a href="https://www.amazon.com/dp/B09NQWJ2CP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Non-toxic Waterproof Fire Starters</a>
+## <a href="https://www.amazon.com/dp/B09NQWJ2CP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Non-toxic Waterproof Fire Starters</a>
 
 
-<a href="https://www.amazon.com/dp/B09NQWJ2CP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Non-Toxic Waterproof Fire Starters with 5+ Minute Burn for Emergencies, Survival, Campfires, Fire Pits, Grills - Made in The USA - 30 Pack" src="https://m.media-amazon.com/images/I/41INL+8NaAL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09NQWJ2CP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Non-Toxic Waterproof Fire Starters with 5+ Minute Burn for Emergencies, Survival, Campfires, Fire Pits, Grills - Made in The USA - 30 Pack" src="https://m.media-amazon.com/images/I/41INL+8NaAL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts, campers, survivalists, and anyone who wants a reliable and safe way to start fires, these **Non-Toxic Waterproof Fire Starters** are perfect for emergencies, campfires, fire pits, and grills. If you need a dependable fire source that burns long and is easy to use, this 30-pack from **Bigfoot Bushcraft** is an excellent choice.
@@ -50,10 +50,10 @@ The **Bigfoot Bushcraft Non-Toxic Waterproof Fire Starters** are designed to per
 
 These fire starters are lightweight and easy to carry, making them ideal for backpackers and campers who prioritize space and weight. The non-toxic formulation ensures safety for both users and the environment, which is important for responsible outdoor enthusiasts. With the assurance of being made in the USA, users can trust the quality and consistency of each fire starter, making them a dependable addition to your emergency or camping kit.
 
-## <a href="https://www.amazon.com/dp/B0BCDV6Y6G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Black Beard Fire Plugs</a>
+## <a href="https://www.amazon.com/dp/B0BCDV6Y6G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Black Beard Fire Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B0BCDV6Y6G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Black Beard Fire Plugs (50 Plugs) | 100% Weatherproof Fire Starter for Campfires | Can Light 50+ Fires | Extra Long Burn Time | 30 Yr Shelf Life for Emergency Survival Kits | Made in USA, Yellow" src="https://m.media-amazon.com/images/I/51GKYYjzwhL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BCDV6Y6G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Black Beard Fire Plugs (50 Plugs) | 100% Weatherproof Fire Starter for Campfires | Can Light 50+ Fires | Extra Long Burn Time | 30 Yr Shelf Life for Emergency Survival Kits | Made in USA, Yellow" src="https://m.media-amazon.com/images/I/51GKYYjzwhL._SL500_.jpg"/></a>
 
 
 The **Black Beard Fire Plugs (50 Plugs)** are ideal for outdoor enthusiasts, campers, survivalists, and anyone looking to reliably start campfires in various weather conditions. If you need a dependable fire starter that offers long-lasting burn time and can be stored for years without losing effectiveness, this product is perfect for your emergency survival kits or regular camping adventures.
@@ -75,10 +75,10 @@ The **Black Beard Fire Plugs** feature a compact and lightweight design, making 
 
 Additionally, the plugs offer an **extra long burn time**, which allows for a more reliable ignition of kindling and larger fuel sources. Their durability and performance are supported by a remarkable **30-year shelf life**, making them an excellent investment for emergency survival kits. Overall, the Black Beard Fire Plugs combine convenience, reliability, and longevity, making them a must-have fire starter for anyone serious about outdoor adventures and preparedness.
 
-## <a href="https://www.amazon.com/dp/B08H1Q5XQV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fireflame Quick Instant Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B08H1Q5XQV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fireflame Quick Instant Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B08H1Q5XQV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FireFlame Quick Instant Fire Starter -100% Waterproof All-Purpose Indoor &amp; Outdoor FireStarter, for Charcoal Starter, Campfire, Fireplace, Firepit, Smoker - Odorless and Non-Toxic - 20 Pouches in Bag" src="https://m.media-amazon.com/images/I/51K9jxGrpyL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08H1Q5XQV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FireFlame Quick Instant Fire Starter -100% Waterproof All-Purpose Indoor &amp; Outdoor FireStarter, for Charcoal Starter, Campfire, Fireplace, Firepit, Smoker - Odorless and Non-Toxic - 20 Pouches in Bag" src="https://m.media-amazon.com/images/I/51K9jxGrpyL._SL500_.jpg"/></a>
 
 
 The **FireFlame Quick Instant Fire Starter** is perfect for outdoor enthusiasts, campers, and anyone who needs a reliable and fast way to ignite fires in various settings. Whether you’re lighting a **charcoal grill**, starting a cozy **campfire**, or firing up a **fireplace** or **smoker**, this product is designed for those who value convenience, safety, and efficiency in fire-starting tools. Its waterproof and odorless features make it ideal for both indoor and outdoor use, appealing to adventurers and homeowners alike.
@@ -100,10 +100,10 @@ The **FireFlame Quick Instant Fire Starter** features a powerful ignition formul
 
 Additionally, its **odorless** and **non-toxic** composition ensures that it won’t interfere with the taste of your food or create unpleasant fumes indoors. This makes it a safe choice for indoor use, such as in fireplaces or smokers, as well as outdoor fire pits. The convenience of having **20 pouches** in one bag means you’re well-prepared for multiple fire-starting occasions, adding value and peace of mind to your outdoor or home fire activities.
 
-## <a href="https://www.amazon.com/dp/B00PSGOM32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B00PSGOM32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B00PSGOM32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/519LvqL1wFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00PSGOM32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/519LvqL1wFL._SL500_.jpg"/></a>
 
 
 The **bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter** is ideal for outdoor enthusiasts, campers, hikers, and survivalists who need a reliable and durable fire-starting tool. If you spend time in wilderness settings or want to be prepared for emergency situations, this **ferro rod kit** offers an efficient and compact solution for starting fires under various weather conditions.
@@ -126,10 +126,10 @@ This **bayite ferrocerium fire starter** features a robust ferro rod that genera
 
 Its lightweight and compact dimensions make it an excellent addition to any survival kit or backpack. The durable construction ensures longevity, enabling users to rely on this fire starter in critical situations. Overall, this tool combines practicality and reliability, making it a must-have for anyone serious about outdoor survival and preparedness.
 
-## <a href="https://www.amazon.com/dp/B07SSWTNYG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Aofar Magnesium Fire Starter Af-374</a>
+## <a href="https://www.amazon.com/dp/B07SSWTNYG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Aofar Magnesium Fire Starter Af-374</a>
 
 
-<a href="https://www.amazon.com/dp/B07SSWTNYG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AOFAR Magnesium Fire Starter AF-374 (2-Pack) Waterproof Fire Steel Pouch for Camping, Hiking, Hunting, Backpacking,Outdoor Survival fire Striker kit" src="https://m.media-amazon.com/images/I/41jU4eZ-jcL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07SSWTNYG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AOFAR Magnesium Fire Starter AF-374 (2-Pack) Waterproof Fire Steel Pouch for Camping, Hiking, Hunting, Backpacking,Outdoor Survival fire Striker kit" src="https://m.media-amazon.com/images/I/41jU4eZ-jcL._SL500_.jpg"/></a>
 
 
 The **AOFAR Magnesium Fire Starter AF-374 (2-Pack)** is ideal for outdoor enthusiasts such as campers, hikers, hunters, and backpackers who need a reliable and durable fire-starting tool. If you often find yourself in survival situations or remote locations where traditional fire-starting methods may fail, this waterproof fire steel pouch offers a dependable solution to ignite fires quickly and efficiently.
@@ -152,10 +152,10 @@ The **AOFAR Magnesium Fire Starter AF-374** stands out with its compact size mea
 
 Equipped with two fire starters in one pack, users benefit from a backup option that can be crucial during extended trips or emergencies. The tool’s ability to produce strong, consistent sparks allows for fast and easy ignition of kindling, saving time and effort. Whether you are lighting a campfire, stove, or emergency signal fire, the AOFAR fire striker kit offers a practical and efficient solution for your outdoor survival needs.
 
-## <a href="https://www.amazon.com/dp/B09W2GXZMP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire Starter Survival Tool</a>
+## <a href="https://www.amazon.com/dp/B09W2GXZMP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire Starter Survival Tool</a>
 
 
-<a href="https://www.amazon.com/dp/B09W2GXZMP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire Starter Survival Tool - All-in-One Patented Flint and Steel Fire Starter Kit - Ferro Rod Fire Starter with 36" src="https://m.media-amazon.com/images/I/513vMtHKu0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09W2GXZMP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire Starter Survival Tool - All-in-One Patented Flint and Steel Fire Starter Kit - Ferro Rod Fire Starter with 36" src="https://m.media-amazon.com/images/I/513vMtHKu0L._SL500_.jpg"/></a>
 
 
 The **Fire Starter Survival Tool** by **PREPARED4X** is ideal for outdoor enthusiasts, campers, hikers, and survivalists who require a reliable and efficient way to start a fire in any weather condition. This compact and durable kit is perfect for those who prioritize safety and preparedness during their adventures or emergency situations.
@@ -178,10 +178,10 @@ This **Ferro Rod Fire Starter** kit from **ModernSwap** features a patented desi
 
 The steel fire striker included in the kit is engineered to strike against the ferro rod with minimal effort, generating consistent sparks to ignite the tinder wick quickly. This tool is designed for durability and ease of use, ensuring that users can depend on it in critical situations. Overall, the **Fire Starter Survival Tool** offers a practical and efficient solution for anyone needing a trustworthy fire-starting method, combining convenience, durability, and functionality in one compact package.
 
-## <a href="https://www.amazon.com/dp/B008Y5A29W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Insta-fire Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B008Y5A29W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Insta-fire Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B008Y5A29W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="(3 Packs) Insta-Fire Fire Starter Perfect for Camping, Emergencies, Hiking, Fishing, Boating, Fire Pits, Grilling, Survival, Preppers, Food Storage, Boiling Water (as Seen on Shark Tank!)" src="https://m.media-amazon.com/images/I/41p1i6b84iS._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B008Y5A29W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="(3 Packs) Insta-Fire Fire Starter Perfect for Camping, Emergencies, Hiking, Fishing, Boating, Fire Pits, Grilling, Survival, Preppers, Food Storage, Boiling Water (as Seen on Shark Tank!)" src="https://m.media-amazon.com/images/I/41p1i6b84iS._SL500_.jpg"/></a>
 
 
 The **(3 Packs) Insta-Fire Fire Starter** is ideal for outdoor enthusiasts, preppers, and anyone who needs a reliable and easy-to-use fire starting solution. Whether you are going camping, hiking, fishing, boating, or simply enjoying a fire pit or grill, this product is designed for those who want to start fires quickly and efficiently, even in challenging conditions.
@@ -203,10 +203,10 @@ The **Insta-Fire Fire Starter** is designed with convenience and performance in 
 
 In addition to its effectiveness, the product's compact size and lightweight construction make it highly portable without sacrificing performance. The fire starters burn hot and long enough to ignite kindling and larger fuel sources, making them versatile for a wide range of applications—from boiling water to grilling. Overall, the Insta-Fire Fire Starter offers a reliable and practical solution for anyone needing a dependable fire ignition tool on the go.
 
-## <a href="https://www.amazon.com/dp/B005NGMJLY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Esbit Solid Fuel Tablets</a>
+## <a href="https://www.amazon.com/dp/B005NGMJLY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Esbit Solid Fuel Tablets</a>
 
 
-<a href="https://www.amazon.com/dp/B005NGMJLY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Esbit 1300-Degree Smokeless Solid 14g Fuel Tablets for Backpacking, Camping, and Emergency Prep, 12 Pieces,White" src="https://m.media-amazon.com/images/I/41gfjfXbIzL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B005NGMJLY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Esbit 1300-Degree Smokeless Solid 14g Fuel Tablets for Backpacking, Camping, and Emergency Prep, 12 Pieces,White" src="https://m.media-amazon.com/images/I/41gfjfXbIzL._SL500_.jpg"/></a>
 
 
 The **Esbit 1300-Degree Smokeless Solid 14g Fuel Tablets** are ideal for outdoor enthusiasts such as backpackers, campers, and emergency preppers who need a reliable, compact, and efficient fuel source. These tablets are perfect for those seeking a lightweight and portable solution to cook meals or boil water in remote locations without the hassle of carrying bulky equipment or dealing with smoky fires.
@@ -229,10 +229,10 @@ The **Esbit solid fuel tablets** stand out due to their compact size and high he
 
 Additionally, the tablets are designed for convenience and portability. With dimensions of approximately **1.5 inches in height** and weighing only **0.4 pounds** for the entire pack, they easily fit into any backpack or emergency kit. Their solid form and safe handling characteristics make them a dependable option for anyone needing a straightforward fuel source for heating or cooking on the go. Whether you are a seasoned camper or preparing for unexpected emergencies, these fuel tablets offer an efficient, reliable, and clean-burning solution.
 
-## <a href="https://www.amazon.com/dp/B07SYNVLN8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Aofar Fire Starter Af-381</a>
+## <a href="https://www.amazon.com/dp/B07SYNVLN8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Aofar Fire Starter Af-381</a>
 
 
-<a href="https://www.amazon.com/dp/B07SYNVLN8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AOFAR Fire Starter AF-381 Fire Steel 5-in-1 for Camping, Hiking, Hunting, Backpacking, Boating, Outdoor Magnesium Survival Rod with Fire Paracord, Compass and Whistle, Waterproof (2-Pack)…" src="https://m.media-amazon.com/images/I/41O-rb9zZhL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07SYNVLN8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AOFAR Fire Starter AF-381 Fire Steel 5-in-1 for Camping, Hiking, Hunting, Backpacking, Boating, Outdoor Magnesium Survival Rod with Fire Paracord, Compass and Whistle, Waterproof (2-Pack)…" src="https://m.media-amazon.com/images/I/41O-rb9zZhL._SL500_.jpg"/></a>
 
 
 The **AOFAR Fire Starter AF-381 Fire Steel 5-in-1** is ideal for outdoor enthusiasts such as campers, hikers, hunters, backpackers, and boaters who require a reliable and multifunctional tool to start fires and navigate in the wilderness. If you are someone who values safety and preparedness during your outdoor adventures, this compact and durable fire starter is designed to meet your needs.
@@ -253,10 +253,10 @@ The **AOFAR Fire Starter AF-381** is engineered with a high-quality **magnesium 
 
 Additionally, the built-in **compass** and **whistle** enhance safety, helping users navigate and signal for help if needed. Its waterproof design and compact size make it a dependable companion on any outdoor trip, providing peace of mind and efficiency. Whether you are a seasoned adventurer or new to wilderness exploration, this multi-functional fire starter supports essential survival needs in one portable package.
 
-## <a href="https://www.amazon.com/dp/B07QMGJTR6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Phone Skope Pyro Putty Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B07QMGJTR6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Phone Skope Pyro Putty Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B07QMGJTR6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Phone Skope PYRO Putty Winter, Summer, Eco Blend, Emergency Survival Fire Starter (2 oz - One Can, Winter -20°F to 90°F)" src="https://m.media-amazon.com/images/I/41ZsqRqnfoL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07QMGJTR6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Phone Skope PYRO Putty Winter, Summer, Eco Blend, Emergency Survival Fire Starter (2 oz - One Can, Winter -20°F to 90°F)" src="https://m.media-amazon.com/images/I/41ZsqRqnfoL._SL500_.jpg"/></a>
 
 
 The **Phone Skope PYRO Putty Winter** is ideal for outdoor enthusiasts, survivalists, and emergency preparedness advocates who need a reliable and easy-to-use fire starter. Designed to perform in extreme temperatures ranging from **-20°F to 90°F**, this product is perfect for campers, hikers, and anyone facing unpredictable weather conditions where starting a fire quickly can be crucial.

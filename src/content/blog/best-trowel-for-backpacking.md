@@ -20,10 +20,10 @@ Color options can help find your gear quickly. Whether camping, hiking, or on su
 
 
 
-## <a href="https://www.amazon.com/dp/B07BFHT4P3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thetentlab R Deuce Of Spades Ultralight Backpack Trowel</a>
+## <a href="https://www.amazon.com/dp/B07BFHT4P3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thetentlab R Deuce Of Spades Ultralight Backpack Trowel</a>
 
 
-<a href="https://www.amazon.com/dp/B07BFHT4P3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TheTentLab(R Deuce(R) of Spades™Ultralight Backpack Trowel in Three Sizes (#2, Fire!, .6oz)" src="https://m.media-amazon.com/images/I/31ilpyxUfPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07BFHT4P3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TheTentLab(R Deuce(R) of Spades™Ultralight Backpack Trowel in Three Sizes (#2, Fire!, .6oz)" src="https://m.media-amazon.com/images/I/31ilpyxUfPL._SL500_.jpg"/></a>
 
 
 The **TheTentLab(R Deuce(R) of Spades™ Ultralight Backpack Trowel** is ideal for **backpackers, hikers, and outdoor enthusiasts** who need a reliable, lightweight, and compact tool for digging tasks during their adventures. If you prioritize **ultralight gear** without sacrificing durability, this trowel, available in three sizes and finished in the vibrant **Fire!** color, is perfect for you.
@@ -46,10 +46,10 @@ The **TheTentLab(R Deuce(R) of Spades™ Ultralight Backpack Trowel** combines a
 
 Additionally, the vibrant **Fire!** color not only adds a stylish touch but also makes the trowel easier to spot in nature, reducing the risk of losing it. Overall, this trowel delivers a superb balance of portability, strength, and usability, ideal for anyone seeking a high-quality, ultralight digging tool on their outdoor excursions.
 
-## <a href="https://www.amazon.com/dp/B09D9RZ71H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Backpacking Trowel Aluminum Shovel</a>
+## <a href="https://www.amazon.com/dp/B09D9RZ71H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Backpacking Trowel Aluminum Shovel</a>
 
 
-<a href="https://www.amazon.com/dp/B09D9RZ71H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Backpacking Trowel Aluminum Shovel Small Potty Multitool with Longer Handle Design Essential for Hiking, Camping and Survival Bags(Black 1 Pack)" src="https://m.media-amazon.com/images/I/31Sr-t43vmL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09D9RZ71H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Backpacking Trowel Aluminum Shovel Small Potty Multitool with Longer Handle Design Essential for Hiking, Camping and Survival Bags(Black 1 Pack)" src="https://m.media-amazon.com/images/I/31Sr-t43vmL._SL500_.jpg"/></a>
 
 
 The **Ultralight Backpacking Trowel Aluminum Shovel** with a longer handle design is perfect for avid **hikers**, **campers**, and **survival enthusiasts** who need a reliable, lightweight, and compact multitool for digging and other outdoor tasks. If you are someone who values portability without sacrificing functionality, this essential tool is designed to fit seamlessly into your **survival bags** and outdoor gear.
@@ -72,10 +72,10 @@ The **NACETURE Ultralight Backpacking Trowel** is engineered for convenience and
 
 Additionally, this multitool’s compact size and sleek **black finish** allow it to blend seamlessly into any outdoor kit without adding bulk. Whether you are hiking through rough terrains or setting up camp, this shovel multitool provides essential functionality with minimal effort, enhancing your outdoor experience with its thoughtful design and durable build.
 
-## <a href="https://www.amazon.com/dp/B0BJ2KXW6M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Naceture Ultralight Backpacking Trowel Aluminum Shovel</a>
+## <a href="https://www.amazon.com/dp/B0BJ2KXW6M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Naceture Ultralight Backpacking Trowel Aluminum Shovel</a>
 
 
-<a href="https://www.amazon.com/dp/B0BJ2KXW6M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NACETURE Ultralight Backpacking Trowel Aluminum Shovel Small Potty Multitool with Longer Handle Design Essential for Hiking, Camping and Survival Bags (Orange)" src="https://m.media-amazon.com/images/I/31aydvVBMYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BJ2KXW6M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NACETURE Ultralight Backpacking Trowel Aluminum Shovel Small Potty Multitool with Longer Handle Design Essential for Hiking, Camping and Survival Bags (Orange)" src="https://m.media-amazon.com/images/I/31aydvVBMYL._SL500_.jpg"/></a>
 
 
 The **NACETURE Ultralight Backpacking Trowel** is ideal for avid **hikers**, **campers**, and **outdoor survival enthusiasts** who need a reliable, compact, and lightweight tool for digging and other outdoor tasks. If you are someone who values portability without compromising on functionality, this multitool is designed to fit perfectly into your **survival bag** or **camping gear**.
@@ -97,10 +97,10 @@ The **NACETURE Ultralight Backpacking Trowel** boasts a sleek and practical desi
 
 Additionally, this multitool serves multiple purposes, including digging small holes for campfires, disposing of waste, or gardening tasks during outdoor excursions. Made from high-quality aluminum, it combines durability with lightweight portability, ensuring it can withstand regular use while remaining easy to carry. Whether you’re an experienced adventurer or a casual camper, the NACETURE trowel offers practical benefits that enhance your outdoor experience.
 
-## <a href="https://www.amazon.com/dp/B0BP12D7XZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Boglerco Ultralight Backpacking Trowel</a>
+## <a href="https://www.amazon.com/dp/B0BP12D7XZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Boglerco Ultralight Backpacking Trowel</a>
 
 
-<a href="https://www.amazon.com/dp/B0BP12D7XZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BoglerCo Ultralight Backpacking Trowel, 0.48 oz (13.5g) Blue" src="https://m.media-amazon.com/images/I/31Bw5oLV6eL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BP12D7XZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BoglerCo Ultralight Backpacking Trowel, 0.48 oz (13.5g) Blue" src="https://m.media-amazon.com/images/I/31Bw5oLV6eL._SL500_.jpg"/></a>
 
 
 The **BoglerCo Ultralight Backpacking Trowel** is perfect for avid hikers, campers, and backpackers who prioritize lightweight and compact gear without sacrificing functionality. If you need a reliable tool for digging small holes for waste disposal or campsite tasks, this trowel is an ideal choice for outdoor enthusiasts looking to minimize pack weight.
@@ -121,10 +121,10 @@ The **BoglerCo Ultralight Backpacking Trowel** boasts a sleek design with a heig
 
 Additionally, the trowel's compact size and bright blue color enhance usability and visibility in the outdoors. Whether you need to quickly and hygienically bury waste or clear small areas, this tool delivers practical benefits while maintaining a minimal footprint in your backpack. Overall, it is a smart choice for anyone seeking a lightweight, efficient, and easy-to-carry trowel for backpacking or camping excursions.
 
-## <a href="https://www.amazon.com/dp/B0D176B6MH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Camping Trowel</a>
+## <a href="https://www.amazon.com/dp/B0D176B6MH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Camping Trowel</a>
 
 
-<a href="https://www.amazon.com/dp/B0D176B6MH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Camping Trowel Backpacking Trowel Portable Aluminum Camping Shovel Small Potty Spade Hiking Trowel Garden Trowel with Longer Handle(Orange)" src="https://m.media-amazon.com/images/I/31XAKKP+7TL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D176B6MH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Camping Trowel Backpacking Trowel Portable Aluminum Camping Shovel Small Potty Spade Hiking Trowel Garden Trowel with Longer Handle(Orange)" src="https://m.media-amazon.com/images/I/31XAKKP+7TL._SL500_.jpg"/></a>
 
 
 The **Ultralight Camping Trowel Backpacking Trowel** is perfect for outdoor enthusiasts, hikers, and campers who need a compact and durable tool for digging, gardening, or emergency use. Ideal for those who prioritize **lightweight gear** and portability without sacrificing functionality, this trowel is a must-have for anyone who spends time in nature and requires a reliable digging tool.
@@ -147,10 +147,10 @@ The **portable aluminum camping shovel** offers a balance of convenience and uti
 
 Designed with practicality in mind, this **small potty spade** is versatile enough for various outdoor tasks like digging catholes, clearing debris, or gardening. The compact size and bright orange color make it easy to locate in a packed backpack or campsite. While it is optimized for light to medium tasks, its portability and sturdiness make it an indispensable tool for anyone seeking a reliable, easy-to-carry trowel for their outdoor adventures.
 
-## <a href="https://www.amazon.com/dp/B0CV2D67Y5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pact Outdoors Backpacking Shovel</a>
+## <a href="https://www.amazon.com/dp/B0CV2D67Y5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pact Outdoors Backpacking Shovel</a>
 
 
-<a href="https://www.amazon.com/dp/B0CV2D67Y5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PACT Outdoors Backpacking Shovel: Lightweight Aluminum Trowel, Essential for Backpacking, Camping, Hiking - Award Winning Backpacking Trowel" src="https://m.media-amazon.com/images/I/41MQOjl047L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CV2D67Y5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PACT Outdoors Backpacking Shovel: Lightweight Aluminum Trowel, Essential for Backpacking, Camping, Hiking - Award Winning Backpacking Trowel" src="https://m.media-amazon.com/images/I/41MQOjl047L._SL500_.jpg"/></a>
 
 
 The **PACT Outdoors Backpacking Shovel** is perfect for outdoor enthusiasts who prioritize lightweight and compact gear. Ideal for **backpackers, campers, and hikers** seeking a reliable tool to assist with digging tasks without adding unnecessary weight to their packs. If you need an **essential, durable, and portable** shovel that can easily fit into your outdoor kit, this item is designed for you.
@@ -172,10 +172,10 @@ The **PACT Outdoors Backpacking Shovel** features a sleek and efficient design c
 
 Beyond its portability, the shovel’s **award-winning design** reflects thoughtful engineering that balances strength and ease of use. The sturdy aluminum build, paired with a rust-resistant silver finish, guarantees longevity even in harsh outdoor conditions. For anyone serious about reducing pack weight while maintaining essential functionality, this shovel delivers exceptional value and performance.
 
-## <a href="https://www.amazon.com/dp/B000BS05Z6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coghlan's Trowel</a>
+## <a href="https://www.amazon.com/dp/B000BS05Z6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coghlan's Trowel</a>
 
 
-<a href="https://www.amazon.com/dp/B000BS05Z6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Coghlan's Trowel - Lightweight ABS Plastic Camping Shovel, 2 oz, Ideal for Backpacking, Hiking, Outdoor Digging, and Gardening" src="https://m.media-amazon.com/images/I/31Le3fBMepL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B000BS05Z6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Coghlan's Trowel - Lightweight ABS Plastic Camping Shovel, 2 oz, Ideal for Backpacking, Hiking, Outdoor Digging, and Gardening" src="https://m.media-amazon.com/images/I/31Le3fBMepL._SL500_.jpg"/></a>
 
 
 The **Coghlan's Trowel** is perfect for **backpackers**, **hikers**, and **outdoor enthusiasts** who need a reliable and lightweight tool for **camping**, **digging**, or even **gardening**. If you value compact gear that doesn't weigh you down but still performs well, this **lightweight ABS plastic camping shovel** is an ideal choice. Its small size and minimal weight make it especially suitable for those who prioritize efficiency and portability on the go.
@@ -198,10 +198,10 @@ The **Coghlan's Trowel** features a compact and ergonomic design crafted from **
 
 This camping shovel is designed to handle a variety of tasks, from digging fire pits and latrines to gardening and trail maintenance. While the plastic blade may not replace a heavy-duty metal shovel for intense digging, it excels in lighter outdoor applications where weight savings are crucial. The ergonomic handle supports comfortable use during short to moderate digging sessions, enhancing user experience. Overall, the **Coghlan's Trowel** is a practical, reliable, and lightweight solution for outdoor lovers seeking a simple yet effective digging tool.
 
-## <a href="https://www.amazon.com/dp/B0DKMJ7FLY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Small Camping Shovel</a>
+## <a href="https://www.amazon.com/dp/B0DKMJ7FLY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Small Camping Shovel</a>
 
 
-<a href="https://www.amazon.com/dp/B0DKMJ7FLY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Small Camping Shovel, 9 in 1 Mini Hand Shovel, Portable Backpacking Trowel, Ultralight Compact Multitool for Camping, Gardening, Outdoor Survival, Silver" src="https://m.media-amazon.com/images/I/41HkK90ShsL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DKMJ7FLY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Small Camping Shovel, 9 in 1 Mini Hand Shovel, Portable Backpacking Trowel, Ultralight Compact Multitool for Camping, Gardening, Outdoor Survival, Silver" src="https://m.media-amazon.com/images/I/41HkK90ShsL._SL500_.jpg"/></a>
 
 
 The **Small Camping Shovel**, a **9 in 1 Mini Hand Shovel**, is ideal for outdoor enthusiasts, campers, backpackers, and gardeners who need a **portable**, **ultralight**, and **compact multitool**. If you frequently engage in activities like camping, hiking, or survival expeditions, this versatile tool is designed to meet your needs with its multifunctional capabilities and easy-to-carry design.
@@ -224,10 +224,10 @@ The **Small Camping Shovel** by **XFGSYXS** is thoughtfully engineered with a le
 
 Constructed from durable materials with a sleek **silver finish**, this shovel resists rust and wear, ensuring reliable performance in various weather conditions. The ergonomic handle design enhances grip and control, reducing hand fatigue during use. Overall, this multitool is a practical addition to your camping gear, providing convenience and versatility that can simplify many tasks encountered in the great outdoors or your garden.
 
-## <a href="https://www.amazon.com/dp/B0D935MBT4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiker's Gold Ultralight Titanium Trowel</a>
+## <a href="https://www.amazon.com/dp/B0D935MBT4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiker's Gold Ultralight Titanium Trowel</a>
 
 
-<a href="https://www.amazon.com/dp/B0D935MBT4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiker's Gold Ultralight Titanium Trowel for Hiking, Backpacking, Camping" src="https://m.media-amazon.com/images/I/31lsjhX-MLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D935MBT4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiker's Gold Ultralight Titanium Trowel for Hiking, Backpacking, Camping" src="https://m.media-amazon.com/images/I/31lsjhX-MLL._SL500_.jpg"/></a>
 
 
 The **Hiker's Gold Ultralight Titanium Trowel** is ideal for avid **hikers**, **backpackers**, and **campers** who need a reliable and lightweight tool for digging tasks on the trail. If you prioritize compact gear that doesn’t add unnecessary weight to your pack, this trowel is perfect for you. It’s especially suited for those who follow Leave No Trace principles and require a durable tool for digging catholes or small trenches.
@@ -250,10 +250,10 @@ The **Hiker's Gold Ultralight Titanium Trowel** stands out due to its combinatio
 
 Another significant benefit of this trowel is its portability. Weighing only **0.1 pounds** and measuring just **8.5 inches** in length, it fits comfortably in your backpack without taking up much space or adding bulk. This makes it an excellent choice for those who need to keep their gear light and efficient during long hikes or multi-day backpacking trips.
 
-## <a href="https://www.amazon.com/dp/B075DS4H4Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">U-dig-it Light Duty Shovel</a>
+## <a href="https://www.amazon.com/dp/B075DS4H4Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">U-dig-it Light Duty Shovel</a>
 
 
-<a href="https://www.amazon.com/dp/B075DS4H4Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ust U-Dig-It Light Duty Shovel with Convenient, Lightweight Design for Outdoor Survival, Camping, Hiking" src="https://m.media-amazon.com/images/I/210gS2yBcnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B075DS4H4Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ust U-Dig-It Light Duty Shovel with Convenient, Lightweight Design for Outdoor Survival, Camping, Hiking" src="https://m.media-amazon.com/images/I/210gS2yBcnL._SL500_.jpg"/></a>
 
 
 The **ust U-Dig-It Light Duty Shovel** is perfect for outdoor enthusiasts who need a reliable and compact tool for **survival, camping, and hiking**. Ideal for those who prioritize **lightweight and convenient gear**, this shovel is designed for adventurers who want a practical solution for digging tasks without the burden of heavy equipment.

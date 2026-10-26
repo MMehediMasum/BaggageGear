@@ -22,10 +22,10 @@ Some bottles come with extra features like built-in filters or carabiners for ea
 
 
 
-## <a href="https://www.amazon.com/dp/B08PG3GMQ8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Platypus Softbottle Flexible Water Bottle</a>
+## <a href="https://www.amazon.com/dp/B08PG3GMQ8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Platypus Softbottle Flexible Water Bottle</a>
 
 
-<a href="https://www.amazon.com/dp/B08PG3GMQ8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Platypus SoftBottle Flexible Water Bottle with Closure Cap, Platy Logo, 1.0-Liter" src="https://m.media-amazon.com/images/I/31ysyYpdiIL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08PG3GMQ8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Platypus SoftBottle Flexible Water Bottle with Closure Cap, Platy Logo, 1.0-Liter" src="https://m.media-amazon.com/images/I/31ysyYpdiIL._SL500_.jpg"/></a>
 
 
 The **Platypus SoftBottle Flexible Water Bottle with Closure Cap, Platy Logo, 1.0-Liter** is ideal for outdoor enthusiasts, hikers, campers, and travelers who need a lightweight, compact, and durable hydration solution. If you value portability and convenience without sacrificing capacity, this flexible water bottle is designed to meet your needs.
@@ -48,10 +48,10 @@ The **Platypus SoftBottle** stands out due to its innovative flexible design, wh
 
 Thanks to its durable materials and reliable manufacturing by **Cascade Designs Inc.**, this water bottle offers excellent longevity despite its flexible nature. Its 1.0-liter volume is sufficient for staying hydrated during shorter outdoor activities, making it a practical choice for those who want a simple, efficient, and packable hydration solution.
 
-## <a href="https://www.amazon.com/dp/B08QF1R54F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Collapsible Camping Water Storage</a>
+## <a href="https://www.amazon.com/dp/B08QF1R54F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Collapsible Camping Water Storage</a>
 
 
-<a href="https://www.amazon.com/dp/B08QF1R54F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Collapsible Camping Water Storage (2L, 3L, 4L, 6L, 10L) - BPA &amp; PVC Free, Hydration Reservoir Bag, Leak Proof" src="https://m.media-amazon.com/images/I/31WotGw7XAL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08QF1R54F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Collapsible Camping Water Storage (2L, 3L, 4L, 6L, 10L) - BPA &amp; PVC Free, Hydration Reservoir Bag, Leak Proof" src="https://m.media-amazon.com/images/I/31WotGw7XAL._SL500_.jpg"/></a>
 
 
 The **Collapsible Camping Water Storage** is perfect for outdoor enthusiasts, hikers, campers, and travelers who need a convenient and reliable way to carry water. Ideal for those who value lightweight, space-saving gear, this product caters to people looking for a durable and safe hydration solution in various capacities ranging from 2L to 10L.
@@ -74,10 +74,10 @@ The **HydraPak Collapsible Camping Water Storage** features a versatile hydratio
 
 Crafted by the reputable brand **HydraPak**, this water storage solution boasts a durable construction free from **BPA and PVC**, ensuring the water you drink remains pure and uncontaminated. The leak-proof design adds an extra layer of reliability, so users can confidently pack it alongside other belongings without worrying about spills. Available in a striking **Sutro Green** color, it is both functional and visually appealing for outdoor use.
 
-## <a href="https://www.amazon.com/dp/B000J2KEGY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Platypus Platy 2-liter Ultralight Collapsible Backpacking Water Bottle</a>
+## <a href="https://www.amazon.com/dp/B000J2KEGY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Platypus Platy 2-liter Ultralight Collapsible Backpacking Water Bottle</a>
 
 
-<a href="https://www.amazon.com/dp/B000J2KEGY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Platypus Platy 2-Liter Ultralight Collapsible Backpacking Water Bottle" src="https://m.media-amazon.com/images/I/31rKRshQvpL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B000J2KEGY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Platypus Platy 2-Liter Ultralight Collapsible Backpacking Water Bottle" src="https://m.media-amazon.com/images/I/31rKRshQvpL._SL500_.jpg"/></a>
 
 
 The **Platypus Platy 2-Liter Ultralight Collapsible Backpacking Water Bottle** is ideal for outdoor enthusiasts, hikers, and backpackers who prioritize lightweight and compact gear. Those who need a reliable, space-saving hydration solution for long trips or day hikes will find this water bottle particularly beneficial. Its collapsible design makes it perfect for anyone looking to minimize pack weight and maximize convenience on the trail.
@@ -100,10 +100,10 @@ The **Platypus Platy 2-Liter Ultralight Collapsible Backpacking Water Bottle** f
 
 Constructed with durable materials by **Platypus**, this water bottle ensures reliable performance in rugged outdoor conditions. The clear body lets users quickly see how much water remains, encouraging proper hydration without frequent stops. While it lacks insulation, its lightweight and space-saving benefits more than compensate for this, making it an excellent choice for those who value minimalist packing and efficient hydration on the go.
 
-## <a href="https://www.amazon.com/dp/B0C58GZHRX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Taketoday Collapsible Water Bottles 20oz</a>
+## <a href="https://www.amazon.com/dp/B0C58GZHRX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Taketoday Collapsible Water Bottles 20oz</a>
 
 
-<a href="https://www.amazon.com/dp/B0C58GZHRX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TakeToday Collapsible Water Bottles 20oz, Leak Proof, BPA-Free, Foldable Silicone Travel Water Bottle with Straw Strap for Cycling, Hiking, Outdoors" src="https://m.media-amazon.com/images/I/31KKBGNblML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C58GZHRX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TakeToday Collapsible Water Bottles 20oz, Leak Proof, BPA-Free, Foldable Silicone Travel Water Bottle with Straw Strap for Cycling, Hiking, Outdoors" src="https://m.media-amazon.com/images/I/31KKBGNblML._SL500_.jpg"/></a>
 
 
 The **TakeToday Collapsible Water Bottles 20oz** are perfect for outdoor enthusiasts, travelers, and fitness lovers who need a convenient, space-saving hydration solution. If you enjoy activities like **cycling**, **hiking**, or simply staying hydrated on the go, this **foldable silicone travel water bottle** is designed to meet your needs with its lightweight and portable design.
@@ -126,10 +126,10 @@ The **TakeToday Collapsible Water Bottle** stands out due to its unique foldable
 
 Additionally, the integrated **straw strap** enhances usability, allowing you to drink easily during activities like cycling or hiking without removing the bottle from your pack. The lightweight nature combined with the durable build means this water bottle is not only practical but also reliable for all your outdoor adventures.
 
-## <a href="https://www.amazon.com/dp/B0F18HHQ29?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vanpet Filter Collapsible Water Bottles</a>
+## <a href="https://www.amazon.com/dp/B0F18HHQ29?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vanpet Filter Collapsible Water Bottles</a>
 
 
-<a href="https://www.amazon.com/dp/B0F18HHQ29?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VANPET Filter Collapsible Water Bottles, 1L Plastic Flasks, Reusable Drink Bags, Foldable Backpacking Water Bottle for Travel Camping Hiking (2)" src="https://m.media-amazon.com/images/I/31rfpIFC5lL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F18HHQ29?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VANPET Filter Collapsible Water Bottles, 1L Plastic Flasks, Reusable Drink Bags, Foldable Backpacking Water Bottle for Travel Camping Hiking (2)" src="https://m.media-amazon.com/images/I/31rfpIFC5lL._SL500_.jpg"/></a>
 
 
 The **VANPET Filter Collapsible Water Bottles** are perfect for outdoor enthusiasts, travelers, and hikers who need a lightweight, portable, and reliable hydration solution. Ideal for those who value convenience without sacrificing functionality, these reusable drink bags cater to backpackers and campers looking to save space while staying hydrated on the go.
@@ -152,10 +152,10 @@ The **VANPET Filter Collapsible Water Bottles** stand out with their innovative 
 
 Made from durable yet lightweight plastic, these bottles are easy to carry and handle during outdoor activities. The 1-liter capacity strikes a balance between portability and hydration needs, ensuring users stay refreshed without the burden of heavy gear. Additionally, their reusable nature supports environmentally conscious consumers aiming to reduce plastic waste on their adventures. Overall, these bottles offer a practical, efficient, and eco-friendly hydration solution for active lifestyles.
 
-## <a href="https://www.amazon.com/dp/B0DCSKMLRD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiking Collapsible Water Bottles</a>
+## <a href="https://www.amazon.com/dp/B0DCSKMLRD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiking Collapsible Water Bottles</a>
 
 
-<a href="https://www.amazon.com/dp/B0DCSKMLRD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="1L Hiking Collapsible Water Bottles, 4-Pack 33OZ BPA-Free Foldable Backpacking Water Bottle for Travel Camping Hiking" src="https://m.media-amazon.com/images/I/41tdo-Qqt7L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DCSKMLRD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="1L Hiking Collapsible Water Bottles, 4-Pack 33OZ BPA-Free Foldable Backpacking Water Bottle for Travel Camping Hiking" src="https://m.media-amazon.com/images/I/41tdo-Qqt7L._SL500_.jpg"/></a>
 
 
 The **1L Hiking Collapsible Water Bottles** 4-Pack by **Ancable** is perfect for outdoor enthusiasts who need a lightweight and space-saving hydration solution. Ideal for **travelers, campers, hikers**, and backpackers, these **foldable water bottles** are designed to fit easily into any pack, making them suitable for those who prioritize convenience and durability in their gear.
@@ -177,10 +177,10 @@ These **Ancable hiking water bottles** feature a foldable design that significan
 
 The 4-pack option offers versatility for group activities or multi-day excursions, allowing users to distribute water easily among companions or keep several bottles filled with different beverages. While the **1L capacity** requires occasional refills, the overall portability and safety features provide a balanced solution for active lifestyles.
 
-## <a href="https://www.amazon.com/dp/B010OLZ3E2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survivor Filter 1l Clear Collapsible Water Bottles</a>
+## <a href="https://www.amazon.com/dp/B010OLZ3E2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survivor Filter 1l Clear Collapsible Water Bottles</a>
 
 
-<a href="https://www.amazon.com/dp/B010OLZ3E2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survivor Filter 1L Clear Collapsible Water Bottles - Travel, Hiking, Foldable, BPA-Free - 2 x 33oz" src="https://m.media-amazon.com/images/I/319pDnxNh9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B010OLZ3E2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survivor Filter 1L Clear Collapsible Water Bottles - Travel, Hiking, Foldable, BPA-Free - 2 x 33oz" src="https://m.media-amazon.com/images/I/319pDnxNh9L._SL500_.jpg"/></a>
 
 
 The **Survivor Filter 1L Clear Collapsible Water Bottles** are ideal for **travelers, hikers, and outdoor enthusiasts** who need a reliable, lightweight, and space-saving hydration solution. If you require a durable, **BPA-free** bottle that can be easily folded and carried without taking up much room, this product is designed with you in mind. It is especially suitable for those who prioritize health and convenience on the go.
@@ -202,10 +202,10 @@ The **Survivor Filter 1L Clear Collapsible Water Bottles** feature a smart desig
 
 Additionally, these bottles are made from **BPA-free** materials, ensuring that your drinking water remains free from harmful chemicals. The lightweight build reduces the load on your shoulders during long treks, while the pack of two offers flexibility, allowing one bottle to be used while the other is being refilled or cleaned. Overall, these bottles provide a combination of safety, convenience, and efficient design for anyone looking to stay hydrated on the move.
 
-## <a href="https://www.amazon.com/dp/B0CSGYVH42?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hydrapak Stow</a>
+## <a href="https://www.amazon.com/dp/B0CSGYVH42?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hydrapak Stow</a>
 
 
-<a href="https://www.amazon.com/dp/B0CSGYVH42?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HydraPak Stow - Collapsible Backpacking Water Bottle (350ml) - BPA Free, Ultra Light, Spill-Proof Twist Cap - MTN Redwood" src="https://m.media-amazon.com/images/I/31tqb4gkOML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CSGYVH42?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HydraPak Stow - Collapsible Backpacking Water Bottle (350ml) - BPA Free, Ultra Light, Spill-Proof Twist Cap - MTN Redwood" src="https://m.media-amazon.com/images/I/31tqb4gkOML._SL500_.jpg"/></a>
 
 
 The **HydraPak Stow - Collapsible Backpacking Water Bottle (350ml)** in **MTN Redwood** is ideal for outdoor enthusiasts, hikers, and travelers who prioritize lightweight, portable, and durable hydration solutions. Those seeking a compact water bottle that can easily fit into backpacks without taking up much space will find this product particularly useful. It is perfect for individuals who value convenience and eco-friendly gear during their adventures.
@@ -227,10 +227,10 @@ The **HydraPak Stow** water bottle stands out for its innovative collapsible des
 
 Crafted from **BPA-free** materials, this water bottle promotes safe hydration without harmful chemicals, catering to health-conscious adventurers. The bottle’s compact size and flexible design allow it to adapt to the user’s needs, easily fitting into tight spaces or expanding when filled. Overall, the **HydraPak Stow** offers a practical balance of portability, safety, and convenience, making it a reliable choice for anyone who values efficient hydration on the go.
 
-## <a href="https://www.amazon.com/dp/B081MK7B5C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vapur Flexible Collapsible Wide Mouth Anti-bottle</a>
+## <a href="https://www.amazon.com/dp/B081MK7B5C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vapur Flexible Collapsible Wide Mouth Anti-bottle</a>
 
 
-<a href="https://www.amazon.com/dp/B081MK7B5C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Vapur Flexible, Collapsible Wide Mouth Anti-Bottle with Detachable Carabiner, 34 Ounce, Malibu Teal, Pack of 1" src="https://m.media-amazon.com/images/I/31zu8xSnXvL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B081MK7B5C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Vapur Flexible, Collapsible Wide Mouth Anti-Bottle with Detachable Carabiner, 34 Ounce, Malibu Teal, Pack of 1" src="https://m.media-amazon.com/images/I/31zu8xSnXvL._SL500_.jpg"/></a>
 
 
 The **Vapur Flexible, Collapsible Wide Mouth Anti-Bottle** is ideal for outdoor enthusiasts, travelers, and anyone who values convenience and portability in their hydration solutions. If you need a lightweight, space-saving water bottle that can easily fit into your bag or pocket when empty, this item is perfect for you. Its durable design and detachable carabiner make it especially suitable for hikers, campers, and commuters looking for a reliable and versatile water container.
@@ -254,10 +254,10 @@ The **Vapur Flexible, Collapsible Wide Mouth Anti-Bottle** offers a unique combi
 
 Crafted by the reputable **Vapur** brand, this bottle is lightweight yet durable, constructed from safe, BPA-free materials that ensure both health and environmental considerations. Its compact dimensions and malibu teal color contribute to an appealing aesthetic that fits seamlessly into an active lifestyle. While it lacks insulation, its portability and ease of use make it a standout option for everyday hydration needs, especially for people on the go who prioritize convenience and efficiency over temperature control.
 
-## <a href="https://www.amazon.com/dp/B0DSPLBLQD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Weesdsio 5-pack 1l Hiking Collapsible Water Bottles</a>
+## <a href="https://www.amazon.com/dp/B0DSPLBLQD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Weesdsio 5-pack 1l Hiking Collapsible Water Bottles</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSPLBLQD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Weesdsio 5-Pack 1L Hiking Collapsible Water Bottles with Mountaineering Buckle (Not Suitable for Climbing) BPA-Free Foldable Backpacking Water Bottle for Camping Hiking Running Cycling Mountaineering" src="https://m.media-amazon.com/images/I/41z1N9+dvSL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSPLBLQD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Weesdsio 5-Pack 1L Hiking Collapsible Water Bottles with Mountaineering Buckle (Not Suitable for Climbing) BPA-Free Foldable Backpacking Water Bottle for Camping Hiking Running Cycling Mountaineering" src="https://m.media-amazon.com/images/I/41z1N9+dvSL._SL500_.jpg"/></a>
 
 
 The **Weesdsio 5-Pack 1L Hiking Collapsible Water Bottles** are perfect for outdoor enthusiasts who need a lightweight, compact, and durable hydration solution. Ideal for campers, hikers, runners, cyclists, and backpackers, these bottles are designed for those who want to save space without compromising on water capacity during their adventures. Note that they are not suitable for climbing but excel in most other outdoor activities.

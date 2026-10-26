@@ -22,10 +22,10 @@ Some models include special compartments for weight plates or gear, making them 
 
 
 
-## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
 
 
 The **WOLF TACTICAL Weighted Backpack Rucking Backpack** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who want to enhance their strength training through weighted rucking. This backpack is perfect for those who engage in running, walking, or any endurance activities and need a durable, comfortable way to carry weight plates for added resistance. If you're looking to improve your stamina, build muscle, and boost cardiovascular health, this backpack is designed with your needs in mind.
@@ -47,10 +47,10 @@ The **WOLF TACTICAL Weighted Backpack** features a rugged design made to withsta
 
 Additionally, the backpack’s versatility makes it suitable for various activities such as running and walking, allowing users to incorporate weighted resistance seamlessly into their daily routines. The sleek black color adds a professional and tactical look, making it not only functional but also stylish. Overall, this rucksack provides an excellent balance of comfort, durability, and performance for anyone serious about their strength training goals.
 
-## <a href="https://www.amazon.com/dp/B0FB3ZXNV4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
+## <a href="https://www.amazon.com/dp/B0FB3ZXNV4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0FB3ZXNV4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black Camo" src="https://m.media-amazon.com/images/I/413hnKFGHTL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0FB3ZXNV4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black Camo" src="https://m.media-amazon.com/images/I/413hnKFGHTL._SL500_.jpg"/></a>
 
 
 The **Polyfit Rucking Backpack 2.0** is ideal for fitness enthusiasts, outdoor adventurers, and athletes looking to enhance their strength and endurance training. Whether you’re into **walking**, **running**, or **rucking**, this backpack suits anyone who wants a versatile and durable solution to carry weight plates comfortably during workouts. Its **patent-pending side-loading design** makes it perfect for those who want quick and easy access to weighted plates without compromising mobility.
@@ -73,10 +73,10 @@ The **Polyfit Rucking Backpack 2.0** stands out with its innovative **side-loadi
 
 Beyond aesthetics, the backpack’s ergonomic design helps distribute weight evenly across your back, minimizing discomfort and reducing the risk of injury during prolonged use. Whether you’re incorporating weighted rucking into your endurance training or adding resistance to your daily walks, this backpack supports your fitness goals by offering stability and comfort. Its versatility makes it a valuable tool for anyone serious about improving strength and stamina through weighted exercises.
 
-## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
+## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
 
 
 The **GORUCK Ruck Plate Carrier 3.0** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who want a durable and ergonomic solution for weighted rucking. If you're looking to enhance your endurance training or carry extra weight comfortably during long treks, this backpack is designed to meet those needs with precision.
@@ -99,10 +99,10 @@ The **GORUCK Ruck Plate Carrier 3.0** features a compact yet highly functional d
 
 Additionally, the backpack’s extra padded straps enhance comfort by reducing pressure points on the shoulders, allowing users to carry heavier loads for longer durations. Its lightweight nature and durable construction make it a reliable companion for both training and tactical use. Whether you are preparing for a challenge or simply want to improve your physical conditioning, this plate carrier offers the perfect blend of comfort, functionality, and durability.
 
-## <a href="https://www.amazon.com/dp/B09Y931KXX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lemuvlt Small Hiking Daypack Rucking Backpack 15l</a>
+## <a href="https://www.amazon.com/dp/B09Y931KXX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lemuvlt Small Hiking Daypack Rucking Backpack 15l</a>
 
 
-<a href="https://www.amazon.com/dp/B09Y931KXX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Lemuvlt Small Hiking Daypack Rucking Backpack 15L,Lightweight &amp; Durable -Ideal Backpack for Skiing, Skating, Snowboarding,Hiking, Running, MTB Cycling (Orange)" src="https://m.media-amazon.com/images/I/41gfmVHz4hL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09Y931KXX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Lemuvlt Small Hiking Daypack Rucking Backpack 15L,Lightweight &amp; Durable -Ideal Backpack for Skiing, Skating, Snowboarding,Hiking, Running, MTB Cycling (Orange)" src="https://m.media-amazon.com/images/I/41gfmVHz4hL._SL500_.jpg"/></a>
 
 
 The **Lemuvlt Small Hiking Daypack Rucking Backpack 15L** is perfect for outdoor enthusiasts who need a **lightweight** and **durable backpack** for activities like **skiing**, **skating**, **snowboarding**, **hiking**, **running**, and **MTB cycling**. If you are someone who values portability without sacrificing storage capacity, this 15-liter pack is ideal for day trips and quick adventures.
@@ -125,10 +125,10 @@ The **Lemuvlt Small Hiking Daypack** stands out for its **compact dimensions** �
 
 Designed by the **Lemuvlt** brand, this backpack balances durability with functionality. The robust construction ensures it can withstand the rigors of varied outdoor sports while maintaining a sleek profile. Its versatility makes it an excellent choice for individuals who engage in multiple activities and require a reliable daypack that adapts to their active lifestyle without weighing them down.
 
-## <a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
+## <a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
 
 
-<a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black with White Embroidery - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31oj4cTT7AL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DB3J4FHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black with White Embroidery - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31oj4cTT7AL._SL500_.jpg"/></a>
 
 
 The **GORUCK Rucker 4.0 20L Black with White Embroidery** is ideal for outdoor enthusiasts, military personnel, fitness lovers, and anyone who values durability and functionality in a backpack. If you are looking for a purpose-built rucking backpack that can handle heavy loads and provide comfort during long walks or training sessions, this is the perfect choice for you. Its military-grade construction and thoughtful design make it suitable for both everyday use and intense weight training.
@@ -151,10 +151,10 @@ The **GORUCK Rucker 4.0** is engineered with a focus on durability and user comf
 
 Additionally, the backpack features **extra padded straps** that distribute weight evenly across the shoulders, reducing fatigue during long-distance rucking. The compact yet efficient dimensions make it easy to carry in urban environments or rugged outdoor settings. The **black color with white embroidery** offers a timeless, versatile aesthetic that pairs well with any gear or outfit, making it as stylish as it is practical.
 
-## <a href="https://www.amazon.com/dp/B01EJHAEO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Huntvp Mini Daypack Military Molle Backpack</a>
+## <a href="https://www.amazon.com/dp/B01EJHAEO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Huntvp Mini Daypack Military Molle Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B01EJHAEO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HUNTVP 10L/20L Mini Daypack Military MOLLE Backpack Rucksack Gear Tactical Assault Pack Bag for Hunting Camping Trekking" src="https://m.media-amazon.com/images/I/31hrHnCu1yL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01EJHAEO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HUNTVP 10L/20L Mini Daypack Military MOLLE Backpack Rucksack Gear Tactical Assault Pack Bag for Hunting Camping Trekking" src="https://m.media-amazon.com/images/I/31hrHnCu1yL._SL500_.jpg"/></a>
 
 
 The **HUNTVP 10L/20L Mini Daypack Military MOLLE Backpack Rucksack Gear Tactical Assault Pack Bag** is ideal for outdoor enthusiasts such as hunters, campers, and trekkers who need a compact yet durable backpack. Those looking for a lightweight and versatile pack to carry essential gear without bulk will find this daypack particularly useful. It suits anyone who values organization, rugged construction, and tactical design in their outdoor equipment.
@@ -178,10 +178,10 @@ The **HUNTVP Mini Daypack** offers a thoughtfully designed tactical backpack tha
 
 Additionally, the backpack's lightweight construction at just 0.55 kilograms ensures that users can move freely without excess weight slowing them down. The robust build quality from the brand **HUNTVP** guarantees durability in rugged environments, making it a reliable companion for demanding conditions. Overall, this tactical assault pack provides practical benefits by combining durability, modularity, and portability into a single compact daypack.
 
-## <a href="https://www.amazon.com/dp/B0CHYY44PH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">10l Small Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CHYY44PH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">10l Small Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CHYY44PH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Uselike 10L Small Hiking Backpack Travel Daypack Lightweight Packable Back Pack for Women Men(Black)" src="https://m.media-amazon.com/images/I/411WdWmxNSL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CHYY44PH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Uselike 10L Small Hiking Backpack Travel Daypack Lightweight Packable Back Pack for Women Men(Black)" src="https://m.media-amazon.com/images/I/411WdWmxNSL._SL500_.jpg"/></a>
 
 
 The **Uselike 10L Small Hiking Backpack** is ideal for individuals who need a compact, lightweight, and versatile pack for day trips, hiking, or casual travel. Whether you're a woman or man looking for a reliable and easy-to-carry backpack that doesn't weigh you down, this pack fits perfectly for those who prioritize convenience and portability without sacrificing storage capacity.
@@ -203,10 +203,10 @@ The **Uselike 10L Small Hiking Backpack** offers a perfect balance of size and f
 
 Additionally, the backpack’s packable nature means it can be conveniently folded or stored inside larger bags when not in use, making it ideal for spontaneous adventures or as a backup pack. The neutral black color adds to its versatility, appealing to both men and women who want a stylish yet practical option for their outdoor and travel needs. Overall, this backpack is a dependable choice for those who value portability and simplicity in their gear.
 
-## <a href="https://www.amazon.com/dp/B0DPHST3R4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Tactical Backpack</a>
+## <a href="https://www.amazon.com/dp/B0DPHST3R4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Tactical Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DPHST3R4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Tactical Backpack for Men, 40L Military Backpack,Water Resistant Assault Pack for Women, 3-Day Bug Out Bag for Hiking, Camping, Gym with Molle System-Khaki" src="https://m.media-amazon.com/images/I/418ptQnFaaL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DPHST3R4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Tactical Backpack for Men, 40L Military Backpack,Water Resistant Assault Pack for Women, 3-Day Bug Out Bag for Hiking, Camping, Gym with Molle System-Khaki" src="https://m.media-amazon.com/images/I/418ptQnFaaL._SL500_.jpg"/></a>
 
 
 The **Maelstrom Tactical Backpack for Men** is ideal for outdoor enthusiasts, military personnel, hikers, and anyone needing a durable and versatile carry solution. Whether you are planning a **3-day camping trip**, heading to the **gym**, or require a reliable **assault pack**, this **40L water-resistant backpack** offers ample space and rugged functionality. Its **MOLLE system** makes it perfect for those who want to customize their loadout and organize gear efficiently.
@@ -230,10 +230,10 @@ The **Maelstrom Tactical Backpack** features a well-thought-out design that maxi
 
 Equipped with the versatile **MOLLE system**, this backpack allows users to attach additional pouches and accessories, tailoring the pack to specific mission requirements or recreational needs. The adjustable straps and padded back support enhance comfort during extended wear, while the durable construction ensures the backpack withstands the rigors of hiking, camping, or daily use in demanding environments.
 
-## <a href="https://www.amazon.com/dp/B0DYNQW6DC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bagail Weighted Vest</a>
+## <a href="https://www.amazon.com/dp/B0DYNQW6DC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bagail Weighted Vest</a>
 
 
-<a href="https://www.amazon.com/dp/B0DYNQW6DC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking Vest for Women, Men, Walking, Weight Loss, Training, Running" src="https://m.media-amazon.com/images/I/41qpqWDsntL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DYNQW6DC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking Vest for Women, Men, Walking, Weight Loss, Training, Running" src="https://m.media-amazon.com/images/I/41qpqWDsntL._SL500_.jpg"/></a>
 
 
 The **BAGAIL Weighted Vest** is ideal for fitness enthusiasts, athletes, and individuals looking to enhance their workout routines or accelerate weight loss. Whether you are into walking, running, rucking, or strength training, this vest offers adjustable weights that cater to various fitness levels, making it perfect for both beginners and advanced users. Its versatile design also suits both men and women who want to add resistance and intensity to their exercises.
@@ -255,10 +255,10 @@ The **BAGAIL Weighted Vest** boasts a robust build crafted by **DIYOUTH** with a
 
 Designed for versatility, this vest supports a broad range of activities, including walking, running, and rucking, making it an excellent tool for weight loss and overall fitness improvement. Its ergonomic design ensures comfort and a secure fit, minimizing movement and discomfort during physical activity, which translates to more effective and focused training sessions.
 
-## <a href="https://www.amazon.com/dp/B08P1STBZJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mardingtop Small Tactical Molle Backpack</a>
+## <a href="https://www.amazon.com/dp/B08P1STBZJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mardingtop Small Tactical Molle Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B08P1STBZJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mardingtop Small Tactical Molle Backpack - 25L Hiking Backpack for Backpacking, Cycling and Biking" src="https://m.media-amazon.com/images/I/419z-6KffDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08P1STBZJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mardingtop Small Tactical Molle Backpack - 25L Hiking Backpack for Backpacking, Cycling and Biking" src="https://m.media-amazon.com/images/I/419z-6KffDL._SL500_.jpg"/></a>
 
 
 The **Mardingtop Small Tactical Molle Backpack - 25L Hiking Backpack** is ideal for outdoor enthusiasts who need a reliable and compact pack for activities like **backpacking, cycling, and biking**. If you are someone who values durability, versatility, and organized storage while on the move, this backpack is designed to meet your needs. Its **25L capacity** makes it perfect for day trips or short excursions where carrying essentials without bulk is important.

@@ -23,10 +23,10 @@ Missionary scripture cases come in many colors and styles, such as floral, black
 
 
 
-## <a href="https://www.amazon.com/dp/B0B3CM64BX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Missionary Gifts Missionary Luggage Tags</a>
+## <a href="https://www.amazon.com/dp/B0B3CM64BX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Missionary Gifts Missionary Luggage Tags</a>
 
 
-<a href="https://www.amazon.com/dp/B0B3CM64BX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Missionary Gifts for Her, for Him, Missionary Luggage Tags with Quotes, Mission Farewell Gifts (Called to Serve)" src="https://m.media-amazon.com/images/I/51moKU4qjoL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B3CM64BX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Missionary Gifts for Her, for Him, Missionary Luggage Tags with Quotes, Mission Farewell Gifts (Called to Serve)" src="https://m.media-amazon.com/images/I/51moKU4qjoL._SL500_.jpg"/></a>
 
 
 These **LDS Missionary Gifts for Her, for Him** are perfect for anyone preparing to embark on a mission or looking to send meaningful farewell gifts to a loved one called to serve. Ideal for family members, friends, or church leaders seeking a thoughtful and inspirational present, these **Missionary Luggage Tags with Quotes** offer both practicality and encouragement during this significant journey.
@@ -49,10 +49,10 @@ The **Missionary Luggage Tags** from **Doodle Beads** are thoughtfully designed 
 
 Available in elegant **navy blue, pink, and purple**, these tags allow for a bit of personal expression while maintaining a respectful and professional appearance. Their compact size fits seamlessly on any suitcase or backpack, making them an essential accessory for missionaries. Overall, these tags combine sentimental value with practical use, making them an excellent choice for anyone called to serve.
 
-## <a href="https://www.amazon.com/dp/B01FWLJTC6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Missionary Travel Set</a>
+## <a href="https://www.amazon.com/dp/B01FWLJTC6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Missionary Travel Set</a>
 
 
-<a href="https://www.amazon.com/dp/B01FWLJTC6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Missionary Travel Set - Passport Cover/Holder &amp; Luggage Tag - Dark Gray" src="https://m.media-amazon.com/images/I/41daeI2QKsL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01FWLJTC6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Missionary Travel Set - Passport Cover/Holder &amp; Luggage Tag - Dark Gray" src="https://m.media-amazon.com/images/I/41daeI2QKsL._SL500_.jpg"/></a>
 
 
 The **LDS Missionary Travel Set - Passport Cover/Holder & Luggage Tag - Dark Gray** is ideal for **Latter-day Saint missionaries** who are preparing for their service abroad. This travel set is perfect for those who want to keep their important documents safe and organized while traveling, offering both style and durability. If you are a missionary or someone looking for a practical and meaningful travel accessory, this set is tailored to meet your needs.
@@ -74,10 +74,10 @@ This **travel set** features a sleek and professional **dark gray color**, which
 
 Manufactured by **Pioneer Plus**, the set emphasizes quality craftsmanship and practical design. The lightweight and compact nature of the travel set means it fits easily into your carry-on or day bag, providing both convenience and peace of mind. Whether you are embarking on a short or long-term mission, this travel set is a reliable companion to keep your essentials protected and easily accessible.
 
-## <a href="https://www.amazon.com/dp/B0CS85MDZD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
+## <a href="https://www.amazon.com/dp/B0CS85MDZD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
 
 
-<a href="https://www.amazon.com/dp/B0CS85MDZD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Gray with Brown Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/41B6t2iVDrL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CS85MDZD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Gray with Brown Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/41B6t2iVDrL._SL500_.jpg"/></a>
 
 
 Ideal for members of The Church of Jesus Christ of Latter-day Saints who frequently carry multiple scriptures and related study materials, the **LDS Quad or Triple & Bible Scripture Carrying Case** in **Gray** with **Brown Handles** and **Zipper Pouches** is perfect for those seeking a practical and stylish way to organize their sacred texts. Whether attending church meetings, scripture study groups, or personal devotion time, this carrying case is designed for individuals who value convenience and protection for their important books.
@@ -99,10 +99,10 @@ The **LDS Quad or Triple & Bible Scripture Carrying Case** is thoughtfully desig
 
 With its tailored design by the **LDS Bookstore**, this scripture case perfectly fits the needs of those who want to carry multiple books without the bulk or hassle. The neutral gray color complements any outfit or setting, while the durable build promises longevity even with frequent use. Overall, this carrying case offers a balanced combination of style, practicality, and purpose, making it an excellent investment for scripture study and spiritual preparation.
 
-## <a href="https://www.amazon.com/dp/B0BNLPSXHW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Scripture Case Scripture Tote</a>
+## <a href="https://www.amazon.com/dp/B0BNLPSXHW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Scripture Case Scripture Tote</a>
 
 
-<a href="https://www.amazon.com/dp/B0BNLPSXHW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Scripture Case Scripture Tote for Quad Triple Combination Women with Zipper Pockets - Baptism Gift Missionary Gift Scripture Case, Girls Scripture Bag" src="https://m.media-amazon.com/images/I/51QAmOTaMkL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BNLPSXHW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Scripture Case Scripture Tote for Quad Triple Combination Women with Zipper Pockets - Baptism Gift Missionary Gift Scripture Case, Girls Scripture Bag" src="https://m.media-amazon.com/images/I/51QAmOTaMkL._SL500_.jpg"/></a>
 
 
 The **LDS Scripture Case Scripture Tote for Quad Triple Combination Women with Zipper Pockets** is ideal for individuals looking for a practical and stylish way to carry their scriptures. This item is perfect for women, girls, missionaries, and those attending baptisms who want a durable and organized scripture bag. Whether you need it for everyday use, missionary work, or as a thoughtful gift, this scripture tote offers convenience and protection for your sacred texts.
@@ -124,10 +124,10 @@ This **scripture tote** is designed with functionality and ease of use in mind. 
 
 Manufactured by **PinkPaperDragon**, this scripture case combines quality with practicality. It serves as an excellent **missionary gift or baptism gift**, offering a thoughtful way to encourage spiritual study and organization. Overall, the LDS Scripture Case Scripture Tote is a versatile accessory that meets the needs of scripture carriers looking for both convenience and durability.
 
-## <a href="https://www.amazon.com/dp/B0CS7ZBBZQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case - Floral With Handles And Zipper Pouches Bag Tote</a>
+## <a href="https://www.amazon.com/dp/B0CS7ZBBZQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case - Floral With Handles And Zipper Pouches Bag Tote</a>
 
 
-<a href="https://www.amazon.com/dp/B0CS7ZBBZQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Floral with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/41kyV6T3ugL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CS7ZBBZQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Floral with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/41kyV6T3ugL._SL500_.jpg"/></a>
 
 
 The **LDS Quad or Triple & Bible Scripture Carrying Case - Floral with Handles and Zipper Pouches Bag Tote** is ideal for individuals who regularly attend church services, scripture study groups, or anyone who wants a stylish and practical way to carry their sacred texts. This carrying case is perfect for those who need a compact yet spacious solution to organize and protect their **LDS scriptures** and related study materials.
@@ -149,10 +149,10 @@ This **carrying case** is thoughtfully designed with functionality and aesthetic
 
 The multiple **zipper pouches** provide separate compartments, allowing users to easily access their scriptures and study materials while keeping them secure. The sturdy handles make transportation comfortable, whether you're heading to church, a study group, or traveling. Overall, this tote offers a practical and attractive solution for anyone looking to protect and carry their sacred texts with ease.
 
-## <a href="https://www.amazon.com/dp/B0CTBFW2P6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
+## <a href="https://www.amazon.com/dp/B0CTBFW2P6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTBFW2P6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Black with Grey Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31Ka3xtPF0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTBFW2P6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Black with Grey Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31Ka3xtPF0L._SL500_.jpg"/></a>
 
 
 The **LDS Quad or Triple & Bible Scripture Carrying Case** in sleek **Black** with **Grey Handles and Zipper Pouches** is perfect for individuals who regularly attend church, scripture study groups, or personal devotion time. This carrying case is ideal for those who want to keep their **scripture books** organized, protected, and easily accessible, especially if they carry multiple volumes like the Quad, Triple, or Bible. It suits both youth and adults looking for a durable and stylish storage solution.
@@ -174,10 +174,10 @@ The **LDS Quad or Triple & Bible Scripture Carrying Case** offers a thoughtful d
 
 The multiple zipper pouches enhance the carrying case’s functionality by providing organized compartments for small essentials like pens, study cards, or even a phone. This means users can have everything they need for their scripture study sessions in one place, saving time and reducing the hassle of searching for items. Overall, this carrying case combines practicality, durability, and style, making it a valuable accessory for anyone serious about their scripture study routine.
 
-## <a href="https://www.amazon.com/dp/B0CS7Z9681?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
+## <a href="https://www.amazon.com/dp/B0CS7Z9681?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
 
 
-<a href="https://www.amazon.com/dp/B0CS7Z9681?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Light Blue with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31gg7yrQ6DL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CS7Z9681?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Light Blue with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31gg7yrQ6DL._SL500_.jpg"/></a>
 
 
 The **LDS Quad or Triple & Bible Scripture Carrying Case - Light Blue with Handles and Zipper Pouches Bag Tote** is ideal for members of The Church of Jesus Christ of Latter-day Saints who frequently attend church meetings, scripture study groups, or personal study sessions. This carrying case is perfect for those who want to keep their **scripture books** organized, protected, and easily accessible, especially when on the go. Whether you own the **Quadruple Combination**, **Triple Combination**, or individual **Bibles**, this tote provides a practical and stylish solution for transport and storage.
@@ -199,10 +199,10 @@ This **scripture carrying case** is thoughtfully designed to accommodate various
 
 The case's dimensions are optimized to fit typical scripture sizes without adding unnecessary bulk, making it ideal for daily use. The **light blue color** adds a subtle, calming aesthetic that stands out while remaining tasteful. Being a product of the **LDS Bookstore**, it guarantees a level of craftsmanship and durability that users can trust, making it a practical investment for anyone looking to safeguard their sacred texts with style and convenience.
 
-## <a href="https://www.amazon.com/dp/B0CTB7PQ2Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
+## <a href="https://www.amazon.com/dp/B0CTB7PQ2Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTB7PQ2Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Purple with Brown Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31yYEw9wLgL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTB7PQ2Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Purple with Brown Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31yYEw9wLgL._SL500_.jpg"/></a>
 
 
 The **LDS Quad or Triple & Bible Scripture Carrying Case - Purple with Brown Handles and Zipper Pouches Bag Tote** is perfect for individuals who frequently attend church services, scripture study groups, or personal devotional times. This carrying case is ideal for those who want to keep their scriptures organized, protected, and easily portable. Whether you are a member of the LDS community, a missionary, or someone who values having their religious texts handy, this case offers convenience and style in one compact design.
@@ -224,10 +224,10 @@ This carrying case stands out for its thoughtful design tailored specifically fo
 
 Beyond its practical benefits, the case’s construction from quality materials ensures it withstands daily wear and tear. This longevity means users can rely on it for long-term scripture carrying needs. Additionally, the association with the LDS Bookstore guarantees authenticity and quality, which is important for those seeking a trusted accessory. Overall, this carrying case is a smart investment for anyone looking to protect and organize their sacred texts while maintaining a polished look.
 
-## <a href="https://www.amazon.com/dp/B09M9C5C1Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pink Polyester Lds Quad Scripture Case Tote Bag</a>
+## <a href="https://www.amazon.com/dp/B09M9C5C1Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pink Polyester Lds Quad Scripture Case Tote Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B09M9C5C1Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Pink Polyester LDS Quad Scripture Case Tote Bag for Latter-day Saint Scriptures" src="https://m.media-amazon.com/images/I/41CaASj98jL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09M9C5C1Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Pink Polyester LDS Quad Scripture Case Tote Bag for Latter-day Saint Scriptures" src="https://m.media-amazon.com/images/I/41CaASj98jL._SL500_.jpg"/></a>
 
 
 The **Pink Polyester LDS Quad Scripture Case Tote Bag** is perfect for members of The Church of Jesus Christ of Latter-day Saints who want a stylish and practical way to carry their scriptures. Ideal for youth, women, or anyone looking for a durable and attractive bag to protect their **LDS Quad scriptures**, this tote offers both convenience and a pop of color with its vibrant **pink** design.
@@ -249,10 +249,10 @@ This tote bag is thoughtfully crafted from **polyester**, making it both lightwe
 
 Manufactured and branded by the reputable **LDS Bookstore**, this tote guarantees quality and authenticity. Its practical design includes comfortable handles for easy carrying to church, seminary, or study groups. Whether you’re gifting it to a loved one or treating yourself, the Pink Polyester LDS Quad Scripture Case Tote Bag combines functionality with a touch of personal style, making scripture study more enjoyable and organized.
 
-## <a href="https://www.amazon.com/dp/B0CS8FNBSK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
+## <a href="https://www.amazon.com/dp/B0CS8FNBSK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lds Quad Or Triple &amp; Bible Scripture Carrying Case</a>
 
 
-<a href="https://www.amazon.com/dp/B0CS8FNBSK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Pink with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31omP6nk9gL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CS8FNBSK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LDS Quad or Triple &amp; Bible Scripture Carrying Case - Pink with Handles and Zipper Pouches Bag Tote" src="https://m.media-amazon.com/images/I/31omP6nk9gL._SL500_.jpg"/></a>
 
 
 The **LDS Quad or Triple & Bible Scripture Carrying Case - Pink with Handles and Zipper Pouches Bag Tote** is ideal for members of The Church of Jesus Christ of Latter-day Saints who want a convenient and stylish way to carry their scriptures. Whether you attend church meetings regularly, participate in study groups, or travel frequently, this carrying case is designed to keep your scriptures protected, organized, and easily accessible. Its compact size and lightweight design make it perfect for youth, adults, and missionaries alike.

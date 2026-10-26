@@ -23,10 +23,10 @@ Some pillows have fun animal shapes or bright colors to keep children happy. Par
 
 
 
-## <a href="https://www.amazon.com/dp/B01DOE0DO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bcozzy Kids Travel Neck Pillow</a>
+## <a href="https://www.amazon.com/dp/B01DOE0DO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bcozzy Kids Travel Neck Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B01DOE0DO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BCOZZY Kids Travel Neck Pillow (3-7 Y/O)- Patented Soft Toddler Pillow for Head &amp; Chin Support in Car Seat, Airplane, and Road Trip Sleeping. Adjustable Size. Fully Washable. Carry Bag. Small, Navy" src="https://m.media-amazon.com/images/I/519Y5PKTpyL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01DOE0DO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BCOZZY Kids Travel Neck Pillow (3-7 Y/O)- Patented Soft Toddler Pillow for Head &amp; Chin Support in Car Seat, Airplane, and Road Trip Sleeping. Adjustable Size. Fully Washable. Carry Bag. Small, Navy" src="https://m.media-amazon.com/images/I/519Y5PKTpyL._SL500_.jpg"/></a>
 
 
 The **BCOZZY Kids Travel Neck Pillow** is ideal for parents seeking a comfortable and supportive travel pillow for their toddlers aged **3 to 7 years**. Whether you're planning a long car ride, a flight, or a road trip, this pillow is designed to provide gentle **head and chin support**, helping young children rest peacefully and safely during travel.
@@ -49,10 +49,10 @@ The **BCOZZY Kids Travel Neck Pillow** features a unique, patented design that w
 
 Additionally, the pillow is made with soft, breathable materials that ensure comfort without causing overheating. The fact that it is **fully washable** adds to its convenience, allowing parents to maintain cleanliness effortlessly. The included **carry bag** makes it easy to pack and carry, ensuring the pillow is always ready for the next adventure. Its lightweight and compact design means it won’t take up valuable space in your travel bag.
 
-## <a href="https://www.amazon.com/dp/B0B9VGMLZR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Essentials Kids Travel Neck Pillow</a>
+## <a href="https://www.amazon.com/dp/B0B9VGMLZR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Essentials Kids Travel Neck Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B0B9VGMLZR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Wolf Essentials Kids Travel Neck Pillow - Cozy Soft Microfiber, Compact Design for Airplane, Car Seat, or Toddler Travel Support – Blue" src="https://m.media-amazon.com/images/I/41K7gy6pfhL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B9VGMLZR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Wolf Essentials Kids Travel Neck Pillow - Cozy Soft Microfiber, Compact Design for Airplane, Car Seat, or Toddler Travel Support – Blue" src="https://m.media-amazon.com/images/I/41K7gy6pfhL._SL500_.jpg"/></a>
 
 
 The **Wolf Essentials Kids Travel Neck Pillow** is perfect for parents seeking a comfortable and supportive travel accessory for their toddlers and young children. Ideal for families who frequently travel by airplane, car, or other modes of transport, this neck pillow ensures that little ones can rest peacefully during trips without discomfort.
@@ -75,10 +75,10 @@ The **Wolf Essentials Kids Travel Neck Pillow** features a thoughtfully crafted 
 
 Beyond comfort, this neck pillow offers practical benefits such as easy portability and durability. Its lightweight construction means it won’t add extra burden to your child’s travel gear, while the sturdy build from **Wolf Manufacturing** guarantees it can withstand the rigors of frequent use. Ultimately, this pillow helps reduce neck stiffness and fatigue, allowing kids to arrive at their destination refreshed and ready to enjoy their adventure.
 
-## <a href="https://www.amazon.com/dp/B093XVDNNB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fhsggp Travel Pillow</a>
+## <a href="https://www.amazon.com/dp/B093XVDNNB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fhsggp Travel Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B093XVDNNB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FHSGGP Travel Pillow Car Pillow Kid Car Sleeping The Sleeping Aid for Adults and Kids on Road Trips Kids Travel Pillow Gray" src="https://m.media-amazon.com/images/I/41VZm8B-+0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B093XVDNNB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FHSGGP Travel Pillow Car Pillow Kid Car Sleeping The Sleeping Aid for Adults and Kids on Road Trips Kids Travel Pillow Gray" src="https://m.media-amazon.com/images/I/41VZm8B-+0L._SL500_.jpg"/></a>
 
 
 The **FHSGGP Travel Pillow Car Pillow** is ideal for both **adults and kids** who often embark on **road trips** and need a comfortable sleeping aid while traveling. Whether you're a parent looking to make long drives easier for your children or an adult seeking neck support during journeys, this pillow provides excellent comfort and support for all ages.
@@ -100,10 +100,10 @@ The **FHSGGP Travel Pillow Car Pillow** features a thoughtfully designed shape a
 
 Additionally, this sleeping aid is manufactured by **Huanfu**, ensuring quality and durability. Its dimensions provide ample surface area for comfortable resting, which is especially beneficial for kids who may struggle to sleep upright in a car seat. Whether you’re traveling with children or looking for an adult-friendly pillow to improve your travel comfort, this pillow offers practical benefits that make road trips more restful and enjoyable.
 
-## <a href="https://www.amazon.com/dp/B0D113C543?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coolbebe Kids Travel Neck Pillow 2pcs</a>
+## <a href="https://www.amazon.com/dp/B0D113C543?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coolbebe Kids Travel Neck Pillow 2pcs</a>
 
 
-<a href="https://www.amazon.com/dp/B0D113C543?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="COOLBEBE Kids Travel Neck Pillow 2PCS Softly Double Support Neck Pillow for Car &amp; Airplane, Traveling Gifts for Toddler &amp; Children(Blue &amp; Pink)" src="https://m.media-amazon.com/images/I/41AYbHFOi7L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D113C543?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="COOLBEBE Kids Travel Neck Pillow 2PCS Softly Double Support Neck Pillow for Car &amp; Airplane, Traveling Gifts for Toddler &amp; Children(Blue &amp; Pink)" src="https://m.media-amazon.com/images/I/41AYbHFOi7L._SL500_.jpg"/></a>
 
 
 The **COOLBEBE Kids Travel Neck Pillow 2PCS** is perfect for parents seeking a comfortable and supportive travel accessory for their toddlers and children. Ideal for use during car rides or airplane trips, this set offers a practical solution to keep young travelers cozy and reduce neck strain. If you want to make traveling more enjoyable for your little ones while ensuring their necks are well-supported, this product is an excellent choice.
@@ -126,10 +126,10 @@ The **COOLBEBE Kids Travel Neck Pillow** features a thoughtfully designed double
 
 Besides offering comfort, the pillow’s lightweight and compact design make it easy to carry and store, a crucial benefit for families on the go. The pillows are manufactured by **COOLBEBE**, a trusted brand known for quality children’s travel products. Overall, this neck pillow set enhances travel experiences by promoting proper neck alignment and reducing fatigue, making trips more pleasant for both kids and parents alike.
 
-## <a href="https://www.amazon.com/dp/B0B9Y9V28Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Stocaggio Kids Travel Pillow</a>
+## <a href="https://www.amazon.com/dp/B0B9Y9V28Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Stocaggio Kids Travel Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B0B9Y9V28Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="stocaggio Kids Travel Pillow - 2-in-1 Deformable Kids Neck Pillow for Traveling, Soft U-Shaped Pillow with Adorable Animal Design, Comfy Sleep and Play, Ideal for Airplanes and Cars - Pink Unicorn" src="https://m.media-amazon.com/images/I/41RkeEcj26L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B9Y9V28Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="stocaggio Kids Travel Pillow - 2-in-1 Deformable Kids Neck Pillow for Traveling, Soft U-Shaped Pillow with Adorable Animal Design, Comfy Sleep and Play, Ideal for Airplanes and Cars - Pink Unicorn" src="https://m.media-amazon.com/images/I/41RkeEcj26L._SL500_.jpg"/></a>
 
 
 The **stocaggio Kids Travel Pillow** is perfect for parents seeking a versatile and comfortable neck pillow for their children during travel. Ideal for young travelers who need support and comfort on long car rides or airplane trips, this pillow offers both functionality and fun with its **adorable pink unicorn design**. It is especially suited for kids who require a soft, supportive pillow that can adapt to various resting positions.
@@ -151,10 +151,10 @@ The **stocaggio Kids Travel Pillow** features a smart 2-in-1 deformable design, 
 
 With its compact size and lightweight build, this pillow is easy to carry along on any trip without adding bulk to your luggage. The delightful pink unicorn design makes it appealing to children, encouraging them to use the pillow and rest peacefully. Manufactured by **CHANG NING XIN HENG INFANT AND CHILD PRODUCTS CORP.LTD.**, the pillow guarantees quality and safety standards that parents can trust. Overall, this travel pillow combines comfort, functionality, and a playful design to enhance your child’s travel experience.
 
-## <a href="https://www.amazon.com/dp/B0BJK64S7B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sexysamba Cartoon Headrest &amp; Neck Pillow For Kids Boys &amp; Girls, Teens, Travel Accessories For Airplane, Car, Recline, Memory Foam Cute Travel Pillow With Sleep Eye Mask</a>
+## <a href="https://www.amazon.com/dp/B0BJK64S7B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sexysamba Cartoon Headrest &amp; Neck Pillow For Kids Boys &amp; Girls, Teens, Travel Accessories For Airplane, Car, Recline, Memory Foam Cute Travel Pillow With Sleep Eye Mask</a>
 
 
-<a href="https://www.amazon.com/dp/B0BJK64S7B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sexysamba Cartoon Headrest &amp; Neck Pillow for Kids Boys &amp; Girls, Teens, Travel Accessories for Airplane, Car, Recline, Memory Foam Cute Travel Pillow with Sleep Eye Mask - Dinosaur" src="https://m.media-amazon.com/images/I/41ia47MddnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BJK64S7B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sexysamba Cartoon Headrest &amp; Neck Pillow for Kids Boys &amp; Girls, Teens, Travel Accessories for Airplane, Car, Recline, Memory Foam Cute Travel Pillow with Sleep Eye Mask - Dinosaur" src="https://m.media-amazon.com/images/I/41ia47MddnL._SL500_.jpg"/></a>
 
 
 The **Sexysamba Cartoon Headrest & Neck Pillow for Kids Boys & Girls** is ideal for young travelers, including **teens** and children who frequently embark on trips by **airplane**, **car**, or even for use during reclined rest at home. Parents looking for a comfortable and supportive travel accessory that also appeals to kids with its **cute dinosaur design** will find this product perfect for ensuring their child’s neck and head are well-supported during long journeys.
@@ -176,10 +176,10 @@ The **Sexysamba Cartoon Headrest & Neck Pillow** is crafted from high-quality **
 
 Additionally, the inclusion of a **sleep eye mask** enhances the overall travel experience by helping young travelers block out ambient light, thereby promoting better rest. The playful **dinosaur color and design** make the pillow visually appealing to children, which encourages them to use it consistently. This combination of comfort, functionality, and kid-friendly aesthetics makes the Sexysamba pillow a standout choice for parents seeking a reliable and enjoyable travel accessory for their children.
 
-## <a href="https://www.amazon.com/dp/B095WK5B7L?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Infanzia Kids Chin Supporting Travel Neck Pillow</a>
+## <a href="https://www.amazon.com/dp/B095WK5B7L?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Infanzia Kids Chin Supporting Travel Neck Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B095WK5B7L?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="INFANZIA Kids Chin Supporting Travel Neck Pillow, Helps Support Head and Neck, Comfortably Designed for Head, Neck, and Chin Support - Gifts for Toddler/Child/Kids, Pink" src="https://m.media-amazon.com/images/I/41cki7qCpTL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B095WK5B7L?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="INFANZIA Kids Chin Supporting Travel Neck Pillow, Helps Support Head and Neck, Comfortably Designed for Head, Neck, and Chin Support - Gifts for Toddler/Child/Kids, Pink" src="https://m.media-amazon.com/images/I/41cki7qCpTL._SL500_.jpg"/></a>
 
 
 The **INFANZIA Kids Chin Supporting Travel Neck Pillow** is perfect for parents seeking a comfortable and supportive travel accessory for their toddlers or young children. Ideal for little ones who often struggle to keep their heads upright during car rides, plane trips, or stroller walks, this pillow provides essential **head, neck, and chin support** to prevent discomfort and awkward sleeping positions.
@@ -201,10 +201,10 @@ The **INFANZIA Kids Chin Supporting Travel Neck Pillow** features an innovative 
 
 Parents will appreciate the thoughtful engineering behind this travel pillow, which helps prevent the common issue of children's heads falling forward or sideways during naps. The durable manufacturing by **INFANZIA** ensures long-lasting use, making it a practical gift choice for toddlers and young kids. Overall, this pillow combines comfort, support, and convenience to make travel more enjoyable for both children and their caregivers.
 
-## <a href="https://www.amazon.com/dp/B0DK3WMWH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Dot¨ Twist Memory Foam Kids Travel Pillow</a>
+## <a href="https://www.amazon.com/dp/B0DK3WMWH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Dot¨ Twist Memory Foam Kids Travel Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B0DK3WMWH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Dot&amp;Dot Twist Memory Foam Kids Travel Pillow for Airplanes - Kids Neck Pillows for Travel, Sleeping - Airplane Pillow for Neck Support, Chin, Lumbar, Leg - Adjustable Toddler Neck Pillow for Car Seat" src="https://m.media-amazon.com/images/I/41IXCDEn3RL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DK3WMWH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Dot&amp;Dot Twist Memory Foam Kids Travel Pillow for Airplanes - Kids Neck Pillows for Travel, Sleeping - Airplane Pillow for Neck Support, Chin, Lumbar, Leg - Adjustable Toddler Neck Pillow for Car Seat" src="https://m.media-amazon.com/images/I/41IXCDEn3RL._SL500_.jpg"/></a>
 
 
 The **Dot¨ Twist Memory Foam Kids Travel Pillow** is ideal for parents seeking a comfortable and supportive travel accessory for their children. Designed specifically for toddlers and young kids, this pillow is perfect for families who frequently travel by airplane, car, or other modes of transportation and want to ensure their child’s neck and body are well-supported during naps and long journeys.
@@ -227,10 +227,10 @@ The **Dot¨ Twist Memory Foam Kids Travel Pillow** features a unique twist desig
 
 Additionally, the pillow's adjustable fit ensures it stays securely in place whether your child is seated in a car seat or airplane seat. Its compact size makes it easy to carry and store, making it a practical choice for parents on the go. The stylish **Mini Gray color** is both modern and gender-neutral, appealing to a wide range of tastes. Overall, this travel pillow combines comfort, support, and convenience to enhance your child’s travel experience.
 
-## <a href="https://www.amazon.com/dp/B0DC6JTB3J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Travel Neck Pillow For Kids &amp; Adults With Hood</a>
+## <a href="https://www.amazon.com/dp/B0DC6JTB3J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Travel Neck Pillow For Kids &amp; Adults With Hood</a>
 
 
-<a href="https://www.amazon.com/dp/B0DC6JTB3J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Travel Neck Pillow for Kids &amp; Adults with Hood – Double-Sided Airplane Pillow,Cute Design,Cooling Ice Silk &amp; Soft Velvet,Memory Foam Support,Adjustable Strap,Easy to Clean for Travel &amp; Long Flights" src="https://m.media-amazon.com/images/I/418nUfUi5gL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DC6JTB3J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Travel Neck Pillow for Kids &amp; Adults with Hood – Double-Sided Airplane Pillow,Cute Design,Cooling Ice Silk &amp; Soft Velvet,Memory Foam Support,Adjustable Strap,Easy to Clean for Travel &amp; Long Flights" src="https://m.media-amazon.com/images/I/418nUfUi5gL._SL500_.jpg"/></a>
 
 
 The **Travel Neck Pillow for Kids & Adults with Hood** is ideal for frequent travelers, families with children, and anyone seeking enhanced comfort during long flights or road trips. Its versatile design caters to both kids and adults, making it a perfect companion for those who want to rest and relax while on the go. If you value neck support combined with a cozy, stylish pillow that also keeps you cool, this product is an excellent choice.
@@ -254,10 +254,10 @@ Crafted by **Mewaii**, this travel neck pillow combines functionality and style 
 
 Additionally, the built-in **adjustable strap** keeps the pillow securely in place, preventing unwanted movement during sleep or relaxation. The attached hood adds an extra layer of privacy and warmth, which is especially beneficial in noisy or bright environments. Its lightweight and easy-to-clean construction make it a practical and durable choice for families and solo travelers alike, ensuring a pleasant and restful journey every time.
 
-## <a href="https://www.amazon.com/dp/B0F1W41HCN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Proglobe Junior Kids Travel Neck Pillow</a>
+## <a href="https://www.amazon.com/dp/B0F1W41HCN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Proglobe Junior Kids Travel Neck Pillow</a>
 
 
-<a href="https://www.amazon.com/dp/B0F1W41HCN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Proglobe Junior Kids Travel Neck Pillow - Ergonomic Memory Foam Pillow for Airplane, Car, Booster Seat - Soft, Washable, Compact Travel Pillow with Strap - Light Blue - Ages 4–13" src="https://m.media-amazon.com/images/I/41UeNQajC9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F1W41HCN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Proglobe Junior Kids Travel Neck Pillow - Ergonomic Memory Foam Pillow for Airplane, Car, Booster Seat - Soft, Washable, Compact Travel Pillow with Strap - Light Blue - Ages 4–13" src="https://m.media-amazon.com/images/I/41UeNQajC9L._SL500_.jpg"/></a>
 
 
 The **Proglobe Junior Kids Travel Neck Pillow** is an ideal choice for parents seeking a comfortable and supportive travel accessory for children aged **4 to 13**. Perfect for young travelers who spend time on airplanes, in cars, or seated in booster seats, this pillow offers ergonomic support to help kids rest better during journeys. Its compact, lightweight design with a secure strap makes it a convenient and practical travel companion for families on the go.

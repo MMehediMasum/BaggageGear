@@ -20,10 +20,10 @@ Breakfast choices such as the Breakfast Skillet provide energy for the day. Some
 
 
 
-## <a href="https://www.amazon.com/dp/B084J59WN4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Beef Lasagna</a>
+## <a href="https://www.amazon.com/dp/B084J59WN4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Beef Lasagna</a>
 
 
-<a href="https://www.amazon.com/dp/B084J59WN4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Beef Lasagna | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/413HNbkS+yL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084J59WN4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Beef Lasagna | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/413HNbkS+yL._SL500_.jpg"/></a>
 
 
 The **Mountain House Beef Lasagna** is an excellent choice for **backpackers**, **campers**, and outdoor enthusiasts who need a convenient, lightweight, and nutritious meal option while on the trail. Ideal for those who want a hearty, delicious meal without the hassle of cooking from scratch, this freeze-dried food is perfect for anyone seeking a balance between taste and portability during their adventures.
@@ -46,10 +46,10 @@ The **Mountain House Beef Lasagna** stands out with its freeze-dried technology 
 
 Additionally, the meal is quick and simple to prepare—just add hot water, and within minutes you have a warm, satisfying dish. This convenience allows users to spend less time cooking and more time enjoying their outdoor activities. The hearty beef lasagna also delivers a comforting taste experience that can boost morale and energy during challenging excursions.
 
-## <a href="https://www.amazon.com/dp/B084P843NK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Breakfast Skillet</a>
+## <a href="https://www.amazon.com/dp/B084P843NK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Breakfast Skillet</a>
 
 
-<a href="https://www.amazon.com/dp/B084P843NK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Breakfast Skillet | Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Gluten-Free" src="https://m.media-amazon.com/images/I/41d7l+sVJsL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084P843NK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Breakfast Skillet | Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Gluten-Free" src="https://m.media-amazon.com/images/I/41d7l+sVJsL._SL500_.jpg"/></a>
 
 
 The **Mountain House Breakfast Skillet** is perfect for outdoor enthusiasts who need a convenient, nutritious meal while backpacking, camping, or hiking. Ideal for those seeking **gluten-free** options, this freeze-dried food offers a lightweight and easy-to-prepare solution for adventurers who want to enjoy a hearty breakfast without the hassle of cooking from scratch.
@@ -72,10 +72,10 @@ The **Mountain House Breakfast Skillet** features a delicious combination of pot
 
 With its **gluten-free** ingredients, this meal caters to those with dietary restrictions without compromising taste or convenience. The lightweight design and long shelf life make it an excellent choice for backpackers and campers who need reliable and nutritious food that won't weigh them down.
 
-## <a href="https://www.amazon.com/dp/B084PD55JY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Beef Stroganoff With Noodles</a>
+## <a href="https://www.amazon.com/dp/B084PD55JY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Beef Stroganoff With Noodles</a>
 
 
-<a href="https://www.amazon.com/dp/B084PD55JY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Beef Stroganoff with Noodles | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/41Ukm-1KawL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084PD55JY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Beef Stroganoff with Noodles | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/41Ukm-1KawL._SL500_.jpg"/></a>
 
 
 The **Mountain House Beef Stroganoff with Noodles** is ideal for outdoor enthusiasts such as backpackers, campers, and hikers who need a convenient, lightweight, and nutritious meal on the go. This freeze-dried meal is perfect for those who prioritize ease of preparation without sacrificing taste or quality during their adventures.
@@ -98,10 +98,10 @@ The **Mountain House Beef Stroganoff with Noodles** boasts a robust and savory f
 
 Additionally, the meal comes in packaging measuring 8.0 inches by 3.0 inches by 8.0 inches, which fits neatly into most backpack compartments. The convenience of requiring only hot water to prepare means users can quickly refuel after a long day of outdoor activities. Overall, this product offers a reliable, tasty, and practical meal solution for anyone looking to enjoy quality food while exploring the great outdoors.
 
-## <a href="https://www.amazon.com/dp/B084GVLG9B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Adventure Weekender Kit</a>
+## <a href="https://www.amazon.com/dp/B084GVLG9B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Adventure Weekender Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B084GVLG9B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Adventure Weekender Kit | Freeze Dried Camping &amp; Backpacking Food | 12 Servings" src="https://m.media-amazon.com/images/I/41Mc-2+lhKL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084GVLG9B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Adventure Weekender Kit | Freeze Dried Camping &amp; Backpacking Food | 12 Servings" src="https://m.media-amazon.com/images/I/41Mc-2+lhKL._SL500_.jpg"/></a>
 
 
 The **Mountain House Adventure Weekender Kit** is ideal for outdoor enthusiasts who seek a reliable and convenient food solution during camping, backpacking, or hiking trips. This kit is perfect for individuals who prioritize lightweight, compact, and easy-to-prepare meals without compromising on taste and nutrition, making it a great choice for weekend adventurers and survivalists alike.
@@ -124,10 +124,10 @@ The **Mountain House Adventure Weekender Kit** offers a thoughtfully curated sel
 
 Beyond convenience, the kit's meals only require the addition of hot water, making preparation quick and simple even in remote locations. This ease of use saves time and effort, allowing adventurers to focus on their activities without worrying about complicated meal preparation. Additionally, the trusted **Mountain House** brand guarantees consistent quality and flavor, providing peace of mind to users who rely on these meals in the wilderness.
 
-## <a href="https://www.amazon.com/dp/B08QY6L2W6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Fettuccine Alfredo With Chicken</a>
+## <a href="https://www.amazon.com/dp/B08QY6L2W6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Fettuccine Alfredo With Chicken</a>
 
 
-<a href="https://www.amazon.com/dp/B08QY6L2W6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Fettuccine Alfredo with Chicken | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/417eHE60O6L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08QY6L2W6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Fettuccine Alfredo with Chicken | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/417eHE60O6L._SL500_.jpg"/></a>
 
 
 The **Mountain House Fettuccine Alfredo with Chicken** is ideal for outdoor enthusiasts, backpackers, and campers who need a convenient, lightweight, and nutritious meal option. If you're someone who values easy-to-prepare food with a long shelf life while on the trail or during camping trips, this freeze-dried meal is perfect for you. It provides a satisfying and comforting dish without the hassle of carrying heavy ingredients or cooking complicated meals.
@@ -151,10 +151,10 @@ The **Mountain House Fettuccine Alfredo with Chicken** features a carefully free
 
 Beyond its convenience, this meal offers the benefit of balanced nutrition with protein from real chicken and carbohydrates from the fettuccine pasta. This combination supports energy and recovery, especially important for strenuous outdoor activities. The rich Alfredo sauce provides a comforting taste experience that can boost morale during long hikes or camping trips, making it a popular choice among campers looking for both taste and practicality.
 
-## <a href="https://www.amazon.com/dp/B091KK5JFR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peak Refuel Chicken Coconut Curry</a>
+## <a href="https://www.amazon.com/dp/B091KK5JFR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peak Refuel Chicken Coconut Curry</a>
 
 
-<a href="https://www.amazon.com/dp/B091KK5JFR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Peak Refuel Chicken Coconut Curry | Freeze Dried Backpacking and Camping Food | Amazing Taste &amp; Quality | High Protein | Real Meat | Quick Prep (2 Serving Pouch)" src="https://m.media-amazon.com/images/I/51Rsq5KT6SL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B091KK5JFR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Peak Refuel Chicken Coconut Curry | Freeze Dried Backpacking and Camping Food | Amazing Taste &amp; Quality | High Protein | Real Meat | Quick Prep (2 Serving Pouch)" src="https://m.media-amazon.com/images/I/51Rsq5KT6SL._SL500_.jpg"/></a>
 
 
 The **Peak Refuel Chicken Coconut Curry** is ideal for outdoor enthusiasts who need a convenient, high-protein meal while backpacking or camping. If you are someone who values both taste and nutrition in a lightweight, easy-to-prepare package, this freeze-dried meal is perfect for you. It caters especially well to hikers, campers, and adventure travelers seeking real meat options without compromising on quality or flavor.
@@ -177,10 +177,10 @@ The **Peak Refuel Chicken Coconut Curry** features a perfectly balanced blend of
 
 With its fast preparation time, this meal allows users to spend less time cooking and more time enjoying their activities. The high protein content supports sustained energy and muscle repair, making it especially beneficial for those engaging in strenuous physical activity. Overall, this product combines quality ingredients, convenience, and taste, making it a reliable choice for anyone seeking a wholesome meal on the trail.
 
-## <a href="https://www.amazon.com/dp/B084J5D7Z4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Chicken &amp; Dumplings</a>
+## <a href="https://www.amazon.com/dp/B084J5D7Z4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Chicken &amp; Dumplings</a>
 
 
-<a href="https://www.amazon.com/dp/B084J5D7Z4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Chicken &amp; Dumplings | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/41CkMSnEWUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084J5D7Z4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Chicken &amp; Dumplings | Freeze Dried Backpacking &amp; Camping Food | 2 Servings" src="https://m.media-amazon.com/images/I/41CkMSnEWUL._SL500_.jpg"/></a>
 
 
 The **Mountain House Chicken & Dumplings** is perfect for outdoor enthusiasts who need a reliable, lightweight, and nutritious meal while backpacking or camping. Ideal for hikers, campers, and emergency preppers, this freeze-dried food offers convenience without compromising on taste or quality. Anyone looking for a quick and easy meal solution in remote locations should consider this product.
@@ -203,10 +203,10 @@ The **Mountain House Chicken & Dumplings** features a freeze-dried process that 
 
 Beyond convenience, this product delivers a comforting and hearty taste reminiscent of home-cooked meals, which can be a morale booster during outdoor excursions. The inclusion of two servings allows for flexibility, whether eating alone or sharing with a companion. Its multi-colored packaging also makes it easy to identify among other camping supplies. Overall, this freeze-dried food is a smart investment for anyone prioritizing nutrition, taste, and portability in their outdoor meal options.
 
-## <a href="https://www.amazon.com/dp/B0CCGD9SRW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peak Refuel Peach Cobbler</a>
+## <a href="https://www.amazon.com/dp/B0CCGD9SRW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Peak Refuel Peach Cobbler</a>
 
 
-<a href="https://www.amazon.com/dp/B0CCGD9SRW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Peak Refuel Peach Cobbler | Real Ingredients | Ready in Minutes | Just Add Water | Premium Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Ideal MRE Survival Meal or Dessert" src="https://m.media-amazon.com/images/I/41pKkt9cwgL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CCGD9SRW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Peak Refuel Peach Cobbler | Real Ingredients | Ready in Minutes | Just Add Water | Premium Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Ideal MRE Survival Meal or Dessert" src="https://m.media-amazon.com/images/I/41pKkt9cwgL._SL500_.jpg"/></a>
 
 
 The **Peak Refuel Peach Cobbler** is perfect for outdoor enthusiasts, campers, hikers, and survivalists who want a convenient and tasty meal or dessert option while on the go. If you need a lightweight, easy-to-prepare food that delivers real flavor and nutrition with minimal effort, this product is an ideal choice. It is especially suitable for those looking for a premium **freeze-dried backpacking and camping food** that requires only water to prepare.
@@ -230,10 +230,10 @@ The **Peak Refuel Peach Cobbler** offers a seamless blend of convenience and qua
 
 Preparation is straightforward and quick—just add water to rehydrate the cobbler, making it accessible even for those with limited cooking tools or experience. This feature ensures that users can focus on their adventure or survival situation without compromising on taste or nourishment. Overall, this product delivers a premium, hassle-free food experience that meets the needs of outdoor lovers and emergency planners alike.
 
-## <a href="https://www.amazon.com/dp/B084NW22VN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Pad Thai With Chicken</a>
+## <a href="https://www.amazon.com/dp/B084NW22VN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Pad Thai With Chicken</a>
 
 
-<a href="https://www.amazon.com/dp/B084NW22VN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Pad Thai with Chicken | Freeze Dried Backpacking &amp; Camping Food | Gluten-Free | 2 Servings" src="https://m.media-amazon.com/images/I/410a9zi0OpL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084NW22VN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Pad Thai with Chicken | Freeze Dried Backpacking &amp; Camping Food | Gluten-Free | 2 Servings" src="https://m.media-amazon.com/images/I/410a9zi0OpL._SL500_.jpg"/></a>
 
 
 The **Mountain House Pad Thai with Chicken** is perfect for outdoor enthusiasts, backpackers, and campers who need a convenient, nutritious meal on the go. Ideal for those seeking a lightweight, easy-to-prepare option that doesn't compromise on flavor, this **gluten-free** freeze-dried food is designed to fuel your adventures without weighing you down. If you value quick meal solutions during hiking trips or emergency preparedness, this item is an excellent choice.
@@ -256,10 +256,10 @@ The **Mountain House Pad Thai with Chicken** features a freeze-dried preparation
 
 Additionally, this meal is designed with dietary considerations in mind, being completely **gluten-free** and suitable for those with gluten sensitivities. The inclusion of chicken adds a good source of protein, helping to sustain energy levels during physically demanding activities. Overall, the Mountain House Pad Thai provides a balanced, flavorful, and convenient meal option that supports active lifestyles and enhances outdoor experiences.
 
-## <a href="https://www.amazon.com/dp/B084P72LJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Chicken Teriyaki</a>
+## <a href="https://www.amazon.com/dp/B084P72LJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountain House Chicken Teriyaki</a>
 
 
-<a href="https://www.amazon.com/dp/B084P72LJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Chicken Teriyaki | Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Gluten-Free" src="https://m.media-amazon.com/images/I/418EuDVZICL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084P72LJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountain House Chicken Teriyaki | Freeze Dried Backpacking &amp; Camping Food | 2 Servings | Gluten-Free" src="https://m.media-amazon.com/images/I/418EuDVZICL._SL500_.jpg"/></a>
 
 
 The **Mountain House Chicken Teriyaki** is an excellent choice for **backpackers**, **campers**, and outdoor enthusiasts who need a reliable, lightweight, and easy-to-prepare meal. Ideal for individuals seeking **gluten-free** options without sacrificing flavor or nutrition, this freeze-dried food is perfect for those prioritizing convenience and quality during their adventures.

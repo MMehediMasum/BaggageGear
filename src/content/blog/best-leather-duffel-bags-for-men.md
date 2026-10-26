@@ -23,10 +23,10 @@ Features such as sturdy zippers, spacious compartments, and comfortable straps m
 
 
 
-## <a href="https://www.amazon.com/dp/B01N69YAAT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Duffel Bags For Men And Women</a>
+## <a href="https://www.amazon.com/dp/B01N69YAAT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Duffel Bags For Men And Women</a>
 
 
-<a href="https://www.amazon.com/dp/B01N69YAAT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Duffel Bags for Men and Women Full Grain Leather Travel Overnight Weekend Leather Bags Sports Gym Duffel for Men (Tan, 20 Inch)" src="https://m.media-amazon.com/images/I/417DFzL+jOS._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01N69YAAT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Duffel Bags for Men and Women Full Grain Leather Travel Overnight Weekend Leather Bags Sports Gym Duffel for Men (Tan, 20 Inch)" src="https://m.media-amazon.com/images/I/417DFzL+jOS._SL500_.jpg"/></a>
 
 
 The **KomalC Leather Duffel Bag** is ideal for both men and women who seek a stylish yet functional travel companion. Perfect for frequent travelers, gym enthusiasts, and weekend adventurers, this bag combines durability with a classic design, making it suitable for anyone looking for a reliable **overnight or weekend bag**. If you appreciate quality craftsmanship and want a versatile bag that fits various lifestyles, this **full grain leather duffel** is an excellent choice.
@@ -49,10 +49,10 @@ The **KomalC Leather Duffel Bag** boasts a compact yet roomy design, measuring 2
 
 Designed with versatility in mind, this duffel bag’s classic **tan color** and unisex appeal make it a fashionable choice for various occasions. Whether you’re heading to the gym, traveling for the weekend, or using it as a sports bag, the **KomalC Leather Duffel** supports a dynamic lifestyle. Its thoughtfully crafted dimensions and sturdy handles offer comfort and ease, making it a reliable accessory for everyday adventures.
 
-## <a href="https://www.amazon.com/dp/B07VTQFF11?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc 24 Inch Leather Duffel Bags</a>
+## <a href="https://www.amazon.com/dp/B07VTQFF11?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc 24 Inch Leather Duffel Bags</a>
 
 
-<a href="https://www.amazon.com/dp/B07VTQFF11?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC 24 Inch Leather Duffel Bags for Men and Women Travel Overnight Weekend Leather Bags Sports Gym Duffle for Men (Brown Distressed Tan)" src="https://m.media-amazon.com/images/I/41QMyVxjHYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07VTQFF11?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC 24 Inch Leather Duffel Bags for Men and Women Travel Overnight Weekend Leather Bags Sports Gym Duffle for Men (Brown Distressed Tan)" src="https://m.media-amazon.com/images/I/41QMyVxjHYL._SL500_.jpg"/></a>
 
 
 The **KomalC 24 Inch Leather Duffel Bag** is ideal for both **men and women** who need a stylish yet functional bag for **travel, overnight stays, weekend trips, or gym sessions**. Its versatile design and durable construction make it perfect for individuals who value quality and convenience in a **compact, leather travel bag**.
@@ -75,10 +75,10 @@ The **KomalC 24 Inch Leather Duffel Bag** offers a blend of style and practicali
 
 Additionally, the bag’s lightweight design and well-thought-out dimensions make it easy to carry while maximizing storage. The leather finish ages beautifully over time, enhancing the bag’s character and appeal. Whether used for an overnight business trip or a weekend getaway, this versatile duffel bag stands out as a reliable companion that combines function with timeless style.
 
-## <a href="https://www.amazon.com/dp/B0786P4MF1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Duffel Bags For Men And Women</a>
+## <a href="https://www.amazon.com/dp/B0786P4MF1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Duffel Bags For Men And Women</a>
 
 
-<a href="https://www.amazon.com/dp/B0786P4MF1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Duffel Bags for Men and Women Full Grain Leather Travel Overnight Weekend Leather Bags Sports Gym Duffel for Men (Dark Tan)" src="https://m.media-amazon.com/images/I/41fPPvFgBGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0786P4MF1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Duffel Bags for Men and Women Full Grain Leather Travel Overnight Weekend Leather Bags Sports Gym Duffel for Men (Dark Tan)" src="https://m.media-amazon.com/images/I/41fPPvFgBGL._SL500_.jpg"/></a>
 
 
 The **KomalC Leather Duffel Bag** in **Dark Tan** is ideal for both men and women who seek a stylish yet durable bag for **travel, overnight stays, weekend trips, or gym sessions**. If you value premium quality materials combined with practical design, this **full grain leather duffel bag** offers the perfect blend of functionality and elegance, making it a great choice for frequent travelers and fitness enthusiasts alike.
@@ -101,10 +101,10 @@ This **KomalC Leather Duffel Bag** stands out with its use of **full grain leath
 
 Additionally, the **dark tan color** adds a classic and versatile aesthetic that complements any outfit. The bag’s lightweight design minimizes strain during transport, while its sturdy build ensures it withstands daily wear and tear. Overall, this duffel bag offers a practical and fashionable solution for those who want reliable quality paired with timeless style.
 
-## <a href="https://www.amazon.com/dp/B083Z1J54M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polare 23" Full Grain Cowhide Leather Gym Duffle Weekender Overnight Travel Duffel Bag For Men</a>
+## <a href="https://www.amazon.com/dp/B083Z1J54M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polare 23" Full Grain Cowhide Leather Gym Duffle Weekender Overnight Travel Duffel Bag For Men</a>
 
 
-<a href="https://www.amazon.com/dp/B083Z1J54M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polare 23" src="https://m.media-amazon.com/images/I/41BBg+w2vqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B083Z1J54M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polare 23" src="https://m.media-amazon.com/images/I/41BBg+w2vqL._SL500_.jpg"/></a>
 
 
 The **Polare 23" Full Grain Cowhide Leather Gym Duffle Weekender Overnight Travel Duffel Bag For Men 42L** is ideal for men who value both style and functionality in their travel gear. Whether you're a frequent traveler, gym enthusiast, or weekend adventurer, this bag is designed to meet the needs of those seeking a durable, spacious, and elegant carry solution. If you want a premium leather bag that combines ruggedness with sophistication, this item is perfect for you.
@@ -127,10 +127,10 @@ The **Polare 23" Full Grain Cowhide Leather Duffel Bag** stands out with its pre
 
 With a generous **42L capacity**, this duffel is spacious enough to accommodate clothes, shoes, and essentials for short trips or gym sessions. Its compact dimensions ensure that it remains convenient to carry or stow away in overhead compartments or car trunks. The elegant brown color and polished finish provide a sophisticated look that fits both casual and formal settings, offering versatility alongside practicality.
 
-## <a href="https://www.amazon.com/dp/B01LVURXJM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Travel Duffle Bags For Men And Women</a>
+## <a href="https://www.amazon.com/dp/B01LVURXJM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Travel Duffle Bags For Men And Women</a>
 
 
-<a href="https://www.amazon.com/dp/B01LVURXJM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Travel Duffle Bags for Men and Women Full Grain Leather Overnight Weekend Leather Bags Sports Gym Duffle. (Buffalo Distressed Tan)" src="https://m.media-amazon.com/images/I/41QMyVxjHYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01LVURXJM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Travel Duffle Bags for Men and Women Full Grain Leather Overnight Weekend Leather Bags Sports Gym Duffle. (Buffalo Distressed Tan)" src="https://m.media-amazon.com/images/I/41QMyVxjHYL._SL500_.jpg"/></a>
 
 
 The **KomalC Leather Travel Duffle Bag** is ideal for both men and women who seek a durable, stylish, and versatile bag for their overnight trips, weekend getaways, gym sessions, or sports activities. If you value quality craftsmanship and desire a bag that combines functionality with classic aesthetics, this full grain leather duffle is designed for you. Its robust build and timeless **Buffalo Distressed Tan** finish make it perfect for travelers and fitness enthusiasts who want to carry their essentials in style.
@@ -153,10 +153,10 @@ The **KomalC Leather Travel Duffle Bag** features a full grain leather construct
 
 Besides its robust build, this bag's elegant **Buffalo Distressed Tan** finish adds a touch of sophistication, allowing users to transition seamlessly from casual to professional settings. The bag’s lightweight nature means you can carry it comfortably without added strain, while the versatile design accommodates various lifestyles, whether you're a traveler, athlete, or someone who appreciates quality leather goods. Overall, the KomalC duffle is a practical yet stylish investment for anyone needing a reliable bag for everyday or occasional use.
 
-## <a href="https://www.amazon.com/dp/B07WP554NT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Large 32 Inch Duffel Bags For Men Holdall Leather Travel Bag</a>
+## <a href="https://www.amazon.com/dp/B07WP554NT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Large 32 Inch Duffel Bags For Men Holdall Leather Travel Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B07WP554NT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Large 32 inch duffel bags for men holdall leather travel bag overnight gym sports weekend bag" src="https://m.media-amazon.com/images/I/41ilYQvTbUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07WP554NT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Large 32 inch duffel bags for men holdall leather travel bag overnight gym sports weekend bag" src="https://m.media-amazon.com/images/I/41ilYQvTbUL._SL500_.jpg"/></a>
 
 
 The **Large 32 inch duffel bags for men** by **Komal's Passion Leather** are ideal for individuals who need a versatile and spacious bag for travel, gym, or weekend getaways. This **holdall leather travel bag** perfectly suits men who prioritize both style and functionality, whether for overnight trips or sports activities.
@@ -179,10 +179,10 @@ The **Komal's Passion Leather** large duffel bag is designed with premium qualit
 
 In addition to its spacious interior, the bag's sturdy leather construction offers excellent protection for your belongings. The elegant brown color adds a classic touch suitable for both casual and professional settings. Whether you're heading to the gym, catching a flight, or enjoying a weekend getaway, this bag delivers a perfect blend of practicality and style, making it a reliable companion for every journey.
 
-## <a href="https://www.amazon.com/dp/B0D84JV3GM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Leather Village Leather Duffel Bags For Men &amp; Women</a>
+## <a href="https://www.amazon.com/dp/B0D84JV3GM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Leather Village Leather Duffel Bags For Men &amp; Women</a>
 
 
-<a href="https://www.amazon.com/dp/B0D84JV3GM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Leather Village Leather Duffel Bags for Men &amp; Women-Stylish Travel Weekender Carry-On Sports Gym Overnight Luggage Bag - 20 Inch - Vintage Brown" src="https://m.media-amazon.com/images/I/41MkMPWUkvL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D84JV3GM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Leather Village Leather Duffel Bags for Men &amp; Women-Stylish Travel Weekender Carry-On Sports Gym Overnight Luggage Bag - 20 Inch - Vintage Brown" src="https://m.media-amazon.com/images/I/41MkMPWUkvL._SL500_.jpg"/></a>
 
 
 The **Leather Village Leather Duffel Bags** are perfect for both men and women who value style and functionality in their travel gear. Ideal for frequent travelers, gym enthusiasts, and weekend adventurers, this **20-inch vintage brown carry-on bag** combines a timeless design with practical features, making it an excellent choice for anyone seeking a reliable and stylish luggage solution.
@@ -204,10 +204,10 @@ Crafted by **VIOM CREATIONS** under the trusted brand **LEATHER VILLAGE**, this 
 
 The thoughtfully designed compartments provide ample space and organization options, making it easy to pack essentials efficiently whether heading to the gym or embarking on a weekend getaway. Its sturdy construction supports heavy loads while maintaining a sleek silhouette, ensuring users enjoy both practicality and style. Overall, this leather duffel bag is a sophisticated, versatile choice for those who appreciate quality craftsmanship and timeless design in their travel accessories.
 
-## <a href="https://www.amazon.com/dp/B0BMLX28YQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Travel Duffel Bags</a>
+## <a href="https://www.amazon.com/dp/B0BMLX28YQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Komalc Leather Travel Duffel Bags</a>
 
 
-<a href="https://www.amazon.com/dp/B0BMLX28YQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Travel Duffel Bags for Men and Women Full Grain Leather Overnight Weekend Leather Bags Sports Gym Duffle" src="https://m.media-amazon.com/images/I/414pjmxEyqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BMLX28YQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KomalC Leather Travel Duffel Bags for Men and Women Full Grain Leather Overnight Weekend Leather Bags Sports Gym Duffle" src="https://m.media-amazon.com/images/I/414pjmxEyqL._SL500_.jpg"/></a>
 
 
 The **KomalC Leather Travel Duffel Bag** is ideal for both **men and women** seeking a stylish and durable option for overnight trips, weekend getaways, or gym sessions. If you value **quality craftsmanship** and a bag that combines functionality with a classic look, this full grain leather duffel is designed for you.
@@ -230,10 +230,10 @@ The **KomalC Leather Travel Duffel Bag** features a robust construction using pr
 
 Additionally, the distressed tan finish adds a unique character to the bag, blending vintage charm with modern utility. Whether you're heading to a business trip or a weekend adventure, the bag's versatile style complements various occasions. The durable materials and thoughtful dimensions combine to provide a reliable, stylish companion that meets the demands of everyday use.
 
-## <a href="https://www.amazon.com/dp/B07YVHDFMN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Leathfocus Leather Travel Duffel Bag</a>
+## <a href="https://www.amazon.com/dp/B07YVHDFMN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Leathfocus Leather Travel Duffel Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B07YVHDFMN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Leathfocus Leather Travel Duffel Bag, Mens Classic Gift Leather Weekend Bag Overnight Full Grain Retro Sport Gym Carry on Luggage YKK Zipper (Brown)" src="https://m.media-amazon.com/images/I/41ysA+y1GGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07YVHDFMN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Leathfocus Leather Travel Duffel Bag, Mens Classic Gift Leather Weekend Bag Overnight Full Grain Retro Sport Gym Carry on Luggage YKK Zipper (Brown)" src="https://m.media-amazon.com/images/I/41ysA+y1GGL._SL500_.jpg"/></a>
 
 
 The **Leathfocus Leather Travel Duffel Bag** is ideal for men who value both style and functionality in their travel gear. Whether you're a frequent traveler, a gym enthusiast, or someone looking for a durable weekend bag, this classic full grain leather duffel offers the perfect blend of ruggedness and elegance. Its compact size and thoughtful design cater to those who need a reliable carry-on or overnight bag that stands out with a retro aesthetic.
@@ -256,10 +256,10 @@ The **Leathfocus Leather Travel Duffel Bag** features high-quality **full grain 
 
 Designed with practicality in mind, this duffel bag's dimensions are perfect for carrying overnight essentials or gym gear without being bulky. Its classic **brown color** and retro sport style allow it to transition seamlessly from a business trip to casual outings. Lightweight yet sturdy, it offers excellent portability and convenience, making it a versatile choice for men who appreciate quality craftsmanship in their luggage.
 
-## <a href="https://www.amazon.com/dp/B0BDZGVV1F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">28" Vintage Duffel Classic Style With Modern Outlook Retro Thick Full Grain Cowhide Handmade Airplane Underseat Carry On Bags Leather Gym Overnight Luggage Bag</a>
+## <a href="https://www.amazon.com/dp/B0BDZGVV1F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">28" Vintage Duffel Classic Style With Modern Outlook Retro Thick Full Grain Cowhide Handmade Airplane Underseat Carry On Bags Leather Gym Overnight Luggage Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0BDZGVV1F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="28" src="https://m.media-amazon.com/images/I/41wm5U9ovQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BDZGVV1F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="28" src="https://m.media-amazon.com/images/I/41wm5U9ovQL._SL500_.jpg"/></a>
 
 
 The **28" Vintage Duffel Classic Style** is perfect for travelers who appreciate a blend of **retro aesthetics** and **modern functionality**. Ideal for frequent flyers, gym enthusiasts, and overnight travelers, this bag caters to those seeking a durable yet stylish carry-on solution that fits comfortably under airplane seats.

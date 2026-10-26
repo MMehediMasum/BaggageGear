@@ -23,10 +23,10 @@ Whether you carry a 40L waterproof pack or a smaller daypack, comfort and durabi
 
 
 
-## <a href="https://www.amazon.com/dp/B01H129PIW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail Patch</a>
+## <a href="https://www.amazon.com/dp/B01H129PIW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B01H129PIW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Appalachian Trail Patch" src="https://m.media-amazon.com/images/I/51YeF4wi+jL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01H129PIW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Appalachian Trail Patch" src="https://m.media-amazon.com/images/I/51YeF4wi+jL._SL500_.jpg"/></a>
 
 
 The **Appalachian Trail Patch** is perfect for avid hikers, outdoor enthusiasts, and collectors who want to showcase their love for one of the most iconic hiking trails in the United States. If you have completed or aspire to complete the Appalachian Trail, or simply want to add a meaningful and colorful patch to your gear or apparel, this item is an excellent choice. It is also ideal for those who appreciate high-quality, durable accessories that celebrate nature and adventure.
@@ -48,10 +48,10 @@ The **Appalachian Trail Patch** boasts a detailed and colorful design that captu
 
 Manufactured by **Trail Patch**, this item promises quality and longevity, ensuring that your patch remains an enduring symbol of your hiking accomplishments or aspirations. Whether you sew it onto your backpack, jacket, or hat, the patch adds a personalized touch that celebrates your connection to the great outdoors and the adventure of the Appalachian Trail.
 
-## <a href="https://www.amazon.com/dp/B082T2W7LN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kriega Trail 9 Adventure Backpack</a>
+## <a href="https://www.amazon.com/dp/B082T2W7LN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kriega Trail 9 Adventure Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B082T2W7LN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kriega Trail 9 Adventure Backpack" src="https://m.media-amazon.com/images/I/41yauZtc5PL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B082T2W7LN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kriega Trail 9 Adventure Backpack" src="https://m.media-amazon.com/images/I/41yauZtc5PL._SL500_.jpg"/></a>
 
 
 The **Kriega Trail 9 Adventure Backpack** is perfect for outdoor enthusiasts and adventure seekers who need a reliable, compact, and durable backpack for day trips, hiking, or motorcycling. If you value high-quality gear that combines practicality with rugged design, this backpack is an ideal choice to carry your essentials without compromising comfort or style.
@@ -74,10 +74,10 @@ The **Kriega Trail 9 Adventure Backpack** offers a perfect balance of size and f
 
 Despite its compact size, the backpack maximizes storage efficiency without weighing you down. The ergonomic dimensions allow for a snug fit that reduces strain on the shoulders and back, enhancing comfort during extended wear. While it may not have features like a hydration bladder compartment, its robust design and practical layout make the **Kriega Trail 9** a trusted choice for those who prioritize durability and convenience on their adventures.
 
-## <a href="https://www.amazon.com/dp/B09P1GN6PN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B09P1GN6PN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B09P1GN6PN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Hiking Backpack,Camping Backpack,40L Waterproof Hiking Daypack with Rain Cover,Lightweight Travel Backpack,Green" src="https://m.media-amazon.com/images/I/51DVTO2zaGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09P1GN6PN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Hiking Backpack,Camping Backpack,40L Waterproof Hiking Daypack with Rain Cover,Lightweight Travel Backpack,Green" src="https://m.media-amazon.com/images/I/51DVTO2zaGL._SL500_.jpg"/></a>
 
 
 The **Maelstrom Hiking Backpack** is ideal for outdoor enthusiasts, campers, and hikers who require a reliable and spacious daypack. If you’re someone who enjoys long treks, camping trips, or any adventure where carrying essentials comfortably and securely is a priority, this **40L waterproof hiking daypack** will suit your needs perfectly.
@@ -99,10 +99,10 @@ The **Maelstrom Hiking Backpack** stands out with its robust **waterproof design
 
 Thanks to its **lightweight construction**, weighing just over 2 pounds, users experience less fatigue, allowing for longer and more comfortable outdoor activities. The **40L storage space** accommodates all necessary gear, from clothing layers to food supplies, while the durable materials ensure the backpack withstands rugged terrain and frequent use.
 
-## <a href="https://www.amazon.com/dp/B0C9R6JN3Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail Marker Morale Patch</a>
+## <a href="https://www.amazon.com/dp/B0C9R6JN3Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail Marker Morale Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0C9R6JN3Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Redheaded Productions - Appalachian Trail Marker Morale Patch | High-Res Image of Actual Trail Marker, Won’t Scratch Off. Hiking, Camping, Outdoors Patch Made in USA!" src="https://m.media-amazon.com/images/I/51ZvwTpS11L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C9R6JN3Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Redheaded Productions - Appalachian Trail Marker Morale Patch | High-Res Image of Actual Trail Marker, Won’t Scratch Off. Hiking, Camping, Outdoors Patch Made in USA!" src="https://m.media-amazon.com/images/I/51ZvwTpS11L._SL500_.jpg"/></a>
 
 
 The **Redheaded Productions - Appalachian Trail Marker Morale Patch** is perfect for avid **hikers**, **campers**, and outdoor enthusiasts who want to showcase their love for the **Appalachian Trail**. This patch is ideal for those who appreciate high-quality, durable gear that reflects their passion for the outdoors while adding a unique touch to their backpacks, jackets, or camping equipment. Made in the **USA**, it appeals to buyers who value authenticity and craftsmanship.
@@ -125,10 +125,10 @@ The **Redheaded Productions Appalachian Trail Marker Morale Patch** offers a uni
 
 Made with quality materials in the **USA**, this patch supports local manufacturing while providing a trustworthy product. It is especially beneficial for hikers and campers who want to personalize their equipment with something that reflects their outdoor experiences. Although it comes only in black, the sleek color complements most gear and adds a subtle yet distinct flair. Overall, this morale patch is a great choice for anyone looking to celebrate their connection to the Appalachian Trail in a durable and stylish way.
 
-## <a href="https://www.amazon.com/dp/B0DRNGGM5H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0DRNGGM5H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Maelstrom Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DRNGGM5H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Hiking Backpack, 40L Waterproof Camping Daypack for Men and Women, Lightweight Travel Pack with Rain Cover-Orange" src="https://m.media-amazon.com/images/I/418e8iH8pUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DRNGGM5H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Maelstrom Hiking Backpack, 40L Waterproof Camping Daypack for Men and Women, Lightweight Travel Pack with Rain Cover-Orange" src="https://m.media-amazon.com/images/I/418e8iH8pUL._SL500_.jpg"/></a>
 
 
 The **Maelstrom Hiking Backpack, 40L Waterproof Camping Daypack** is perfect for outdoor enthusiasts who seek a reliable, lightweight, and versatile pack. Ideal for both men and women, this backpack suits hikers, campers, and travelers who need ample storage without sacrificing comfort or durability, especially in unpredictable weather conditions.
@@ -152,10 +152,10 @@ The **Maelstrom Hiking Backpack** features a durable, waterproof construction th
 
 With its **40L storage capacity**, this backpack accommodates everything from clothing to camping equipment. The bright orange color not only adds a stylish touch but also enhances visibility in nature, improving safety. While it’s designed for simplicity and functionality, the backpack’s compact dimensions make it easy to maneuver on trails and during travel, appealing to anyone looking for a reliable, no-fuss hiking pack.
 
-## <a href="https://www.amazon.com/dp/B07T9KJ87Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fengdong 40l Waterproof Lightweight Outdoor Daypack Hiking, Camping, Travel Backpack For Men Women Blue</a>
+## <a href="https://www.amazon.com/dp/B07T9KJ87Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fengdong 40l Waterproof Lightweight Outdoor Daypack Hiking, Camping, Travel Backpack For Men Women Blue</a>
 
 
-<a href="https://www.amazon.com/dp/B07T9KJ87Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FENGDONG 40L Waterproof Lightweight Outdoor Daypack Hiking,Camping,Travel Backpack for Men Women Blue" src="https://m.media-amazon.com/images/I/51tNhfu958L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07T9KJ87Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FENGDONG 40L Waterproof Lightweight Outdoor Daypack Hiking,Camping,Travel Backpack for Men Women Blue" src="https://m.media-amazon.com/images/I/51tNhfu958L._SL500_.jpg"/></a>
 
 
 The **FENGDONG 40L Waterproof Lightweight Outdoor Daypack** is ideal for outdoor enthusiasts who need a reliable and spacious backpack for activities such as **hiking**, **camping**, and **travel**. Both **men and women** looking for a durable and versatile pack that can withstand various weather conditions will find this backpack especially useful. Its lightweight design makes it perfect for those who prioritize comfort without sacrificing storage capacity.
@@ -178,10 +178,10 @@ The **FENGDONG 40L Daypack** features a well-thought-out design with dimensions 
 
 Additionally, this backpack is designed with versatility in mind, catering to both **men and women** who require a reliable pack for outdoor adventures. The **durable materials** and sturdy construction from the reputable **FENGDONG** manufacturer contribute to its long-lasting performance. Whether you are trekking through rugged trails or navigating busy airports, this **waterproof lightweight daypack** combines practicality with style, offering a perfect balance for active lifestyles.
 
-## <a href="https://www.amazon.com/dp/B09WZQMSTG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">I Hiked The Appalachian Trail Vintage T-shirt</a>
+## <a href="https://www.amazon.com/dp/B09WZQMSTG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">I Hiked The Appalachian Trail Vintage T-shirt</a>
 
 
-<a href="https://www.amazon.com/dp/B09WZQMSTG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="I Hiked the Appalachian Trail, AT, Thru-hiked, Vintage T-Shirt" src="https://m.media-amazon.com/images/I/31EC+cwwraL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09WZQMSTG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="I Hiked the Appalachian Trail, AT, Thru-hiked, Vintage T-Shirt" src="https://m.media-amazon.com/images/I/31EC+cwwraL._SL500_.jpg"/></a>
 
 
 Ideal for **outdoor enthusiasts**, **hiking aficionados**, and anyone who has **completed or aspires to thru-hike the Appalachian Trail**, the **I Hiked the Appalachian Trail, AT, Thru-hiked, Vintage T-Shirt** is a perfect way to celebrate this iconic adventure. This **vintage-style black t-shirt** is designed for those who want to showcase their love for the **Appalachian Trail** or commemorate their personal achievement.
@@ -202,10 +202,10 @@ The **I Hiked the Appalachian Trail, AT, Thru-hiked, Vintage T-Shirt** boasts a 
 
 Crafted by **AT Appalachian Trail Gift Items**, this t-shirt balances comfort and style, making it suitable for daily wear or as a special keepsake. The durable material ensures it can withstand regular use, whether during post-hike relaxation or casual outings. Overall, it’s a meaningful piece for anyone connected to the Appalachian Trail, blending functionality with sentimental value.
 
-## <a href="https://www.amazon.com/dp/B09Y931KXX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lemuvlt Small Hiking Daypack Rucking Backpack 15l</a>
+## <a href="https://www.amazon.com/dp/B09Y931KXX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lemuvlt Small Hiking Daypack Rucking Backpack 15l</a>
 
 
-<a href="https://www.amazon.com/dp/B09Y931KXX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Lemuvlt Small Hiking Daypack Rucking Backpack 15L,Lightweight &amp; Durable -Ideal Backpack for Skiing, Skating, Snowboarding,Hiking, Running, MTB Cycling (Orange)" src="https://m.media-amazon.com/images/I/41gfmVHz4hL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09Y931KXX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Lemuvlt Small Hiking Daypack Rucking Backpack 15L,Lightweight &amp; Durable -Ideal Backpack for Skiing, Skating, Snowboarding,Hiking, Running, MTB Cycling (Orange)" src="https://m.media-amazon.com/images/I/41gfmVHz4hL._SL500_.jpg"/></a>
 
 
 The **Lemuvlt Small Hiking Daypack Rucking Backpack 15L** is perfect for outdoor enthusiasts who need a compact, lightweight, and durable bag for their adventures. Ideal for those who enjoy **skiing, skating, snowboarding, hiking, running**, and **MTB cycling**, this backpack offers convenience without sacrificing performance. If you want a reliable pack that won't weigh you down but can still carry your essentials, this is the ideal choice for you.
@@ -227,10 +227,10 @@ The **Lemuvlt Small Hiking Daypack** measures approximately 18.5 inches in heigh
 
 Crafted by **Lemuvlt**, the backpack features durable materials that can withstand the rigors of outdoor use. The **bright orange color** not only adds a stylish touch but also increases safety by making the wearer more visible in various environments. This versatility combined with a robust build makes it a dependable companion for those who need a reliable pack for their active lifestyle.
 
-## <a href="https://www.amazon.com/dp/B0BRR1F3YS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail I Hiked It Thru Hiker Adventure T-shirt</a>
+## <a href="https://www.amazon.com/dp/B0BRR1F3YS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Appalachian Trail I Hiked It Thru Hiker Adventure T-shirt</a>
 
 
-<a href="https://www.amazon.com/dp/B0BRR1F3YS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Appalachian Trail I Hiked It Thru Hiker Adventure T-Shirt" src="https://m.media-amazon.com/images/I/31eCtsvO75L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BRR1F3YS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Appalachian Trail I Hiked It Thru Hiker Adventure T-Shirt" src="https://m.media-amazon.com/images/I/31eCtsvO75L._SL500_.jpg"/></a>
 
 
 The **Appalachian Trail I Hiked It Thru Hiker Adventure T-Shirt** is perfect for outdoor enthusiasts, avid hikers, and anyone who has completed or aspires to complete the iconic **Appalachian Trail**. Ideal for those who want to celebrate their hiking achievements or show their passion for adventure, this t-shirt serves as both a memento and a stylish piece of casual wear. If you appreciate durable, comfortable clothing that reflects your love for nature and hiking culture, this shirt is made for you.
@@ -252,10 +252,10 @@ This t-shirt features high-quality fabric from the **Appalachian Trail I Hiked I
 
 Wearing this shirt offers more than just style; it connects you to the spirit of adventure and the iconic **Appalachian Trail**. Whether you're on the trail or reminiscing about your journey, the shirt serves as a motivational reminder of your endurance and passion for exploration. Its versatile look makes it suitable for layering or standalone wear, giving you multiple options for showcasing your hiking pride.
 
-## <a href="https://www.amazon.com/dp/B09FGQJS9X?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">I Hiked The Appalachian Trail! Embroidered Patch</a>
+## <a href="https://www.amazon.com/dp/B09FGQJS9X?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">I Hiked The Appalachian Trail! Embroidered Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B09FGQJS9X?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="I Hiked The Appalachian Trail! Embroidered Patch Iron-On/Sew-On Seek Adventure Hiking Nature Merit Badge Emblem Name Tag Decorative Gift Applique for Vest Jacket Jeans Bags Backpacks Gear Clothing" src="https://m.media-amazon.com/images/I/41OgAp5ob+L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09FGQJS9X?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="I Hiked The Appalachian Trail! Embroidered Patch Iron-On/Sew-On Seek Adventure Hiking Nature Merit Badge Emblem Name Tag Decorative Gift Applique for Vest Jacket Jeans Bags Backpacks Gear Clothing" src="https://m.media-amazon.com/images/I/41OgAp5ob+L._SL500_.jpg"/></a>
 
 
 The **I Hiked The Appalachian Trail! Embroidered Patch** is perfect for outdoor enthusiasts, hikers, and nature lovers who want to proudly display their adventurous spirit. Whether you're an experienced trekker who has completed the iconic Appalachian Trail or someone who appreciates unique, nature-inspired accessories, this patch adds a meaningful touch to your gear. Ideal for those who enjoy customizing their vests, jackets, backpacks, or jeans with decorative and symbolic emblems.

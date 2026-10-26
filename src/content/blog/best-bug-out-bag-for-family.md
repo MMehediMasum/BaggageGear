@@ -23,10 +23,10 @@ For larger families, the Emergency Zone Urban Survival Bag holds supplies for fo
 
 
 
-## <a href="https://www.amazon.com/dp/B07BFRV7K5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Everlit 72 Hours 3 Day Earthquake Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B07BFRV7K5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Everlit 72 Hours 3 Day Earthquake Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B07BFRV7K5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EVERLIT 72 Hours 3 Day Earthquake Emergency Kit Bugout Go Bag Emergency Kit Survival Kit Backpack for Family, Preparedness for Hurricanes, Floods, Tsunami, Other Disasters" src="https://m.media-amazon.com/images/I/51byjGs7BnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07BFRV7K5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EVERLIT 72 Hours 3 Day Earthquake Emergency Kit Bugout Go Bag Emergency Kit Survival Kit Backpack for Family, Preparedness for Hurricanes, Floods, Tsunami, Other Disasters" src="https://m.media-amazon.com/images/I/51byjGs7BnL._SL500_.jpg"/></a>
 
 
 The **EVERLIT 72 Hours 3 Day Earthquake Emergency Kit** is ideal for individuals and families who prioritize preparedness for natural disasters such as earthquakes, hurricanes, floods, and tsunamis. This comprehensive **survival kit backpack** is designed for those seeking a reliable, all-in-one solution to ensure safety and basic needs are met during emergencies lasting up to three days. Whether you live in a disaster-prone area or want peace of mind during outdoor adventures, this kit is tailored to support you in critical situations.
@@ -49,10 +49,10 @@ The **EVERLIT 72 Hours 3 Day Emergency Kit** offers a thoughtfully curated selec
 
 Beyond its physical features, the kit promotes peace of mind by equipping users with well-organized resources designed to sustain life and comfort during critical times. The backpack’s durable construction protects contents from damage, while its intuitive organization allows for easy access to supplies in stressful situations. Overall, the **EVERLIT Survival Kit** combines practicality and reliability, empowering users to face emergencies with confidence and preparedness.
 
-## <a href="https://www.amazon.com/dp/B0CV9GRZ28?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tacpreps 72-hour Survival Kit</a>
+## <a href="https://www.amazon.com/dp/B0CV9GRZ28?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tacpreps 72-hour Survival Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B0CV9GRZ28?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TacPreps 72-Hour Survival Kit | 45L Bug Out Bag | Survival Gear with First Aid, Water Filter, Food, Tools | Camping, Hiking, Outdoor Preparedness Equipment (2 Persons - Elite Kit)" src="https://m.media-amazon.com/images/I/51rREM36cCL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CV9GRZ28?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TacPreps 72-Hour Survival Kit | 45L Bug Out Bag | Survival Gear with First Aid, Water Filter, Food, Tools | Camping, Hiking, Outdoor Preparedness Equipment (2 Persons - Elite Kit)" src="https://m.media-amazon.com/images/I/51rREM36cCL._SL500_.jpg"/></a>
 
 
 The **TacPreps 72-Hour Survival Kit | 45L Bug Out Bag** is ideal for outdoor enthusiasts, campers, hikers, and anyone who values preparedness for emergencies. This kit is specifically designed for two persons, making it perfect for couples or small groups seeking reliable survival gear that covers essential needs in one compact pack. If you want to ensure safety and self-sufficiency during unexpected situations, this elite survival kit is a must-have.
@@ -75,10 +75,10 @@ The **TacPreps 72-Hour Survival Kit** offers a well-thought-out collection of su
 
 Crafted by **TacPreps**, this kit balances functionality and portability with its 45L capacity bag, which is large enough to hold all critical items yet compact enough for easy transport. Its design facilitates quick access to gear, which is vital during emergencies. Overall, this elite kit is an excellent investment for those serious about preparedness, offering convenience, durability, and comprehensive survival solutions in one package.
 
-## <a href="https://www.amazon.com/dp/B00U9L1ATK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Emergency Zone Urban Survival Bug Out Bag - 4 Person</a>
+## <a href="https://www.amazon.com/dp/B00U9L1ATK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Emergency Zone Urban Survival Bug Out Bag - 4 Person</a>
 
 
-<a href="https://www.amazon.com/dp/B00U9L1ATK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Emergency Zone Urban Survival Bug Out Bag - 4 Person | Bugout Backpack Survival Kit w/Emergency Food Supply, Survival Gear and Supplies for Disasters" src="https://m.media-amazon.com/images/I/515eJsVc-YL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00U9L1ATK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Emergency Zone Urban Survival Bug Out Bag - 4 Person | Bugout Backpack Survival Kit w/Emergency Food Supply, Survival Gear and Supplies for Disasters" src="https://m.media-amazon.com/images/I/515eJsVc-YL._SL500_.jpg"/></a>
 
 
 The **Emergency Zone Urban Survival Bug Out Bag** is ideal for individuals and families who want to be fully prepared for unexpected emergencies and disasters. Whether you live in an urban area prone to natural disasters, or you are an outdoor enthusiast seeking a reliable survival kit, this **4 Person Bugout Backpack Survival Kit** offers comprehensive supplies and emergency food to help you and your loved ones stay safe and self-sufficient during critical situations.
@@ -101,10 +101,10 @@ This **Emergency Zone Bug Out Bag** features thoughtfully selected survival esse
 
 Designed with durability in mind, the backpack is constructed to withstand harsh conditions while maintaining easy access to all items. Its compact size and organized compartments allow for efficient packing and quick retrieval of supplies. This comprehensive survival kit not only prepares you for unforeseen events but also offers peace of mind knowing you have a reliable solution ready. Whether for natural disasters, power outages, or other emergencies, the **Emergency Zone Urban Survival Bug Out Bag** is a dependable choice for preparedness.
 
-## <a href="https://www.amazon.com/dp/B0D4765KKT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
+## <a href="https://www.amazon.com/dp/B0D4765KKT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B0D4765KKT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Survival Shovel w/Pick, Bug Out Bag Gifts for Men Women" src="https://m.media-amazon.com/images/I/51xfvGvzgQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D4765KKT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Survival Shovel w/Pick, Bug Out Bag Gifts for Men Women" src="https://m.media-amazon.com/images/I/51xfvGvzgQL._SL500_.jpg"/></a>
 
 
 The **Survival Kit, 262Pcs Survival Gear and Supplies** is perfect for outdoor enthusiasts, campers, hikers, and anyone who wants to be prepared for emergencies. This comprehensive kit is designed for both men and women who value safety, convenience, and durability when venturing into the wilderness or facing unexpected situations. If you are someone who enjoys outdoor adventures or wants a reliable emergency kit for your vehicle or home, this survival set is an ideal choice.
@@ -126,10 +126,10 @@ This **RIKOJUXI survival kit** provides an all-in-one solution to prepare for em
 
 Beyond its extensive gear, the kit’s compact design and sturdy crossbody bag improve portability and convenience, allowing users to carry it comfortably on any adventure. Whether you are hiking through rugged terrain or preparing for natural disasters, this survival kit offers peace of mind by equipping you with reliable tools and supplies. Its comprehensive nature combined with practical benefits makes it a valuable investment for anyone serious about outdoor preparedness and safety.
 
-## <a href="https://www.amazon.com/dp/B0CKJ871QB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius: Pre-packed Bug Out Bag</a>
+## <a href="https://www.amazon.com/dp/B0CKJ871QB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius: Pre-packed Bug Out Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0CKJ871QB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius: Pre-Packed Bug Out Bag - 72 Hour Kit for 2 People - Bugout Backpack Survival Kit - Premium 50L Go Bag Tactical Backpack - Essential Bug Out Gear - Upgraded Survival Backpack (Navy Blue)" src="https://m.media-amazon.com/images/I/61RtF4ko9lL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CKJ871QB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius: Pre-Packed Bug Out Bag - 72 Hour Kit for 2 People - Bugout Backpack Survival Kit - Premium 50L Go Bag Tactical Backpack - Essential Bug Out Gear - Upgraded Survival Backpack (Navy Blue)" src="https://m.media-amazon.com/images/I/61RtF4ko9lL._SL500_.jpg"/></a>
 
 
 The **Sirius: Pre-Packed Bug Out Bag - 72 Hour Kit for 2 People** is ideal for outdoor enthusiasts, emergency preppers, and anyone who wants to be prepared for unexpected situations. Whether you are planning a camping trip, facing natural disasters, or need a reliable survival kit for two people, this **bugout backpack survival kit** offers convenience and peace of mind. Its compact size and tactical design make it perfect for quick grab-and-go scenarios.
@@ -151,10 +151,10 @@ The **Sirius Pre-Packed Bug Out Bag** features a thoughtfully designed **50L tac
 
 Additionally, the compact dimensions and sturdy build allow for efficient storage and easy transport. The backpack is designed to distribute weight evenly, which helps reduce fatigue during emergency evacuations. Overall, this bug out bag offers a reliable and convenient way to stay prepared for emergencies, enhancing safety and confidence for users venturing outdoors or facing uncertain situations.
 
-## <a href="https://www.amazon.com/dp/B0CNY6BMML?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Denver Premium 72 Hour Survival Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CNY6BMML?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Denver Premium 72 Hour Survival Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CNY6BMML?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Denver: Premium 72 Hour Survival Backpack with Supplies - 2024 Model Bug Out Bag Backpack - Upgraded Go Bag Emergency Backpack w/Complete Tactical Survival Kit - Bug Out Bag Survival Kit for 2 Person" src="https://m.media-amazon.com/images/I/51P-lIOY9KL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CNY6BMML?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Denver: Premium 72 Hour Survival Backpack with Supplies - 2024 Model Bug Out Bag Backpack - Upgraded Go Bag Emergency Backpack w/Complete Tactical Survival Kit - Bug Out Bag Survival Kit for 2 Person" src="https://m.media-amazon.com/images/I/51P-lIOY9KL._SL500_.jpg"/></a>
 
 
 The **Denver: Premium 72 Hour Survival Backpack with Supplies - 2024 Model Bug Out Bag Backpack** is ideal for outdoor enthusiasts, preppers, and anyone looking to be prepared for emergencies. Whether you are planning a camping trip, hiking adventure, or want a reliable emergency kit for natural disasters, this **upgraded go bag emergency backpack** is designed to meet your survival needs efficiently. It is especially suitable for individuals or couples, as it comes with a **complete tactical survival kit for 2 persons**.
@@ -178,10 +178,10 @@ This **survival backpack** is packed with essential items such as food, water pu
 
 The **Denver 72 Hour Survival Backpack** offers peace of mind by equipping users with a reliable, ready-to-go kit. Its tactical features and comprehensive supplies support various emergency scenarios, from natural disasters to unexpected outdoor challenges. Overall, this bug out bag is a practical investment for anyone serious about preparedness and safety for themselves and a companion.
 
-## <a href="https://www.amazon.com/dp/B0D8QQXM2S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius Survival Bug Out Bag</a>
+## <a href="https://www.amazon.com/dp/B0D8QQXM2S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius Survival Bug Out Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0D8QQXM2S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius Survival Bug Out Bag - Premium Bugout Backpack Pre-Packed Survival Kit - Ultimate 72 Hour Backpack Survival Kit - Comprehensive Survival Items - Go Bag Emergency (Black)" src="https://m.media-amazon.com/images/I/515PRLzZ9IL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D8QQXM2S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius Survival Bug Out Bag - Premium Bugout Backpack Pre-Packed Survival Kit - Ultimate 72 Hour Backpack Survival Kit - Comprehensive Survival Items - Go Bag Emergency (Black)" src="https://m.media-amazon.com/images/I/515PRLzZ9IL._SL500_.jpg"/></a>
 
 
 The **Sirius Survival Bug Out Bag** is ideal for outdoor enthusiasts, emergency preppers, and anyone seeking a reliable **72-hour survival kit**. This comprehensive **go bag emergency** pack is designed for those who want to be prepared for unexpected situations, whether it's natural disasters, power outages, or wilderness adventures. If you value having essential survival items compactly organized and ready to deploy, this pre-packed **premium bugout backpack** is a smart investment.
@@ -204,10 +204,10 @@ The **Sirius Survival Bug Out Bag** boasts a thoughtfully designed layout with e
 
 Additionally, the bag's quality construction by the reputable **Sirius Survival** manufacturer guarantees durability and reliability. This bugout backpack’s versatility makes it suitable not only for outdoor adventurers but also for families and individuals preparing for emergencies. Its compact size and black color add to its stealth and portability, ensuring that users can maintain readiness without sacrificing convenience or style.
 
-## <a href="https://www.amazon.com/dp/B0DDCWQQ9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius Bug Out Bag Starter Kit</a>
+## <a href="https://www.amazon.com/dp/B0DDCWQQ9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sirius Bug Out Bag Starter Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B0DDCWQQ9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius: Bug Out Bag Starter Kit - 72 Hour Kit for 1 Person – Backpack Survival Kit – 50L Tactical Backpack, US Made Food &amp; Water, Medical Supplies &amp; Survival Tools (Black, 1 Person)" src="https://m.media-amazon.com/images/I/51KdoI5IaYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DDCWQQ9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sirius: Bug Out Bag Starter Kit - 72 Hour Kit for 1 Person – Backpack Survival Kit – 50L Tactical Backpack, US Made Food &amp; Water, Medical Supplies &amp; Survival Tools (Black, 1 Person)" src="https://m.media-amazon.com/images/I/51KdoI5IaYL._SL500_.jpg"/></a>
 
 
 The **Sirius: Bug Out Bag Starter Kit** is ideal for individuals who prioritize preparedness and want a reliable survival solution for emergencies. Whether you are an outdoor enthusiast, a preppers’ community member, or someone seeking peace of mind during unforeseen situations, this **72 Hour Kit** is designed to support one person with essential supplies. It is perfect for those who need a compact, all-in-one **backpack survival kit** that is easy to carry and ready to use.
@@ -230,10 +230,10 @@ The **Sirius Bug Out Bag Starter Kit** features a robust **50L tactical backpack
 
 This survival kit’s thoughtfully curated contents provide peace of mind by covering basic survival needs for a full 72 hours. The compact and lightweight nature of the kit allows for easy transportation, making it convenient for quick evacuations or outdoor adventures. Overall, the **Sirius Bug Out Bag Starter Kit** is a dependable choice for anyone looking to enhance their emergency preparedness with a high-quality, all-inclusive survival solution.
 
-## <a href="https://www.amazon.com/dp/B00Y944PG8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Family Emergency Kit - 2 Person</a>
+## <a href="https://www.amazon.com/dp/B00Y944PG8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Family Emergency Kit - 2 Person</a>
 
 
-<a href="https://www.amazon.com/dp/B00Y944PG8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Family Emergency Kit - 2 Person | All-in-one Survival Kit Backpack for Earthquake, Flood, Disaster Relief, Civil Unrest &amp; Outdoor - Survival Bag &amp; Emergency Preparedness Kit for Families" src="https://m.media-amazon.com/images/I/51Y-HSKfXdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00Y944PG8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Family Emergency Kit - 2 Person | All-in-one Survival Kit Backpack for Earthquake, Flood, Disaster Relief, Civil Unrest &amp; Outdoor - Survival Bag &amp; Emergency Preparedness Kit for Families" src="https://m.media-amazon.com/images/I/51Y-HSKfXdL._SL500_.jpg"/></a>
 
 
 The **Family Emergency Kit - 2 Person** by **Emergency Zone** is ideal for individuals or small families seeking a reliable and compact **all-in-one survival kit**. Perfect for those living in areas prone to **earthquakes, floods, or civil unrest**, as well as outdoor enthusiasts who want to be prepared for unexpected situations, this kit ensures essential items are always within reach.
@@ -255,10 +255,10 @@ This **survival bag** is thoughtfully designed by **Emergency Zone** to provide 
 
 Additionally, the **Family Emergency Kit** promotes peace of mind by ensuring that key items are organized and easily accessible. Its bright **red color** increases visibility, which is critical in chaotic environments. Overall, this kit balances functionality and convenience, helping families stay prepared and safe when disaster strikes.
 
-## <a href="https://www.amazon.com/dp/B09F3TKD8B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bug Out Bag Backpack Bugout Kit Great For Family</a>
+## <a href="https://www.amazon.com/dp/B09F3TKD8B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bug Out Bag Backpack Bugout Kit Great For Family</a>
 
 
-<a href="https://www.amazon.com/dp/B09F3TKD8B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bug Out Bag Backpack Bugout Kit Great for Family - Survival Backpack for Earthquakes, Hurricanes, Floods, Tornados, Fires &amp; Other Disasters (Digital Camo)" src="https://m.media-amazon.com/images/I/51441egSv4L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09F3TKD8B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bug Out Bag Backpack Bugout Kit Great for Family - Survival Backpack for Earthquakes, Hurricanes, Floods, Tornados, Fires &amp; Other Disasters (Digital Camo)" src="https://m.media-amazon.com/images/I/51441egSv4L._SL500_.jpg"/></a>
 
 
 The **Bug Out Bag Backpack Bugout Kit** in **Digital Camo** is ideal for individuals and families who want to be prepared for emergencies such as **earthquakes, hurricanes, floods, tornados, fires**, and other disasters. This survival backpack is perfect for outdoor enthusiasts, preppers, and anyone looking to have essential survival gear readily accessible in a compact, durable pack.

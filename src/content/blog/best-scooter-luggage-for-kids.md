@@ -23,10 +23,10 @@ Sizes fit kids from toddlers to early teens, supporting weights up to 110 pounds
 
 
 
-## <a href="https://www.amazon.com/dp/B0CB1CF8HJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flyte Darwin The Dino Scooter Suitcase</a>
+## <a href="https://www.amazon.com/dp/B0CB1CF8HJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flyte Darwin The Dino Scooter Suitcase</a>
 
 
-<a href="https://www.amazon.com/dp/B0CB1CF8HJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Flyte Darwin The Dino Scooter Suitcase - Rideable, Carry on Compliant 2-in-1 Children's Suitcases, 18 inch Ride on Suitcase for Kids, 25 Litre Capacity Kids' Luggage on Wheels for Children Aged 4+" src="https://m.media-amazon.com/images/I/41KK97AcvtL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CB1CF8HJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Flyte Darwin The Dino Scooter Suitcase - Rideable, Carry on Compliant 2-in-1 Children's Suitcases, 18 inch Ride on Suitcase for Kids, 25 Litre Capacity Kids' Luggage on Wheels for Children Aged 4+" src="https://m.media-amazon.com/images/I/41KK97AcvtL._SL500_.jpg"/></a>
 
 
 The **Flyte Darwin The Dino Scooter Suitcase** is perfect for young travelers aged 4 and above who want a fun and practical way to carry their belongings. Ideal for parents seeking a versatile and engaging luggage option, this 2-in-1 **rideable suitcase** combines travel convenience with playful mobility, making airport navigation and travel more enjoyable for children.
@@ -50,10 +50,10 @@ The **Flyte Darwin The Dino Scooter Suitcase** stands out with its innovative 2-
 
 Beyond its playful design, this suitcase offers practical benefits with a 25 litre storage capacity, accommodating all essential travel items such as clothes, toys, and snacks. Constructed with child-friendly materials and weighing just under 7.5 pounds, it balances durability with portability. The charming **New Darwin the Dino** theme adds personality and encourages children to take ownership of their luggage, fostering independence during travel.
 
-## <a href="https://www.amazon.com/dp/B0DX5ZWNHZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Isporter Luggage Scooter For Kids</a>
+## <a href="https://www.amazon.com/dp/B0DX5ZWNHZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Isporter Luggage Scooter For Kids</a>
 
 
-<a href="https://www.amazon.com/dp/B0DX5ZWNHZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="iSporter Luggage Scooter for Kids Ages 2-5 or 3-5 | Ride-On Suitcase Scooters for Boys Girls | Foldable &amp; Height Adjustable, 110 lbs Max" src="https://m.media-amazon.com/images/I/41Z0b5OKVKL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DX5ZWNHZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="iSporter Luggage Scooter for Kids Ages 2-5 or 3-5 | Ride-On Suitcase Scooters for Boys Girls | Foldable &amp; Height Adjustable, 110 lbs Max" src="https://m.media-amazon.com/images/I/41Z0b5OKVKL._SL500_.jpg"/></a>
 
 
 The **iSporter Luggage Scooter** is perfect for parents looking for a fun and practical travel solution for their young children aged **2 to 5 years**. Ideal for toddlers and preschoolers, this ride-on suitcase scooter combines entertainment with convenience, making it an excellent choice for families who travel frequently or want an engaging way to keep kids active during outings.
@@ -75,10 +75,10 @@ The **iSporter Luggage Scooter** features a sturdy construction from **Zhejiang 
 
 With the **height adjustable** handlebars, this scooter accommodates growing children, extending its usability and making it a cost-effective purchase. The ride-on feature encourages active play and independence, while the robust weight capacity of up to 110 pounds ensures durability and safety. This product offers both fun and function, helping children enjoy travel while parents benefit from its versatility.
 
-## <a href="https://www.amazon.com/dp/B08T6221HM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Iubest Scooter Luggage Carry On Scooter Suitcase For Kids</a>
+## <a href="https://www.amazon.com/dp/B08T6221HM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Iubest Scooter Luggage Carry On Scooter Suitcase For Kids</a>
 
 
-<a href="https://www.amazon.com/dp/B08T6221HM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="iubest Scooter Luggage Carry On Scooter Suitcase for Kids Age 4-15, Detachable &amp; Foldable 4 in 1 Kids Suitcase, Multifunctional Ride On Travel Trolley Scooter Combo-Black" src="https://m.media-amazon.com/images/I/31ZBHVpfP1L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08T6221HM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="iubest Scooter Luggage Carry On Scooter Suitcase for Kids Age 4-15, Detachable &amp; Foldable 4 in 1 Kids Suitcase, Multifunctional Ride On Travel Trolley Scooter Combo-Black" src="https://m.media-amazon.com/images/I/31ZBHVpfP1L._SL500_.jpg"/></a>
 
 
 The **iubest Scooter Luggage Carry On Scooter Suitcase** is an ideal travel companion for **kids aged 4-15** who love to combine fun and functionality. Perfect for young travelers who want to stay entertained during trips, this **multifunctional 4 in 1 ride-on scooter and suitcase** is designed for active children and parents seeking a convenient, space-saving travel solution.
@@ -101,10 +101,10 @@ The **iubest Scooter Luggage Carry On Scooter Suitcase** features a clever **det
 
 With its durable build and practical dimensions, this scooter suitcase fits comfortably in overhead compartments or car trunks, making it an excellent choice for family trips. The smooth-rolling wheels and ergonomic handle provide enhanced mobility, while the ride-on feature encourages kids to stay active and engaged during long waits or transit. Overall, this item blends convenience, fun, and efficiency, catering perfectly to young travelers and their parents.
 
-## <a href="https://www.amazon.com/dp/B0F5Z3QNSG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bioworld Minecraft Kids' 2-in-1 Suitcase And Scooter Luggage</a>
+## <a href="https://www.amazon.com/dp/B0F5Z3QNSG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bioworld Minecraft Kids' 2-in-1 Suitcase And Scooter Luggage</a>
 
 
-<a href="https://www.amazon.com/dp/B0F5Z3QNSG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/41s5JdartcL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F5Z3QNSG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/41s5JdartcL._SL500_.jpg"/></a>
 
 
 The **Bioworld Minecraft Kids' 2-in-1 Suitcase (18") and Scooter Luggage** is perfect for young travelers who love adventure and fun. Ideal for children who want a practical yet entertaining way to carry their belongings, this innovative luggage combines the functionality of a suitcase with the excitement of a scooter. It's especially suited for families on the go, kids traveling alone, or those who want to make airport navigation more enjoyable.
@@ -127,10 +127,10 @@ The **Bioworld Minecraft Kids' 2-in-1 Suitcase and Scooter** stands out with its
 
 Additionally, the lightweight construction ensures that children can easily manage the luggage on their own, fostering independence and confidence. The vibrant **Minecraft** theme adds a personalized touch that resonates with young fans, making it a desirable and practical choice for travel. Overall, this product brings together convenience, style, and fun in one compact package.
 
-## <a href="https://www.amazon.com/dp/B07Z5GJDK4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"> Kiddietotes Ride-on Scooter Suitcase For Kids </a>
+## <a href="https://www.amazon.com/dp/B07Z5GJDK4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"> Kiddietotes Ride-on Scooter Suitcase For Kids </a>
 
 
-<a href="https://www.amazon.com/dp/B07Z5GJDK4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KIDDIETOTES Ride-On Scooter Suitcase for Kids – Hardside Lightweight Carry-On Luggage with Foldable Scooter, LED Wheels, Travel Fun for Toddlers &amp; Children" src="https://m.media-amazon.com/images/I/41Q--fFlqZL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07Z5GJDK4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="KIDDIETOTES Ride-On Scooter Suitcase for Kids – Hardside Lightweight Carry-On Luggage with Foldable Scooter, LED Wheels, Travel Fun for Toddlers &amp; Children" src="https://m.media-amazon.com/images/I/41Q--fFlqZL._SL500_.jpg"/></a>
 
 
 The **KIDDIETOTES Ride-On Scooter Suitcase for Kids** is perfect for young travelers who want to combine fun and functionality. Ideal for toddlers and children who love to stay active, this innovative **hardside lightweight carry-on luggage** doubles as a foldable scooter, making it an excellent choice for families seeking convenience and entertainment during trips.
@@ -154,10 +154,10 @@ The **KIDDIETOTES Ride-On Scooter Suitcase** features a sturdy yet lightweight d
 
 Additionally, the suitcase comes equipped with **LED wheels** that light up as the scooter moves, capturing children's attention and providing an extra layer of excitement. This feature not only enhances the appeal but also increases visibility in dim lighting. Overall, the **KIDDIETOTES Ride-On Scooter Suitcase** offers a practical and entertaining solution for families on the go, blending travel convenience with active play in a unique and child-friendly way.
 
-## <a href="https://www.amazon.com/dp/B0DWSSVB5S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Baotree 2-in-1 Ride-on Scooter Suitcase</a>
+## <a href="https://www.amazon.com/dp/B0DWSSVB5S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Baotree 2-in-1 Ride-on Scooter Suitcase</a>
 
 
-<a href="https://www.amazon.com/dp/B0DWSSVB5S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Baotree 2-in-1 Ride-On Scooter Suitcase, Scooter Luggage for Kids Ages 5-12, Foldable &amp; Lightweight Carry with LED Light-Up Wheels" src="https://m.media-amazon.com/images/I/41I2qmYAqIL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DWSSVB5S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Baotree 2-in-1 Ride-On Scooter Suitcase, Scooter Luggage for Kids Ages 5-12, Foldable &amp; Lightweight Carry with LED Light-Up Wheels" src="https://m.media-amazon.com/images/I/41I2qmYAqIL._SL500_.jpg"/></a>
 
 
 The **Baotree 2-in-1 Ride-On Scooter Suitcase** is an ideal travel companion for children aged **5 to 12 years** who enjoy both mobility and convenience. Perfect for parents seeking a fun yet practical luggage solution, this product combines the excitement of a ride-on scooter with the functionality of a lightweight suitcase, making it a great choice for family trips, school travel, or weekend getaways.
@@ -180,10 +180,10 @@ The **Baotree 2-in-1 Ride-On Scooter Suitcase** boasts a clever combination of a
 
 Crafted by the trusted **Baotree brand**, this scooter luggage is built with children’s needs in mind, providing a sturdy yet lightweight ride that supports safe scooting and easy handling. The **purple color** option adds a vibrant touch, appealing to kids who want their travel gear to be as stylish as it is functional. Overall, this product offers a practical solution that combines playtime with packing efficiency, making it a smart investment for families on the go.
 
-## <a href="https://www.amazon.com/dp/B0F3J6MH72?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Muhub Scooter Suitcase 3-d Hardshell Ride Scooter Luggage For Kids</a>
+## <a href="https://www.amazon.com/dp/B0F3J6MH72?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Muhub Scooter Suitcase 3-d Hardshell Ride Scooter Luggage For Kids</a>
 
 
-<a href="https://www.amazon.com/dp/B0F3J6MH72?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="muhub Scooter Suitcase 3-D Hardshell Ride Scooter Luggage for Kids Age 7-15, Cute Lightweight Kids Luggage with Wheels, Girls&amp;Boys Multifunctional Ride On Travel Trolley Scooter Combo-Blue" src="https://m.media-amazon.com/images/I/414sIv9Y68L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F3J6MH72?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="muhub Scooter Suitcase 3-D Hardshell Ride Scooter Luggage for Kids Age 7-15, Cute Lightweight Kids Luggage with Wheels, Girls&amp;Boys Multifunctional Ride On Travel Trolley Scooter Combo-Blue" src="https://m.media-amazon.com/images/I/414sIv9Y68L._SL500_.jpg"/></a>
 
 
 The **muhub Scooter Suitcase 3-D Hardshell Ride Scooter Luggage** is ideal for **kids aged 7-15** who love to travel in style and enjoy a fun, practical way to carry their belongings. Perfect for both **girls and boys**, this multifunctional **ride-on travel trolley scooter** combines the convenience of lightweight luggage with the excitement of a scooter, making it a great choice for young travelers and parents looking for innovative travel solutions.
@@ -207,10 +207,10 @@ The **muhub Scooter Suitcase** features a durable **3-D hardshell exterior** tha
 
 Additionally, the suitcase's size and dimensions are thoughtfully designed to fit most airline carry-on requirements, enhancing convenience for family trips. The smooth-rolling wheels and stable scooter platform ensure safety and ease of use, while the multifunctional design encourages kids to take responsibility for their own luggage in an enjoyable way. Overall, the **muhub Scooter Suitcase** is a smart, innovative travel companion that blends practicality with playfulness for young travelers.
 
-## <a href="https://www.amazon.com/dp/B0F5HQC7T5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yacul Kids Suitcase Scooter</a>
+## <a href="https://www.amazon.com/dp/B0F5HQC7T5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yacul Kids Suitcase Scooter</a>
 
 
-<a href="https://www.amazon.com/dp/B0F5HQC7T5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yacul Kids Suitcase Scooter, 2-in-1 Foldable Luggage with LED Light Wheels, Lightweight Carry-On travel suitcase for Boys and Girls(Blue)" src="https://m.media-amazon.com/images/I/410ZyWYFMlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F5HQC7T5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yacul Kids Suitcase Scooter, 2-in-1 Foldable Luggage with LED Light Wheels, Lightweight Carry-On travel suitcase for Boys and Girls(Blue)" src="https://m.media-amazon.com/images/I/410ZyWYFMlL._SL500_.jpg"/></a>
 
 
 The **Yacul Kids Suitcase Scooter** is ideal for young travelers and active children who love combining fun and practicality. Perfect for boys and girls, this **2-in-1 foldable luggage** is designed for parents seeking a lightweight, versatile, and entertaining travel companion that doubles as both a suitcase and a scooter. It suits families who want to make travel more enjoyable and convenient for their kids.
@@ -233,10 +233,10 @@ The **Yacul Kids Suitcase Scooter** combines practicality with entertainment, ma
 
 Additionally, the **LED light wheels** serve a dual purpose: they add a stylish flair that kids love, and they enhance visibility when riding in dimmer environments, increasing safety. The suitcase’s compact dimensions make it an excellent choice for carry-on luggage, meeting airline size restrictions while still offering ample space for essential belongings. Overall, the Yacul Kids Suitcase Scooter is a smart investment for families who want to blend convenience with excitement during travel.
 
-## <a href="https://www.amazon.com/dp/B0DDCKXFGR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fast Forward Frozen Scooter Suitcase For Kids</a>
+## <a href="https://www.amazon.com/dp/B0DDCKXFGR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fast Forward Frozen Scooter Suitcase For Kids</a>
 
 
-<a href="https://www.amazon.com/dp/B0DDCKXFGR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fast Forward Frozen Scooter Suitcase for Kids – 18” Lightweight Disney Frozen Luggage for Girls – (Luggage 11lbs and Scooter 100lbs) (Frozen)" src="https://m.media-amazon.com/images/I/41t8lIlvEhL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DDCKXFGR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fast Forward Frozen Scooter Suitcase for Kids – 18” Lightweight Disney Frozen Luggage for Girls – (Luggage 11lbs and Scooter 100lbs) (Frozen)" src="https://m.media-amazon.com/images/I/41t8lIlvEhL._SL500_.jpg"/></a>
 
 
 The **Fast Forward Frozen Scooter Suitcase for Kids** is perfect for young girls who love the magical world of Disney's Frozen and want a fun, functional travel companion. Ideal for families who travel frequently or children who need a convenient way to carry their belongings, this suitcase doubles as a scooter, making it an exciting and practical choice for kids aged 3 and up. It’s especially suited for parents looking to combine playtime and travel gear in one lightweight, durable product.
@@ -259,10 +259,10 @@ The **Fast Forward Frozen Scooter Suitcase** combines practicality with fun by i
 
 The vibrant blue and white **Frozen-themed graphics** capture the imagination of young Disney fans, making the suitcase a delightful accessory. Its lightweight frame and convenient dimensions make it a great travel companion for short trips or family vacations. With the trusted **Fast Forward brand** behind it, parents can be confident in the quality and durability of this multifunctional luggage, enhancing the travel experience for both kids and adults alike.
 
-## <a href="https://www.amazon.com/dp/B0F9PR1JL4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vevor Ride-on Luggage Kids Scooter Suitcase</a>
+## <a href="https://www.amazon.com/dp/B0F9PR1JL4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vevor Ride-on Luggage Kids Scooter Suitcase</a>
 
 
-<a href="https://www.amazon.com/dp/B0F9PR1JL4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VEVOR Ride-on Luggage, 20 L Capacity, 20 Inches Kids Scooter Suitcase with Flash PU Wheels, Adjustable Handle &amp; TPR Non-Slip Grip, Foldable &amp; Lightweight Scooter Luggage for Kids Aged 5+, Purple" src="https://m.media-amazon.com/images/I/414PGdSpQfL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F9PR1JL4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VEVOR Ride-on Luggage, 20 L Capacity, 20 Inches Kids Scooter Suitcase with Flash PU Wheels, Adjustable Handle &amp; TPR Non-Slip Grip, Foldable &amp; Lightweight Scooter Luggage for Kids Aged 5+, Purple" src="https://m.media-amazon.com/images/I/414PGdSpQfL._SL500_.jpg"/></a>
 
 
 The **VEVOR Ride-on Luggage** is perfect for parents looking for a fun and practical travel solution for their children aged 5 and above. This product is ideal for kids who enjoy mobility and independence, combining a suitcase with a scooter to make travel enjoyable and convenient. It is especially suitable for families who travel frequently and want to keep their children entertained while carrying their belongings efficiently.

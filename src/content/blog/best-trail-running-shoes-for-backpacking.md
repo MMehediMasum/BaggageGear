@@ -20,10 +20,10 @@ Waterproof and breathable options, such as the Grand Attack and FREE SOLDIER mod
 
 
 
-## <a href="https://www.amazon.com/dp/B0F7XQLCH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fitville Wide Shoes For Men Trail Running Shoes</a>
+## <a href="https://www.amazon.com/dp/B0F7XQLCH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fitville Wide Shoes For Men Trail Running Shoes</a>
 
 
-<a href="https://www.amazon.com/dp/B0F7XQLCH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FitVille Wide Shoes for Men Trail Running Shoes Backpacking Sneakers for Trekking Walking with Foot Pain Relief, Size 10.5 Wide Black" src="https://m.media-amazon.com/images/I/41XYf1O26YL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F7XQLCH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FitVille Wide Shoes for Men Trail Running Shoes Backpacking Sneakers for Trekking Walking with Foot Pain Relief, Size 10.5 Wide Black" src="https://m.media-amazon.com/images/I/41XYf1O26YL._SL500_.jpg"/></a>
 
 
 Ideal for men seeking comfortable and supportive footwear for outdoor activities, the **FitVille Wide Shoes for Men Trail Running Shoes** are perfect for those who require extra width and suffer from foot pain. Whether you're into trail running, backpacking, trekking, or walking, these sneakers provide the necessary relief and durability needed for extended wear on rugged terrains.
@@ -45,10 +45,10 @@ The **FitVille Wide Shoes** stand out due to their specialized wide design, whic
 
 Constructed with durability in mind, these shoes are built to withstand the demands of trail running and backpacking. Their breathable fabric enhances airflow, maintaining comfort even during intense physical activity. The sleek black color not only offers a versatile look but also hides dirt and scuffs, maintaining a neat appearance over time.
 
-## <a href="https://www.amazon.com/dp/B0F63YWZDT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Asics Men's Gel-venture 10 Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B0F63YWZDT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Asics Men's Gel-venture 10 Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B0F63YWZDT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ASICS Men's Gel-Venture 10 Trail Running Shoe, 10, Gravel/Winter SEA" src="https://m.media-amazon.com/images/I/41cYfoNQH5L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F63YWZDT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ASICS Men's Gel-Venture 10 Trail Running Shoe, 10, Gravel/Winter SEA" src="https://m.media-amazon.com/images/I/41cYfoNQH5L._SL500_.jpg"/></a>
 
 
 The **ASICS Men's Gel-Venture 10 Trail Running Shoe** in **Gravel/Winter Sea** is ideal for outdoor enthusiasts and trail runners who require durable, supportive footwear that can handle rugged terrains. If you are someone who enjoys hiking, trail running, or walking on uneven surfaces and needs reliable grip and cushioning, this shoe is designed to meet your needs.
@@ -71,10 +71,10 @@ The **ASICS Men's Gel-Venture 10** features a reinforced outsole with multi-dire
 
 Constructed with lightweight yet durable materials, this shoe balances protection and agility, allowing users to maintain speed and comfort on trails. The breathable mesh upper promotes ventilation, keeping your feet cool and dry throughout your adventures. Overall, the combination of comfort, durability, and traction makes the **ASICS Gel-Venture 10** a dependable choice for trail runners and hikers looking for a reliable shoe that performs well in diverse conditions.
 
-## <a href="https://www.amazon.com/dp/B0D47ZB15C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Altra Men's Lone Peak 9 Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B0D47ZB15C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Altra Men's Lone Peak 9 Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B0D47ZB15C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ALTRA Men's Lone Peak 9 Trail Running Shoe, Navy, 9" src="https://m.media-amazon.com/images/I/31CKyiTL9YL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D47ZB15C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ALTRA Men's Lone Peak 9 Trail Running Shoe, Navy, 9" src="https://m.media-amazon.com/images/I/31CKyiTL9YL._SL500_.jpg"/></a>
 
 
 The **ALTRA Men's Lone Peak 9 Trail Running Shoe** in **Navy** is ideal for trail runners and outdoor enthusiasts who prioritize comfort, durability, and performance. Whether you're a seasoned trail runner or a casual hiker, this shoe is designed to provide excellent support and traction on diverse terrains. Its lightweight build makes it perfect for those who want to maintain agility without sacrificing protection.
@@ -97,10 +97,10 @@ The **ALTRA Lone Peak 9** trail shoe boasts a lightweight yet sturdy build, weig
 
 Another standout feature is its superior traction system, designed to offer reliable grip on slippery or loose surfaces. This enhances stability and reduces the risk of slips or falls, giving users confidence during their trail runs or hikes. Additionally, the shoe's ergonomic design supports natural foot alignment and movement, reducing fatigue and potential injuries. Overall, the **ALTRA Men's Lone Peak 9** combines functionality with comfort, making it a solid choice for outdoor adventurers.
 
-## <a href="https://www.amazon.com/dp/B08CGV16CV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Saucony Men's Excursion Tr14 Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B08CGV16CV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Saucony Men's Excursion Tr14 Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B08CGV16CV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Saucony Men's Excursion TR14 Trail Running Shoe, Grey/Gold, 11" src="https://m.media-amazon.com/images/I/417fB2RIyxL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08CGV16CV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Saucony Men's Excursion TR14 Trail Running Shoe, Grey/Gold, 11" src="https://m.media-amazon.com/images/I/417fB2RIyxL._SL500_.jpg"/></a>
 
 
 The **Saucony Men's Excursion TR14 Trail Running Shoe** in **Grey/Gold** is perfect for avid trail runners and outdoor enthusiasts who demand durability, comfort, and reliable performance on rugged terrains. If you are someone who enjoys exploring nature trails, hiking paths, or needs a sturdy shoe for off-road running, this shoe is designed to meet your needs.
@@ -122,10 +122,10 @@ The **Saucony Men's Excursion TR14** features a thoughtfully engineered design f
 
 Additionally, the shoe incorporates advanced traction technology that ensures firm grip and stability across different trail surfaces. This reduces the risk of slips and enhances confidence when tackling uneven or slippery paths. The durable materials used in manufacturing not only extend the shoe’s lifespan but also protect the foot from external elements, making it a reliable companion for outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B0DRP9XS9T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Grand Attack Men's Waterproof Hiking Shoes</a>
+## <a href="https://www.amazon.com/dp/B0DRP9XS9T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Grand Attack Men's Waterproof Hiking Shoes</a>
 
 
-<a href="https://www.amazon.com/dp/B0DRP9XS9T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Grand Attack Men's Waterproof Hiking Shoes Trekking Backpacking Non Slip Work Shoes Comfortable Trail-Running Travel Sneakers GreyGreen Size 9" src="https://m.media-amazon.com/images/I/41KdAocHldL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DRP9XS9T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Grand Attack Men's Waterproof Hiking Shoes Trekking Backpacking Non Slip Work Shoes Comfortable Trail-Running Travel Sneakers GreyGreen Size 9" src="https://m.media-amazon.com/images/I/41KdAocHldL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and active individuals, the **Grand Attack Men's Waterproof Hiking Shoes** are perfect for those who need durable, comfortable footwear for trekking, backpacking, trail running, or even work in rugged environments. These shoes are especially suited for men who demand reliable, non-slip performance combined with all-day comfort during their adventures or daily tasks.
@@ -147,10 +147,10 @@ The **Grand Attack Men's Waterproof Hiking Shoes** feature a robust and waterpro
 
 Additionally, these shoes prioritize comfort with ample cushioning and ergonomic support, reducing fatigue during long treks or extended wear. The breathable design also helps maintain foot comfort by regulating temperature and moisture. Overall, these shoes deliver a balanced combination of protection, durability, and comfort, making them an excellent investment for men who lead active, outdoor-oriented lifestyles.
 
-## <a href="https://www.amazon.com/dp/B0D1LMD5YK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">New Balance Men's Dynasoft Tektrel V1 Suede Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B0D1LMD5YK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">New Balance Men's Dynasoft Tektrel V1 Suede Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B0D1LMD5YK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Balance Men's DynaSoft TEKTREL V1 Suede Trail Running Shoe, Slate Grey/Raincloud/Castlerock, 11" src="https://m.media-amazon.com/images/I/31EKSSPS5rL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D1LMD5YK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Balance Men's DynaSoft TEKTREL V1 Suede Trail Running Shoe, Slate Grey/Raincloud/Castlerock, 11" src="https://m.media-amazon.com/images/I/31EKSSPS5rL._SL500_.jpg"/></a>
 
 
 The **New Balance Men's DynaSoft TEKTREL V1 Suede Trail Running Shoe** is ideal for outdoor enthusiasts and trail runners who seek durability, comfort, and style. If you often hit rugged terrains or enjoy long-distance trail running, these shoes are designed to provide the support and cushioning you need while maintaining a sleek, modern look in **Slate Grey/Raincloud/Castlerock** colors.
@@ -172,10 +172,10 @@ Featuring the advanced **DynaSoft midsole technology**, these trail running shoe
 
 The combination of a tough **suede exterior** and a reliable outsole design ensures excellent traction and protection against trail obstacles such as rocks and roots. This makes the New Balance Men's DynaSoft TEKTREL V1 not only suitable for serious trail runners but also for hikers and outdoor adventurers looking for a versatile shoe that performs well both on and off the trail. Overall, these shoes deliver a blend of comfort, durability, and style for those dedicated to outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B0DNYLBJM9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Free Soldier Men's Trail Running Hiking Tactical Shoes</a>
+## <a href="https://www.amazon.com/dp/B0DNYLBJM9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Free Soldier Men's Trail Running Hiking Tactical Shoes</a>
 
 
-<a href="https://www.amazon.com/dp/B0DNYLBJM9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FREE SOLDIER Men's Trail Running Hiking Tactical Shoes - Breathable Lightweight Non-Slip Outdoor Sneakers for Walking Gym Backpacking Athletic Shoes(Beige 8.5)" src="https://m.media-amazon.com/images/I/41qQTUGDbCL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DNYLBJM9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FREE SOLDIER Men's Trail Running Hiking Tactical Shoes - Breathable Lightweight Non-Slip Outdoor Sneakers for Walking Gym Backpacking Athletic Shoes(Beige 8.5)" src="https://m.media-amazon.com/images/I/41qQTUGDbCL._SL500_.jpg"/></a>
 
 
 The **FREE SOLDIER Men's Trail Running Hiking Tactical Shoes** are ideal for outdoor enthusiasts, hikers, trail runners, and fitness lovers who need a reliable, comfortable, and durable pair of shoes. If you enjoy activities such as backpacking, walking, or gym workouts and want footwear that combines breathability with lightweight performance, these shoes are a perfect choice.
@@ -197,10 +197,10 @@ The **FREE SOLDIER Men's Trail Running Hiking Tactical Shoes** are designed with
 
 Additionally, these shoes feature a non-slip outsole that ensures strong grip and stability on slippery or uneven terrain, providing safety and confidence during outdoor adventures. Whether you're navigating rocky trails or walking on wet surfaces, these tactical shoes deliver dependable performance. Overall, they offer a balanced blend of comfort, durability, and functionality tailored for active men who value quality and style in their outdoor footwear.
 
-## <a href="https://www.amazon.com/dp/B0D2BSB9PD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">New Balance Men's Fresh Foam X Hierro V9 Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B0D2BSB9PD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">New Balance Men's Fresh Foam X Hierro V9 Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B0D2BSB9PD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Balance Men's Fresh Foam X Hierro V9 Trail Running Shoe, Dark Juniper/Black/Dried Apricot, 12" src="https://m.media-amazon.com/images/I/31myt4oQaOL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D2BSB9PD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Balance Men's Fresh Foam X Hierro V9 Trail Running Shoe, Dark Juniper/Black/Dried Apricot, 12" src="https://m.media-amazon.com/images/I/31myt4oQaOL._SL500_.jpg"/></a>
 
 
 Ideal for avid trail runners and outdoor enthusiasts, the **New Balance Men's Fresh Foam X Hierro V9 Trail Running Shoe** in **Dark Juniper/Black/Dried Apricot** offers a perfect blend of comfort, durability, and performance. This shoe is designed for those who need reliable footwear to tackle rugged terrains while maintaining excellent cushioning and support during long runs.
@@ -223,10 +223,10 @@ The **Fresh Foam X Hierro V9** features a plush **Fresh Foam X midsole** that de
 
 With a weight just under one pound, the shoe strikes a balance between durability and lightweight performance, allowing runners to maintain speed without sacrificing protection. The thoughtful design and quality materials make the Hierro V9 an excellent choice for trail runners seeking reliable gear for long-distance adventures, offering both comfort and ruggedness in a stylish package.
 
-## <a href="https://www.amazon.com/dp/B0D2JK9KXR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Adidas Women's Terrex Soulstride Trail Running Sneaker</a>
+## <a href="https://www.amazon.com/dp/B0D2JK9KXR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Adidas Women's Terrex Soulstride Trail Running Sneaker</a>
 
 
-<a href="https://www.amazon.com/dp/B0D2JK9KXR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="adidas Women's Terrex Soulstride Trail Running Sneaker, Putty Mauve/Off White/Pure Ruby, 8" src="https://m.media-amazon.com/images/I/31SY3o5evLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D2JK9KXR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="adidas Women's Terrex Soulstride Trail Running Sneaker, Putty Mauve/Off White/Pure Ruby, 8" src="https://m.media-amazon.com/images/I/31SY3o5evLL._SL500_.jpg"/></a>
 
 
 The **adidas Women's Terrex Soulstride Trail Running Sneaker** in **Putty Mauve/Off White/Pure Ruby** is ideal for women who are passionate about trail running and outdoor adventures. If you're looking for a durable, comfortable, and stylish sneaker designed to handle rough terrains while providing excellent support, this shoe is a perfect choice. It suits runners and hikers who want reliable footwear that combines performance with a trendy look.
@@ -247,10 +247,10 @@ The **Terrex Soulstride** sneaker features a lightweight yet robust construction
 
 Additionally, the sneaker boasts excellent traction, which is critical for maintaining stability on slippery or rocky paths. The stylish **Putty Mauve/Off White/Pure Ruby** color scheme adds an aesthetic appeal that makes these sneakers versatile enough to wear both on the trail and casually. Overall, the adidas Women's Terrex Soulstride is a well-rounded option for active women who demand performance and style in their trail running footwear.
 
-## <a href="https://www.amazon.com/dp/B07T5CM6YS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Saucony Men's Versafoam Excursion Tr13 Trail Running Shoe</a>
+## <a href="https://www.amazon.com/dp/B07T5CM6YS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Saucony Men's Versafoam Excursion Tr13 Trail Running Shoe</a>
 
 
-<a href="https://www.amazon.com/dp/B07T5CM6YS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Saucony Men's Versafoam Excursion TR13 Trail Running Shoe, Grey/Orange, 11 M US" src="https://m.media-amazon.com/images/I/51a6S1PCnSL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07T5CM6YS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Saucony Men's Versafoam Excursion TR13 Trail Running Shoe, Grey/Orange, 11 M US" src="https://m.media-amazon.com/images/I/51a6S1PCnSL._SL500_.jpg"/></a>
 
 
 The **Saucony Men's Versafoam Excursion TR13 Trail Running Shoe** in **Grey/Orange** is ideal for trail runners and outdoor enthusiasts seeking a combination of durability, comfort, and reliable performance. If you frequently run on uneven terrains or enjoy hiking, this shoe is designed to provide the support and cushioning you need for extended outdoor activities. Its robust construction and specialized features make it suitable for those who demand both protection and agility in their footwear.

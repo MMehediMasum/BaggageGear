@@ -23,10 +23,10 @@ Choosing the right ear plugs prevents ear popping, pain, and noise discomfort. W
 
 
 
-## <a href="https://www.amazon.com/dp/B00C589DKI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Alpine Flyfit</a>
+## <a href="https://www.amazon.com/dp/B00C589DKI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Alpine Flyfit</a>
 
 
-<a href="https://www.amazon.com/dp/B00C589DKI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Alpine FlyFit - Earplugs for Pressure Relief &amp; Preventing Ear Pain While Flying - Airplane Travel Essentials - Comfortable Reusable Hypoallergenic Earplugs with Ultra Soft Filter" src="https://m.media-amazon.com/images/I/41Epa06kpPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00C589DKI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Alpine FlyFit - Earplugs for Pressure Relief &amp; Preventing Ear Pain While Flying - Airplane Travel Essentials - Comfortable Reusable Hypoallergenic Earplugs with Ultra Soft Filter" src="https://m.media-amazon.com/images/I/41Epa06kpPL._SL500_.jpg"/></a>
 
 
 The **Alpine FlyFit Earplugs** are perfect for frequent flyers, travelers sensitive to ear pain during altitude changes, and anyone seeking comfortable and effective **pressure relief** on airplanes. If you often experience discomfort or ear pressure while flying, these earplugs are designed to help you enjoy a pain-free travel experience.
@@ -49,10 +49,10 @@ The **Alpine FlyFit Earplugs** utilize an innovative pressure relief filter that
 
 Additionally, these earplugs are **reusable** and easy to maintain, making them an eco-friendly and economical choice for travelers. Their compact size and lightweight design mean they can easily fit in your carry-on or pocket, ensuring you always have them handy whenever you take to the skies. Whether you are a business traveler, a vacationer, or someone with sensitive ears, the Alpine FlyFit provides an effective and comfortable solution to maintain ear health and comfort during air travel.
 
-## <a href="https://www.amazon.com/dp/B00XZEKSL4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Original Adult Earplanes By Cirrus Healthcare Earplugs</a>
+## <a href="https://www.amazon.com/dp/B00XZEKSL4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Original Adult Earplanes By Cirrus Healthcare Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B00XZEKSL4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Original Adult EarPlanes by Cirrus Healthcare Earplugs Airplane Travel Ear Protection (1 Pair)" src="https://m.media-amazon.com/images/I/51+GRnPbs0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00XZEKSL4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Original Adult EarPlanes by Cirrus Healthcare Earplugs Airplane Travel Ear Protection (1 Pair)" src="https://m.media-amazon.com/images/I/51+GRnPbs0L._SL500_.jpg"/></a>
 
 
 The **Original Adult EarPlanes by Cirrus Healthcare Earplugs** are perfect for frequent flyers and anyone sensitive to changes in air pressure during airplane travel. If you often experience discomfort, ear pain, or pressure buildup on flights, these specialized earplugs provide an effective solution to enhance your travel experience.
@@ -75,10 +75,10 @@ The **Original Adult EarPlanes** utilize a patented filter technology that regul
 
 Beyond comfort, these earplugs promote better ear health by minimizing the risk of barotrauma, which can result from rapid pressure changes. By smoothing the pressure transition, users can enjoy a more relaxed and enjoyable flight. Whether you are a business traveler, vacationer, or someone prone to ear sensitivity, these earplugs offer an effective and convenient way to protect your ears on every journey.
 
-## <a href="https://www.amazon.com/dp/B09DCZXRTD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Airplane Ear Plugs</a>
+## <a href="https://www.amazon.com/dp/B09DCZXRTD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Airplane Ear Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B09DCZXRTD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Airplane Ear Plugs Pressure Relief Earplugs 2 Pairs, Prevent Ear-Pain &amp; Reduce Noise - Flight Essentials, 100x Reusable Soft Plane Earbuds for Adult/Kids 12+, Gift for Travel Lovers, 25 dB" src="https://m.media-amazon.com/images/I/41lxu7MoXmL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09DCZXRTD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Airplane Ear Plugs Pressure Relief Earplugs 2 Pairs, Prevent Ear-Pain &amp; Reduce Noise - Flight Essentials, 100x Reusable Soft Plane Earbuds for Adult/Kids 12+, Gift for Travel Lovers, 25 dB" src="https://m.media-amazon.com/images/I/41lxu7MoXmL._SL500_.jpg"/></a>
 
 
 The **Softvox Airplane Ear Plugs Pressure Relief Earplugs** are ideal for frequent flyers, travelers, and anyone who experiences discomfort or ear pain during flights. These earplugs are perfect for adults and kids aged 12 and above who want to prevent ear pressure issues and reduce ambient noise while traveling. If you seek a reliable, reusable solution to enhance your flying experience, these earplugs are an excellent choice.
@@ -101,10 +101,10 @@ The **Softvox Airplane Ear Plugs** feature a specialized design that balances ea
 
 Made from durable materials, these earplugs are **100x reusable**, allowing travelers to use them repeatedly without compromising performance. Their lightweight and compact size mean they can be easily packed in carry-on bags or pockets. Whether you are a frequent flyer or occasional traveler, these earplugs provide an effective solution to common in-flight discomforts, making them a thoughtful gift for travel enthusiasts.
 
-## <a href="https://www.amazon.com/dp/B077F3YM5H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"> Earplanes® Ear Plugs </a>
+## <a href="https://www.amazon.com/dp/B077F3YM5H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"> Earplanes® Ear Plugs </a>
 
 
-<a href="https://www.amazon.com/dp/B077F3YM5H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Super Soft Adult EarPlanes® Ear Plugs Airplane Travel Ear Protection 3 Pair" src="https://m.media-amazon.com/images/I/517ddv7q4BL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B077F3YM5H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="New Super Soft Adult EarPlanes® Ear Plugs Airplane Travel Ear Protection 3 Pair" src="https://m.media-amazon.com/images/I/517ddv7q4BL._SL500_.jpg"/></a>
 
 
 The **New Super Soft Adult EarPlanes® Ear Plugs** are ideal for frequent travelers and anyone sensitive to changes in air pressure during flights. If you often experience ear discomfort, popping, or pain while flying, these ear plugs are designed specifically to provide effective **airplane travel ear protection** and enhance your in-flight comfort.
@@ -127,10 +127,10 @@ The **EarPlanes® Ear Plugs** feature a unique design that helps regulate air pr
 
 Beyond comfort, these ear plugs contribute to a more enjoyable travel experience by preventing the common issues associated with rapid altitude changes. The lightweight and compact design makes them an essential travel accessory, easily fitting into any carry-on or personal item. Trusted by many for their quality and effectiveness, the **New Super Soft Adult EarPlanes® Ear Plugs** are a practical investment for anyone looking to protect their ears during air travel.
 
-## <a href="https://www.amazon.com/dp/B01K9RHZ3S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack’s Flightguard Airplane Pressure Relief Earplugs</a>
+## <a href="https://www.amazon.com/dp/B01K9RHZ3S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mack’s Flightguard Airplane Pressure Relief Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B01K9RHZ3S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack’s Flightguard Airplane Pressure Relief Earplugs – 26dB NRR, 33dB SNR – Comfortable, Safe, Travel Ear Plugs for Flying Air Pressure Ear Pain, Ear Popping and Noise Reduction" src="https://m.media-amazon.com/images/I/513JnvYsvlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01K9RHZ3S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mack’s Flightguard Airplane Pressure Relief Earplugs – 26dB NRR, 33dB SNR – Comfortable, Safe, Travel Ear Plugs for Flying Air Pressure Ear Pain, Ear Popping and Noise Reduction" src="https://m.media-amazon.com/images/I/513JnvYsvlL._SL500_.jpg"/></a>
 
 
 The **Mack’s Flightguard Airplane Pressure Relief Earplugs** are ideal for frequent travelers, especially those who experience discomfort from rapid changes in air pressure during flights. If you often suffer from ear pain, ear popping, or sensitivity to loud airplane noise, these earplugs provide a comfortable and effective solution to ensure a smoother, more pleasant flying experience.
@@ -153,10 +153,10 @@ The **Mack’s Flightguard Airplane Pressure Relief Earplugs** feature a unique 
 
 Constructed with soft, hypoallergenic materials, these earplugs ensure maximum comfort even on long-haul flights. Their compact size and lightweight nature make them highly portable, fitting easily into any travel kit without adding bulk. Overall, the combination of pressure relief and noise reduction makes the **Mack’s Flightguard Airplane Pressure Relief Earplugs** a must-have travel accessory for anyone looking to protect their ears and enhance their flying experience.
 
-## <a href="https://www.amazon.com/dp/B0D3V6TR98?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loop Quiet 2 Ear Plugs</a>
+## <a href="https://www.amazon.com/dp/B0D3V6TR98?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loop Quiet 2 Ear Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B0D3V6TR98?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Noise-Reducing Earplugs for Sleep, Deep Focus, Travel, Sensitivity | Flexible Hearing Protection | Customizable Fit | 24dB (SNR) Noise Reduction" src="https://m.media-amazon.com/images/I/21-Nv3kgBQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D3V6TR98?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Noise-Reducing Earplugs for Sleep, Deep Focus, Travel, Sensitivity | Flexible Hearing Protection | Customizable Fit | 24dB (SNR) Noise Reduction" src="https://m.media-amazon.com/images/I/21-Nv3kgBQL._SL500_.jpg"/></a>
 
 
 The **Loop Quiet 2 Ear Plugs** are ideal for individuals who seek a comfortable and effective solution to reduce noise during sleep, work, travel, or any situation requiring deep focus and sensitivity management. Whether you are a light sleeper, a frequent traveler, or someone working in noisy environments, these earplugs provide customizable hearing protection to enhance your daily comfort and concentration.
@@ -178,10 +178,10 @@ The **Loop Quiet 2 Ear Plugs** feature a flexible and ergonomic design that adap
 
 With a noise reduction rating of **24dB (SNR)**, these earplugs effectively minimize disruptive sounds, allowing users to achieve restful sleep, enhanced concentration during work or study, and peaceful travel experiences. Their reusable nature also makes them a cost-effective and eco-friendly choice compared to disposable earplugs, while the quality materials provide durability and long-term use.
 
-## <a href="https://www.amazon.com/dp/B0DDBNP5YP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Ear Plugs For Kids</a>
+## <a href="https://www.amazon.com/dp/B0DDBNP5YP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Softvox Ear Plugs For Kids</a>
 
 
-<a href="https://www.amazon.com/dp/B0DDBNP5YP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Ear Plugs for Kids (6-12 yrs), Airplane Ear Pressure Relief &amp; Prevent Ear-Pain Earplugs for Children Adults with Small Ear-canals, Comfortable Earbuds, 25 dB Noise Cancelling" src="https://m.media-amazon.com/images/I/51+PowYNEdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DDBNP5YP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Softvox Ear Plugs for Kids (6-12 yrs), Airplane Ear Pressure Relief &amp; Prevent Ear-Pain Earplugs for Children Adults with Small Ear-canals, Comfortable Earbuds, 25 dB Noise Cancelling" src="https://m.media-amazon.com/images/I/51+PowYNEdL._SL500_.jpg"/></a>
 
 
 Ideal for parents seeking effective and comfortable hearing protection for their children aged 6 to 12, the **Softvox Ear Plugs for Kids** are specifically designed to fit small ear canals. These earplugs are perfect for kids who experience discomfort or ear pain during airplane travel or in noisy environments, ensuring a peaceful and safe auditory experience.
@@ -204,10 +204,10 @@ The **Softvox Ear Plugs for Kids** stand out with their specialized design tailo
 
 Beyond airplane use, these earplugs offer excellent protection against loud noises, making them suitable for various environments such as concerts, sporting events, or noisy classrooms. The high-quality materials used ensure durability and comfort, allowing children to wear them for extended periods without irritation. Overall, the Softvox Ear Plugs combine functionality and comfort to deliver an effective hearing solution for kids and adults alike.
 
-## <a href="https://www.amazon.com/dp/B0D1Q8ZWJK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Airplane Pressure Relief</a>
+## <a href="https://www.amazon.com/dp/B0D1Q8ZWJK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ear Plugs For Airplane Pressure Relief</a>
 
 
-<a href="https://www.amazon.com/dp/B0D1Q8ZWJK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Airplane Pressure Relief, 2 Pairs Adults Soft Silicone Reusable Airplane Earplugs 26dB, with Silicone Connector Cord, Travel Essentials for Flying, Ear Protection Earplugs for Plane" src="https://m.media-amazon.com/images/I/41W8xKkr-WL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D1Q8ZWJK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ear Plugs for Airplane Pressure Relief, 2 Pairs Adults Soft Silicone Reusable Airplane Earplugs 26dB, with Silicone Connector Cord, Travel Essentials for Flying, Ear Protection Earplugs for Plane" src="https://m.media-amazon.com/images/I/41W8xKkr-WL._SL500_.jpg"/></a>
 
 
 These **Ear Plugs for Airplane Pressure Relief** are ideal for frequent flyers, travelers sensitive to changes in ear pressure, and anyone seeking **comfortable and effective ear protection** during flights. Perfect for adults who want to reduce discomfort caused by rapid altitude changes, these **soft silicone reusable earplugs** help maintain ear health and enhance overall travel experience.
@@ -230,10 +230,10 @@ These **ear plugs** feature a **soft silicone construction** that molds comforta
 
 The inclusion of a **silicone connector cord** adds an extra layer of practicality by ensuring the earplugs stay together and are easy to find. This thoughtful feature helps prevent loss and allows travelers to quickly remove and store the plugs when needed. Overall, these earplugs combine comfort, durability, and functionality, making them an essential **travel accessory for flying** and ear protection.
 
-## <a href="https://www.amazon.com/dp/B00TSL2UJ6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Original Children's Earplanes By Cirrus Healthcare Ear Plugs</a>
+## <a href="https://www.amazon.com/dp/B00TSL2UJ6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Original Children's Earplanes By Cirrus Healthcare Ear Plugs</a>
 
 
-<a href="https://www.amazon.com/dp/B00TSL2UJ6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Original Children's EarPlanes by Cirrus Healthcare Ear Plugs Airplane Travel Ear Protection 3 Pair BONUS VALUE PACK" src="https://m.media-amazon.com/images/I/41NF5gEjG8S._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00TSL2UJ6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Original Children's EarPlanes by Cirrus Healthcare Ear Plugs Airplane Travel Ear Protection 3 Pair BONUS VALUE PACK" src="https://m.media-amazon.com/images/I/41NF5gEjG8S._SL500_.jpg"/></a>
 
 
 The **Original Children's EarPlanes by Cirrus Healthcare** are perfect for parents seeking effective **ear protection** for their kids during air travel. These **ear plugs** are designed specifically to help children manage the discomfort caused by changes in cabin pressure, making them an ideal choice for families who frequently fly or travel to high-altitude destinations.
@@ -256,10 +256,10 @@ The **Original Children's EarPlanes** feature a unique pressure-regulating filte
 
 Beyond comfort, these ear plugs promote overall ear health by reducing the risk of ear barotrauma and potential infections linked to pressure changes. The **3 Pair BONUS VALUE PACK** offers great value, allowing parents to have spares readily available for each trip. Overall, these ear plugs provide a practical, child-friendly solution to enhance the travel experience and safeguard young ears against cabin pressure challenges.
 
-## <a href="https://www.amazon.com/dp/B07DVHJ26J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Eargasm Aviation Earplugs</a>
+## <a href="https://www.amazon.com/dp/B07DVHJ26J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Eargasm Aviation Earplugs</a>
 
 
-<a href="https://www.amazon.com/dp/B07DVHJ26J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Eargasm Aviation Earplugs - Airplane Ear-Plugs for Ear Air Pressure Relief on Flights for Adults - High Altitude Air Travel Essential Earplugs for Men &amp; Women for a Comfortable Trip" src="https://m.media-amazon.com/images/I/41uk4Nj9H4L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07DVHJ26J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Eargasm Aviation Earplugs - Airplane Ear-Plugs for Ear Air Pressure Relief on Flights for Adults - High Altitude Air Travel Essential Earplugs for Men &amp; Women for a Comfortable Trip" src="https://m.media-amazon.com/images/I/41uk4Nj9H4L._SL500_.jpg"/></a>
 
 
 The **Eargasm Aviation Earplugs** are ideal for frequent flyers, business travelers, and anyone who experiences discomfort from ear pressure changes during air travel. These earplugs are specifically designed for **adults** seeking effective **ear air pressure relief** to ensure a comfortable and pain-free flight experience. Whether you are a man or woman who values comfort during high altitude travel, these earplugs provide a reliable solution.

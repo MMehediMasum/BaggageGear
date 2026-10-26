@@ -22,10 +22,10 @@ Features like left-zip designs and eco-friendly insulation add convenience and c
 
 
 
-## <a href="https://www.amazon.com/dp/B0DSQXGVC9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Ultralight Cold Weather Backpacking And Camping</a>
+## <a href="https://www.amazon.com/dp/B0DSQXGVC9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Ultralight Cold Weather Backpacking And Camping</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSQXGVC9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Ultralight Cold Weather Backpacking and Camping, Kids, Juniors, Teens, 20 Degrees, Little Red (Kids), Regular-Left Zip" src="https://m.media-amazon.com/images/I/31BOM8FuMnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSQXGVC9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Ultralight Cold Weather Backpacking and Camping, Kids, Juniors, Teens, 20 Degrees, Little Red (Kids), Regular-Left Zip" src="https://m.media-amazon.com/images/I/31BOM8FuMnL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Ultralight Cold Weather Backpacking and Camping Sleeping Bag** is ideal for **kids, juniors, and teens** who love outdoor adventures in chilly conditions. Designed to keep young campers comfortable and warm down to **20 degrees**, this sleeping bag is perfect for families who enjoy backpacking, camping, or overnight hiking trips where weight and warmth are crucial factors. Its compact size and lightweight design make it an excellent choice for young outdoor enthusiasts who need gear tailored to their size and needs.
@@ -48,10 +48,10 @@ The **Big Agnes Ultralight Sleeping Bag** features a blend of lightweight materi
 
 In addition to its functional benefits, the sleeping bag’s vivid **Cherry Tomato/Tangelo color** not only adds an element of fun but also enhances safety by improving visibility in outdoor environments. The **regular-left zip** offers ease of use, enabling kids to get in and out of the bag with minimal fuss. Overall, this sleeping bag is designed to meet the specific needs of young outdoor enthusiasts, combining practical features with kid-friendly sizing and style.
 
-## <a href="https://www.amazon.com/dp/B0DSP7WPCK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Echo Park Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B0DSP7WPCK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Echo Park Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSP7WPCK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Echo Park Sleeping Bag, 20 Degree, Tapestry/Brown Sugar" src="https://m.media-amazon.com/images/I/31GcKtOHxLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSP7WPCK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Echo Park Sleeping Bag, 20 Degree, Tapestry/Brown Sugar" src="https://m.media-amazon.com/images/I/31GcKtOHxLL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Echo Park Sleeping Bag, 20 Degree, Tapestry/Brown Sugar** is ideal for outdoor enthusiasts who need a reliable and comfortable sleeping solution in moderately cold conditions. Whether you're a camper, backpacker, or weekend adventurer, this sleeping bag is perfect for those seeking warmth without excess bulk or weight. Its design caters to individuals who prioritize both comfort and durability during their outdoor excursions.
@@ -74,10 +74,10 @@ The **Big Agnes Echo Park Sleeping Bag** boasts a well-thought-out design that b
 
 Additionally, the sleeping bag’s build quality reflects the expertise of **Big Agnes**, a leader in outdoor gear manufacturing. The durable materials and thoughtful features like the color scheme and size make it both functional and aesthetically pleasing. Overall, this sleeping bag is a great investment for anyone needing a dependable and comfortable sleeping solution for moderate cold weather adventures.
 
-## <a href="https://www.amazon.com/dp/B07M65D527?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Lost Dog Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B07M65D527?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Lost Dog Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B07M65D527?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Lost Dog (FireLine Eco) Sleeping Bag, 30 Degree, Regular, Left Zip" src="https://m.media-amazon.com/images/I/31FMcH0P+SL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07M65D527?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Lost Dog (FireLine Eco) Sleeping Bag, 30 Degree, Regular, Left Zip" src="https://m.media-amazon.com/images/I/31FMcH0P+SL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Lost Dog (FireLine Eco) Sleeping Bag, 30 Degree, Regular, Left Zip** is perfect for outdoor enthusiasts who seek a reliable and eco-friendly sleeping solution for mild to cool weather conditions. Ideal for backpackers, campers, and hikers looking for a lightweight yet warm sleeping bag that balances comfort with sustainability.
@@ -100,10 +100,10 @@ The **Big Agnes Lost Dog Sleeping Bag** features innovative **FireLine Eco insul
 
 Additionally, the bag’s lightweight design and compact size when packed make it an excellent choice for backpackers who prioritize reducing load weight. The durable outer fabric and reinforced stitching by **Big Agnes** enhance its longevity, ensuring it withstands the rigors of outdoor adventures. Its vibrant **Yellow/Navy** color not only adds a stylish touch but also improves visibility in the wild, adding a safety element during low-light conditions.
 
-## <a href="https://www.amazon.com/dp/B0BP9DWBRP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Anthracite Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B0BP9DWBRP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Anthracite Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0BP9DWBRP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes, Anthracite Sleeping Bag, 30 Degree, (FireLine Pro Recycled), Slate, Regular, Left Zip" src="https://m.media-amazon.com/images/I/31y5tY3rLPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BP9DWBRP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes, Anthracite Sleeping Bag, 30 Degree, (FireLine Pro Recycled), Slate, Regular, Left Zip" src="https://m.media-amazon.com/images/I/31y5tY3rLPL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Anthracite Sleeping Bag, 30 Degree** is ideal for outdoor enthusiasts who need reliable warmth and comfort during three-season camping trips. Perfect for hikers, backpackers, and campers who prioritize lightweight gear without compromising on insulation, this sleeping bag is suited for those expecting nighttime temperatures around 30 degrees Fahrenheit. If you seek a durable, eco-friendly sleeping bag with practical features, this item is an excellent choice.
@@ -126,10 +126,10 @@ The **Big Agnes Anthracite Sleeping Bag** features the innovative **FireLine Pro
 
 Additionally, the **left zip** configuration allows for easy entry and exit, and it can be paired with other sleeping bags for couples or added insulation. The durable **slate-colored exterior** resists wear and stains, ensuring the bag remains looking fresh trip after trip. Overall, this sleeping bag balances comfort, sustainability, and practicality, making it a great investment for serious outdoor adventurers.
 
-## <a href="https://www.amazon.com/dp/B0DSCPHRWJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Torchlight Exp</a>
+## <a href="https://www.amazon.com/dp/B0DSCPHRWJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Torchlight Exp</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSCPHRWJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Torchlight EXP - 650 RDS DownTek Ultralight Sleeping Bag, Backpacking Gear, Compact Cold Weather Camping Mummy, 30 Degree, Long - Left" src="https://m.media-amazon.com/images/I/41YLnAYOPML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSCPHRWJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Torchlight EXP - 650 RDS DownTek Ultralight Sleeping Bag, Backpacking Gear, Compact Cold Weather Camping Mummy, 30 Degree, Long - Left" src="https://m.media-amazon.com/images/I/41YLnAYOPML._SL500_.jpg"/></a>
 
 
 The **Big Agnes Torchlight EXP - 650 RDS DownTek Ultralight Sleeping Bag** is ideal for avid backpackers and outdoor enthusiasts who prioritize lightweight and compact gear without sacrificing warmth. This sleeping bag is perfect for those who camp in cold weather conditions and need a reliable, durable, and comfortable option for extended trips. If you’re looking for a sleeping bag that combines advanced insulation technology with portability, this model is a great choice.
@@ -150,10 +150,10 @@ The **Big Agnes Torchlight EXP - 650 RDS** features advanced **DownTek insulatio
 
 Its **ultralight and compact design** makes it an excellent companion for backpackers who need to minimize weight without compromising on warmth. The mummy shape is ergonomically designed to reduce cold spots and improve heat retention. Additionally, the durable materials and expert craftsmanship from Big Agnes ensure that this sleeping bag can withstand the rigors of cold weather camping, making it a reliable choice for long-term outdoor adventures.
 
-## <a href="https://www.amazon.com/dp/B0DSCLGXDX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Lost Ranger 3n1 Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B0DSCLGXDX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Lost Ranger 3n1 Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSCLGXDX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Lost Ranger 3N1 (650 DownTek) Sleeping Bag, 0 Degree, Regular" src="https://m.media-amazon.com/images/I/315IsW7R7CL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSCLGXDX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Lost Ranger 3N1 (650 DownTek) Sleeping Bag, 0 Degree, Regular" src="https://m.media-amazon.com/images/I/315IsW7R7CL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Lost Ranger 3N1 (650 DownTek) Sleeping Bag** is ideal for outdoor enthusiasts who require a versatile and reliable sleeping solution for cold weather camping. Perfect for backpackers, hikers, and campers who face temperatures around 0 degrees Fahrenheit, this sleeping bag offers comfort, warmth, and adaptability in a single product. Its lightweight design and durable construction make it suitable for those who prioritize performance without sacrificing convenience.
@@ -176,10 +176,10 @@ The **Big Agnes Lost Ranger 3N1 Sleeping Bag** excels in providing customizable 
 
 Additionally, its thoughtful dimensions offer enough space for movement during sleep, a feature often overlooked in compact sleeping bags. Weighing just **3.75 pounds**, it strikes a balance between durability and portability, making it an excellent choice for backpackers who need to minimize pack weight without compromising on warmth. The sleek **Mercury/Tangelo color scheme** not only looks good but also helps in easy identification among gear. Overall, this sleeping bag is a dependable investment for serious campers seeking comfort and versatility in cold weather conditions.
 
-## <a href="https://www.amazon.com/dp/B0BP8CML85?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Greystone Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B0BP8CML85?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Greystone Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0BP8CML85?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes, Greystone Sleeping Bag, 30 Degree, (600 DownTek), Rooibos, Long, Left Zip" src="https://m.media-amazon.com/images/I/31hkbOy2sPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BP8CML85?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes, Greystone Sleeping Bag, 30 Degree, (600 DownTek), Rooibos, Long, Left Zip" src="https://m.media-amazon.com/images/I/31hkbOy2sPL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Greystone Sleeping Bag** is ideal for outdoor enthusiasts who prioritize warmth, comfort, and durability during their camping adventures. Designed for users seeking reliable insulation in cooler conditions, this sleeping bag suits backpackers, hikers, and campers who need a lightweight yet cozy solution for overnight stays in temperatures around 30 degrees Fahrenheit.
@@ -202,10 +202,10 @@ The **Big Agnes Greystone Sleeping Bag** stands out with its advanced **600 Down
 
 Another key feature is the **left zip** configuration, which enhances versatility and convenience. It allows for easy access and can be paired with another Big Agnes sleeping bag for shared warmth during cold nights. The compact height of the bag when packed makes it ideal for backpackers who require efficient storage space. Overall, this sleeping bag combines thoughtful design and high-performance materials to deliver a reliable and enjoyable sleeping experience in cool weather conditions.
 
-## <a href="https://www.amazon.com/dp/B0DSQBKZCD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Dream Island 50" Double Wide Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B0DSQBKZCD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Dream Island 50" Double Wide Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSQBKZCD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Dream Island 50" src="https://m.media-amazon.com/images/I/41-Zt0JBEuL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSQBKZCD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Dream Island 50" src="https://m.media-amazon.com/images/I/41-Zt0JBEuL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Dream Island 50" Double Wide Sleeping Bag** in **Tapestry/Brown Sugar** is ideal for couples or individuals who prefer extra space and comfort during outdoor adventures. Perfect for campers, backpackers, and anyone seeking a cozy, warm sleeping solution in temperatures around **20 degrees Fahrenheit**. Its generous dimensions and premium insulation make it a great choice for those who value both comfort and durability in their sleeping gear.
@@ -228,10 +228,10 @@ Featuring a spacious **125.99-inch width** and **77.99-inch length**, the Big Ag
 
 Constructed by the trusted brand **Big Agnes**, this sleeping bag combines quality materials with thoughtful design. Its lightweight profile at just under **7 pounds** means it is easier to carry than many other double sleeping bags. The attractive **Tapestry/Brown Sugar color** not only looks appealing but also resists dirt and wear from outdoor use. Overall, this sleeping bag balances comfort, warmth, and portability, making it a smart investment for couples or solo campers wanting extra room on their outdoor excursions.
 
-## <a href="https://www.amazon.com/dp/B0CMW71XHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Rapide Sl Insulated Sleeping Pad</a>
+## <a href="https://www.amazon.com/dp/B0CMW71XHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Rapide Sl Insulated Sleeping Pad</a>
 
 
-<a href="https://www.amazon.com/dp/B0CMW71XHX?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Rapide SL - Insulated Sleeping Pad, Ultralight, All Season Compact Backpacking and Hiking, Pumphouse Sack Included, Orange, 40X72 Double Wide" src="https://m.media-amazon.com/images/I/41nbXIieqcL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CMW71XHX?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Rapide SL - Insulated Sleeping Pad, Ultralight, All Season Compact Backpacking and Hiking, Pumphouse Sack Included, Orange, 40X72 Double Wide" src="https://m.media-amazon.com/images/I/41nbXIieqcL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Rapide SL - Insulated Sleeping Pad** is ideal for ultralight backpackers and hikers who prioritize both comfort and portability. Designed for those who embark on multi-season adventures, this sleeping pad caters to outdoor enthusiasts seeking reliable insulation without adding unnecessary bulk to their gear. If you want a compact, lightweight solution that performs well in varied weather conditions, this pad is an excellent choice.
@@ -254,10 +254,10 @@ The **Big Agnes Rapide SL** sleeping pad combines innovative insulation technolo
 
 Thanks to its durable materials and thoughtful construction, this sleeping pad performs reliably across various seasons, providing warmth and comfort without compromising portability. The bright orange color increases visibility, which can be advantageous in crowded campsites or emergency situations. Overall, this pad delivers a balanced combination of comfort, convenience, and practicality for serious backpackers and hikers.
 
-## <a href="https://www.amazon.com/dp/B08PJGPMQ7?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Sidewinder Sl 20 Sleeping Bag</a>
+## <a href="https://www.amazon.com/dp/B08PJGPMQ7?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Big Agnes Sidewinder Sl 20 Sleeping Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B08PJGPMQ7?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Sidewinder SL 20 Sleeping Bag (650 DownTek) Long" src="https://m.media-amazon.com/images/I/31smU8i-aHL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08PJGPMQ7?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Big Agnes Sidewinder SL 20 Sleeping Bag (650 DownTek) Long" src="https://m.media-amazon.com/images/I/31smU8i-aHL._SL500_.jpg"/></a>
 
 
 The **Big Agnes Sidewinder SL 20 Sleeping Bag (650 DownTek) Long** is ideal for outdoor enthusiasts who prioritize lightweight gear without sacrificing warmth and comfort. Perfect for backpackers, hikers, and campers seeking a reliable sleeping bag that performs well in cool to cold conditions, this sleeping bag caters to those who need a compact yet spacious option for extended trips.

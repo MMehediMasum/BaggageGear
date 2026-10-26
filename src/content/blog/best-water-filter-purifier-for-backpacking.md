@@ -20,10 +20,10 @@ Gravity filters such as Waterdrop and LifeStraw provide hands-free convenience. 
 
 
 
-## <a href="https://www.amazon.com/dp/B075X5R67T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Befree 1.0l Water Filter</a>
+## <a href="https://www.amazon.com/dp/B075X5R67T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Befree 1.0l Water Filter</a>
 
 
-<a href="https://www.amazon.com/dp/B075X5R67T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn BeFree 1.0L Water Filter, Fast Flow, 0.1 Micron EZ Clean Membrane for Endurance Sports, Camping and Backpacking, One Size, 8018006" src="https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B075X5R67T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn BeFree 1.0L Water Filter, Fast Flow, 0.1 Micron EZ Clean Membrane for Endurance Sports, Camping and Backpacking, One Size, 8018006" src="https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg"/></a>
 
 
 The **Katadyn BeFree 1.0L Water Filter** is ideal for **endurance athletes**, **campers**, and **backpackers** who need a reliable, lightweight, and fast water filtration solution. If you spend extended time outdoors and require access to safe drinking water without the bulk of traditional filters, this product is designed to meet your needs efficiently.
@@ -46,10 +46,10 @@ The **Katadyn BeFree 1.0L Water Filter** features an innovative **EZ Clean membr
 
 Its lightweight and compact design, measuring just 10 inches in height and weighing 0.14 pounds, makes it highly portable and convenient for endurance sports and backpacking. The flexible squeeze bottle allows for easy water intake and filtration on the go, minimizing the need for additional equipment. Overall, this water filter balances performance, convenience, and durability, making it a valuable tool for anyone looking to stay hydrated safely during outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B00FA2RLX2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Mini Water Filtration System</a>
+## <a href="https://www.amazon.com/dp/B00FA2RLX2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Mini Water Filtration System</a>
 
 
-<a href="https://www.amazon.com/dp/B00FA2RLX2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP128 Mini Water Filtration System, Single, Blue" src="https://m.media-amazon.com/images/I/41IFBegH2wL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00FA2RLX2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP128 Mini Water Filtration System, Single, Blue" src="https://m.media-amazon.com/images/I/41IFBegH2wL._SL500_.jpg"/></a>
 
 
 The **Sawyer Products SP128 Mini Water Filtration System** is ideal for outdoor enthusiasts, hikers, campers, and emergency preparedness users who need a reliable and portable solution for clean drinking water. If you frequently find yourself in environments where access to safe water is limited, this compact and lightweight filter is designed to meet your needs effectively.
@@ -71,10 +71,10 @@ The **Sawyer Products SP128 Mini Water Filtration System** features a compact de
 
 Beyond its filtration capabilities, the SP128 is designed for ease of use and versatility. It can be attached directly to a water bottle, hydration pack, or used with the included drinking pouch. This adaptability ensures that users can drink safely no matter their setup. Additionally, the filter’s longevity means it can be used for up to 100,000 gallons, offering exceptional value and reducing the need for frequent replacements. Overall, the Sawyer Mini Water Filtration System is a dependable companion for anyone prioritizing health and hydration in the outdoors.
 
-## <a href="https://www.amazon.com/dp/B086QNLBB4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
+## <a href="https://www.amazon.com/dp/B086QNLBB4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
 
 
-<a href="https://www.amazon.com/dp/B086QNLBB4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, 5 Stage Filtration" src="https://m.media-amazon.com/images/I/41qiFymeklL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B086QNLBB4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, 5 Stage Filtration" src="https://m.media-amazon.com/images/I/41qiFymeklL._SL500_.jpg"/></a>
 
 
 The **Waterdrop Gravity Water Filter Straw** is ideal for outdoor enthusiasts, travelers, and emergency preparedness individuals who need a reliable and portable **water purification** solution. Whether you are **camping**, **backpacking**, or facing a survival situation, this compact and efficient filtration system ensures access to clean and safe drinking water wherever you go.
@@ -97,10 +97,10 @@ The **Waterdrop Gravity Water Filter Straw** features a multi-stage filtration p
 
 This filtration system not only enhances convenience but also offers peace of mind by reducing the risk of waterborne illnesses during travel or emergencies. The durable materials and simple design ensure reliable performance in remote locations. While the filtration process may take longer than some pump-style filters, the hands-free approach and thorough purification make the **Waterdrop Gravity Water Filter Straw** a valuable addition to any adventurer’s toolkit.
 
-## <a href="https://www.amazon.com/dp/B075TTTX2R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Hiker Pro Hand Pump Water Filter</a>
+## <a href="https://www.amazon.com/dp/B075TTTX2R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Hiker Pro Hand Pump Water Filter</a>
 
 
-<a href="https://www.amazon.com/dp/B075TTTX2R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn Hiker Pro Hand Pump Water Filter for Backpacking, Camping, Emergency Survival" src="https://m.media-amazon.com/images/I/31JUVa+MtUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B075TTTX2R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn Hiker Pro Hand Pump Water Filter for Backpacking, Camping, Emergency Survival" src="https://m.media-amazon.com/images/I/31JUVa+MtUL._SL500_.jpg"/></a>
 
 
 The **Katadyn Hiker Pro Hand Pump Water Filter** is ideal for avid **backpackers**, **campers**, and anyone preparing for **emergency survival** situations who need a reliable and efficient way to access clean drinking water on the go. Its compact size and lightweight design make it perfect for those who prioritize portability without compromising on water filtration quality. If you often find yourself in remote locations where water sources may be questionable, this filter is designed to keep you safe and hydrated.
@@ -123,10 +123,10 @@ The **Katadyn Hiker Pro** features a compact design measuring 6.0 inches in heig
 
 Built with durability in mind, the filter is manufactured by **Katadyn North America**, a trusted name in outdoor water filtration. The transparent casing enables users to easily check the filter's status and flow rate, helping them know when maintenance or replacement is necessary. This combination of usability and reliability makes the **Katadyn Hiker Pro** an essential tool for anyone committed to safe hydration in challenging environments.
 
-## <a href="https://www.amazon.com/dp/B0CQRVKT6C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Msr Miniworks Ex Backpacking And Camping Water Filter</a>
+## <a href="https://www.amazon.com/dp/B0CQRVKT6C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Msr Miniworks Ex Backpacking And Camping Water Filter</a>
 
 
-<a href="https://www.amazon.com/dp/B0CQRVKT6C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MSR MiniWorks EX Backpacking and Camping Water Filter" src="https://m.media-amazon.com/images/I/418aDf-qvGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CQRVKT6C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MSR MiniWorks EX Backpacking and Camping Water Filter" src="https://m.media-amazon.com/images/I/418aDf-qvGL._SL500_.jpg"/></a>
 
 
 The **MSR MiniWorks EX Backpacking and Camping Water Filter** is ideal for outdoor enthusiasts who require a reliable and durable water filtration system. Whether you are a hiker, camper, or backpacker venturing into remote areas, this water filter is designed for those who prioritize clean, safe drinking water on the go. It is perfect for individuals who need a compact, lightweight solution without compromising on performance.
@@ -149,10 +149,10 @@ The **MSR MiniWorks EX Water Filter** features a robust ceramic element that eff
 
 Manufactured by **Cascade Designs Inc.**, this water filter offers a balance of performance and durability. Its ease of use and maintenance means outdoor adventurers can focus more on their activities and less on water safety concerns. Overall, the MSR MiniWorks EX is a trustworthy companion for anyone needing reliable access to clean water in the wilderness.
 
-## <a href="https://www.amazon.com/dp/B08WX98ZBR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
+## <a href="https://www.amazon.com/dp/B08WX98ZBR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
 
 
-<a href="https://www.amazon.com/dp/B08WX98ZBR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, Light Blue" src="https://m.media-amazon.com/images/I/412LA39KKfL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08WX98ZBR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, Light Blue" src="https://m.media-amazon.com/images/I/412LA39KKfL._SL500_.jpg"/></a>
 
 
 The **Waterdrop Gravity Water Filter Straw** is ideal for outdoor enthusiasts, travelers, and anyone focused on emergency preparedness. If you enjoy camping, backpacking, or need a reliable water purification system for survival situations, this lightweight and portable water purifier is perfect for you. It ensures access to clean, safe drinking water in environments where water quality is uncertain.
@@ -175,10 +175,10 @@ The **Waterdrop Gravity Water Filter Straw** features a high-efficiency **0.1 mi
 
 Designed with portability in mind, the system’s lightweight and compact build makes it easy to pack into any backpack or travel bag. The durable **light blue** water bag and filter are made by **Waterdrop**, a trusted manufacturer known for reliable water purification products. Overall, this water filter straw offers a practical and effective solution for ensuring safe drinking water in a variety of outdoor and emergency situations.
 
-## <a href="https://www.amazon.com/dp/B09SBPPFW2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lifestraw Peak Series Compact Gravity Water Filter System</a>
+## <a href="https://www.amazon.com/dp/B09SBPPFW2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Lifestraw Peak Series Compact Gravity Water Filter System</a>
 
 
-<a href="https://www.amazon.com/dp/B09SBPPFW2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LifeStraw Peak Series Compact Gravity Water Filter System; 3L; Dark Mountain Gray" src="https://m.media-amazon.com/images/I/21IR+c4dkLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09SBPPFW2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="LifeStraw Peak Series Compact Gravity Water Filter System; 3L; Dark Mountain Gray" src="https://m.media-amazon.com/images/I/21IR+c4dkLL._SL500_.jpg"/></a>
 
 
 The **LifeStraw Peak Series Compact Gravity Water Filter System** in **Dark Mountain Gray** is ideal for outdoor enthusiasts, campers, hikers, and emergency preppers who need a reliable and portable water filtration solution. Anyone looking to safely and efficiently filter water from natural sources without the hassle of manual pumping or chemical treatments will benefit from this **3L gravity filter system**. Its compact size and lightweight design make it perfect for those prioritizing convenience and performance in remote or off-grid environments.
@@ -202,10 +202,10 @@ The **LifeStraw Peak Series Compact Gravity Water Filter System** features an ad
 
 Designed with a durable **Dark Mountain Gray** exterior, this filter system is built to withstand rough handling and harsh environments. Its 3-liter capacity makes it suitable for small groups or families, providing enough filtered water for drinking and cooking needs. Furthermore, the compact dimensions and lightweight design (just over half a pound) make it easy to pack and carry, reducing the burden on backpackers. Overall, the LifeStraw Peak Series combines convenience, efficiency, and reliability to meet the demands of outdoor adventurers seeking a trustworthy water filtration solution.
 
-## <a href="https://www.amazon.com/dp/B09285L8JL?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
+## <a href="https://www.amazon.com/dp/B09285L8JL?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
 
 
-<a href="https://www.amazon.com/dp/B09285L8JL?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 5 Stage Filtration, Pack of 2" src="https://m.media-amazon.com/images/I/41ufRbtfHJL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09285L8JL?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 5 Stage Filtration, Pack of 2" src="https://m.media-amazon.com/images/I/41ufRbtfHJL._SL500_.jpg"/></a>
 
 
 The **Waterdrop Gravity Water Filter Straw** is ideal for outdoor enthusiasts, travelers, and anyone preparing for emergencies who needs a reliable and portable water purification system. Whether you’re camping, backpacking, or facing a survival situation, this water filter ensures access to clean, safe drinking water without the need for electricity or complicated setups. Its compact design and ease of use make it perfect for individuals seeking convenience and safety in water filtration.
@@ -228,10 +228,10 @@ The **Waterdrop Gravity Water Filter Straw** features a robust **5-stage filtrat
 
 Its portability is another standout feature; measuring approximately 11 inches in height and just over 3 inches in width, it fits easily into most backpacks without adding significant weight. This makes it an excellent choice for those embarking on long hikes or travel where space and weight are concerns. By providing safe drinking water from natural sources, the Waterdrop filter reduces the need to carry heavy bottled water, promoting hydration convenience and environmental responsibility.
 
-## <a href="https://www.amazon.com/dp/B0047QV0AM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Hiker Microfilter Water Purification Unit</a>
+## <a href="https://www.amazon.com/dp/B0047QV0AM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Katadyn Hiker Microfilter Water Purification Unit</a>
 
 
-<a href="https://www.amazon.com/dp/B0047QV0AM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn 8018270 Hiker Microfilter Water Purification Unit" src="https://m.media-amazon.com/images/I/31mtCEA+XrL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0047QV0AM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Katadyn 8018270 Hiker Microfilter Water Purification Unit" src="https://m.media-amazon.com/images/I/31mtCEA+XrL._SL500_.jpg"/></a>
 
 
 The **Katadyn 8018270 Hiker Microfilter Water Purification Unit** is ideal for outdoor enthusiasts, hikers, campers, and travelers who require a reliable and portable solution for accessing clean drinking water in the wilderness. Anyone who spends extended time in remote areas where water sources may be contaminated will benefit greatly from this efficient and compact **water purification device**.
@@ -254,10 +254,10 @@ The **Katadyn Hiker Microfilter** features an advanced microfiltration membrane 
 
 Additionally, the unit’s durable construction guarantees it will withstand the rigors of outdoor use. The straightforward operation and easy maintenance allow users to filter water quickly and efficiently, minimizing downtime during outdoor activities. Overall, this purification unit combines reliability, convenience, and quality, making it an essential companion for anyone venturing into the great outdoors.
 
-## <a href="https://www.amazon.com/dp/B00QFXGSIY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survivor Filter Pro</a>
+## <a href="https://www.amazon.com/dp/B00QFXGSIY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survivor Filter Pro</a>
 
 
-<a href="https://www.amazon.com/dp/B00QFXGSIY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survivor Filter PRO - Hand Pump Camping Water Filtration System Survival - Water Purifier Survival" src="https://m.media-amazon.com/images/I/31c5SLHf3GL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00QFXGSIY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survivor Filter PRO - Hand Pump Camping Water Filtration System Survival - Water Purifier Survival" src="https://m.media-amazon.com/images/I/31c5SLHf3GL._SL500_.jpg"/></a>
 
 
 The **Survivor Filter PRO - Hand Pump Camping Water Filtration System Survival** is ideal for outdoor enthusiasts, campers, hikers, and survivalists who need a reliable and portable water purification solution. If you often find yourself in remote locations where access to clean water is limited, this compact and efficient water purifier is designed to ensure you have safe drinking water on the go.

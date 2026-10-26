@@ -23,10 +23,10 @@ Size matters too—bags must fit airline size limits for checked or carry-on lug
 
 
 
-## <a href="https://www.amazon.com/dp/B004MOHK44?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cressi Moby 5</a>
+## <a href="https://www.amazon.com/dp/B004MOHK44?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cressi Moby 5</a>
 
 
-<a href="https://www.amazon.com/dp/B004MOHK44?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cressi Moby 5, Black/Red" src="https://m.media-amazon.com/images/I/417S0Vv-4CL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B004MOHK44?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cressi Moby 5, Black/Red" src="https://m.media-amazon.com/images/I/417S0Vv-4CL._SL500_.jpg"/></a>
 
 
 The **Cressi Moby 5, Black/Red** is an ideal choice for both beginner and experienced divers who seek a reliable and comfortable set of fins for their underwater adventures. If you are looking for a durable and efficient fin that offers excellent propulsion and maneuverability, this product is designed to meet your needs. Its lightweight design and ergonomic build make it perfect for divers who value comfort and performance during long dives.
@@ -48,10 +48,10 @@ The **Cressi Moby 5** fins feature a thoughtfully engineered blade design that m
 
 Additionally, the bold **Black/Red color scheme** not only adds a touch of style but also improves visibility in diverse water conditions, making it easier for dive buddies to spot each other. With its balanced dimensions and lightweight profile, the Moby 5 fins offer an excellent blend of power and comfort, making them a versatile choice for a wide range of diving activities from recreational snorkeling to more demanding scuba excursions.
 
-## <a href="https://www.amazon.com/dp/B00I2IH3MK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cressi Gorilla Pro</a>
+## <a href="https://www.amazon.com/dp/B00I2IH3MK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cressi Gorilla Pro</a>
 
 
-<a href="https://www.amazon.com/dp/B00I2IH3MK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cressi Gorilla Pro, Black" src="https://m.media-amazon.com/images/I/41P36dFDFYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00I2IH3MK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cressi Gorilla Pro, Black" src="https://m.media-amazon.com/images/I/41P36dFDFYL._SL500_.jpg"/></a>
 
 
 The **Cressi Gorilla Pro, Black** is ideal for professional divers and serious underwater enthusiasts who demand durability, comfort, and high performance from their diving gear. If you are looking for a reliable, well-designed wetsuit that can withstand challenging underwater conditions, this product is an excellent choice.
@@ -74,10 +74,10 @@ The **Cressi Gorilla Pro** wetsuit features a robust design tailored for profess
 
 One of the key benefits of the **Cressi Gorilla Pro** is its ability to maintain thermal insulation in colder waters, keeping divers warm and comfortable during extended dives. The sleek black finish not only looks professional but also helps with stealth in underwater environments. With Cressi’s reputation for quality, users can trust that this wetsuit delivers consistent performance, making it a valuable investment for serious diving activities.
 
-## <a href="https://www.amazon.com/dp/B0CHTSDWJ5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scubapro Sport Mesh 'n Roll 100 Wheeled Dive Bag</a>
+## <a href="https://www.amazon.com/dp/B0CHTSDWJ5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scubapro Sport Mesh 'n Roll 100 Wheeled Dive Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0CHTSDWJ5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SCUBAPRO Sport Mesh 'N Roll 100 Wheeled Dive Bag with Double Duffel Straps and Adjustable Top Carry Handle for Scuba Diving Gear, Denim Blue Color Fabric" src="https://m.media-amazon.com/images/I/41PjUEOMkfL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CHTSDWJ5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SCUBAPRO Sport Mesh 'N Roll 100 Wheeled Dive Bag with Double Duffel Straps and Adjustable Top Carry Handle for Scuba Diving Gear, Denim Blue Color Fabric" src="https://m.media-amazon.com/images/I/41PjUEOMkfL._SL500_.jpg"/></a>
 
 
 The **SCUBAPRO Sport Mesh 'N Roll 100 Wheeled Dive Bag** is ideal for avid **scuba divers** and water sports enthusiasts who require a durable, spacious, and easy-to-transport bag for their diving gear. Whether you are a professional diver or a recreational one, this **denim blue fabric** bag offers the perfect combination of functionality and style to keep your equipment organized and protected during travel.
@@ -101,10 +101,10 @@ The **SCUBAPRO Sport Mesh 'N Roll 100 Wheeled Dive Bag** boasts a combination of
 
 Additionally, the bag’s **double duffel straps** and **adjustable top carry handle** provide multiple carrying options, allowing users to customize how they transport their gear depending on the situation. The integrated wheels and sturdy base enable effortless rolling across airports, docks, or rocky paths, reducing strain on the user. Overall, this dive bag combines thoughtful design with practical features that benefit divers by enhancing gear protection, portability, and organization during every dive trip.
 
-## <a href="https://www.amazon.com/dp/B00SW0ZEHY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tusa Heavy-duty</a>
+## <a href="https://www.amazon.com/dp/B00SW0ZEHY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tusa Heavy-duty</a>
 
 
-<a href="https://www.amazon.com/dp/B00SW0ZEHY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUSA Heavy-Duty, Black, One Size" src="https://m.media-amazon.com/images/I/41f7WZy7VSL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00SW0ZEHY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="TUSA Heavy-Duty, Black, One Size" src="https://m.media-amazon.com/images/I/41f7WZy7VSL._SL500_.jpg"/></a>
 
 
 The **TUSA Heavy-Duty** item in **Black** and **One Size** is ideal for individuals seeking a reliable and durable product that offers both strength and versatility. Whether you are an outdoor enthusiast, a professional needing robust gear, or someone who values high-quality, long-lasting equipment, this item is designed to meet your needs with its impressive build and functional design.
@@ -126,10 +126,10 @@ The **TUSA Heavy-Duty** item measures **14.0 inches in height**, **18.0 inches i
 
 With a weight of just over **8 pounds**, this item strikes a balance between being heavy-duty and manageable to carry or maneuver. The one-size design eliminates the hassle of sizing concerns, making it a convenient choice for most users. Overall, the **TUSA Heavy-Duty** model offers a combination of quality, strength, and usability that is well-suited for anyone in need of a dependable, long-lasting product.
 
-## <a href="https://www.amazon.com/dp/B07QKB9GTW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bulex Xxl Mesh Duffle Bag</a>
+## <a href="https://www.amazon.com/dp/B07QKB9GTW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bulex Xxl Mesh Duffle Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B07QKB9GTW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bulex XXL Mesh Duffle Bag for Scuba Dive or Snorkel Gear, Extra Large Snorkeling Equipment Carry Bag, Ideal for Beach Pool Swimming Free Diving Kayak Spearfishing" src="https://m.media-amazon.com/images/I/41qmZyGyisL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07QKB9GTW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bulex XXL Mesh Duffle Bag for Scuba Dive or Snorkel Gear, Extra Large Snorkeling Equipment Carry Bag, Ideal for Beach Pool Swimming Free Diving Kayak Spearfishing" src="https://m.media-amazon.com/images/I/41qmZyGyisL._SL500_.jpg"/></a>
 
 
 The **Bulex XXL Mesh Duffle Bag** is perfect for avid **scuba divers**, **snorkelers**, and water sports enthusiasts who need a spacious and durable solution to carry their gear. Whether you’re heading to the **beach**, **pool**, or embarking on activities like **free diving**, **kayaking**, or **spearfishing**, this extra large bag is designed to hold all your essential equipment comfortably.
@@ -151,10 +151,10 @@ The **Bulex XXL Mesh Duffle Bag** features a robust mesh design that promotes ef
 
 Additionally, the bag’s lightweight yet sturdy construction, weighing just under one pound, ensures that it won’t add unnecessary weight to your load. The black color adds a sleek and professional look, while the durable material withstands frequent exposure to water and rough outdoor conditions. Overall, the **Bulex XXL Mesh Duffle Bag** is a practical and reliable choice for anyone serious about their water adventures, making packing and carrying gear effortless and organized.
 
-## <a href="https://www.amazon.com/dp/B01M32S1J5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Akona Globetrotter All-in-one Carry-on Backpack</a>
+## <a href="https://www.amazon.com/dp/B01M32S1J5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Akona Globetrotter All-in-one Carry-on Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B01M32S1J5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AKONA Globetrotter All-in-One Carry-On Backpack - Blue" src="https://m.media-amazon.com/images/I/51etFhwpx9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01M32S1J5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="AKONA Globetrotter All-in-One Carry-On Backpack - Blue" src="https://m.media-amazon.com/images/I/51etFhwpx9L._SL500_.jpg"/></a>
 
 
 The **AKONA Globetrotter All-in-One Carry-On Backpack - Blue** is ideal for frequent travelers, digital nomads, and adventure seekers who need a versatile and compact luggage solution. This backpack is perfect for those who value convenience, durability, and style while navigating airports, city streets, or outdoor excursions. If you want a carry-on that combines the functionality of a backpack with the ease of luggage, this item is an excellent choice.
@@ -177,10 +177,10 @@ The **AKONA Globetrotter All-in-One Carry-On Backpack** offers a smart blend of 
 
 Additionally, the backpack’s durable build and stylish **blue finish** make it suitable for various travel environments, from business trips to outdoor adventures. The all-in-one design means users can easily switch between backpack and carry-on modes, enhancing convenience and adaptability on the go. This makes the AKONA Globetrotter a reliable travel partner for those who prioritize efficiency and style in their luggage choices.
 
-## <a href="https://www.amazon.com/dp/B071WRCMBM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Athletico Scuba Diving Bag</a>
+## <a href="https://www.amazon.com/dp/B071WRCMBM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Athletico Scuba Diving Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B071WRCMBM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Athletico Scuba Diving Bag - XL Mesh Travel Backpack for Scuba Diving and Snorkeling Gear &amp; Equipment - Dry Bag Holds Mask, Fins, Snorkel, and More (Black)" src="https://m.media-amazon.com/images/I/41GCtkwsIeL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B071WRCMBM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Athletico Scuba Diving Bag - XL Mesh Travel Backpack for Scuba Diving and Snorkeling Gear &amp; Equipment - Dry Bag Holds Mask, Fins, Snorkel, and More (Black)" src="https://m.media-amazon.com/images/I/41GCtkwsIeL._SL500_.jpg"/></a>
 
 
 The **Athletico Scuba Diving Bag - XL Mesh Travel Backpack** is ideal for avid **scuba divers** and **snorkeling enthusiasts** who need a reliable and spacious bag to carry their essential gear. Whether you are a beginner or an experienced diver, this bag is perfect for those who want to keep their equipment organized, dry, and easily accessible during their adventures. Its large capacity and durable design make it suitable for frequent travelers and diving professionals alike.
@@ -203,10 +203,10 @@ The **Athletico Scuba Diving Bag** features a large mesh compartment that offers
 
 Additionally, this bag incorporates a dry bag section, which is essential for keeping your valuables and sensitive gear safe from water exposure. The sturdy straps and durable materials used by **Athletico** guarantee long-lasting performance, making this backpack a dependable companion for all your underwater adventures. Whether you are heading to a tropical reef or a local dive site, this travel backpack enhances your packing efficiency and gear protection, ensuring a hassle-free diving experience.
 
-## <a href="https://www.amazon.com/dp/B0CGVH3X8N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scubapro Sport 105 Wheeled Dive Bag</a>
+## <a href="https://www.amazon.com/dp/B0CGVH3X8N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scubapro Sport 105 Wheeled Dive Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B0CGVH3X8N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SCUBAPRO Sport 105 Wheeled Dive Bag with Telescopic Double-Bar Tow Handle, Carry Handles and Double Duffel Straps for Scuba Diving Gear, Denim Blue Color Fabric" src="https://m.media-amazon.com/images/I/31lTC90NGbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CGVH3X8N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SCUBAPRO Sport 105 Wheeled Dive Bag with Telescopic Double-Bar Tow Handle, Carry Handles and Double Duffel Straps for Scuba Diving Gear, Denim Blue Color Fabric" src="https://m.media-amazon.com/images/I/31lTC90NGbL._SL500_.jpg"/></a>
 
 
 The **SCUBAPRO Sport 105 Wheeled Dive Bag** is perfect for avid scuba divers who need a reliable and spacious solution to transport their diving gear. Ideal for both weekend getaway divers and professionals, this bag is designed for those who prioritize durability, convenience, and organization while on the go.
@@ -228,10 +228,10 @@ The **SCUBAPRO Sport 105 Wheeled Dive Bag** boasts a thoughtfully designed teles
 
 Constructed from durable denim blue fabric, this dive bag is built to withstand the rigors of frequent use while maintaining a stylish appearance. Despite its spaciousness, the bag remains lightweight, making it easier for divers to handle their equipment without added strain. Overall, the SCUBAPRO Sport 105 is a smart investment for divers seeking a reliable, functional, and easy-to-transport gear bag.
 
-## <a href="https://www.amazon.com/dp/B0D7GHK48D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scuba Diving Backpack</a>
+## <a href="https://www.amazon.com/dp/B0D7GHK48D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scuba Diving Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0D7GHK48D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Scuba Diving Backpack - 65L Large Travel Backpack for Scuba Diving and Snorkeling Gear &amp; Equipment Holds Snorkel, Fins, and More, Bag Only (Black)" src="https://m.media-amazon.com/images/I/31vRmIq87qL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D7GHK48D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Scuba Diving Backpack - 65L Large Travel Backpack for Scuba Diving and Snorkeling Gear &amp; Equipment Holds Snorkel, Fins, and More, Bag Only (Black)" src="https://m.media-amazon.com/images/I/31vRmIq87qL._SL500_.jpg"/></a>
 
 
 The **Scuba Diving Backpack - 65L Large Travel Backpack** is ideal for avid **scuba divers** and **snorkeling enthusiasts** who need a spacious, durable, and well-organized bag to carry their gear. Whether you are a professional diver or a hobbyist planning your next underwater adventure, this backpack is designed to hold all your essential equipment, including **snorkels**, **fins**, and more, ensuring convenience and protection on the go.
@@ -254,10 +254,10 @@ This **65L scuba diving backpack** is expertly crafted to provide ample space an
 
 Designed with travel in mind, the backpack’s dimensions balance capacity with portability, making it easy to carry to dive sites or on flights. Its ergonomic features reduce shoulder and back strain, allowing you to focus on your underwater experience rather than on lugging heavy bags. This backpack is truly a reliable companion for anyone serious about scuba diving and snorkeling adventures.
 
-## <a href="https://www.amazon.com/dp/B07NV5F92Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mares Cruise Buddy Compact Diving Sports Equipment Luggage Air Travel Roller Bag</a>
+## <a href="https://www.amazon.com/dp/B07NV5F92Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mares Cruise Buddy Compact Diving Sports Equipment Luggage Air Travel Roller Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B07NV5F92Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mares Cruise Buddy Compact Diving Sports Equipment Luggage Air Travel Roller Bag, 87-Liter Capacity" src="https://m.media-amazon.com/images/I/31LaMvMZL9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07NV5F92Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mares Cruise Buddy Compact Diving Sports Equipment Luggage Air Travel Roller Bag, 87-Liter Capacity" src="https://m.media-amazon.com/images/I/31LaMvMZL9L._SL500_.jpg"/></a>
 
 
 The **Mares Cruise Buddy Compact Diving Sports Equipment Luggage Air Travel Roller Bag** is ideal for avid divers and sports enthusiasts who need a reliable, spacious, and portable luggage solution. This bag is perfect for those who frequently travel by air and require a durable, compact, and lightweight option to carry their diving gear and sports equipment with ease and organization.

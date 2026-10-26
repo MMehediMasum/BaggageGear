@@ -22,10 +22,10 @@ Rucking combines walking or running with added weight to build strength and endu
 
 
 
-## <a href="https://www.amazon.com/dp/B0F6CJR42D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
+## <a href="https://www.amazon.com/dp/B0F6CJR42D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Polyfit Rucking Backpack 2.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0F6CJR42D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black" src="https://m.media-amazon.com/images/I/41JupmR5vUL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F6CJR42D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Polyfit Rucking Backpack 2.0 - Weighted Ruck Pack for Weight Plates - Patent Pending Side-Loading Rucksack for Walking, Running, Rucking, Strength and Endurance Training - Black" src="https://m.media-amazon.com/images/I/41JupmR5vUL._SL500_.jpg"/></a>
 
 
 The **Polyfit Rucking Backpack 2.0** is ideal for fitness enthusiasts who want to enhance their walking, running, rucking, or strength training routines by adding weighted resistance. This backpack is perfect for athletes, military personnel, hikers, or anyone looking to improve endurance and build muscle through weighted exercises. If you seek a versatile, durable, and ergonomic ruck pack that can accommodate weight plates conveniently, this product is tailored for you.
@@ -47,10 +47,10 @@ The **Polyfit Rucking Backpack 2.0** boasts a patent-pending side-loading rucksa
 
 Additionally, this weighted ruck pack caters to a wide range of fitness activities such as walking, running, and rucking, making it a versatile training accessory. The adjustable straps provide a custom fit, which is critical for maintaining proper posture and preventing injury while carrying extra weight. Its sleek black color adds a professional look, ensuring it complements any workout gear. Overall, the **Polyfit Rucking Backpack 2.0** offers a practical and effective way to intensify workouts and achieve fitness goals.
 
-## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wolf Tactical Weighted Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CTG35DCF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOLF TACTICAL Weighted Backpack Rucking Backpack for Weight Plates Rucksack for Running Walking Strength Training" src="https://m.media-amazon.com/images/I/41xpDigbPbL._SL500_.jpg"/></a>
 
 
 The **WOLF TACTICAL Weighted Backpack Rucking Backpack** is perfect for fitness enthusiasts, military personnel, and outdoor adventurers who want to enhance their **strength training** through weighted exercises. Ideal for those who enjoy **running**, **walking**, or rucking with added resistance, this backpack is designed to securely hold **weight plates** and improve endurance and muscle conditioning.
@@ -71,10 +71,10 @@ The **WOLF TACTICAL Weighted Backpack** stands out with its specialized design t
 
 Additionally, the tactical black color and sleek dimensions make this rucksack a versatile option for both fitness and outdoor use. While it may not accommodate large amounts of gear, its focused functionality for weighted workouts makes it a valuable tool for anyone serious about improving physical fitness through rucking or weighted walking exercises. Overall, this backpack offers a practical blend of durability, design, and fitness utility.
 
-## <a href="https://www.amazon.com/dp/B0DDZPCXZD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
+## <a href="https://www.amazon.com/dp/B0DDZPCXZD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Rucker 4.0 20l Black</a>
 
 
-<a href="https://www.amazon.com/dp/B0DDZPCXZD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31D5fKhl9DL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DDZPCXZD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Rucker 4.0 20L Black - Purpose Built Rucking Backpack, Military Weight Training Rucksack w/Ruck Plate Pocket and Extra Padded Straps" src="https://m.media-amazon.com/images/I/31D5fKhl9DL._SL500_.jpg"/></a>
 
 
 The **GORUCK Rucker 4.0 20L Black** is designed for fitness enthusiasts, military personnel, and outdoor adventurers who demand a durable and functional backpack. If you are someone who enjoys **rucking** as a form of weight training or requires a reliable pack for rugged environments, this **purpose-built rucking backpack** will meet your needs perfectly.
@@ -96,10 +96,10 @@ The **GORUCK Rucker 4.0** stands out with its military-grade construction, makin
 
 Despite its moderate **20L size**, the backpack is thoughtfully designed to maximize space and organization. The sleek **black color** with matching embroidery not only provides a professional and tactical aesthetic but also ensures durability against wear and tear. Overall, this backpack delivers a perfect balance of functionality, comfort, and style for anyone serious about rucking or demanding outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B07PJMP3LT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yes4all Ruck Weight Plate</a>
+## <a href="https://www.amazon.com/dp/B07PJMP3LT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yes4all Ruck Weight Plate</a>
 
 
-<a href="https://www.amazon.com/dp/B07PJMP3LT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yes4All Ruck Weight Plate, Cast Iron Rucking Plates with Wide Grip for Swings, Squat, Strength, Weighted Vest Training - Multiple Rucking Weights: 10LB to 45LB" src="https://m.media-amazon.com/images/I/41nvKWUajxL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07PJMP3LT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yes4All Ruck Weight Plate, Cast Iron Rucking Plates with Wide Grip for Swings, Squat, Strength, Weighted Vest Training - Multiple Rucking Weights: 10LB to 45LB" src="https://m.media-amazon.com/images/I/41nvKWUajxL._SL500_.jpg"/></a>
 
 
 The **Yes4All Ruck Weight Plate** is ideal for fitness enthusiasts who are looking to enhance their **strength training** and **weighted vest workouts**. Whether you are a beginner or an experienced athlete, this versatile cast iron plate is perfect for those who want to add resistance to exercises like **swings**, **squats**, and **rucking**. It is especially suitable for individuals aiming to improve endurance and build muscle through functional training.
@@ -121,10 +121,10 @@ The **Yes4All Ruck Weight Plate** is designed with a **wide grip** that enhances
 
 With multiple weight options ranging from **10LB to 45LB**, users can progressively increase their training intensity. This flexibility benefits those focused on building strength or improving endurance through weighted vest training. The compact size ensures the plates fit comfortably in rucksacks or vests, enabling versatile training scenarios like rucking or loaded carries, which are essential for functional fitness and military-style workouts.
 
-## <a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ruckercise Rucking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ruckercise Rucking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ruckercise Rucking Backpack - Ridge 21L Rucksack, Engineered for Rucking, Ruck Pack, Weight Plate Backpack, Extra Padding for Running, Walking, Strength Training, Compatible with Yes4All Ruck Weight" src="https://m.media-amazon.com/images/I/41Pu5+aOa2L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DVC4CMJS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ruckercise Rucking Backpack - Ridge 21L Rucksack, Engineered for Rucking, Ruck Pack, Weight Plate Backpack, Extra Padding for Running, Walking, Strength Training, Compatible with Yes4All Ruck Weight" src="https://m.media-amazon.com/images/I/41Pu5+aOa2L._SL500_.jpg"/></a>
 
 
 The **Ruckercise Rucking Backpack - Ridge 21L Rucksack** is ideal for fitness enthusiasts, military personnel, hikers, and anyone looking to enhance their **strength training** and cardiovascular workouts through **rucking**. If you want a durable and comfortable pack that can hold weight plates and withstand rigorous activities like running and walking, this backpack is designed specifically for you.
@@ -147,10 +147,10 @@ The **Ruckercise Ridge 21L Rucksack** is designed to optimize your **rucking exp
 
 Constructed with durability in mind, this rucksack withstands the demands of intense physical activity while maintaining a sleek, minimalistic aesthetic in black. Whether you are training for endurance, strength, or simply seeking a reliable pack for outdoor adventures, the **Ruckercise Rucking Backpack** delivers both function and comfort, making it a valuable addition to your fitness gear.
 
-## <a href="https://www.amazon.com/dp/B0C97P62SD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Outcorps Rucksack Hammer 1.0</a>
+## <a href="https://www.amazon.com/dp/B0C97P62SD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Outcorps Rucksack Hammer 1.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0C97P62SD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Outcorps Rucksack Hammer 1.0. Rucking Backpack with Farmers Carry - Ultra-Premium Weighted Backpack for Rucking Weights - Slick Plate Carrier" src="https://m.media-amazon.com/images/I/41Q-gr5vBgL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C97P62SD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Outcorps Rucksack Hammer 1.0. Rucking Backpack with Farmers Carry - Ultra-Premium Weighted Backpack for Rucking Weights - Slick Plate Carrier" src="https://m.media-amazon.com/images/I/41Q-gr5vBgL._SL500_.jpg"/></a>
 
 
 The **Outcorps Rucksack Hammer 1.0** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who want to enhance their strength and endurance through weighted rucking. If you are looking for a durable, versatile, and ultra-premium **rucking backpack** designed to carry heavy loads comfortably while improving your workout, this backpack is the perfect choice.
@@ -173,10 +173,10 @@ The **Outcorps Rucksack Hammer 1.0** stands out with its specialized design focu
 
 Constructed with durable materials and a tactical all-black finish, this rucksack is built to withstand rigorous use in both urban and outdoor settings. Its compact size ensures it remains comfortable and manageable during extended sessions, while the ergonomic design helps distribute weight evenly, reducing strain on the wearer. Overall, the Outcorps Rucksack Hammer 1.0 merges functionality with premium quality, making it a valuable investment for serious athletes and outdoor professionals alike.
 
-## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
+## <a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goruck Ruck Plate Carrier 3.0</a>
 
 
-<a href="https://www.amazon.com/dp/B0DB4424HH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DB4424HH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GORUCK Ruck Plate Carrier 3.0 - Streamlined Weighted Rucking Backpack w/Ergonomic Back Support &amp; Extra Padded Straps - Compatible with GORUCK Ruck Plates" src="https://m.media-amazon.com/images/I/31-xTZ-ynDL._SL500_.jpg"/></a>
 
 
 The **GORUCK Ruck Plate Carrier 3.0** is ideal for fitness enthusiasts, military personnel, and outdoor adventurers who want a durable and ergonomic way to carry weighted ruck plates. If you're looking to enhance your rucking workouts or need a reliable, streamlined backpack for tactical training, this product is designed to meet your needs with comfort and functionality.
@@ -199,10 +199,10 @@ The **GORUCK Ruck Plate Carrier 3.0** features a compact and sturdy design that 
 
 Constructed by the trusted brand **GORUCK**, this plate carrier is built to last with high-quality materials and precise craftsmanship. Its compatibility with various **GORUCK ruck plates** allows users to easily adjust the load according to their fitness level or mission requirement. Whether you're training for a ruck race or preparing for tactical operations, this backpack provides the perfect balance of functionality, comfort, and durability.
 
-## <a href="https://www.amazon.com/dp/B0F3D9X6XM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Petac Gear Upgraded Weighted Backpack Rucking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0F3D9X6XM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Petac Gear Upgraded Weighted Backpack Rucking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0F3D9X6XM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PETAC GEAR Upgraded Weighted Backpack Rucking Backpack for Weight Plates/Honeycomb Breathable fabric/Belt support/Back support platform (CB)" src="https://m.media-amazon.com/images/I/41ahNbrW3eL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F3D9X6XM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PETAC GEAR Upgraded Weighted Backpack Rucking Backpack for Weight Plates/Honeycomb Breathable fabric/Belt support/Back support platform (CB)" src="https://m.media-amazon.com/images/I/41ahNbrW3eL._SL500_.jpg"/></a>
 
 
 The **PETAC GEAR Upgraded Weighted Backpack Rucking Backpack** is ideal for fitness enthusiasts, military personnel, hikers, and anyone looking to enhance their workout routine with added resistance. If you want a durable and comfortable way to carry extra weight for strength training or long-distance rucking, this backpack is designed to meet those needs with advanced support and breathable materials.
@@ -225,10 +225,10 @@ The **PETAC GEAR Upgraded Weighted Backpack** stands out due to its thoughtful d
 
 Additionally, the integrated **belt support** and **back support platform** work together to stabilize the load and maintain proper posture. This reduces the risk of injury and fatigue, allowing users to focus on their performance. The backpack’s compatibility with various **weight plates** enables customizable resistance, making it a versatile tool for progressive strength training and endurance building.
 
-## <a href="https://www.amazon.com/dp/B0F3D8MMFZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Petac Gear Upgraded Weighted Backpack Rucking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0F3D8MMFZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Petac Gear Upgraded Weighted Backpack Rucking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0F3D8MMFZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PETAC GEAR Upgraded Weighted Backpack Rucking Backpack for Weight Plates/Honeycomb Breathable fabric/Belt support/Back support platform (BK)" src="https://m.media-amazon.com/images/I/41shG5VVJlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F3D8MMFZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PETAC GEAR Upgraded Weighted Backpack Rucking Backpack for Weight Plates/Honeycomb Breathable fabric/Belt support/Back support platform (BK)" src="https://m.media-amazon.com/images/I/41shG5VVJlL._SL500_.jpg"/></a>
 
 
 The **PETAC GEAR Upgraded Weighted Backpack Rucking Backpack** is ideal for fitness enthusiasts, military personnel, hikers, and anyone looking to enhance their strength training or endurance through weighted rucking. Those who want a durable, supportive, and breathable backpack designed specifically to carry weight plates safely and comfortably should consider this item. It is perfect for users who prioritize back support and ergonomic design during their workouts or outdoor adventures.
@@ -251,10 +251,10 @@ The **PETAC GEAR Upgraded Weighted Backpack** incorporates a **honeycomb breatha
 
 Additionally, the integrated **belt support** and **back support platform** are critical features that enhance posture and distribute weight evenly across the back and hips. This ergonomic design minimizes fatigue and risk of strain, making it suitable for extended use. Whether you are building endurance or strength, this backpack supports your goals by combining comfort, durability, and specialized functionality into one high-quality product.
 
-## <a href="https://www.amazon.com/dp/B0D9KRD78V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thefitguy Weighted Backpack For Gym Weight Plate</a>
+## <a href="https://www.amazon.com/dp/B0D9KRD78V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thefitguy Weighted Backpack For Gym Weight Plate</a>
 
 
-<a href="https://www.amazon.com/dp/B0D9KRD78V?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THEFITGUY Weighted Backpack for Gym Weight Plate - for Pushups, Calf Raises, Squats, Wear on Back or Front, Fits Up to 17.5” Diameter, 2.5” Thick Plate, Padded Straps &amp; Secure Buckles - For Home &amp; Gym" src="https://m.media-amazon.com/images/I/31R+tBlct2L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D9KRD78V?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THEFITGUY Weighted Backpack for Gym Weight Plate - for Pushups, Calf Raises, Squats, Wear on Back or Front, Fits Up to 17.5” Diameter, 2.5” Thick Plate, Padded Straps &amp; Secure Buckles - For Home &amp; Gym" src="https://m.media-amazon.com/images/I/31R+tBlct2L._SL500_.jpg"/></a>
 
 
 The **THEFITGUY Weighted Backpack for Gym Weight Plate** is ideal for fitness enthusiasts who want to intensify their workouts by adding extra resistance. Whether you're into **pushups, calf raises, squats**, or need additional weight for various exercises, this backpack is perfect for both home and gym use. It suits anyone looking to enhance strength training with a versatile, comfortable, and secure weight-carrying solution.

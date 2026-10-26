@@ -23,10 +23,10 @@ Sizes vary to fit different laptops and gear. Many have sleek, professional look
 
 
 
-## <a href="https://www.amazon.com/dp/B00XQNS4ZG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio 411069-black Business Excelsior 17" Laptop Backpack/rucksack</a>
+## <a href="https://www.amazon.com/dp/B00XQNS4ZG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio 411069-black Business Excelsior 17" Laptop Backpack/rucksack</a>
 
 
-<a href="https://www.amazon.com/dp/B00XQNS4ZG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ogio 411069-BLACK Business Excelsior 17" src="https://m.media-amazon.com/images/I/51auImOwrqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00XQNS4ZG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ogio 411069-BLACK Business Excelsior 17" src="https://m.media-amazon.com/images/I/51auImOwrqL._SL500_.jpg"/></a>
 
 
 The **Ogio 411069-BLACK Business Excelsior 17" Laptop Backpack/Rucksack** is ideal for professionals and students who require a stylish yet functional way to carry their laptops and business essentials. If you are someone who needs reliable protection for your 17-inch laptop combined with ample storage for documents, gadgets, and accessories, this backpack is designed specifically for you.
@@ -48,10 +48,10 @@ The **Ogio Business Excelsior Backpack** stands out with its professional aesthe
 
 Its ergonomic design with padded shoulder straps ensures comfort even when carrying heavier loads, making it suitable for long hours of wear. The durable materials and well-thought-out dimensions cater perfectly to business professionals who prioritize both function and style in their daily gear. Overall, this backpack is a reliable companion for those seeking to protect their technology while maintaining a sharp business look.
 
-## <a href="https://www.amazon.com/dp/B0076D099Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Renegade Backpack</a>
+## <a href="https://www.amazon.com/dp/B0076D099Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Renegade Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0076D099Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Renegade Backpack (Renegade , Black), Large" src="https://m.media-amazon.com/images/I/41llZ7aQE8L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0076D099Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Renegade Backpack (Renegade , Black), Large" src="https://m.media-amazon.com/images/I/41llZ7aQE8L._SL500_.jpg"/></a>
 
 
 The **OGIO Renegade Backpack (Renegade, Black), Large** is ideal for individuals who need a durable, spacious, and stylish backpack for daily use or travel. Whether you are a student, professional, or outdoor enthusiast, this backpack offers the perfect balance of functionality and design to carry your essentials comfortably and securely.
@@ -72,10 +72,10 @@ The **OGIO Renegade Backpack** stands out with its robust construction and thoug
 
 Additionally, the sleek **black finish** offers a professional and versatile look that fits both casual and formal environments. With a trusted brand backing and practical dimensions, this backpack is a reliable choice for those who prioritize both style and functionality in their everyday carry solutions.
 
-## <a href="https://www.amazon.com/dp/B00HO24YM2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Callaway Axle 17" Laptop Backpack</a>
+## <a href="https://www.amazon.com/dp/B00HO24YM2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Callaway Axle 17" Laptop Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B00HO24YM2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Callaway Axle 17" src="https://m.media-amazon.com/images/I/411WeMi3ShL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00HO24YM2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Callaway Axle 17" src="https://m.media-amazon.com/images/I/411WeMi3ShL._SL500_.jpg"/></a>
 
 
 The **Callaway Axle 17" Laptop Backpack** is ideal for professionals, students, and travelers who need a reliable and stylish way to carry their laptop and essentials. If you are someone who values durability, organization, and comfort while commuting or on the go, this backpack is designed to meet your needs efficiently.
@@ -97,10 +97,10 @@ The **Callaway Axle 17" Laptop Backpack** combines functionality with sleek desi
 
 Crafted by **Callaway Golf** with quality materials from **OGIO**, this backpack stands out for its durability and timeless black finish. Whether you are heading to work, school, or the golf course, the backpack’s multiple compartments help keep your items secure and easily accessible, enhancing your daily routine with convenience and style.
 
-## <a href="https://www.amazon.com/dp/B00AZULAHC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Gambit 17 Day Pack</a>
+## <a href="https://www.amazon.com/dp/B00AZULAHC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Gambit 17 Day Pack</a>
 
 
-<a href="https://www.amazon.com/dp/B00AZULAHC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Gambit 17 Day Pack, Large, Black" src="https://m.media-amazon.com/images/I/41kornGjspL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00AZULAHC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Gambit 17 Day Pack, Large, Black" src="https://m.media-amazon.com/images/I/41kornGjspL._SL500_.jpg"/></a>
 
 
 The **OGIO Gambit 17 Day Pack** is ideal for individuals who need a reliable and spacious backpack for everyday use, whether for work, school, or travel. Its large capacity and durable design make it perfect for professionals, students, and travelers who prioritize both style and functionality in a lightweight and sleek pack.
@@ -123,10 +123,10 @@ The **OGIO Gambit 17 Day Pack** offers a perfect blend of space and lightweight 
 
 Additionally, the sleek black design makes it a versatile accessory that complements various outfits and environments, from professional settings to casual outings. While it lacks specialized tech compartments, its well-thought-out storage options help maintain organization and quick access to frequently used items. Overall, this backpack is a practical choice for anyone in need of a dependable and stylish day pack.
 
-## <a href="https://www.amazon.com/dp/B01DCEVZ90?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Excelsior Carry-on Commuter Backpack</a>
+## <a href="https://www.amazon.com/dp/B01DCEVZ90?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Excelsior Carry-on Commuter Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B01DCEVZ90?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO 411069.03 Black/Silver Excelsior Carry-On Commuter Backpack" src="https://m.media-amazon.com/images/I/51XVgbWahZL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01DCEVZ90?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO 411069.03 Black/Silver Excelsior Carry-On Commuter Backpack" src="https://m.media-amazon.com/images/I/51XVgbWahZL._SL500_.jpg"/></a>
 
 
 The **OGIO 411069.03 Black/Silver Excelsior Carry-On Commuter Backpack** is ideal for professionals, frequent travelers, and commuters who need a reliable, stylish, and functional backpack. If you are someone who values organization, durability, and ease of transport for your daily essentials and tech gear, this backpack is designed to meet your demands.
@@ -148,10 +148,10 @@ The **OGIO Excelsior Carry-On Commuter Backpack** features a thoughtfully design
 
 Additionally, the sleek black and silver aesthetic adds a modern, professional look suitable for business travel or everyday commuting. The ergonomic design supports comfortable wear even during extended use, reducing strain on the shoulders and back. Overall, this backpack blends practicality with style, making it a solid choice for anyone seeking a dependable and efficient carry-on companion.
 
-## <a href="https://www.amazon.com/dp/B00ID62L9Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio 411067 Stratagem Backpack</a>
+## <a href="https://www.amazon.com/dp/B00ID62L9Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio 411067 Stratagem Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B00ID62L9Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO 411067 Stratagem, Computer Laptop/MacBook Pro Backpack, Black" src="https://m.media-amazon.com/images/I/41jf+0HVZlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00ID62L9Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO 411067 Stratagem, Computer Laptop/MacBook Pro Backpack, Black" src="https://m.media-amazon.com/images/I/41jf+0HVZlL._SL500_.jpg"/></a>
 
 
 The **OGIO 411067 Stratagem** is an ideal choice for professionals, students, and tech enthusiasts who require a reliable and stylish **computer laptop backpack**. Designed specifically to accommodate a **MacBook Pro** or similar laptops, this backpack is perfect for those who need to carry their tech gear safely while maintaining a sleek, modern look.
@@ -173,10 +173,10 @@ The **OGIO 411067 Stratagem** backpack offers impressive features that cater to 
 
 With dimensions of **15.0 inches height, 10.5 inches width, and 19.5 inches length**, the backpack balances spaciousness with portability. The ergonomic design, including padded straps and back support, enhances comfort during daily commutes or travel. Overall, the **OGIO Stratagem** combines style, functionality, and durability, making it a great investment for anyone looking to protect their laptop and stay organized on the go.
 
-## <a href="https://www.amazon.com/dp/B08621KX7N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Prospect Backpack</a>
+## <a href="https://www.amazon.com/dp/B08621KX7N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Prospect Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B08621KX7N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Prospect Backpack (Dark Static)" src="https://m.media-amazon.com/images/I/51IXLfTxeFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08621KX7N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Prospect Backpack (Dark Static)" src="https://m.media-amazon.com/images/I/51IXLfTxeFL._SL500_.jpg"/></a>
 
 
 The **OGIO Prospect Backpack (Dark Static)** is ideal for individuals seeking a stylish yet functional backpack for daily use, whether for work, school, or casual outings. Perfect for those who value durability, ample storage, and a modern design, this backpack suits students, professionals, and travelers alike.
@@ -198,10 +198,10 @@ The **OGIO Prospect Backpack** features a thoughtfully designed layout with mult
 
 Additionally, the backpack’s ergonomic design includes padded straps that enhance comfort during prolonged use, reducing strain on the shoulders and back. The **Dark Static** color not only adds an element of style but also helps maintain a clean appearance over time. Overall, the **OGIO Prospect Backpack** combines practicality and aesthetics, making it a smart investment for anyone in need of a versatile and durable backpack.
 
-## <a href="https://www.amazon.com/dp/B09TQR4K6S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Axle Pro Backpack</a>
+## <a href="https://www.amazon.com/dp/B09TQR4K6S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Axle Pro Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B09TQR4K6S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Axle Pro Backpack, Black, Medium" src="https://m.media-amazon.com/images/I/41rfbKdnxNL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09TQR4K6S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Axle Pro Backpack, Black, Medium" src="https://m.media-amazon.com/images/I/41rfbKdnxNL._SL500_.jpg"/></a>
 
 
 The **OGIO Axle Pro Backpack, Black, Medium** is ideal for professionals, students, and travelers who need a durable and stylish backpack with ample storage and organization features. If you seek a reliable backpack that combines functionality with a sleek design, this item is designed to meet your needs.
@@ -222,10 +222,10 @@ The **OGIO Axle Pro Backpack** stands out with its well-thought-out design, feat
 
 Additionally, the backpack's sleek **black color** and modern design make it a versatile accessory suitable for office environments, campus life, or casual outings. Its practical dimensions allow users to comfortably carry laptops, notebooks, and other essentials, enhancing convenience and productivity throughout the day.
 
-## <a href="https://www.amazon.com/dp/B07K727B58?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Callaway Ogio Pace Pro Backpack</a>
+## <a href="https://www.amazon.com/dp/B07K727B58?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Callaway Ogio Pace Pro Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B07K727B58?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Callaway OGIO Pace Pro Backpack (Desert,25)" src="https://m.media-amazon.com/images/I/41D5R8UidFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07K727B58?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Callaway OGIO Pace Pro Backpack (Desert,25)" src="https://m.media-amazon.com/images/I/41D5R8UidFL._SL500_.jpg"/></a>
 
 
 The **Callaway OGIO Pace Pro Backpack (Desert, 25)** is ideal for avid golfers and outdoor enthusiasts who need a durable and stylish backpack to carry their gear comfortably throughout the day. Perfect for those who value both function and fashion, this backpack suits players looking for ample storage, lightweight design, and reliable organization while on the course or during casual outings.
@@ -248,10 +248,10 @@ The **Callaway OGIO Pace Pro Backpack** features a thoughtfully designed structu
 
 Additionally, the backpack’s ergonomic design promotes comfort during long walks, reducing strain on the shoulders and back. Its sleek **Desert color** finish not only offers a modern aesthetic but also helps conceal dirt and wear, maintaining a fresh appearance over time. Overall, this backpack is a reliable choice for golfers seeking a combination of functionality, comfort, and style in their gear-carrying solution.
 
-## <a href="https://www.amazon.com/dp/B0D9PN6PLB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Alpha Venture Pack</a>
+## <a href="https://www.amazon.com/dp/B0D9PN6PLB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ogio Alpha Venture Pack</a>
 
 
-<a href="https://www.amazon.com/dp/B0D9PN6PLB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Alpha Venture Pack, Black, Standard" src="https://m.media-amazon.com/images/I/31istu3rvBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D9PN6PLB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OGIO Alpha Venture Pack, Black, Standard" src="https://m.media-amazon.com/images/I/31istu3rvBL._SL500_.jpg"/></a>
 
 
 The **OGIO Alpha Venture Pack** in **Black** is ideal for professionals and students seeking a stylish yet functional backpack. Its standard size and sleek design make it perfect for daily commuting, business trips, or campus use, providing ample space without being bulky. Those who value organization and durability in their gear will find this backpack particularly beneficial.

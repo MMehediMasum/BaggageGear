@@ -22,10 +22,10 @@ These backpacks include survival blankets, first aid kits, and emergency food. O
 
 
 
-## <a href="https://www.amazon.com/dp/B000FJQQVI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70280 72 Hour Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B000FJQQVI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70280 72 Hour Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B000FJQQVI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70280 72 Hour Emergency Kit, 2-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Portable Preparedness Go-Bag for Camping, Car, Earthquake, Travel, Hiking, and Hunting, Red" src="https://m.media-amazon.com/images/I/51hovCbVNlL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B000FJQQVI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70280 72 Hour Emergency Kit, 2-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Portable Preparedness Go-Bag for Camping, Car, Earthquake, Travel, Hiking, and Hunting, Red" src="https://m.media-amazon.com/images/I/51hovCbVNlL._SL500_.jpg"/></a>
 
 
 The **Ready America 70280 72 Hour Emergency Kit** is ideal for individuals or couples who want to be prepared for unexpected situations such as natural disasters, camping trips, or outdoor adventures. This **2-person, 3-day backpack** is perfect for those who prioritize safety and convenience while on the go, whether in an earthquake-prone area, on a hiking trail, or traveling.
@@ -47,10 +47,10 @@ The **Ready America 70280** kit offers a well-rounded set of essentials packed i
 
 Its design as a **portable preparedness go-bag** makes it suitable for a wide range of scenarios, from natural disasters like earthquakes to recreational activities such as hiking and hunting. The **bright red color** improves visibility, which is crucial during emergencies. Overall, this kit is a reliable companion for anyone seeking peace of mind through practical and accessible emergency supplies.
 
-## <a href="https://www.amazon.com/dp/B00A387958?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 72 Hour Deluxe Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B00A387958?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 72 Hour Deluxe Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B00A387958?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 72 Hour Deluxe Emergency Kit, 2-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/61oQnm-4g6L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00A387958?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 72 Hour Deluxe Emergency Kit, 2-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/61oQnm-4g6L._SL500_.jpg"/></a>
 
 
 The **Ready America 72 Hour Deluxe Emergency Kit** is ideal for individuals or families looking to be fully prepared for unexpected disasters such as earthquakes, fires, or floods. This **2-person 3-day backpack** is perfect for those who want a comprehensive, portable solution that includes essential survival tools and supplies to sustain themselves during critical situations.
@@ -72,10 +72,10 @@ The **Ready America 72 Hour Deluxe Emergency Kit** stands out for its thoughtful
 
 Additionally, the kit’s compact and lightweight design makes it easy to carry or store in a convenient location, such as a car trunk or home closet. The **emergency food** included provides essential nutrition for up to three days, supporting energy levels until help arrives or the situation stabilizes. Overall, this well-rounded emergency kit delivers peace of mind and practical preparedness for those who prioritize safety in unpredictable situations.
 
-## <a href="https://www.amazon.com/dp/B00475B96S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70180 72 Hour Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B00475B96S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70180 72 Hour Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B00475B96S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/51Jm6H1a6iL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00475B96S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/51Jm6H1a6iL._SL500_.jpg"/></a>
 
 
 The **Ready America 70180 72 Hour Emergency Kit** is ideal for individuals who want to be well-prepared for unexpected disasters such as earthquakes, fires, or floods. It is perfect for single users looking for a compact, portable solution to ensure safety and survival during emergencies, especially those living in disaster-prone areas or frequently engaging in outdoor activities.
@@ -97,10 +97,10 @@ The **Ready America 70180 72 Hour Emergency Kit** offers a thoughtfully curated 
 
 Beyond portability, the kit’s inclusion of a **survival blanket** helps maintain body heat, which is crucial in cold or wet conditions. The emergency food included supports basic nutrition needs, providing energy when access to regular meals is impossible. Together, these features give users peace of mind and a practical solution to navigate the uncertain hours following an emergency, making it a reliable companion for anyone serious about preparedness.
 
-## <a href="https://www.amazon.com/dp/B0D2H6CMDC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
+## <a href="https://www.amazon.com/dp/B0D2H6CMDC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B0D2H6CMDC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Survival Shovel w/Pick, Bug Out Bag Gifts for Men Women" src="https://m.media-amazon.com/images/I/51m9zaPqSsL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D2H6CMDC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Survival Shovel w/Pick, Bug Out Bag Gifts for Men Women" src="https://m.media-amazon.com/images/I/51m9zaPqSsL._SL500_.jpg"/></a>
 
 
 The **Survival Kit, 262Pcs Survival Gear and Supplies** is ideal for outdoor enthusiasts, campers, hikers, and anyone preparing for emergencies. Whether you are a seasoned adventurer or someone who values being prepared for unexpected situations, this comprehensive kit offers essential tools and supplies to ensure safety and convenience in the wilderness or during emergencies.
@@ -123,10 +123,10 @@ This **262-piece survival kit** by **RIKOJUXI** is thoughtfully designed to cove
 
 The kit's well-rounded collection of survival gear enhances safety and preparedness, giving users peace of mind during their adventures. Its robust design and variety of tools make it an excellent choice for anyone looking to invest in a reliable and comprehensive **emergency kit**. Whether for camping, hiking, or emergency preparedness, this kit balances functionality with convenience, supporting users in navigating challenging environments effectively.
 
-## <a href="https://www.amazon.com/dp/B08GR4GQ5P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">238pcs Emergency Survival Kit And First Aid Kit</a>
+## <a href="https://www.amazon.com/dp/B08GR4GQ5P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">238pcs Emergency Survival Kit And First Aid Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B08GR4GQ5P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="238Pcs Emergency Survival Kit and First Aid Kit, Professional Survival Gear Tool with Tactical Molle Pouch and Emergency Tent for Earthquake, Outdoor Adventure, Camping, Hiking, Hunting" src="https://m.media-amazon.com/images/I/51+U+OUHAwL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08GR4GQ5P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="238Pcs Emergency Survival Kit and First Aid Kit, Professional Survival Gear Tool with Tactical Molle Pouch and Emergency Tent for Earthquake, Outdoor Adventure, Camping, Hiking, Hunting" src="https://m.media-amazon.com/images/I/51+U+OUHAwL._SL500_.jpg"/></a>
 
 
 The **238Pcs Emergency Survival Kit and First Aid Kit** is ideal for outdoor enthusiasts, campers, hikers, hunters, and anyone seeking comprehensive emergency preparedness. If you participate in outdoor adventures or want to be ready for unexpected situations like earthquakes, this professional survival gear tool is designed to meet your needs with its extensive range of survival essentials.
@@ -150,10 +150,10 @@ Featuring a comprehensive selection of **survival and first aid tools**, this ki
 
 The kit’s design focuses on portability and durability, catering to users who demand reliable gear during their outdoor activities. The robust construction from the **TAIMASI brand** guarantees that the tools will perform well under challenging conditions. Whether you’re embarking on a hiking trip or preparing for unexpected emergencies at home, this survival kit provides peace of mind through its versatility and comprehensive contents.
 
-## <a href="https://www.amazon.com/dp/B00149O23M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70380 72 Hour Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B00149O23M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ready America 70380 72 Hour Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B00149O23M?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70380 72 Hour Emergency Kit, 4-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/51gTphNum9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00149O23M?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ready America 70380 72 Hour Emergency Kit, 4-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disaster Preparedness Go-Bag for Earthquake, Fire, Flood" src="https://m.media-amazon.com/images/I/51gTphNum9L._SL500_.jpg"/></a>
 
 
 The **Ready America 70380 72 Hour Emergency Kit** is ideal for individuals or families looking to be prepared for unexpected disasters such as earthquakes, fires, or floods. This comprehensive **4-person, 3-day backpack** is designed for those who want a reliable, portable solution to emergency preparedness without having to assemble their own supplies. Whether you live in a disaster-prone area or simply want peace of mind, this kit offers essential survival tools and provisions.
@@ -176,10 +176,10 @@ The **Ready America 70380 Emergency Kit** is thoughtfully packed with essential 
 
 Additionally, the kit’s focus on portability and visibility with its bright red color enhances its usefulness in crisis scenarios. Being lightweight and easy to grab means users can evacuate swiftly if needed. The pre-packaged emergency food and water supplies provide vital sustenance, reducing the stress of sourcing nourishment during disasters. Overall, this **survival go-bag** combines practicality with reliability, making it a valuable investment for anyone serious about disaster preparedness.
 
-## <a href="https://www.amazon.com/dp/B084D3GT9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Blue Coolers Blue Seventy-two</a>
+## <a href="https://www.amazon.com/dp/B084D3GT9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Blue Coolers Blue Seventy-two</a>
 
 
-<a href="https://www.amazon.com/dp/B084D3GT9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Blue Coolers Blue Seventy-Two | 72 Hour Emergency Backpack Survival Kit for 1 Person | Survival Kit for Wildfires, Earthquakes, Tornado, Hurricane, and Other Emergencies…" src="https://m.media-amazon.com/images/I/51k5QhrDGOL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B084D3GT9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Blue Coolers Blue Seventy-Two | 72 Hour Emergency Backpack Survival Kit for 1 Person | Survival Kit for Wildfires, Earthquakes, Tornado, Hurricane, and Other Emergencies…" src="https://m.media-amazon.com/images/I/51k5QhrDGOL._SL500_.jpg"/></a>
 
 
 The **Blue Coolers Blue Seventy-Two** is ideal for individuals who want to be fully prepared for emergencies such as **wildfires, earthquakes, tornadoes, and hurricanes**. This compact and lightweight **72 Hour Emergency Backpack Survival Kit** is perfect for one person seeking a reliable, all-in-one solution to stay safe during unexpected disasters. Whether you are an outdoor enthusiast, a city dweller, or someone living in disaster-prone areas, this survival kit offers essential supplies to sustain you for three days.
@@ -202,10 +202,10 @@ The **Blue Coolers Blue Seventy-Two** survival kit features a thoughtfully desig
 
 Users benefit greatly from the organization and completeness of the kit, which reduces the stress and uncertainty during emergencies. The **Blue Coolers Blue Seventy-Two** allows individuals to focus on safety and survival rather than scrambling for supplies. Its versatility across various disaster scenarios means it is a dependable choice for anyone looking to enhance their emergency preparedness with a compact, reliable, and efficient solution.
 
-## <a href="https://www.amazon.com/dp/B0CZ1W1GX4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Blue Seventy-two Pro Series Red Deluxe 72 Hour Emergency Backpack Survival Kit</a>
+## <a href="https://www.amazon.com/dp/B0CZ1W1GX4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Blue Seventy-two Pro Series Red Deluxe 72 Hour Emergency Backpack Survival Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B0CZ1W1GX4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Blue Seventy-Two - Pro Series - Red Deluxe 72 Hour Emergency Backpack Survival Kit for 1 Person | Survival Kit for Emergencies (Includes Water Tablets)" src="https://m.media-amazon.com/images/I/51+RtaZK+9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CZ1W1GX4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Blue Seventy-Two - Pro Series - Red Deluxe 72 Hour Emergency Backpack Survival Kit for 1 Person | Survival Kit for Emergencies (Includes Water Tablets)" src="https://m.media-amazon.com/images/I/51+RtaZK+9L._SL500_.jpg"/></a>
 
 
 The **Blue Seventy-Two - Pro Series - Red Deluxe 72 Hour Emergency Backpack Survival Kit** is ideal for individuals who want to be thoroughly prepared for unexpected emergencies. Whether you are an outdoor enthusiast, a frequent traveler, or someone living in an area prone to natural disasters, this **survival kit** provides essential supplies to sustain one person for 72 hours, ensuring safety and peace of mind during critical situations.
@@ -228,10 +228,10 @@ This **emergency backpack survival kit** is thoughtfully packed with essential i
 
 In addition to its practical size and visibility, the kit's contents are curated to sustain an individual for up to 72 hours, covering nutrition, hydration, and first aid. This comprehensive approach not only enhances the user's ability to manage immediate dangers but also reduces stress during crises by providing peace of mind. The Blue Seventy-Two Pro Series kit is a reliable companion for anyone serious about survival readiness and personal safety.
 
-## <a href="https://www.amazon.com/dp/B09XGR37PJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
+## <a href="https://www.amazon.com/dp/B09XGR37PJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Survival Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B09XGR37PJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor Adventure, Hiking, Hunting, Gifts for Men Women" src="https://m.media-amazon.com/images/I/5162V+tIrzL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09XGR37PJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor Adventure, Hiking, Hunting, Gifts for Men Women" src="https://m.media-amazon.com/images/I/5162V+tIrzL._SL500_.jpg"/></a>
 
 
 The **Survival Kit, 250Pcs Survival Gear First Aid Kit** with a **Molle System Compatible Bag** and **Emergency Tent** is ideal for outdoor enthusiasts, hikers, hunters, and anyone preparing for emergencies such as earthquakes. This comprehensive kit is perfect for both men and women who value preparedness and want a reliable, all-in-one solution to handle unexpected situations in the wilderness or during natural disasters.
@@ -255,10 +255,10 @@ The **HIHEGD Survival Kit** stands out for its extensive range of survival gear 
 
 Weighing just over 4 pounds, this kit balances portability with functionality, making it an excellent companion for a variety of outdoor activities. Every item included serves a specific purpose, equipping users to handle medical emergencies, basic repairs, and survival needs. The **B-Camo-Brown** color enhances the stealth and blending capability, appealing especially to hunters and tactical enthusiasts who require discretion in the wild.
 
-## <a href="https://www.amazon.com/dp/B09222QCH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Everlit Earthquake Emergency Kit</a>
+## <a href="https://www.amazon.com/dp/B09222QCH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Everlit Earthquake Emergency Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B09222QCH4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EVERLIT 72 Hours 3 Day Earthquake Emergency Kit Bugout Go Bag Emergency Kit Survival Kit Backpack for Family, Preparedness for Hurricanes, Floods, Tsunami, Other Disasters" src="https://m.media-amazon.com/images/I/51yN2vfxq-L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09222QCH4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EVERLIT 72 Hours 3 Day Earthquake Emergency Kit Bugout Go Bag Emergency Kit Survival Kit Backpack for Family, Preparedness for Hurricanes, Floods, Tsunami, Other Disasters" src="https://m.media-amazon.com/images/I/51yN2vfxq-L._SL500_.jpg"/></a>
 
 
 The **EVERLIT 72 Hours 3 Day Earthquake Emergency Kit** is perfect for individuals and families who want to be well-prepared for natural disasters such as **earthquakes, hurricanes, floods, and tsunamis**. This comprehensive **survival kit backpack** is ideal for those living in disaster-prone areas or anyone seeking peace of mind by having essential emergency supplies ready to sustain them for up to three days.

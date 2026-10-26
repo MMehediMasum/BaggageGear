@@ -23,10 +23,10 @@ For tougher tasks, the Gerber Pack Hatchet handles chopping and survival needs. 
 
 
 
-## <a href="https://www.amazon.com/dp/B091SV4D1F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tapirus Spork Tactical Orange</a>
+## <a href="https://www.amazon.com/dp/B091SV4D1F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Tapirus Spork Tactical Orange</a>
 
 
-<a href="https://www.amazon.com/dp/B091SV4D1F?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Tapirus Spork Tactical Orange | BPA Free Spoon Fork, Stainless Steel Knife and Fire Starter | 3 in 1 multipurpose utensil | Outdoor hiking, camping &amp; backpacking gear | Fit for MRE" src="https://m.media-amazon.com/images/I/413-uwwRpfL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B091SV4D1F?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Tapirus Spork Tactical Orange | BPA Free Spoon Fork, Stainless Steel Knife and Fire Starter | 3 in 1 multipurpose utensil | Outdoor hiking, camping &amp; backpacking gear | Fit for MRE" src="https://m.media-amazon.com/images/I/413-uwwRpfL._SL500_.jpg"/></a>
 
 
 The **Tapirus Spork Tactical Orange** is ideal for outdoor enthusiasts who need a compact, durable, and multifunctional utensil. Whether you are into **hiking**, **camping**, **backpacking**, or require reliable gear for your **MRE** meals, this 3-in-1 tool combines convenience and practicality. Its lightweight design and bright orange color make it perfect for anyone who values both functionality and visibility in outdoor settings.
@@ -49,10 +49,10 @@ The **Tapirus Spork Tactical Orange** stands out as a thoughtfully designed uten
 
 Beyond convenience, the use of **BPA free** materials and durable **stainless steel** ensures that the utensil is safe for food contact and built to withstand rough outdoor conditions. The fire starter feature adds an essential survival element, making this tool more than just an eating utensil. It’s an excellent choice for those who want to maximize efficiency and reliability in their outdoor gear without carrying multiple separate items.
 
-## <a href="https://www.amazon.com/dp/B074DDCW8B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Combat Wipes Active Outdoor Wet Wipes</a>
+## <a href="https://www.amazon.com/dp/B074DDCW8B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Combat Wipes Active Outdoor Wet Wipes</a>
 
 
-<a href="https://www.amazon.com/dp/B074DDCW8B?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Combat Wipes ACTIVE Outdoor Wet Wipes - Extra Thick Camping Gear, Biodegradable, Body &amp; Hand Cleansing/Refreshing Cloths for Backpacking &amp; Gym w/Natural Aloe &amp; Vitamin E (25 Wipes)" src="https://m.media-amazon.com/images/I/41wOd+TWUtL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B074DDCW8B?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Combat Wipes ACTIVE Outdoor Wet Wipes - Extra Thick Camping Gear, Biodegradable, Body &amp; Hand Cleansing/Refreshing Cloths for Backpacking &amp; Gym w/Natural Aloe &amp; Vitamin E (25 Wipes)" src="https://m.media-amazon.com/images/I/41wOd+TWUtL._SL500_.jpg"/></a>
 
 
 The **Combat Wipes ACTIVE Outdoor Wet Wipes** are ideal for outdoor enthusiasts, backpackers, gym-goers, and anyone needing a convenient and effective way to cleanse and refresh their body and hands on the go. These wipes are perfect for those who value hygiene while camping, hiking, or engaging in any outdoor activity where traditional washing facilities might not be available.
@@ -74,10 +74,10 @@ The **Combat Wipes ACTIVE Outdoor Wet Wipes** feature an extra thick design that
 
 These wipes are thoughtfully sized and packaged to be portable yet functional, weighing just around 0.37 pounds and fitting comfortably in backpacks or gym bags. Their versatility for both body and hand cleansing makes them an essential item for anyone looking to stay clean and refreshed during outdoor adventures or intense workouts. Overall, the combination of durability, skin-friendly ingredients, and eco-conscious design makes these wipes a practical and appealing choice for active individuals.
 
-## <a href="https://www.amazon.com/dp/B01K1TX77W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Rainleaf Microfiber Towel</a>
+## <a href="https://www.amazon.com/dp/B01K1TX77W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Rainleaf Microfiber Towel</a>
 
 
-<a href="https://www.amazon.com/dp/B01K1TX77W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Rainleaf Microfiber Towel Perfect Travel &amp; Gym &amp; Camping Towel. Quick Dry - Super Absorbent - Ultra Compact - Lightweight. Suitable for Trip, Beach, Shower, Backpacking, Pool" src="https://m.media-amazon.com/images/I/41MBFZCaRqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01K1TX77W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Rainleaf Microfiber Towel Perfect Travel &amp; Gym &amp; Camping Towel. Quick Dry - Super Absorbent - Ultra Compact - Lightweight. Suitable for Trip, Beach, Shower, Backpacking, Pool" src="https://m.media-amazon.com/images/I/41MBFZCaRqL._SL500_.jpg"/></a>
 
 
 The **Rainleaf Microfiber Towel** is an ideal choice for travelers, gym enthusiasts, campers, and anyone who needs a reliable, quick-drying towel on the go. If you frequently engage in outdoor activities like hiking, backpacking, or beach trips, or you require a compact and lightweight towel for your daily gym sessions or pool visits, this towel is designed to meet your needs efficiently.
@@ -99,10 +99,10 @@ Crafted from high-quality microfiber, the **Rainleaf Microfiber Towel** offers e
 
 Additionally, the towel's quick-dry feature helps prevent the growth of bacteria and unpleasant odors, ensuring a fresh experience every time. The durable fabric is not only soft against the skin but also designed to withstand frequent use and washing. This combination of convenience, performance, and durability makes the **Rainleaf Microfiber Towel** a versatile and valuable item for anyone looking to stay dry and comfortable during their adventures.
 
-## <a href="https://www.amazon.com/dp/B07DTHCDVR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gerber Gear Pack Hatchet</a>
+## <a href="https://www.amazon.com/dp/B07DTHCDVR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gerber Gear Pack Hatchet</a>
 
 
-<a href="https://www.amazon.com/dp/B07DTHCDVR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gerber Gear Pack Hatchet - 3.5" src="https://m.media-amazon.com/images/I/31pMKou5EcL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07DTHCDVR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gerber Gear Pack Hatchet - 3.5" src="https://m.media-amazon.com/images/I/31pMKou5EcL._SL500_.jpg"/></a>
 
 
 The **Gerber Gear Pack Hatchet** is ideal for outdoor enthusiasts such as campers, survivalists, and bushcraft practitioners who need a reliable, compact, and durable cutting tool. If you are someone who values efficient gear that can handle chopping tasks in the wilderness without adding bulk to your pack, this hatchet is designed specifically for you.
@@ -125,10 +125,10 @@ The **Gerber Gear Pack Hatchet** features a robust **3.5-inch steel blade** that
 
 In addition to its strength, the hatchet’s lightweight profile and compact size make it highly portable, which is essential for backpackers and campers who must manage limited space and weight. The included mountable nylon sheath provides added convenience and safety, allowing users to securely carry the hatchet on their gear without fear of accidental injury. Overall, this hatchet balances functionality, durability, and portability, making it a valuable addition to any outdoor gear collection.
 
-## <a href="https://www.amazon.com/dp/B07MKBKN4H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fly2sky Tent Lamp</a>
+## <a href="https://www.amazon.com/dp/B07MKBKN4H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fly2sky Tent Lamp</a>
 
 
-<a href="https://www.amazon.com/dp/B07MKBKN4H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FLY2SKY Tent Lamp 4 Packs Portable LED Tent Lights Clip Hook Hurricane Emergency Lights LED Camping Lights Bulb Camping Lanterns Camping Equipment for Camping Hiking Backpacking Outage" src="https://m.media-amazon.com/images/I/410oJDuQFdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07MKBKN4H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FLY2SKY Tent Lamp 4 Packs Portable LED Tent Lights Clip Hook Hurricane Emergency Lights LED Camping Lights Bulb Camping Lanterns Camping Equipment for Camping Hiking Backpacking Outage" src="https://m.media-amazon.com/images/I/410oJDuQFdL._SL500_.jpg"/></a>
 
 
 The **FLY2SKY Tent Lamp 4 Packs** is ideal for outdoor enthusiasts who need reliable, portable lighting solutions. Whether you are into **camping**, **hiking**, **backpacking**, or preparing for emergencies like power outages, this product is designed to provide bright, efficient illumination in any setting. If you value convenience, durability, and versatility in your lighting equipment, this set is perfect for you.
@@ -150,10 +150,10 @@ The **FLY2SKY Tent Lamp** features a compact and lightweight design, making it e
 
 Designed for durability and convenience, these **LED camping lights** provide steady, energy-efficient lighting that is essential for safe navigation and comfortable living outdoors. With four lamps in each pack, you can illuminate multiple areas simultaneously or share with fellow campers. Additionally, their functionality as emergency lights makes them a valuable tool for unexpected power outages or severe weather conditions, offering peace of mind in any situation.
 
-## <a href="https://www.amazon.com/dp/B07FMFGGNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiluckey Solar Charger</a>
+## <a href="https://www.amazon.com/dp/B07FMFGGNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiluckey Solar Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B07FMFGGNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiluckey Solar Charger 25000mAh, Outdoor USB C Portable Power Bank with 4 Solar Panels, 3A Fast Charge External Battery Pack with 3 USB Outputs Compatible with Smartphones, Tablets, etc." src="https://m.media-amazon.com/images/I/51qJdbpqXYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07FMFGGNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiluckey Solar Charger 25000mAh, Outdoor USB C Portable Power Bank with 4 Solar Panels, 3A Fast Charge External Battery Pack with 3 USB Outputs Compatible with Smartphones, Tablets, etc." src="https://m.media-amazon.com/images/I/51qJdbpqXYL._SL500_.jpg"/></a>
 
 
 The **Hiluckey Solar Charger 25000mAh** is ideal for outdoor enthusiasts, travelers, and anyone who needs reliable, portable power on the go. If you frequently spend time camping, hiking, or in remote areas without easy access to electricity, this **solar-powered USB C portable power bank** offers a practical solution to keep your devices charged. It's especially suited for those who use multiple gadgets like **smartphones, tablets**, and other USB-compatible devices while off the grid.
@@ -176,10 +176,10 @@ The **Hiluckey Solar Charger** features a robust **25000mAh external battery pac
 
 Designed with portability in mind, this power bank weighs just **1.21 pounds** and measures 6.18 inches in length, making it easy to pack in a backpack or carry around. The **3A fast charge** feature minimizes downtime by quickly replenishing your device’s battery. Overall, the **Hiluckey Solar Charger** combines high capacity, multiple charging options, and solar convenience, making it a dependable companion for anyone needing power on the move.
 
-## <a href="https://www.amazon.com/dp/B086QNLBB4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
+## <a href="https://www.amazon.com/dp/B086QNLBB4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Waterdrop Gravity Water Filter Straw</a>
 
 
-<a href="https://www.amazon.com/dp/B086QNLBB4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, 5 Stage Filtration" src="https://m.media-amazon.com/images/I/41qiFymeklL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B086QNLBB4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Waterdrop Gravity Water Filter Straw, Camping Water Filtration System, Water Purifier Survival for Travel, Backpacking and Emergency Preparedness, 1.5 gal Bag, 0.1 Micron, 5 Stage Filtration" src="https://m.media-amazon.com/images/I/41qiFymeklL._SL500_.jpg"/></a>
 
 
 The **Waterdrop Gravity Water Filter Straw** is ideal for outdoor enthusiasts, campers, backpackers, and anyone preparing for emergencies. If you need a reliable and portable **water purification system** that can provide safe drinking water from natural sources during travel or survival situations, this product is designed for you. Its compact size and efficient filtration make it perfect for those who prioritize health and convenience while on the go.
@@ -202,10 +202,10 @@ The **Waterdrop Gravity Water Filter Straw** is engineered with a **5-stage filt
 
 Its gravity-based design allows water to flow naturally through the filter into the attached **1.5-gallon bag**, enabling hands-free operation without the need for manual pumping. This feature not only simplifies the purification process but also conserves energy, making it ideal for extended trips. Additionally, the lightweight and compact construction means it can be easily packed without adding bulk, making it a practical choice for backpackers and travelers who require reliable hydration solutions.
 
-## <a href="https://www.amazon.com/dp/B003B678VO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gear Aid Sewing Kit</a>
+## <a href="https://www.amazon.com/dp/B003B678VO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gear Aid Sewing Kit</a>
 
 
-<a href="https://www.amazon.com/dp/B003B678VO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GEAR AID Sewing Kit with Heavy-Duty Needles and Thread for Outdoor Gear Repairs, 19-Piece" src="https://m.media-amazon.com/images/I/41kCU-XjLYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B003B678VO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GEAR AID Sewing Kit with Heavy-Duty Needles and Thread for Outdoor Gear Repairs, 19-Piece" src="https://m.media-amazon.com/images/I/41kCU-XjLYL._SL500_.jpg"/></a>
 
 
 The **GEAR AID Sewing Kit with Heavy-Duty Needles and Thread** is ideal for outdoor enthusiasts, campers, hikers, and anyone who frequently uses outdoor gear that may require quick repairs. If you need a reliable and compact solution to mend tents, backpacks, jackets, or other durable fabrics while on the go, this 19-piece kit is designed to keep your gear in top condition without hassle.
@@ -228,10 +228,10 @@ The **GEAR AID Sewing Kit** is thoughtfully designed to handle the rigors of out
 
 Constructed with quality in mind, the kit’s durable black case not only organizes the 19 essential pieces but also protects them from moisture and dirt. The brand’s reputation for producing reliable repair products adds extra confidence for users who need a dependable solution in remote locations. Whether patching a tent or reinforcing a backpack strap, this kit offers practical benefits that extend the life of your outdoor gear.
 
-## <a href="https://www.amazon.com/dp/B095K6PQ1T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Frelaxy Dry Bag</a>
+## <a href="https://www.amazon.com/dp/B095K6PQ1T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Frelaxy Dry Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B095K6PQ1T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Frelaxy Dry Bag 3-Pack/5-Pack, Ultralight Dry Sack, Outdoor Bags Keep Gear Dry for Hiking, Backpacking, Kayaking, Camping, Swimming, Boating" src="https://m.media-amazon.com/images/I/41tbddTkGWS._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B095K6PQ1T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Frelaxy Dry Bag 3-Pack/5-Pack, Ultralight Dry Sack, Outdoor Bags Keep Gear Dry for Hiking, Backpacking, Kayaking, Camping, Swimming, Boating" src="https://m.media-amazon.com/images/I/41tbddTkGWS._SL500_.jpg"/></a>
 
 
 The **Frelaxy Dry Bag 3-Pack/5-Pack** is ideal for outdoor enthusiasts who need reliable protection for their gear against water exposure. Whether you are into **hiking, backpacking, kayaking, camping, swimming, or boating**, this ultralight dry sack set is perfect for anyone who wants to keep their belongings dry and safe during adventures. It is especially suited for those who prioritize lightweight, compact, and durable storage solutions.
@@ -253,10 +253,10 @@ The **Frelaxy Dry Bags** are crafted with high-quality materials to provide exce
 
 Additionally, the dry sacks’ generous dimensions allow for storing essential items such as clothes, electronics, and food supplies securely. This feature is particularly beneficial for extended trips where keeping belongings dry is crucial. Overall, the **Frelaxy Dry Bag** set combines functionality, convenience, and durability, making it a reliable choice for outdoor adventurers.
 
-## <a href="https://www.amazon.com/dp/B07F2VP353?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire-maple Fixed Star 1 Backpacking And Camping Stove System</a>
+## <a href="https://www.amazon.com/dp/B07F2VP353?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire-maple Fixed Star 1 Backpacking And Camping Stove System</a>
 
 
-<a href="https://www.amazon.com/dp/B07F2VP353?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/21pbDX0i27L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07F2VP353?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/21pbDX0i27L._SL500_.jpg"/></a>
 
 
 The **Fire-Maple "Fixed Star 1" Backpacking and Camping Stove System** is perfect for outdoor enthusiasts who need reliable and efficient cooking gear on the go. Ideal for **hiking, trekking, fishing, hunting trips**, and even **emergency use**, this portable stove is designed for those who value lightweight, compact, and durable equipment to prepare meals in the wilderness or during unexpected situations.

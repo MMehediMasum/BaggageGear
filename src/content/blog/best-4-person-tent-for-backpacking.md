@@ -20,10 +20,10 @@ Some models include extra vestibules for gear storage. Look for tents designed f
 
 
 
-## <a href="https://www.amazon.com/dp/B082GT1BVZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Polaris Lightweight Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B082GT1BVZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Polaris Lightweight Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B082GT1BVZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Polaris Lightweight Backpacking Tent - 4 Person Ultralight Waterproof Camping Tent, 3 Season Large Size Easy Setup Tent for Family, Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B082GT1BVZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Polaris Lightweight Backpacking Tent - 4 Person Ultralight Waterproof Camping Tent, 3 Season Large Size Easy Setup Tent for Family, Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg"/></a>
 
 
 The **Clostnature Polaris Lightweight Backpacking Tent** is ideal for outdoor enthusiasts who prioritize portability without sacrificing space and durability. Perfect for **families**, hikers, and mountaineers looking for a **4-person** tent that offers ease of setup and reliable protection in **3-season** weather conditions, this tent suits those who want a balance of comfort and lightweight design on their adventures.
@@ -45,10 +45,10 @@ The **Clostnature Polaris Backpacking Tent** offers a perfect blend of lightweig
 
 Additionally, the compact packed size and low weight reduce the burden on your back, enabling longer hikes without fatigue. The tent’s **3-season rating** ensures it performs well in spring, summer, and fall conditions, offering versatile protection in diverse environments. Overall, the Clostnature Polaris tent is a reliable and practical choice for anyone seeking a spacious, lightweight, and waterproof shelter for outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B082P6XWN2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Grand Mesa 4p Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B082P6XWN2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Grand Mesa 4p Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B082P6XWN2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Grand Mesa 4P Backpacking Tent – 3 Season 4 Person Camping, Backpacking, Thru Hiking Shelter, Aluminum Pole Frame, Single Door + Vestibule, Designed in Colorado, 2024 Model (4P)" src="https://m.media-amazon.com/images/I/41ZEfUEiJ1L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B082P6XWN2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Grand Mesa 4P Backpacking Tent – 3 Season 4 Person Camping, Backpacking, Thru Hiking Shelter, Aluminum Pole Frame, Single Door + Vestibule, Designed in Colorado, 2024 Model (4P)" src="https://m.media-amazon.com/images/I/41ZEfUEiJ1L._SL500_.jpg"/></a>
 
 
 The **Kelty Grand Mesa 4P Backpacking Tent** is ideal for outdoor enthusiasts who need a reliable and spacious shelter for **3 season camping**, **backpacking**, or **thru hiking**. It is perfect for groups or families of up to four people seeking a lightweight yet durable tent that balances comfort and portability. If you prioritize ease of setup, weather resistance, and ample living space during your adventures, this tent is designed to meet your needs.
@@ -72,10 +72,10 @@ The **Kelty Grand Mesa 4P Backpacking Tent** features a robust **aluminum pole f
 
 Weighing only 7.0 pounds, this tent strikes a great balance between durability and portability. It packs down compactly, making it suitable for **backpacking and thru hiking** where every ounce counts. The **3 season rating** ensures it performs well across spring, summer, and fall, providing reliable protection from rain and moderate weather. Overall, the Kelty Grand Mesa 4P is a versatile and well-designed shelter that meets the needs of serious outdoor adventurers looking for a combination of comfort, convenience, and ruggedness.
 
-## <a href="https://www.amazon.com/dp/B08RBTRWCR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bisinna 2/4 Person Camping Tent</a>
+## <a href="https://www.amazon.com/dp/B08RBTRWCR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bisinna 2/4 Person Camping Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B08RBTRWCR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BISINNA 2/4 Person Camping Tent Lightweight Backpacking Tent Waterproof Windproof Two Doors Easy Setup Double Layer Outdoor Tents for Family Camping Hunting Hiking Mountaineering Travel" src="https://m.media-amazon.com/images/I/31Qjossgk4S._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08RBTRWCR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="BISINNA 2/4 Person Camping Tent Lightweight Backpacking Tent Waterproof Windproof Two Doors Easy Setup Double Layer Outdoor Tents for Family Camping Hunting Hiking Mountaineering Travel" src="https://m.media-amazon.com/images/I/31Qjossgk4S._SL500_.jpg"/></a>
 
 
 The **BISINNA 2/4 Person Camping Tent** is ideal for outdoor enthusiasts who seek a reliable, lightweight, and easy-to-set-up shelter for activities such as **backpacking**, **family camping**, **hunting**, **hiking**, and **mountaineering**. This tent is perfect for individuals or small groups who need a compact and durable tent that offers protection against the elements while being easy to carry and set up in various environments.
@@ -98,10 +98,10 @@ The **BISINNA Camping Tent** features a spacious interior with dimensions of 51.
 
 Additionally, this tent is designed with **two doors** which facilitate easy entry and exit while promoting excellent airflow to reduce condensation inside. The lightweight nature of this tent, weighing just under 5 pounds, makes it convenient for backpackers and travelers who prioritize portability without sacrificing durability. The **easy setup** feature allows even novice campers to assemble the tent quickly, providing more time to enjoy outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B083R68NSV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt Tent 3 Person Camping Tent</a>
+## <a href="https://www.amazon.com/dp/B083R68NSV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt Tent 3 Person Camping Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B083R68NSV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt Tent 3 Person Camping Tent, Waterproof and Windproof 3-4 Seasons Ultralight Backpack Tent, can be Installed Immediately, Suitable for Hiking, Camping, Outdoor" src="https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B083R68NSV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt Tent 3 Person Camping Tent, Waterproof and Windproof 3-4 Seasons Ultralight Backpack Tent, can be Installed Immediately, Suitable for Hiking, Camping, Outdoor" src="https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg"/></a>
 
 
 The **Forceatt Tent 3 Person Camping Tent** is ideal for outdoor enthusiasts who seek a reliable and durable shelter for their hiking and camping adventures. Perfect for small groups or families, this tent caters to those who need a lightweight, easy-to-install, and weather-resistant option for various seasons, including spring, summer, fall, and mild winter conditions.
@@ -124,10 +124,10 @@ The **Forceatt Tent** combines practical features with user convenience, making 
 
 Additionally, the tent's **ultralight** design and quick installation process allow users to focus more on enjoying their outdoor activities rather than struggling with setup. Manufactured by **Forceatt**, the tent offers excellent value through its robust build and thoughtful design, making it suitable for hiking, camping, and other outdoor adventures across multiple seasons.
 
-## <a href="https://www.amazon.com/dp/B083QX3D3Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt 4 Person Camping Tent</a>
+## <a href="https://www.amazon.com/dp/B083QX3D3Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt 4 Person Camping Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B083QX3D3Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt 4 Person Camping Tent, Professional Waterproof &amp; Windproof. Lightweight Backpacking Tent Suitable for Glamping,Hiking, Outdoor, Mountaineering and Travel" src="https://m.media-amazon.com/images/I/31JEQtKPiAL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B083QX3D3Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt 4 Person Camping Tent, Professional Waterproof &amp; Windproof. Lightweight Backpacking Tent Suitable for Glamping,Hiking, Outdoor, Mountaineering and Travel" src="https://m.media-amazon.com/images/I/31JEQtKPiAL._SL500_.jpg"/></a>
 
 
 The **Forceatt 4 Person Camping Tent** is ideal for outdoor enthusiasts who value both comfort and durability. Whether you enjoy **glamping**, **hiking**, **mountaineering**, or casual **travel**, this tent offers a reliable shelter solution. It’s perfect for small groups or families seeking a lightweight, **waterproof**, and **windproof** tent that can withstand various weather conditions without sacrificing portability.
@@ -149,10 +149,10 @@ The **Forceatt 4 Person Camping Tent** stands out with its robust construction t
 
 Additionally, the tent’s lightweight design enhances its portability, making it suitable for various activities such as **backpacking** and **mountaineering**. The ease of setup further adds to its user-friendly appeal, allowing campers to spend less time pitching the tent and more time enjoying their outdoor experience. Overall, the **Forceatt 4 Person Camping Tent** combines functionality, comfort, and durability, making it a reliable choice for those seeking quality outdoor shelter.
 
-## <a href="https://www.amazon.com/dp/B0DJQ7JS1Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">4-person Backpacking Tent For Camping</a>
+## <a href="https://www.amazon.com/dp/B0DJQ7JS1Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">4-person Backpacking Tent For Camping</a>
 
 
-<a href="https://www.amazon.com/dp/B0DJQ7JS1Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="4-Person Backpacking Tent for Camping - Ultralight &amp; Waterproof Outdoor Camping Tent 4 Person, Easy Set Up Compact Four Person Tent, Lightweight 4 Person Tent for Hiking by Underwood Aggregator" src="https://m.media-amazon.com/images/I/41KkKZEiIeL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DJQ7JS1Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="4-Person Backpacking Tent for Camping - Ultralight &amp; Waterproof Outdoor Camping Tent 4 Person, Easy Set Up Compact Four Person Tent, Lightweight 4 Person Tent for Hiking by Underwood Aggregator" src="https://m.media-amazon.com/images/I/41KkKZEiIeL._SL500_.jpg"/></a>
 
 
 The **4-Person Backpacking Tent for Camping** by **Underwood Aggregator** is ideal for outdoor enthusiasts who prioritize lightweight and compact gear without sacrificing space. This tent is perfect for hikers, campers, and backpackers seeking a reliable, easy-to-set-up shelter that accommodates up to four people comfortably during multi-day trips in various weather conditions.
@@ -175,10 +175,10 @@ The **Underwood Aggregator 4-Person Tent** combines a lightweight build with a s
 
 Designed with practical dimensions, this tent provides enough space for four people to sleep comfortably, store gear, and move around without feeling cramped. The **green color** blends well with natural surroundings, enhancing the outdoor experience. Overall, this tent is a dependable and convenient choice for those who want efficient shelter that balances weight, size, and protection during their camping adventures.
 
-## <a href="https://www.amazon.com/dp/B07MBK27ZH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Late Start 4p</a>
+## <a href="https://www.amazon.com/dp/B07MBK27ZH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Late Start 4p</a>
 
 
-<a href="https://www.amazon.com/dp/B07MBK27ZH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Late Start 4P - Lightweight Backpacking Tent with Quickcorners, Aluminum Pole Frame, Waterproof Polyester Fly, 4 Person Capacity" src="https://m.media-amazon.com/images/I/31jUlsGXfYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07MBK27ZH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Late Start 4P - Lightweight Backpacking Tent with Quickcorners, Aluminum Pole Frame, Waterproof Polyester Fly, 4 Person Capacity" src="https://m.media-amazon.com/images/I/31jUlsGXfYL._SL500_.jpg"/></a>
 
 
 The **Kelty Late Start 4P** is ideal for outdoor enthusiasts who need a reliable, lightweight tent that comfortably accommodates up to four people. Whether you're a family camper, a group of friends, or a couple seeking extra space, this tent is perfect for those who value quick setup, durability, and weather protection during backpacking or camping trips.
@@ -202,10 +202,10 @@ The **Kelty Late Start 4P** features a thoughtfully engineered **aluminum pole f
 
 With a **waterproof polyester fly**, the tent offers reliable protection from rain and moisture, helping to keep you dry and comfortable throughout your camping adventure. The tent’s spacious interior dimensions and **4 person capacity** provide ample room for gear and occupants, making it suitable for small groups or families who prioritize comfort without sacrificing portability.
 
-## <a href="https://www.amazon.com/dp/B0DYF8SCYT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Threebears 4-person Backpacking Tent Shelter</a>
+## <a href="https://www.amazon.com/dp/B0DYF8SCYT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Threebears 4-person Backpacking Tent Shelter</a>
 
 
-<a href="https://www.amazon.com/dp/B0DYF8SCYT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ThreeBears 4-Person Backpacking Tent Shelter, 3000mm Waterproof, Easy Setup, Spacious for Family Outdoor Adventures, Hiking, and Camping Trips（Dark Green）" src="https://m.media-amazon.com/images/I/31WHyNoR7GL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DYF8SCYT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ThreeBears 4-Person Backpacking Tent Shelter, 3000mm Waterproof, Easy Setup, Spacious for Family Outdoor Adventures, Hiking, and Camping Trips（Dark Green）" src="https://m.media-amazon.com/images/I/31WHyNoR7GL._SL500_.jpg"/></a>
 
 
 The **ThreeBears 4-Person Backpacking Tent Shelter** is ideal for outdoor enthusiasts who value both comfort and convenience during their adventures. Whether you're planning a **family camping trip**, a hiking expedition, or any outdoor getaway, this tent offers ample space and reliable protection. It's perfect for those seeking a lightweight yet spacious shelter that is easy to set up and durable enough to withstand various weather conditions.
@@ -229,10 +229,10 @@ The **ThreeBears 4-Person Backpacking Tent** boasts a generous size with dimensi
 
 Setting up the tent is straightforward thanks to its user-friendly design, which is especially beneficial after a long day of hiking. Weighing just over 6.6 pounds, it strikes a good balance between durability and portability, allowing users to carry it comfortably without sacrificing sturdiness. Overall, this tent is an excellent choice for families and groups who want a dependable, roomy, and easy-to-use shelter for their outdoor adventures.
 
-## <a href="https://www.amazon.com/dp/B0DFGZSQY1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Crux Lightweight Tent For Backpacking</a>
+## <a href="https://www.amazon.com/dp/B0DFGZSQY1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Crux Lightweight Tent For Backpacking</a>
 
 
-<a href="https://www.amazon.com/dp/B0DFGZSQY1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Crux Lightweight Tent for Backpacking - 4 Person Ultralight Backpacking Tent, Waterproof Easy Setup Camping Tent, Hiking Tents for Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DFGZSQY1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Crux Lightweight Tent for Backpacking - 4 Person Ultralight Backpacking Tent, Waterproof Easy Setup Camping Tent, Hiking Tents for Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg"/></a>
 
 
 The **Clostnature Crux Lightweight Tent** is ideal for outdoor enthusiasts who prioritize portability and ease of setup. Perfect for backpackers, hikers, and mountaineers seeking a reliable shelter that balances space and weight, this tent comfortably accommodates up to four people without adding unnecessary bulk to your pack.
@@ -254,10 +254,10 @@ The **Clostnature Crux Lightweight Tent** features a thoughtfully designed struc
 
 Constructed with waterproof materials, this tent ensures reliable protection against rain and moisture, a critical feature for unpredictable outdoor environments. The easy setup process allows campers to quickly assemble their shelter, which is especially beneficial after a tiring day on the trail or when weather conditions change suddenly. Overall, the **Clostnature Crux Lightweight Tent** combines durability, convenience, and comfort, making it a top choice for those who enjoy hiking, mountaineering, and camping adventures.
 
-## <a href="https://www.amazon.com/dp/B0DDC6JPGM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onetigris Jovian 4 Person Camping Tent</a>
+## <a href="https://www.amazon.com/dp/B0DDC6JPGM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onetigris Jovian 4 Person Camping Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B0DDC6JPGM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OneTigris JOVIAN 4 Person Camping Tent 3 Season Family Shelter Easy Setup Outdoor Backpacking with 2000mm Outer Rainfly, 5000mm Bottom &amp; Waterproof Floor Mat" src="https://m.media-amazon.com/images/I/31YUklWmpML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DDC6JPGM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OneTigris JOVIAN 4 Person Camping Tent 3 Season Family Shelter Easy Setup Outdoor Backpacking with 2000mm Outer Rainfly, 5000mm Bottom &amp; Waterproof Floor Mat" src="https://m.media-amazon.com/images/I/31YUklWmpML._SL500_.jpg"/></a>
 
 
 The **OneTigris JOVIAN 4 Person Camping Tent** is ideal for outdoor enthusiasts who enjoy backpacking, family camping trips, or weekend getaways in varying weather conditions. Designed for those seeking a reliable and spacious shelter that is easy to set up, this tent is perfect for small groups or families wanting comfort and protection during their adventures. If you value durability, weather resistance, and quick assembly, this tent is an excellent choice.

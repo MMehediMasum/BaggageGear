@@ -20,10 +20,10 @@ The AGAWA BOREAL21 stands out with its long 21-inch blade for bigger jobs. GROWI
 
 
 
-## <a href="https://www.amazon.com/dp/B07BLQBN8X?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Rexbeti Folding Saw</a>
+## <a href="https://www.amazon.com/dp/B07BLQBN8X?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Rexbeti Folding Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B07BLQBN8X?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="REXBETI Folding Saw, Heavy Duty 11 Inch Extra Long Blade Hand Saws for Wood Camping, Dry Wood Pruning Saws With Hard Teeth, Quality SK-5 Steel" src="https://m.media-amazon.com/images/I/31kziP3c54L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07BLQBN8X?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="REXBETI Folding Saw, Heavy Duty 11 Inch Extra Long Blade Hand Saws for Wood Camping, Dry Wood Pruning Saws With Hard Teeth, Quality SK-5 Steel" src="https://m.media-amazon.com/images/I/31kziP3c54L._SL500_.jpg"/></a>
 
 
 The **REXBETI Folding Saw** is ideal for outdoor enthusiasts, gardeners, and DIY woodworkers who need a reliable and portable cutting tool. Whether you’re into **camping**, pruning dry wood, or handling various woodworking tasks, this saw offers the durability and precision required for efficient cutting. Its compact design makes it perfect for those who value convenience without sacrificing performance.
@@ -45,10 +45,10 @@ The **REXBETI Folding Saw** features a heavy-duty **SK-5 steel blade** that is b
 
 The green ergonomic handle is designed to provide a secure and comfortable grip, minimizing hand fatigue even during prolonged use. This saw’s lightweight yet sturdy construction ensures that it is easy to maneuver without compromising on cutting power. Overall, the **REXBETI Folding Saw** combines functionality, portability, and durability, making it a valuable tool for anyone who regularly works with wood in outdoor or home environments.
 
-## <a href="https://www.amazon.com/dp/B00TZKFA0Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gerber Freescape Camp Saw</a>
+## <a href="https://www.amazon.com/dp/B00TZKFA0Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gerber Freescape Camp Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B00TZKFA0Q?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gerber Freescape Camp Saw Folding Hand Saw for Backpacking Hiking Camping Pruning and Bushcraft, 12" src="https://m.media-amazon.com/images/I/3122VdkeNGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00TZKFA0Q?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gerber Freescape Camp Saw Folding Hand Saw for Backpacking Hiking Camping Pruning and Bushcraft, 12" src="https://m.media-amazon.com/images/I/3122VdkeNGL._SL500_.jpg"/></a>
 
 
 The **Gerber Freescape Camp Saw Folding Hand Saw** is ideal for outdoor enthusiasts such as backpackers, hikers, campers, and bushcraft practitioners who need a reliable, compact, and efficient cutting tool. If you require a lightweight saw that easily fits into your gear without sacrificing cutting power, this saw is designed to meet those needs, making it perfect for pruning, wood gathering, and general campsite maintenance.
@@ -71,10 +71,10 @@ The **Gerber Freescape Camp Saw** features a sharp, 12-inch blade that folds sec
 
 Constructed by **Gerber**, a renowned manufacturer known for durable outdoor tools, this hand saw offers reliable performance in various environments. The ergonomic handle design not only improves grip but also reduces hand fatigue during prolonged use. Whether pruning small branches, preparing firewood, or clearing brush, users will appreciate how this saw efficiently tackles tasks while being easy to handle and transport.
 
-## <a href="https://www.amazon.com/dp/B01LWZ4ZLA?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Agawa - Boreal21</a>
+## <a href="https://www.amazon.com/dp/B01LWZ4ZLA?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Agawa - Boreal21</a>
 
 
-<a href="https://www.amazon.com/dp/B01LWZ4ZLA?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/31ZTvssu7qL._SL500_.jpg"/> 21 Inch Folding Bow Saw - Black Frame, Green Handle, 21" All Purpose Blade"/&gt;</a>
+<a href="https://www.amazon.com/dp/B01LWZ4ZLA?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/31ZTvssu7qL._SL500_.jpg"/> 21 Inch Folding Bow Saw - Black Frame, Green Handle, 21" All Purpose Blade"/&gt;</a>
 
 
 The **AGAWA - BOREAL21 Folding Bow Saw** is ideal for outdoor enthusiasts, campers, hikers, and DIYers who need a reliable and compact cutting tool. If you require a durable, easy-to-carry saw for pruning, cutting firewood, or general outdoor tasks, this 21-inch saw with a folding design is perfect for you. Its lightweight and versatile nature make it suitable for both beginners and experienced users looking for efficiency and convenience.
@@ -97,10 +97,10 @@ The **AGAWA - BOREAL21** features a robust black frame combined with a 21-inch a
 
 Designed by **Agawa Canyon**, the saw balances lightweight construction with durability, weighing only 1.2 pounds while maintaining a sturdy build. This makes it an excellent choice for users who need a dependable tool without the bulk. Whether pruning in the garden or gathering firewood on a camping trip, the BOREAL21 delivers reliable performance in a convenient package.
 
-## <a href="https://www.amazon.com/dp/B0DLSLLNF8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Growit Folding Camping Saw 11 Inch</a>
+## <a href="https://www.amazon.com/dp/B0DLSLLNF8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Growit Folding Camping Saw 11 Inch</a>
 
 
-<a href="https://www.amazon.com/dp/B0DLSLLNF8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GROWIT Folding Camping saw 11 Inch - Heavy Duty Pruning Saw with Triple-Cut SK5 Blade, 7 TPI Razor Teeth for Tree Trimming, Wood Cutting, Camping, Bushcraft, and Gardening" src="https://m.media-amazon.com/images/I/41F+WzfHEzL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DLSLLNF8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="GROWIT Folding Camping saw 11 Inch - Heavy Duty Pruning Saw with Triple-Cut SK5 Blade, 7 TPI Razor Teeth for Tree Trimming, Wood Cutting, Camping, Bushcraft, and Gardening" src="https://m.media-amazon.com/images/I/41F+WzfHEzL._SL500_.jpg"/></a>
 
 
 The **GROWIT Folding Camping Saw 11 Inch** is ideal for outdoor enthusiasts, gardeners, and DIY hobbyists who require a reliable and portable cutting tool. Whether you're into **camping**, **bushcraft**, **tree trimming**, or general **wood cutting**, this saw is designed to meet the demands of both casual and professional users who value precision and durability.
@@ -123,10 +123,10 @@ The **GROWIT Folding Camping Saw** features a robust **SK5 steel blade** with a 
 
 With dimensions of approximately **14 inches in length** when unfolded and a compact folded size, this saw is lightweight enough for easy handling while maintaining the strength needed for tough jobs. The bright **orange handle** not only provides a comfortable grip but also ensures the tool can be quickly found in your gear bag or campsite. Overall, the **GROWIT Folding Camping Saw** balances portability, power, and precision, making it a must-have tool for anyone looking to enhance their outdoor or gardening toolkit.
 
-## <a href="https://www.amazon.com/dp/B0001IX7OW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bahco 9" Laplander Folding Saw</a>
+## <a href="https://www.amazon.com/dp/B0001IX7OW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bahco 9" Laplander Folding Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B0001IX7OW?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bahco 9" src="https://m.media-amazon.com/images/I/31b168O9zvL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0001IX7OW?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bahco 9" src="https://m.media-amazon.com/images/I/31b168O9zvL._SL500_.jpg"/></a>
 
 
 The **Bahco 9" Laplander Folding Saw** is perfect for outdoor enthusiasts, campers, bushcrafters, and survivalists who need a reliable and compact cutting tool. If you often engage in trail maintenance, wood processing, or wilderness survival activities, this saw offers the ideal combination of portability and efficiency. Its design caters to those who require a durable, easy-to-carry saw that performs well in various outdoor conditions.
@@ -148,10 +148,10 @@ The **Bahco 9" Laplander Folding Saw** features a high-quality blade with rust p
 
 The ergonomic grip enhances user comfort, enabling longer periods of use without discomfort or slippage. Its compact dimensions and light weight make it an ideal tool to include in any camping, hiking, or bushcraft gear collection. Whether clearing small branches on a trail or processing firewood for a campfire, the Laplander saw delivers consistent performance while being easy to carry and store.
 
-## <a href="https://www.amazon.com/dp/B071Z1Y34D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mossy Oak 3 In 1 Folding Saw</a>
+## <a href="https://www.amazon.com/dp/B071Z1Y34D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mossy Oak 3 In 1 Folding Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B071Z1Y34D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MOSSY OAK 3 in 1 Folding Saw, Pruning Hand Saw with Wood, Metal and PVC Blade, Camping Saw for Backpacking, Hunting and Bushcraft, Pouch Included" src="https://m.media-amazon.com/images/I/41HrQtrz8HL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B071Z1Y34D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MOSSY OAK 3 in 1 Folding Saw, Pruning Hand Saw with Wood, Metal and PVC Blade, Camping Saw for Backpacking, Hunting and Bushcraft, Pouch Included" src="https://m.media-amazon.com/images/I/41HrQtrz8HL._SL500_.jpg"/></a>
 
 
 The **MOSSY OAK 3 in 1 Folding Saw** is ideal for outdoor enthusiasts such as campers, backpackers, hunters, and bushcraft practitioners who need a versatile and compact cutting tool. Those looking for a reliable saw that can handle multiple materials like wood, metal, and PVC while being easy to carry will find this product especially useful.
@@ -174,10 +174,10 @@ The **MOSSY OAK 3 in 1 Folding Saw** features a clever design with three special
 
 With dimensions of approximately 9.45 inches in length and weighing less than a pound, this saw strikes an excellent balance between portability and functionality. The included pouch makes it simple to carry and access during camping trips or hunting excursions. Whether pruning branches for a campfire or cutting through pipe or metal components, the saw’s versatility and durability offer significant practical benefits to outdoor users.
 
-## <a href="https://www.amazon.com/dp/B06WD2XG9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coher Folding Hand Saw</a>
+## <a href="https://www.amazon.com/dp/B06WD2XG9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Coher Folding Hand Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B06WD2XG9Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="coher Folding Hand Saw for Tree Pruning, Camping, Gardening, Hunting. Cutting Wood, PVC, Bone with Ergonomic Handle Design" src="https://m.media-amazon.com/images/I/41fQA+fpWdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B06WD2XG9Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="coher Folding Hand Saw for Tree Pruning, Camping, Gardening, Hunting. Cutting Wood, PVC, Bone with Ergonomic Handle Design" src="https://m.media-amazon.com/images/I/41fQA+fpWdL._SL500_.jpg"/></a>
 
 
 The **coher Folding Hand Saw** is ideal for outdoor enthusiasts and professionals alike, including gardeners, campers, hunters, and anyone in need of a reliable tool for **tree pruning** or cutting various materials. If you require a compact, versatile saw that combines ease of use with efficiency, this product is designed specifically for you.
@@ -199,10 +199,10 @@ The **coher Folding Hand Saw** features a thoughtfully designed **ergonomic hand
 
 With its compact dimensions (**0.9 inches height**, **2.1 inches width**, and **7.5 inches length**), this saw fits easily into any toolkit or backpack. It delivers reliable performance across a variety of materials such as wood, PVC, and even bone, making it a versatile addition to your gear. Overall, the coher Folding Hand Saw blends convenience, durability, and efficiency, making it a smart choice for both casual users and professionals.
 
-## <a href="https://www.amazon.com/dp/B0038A702K?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sog Knives Folding Saw</a>
+## <a href="https://www.amazon.com/dp/B0038A702K?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sog Knives Folding Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B0038A702K?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SOG Knives Folding Saw" src="https://m.media-amazon.com/images/I/31NizkMjAAL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0038A702K?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="SOG Knives Folding Saw" src="https://m.media-amazon.com/images/I/31NizkMjAAL._SL500_.jpg"/></a>
 
 
 The **SOG Knives Folding Saw** is ideal for outdoor enthusiasts, campers, and survivalists who need a reliable and compact cutting tool. If you frequently engage in hiking, bushcraft, or emergency preparedness, this folding saw offers a practical solution for cutting wood and other materials efficiently while on the go. Its lightweight design makes it perfect for those who prioritize portability without sacrificing performance.
@@ -224,10 +224,10 @@ The **SOG Knives Folding Saw** features a robust blade designed to tackle branch
 
 Constructed by the reputable **SOG Specialty Knives & Tools**, this folding saw guarantees quality and durability. The black color not only adds to its aesthetic appeal but also provides resistance against corrosion and wear. Whether you need it for quick trail repairs or detailed outdoor projects, this folding saw combines functionality with portability to enhance your cutting experience.
 
-## <a href="https://www.amazon.com/dp/B001RD7LRO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Corona Razor Tooth Folding Saw</a>
+## <a href="https://www.amazon.com/dp/B001RD7LRO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Corona Razor Tooth Folding Saw</a>
 
 
-<a href="https://www.amazon.com/dp/B001RD7LRO?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Corona Razor Tooth Folding Saw - 10 Inch Curved Blade" src="https://m.media-amazon.com/images/I/31mMqd-Bw0L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B001RD7LRO?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Corona Razor Tooth Folding Saw - 10 Inch Curved Blade" src="https://m.media-amazon.com/images/I/31mMqd-Bw0L._SL500_.jpg"/></a>
 
 
 The **Corona Razor Tooth Folding Saw - 10 Inch Curved Blade** is ideal for outdoor enthusiasts, gardeners, and professionals who require a reliable and compact cutting tool. If you often engage in pruning, camping, or light woodworking, this folding saw offers the perfect balance of portability and cutting power to make your tasks easier and more efficient.

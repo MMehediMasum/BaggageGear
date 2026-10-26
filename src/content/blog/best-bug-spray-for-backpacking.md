@@ -20,10 +20,10 @@ You want a spray that lasts many hours and suits your skin type, especially for 
 
 
 
-## <a href="https://www.amazon.com/dp/B004H89KFC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Repel 100 Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B004H89KFC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Repel 100 Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B004H89KFC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Repel 100 Insect Repellent, Pump Spray, 4-Fluid Ounces, 10-Hour Protection" src="https://m.media-amazon.com/images/I/41GFtwjZC8L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B004H89KFC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Repel 100 Insect Repellent, Pump Spray, 4-Fluid Ounces, 10-Hour Protection" src="https://m.media-amazon.com/images/I/41GFtwjZC8L._SL500_.jpg"/></a>
 
 
 The **Repel 100 Insect Repellent, Pump Spray** is ideal for outdoor enthusiasts, campers, hikers, and anyone who spends extended periods in insect-prone areas. If you need reliable and long-lasting protection against mosquitoes and other biting insects, this product is designed to keep you comfortable and bite-free for up to 10 hours.
@@ -46,10 +46,10 @@ The **Repel 100 Insect Repellent** features a powerful 100% DEET formula that de
 
 This insect repellent's clear, non-greasy formula absorbs quickly into the skin, leaving no sticky residue, which enhances user comfort during extended wear. Its compact size and lightweight design make it easy to carry in a backpack or travel kit, making it a practical choice for those who need dependable insect defense while on the go. Overall, the Repel 100 Insect Repellent provides peace of mind and reliable protection for outdoor lovers who demand high-performance insect control.
 
-## <a href="https://www.amazon.com/dp/B001ANQVYU?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp657 Premium Permethrin Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B001ANQVYU?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp657 Premium Permethrin Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B001ANQVYU?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce" src="https://m.media-amazon.com/images/I/41pVZYqoMXL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B001ANQVYU?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce" src="https://m.media-amazon.com/images/I/41pVZYqoMXL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts, campers, hikers, and anyone who spends extended time in insect-prone areas, the **Sawyer Products SP657 Premium Permethrin Insect Repellent** is designed to protect your clothing, gear, and tents from pesky insects. If you want a reliable and long-lasting insect protection solution, this product is an excellent choice.
@@ -72,10 +72,10 @@ The **Sawyer Products SP657 Premium Permethrin Insect Repellent** features a con
 
 Using this repellent means you can enjoy outdoor activities without constantly worrying about insect bites, which can transmit diseases or cause discomfort. The large 24-ounce size offers ample supply for treating multiple items, making it ideal for frequent campers or families. Overall, this insect repellent enhances your outdoor experience by combining convenience, effectiveness, and long-lasting protection.
 
-## <a href="https://www.amazon.com/dp/B0738NCJMH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's 100 Tick &amp; Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B0738NCJMH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's 100 Tick &amp; Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B0738NCJMH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's 100 Tick &amp; Insect Repellent - Alcohol-Free DEET Insect Repellent Pump Spray - Offers 10 Hours of Protection for Adults &amp; Children -3.4 Fl Oz (2 Pack)" src="https://m.media-amazon.com/images/I/41wotX5Kp-L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0738NCJMH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's 100 Tick &amp; Insect Repellent - Alcohol-Free DEET Insect Repellent Pump Spray - Offers 10 Hours of Protection for Adults &amp; Children -3.4 Fl Oz (2 Pack)" src="https://m.media-amazon.com/images/I/41wotX5Kp-L._SL500_.jpg"/></a>
 
 
 Ideal for families and outdoor enthusiasts seeking a safe and effective solution, **Ben's 100 Tick & Insect Repellent** is perfect for both adults and children who want long-lasting protection without harsh chemicals. This **alcohol-free** and **DEET-based** repellent spray offers peace of mind during camping, hiking, or everyday outdoor activities.
@@ -97,10 +97,10 @@ The **Ben's 100 Tick & Insect Repellent** utilizes a carefully formulated DEET c
 
 With up to **10 hours of continuous protection**, users can enjoy outdoor activities without frequent reapplication, enhancing convenience and confidence. The product's compact size and packaging in a 2-pack make it perfect for family use or extended trips, ensuring that you are always prepared to protect yourself and your loved ones from insect-borne discomfort and diseases.
 
-## <a href="https://www.amazon.com/dp/B09GF1ND4D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Clean Feel Insect Repellent Aerosol</a>
+## <a href="https://www.amazon.com/dp/B09GF1ND4D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Clean Feel Insect Repellent Aerosol</a>
 
 
-<a href="https://www.amazon.com/dp/B09GF1ND4D?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Clean Feel Insect Repellent Aerosol with 20% Picaridin, Bug Spray with Long Lasting Protection from Mosquitoes, Feels Good on Skin, 5 oz" src="https://m.media-amazon.com/images/I/31XCf5R2D3L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09GF1ND4D?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Clean Feel Insect Repellent Aerosol with 20% Picaridin, Bug Spray with Long Lasting Protection from Mosquitoes, Feels Good on Skin, 5 oz" src="https://m.media-amazon.com/images/I/31XCf5R2D3L._SL500_.jpg"/></a>
 
 
 The **OFF! Clean Feel Insect Repellent Aerosol** with 20% **Picaridin** is ideal for individuals who spend time outdoors and seek reliable protection against mosquitoes without the greasy or sticky feeling often associated with insect repellents. Whether you are a hiker, camper, gardener, or someone who enjoys backyard activities, this **bug spray** offers long-lasting defense while feeling comfortable on the skin.
@@ -123,10 +123,10 @@ The **OFF! Clean Feel Insect Repellent Aerosol** features a 20% concentration of
 
 Additionally, the compact 5 oz aerosol can offers convenient portability, allowing users to easily carry it in backpacks or bags for quick application whenever needed. The trusted **SC Johnson** brand ensures quality manufacturing standards and product reliability. Overall, this insect repellent is a great choice for those seeking a balance between powerful protection and skin comfort in an easy-to-use format.
 
-## <a href="https://www.amazon.com/dp/B07BSM6WTY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp5432 Picaridin Insect Repellent Spray</a>
+## <a href="https://www.amazon.com/dp/B07BSM6WTY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp5432 Picaridin Insect Repellent Spray</a>
 
 
-<a href="https://www.amazon.com/dp/B07BSM6WTY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP5432 Picaridin Insect Repellent Spray, 20%, Pump, 3-Ounce, (Pack of 2) (Packaging may vary)" src="https://m.media-amazon.com/images/I/41l8YSQCyVL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07BSM6WTY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP5432 Picaridin Insect Repellent Spray, 20%, Pump, 3-Ounce, (Pack of 2) (Packaging may vary)" src="https://m.media-amazon.com/images/I/41l8YSQCyVL._SL500_.jpg"/></a>
 
 
 The **Sawyer Products SP5432 Picaridin Insect Repellent Spray, 20%**, is ideal for outdoor enthusiasts, travelers, and anyone seeking effective protection against biting insects. If you spend time hiking, camping, or in mosquito-prone areas, this compact and easy-to-use spray is designed to keep you comfortable and bite-free without harsh chemicals.
@@ -148,10 +148,10 @@ The **Sawyer SP5432 Picaridin Insect Repellent Spray** features a potent 20% con
 
 Beyond its insect-repelling power, the spray’s formulation is designed to be gentle on skin, avoiding greasiness and unpleasant odors that many repellents have. Users can enjoy outdoor activities comfortably, knowing they are safeguarded against mosquito and tick bites. The pack of two ensures that you have a spare bottle handy or can share with family and friends, making it a practical choice for group outings.
 
-## <a href="https://www.amazon.com/dp/B000YJOMPG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Insect Repellent Aerosol</a>
+## <a href="https://www.amazon.com/dp/B000YJOMPG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Insect Repellent Aerosol</a>
 
 
-<a href="https://www.amazon.com/dp/B000YJOMPG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Insect Repellent Aerosol, Bug Spray with Long Lasting Protection from Mosquitoes, 6 oz" src="https://m.media-amazon.com/images/I/41bOTrypNyL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B000YJOMPG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Insect Repellent Aerosol, Bug Spray with Long Lasting Protection from Mosquitoes, 6 oz" src="https://m.media-amazon.com/images/I/41bOTrypNyL._SL500_.jpg"/></a>
 
 
 The **OFF! Deep Woods Insect Repellent Aerosol** is ideal for outdoor enthusiasts who spend extended time in heavily wooded or mosquito-prone areas. Whether you're hiking, camping, fishing, or working outdoors, this **bug spray** offers effective protection against mosquitoes and other biting insects. It’s perfect for those seeking a reliable, long-lasting insect repellent that can withstand tough outdoor conditions.
@@ -174,10 +174,10 @@ The **OFF! Deep Woods Insect Repellent Aerosol** features a powerful formula des
 
 This insect repellent's efficacy comes from its ability to repel multiple types of biting insects, providing peace of mind during long hours spent outdoors. The **deep woods color** design and trusted **SC Johnson brand** reputation add to the product’s appeal, making it a dependable choice for anyone needing robust insect defense. Overall, it balances effectiveness, portability, and ease of use, making it a must-have for outdoor protection.
 
-## <a href="https://www.amazon.com/dp/B019ZTXU2G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Insect Repellent Aerosol</a>
+## <a href="https://www.amazon.com/dp/B019ZTXU2G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Insect Repellent Aerosol</a>
 
 
-<a href="https://www.amazon.com/dp/B019ZTXU2G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Insect Repellent Aerosol, Dry, Non-Greasy Formula, Bug Spray with Long Lasting Protection from Mosquitoes, 4 Oz, 2 Count" src="https://m.media-amazon.com/images/I/41ItLRL-LBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B019ZTXU2G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Insect Repellent Aerosol, Dry, Non-Greasy Formula, Bug Spray with Long Lasting Protection from Mosquitoes, 4 Oz, 2 Count" src="https://m.media-amazon.com/images/I/41ItLRL-LBL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and anyone seeking reliable protection against pesky insects, the **OFF! Deep Woods Insect Repellent Aerosol** is perfect for campers, hikers, and those spending extended time in mosquito-prone areas. Its dry, non-greasy formula makes it a great choice for individuals who want effective bug spray without the discomfort of sticky residue.
@@ -200,10 +200,10 @@ The **OFF! Deep Woods Insect Repellent Aerosol** stands out due to its specializ
 
 Featuring a convenient **4 oz size** in a two-count pack, the product offers excellent value and portability. The aerosol spray ensures even application, covering exposed skin quickly and efficiently. Backed by the reputable **SC Johnson** brand, users can trust the product's efficacy in repelling mosquitoes and other biting insects, helping to reduce the risk of insect-borne diseases while enhancing outdoor enjoyment.
 
-## <a href="https://www.amazon.com/dp/B07Z452N5C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's Tick &amp; Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B07Z452N5C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's Tick &amp; Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B07Z452N5C?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's Tick &amp; Insect Repellent - Travel Size Bug Spray with 30% DEET for Mosquitoes, Ticks &amp; More - Up to 7 Hours of Protection - Fragrance-Free - 3.4 Fl Oz (4 Pack)" src="https://m.media-amazon.com/images/I/51EoW9MSZbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07Z452N5C?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's Tick &amp; Insect Repellent - Travel Size Bug Spray with 30% DEET for Mosquitoes, Ticks &amp; More - Up to 7 Hours of Protection - Fragrance-Free - 3.4 Fl Oz (4 Pack)" src="https://m.media-amazon.com/images/I/51EoW9MSZbL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and travelers, **Ben's Tick & Insect Repellent - Travel Size Bug Spray** is perfect for those seeking reliable protection against mosquitoes, ticks, and other biting insects. Whether you're camping, hiking, or exploring new destinations, this **fragrance-free** spray with **30% DEET** offers effective defense for up to **7 hours**, making it an essential item for anyone who wants to enjoy the outdoors without worrying about insect bites.
@@ -225,10 +225,10 @@ Ideal for outdoor enthusiasts and travelers, **Ben's Tick & Insect Repellent - T
 
 The **fragrance-free** formula is another significant benefit, catering to those who are sensitive to strong scents or prefer a neutral smell. Additionally, the product's ability to provide protection for up to **7 hours** means fewer applications and more continuous coverage, allowing users to focus on their adventures without constant interruption. Manufactured by the trusted **Tender Corporation**, this repellent combines efficacy with convenience, making it a reliable choice for insect defense.
 
-## <a href="https://www.amazon.com/dp/B0009EXM3E?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Mosquito And Insect Repellent Wipes</a>
+## <a href="https://www.amazon.com/dp/B0009EXM3E?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Mosquito And Insect Repellent Wipes</a>
 
 
-<a href="https://www.amazon.com/dp/B0009EXM3E?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Mosquito and Insect Repellent Wipes, Long lasting, 12 Individually Wrapped Wipes" src="https://m.media-amazon.com/images/I/41cqkFZRAqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0009EXM3E?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Mosquito and Insect Repellent Wipes, Long lasting, 12 Individually Wrapped Wipes" src="https://m.media-amazon.com/images/I/41cqkFZRAqL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and individuals seeking reliable protection against mosquitoes and insects, the **OFF! Deep Woods Mosquito and Insect Repellent Wipes** are perfect for campers, hikers, and anyone spending time in heavily wooded or bug-prone areas. These wipes offer a convenient and effective solution for those who want long-lasting insect protection without the hassle of sprays.

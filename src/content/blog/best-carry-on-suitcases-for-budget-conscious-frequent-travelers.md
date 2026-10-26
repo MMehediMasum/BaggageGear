@@ -19,7 +19,7 @@ You can’t talk about budget gear without mentioning this one. It’s simple, d
 
 **Perfect for:** Travelers who just want a no-nonsense bag that works.
 
-[Check price on Amazon here](https://www.amazon.com/dp/B07168S4L5?tag=gearcookware-20)
+[Check price on Amazon here](https://www.amazon.com/dp/B07168S4L5?tag=mofb05-20)
 
 ### 2. The Lightweight Champ: Rockland Melbourne Hardside Spinner
 
@@ -27,7 +27,7 @@ This suitcase is not only incredibly stylish but also super lightweight. If you'
 
 **Perfect for:** Fashion-forward travelers who need to keep their bag weight down.
 
-[Check price on Amazon here](https://www.amazon.com/dp/B004N6250E?tag=gearcookware-20)
+[Check price on Amazon here](https://www.amazon.com/dp/B004N6250E?tag=mofb05-20)
 
 ### 3. The Smart Choice: SwissGear Sion Softside Carry-On
 
@@ -35,7 +35,7 @@ If you prefer softside luggage, this is the gold standard for budget travelers. 
 
 **Perfect for:** Organized packers who love having a spot for everything.
 
-[Check price on Amazon here](https://www.amazon.com/dp/B00P8M260O?tag=gearcookware-20)
+[Check price on Amazon here](https://www.amazon.com/dp/B00P8M260O?tag=mofb05-20)
 
 ### Final Travel Tips:
 

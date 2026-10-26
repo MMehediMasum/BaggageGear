@@ -20,10 +20,10 @@ Natural choices like Murphy's Naturals use plant oils for a safer feel. Bracelet
 
 
 
-## <a href="https://www.amazon.com/dp/B004H89KFC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Repel 100 Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B004H89KFC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Repel 100 Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B004H89KFC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Repel 100 Insect Repellent, Pump Spray, 4-Fluid Ounces, 10-Hour Protection" src="https://m.media-amazon.com/images/I/41GFtwjZC8L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B004H89KFC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Repel 100 Insect Repellent, Pump Spray, 4-Fluid Ounces, 10-Hour Protection" src="https://m.media-amazon.com/images/I/41GFtwjZC8L._SL500_.jpg"/></a>
 
 
 The **Repel 100 Insect Repellent, Pump Spray** is ideal for outdoor enthusiasts, campers, hikers, and anyone looking for reliable protection against insects. If you spend time in mosquito-prone areas or want a long-lasting solution to keep bugs at bay, this compact and powerful spray is designed for you.
@@ -46,10 +46,10 @@ The **Repel 100 Insect Repellent** features a powerful formula with 98.11% DEET,
 
 Designed for convenience, this repellent is lightweight and compact, fitting effortlessly into your gear. The clear formula dries quickly without sticky residue, allowing you to apply it before dressing without staining clothes. Whether you’re tackling dense forests or tranquil lakesides, this spray provides reliable defense, letting you focus on your adventure rather than pesky insects.
 
-## <a href="https://www.amazon.com/dp/B07JCQ8GQJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thermacell Mosquito Portable Repeller</a>
+## <a href="https://www.amazon.com/dp/B07JCQ8GQJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thermacell Mosquito Portable Repeller</a>
 
 
-<a href="https://www.amazon.com/dp/B07JCQ8GQJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Thermacell Mosquito Portable Repeller; Includes 12-Hour Refill; 15 Foot Zone of Protection; Highly Effective Mosquito Repellent; Deet Free Bug Spray Alternative; Scent Free" src="https://m.media-amazon.com/images/I/410xzLtM4TL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07JCQ8GQJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Thermacell Mosquito Portable Repeller; Includes 12-Hour Refill; 15 Foot Zone of Protection; Highly Effective Mosquito Repellent; Deet Free Bug Spray Alternative; Scent Free" src="https://m.media-amazon.com/images/I/410xzLtM4TL._SL500_.jpg"/></a>
 
 
 The **Thermacell Mosquito Portable Repeller** is ideal for outdoor enthusiasts, campers, gardeners, and anyone looking for a reliable, chemical-free solution to keep mosquitoes at bay. If you spend time outdoors and want to enjoy a bug-free experience without applying traditional sprays, this device offers a convenient and effective alternative.
@@ -72,10 +72,10 @@ The **Thermacell Mosquito Portable Repeller** features a compact, olive green de
 
 One of the key benefits of this repeller is its **deet-free** and **scent-free** operation, which makes it a safer alternative for people with sensitive skin or those who dislike the smell of traditional bug sprays. It’s also convenient for families with children or pets, as it avoids the harsh chemicals found in many repellents. The device is simple to operate and maintain, allowing users to focus on their outdoor experiences rather than worrying about mosquito protection.
 
-## <a href="https://www.amazon.com/dp/B0738NCJMH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's 100 Tick &amp; Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B0738NCJMH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ben's 100 Tick &amp; Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B0738NCJMH?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's 100 Tick &amp; Insect Repellent - Alcohol-Free DEET Insect Repellent Pump Spray - Offers 10 Hours of Protection for Adults &amp; Children -3.4 Fl Oz (2 Pack)" src="https://m.media-amazon.com/images/I/41wotX5Kp-L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0738NCJMH?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ben's 100 Tick &amp; Insect Repellent - Alcohol-Free DEET Insect Repellent Pump Spray - Offers 10 Hours of Protection for Adults &amp; Children -3.4 Fl Oz (2 Pack)" src="https://m.media-amazon.com/images/I/41wotX5Kp-L._SL500_.jpg"/></a>
 
 
 The **Ben's 100 Tick & Insect Repellent** is ideal for individuals and families seeking a reliable, long-lasting solution to protect themselves from ticks and insects without the harsh effects of alcohol or DEET. This product is especially suitable for outdoor enthusiasts, parents looking for a safe option for their children, and anyone who spends extended time in insect-prone areas.
@@ -99,10 +99,10 @@ The **Ben's 100 Tick & Insect Repellent** combines the power of **DEET** with an
 
 Additionally, this repellent's suitability for both **adults and children** makes it a versatile choice for families. The convenient **3.4 Fl Oz size** and the inclusion of two bottles in the pack offer excellent value and portability. Whether hiking, camping, gardening, or simply spending time outdoors, this insect repellent helps maintain comfort and safety, allowing users to focus on enjoying their time outside.
 
-## <a href="https://www.amazon.com/dp/B077ZMVMGD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thermacell Mosquito Backpacker Repeller</a>
+## <a href="https://www.amazon.com/dp/B077ZMVMGD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Thermacell Mosquito Backpacker Repeller</a>
 
 
-<a href="https://www.amazon.com/dp/B077ZMVMGD?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Thermacell Mosquito Backpacker Repeller, Gen 2.0 with 16 Hours of Repellent; 15 Foot Zone of Mosquito Protection; Long Lasting, Deet Free Bug Spray Alternative, Scent Free" src="https://m.media-amazon.com/images/I/41ZXrHfTrQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B077ZMVMGD?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Thermacell Mosquito Backpacker Repeller, Gen 2.0 with 16 Hours of Repellent; 15 Foot Zone of Mosquito Protection; Long Lasting, Deet Free Bug Spray Alternative, Scent Free" src="https://m.media-amazon.com/images/I/41ZXrHfTrQL._SL500_.jpg"/></a>
 
 
 The **Thermacell Mosquito Backpacker Repeller, Gen 2.0** is ideal for outdoor enthusiasts who want effective mosquito protection without the hassle of applying sprays or lotions. If you enjoy hiking, camping, fishing, or any outdoor activity where mosquitoes are a nuisance, this device offers a convenient, scent-free, and DEET-free alternative to traditional bug repellents.
@@ -125,10 +125,10 @@ The **Thermacell Mosquito Backpacker Repeller** utilizes a patented heating syst
 
 Because it is **DEET-free and scent-free**, this repeller is an excellent choice for those with sensitive skin or who dislike the smell of traditional bug sprays. The device runs quietly and provides up to 16 hours of continuous protection, making it suitable for long hikes or overnight camping trips. Overall, the Thermacell Gen 2.0 offers a practical, user-friendly solution for effective mosquito defense in the great outdoors.
 
-## <a href="https://www.amazon.com/dp/B00VV5KRD8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp564 Premium Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B00VV5KRD8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp564 Premium Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B00VV5KRD8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP564 Premium Insect Repellent with 20% Picaridin, Lotion, 4-Ounce" src="https://m.media-amazon.com/images/I/41+Ge9xXDTL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00VV5KRD8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP564 Premium Insect Repellent with 20% Picaridin, Lotion, 4-Ounce" src="https://m.media-amazon.com/images/I/41+Ge9xXDTL._SL500_.jpg"/></a>
 
 
 The **Sawyer Products SP564 Premium Insect Repellent with 20% Picaridin** is ideal for outdoor enthusiasts, travelers, and anyone seeking effective protection against mosquitoes, ticks, and other biting insects. If you spend time hiking, camping, fishing, or simply want reliable insect defense for everyday use, this **lotion-based repellent** offers a convenient and long-lasting solution.
@@ -151,10 +151,10 @@ The **Sawyer SP564 Premium Insect Repellent** is designed to provide effective a
 
 With a compact **4-ounce bottle**, this repellent is highly portable, allowing users to conveniently carry it on hikes, camping trips, or vacations. Its effectiveness against a wide range of insects, including mosquitoes and ticks, reduces the risk of insect-borne illnesses, while the non-greasy formula enhances user comfort. Overall, it combines safety, convenience, and strong performance, making it a dependable choice for insect protection.
 
-## <a href="https://www.amazon.com/dp/B017G1051Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cliganic 10 Pack Mosquito Repellent Bracelets</a>
+## <a href="https://www.amazon.com/dp/B017G1051Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cliganic 10 Pack Mosquito Repellent Bracelets</a>
 
 
-<a href="https://www.amazon.com/dp/B017G1051Y?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cliganic 10 Pack Mosquito Repellent Bracelets for Adults &amp; Kids - Natural DEET-Free Bands, Individually Wrapped" src="https://m.media-amazon.com/images/I/51osqsImfOL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B017G1051Y?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cliganic 10 Pack Mosquito Repellent Bracelets for Adults &amp; Kids - Natural DEET-Free Bands, Individually Wrapped" src="https://m.media-amazon.com/images/I/51osqsImfOL._SL500_.jpg"/></a>
 
 
 Ideal for families and outdoor enthusiasts seeking a safe and effective way to repel mosquitoes, the **Cliganic 10 Pack Mosquito Repellent Bracelets** are perfect for both adults and kids. These **natural, DEET-free** bracelets offer a chemical-free alternative for those who want to enjoy nature without the nuisance and potential health concerns of traditional repellents.
@@ -177,10 +177,10 @@ The **Cliganic Mosquito Repellent Bracelets** are designed with user safety and 
 
 These bracelets are also highly convenient due to their **individually wrapped packaging**, ensuring cleanliness and portability. Their lightweight design means they can be worn comfortably for hours, making them ideal for long hikes, family picnics, or evening backyard gatherings. Overall, they provide a practical, eco-friendly solution for mosquito protection.
 
-## <a href="https://www.amazon.com/dp/B001ANQVYU?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp657 Premium Permethrin Insect Repellent</a>
+## <a href="https://www.amazon.com/dp/B001ANQVYU?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Sawyer Products Sp657 Premium Permethrin Insect Repellent</a>
 
 
-<a href="https://www.amazon.com/dp/B001ANQVYU?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce" src="https://m.media-amazon.com/images/I/41pVZYqoMXL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B001ANQVYU?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce" src="https://m.media-amazon.com/images/I/41pVZYqoMXL._SL500_.jpg"/></a>
 
 
 The **Sawyer Products SP657 Premium Permethrin Insect Repellent** is ideal for outdoor enthusiasts, campers, hikers, and travelers who want effective protection against insects on their clothing, gear, and tents. If you spend a lot of time in bug-prone areas and seek a long-lasting, easy-to-apply solution to keep insects at bay, this product is designed for you.
@@ -203,10 +203,10 @@ The **Sawyer Products SP657 Premium Permethrin Insect Repellent** features a pow
 
 One of the key benefits of this insect repellent is its versatility. It can be used on a wide range of outdoor items, from jackets and pants to backpacks and sleeping tents, creating a protective barrier against ticks, mosquitoes, and other pests. Additionally, the 24-ounce bottle size means users can treat multiple items or reapply as needed during extended trips. The lightweight and compact design also make it easy to carry along on outdoor adventures, ensuring that protection is always at hand.
 
-## <a href="https://www.amazon.com/dp/B0009EXM3E?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Mosquito And Insect Repellent Wipes</a>
+## <a href="https://www.amazon.com/dp/B0009EXM3E?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Off! Deep Woods Mosquito And Insect Repellent Wipes</a>
 
 
-<a href="https://www.amazon.com/dp/B0009EXM3E?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Mosquito and Insect Repellent Wipes, Long lasting, 12 Individually Wrapped Wipes" src="https://m.media-amazon.com/images/I/41cqkFZRAqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0009EXM3E?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OFF! Deep Woods Mosquito and Insect Repellent Wipes, Long lasting, 12 Individually Wrapped Wipes" src="https://m.media-amazon.com/images/I/41cqkFZRAqL._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and anyone seeking reliable protection against mosquitoes and other biting insects, the **OFF! Deep Woods Mosquito and Insect Repellent Wipes** offer a convenient and effective solution. These wipes are perfect for campers, hikers, gardeners, and travelers who need a portable and easy-to-apply insect repellent that provides long-lasting defense in heavily infested areas.
@@ -229,10 +229,10 @@ The **OFF! Deep Woods Mosquito and Insect Repellent Wipes** are thoughtfully des
 
 In addition to their convenience, the wipes' compact size and lightweight packaging make them easy to store in backpacks, glove compartments, or first aid kits. Users benefit from a quick, mess-free application that leaves no sticky residue, allowing for comfortable wear during outdoor activities. Whether you are hiking through dense woods or relaxing at a campsite, these wipes provide dependable, long-lasting insect protection.
 
-## <a href="https://www.amazon.com/dp/B074N7D1TV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray</a>
+## <a href="https://www.amazon.com/dp/B074N7D1TV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray</a>
 
 
-<a href="https://www.amazon.com/dp/B074N7D1TV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray, Oil of Lemon Eucalyptus for Skin + Outdoor Gear, DEET-Free, 4 Ounce Pump, 2-Pack" src="https://m.media-amazon.com/images/I/4180qi4u9ML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B074N7D1TV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray, Oil of Lemon Eucalyptus for Skin + Outdoor Gear, DEET-Free, 4 Ounce Pump, 2-Pack" src="https://m.media-amazon.com/images/I/4180qi4u9ML._SL500_.jpg"/></a>
 
 
 Ideal for outdoor enthusiasts and families seeking a safe, effective alternative to chemical insect repellents, the **Murphy's Naturals Mosquito & Tick Bug Repellent Spray** is perfect for those who prioritize natural ingredients and skin-friendly formulas. This product is especially suitable for individuals who enjoy hiking, camping, or gardening and want protection without harsh chemicals like DEET.

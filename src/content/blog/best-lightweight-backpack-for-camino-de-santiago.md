@@ -24,10 +24,10 @@ These add a personal touch and make your pack unique. Some backpacks also come w
 
 
 
-## <a href="https://www.amazon.com/dp/B0DXLFV8N8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Buen Camino 2026 Commemorative Patch And Map Card</a>
+## <a href="https://www.amazon.com/dp/B0DXLFV8N8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Buen Camino 2026 Commemorative Patch And Map Card</a>
 
 
-<a href="https://www.amazon.com/dp/B0DXLFV8N8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Buen Camino 2026 Commemorative Patch and Map Card // Camino de Santiago Pilgrim Badge // Blue and Yellow Shell Design // Global Shipping" src="https://m.media-amazon.com/images/I/51+b7K6SpyL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DXLFV8N8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Buen Camino 2026 Commemorative Patch and Map Card // Camino de Santiago Pilgrim Badge // Blue and Yellow Shell Design // Global Shipping" src="https://m.media-amazon.com/images/I/51+b7K6SpyL._SL500_.jpg"/></a>
 
 
 The **Buen Camino 2026 Commemorative Patch and Map Card** is perfect for **pilgrims** and **travel enthusiasts** who have completed or plan to embark on the **Camino de Santiago**. This item is ideal for those looking to celebrate their journey with a meaningful keepsake that symbolizes their achievement and connection to this historic pilgrimage route.
@@ -49,10 +49,10 @@ The **Buen Camino 2026 Commemorative Patch and Map Card** offers a unique way to
 
 Crafted by **BuenXCamino**, the patch and map card maintain high standards of quality and detail, making this commemorative item a lasting memento. Its compact size makes it easy to carry or frame, while the global shipping option ensures that pilgrims from all over the world can obtain this special badge. Whether for personal use or as a gift, this commemorative set celebrates the spirit of the Camino in a meaningful way.
 
-## <a href="https://www.amazon.com/dp/B0DVXMZMR1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino Portuguese Patch + Trail Map Card</a>
+## <a href="https://www.amazon.com/dp/B0DVXMZMR1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino Portuguese Patch + Trail Map Card</a>
 
 
-<a href="https://www.amazon.com/dp/B0DVXMZMR1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Camino Portuguese Patch + Trail Map Card // Camino De Santiago • Portugués • Global Shipping" src="https://m.media-amazon.com/images/I/51fwVakbDpL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DVXMZMR1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Camino Portuguese Patch + Trail Map Card // Camino De Santiago • Portugués • Global Shipping" src="https://m.media-amazon.com/images/I/51fwVakbDpL._SL500_.jpg"/></a>
 
 
 The **Camino Portuguese Patch + Trail Map Card** is ideal for avid hikers, pilgrims, and travelers planning to embark on the **Camino de Santiago Portugués route**. If you appreciate meaningful souvenirs or need a handy trail reference during your journey, this compact and stylish item is perfect for you. It caters especially to those who value both functionality and memorabilia in their travel gear.
@@ -74,10 +74,10 @@ This **Camino Portuguese Patch + Trail Map Card** combines practicality with a s
 
 The colorful patch serves not only as a token of accomplishment but also as a durable, eye-catching accessory that can be attached to gear or clothing. Manufactured by **BuenXCamino**, this item maintains high quality standards, making it a trustworthy companion for your pilgrimage. Whether you are preparing for the journey or commemorating your experience, this item provides both utility and sentimental value.
 
-## <a href="https://www.amazon.com/dp/B0B7DSXVDS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cute-patch Scallop Shell Patch</a>
+## <a href="https://www.amazon.com/dp/B0B7DSXVDS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cute-patch Scallop Shell Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0B7DSXVDS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cute-Patch Scallop Shell Patch with Cross of Saint James Camino De Santiago Camigas Embroidered Hook and Loop Patch" src="https://m.media-amazon.com/images/I/41eE7nj3HKL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B7DSXVDS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cute-Patch Scallop Shell Patch with Cross of Saint James Camino De Santiago Camigas Embroidered Hook and Loop Patch" src="https://m.media-amazon.com/images/I/41eE7nj3HKL._SL500_.jpg"/></a>
 
 
 The **Cute-Patch Scallop Shell Patch with Cross of Saint James Camino De Santiago Camigas Embroidered Hook and Loop Patch** is ideal for pilgrims, travelers, and enthusiasts of the **Camino De Santiago** pilgrimage. If you want to proudly display your journey or connection to this historic path, or if you appreciate meaningful embroidered patches with cultural significance, this patch is perfect for you. It also suits collectors of unique travel memorabilia and those who enjoy customizing backpacks, jackets, or hats with symbolic designs.
@@ -99,10 +99,10 @@ This **embroidered scallop shell patch** is designed to capture the essence of t
 
 The patch’s compact size of **3.5 by 3.5 inches** allows it to fit seamlessly onto backpacks, jackets, hats, or even travel journals. This versatility makes it an excellent choice for anyone wanting to keep a tangible reminder of their journey or admiration for the Camino De Santiago. Additionally, as a product from the reliable **Cute-Patch brand**, users can trust in its quality and durability, ensuring that it remains a cherished keepsake for years to come.
 
-## <a href="https://www.amazon.com/dp/B0DG3S51FZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino De Santiago Spain Pin Button 2.25 Inch 2-pack Scallop Shell</a>
+## <a href="https://www.amazon.com/dp/B0DG3S51FZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino De Santiago Spain Pin Button 2.25 Inch 2-pack Scallop Shell</a>
 
 
-<a href="https://www.amazon.com/dp/B0DG3S51FZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Camino De Santiago Spain Pin Button 2.25 inch 2-Pack Scallop Shell – Pinback Button for Jeans Pants Shirt Backpack – Pins for Clothes Hat Cap ID45000" src="https://m.media-amazon.com/images/I/511XABZ1PnL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DG3S51FZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Camino De Santiago Spain Pin Button 2.25 inch 2-Pack Scallop Shell – Pinback Button for Jeans Pants Shirt Backpack – Pins for Clothes Hat Cap ID45000" src="https://m.media-amazon.com/images/I/511XABZ1PnL._SL500_.jpg"/></a>
 
 
 The **Camino De Santiago Spain Pin Button 2.25 inch 2-Pack Scallop Shell** is perfect for travelers, pilgrims, and enthusiasts of the famous **Camino de Santiago** pilgrimage route. If you want to showcase your connection to this historic journey or simply love unique, meaningful accessories, this pin set is an ideal choice. It’s also great for collectors of travel memorabilia or those who want to add a pop of color and symbolism to their everyday wear.
@@ -125,10 +125,10 @@ The **Camino De Santiago Spain Pin Button** offers a blend of meaningful symboli
 
 Crafted by **No Thorns Media**, these pins are built to last and maintain their vivid **red color** despite daily wear. Their versatility allows users to personalize a wide range of clothing and accessories, making them suitable for both casual and travel use. Whether you’re commemorating a completed pilgrimage or simply showing your admiration for the Camino, these pins combine style, durability, and meaningful design in one small package.
 
-## <a href="https://www.amazon.com/dp/B0D643HFGY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Generic Camino 2026 Patch</a>
+## <a href="https://www.amazon.com/dp/B0D643HFGY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Generic Camino 2026 Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0D643HFGY?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Generic Camino 2026 Patch (3.5 Inch) Iron-on or Sew-on Embroidery Badge Buen Camino De Santiago Travel Souvenir Emblem DIY Gift Patches, Large, Blue, KarmaCamino25" src="https://m.media-amazon.com/images/I/519HEWPPfEL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D643HFGY?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Generic Camino 2026 Patch (3.5 Inch) Iron-on or Sew-on Embroidery Badge Buen Camino De Santiago Travel Souvenir Emblem DIY Gift Patches, Large, Blue, KarmaCamino25" src="https://m.media-amazon.com/images/I/519HEWPPfEL._SL500_.jpg"/></a>
 
 
 The **Generic Camino 2026 Patch (3.5 Inch)** is ideal for travelers, pilgrims, and souvenir collectors who want to commemorate their journey along the famous **Buen Camino De Santiago**. Whether you're a seasoned hiker or someone looking for a meaningful DIY gift, this **embroidered badge** offers a versatile and attractive way to celebrate your adventure or share the spirit of the Camino with others.
@@ -151,10 +151,10 @@ This **Generic Camino 2026 Patch** stands out with its high-quality **embroidery
 
 The patch’s lightweight and durable construction ensure it withstands the rigors of travel while maintaining its aesthetic appeal. Whether you want to add a unique touch to your backpack, jacket, or hat, or gift it to someone who values travel souvenirs, this patch merges functionality with sentiment. Its brand, **Karma Patch**, guarantees a quality product designed for travelers and DIY enthusiasts alike, making it a meaningful keepsake from the Camino journey.
 
-## <a href="https://www.amazon.com/dp/B0F925NPCS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Official Camino Credential + 2026 Commemorative Camino De Santiago Patch + Trail Map Card</a>
+## <a href="https://www.amazon.com/dp/B0F925NPCS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Official Camino Credential + 2026 Commemorative Camino De Santiago Patch + Trail Map Card</a>
 
 
-<a href="https://www.amazon.com/dp/B0F925NPCS?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Official Camino Credential + 2026 Commemorative Camino de Santiago Patch + Trail Map Card // Camino de Santiago Shell // Santiago de Compostela" src="https://m.media-amazon.com/images/I/51f1quA7RRL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F925NPCS?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Official Camino Credential + 2026 Commemorative Camino de Santiago Patch + Trail Map Card // Camino de Santiago Shell // Santiago de Compostela" src="https://m.media-amazon.com/images/I/51f1quA7RRL._SL500_.jpg"/></a>
 
 
 Ideal for **pilgrims**, **travel enthusiasts**, and anyone planning to walk the **Camino de Santiago**, the **Official Camino Credential + 2026 Commemorative Camino de Santiago Patch + Trail Map Card** is an essential companion. This item is perfect for those who want to document their journey, collect stamps along the way, and keep a meaningful memento of their pilgrimage to **Santiago de Compostela**.
@@ -177,10 +177,10 @@ The **Official Camino Credential** serves as both a practical tool and a cherish
 
 Additionally, the **trail map card** offers a convenient reference, helping walkers stay on course without carrying bulky maps or guidebooks. Its compact and lightweight design ensures that it won’t weigh down travelers, making it an ideal addition to any pilgrim’s gear. Manufactured by **BuenXCamino**, this item combines functionality and meaningful symbolism for an enhanced Camino experience.
 
-## <a href="https://www.amazon.com/dp/B0B7DRNVVV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cute-patch The Camino Shell Patch</a>
+## <a href="https://www.amazon.com/dp/B0B7DRNVVV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Cute-patch The Camino Shell Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0B7DRNVVV?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cute-Patch The Camino Shell Patch Camino De Santiago Embroidered Iron on Patch" src="https://m.media-amazon.com/images/I/51lhU+wx8qL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B7DRNVVV?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Cute-Patch The Camino Shell Patch Camino De Santiago Embroidered Iron on Patch" src="https://m.media-amazon.com/images/I/51lhU+wx8qL._SL500_.jpg"/></a>
 
 
 The **Cute-Patch The Camino Shell Patch Camino De Santiago Embroidered Iron on Patch** is ideal for travelers, pilgrims, and enthusiasts of the famous **Camino de Santiago** pilgrimage route. If you want to personalize your backpack, jacket, or hat with a meaningful symbol that represents your journey or admiration for this historic trail, this patch is perfect for you. It also appeals to collectors of unique patches and those who appreciate detailed embroidery work.
@@ -203,10 +203,10 @@ This **embroidered iron-on patch** stands out with its intricate detailing of th
 
 Crafted by **Cute-Patch**, this patch balances quality and design, providing a durable and visually appealing accessory. The white color ensures that it blends well with diverse fabrics and colors, making it versatile for various uses. Whether you are a seasoned pilgrim or a casual fan of the Camino de Santiago, this patch serves as a charming reminder of the adventure and spirit behind the trail.
 
-## <a href="https://www.amazon.com/dp/B07QZZ38MC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino De Santiago Patch</a>
+## <a href="https://www.amazon.com/dp/B07QZZ38MC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino De Santiago Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B07QZZ38MC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Camino De Santiago Patch (3 Inch) Embroidered Iron/Sew on Badge Way of St James Scallop Shell Pilgrim Walk Souvenir" src="https://m.media-amazon.com/images/I/51mTB1CZNBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07QZZ38MC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Camino De Santiago Patch (3 Inch) Embroidered Iron/Sew on Badge Way of St James Scallop Shell Pilgrim Walk Souvenir" src="https://m.media-amazon.com/images/I/51mTB1CZNBL._SL500_.jpg"/></a>
 
 
 Ideal for **pilgrims**, **travel enthusiasts**, and those who cherish the **Camino De Santiago** journey, the **Camino De Santiago Patch (3 Inch)** is perfect for anyone wanting to commemorate their walk or show appreciation for the **Way of St James**. Whether you’re a seasoned pilgrim or a collector of meaningful souvenirs, this **embroidered iron/sew-on badge** is a great addition to your backpack, jacket, or travel gear.
@@ -229,10 +229,10 @@ The **Camino De Santiago Patch** is crafted by the brand **FEZIHEGH**, known for
 
 Thanks to its dual iron-on and sew-on application options, users can easily attach the patch to backpacks, jackets, or hats, allowing for a personalized and durable display. The compact 3-inch size ensures it is noticeable without overwhelming your gear, making it an ideal way to celebrate your journey or show admiration for the pilgrimage culture wherever you go.
 
-## <a href="https://www.amazon.com/dp/B0F24TMGRT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino Francés Patch + Trail Map Card</a>
+## <a href="https://www.amazon.com/dp/B0F24TMGRT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camino Francés Patch + Trail Map Card</a>
 
 
-<a href="https://www.amazon.com/dp/B0F24TMGRT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Camino Francés Patch + Trail Map Card // Camino De Santiago • Francés • Global Shipping" src="https://m.media-amazon.com/images/I/51LVOb8NH9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0F24TMGRT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Camino Francés Patch + Trail Map Card // Camino De Santiago • Francés • Global Shipping" src="https://m.media-amazon.com/images/I/51LVOb8NH9L._SL500_.jpg"/></a>
 
 
 The **Camino Francés Patch + Trail Map Card** by **BuenXCamino** is perfect for avid hikers and pilgrims planning to embark on the iconic **Camino De Santiago Francés** route. Ideal for those who want a practical keepsake that also serves as a handy navigation aid, this compact item suits travelers seeking both functionality and a meaningful memento of their journey.
@@ -254,10 +254,10 @@ This **Camino Francés Patch + Trail Map Card** merges practicality with sentime
 
 Its compact and lightweight design ensures that it won't add unnecessary bulk or weight to your backpack. The durable materials used by **BuenXCamino** guarantee that both the patch and map card withstand the rigors of outdoor use. For those seeking a unique souvenir or a practical tool to accompany their journey, this item strikes the perfect balance between function and memorabilia.
 
-## <a href="https://www.amazon.com/dp/B0DXLHV3PK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scallop Shell Patch With Cross Of Saint James</a>
+## <a href="https://www.amazon.com/dp/B0DXLHV3PK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Scallop Shell Patch With Cross Of Saint James</a>
 
 
-<a href="https://www.amazon.com/dp/B0DXLHV3PK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Scallop Shell Patch with Cross of Saint James + Trail Map Card // Camino de Santiago // 3.5" src="https://m.media-amazon.com/images/I/51mOF+gUDDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DXLHV3PK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Scallop Shell Patch with Cross of Saint James + Trail Map Card // Camino de Santiago // 3.5" src="https://m.media-amazon.com/images/I/51mOF+gUDDL._SL500_.jpg"/></a>
 
 
 The **Scallop Shell Patch with Cross of Saint James + Trail Map Card** is perfect for **pilgrims**, **travel enthusiasts**, and anyone who has a deep appreciation for the **Camino de Santiago** journey. Ideal for those who want to showcase their connection to this historic pilgrimage, this **embroidered patch** serves as both a meaningful keepsake and a stylish accessory for backpacks, jackets, or hats.

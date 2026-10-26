@@ -20,10 +20,10 @@ For two people, options like the Clostnature Polaris or Naturehike Cloud Up Pro 
 
 
 
-## <a href="https://www.amazon.com/dp/B09CT17FKB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Crux 1 Person Tent</a>
+## <a href="https://www.amazon.com/dp/B09CT17FKB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Crux 1 Person Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B09CT17FKB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Crux 1 Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Single Person" src="https://m.media-amazon.com/images/I/41Eh0jKFQkL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09CT17FKB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Crux 1 Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Single Person" src="https://m.media-amazon.com/images/I/41Eh0jKFQkL._SL500_.jpg"/></a>
 
 
 The **Clostnature Crux 1 Person Tent** is ideal for solo adventurers and backpackers who prioritize lightweight and compact gear. If you enjoy hiking, camping, or exploring the outdoors alone, this ultralight tent offers a practical solution to stay protected without adding bulk to your pack.
@@ -47,10 +47,10 @@ The **Clostnature Crux 1 Person Tent** features a sleek and efficient design wit
 
 Constructed by **Clostnature**, a trusted manufacturer, this tent offers reliable protection against wind and rain, making it a dependable choice for solo campers. Its quick setup mechanism saves time and effort, allowing users to focus more on enjoying their adventure. Overall, the combination of portability, durability, and comfort makes this tent an excellent companion for anyone seeking an efficient shelter during their backpacking trips.
 
-## <a href="https://www.amazon.com/dp/B07D4J3J2R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Polaris Lightweight Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B07D4J3J2R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clostnature Polaris Lightweight Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B07D4J3J2R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Polaris Lightweight Backpacking Tent - 2 Person Ultralight Waterproof Camping Tent, 3 Season Large Size Easy Setup Tent for Family, Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07D4J3J2R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clostnature Polaris Lightweight Backpacking Tent - 2 Person Ultralight Waterproof Camping Tent, 3 Season Large Size Easy Setup Tent for Family, Outdoor, Hiking and Mountaineering" src="https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg"/></a>
 
 
 The **Clostnature Polaris Lightweight Backpacking Tent** is ideal for outdoor enthusiasts who prioritize portability without compromising on comfort. Perfect for couples or solo adventurers seeking a reliable **2 person ultralight waterproof camping tent**, it suits those who enjoy **hiking, mountaineering,** or family camping trips in **3 season** conditions.
@@ -73,10 +73,10 @@ The **Clostnature Polaris Backpacking Tent** combines functionality with lightwe
 
 Designed with the needs of hikers and mountaineers in mind, this tent balances durability and comfort without adding unnecessary bulk. Its **3 season capability** makes it versatile for spring, summer, and fall expeditions, offering reliable protection against wind and rain. Overall, the Clostnature Polaris tent is an excellent choice for those looking to enhance their camping experience with a lightweight, waterproof, and easy-to-use shelter.
 
-## <a href="https://www.amazon.com/dp/B0D6YG7YV4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Atepa Ultralight Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B0D6YG7YV4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Atepa Ultralight Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B0D6YG7YV4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ATEPA Ultralight Backpacking Tent, 1 Person Nylon Lightweight 4000MM+ Waterproof Windproof Portable Solo Tent with Aluminum Frame &amp; Rainfly for Backpacking Hiking Camping Motorcycle, 4 Season" src="https://m.media-amazon.com/images/I/41CnJB-LkSL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D6YG7YV4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="ATEPA Ultralight Backpacking Tent, 1 Person Nylon Lightweight 4000MM+ Waterproof Windproof Portable Solo Tent with Aluminum Frame &amp; Rainfly for Backpacking Hiking Camping Motorcycle, 4 Season" src="https://m.media-amazon.com/images/I/41CnJB-LkSL._SL500_.jpg"/></a>
 
 
 The **ATEPA Ultralight Backpacking Tent** is ideal for solo adventurers who prioritize portability and durability. Whether you are a **backpacker, hiker, camper, or motorcycle traveler** seeking a reliable shelter that can withstand various weather conditions, this tent is designed to meet your needs. Its lightweight design and robust features make it perfect for those who want to travel light without compromising on protection and comfort.
@@ -100,10 +100,10 @@ The **ATEPA Ultralight Backpacking Tent** stands out with its combination of lig
 
 With dimensions thoughtfully designed for solo use, this tent provides enough space to sleep comfortably while maintaining a compact form that’s easy to carry. Its weight of just **3.78 pounds** makes it one of the most portable options on the market, ideal for those who need to minimize pack weight. Overall, the **ATEPA Ultralight Backpacking Tent** offers a blend of convenience, protection, and durability that appeals to serious outdoor enthusiasts looking for a dependable, lightweight shelter.
 
-## <a href="https://www.amazon.com/dp/B08M7GFJ7H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Featherstone Ul Obsidian 1 Person Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B08M7GFJ7H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Featherstone Ul Obsidian 1 Person Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B08M7GFJ7H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Featherstone UL Obsidian 1 Person Backpacking Tent Lightweight, 3-Season, Waterproof for Camping and Hiking- Includes Footprint &amp; Mesh Gear Loft - Freestanding with Ultralight Footprint-Fly Capability" src="https://m.media-amazon.com/images/I/31y0KnX41-L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08M7GFJ7H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Featherstone UL Obsidian 1 Person Backpacking Tent Lightweight, 3-Season, Waterproof for Camping and Hiking- Includes Footprint &amp; Mesh Gear Loft - Freestanding with Ultralight Footprint-Fly Capability" src="https://m.media-amazon.com/images/I/31y0KnX41-L._SL500_.jpg"/></a>
 
 
 The **Featherstone UL Obsidian 1 Person Backpacking Tent** is ideal for solo adventurers who prioritize lightweight and compact gear for their outdoor excursions. If you are an avid hiker, camper, or backpacker seeking a reliable, waterproof shelter that performs well in various weather conditions, this tent is designed with you in mind. Its **3-season capability** makes it perfect for spring, summer, and fall trips, providing versatility without extra bulk.
@@ -126,10 +126,10 @@ The **Featherstone UL Obsidian Tent** features a durable yet lightweight fabric 
 
 With its compact packed size and manageable weight, this tent is particularly beneficial for solo travelers who need to minimize their load without sacrificing comfort and shelter quality. The **3-season rating** means it can handle a variety of weather conditions, making it a versatile choice for most backpacking trips. Overall, the Featherstone UL Obsidian is a smart investment for outdoor enthusiasts who demand lightweight, dependable, and functional camping gear.
 
-## <a href="https://www.amazon.com/dp/B08XWHV178?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Tent 3-season Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B08XWHV178?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ultralight Tent 3-season Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B08XWHV178?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Tent 3-Season Backpacking Tent 1 Person/2 Person Camping Tent, Outdoor Lightweight LanShan Camping Tent Shelter, Perfect for Camping, Trekking, Kayaking, Climbing, Hiking, 2 Person, Green" src="https://m.media-amazon.com/images/I/41-93kVsVqL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08XWHV178?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ultralight Tent 3-Season Backpacking Tent 1 Person/2 Person Camping Tent, Outdoor Lightweight LanShan Camping Tent Shelter, Perfect for Camping, Trekking, Kayaking, Climbing, Hiking, 2 Person, Green" src="https://m.media-amazon.com/images/I/41-93kVsVqL._SL500_.jpg"/></a>
 
 
 The **Ultralight Tent 3-Season Backpacking Tent** is ideal for outdoor enthusiasts who prioritize portability without sacrificing durability. Perfect for **campers, trekkers, kayakers, climbers,** and **hikers** seeking a reliable shelter that supports solo or duo adventures, this tent offers an excellent balance of lightweight design and weather resistance. If you need a compact and sturdy tent for 3-season use, this is a great choice.
@@ -153,10 +153,10 @@ The **Ultralight Tent 3-Season Backpacking Tent** features a compact and efficie
 
 Additionally, this tent offers a versatile sleeping space for either one or two people, accommodating solo travelers or pairs with ease. The durable materials and thoughtful design from **FBSPORT** guarantee a balance between sturdiness and portability, ensuring campers remain protected while minimizing bulk. The green color is an aesthetic bonus, blending naturally into forest or mountain environments for those who prefer a low-profile campsite.
 
-## <a href="https://www.amazon.com/dp/B0DJX7RT3H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Naturehike Cloud Up Pro Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B0DJX7RT3H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Naturehike Cloud Up Pro Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B0DJX7RT3H?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Naturehike Cloud up Pro Backpacking Tent, Waterproof Lightweight 2 Person Tent for Camping, Double Layer Two Person Tent with Footprint(Cloud up Pro(Orange - 210T Polyester))" src="https://m.media-amazon.com/images/I/31CI68aYl9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DJX7RT3H?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Naturehike Cloud up Pro Backpacking Tent, Waterproof Lightweight 2 Person Tent for Camping, Double Layer Two Person Tent with Footprint(Cloud up Pro(Orange - 210T Polyester))" src="https://m.media-amazon.com/images/I/31CI68aYl9L._SL500_.jpg"/></a>
 
 
 The **Naturehike Cloud up Pro Backpacking Tent** is ideal for outdoor enthusiasts who prioritize lightweight, durable, and waterproof gear. Perfect for hikers, campers, and backpackers seeking a reliable two-person tent that balances portability with comfort, this tent is designed for those who want to travel light without compromising on protection from the elements.
@@ -179,10 +179,10 @@ The **Naturehike Cloud up Pro Backpacking Tent** boasts a robust double-layer de
 
 Crafted with **210T Polyester** in a vibrant **orange** shade, this tent not only stands out for safety but also features durable materials that resist wear and tear. The inclusion of a footprint adds an extra layer of ground insulation and protection, extending the tent’s lifespan. Overall, this tent offers an excellent balance of portability, comfort, and weather resistance, making it a top choice for campers looking to enhance their outdoor experience.
 
-## <a href="https://www.amazon.com/dp/B08F7HQHXQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt Tent</a>
+## <a href="https://www.amazon.com/dp/B08F7HQHXQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Forceatt Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B08F7HQHXQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt Tent 2-3 Person Camping Tent, Waterproof and Windproof 3-4 Seasons Ultralight Backpack Tent, can be Installed Immediately, Suitable for Hiking, Camping, Outdoor (2-Person-Dark Green)" src="https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08F7HQHXQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Forceatt Tent 2-3 Person Camping Tent, Waterproof and Windproof 3-4 Seasons Ultralight Backpack Tent, can be Installed Immediately, Suitable for Hiking, Camping, Outdoor (2-Person-Dark Green)" src="https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg"/></a>
 
 
 The **Forceatt Tent 2-3 Person Camping Tent** is ideal for outdoor enthusiasts who need a reliable, lightweight shelter for hiking, camping, or any outdoor adventure across multiple seasons. Perfect for those seeking a compact yet spacious tent that can comfortably accommodate two to three people, this tent is especially suited for individuals who value quick setup and durability in varying weather conditions.
@@ -206,10 +206,10 @@ The **Forceatt Tent** boasts impressive dimensions, measuring 110 inches in heig
 
 Constructed by the reputable brand **Forceatt**, this tent combines quality materials with thoughtful design to meet the demands of avid campers. Its **dark green color** not only provides camouflage in forested areas but also adds to the tent’s aesthetic appeal. The ultralight design is beneficial for those carrying gear over long distances, reducing fatigue without sacrificing durability. Overall, this tent represents a solid investment for anyone looking to enhance their outdoor experience with a practical, weather-resistant shelter.
 
-## <a href="https://www.amazon.com/dp/B0813M3VWZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camppal 1 Person Tent</a>
+## <a href="https://www.amazon.com/dp/B0813M3VWZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Camppal 1 Person Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B0813M3VWZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="camppal 1 Person Tent for Camping Hiking Mountain Hunting Backpacking Tents 4 Season Resistance to Windproof Rainproof and Waterproof" src="https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0813M3VWZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="camppal 1 Person Tent for Camping Hiking Mountain Hunting Backpacking Tents 4 Season Resistance to Windproof Rainproof and Waterproof" src="https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg"/></a>
 
 
 The **camppal 1 Person Tent** is ideal for solo adventurers who enjoy **camping, hiking, mountain hunting,** or **backpacking**. If you are someone seeking a lightweight, durable, and compact shelter that can withstand diverse weather conditions, this tent is designed for you. Its **4 season resistance** makes it perfect for those who want reliable protection from wind, rain, and snow during all their outdoor excursions.
@@ -231,10 +231,10 @@ The **camppal 1 Person Tent** offers exceptional durability with its **windproof
 
 Additionally, the tent’s **4 season resistance** means it is engineered to handle everything from summer rainstorms to winter snow, making it a versatile shelter for year-round outdoor enthusiasts. The vibrant **orange color** also adds a safety element, helping users stay visible in remote areas. Overall, this tent is a smart choice for solo adventurers seeking a dependable and easy-to-transport shelter.
 
-## <a href="https://www.amazon.com/dp/B0D1Y687W3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mc Tomount Bivy Tent</a>
+## <a href="https://www.amazon.com/dp/B0D1Y687W3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mc Tomount Bivy Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B0D1Y687W3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MC TOMOUNT Bivy Tent Ultralight 2.42LBS 1 Person Backpacking Tent for Camping Hiking" src="https://m.media-amazon.com/images/I/31BAe+UlMHL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D1Y687W3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="MC TOMOUNT Bivy Tent Ultralight 2.42LBS 1 Person Backpacking Tent for Camping Hiking" src="https://m.media-amazon.com/images/I/31BAe+UlMHL._SL500_.jpg"/></a>
 
 
 The **MC TOMOUNT Bivy Tent Ultralight 2.42LBS** is ideal for solo adventurers who prioritize lightweight gear for backpacking, camping, and hiking. If you are a minimalist camper or a hiker seeking compact and efficient shelter without added bulk, this **1 Person Backpacking Tent** is designed to meet your needs.
@@ -256,10 +256,10 @@ The **MC TOMOUNT Bivy Tent** features a lightweight and compact design that make
 
 Constructed with durable materials from the reputable **MC brand**, this bivy tent offers reliable shelter in various weather conditions. The brown color helps it blend into natural surroundings, ideal for campers who value discretion. Overall, the ultralight and compact nature of this tent makes it a fantastic choice for anyone focused on efficient and minimalist outdoor gear.
 
-## <a href="https://www.amazon.com/dp/B082P6RMBC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Grand Mesa 2p Backpacking Tent</a>
+## <a href="https://www.amazon.com/dp/B082P6RMBC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kelty Grand Mesa 2p Backpacking Tent</a>
 
 
-<a href="https://www.amazon.com/dp/B082P6RMBC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Grand Mesa 2P Backpacking Tent – 3 Season 2 Man Camping Thru Hiking Shelter, Aluminum Poles, Single Door + Vestibule, 2024 Model (2P)" src="https://m.media-amazon.com/images/I/41j87X9pHXL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B082P6RMBC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kelty Grand Mesa 2P Backpacking Tent – 3 Season 2 Man Camping Thru Hiking Shelter, Aluminum Poles, Single Door + Vestibule, 2024 Model (2P)" src="https://m.media-amazon.com/images/I/41j87X9pHXL._SL500_.jpg"/></a>
 
 
 The **Kelty Grand Mesa 2P Backpacking Tent** is ideal for outdoor enthusiasts who seek a reliable and lightweight shelter for **3 season camping**. Whether you are a solo hiker looking for extra space or a pair of campers wanting a durable and easy-to-carry tent, this model offers the perfect balance of comfort and portability. Its compact size and efficient design make it suitable for backpackers and thru-hikers who prioritize weight without sacrificing protection from the elements.

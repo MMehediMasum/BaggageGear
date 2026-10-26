@@ -23,10 +23,10 @@ Look for glues that dry fast and do not irritate skin. Some come with brushes fo
 
 
 
-## <a href="https://www.amazon.com/dp/B0CMD7TNS8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fittdyhe Fabric Glue Permanent</a>
+## <a href="https://www.amazon.com/dp/B0CMD7TNS8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fittdyhe Fabric Glue Permanent</a>
 
 
-<a href="https://www.amazon.com/dp/B0CMD7TNS8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FITTDYHE Fabric Glue Permanent, 60 ML Washable Clear Clothing Glue, Super Fabric Adhesive for Rhinestones, Patches, Clothes, Denim, Leather, Polyester, Fabrics, Doll Repair, Flannel, Cotton" src="https://m.media-amazon.com/images/I/41gNOHaM-VL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CMD7TNS8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FITTDYHE Fabric Glue Permanent, 60 ML Washable Clear Clothing Glue, Super Fabric Adhesive for Rhinestones, Patches, Clothes, Denim, Leather, Polyester, Fabrics, Doll Repair, Flannel, Cotton" src="https://m.media-amazon.com/images/I/41gNOHaM-VL._SL500_.jpg"/></a>
 
 
 The **FITTDYHE Fabric Glue Permanent** is ideal for crafters, DIY enthusiasts, and anyone looking to repair or customize their **clothing** and **fabrics**. Whether you want to attach **rhinestones**, **patches**, or mend **denim**, **leather**, and **cotton** materials, this **washable clear clothing glue** offers a reliable and easy-to-use solution. It’s perfect for those who need a strong adhesive that is both flexible and permanent without the hassle of sewing.
@@ -49,10 +49,10 @@ The **FITTDYHE Fabric Glue Permanent** boasts a versatile formula that adheres t
 
 Additionally, the glue's compact packaging and easy applicator design allow for precise control, which is essential when working with delicate items like **rhinestones** or small fabric pieces on dolls. This enhances the user experience by minimizing mess and waste. Overall, the **FITTDYHE Fabric Glue Permanent** is a practical and dependable adhesive that simplifies fabric repair and customization for users of all skill levels.
 
-## <a href="https://www.amazon.com/dp/B0CCY4HSG9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onarieer Fabric Glue</a>
+## <a href="https://www.amazon.com/dp/B0CCY4HSG9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onarieer Fabric Glue</a>
 
 
-<a href="https://www.amazon.com/dp/B0CCY4HSG9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Onarieer 60ml Fabric Glue Permanent Clear Washable for Patches Drying Waterproof Fabric Adhesive Glue for All Fabrics, Clothes, Cotton, Flannel, Denim, Leather, Polyester, Doll Repair" src="https://m.media-amazon.com/images/I/516Gfw39kvL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CCY4HSG9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Onarieer 60ml Fabric Glue Permanent Clear Washable for Patches Drying Waterproof Fabric Adhesive Glue for All Fabrics, Clothes, Cotton, Flannel, Denim, Leather, Polyester, Doll Repair" src="https://m.media-amazon.com/images/I/516Gfw39kvL._SL500_.jpg"/></a>
 
 
 The **Onarieer 60ml Fabric Glue** is ideal for crafters, DIY enthusiasts, and anyone needing a reliable adhesive for **fabric repairs** or creative projects. Whether you work with **clothes, cotton, denim, leather, polyester**, or other textiles, this glue offers a versatile solution for bonding materials without sewing. It is perfect for those who want a **permanent, washable, and waterproof** adhesive option that holds up through everyday wear and washing.
@@ -74,10 +74,10 @@ The **Onarieer Fabric Glue** is designed to provide a strong, flexible bond that
 
 Additionally, this glue’s versatility across multiple fabric types makes it a handy tool for various projects—from patching torn clothes and repairing dolls to crafting customized fabric items. The 60ml size offers enough product to complete multiple repairs or creative endeavors, making it a cost-effective choice for hobbyists and professionals alike.
 
-## <a href="https://www.amazon.com/dp/B0872K28Q1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gorilla Waterproof Fabric Glue</a>
+## <a href="https://www.amazon.com/dp/B0872K28Q1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Gorilla Waterproof Fabric Glue</a>
 
 
-<a href="https://www.amazon.com/dp/B0872K28Q1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gorilla Waterproof Fabric Glue 2.5 Ounce Tube, Clear, (Pack of 1)" src="https://m.media-amazon.com/images/I/41D7HjjcakL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0872K28Q1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Gorilla Waterproof Fabric Glue 2.5 Ounce Tube, Clear, (Pack of 1)" src="https://m.media-amazon.com/images/I/41D7HjjcakL._SL500_.jpg"/></a>
 
 
 The **Gorilla Waterproof Fabric Glue 2.5 Ounce Tube** is ideal for DIY enthusiasts, crafters, and anyone looking to repair or create with fabric. If you need a reliable adhesive that bonds strongly to various fabrics and withstands water exposure, this clear glue is perfect for your projects. Whether you're fixing torn clothing, outdoor gear, or upholstery, this product offers a durable and flexible solution.
@@ -100,10 +100,10 @@ The **Gorilla Waterproof Fabric Glue** offers a robust solution for bonding fabr
 
 Additionally, the glue’s flexibility once dried allows the fabric to retain its natural softness and movement. This prevents the glued area from becoming stiff or uncomfortable, a common downside with many adhesives. The compact tube design also makes application precise and convenient, reducing mess and waste. Overall, this product balances strength, clarity, and flexibility, making it a versatile choice for a wide range of fabric projects.
 
-## <a href="https://www.amazon.com/dp/B0CMQQ8Z9T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yeardera Fabric Glue</a>
+## <a href="https://www.amazon.com/dp/B0CMQQ8Z9T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yeardera Fabric Glue</a>
 
 
-<a href="https://www.amazon.com/dp/B0CMQQ8Z9T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yeardera Fabric Glue, Permanent, Clear, Washable Adhesive for Clothing, Patches, Leather, Cotton, Denim, Polyester, Flannel, and All Fabrics" src="https://m.media-amazon.com/images/I/515diTGEVaL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CMQQ8Z9T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Yeardera Fabric Glue, Permanent, Clear, Washable Adhesive for Clothing, Patches, Leather, Cotton, Denim, Polyester, Flannel, and All Fabrics" src="https://m.media-amazon.com/images/I/515diTGEVaL._SL500_.jpg"/></a>
 
 
 The **Yeardera Fabric Glue** is ideal for anyone looking to make quick, durable repairs or creative additions to their clothing and fabric items without sewing. Perfect for crafters, DIY enthusiasts, and those who want a reliable adhesive for materials like **cotton, denim, leather, polyester**, and more, this product offers a simple solution for patching or customizing garments and textiles. If you want a **permanent, clear, and washable** adhesive that works on all fabric types, this glue is designed just for you.
@@ -124,10 +124,10 @@ The **Yeardera Fabric Glue** stands out because of its versatility and ease of u
 
 Another significant benefit is its permanent yet washable nature, which ensures that your fabric items remain wearable and look great even after multiple washes. This eliminates the worry of glue residue or weakening bonds after laundering. Lightweight and portable, the glue is also an excellent choice for on-the-go repairs or crafting sessions, making it a must-have tool for anyone who values durability and aesthetics in fabric adhesive solutions.
 
-## <a href="https://www.amazon.com/dp/B0DX6T6C6G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Phixbear Fabric Glue</a>
+## <a href="https://www.amazon.com/dp/B0DX6T6C6G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Phixbear Fabric Glue</a>
 
 
-<a href="https://www.amazon.com/dp/B0DX6T6C6G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PHIXBEAR Fabric Glue Permanent in Glass Bottle with Brush, Permanent Washable Liquid Stitch, Safe, No Irritation, and Skin-Friendly. Leather Glue for Repair Clothes, Leather, Patches(1.68 fl.oz 50ml)" src="https://m.media-amazon.com/images/I/51xzb9wW0vL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DX6T6C6G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="PHIXBEAR Fabric Glue Permanent in Glass Bottle with Brush, Permanent Washable Liquid Stitch, Safe, No Irritation, and Skin-Friendly. Leather Glue for Repair Clothes, Leather, Patches(1.68 fl.oz 50ml)" src="https://m.media-amazon.com/images/I/51xzb9wW0vL._SL500_.jpg"/></a>
 
 
 The **PHIXBEAR Fabric Glue Permanent** is ideal for individuals who frequently engage in DIY repairs or crafts involving **clothes, leather, and patches**. Whether you're a hobbyist, a tailor, or someone looking to extend the life of your garments without sewing, this product is designed for you. Its skin-friendly and non-irritating formula makes it especially suitable for users with sensitive skin or those who prefer safer adhesive options.
@@ -149,10 +149,10 @@ The **PHIXBEAR Fabric Glue** features a thoughtfully designed applicator with a 
 
 Additionally, the glue’s **skin-friendly** and **non-irritating** properties make it safe for everyday use, even for those with sensitive skin. Manufactured by **Nanjing Yinuo Adhesive Products Co., Ltd**, the product comes in a vibrant **canary color** bottle that is both practical and easy to spot in your toolkit. Its compact dimensions (Height: 3.8 inches, Width: 1.4 inches, Length: 1.4 inches) and lightweight design (0.25 pounds) make it a convenient adhesive solution for home, travel, or professional use.
 
-## <a href="https://www.amazon.com/dp/B0CFLQDLTF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Oaz 8 Pieces Nylon Repair Patches</a>
+## <a href="https://www.amazon.com/dp/B0CFLQDLTF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Oaz 8 Pieces Nylon Repair Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0CFLQDLTF?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OAZ 8 Pieces 7.87 x 5.9 inch Nylon Repair Patches Nylon Fabric Patch Self-Adhesive Nylon Repair Tape Waterproof Lightweight Outdoor Gear Repair Patch Kit for Down Jacket Clothing Tent Bag (Black)" src="https://m.media-amazon.com/images/I/31fGbsyT4VL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CFLQDLTF?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OAZ 8 Pieces 7.87 x 5.9 inch Nylon Repair Patches Nylon Fabric Patch Self-Adhesive Nylon Repair Tape Waterproof Lightweight Outdoor Gear Repair Patch Kit for Down Jacket Clothing Tent Bag (Black)" src="https://m.media-amazon.com/images/I/31fGbsyT4VL._SL500_.jpg"/></a>
 
 
 The **OAZ 8 Pieces Nylon Repair Patches** are ideal for outdoor enthusiasts, campers, hikers, and anyone who owns **down jackets, tents, bags, or other outdoor gear** that may experience wear and tear. If you need a reliable and easy-to-use solution for quick repairs on your **nylon fabrics**, this self-adhesive patch kit is perfect for you.
@@ -175,10 +175,10 @@ The **OAZ Nylon Fabric Patch Kit** offers an excellent balance of convenience an
 
 Each patch's sizable dimension of **7.87 x 5.9 inches** provides ample coverage to mend rips and tears effectively, restoring the functionality of your equipment. Additionally, the black color enhances the patch’s versatility, blending seamlessly with many outdoor fabrics. Overall, the **OAZ Repair Patches** provide a practical and durable solution for maintaining your gear and extending its lifespan, making them a must-have accessory for anyone serious about outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B001D4CYP6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Beacon 12pa1 Patch Attach</a>
+## <a href="https://www.amazon.com/dp/B001D4CYP6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Beacon 12pa1 Patch Attach</a>
 
 
-<a href="https://www.amazon.com/dp/B001D4CYP6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Beacon 12PA1 Patch Attach, 1-Ounce (Packaging may vary)" src="https://m.media-amazon.com/images/I/41ZQR5-G7ML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B001D4CYP6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Beacon 12PA1 Patch Attach, 1-Ounce (Packaging may vary)" src="https://m.media-amazon.com/images/I/41ZQR5-G7ML._SL500_.jpg"/></a>
 
 
 The **Beacon 12PA1 Patch Attach, 1-Ounce** is ideal for individuals who need a reliable and clear adhesive for fabric repairs or craft projects. Whether you are a DIY enthusiast, a professional tailor, or someone looking to quickly fix torn clothes or upholstery, this product provides an effective solution for bonding patches and materials with ease.
@@ -201,10 +201,10 @@ The **Beacon 12PA1 Patch Attach** features a clear formula that ensures your fab
 
 With its user-friendly application and trusted **Beacon Adhesives** branding, this product offers peace of mind to users who want reliable patch attachment without compromising fabric appearance. The lightweight design and small size make it an excellent choice for small repairs or craft projects, allowing for precise application without mess or waste.
 
-## <a href="https://www.amazon.com/dp/B0DP2QB71N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nanoxa 100ml Fabric Glue</a>
+## <a href="https://www.amazon.com/dp/B0DP2QB71N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nanoxa 100ml Fabric Glue</a>
 
 
-<a href="https://www.amazon.com/dp/B0DP2QB71N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Nanoxa 100ml Fabric Glue, Extra Strong Quick Bond Fabric Adhesive, Machine Washable and Permanent Bond for Clothing Hemming, Leather, DIY Crafts, Doll Repair, Upholstery, Textile, Felt and Badges" src="https://m.media-amazon.com/images/I/51-mBae3PQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DP2QB71N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Nanoxa 100ml Fabric Glue, Extra Strong Quick Bond Fabric Adhesive, Machine Washable and Permanent Bond for Clothing Hemming, Leather, DIY Crafts, Doll Repair, Upholstery, Textile, Felt and Badges" src="https://m.media-amazon.com/images/I/51-mBae3PQL._SL500_.jpg"/></a>
 
 
 The **Nanoxa 100ml Fabric Glue** is ideal for crafters, DIY enthusiasts, and anyone looking to make quick, durable repairs on clothing, upholstery, or various textiles. If you need a reliable adhesive that offers a **permanent bond** and is safe for machine-washed fabrics, this product is designed for you.
@@ -226,10 +226,10 @@ The **Nanoxa Fabric Glue** stands out due to its **extra strong adhesive formula
 
 Another key benefit is the glue’s **machine washable** property, allowing repaired items to be cleaned without the bond weakening or breaking down. This adds tremendous value for users who want durable and lasting fixes. Additionally, the product’s easy application and versatility across different materials make it an indispensable tool for hobbyists and professionals alike.
 
-## <a href="https://www.amazon.com/dp/B0CX91K44S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yaflc Fabric Glue Permanent 75 Ml</a>
+## <a href="https://www.amazon.com/dp/B0CX91K44S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Yaflc Fabric Glue Permanent 75 Ml</a>
 
 
-<a href="https://www.amazon.com/dp/B0CX91K44S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="YAFLC Fabric Glue Permanent 75 ml, Fabric Glue for Patch, Clear Fabrics Adhesive for Clothing Permanent Washable, Leather Glues for All Fabrics, Cotton, Denim, Flannel, Polyester" src="https://m.media-amazon.com/images/I/51bQo8zc+xL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CX91K44S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="YAFLC Fabric Glue Permanent 75 ml, Fabric Glue for Patch, Clear Fabrics Adhesive for Clothing Permanent Washable, Leather Glues for All Fabrics, Cotton, Denim, Flannel, Polyester" src="https://m.media-amazon.com/images/I/51bQo8zc+xL._SL500_.jpg"/></a>
 
 
 The **YAFLC Fabric Glue Permanent 75 ml** is perfect for anyone looking to make quick, durable repairs or creative fabric projects without sewing. Ideal for DIY enthusiasts, crafters, or anyone who needs a reliable adhesive for various materials like **cotton, denim, flannel, polyester**, and even **leather**. If you want a washable, clear-drying solution for patching or bonding fabrics permanently, this product is designed for you.
@@ -252,10 +252,10 @@ The **YAFLC Fabric Glue** is designed to provide a strong, long-lasting bond tha
 
 Additionally, the compact and ergonomic bottle design allows for precise application, minimizing mess and waste. Whether you're patching a tear on your favorite denim jacket or adding decorative fabric patches, this glue offers a convenient alternative to sewing, saving time and effort. Overall, it combines durability, ease of use, and versatility, making it a valuable addition to any fabric crafting or repair toolkit.
 
-## <a href="https://www.amazon.com/dp/B0DSFRKYXB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fabric Glue Permanent</a>
+## <a href="https://www.amazon.com/dp/B0DSFRKYXB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fabric Glue Permanent</a>
 
 
-<a href="https://www.amazon.com/dp/B0DSFRKYXB?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fabric Glue Permanent, 100% Waterproof, Strong Adhesive for Clothes, Clear Washable Clothing Glue for All Fabrics, Patches, Leather, Cotton, Polyester, Denim, Flannel, Doll Repair 15ML x 2" src="https://m.media-amazon.com/images/I/41LHWFmIbEL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DSFRKYXB?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fabric Glue Permanent, 100% Waterproof, Strong Adhesive for Clothes, Clear Washable Clothing Glue for All Fabrics, Patches, Leather, Cotton, Polyester, Denim, Flannel, Doll Repair 15ML x 2" src="https://m.media-amazon.com/images/I/41LHWFmIbEL._SL500_.jpg"/></a>
 
 
 Ideal for crafters, tailors, and DIY enthusiasts, the **Fabric Glue Permanent** is perfect for anyone looking to mend or customize their clothes without sewing. Whether you need to fix a tear, attach patches, or repair delicate fabrics, this product offers a reliable and user-friendly solution for all fabric types, including leather, cotton, polyester, denim, and flannel.

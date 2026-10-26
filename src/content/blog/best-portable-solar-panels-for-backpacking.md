@@ -20,10 +20,10 @@ This makes them ideal for outdoor use in various weather conditions. Whether hik
 
 
 
-## <a href="https://www.amazon.com/dp/B09H6GGK55?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flexsolar 40w Foldable Solar Panel Charger</a>
+## <a href="https://www.amazon.com/dp/B09H6GGK55?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flexsolar 40w Foldable Solar Panel Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B09H6GGK55?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FlexSolar 40W Foldable Solar Panel Charger with USB-C and USB-A Outputs for Phones, Power Banks, Tablets - Waterproof for Camping, Hiking, Backpacking" src="https://m.media-amazon.com/images/I/41cY0bvydkL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09H6GGK55?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FlexSolar 40W Foldable Solar Panel Charger with USB-C and USB-A Outputs for Phones, Power Banks, Tablets - Waterproof for Camping, Hiking, Backpacking" src="https://m.media-amazon.com/images/I/41cY0bvydkL._SL500_.jpg"/></a>
 
 
 The **FlexSolar 40W Foldable Solar Panel Charger** is ideal for outdoor enthusiasts such as campers, hikers, and backpackers who need a reliable and portable power source. This product is perfect for those who want to keep their **phones, power banks, and tablets** charged while off the grid, without relying on traditional power outlets. If you value lightweight, waterproof technology that can withstand outdoor conditions, this solar panel charger is a smart investment.
@@ -46,10 +46,10 @@ The **FlexSolar 40W Foldable Solar Panel Charger** features a sleek black finish
 
 With this solar panel charger, users benefit from a sustainable and eco-friendly power source that eliminates the need for disposable batteries or heavy power banks. Its portability is enhanced by the slim height of just under 0.1 inches when folded, allowing it to fit comfortably in backpacks or camping gear. Whether you’re on a weekend hike or an extended backpacking trip, the **FlexSolar 40W** provides dependable energy to keep your essential devices charged and ready for use.
 
-## <a href="https://www.amazon.com/dp/B085KVK22P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goal Zero Nomad 10</a>
+## <a href="https://www.amazon.com/dp/B085KVK22P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Goal Zero Nomad 10</a>
 
 
-<a href="https://www.amazon.com/dp/B085KVK22P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Goal Zero Nomad 10, Foldable Monocrystalline 10 Watt Solar Panel with USB Port, Portable Solar Panel Backpacking, Hiking and Travel. Lightweight Backpack Solar Panel Charger with Adjustable Kickstand" src="https://m.media-amazon.com/images/I/31ePFvrKbML._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B085KVK22P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Goal Zero Nomad 10, Foldable Monocrystalline 10 Watt Solar Panel with USB Port, Portable Solar Panel Backpacking, Hiking and Travel. Lightweight Backpack Solar Panel Charger with Adjustable Kickstand" src="https://m.media-amazon.com/images/I/31ePFvrKbML._SL500_.jpg"/></a>
 
 
 The **Goal Zero Nomad 10** is ideal for outdoor enthusiasts such as **backpackers, hikers, and travelers** who need a reliable and portable way to charge their devices while on the go. If you require a lightweight, compact solar panel that can easily fit into your backpack and provide power in remote locations, this product is designed specifically for you.
@@ -72,10 +72,10 @@ The **Goal Zero Nomad 10** features a highly efficient **monocrystalline solar p
 
 Equipped with an **adjustable kickstand**, the Nomad 10 can be positioned at the ideal angle to maximize solar exposure, enhancing charging speed and efficiency. Its slim dimensions make it easy to pack away or attach to the outside of a backpack for continuous charging while hiking. While it offers modest power output, this solar panel is an excellent choice for lightweight, on-the-go charging solutions for anyone spending time in the wilderness or traveling to off-grid locations.
 
-## <a href="https://www.amazon.com/dp/B01EXWCPLC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bigblue Solar Charger</a>
+## <a href="https://www.amazon.com/dp/B01EXWCPLC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bigblue Solar Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B01EXWCPLC?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="[Upgraded] BigBlue 3 USB Ports 28W Solar Charger(5V/4.8A Max), Portable Foldable Solar Panel for Camping, IP44 Waterproof, Compatible with iPhone 11/XS/XS Max/XR/X/8/7, iPad, Samsung Galaxy LG etc." src="https://m.media-amazon.com/images/I/41jiYtfANJL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01EXWCPLC?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="[Upgraded] BigBlue 3 USB Ports 28W Solar Charger(5V/4.8A Max), Portable Foldable Solar Panel for Camping, IP44 Waterproof, Compatible with iPhone 11/XS/XS Max/XR/X/8/7, iPad, Samsung Galaxy LG etc." src="https://m.media-amazon.com/images/I/41jiYtfANJL._SL500_.jpg"/></a>
 
 
 The **[Upgraded] BigBlue 3 USB Ports 28W Solar Charger** is ideal for outdoor enthusiasts, campers, and travelers who need a reliable and portable power source. If you often find yourself in remote locations without access to electrical outlets, or if you want an eco-friendly way to keep your devices charged during adventures, this solar charger is perfect for you. It is especially suitable for users of various smartphones and tablets like the **iPhone 11/XS/XS Max/XR/X/8/7**, **iPad**, **Samsung Galaxy**, and **LG** devices.
@@ -97,10 +97,10 @@ The **BigBlue 3 USB Ports 28W Solar Charger** features three USB output ports, a
 
 Thanks to its **IP44 waterproof rating**, this solar charger can handle splashes and light rain, giving users peace of mind during unpredictable weather. The high-efficiency solar panels convert sunlight into power quickly, providing a sustainable energy source that reduces dependence on traditional power outlets. Whether you need to recharge your **iPhone**, **iPad**, or Android devices, this charger delivers convenience and eco-friendly performance for those on the go.
 
-## <a href="https://www.amazon.com/dp/B0DRXG7WFM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Marbero 30w Solar Charger</a>
+## <a href="https://www.amazon.com/dp/B0DRXG7WFM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Marbero 30w Solar Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B0DRXG7WFM?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51-e2NFK+3L._SL500_.jpg"/>23% High Efficiency Foldable Portable Solar Panel for Power Station Phones Tablets 2 USB Ports &amp; DC Fast Charging IP65 Waterproof for Camping Outdoor Backpacking Cloudy"/&gt;</a>
+<a href="https://www.amazon.com/dp/B0DRXG7WFM?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51-e2NFK+3L._SL500_.jpg"/>23% High Efficiency Foldable Portable Solar Panel for Power Station Phones Tablets 2 USB Ports &amp; DC Fast Charging IP65 Waterproof for Camping Outdoor Backpacking Cloudy"/&gt;</a>
 
 
 The **MARBERO 30W Solar Charger** is ideal for outdoor enthusiasts, campers, and travelers who need a reliable and efficient way to charge their devices while on the go. If you require a compact, portable solution to power your **phones, tablets, and power stations** during outdoor adventures or emergency situations, this foldable solar panel is designed for you. Its lightweight and durable design makes it perfect for backpacking, camping, and any off-grid activity.
@@ -123,10 +123,10 @@ The **MARBERO 30W Solar Charger** features a foldable design measuring **12.4 x 
 
 Additionally, the charger weighs only **1.59 pounds**, making it easy to carry for extended periods. Its robust build and weather-resistant features mean it can withstand rough conditions, whether you are hiking, camping, or backpacking. While it does not store power internally, its efficient solar cells and fast charging ports provide a reliable power source on sunny days. This makes the MARBERO solar charger an excellent companion for anyone looking to maintain connectivity and power during their outdoor adventures without relying on traditional electrical outlets.
 
-## <a href="https://www.amazon.com/dp/B07FMFGGNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiluckey Solar Charger</a>
+## <a href="https://www.amazon.com/dp/B07FMFGGNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Hiluckey Solar Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B07FMFGGNR?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiluckey Solar Charger 25000mAh, Outdoor USB C Portable Power Bank with 4 Solar Panels, 3A Fast Charge External Battery Pack with 3 USB Outputs Compatible with Smartphones, Tablets, etc." src="https://m.media-amazon.com/images/I/51qJdbpqXYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07FMFGGNR?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Hiluckey Solar Charger 25000mAh, Outdoor USB C Portable Power Bank with 4 Solar Panels, 3A Fast Charge External Battery Pack with 3 USB Outputs Compatible with Smartphones, Tablets, etc." src="https://m.media-amazon.com/images/I/51qJdbpqXYL._SL500_.jpg"/></a>
 
 
 The **Hiluckey Solar Charger 25000mAh** is ideal for outdoor enthusiasts, travelers, and anyone frequently away from traditional power sources. If you need a reliable, portable charging solution that can keep your **smartphones**, **tablets**, and other USB devices powered during camping trips, hikes, or emergencies, this power bank is a perfect choice.
@@ -150,10 +150,10 @@ The **Hiluckey Solar Charger** features a robust **25000mAh** battery capacity t
 
 Designed with portability in mind, this power bank measures just **6.18 inches** in length and weighs only **1.21 pounds**, making it easy to carry in a backpack or travel bag. The **3A fast charge** technology ensures your devices get powered quickly, minimizing downtime. Its sturdy construction and bright **orange color** also make it easy to spot and reliable in various environments, from camping sites to emergency kits.
 
-## <a href="https://www.amazon.com/dp/B0C1F4G3Q7?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Solar Panel Kit Portable Solar Panel</a>
+## <a href="https://www.amazon.com/dp/B0C1F4G3Q7?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Solar Panel Kit Portable Solar Panel</a>
 
 
-<a href="https://www.amazon.com/dp/B0C1F4G3Q7?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Solar Panel Kit, Portable Solar Panel, 40W Output Efficiency High Conversion Efficiency Foldable Solar Panel Portable Solar Panels for Hiking for Backpacking (Black)" src="https://m.media-amazon.com/images/I/31KeMjU7JQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C1F4G3Q7?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Solar Panel Kit, Portable Solar Panel, 40W Output Efficiency High Conversion Efficiency Foldable Solar Panel Portable Solar Panels for Hiking for Backpacking (Black)" src="https://m.media-amazon.com/images/I/31KeMjU7JQL._SL500_.jpg"/></a>
 
 
 The **Solar Panel Kit** is ideal for outdoor enthusiasts such as hikers, backpackers, and campers who need a reliable and efficient power source on the go. This **portable solar panel** is perfect for those who value lightweight, compact gear with high conversion efficiency to keep their devices charged during extended trips in remote locations.
@@ -175,10 +175,10 @@ The **Shanrya Solar Panel Kit** features a compact and foldable design weighing 
 
 Additionally, the kit's durable build ensures it can withstand the rigors of outdoor adventures, while its compatibility with various devices allows for versatile usage. Although its efficiency depends on sunlight availability, this **portable solar panel** provides an eco-friendly and cost-effective solution for those needing consistent power in off-grid environments.
 
-## <a href="https://www.amazon.com/dp/B0D6B5X2N9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flexsolar 60w Portable Solar Panels Chargers</a>
+## <a href="https://www.amazon.com/dp/B0D6B5X2N9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Flexsolar 60w Portable Solar Panels Chargers</a>
 
 
-<a href="https://www.amazon.com/dp/B0D6B5X2N9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FlexSolar 60W Portable Solar Panels Chargers with PD3.0 USB-C,QC3.0 USB-A and DC Outputs Foldable IP67 Waterproof Power Emergency Camping for Small Power Station Generator,Phones, Power Banks, Tablets" src="https://m.media-amazon.com/images/I/41-mc7sBLrL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D6B5X2N9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="FlexSolar 60W Portable Solar Panels Chargers with PD3.0 USB-C,QC3.0 USB-A and DC Outputs Foldable IP67 Waterproof Power Emergency Camping for Small Power Station Generator,Phones, Power Banks, Tablets" src="https://m.media-amazon.com/images/I/41-mc7sBLrL._SL500_.jpg"/></a>
 
 
 The **FlexSolar 60W Portable Solar Panels Charger** is ideal for outdoor enthusiasts, campers, and anyone needing a reliable, eco-friendly power source on the go. This product is perfect for users who want to charge small power station generators, phones, power banks, and tablets efficiently while enjoying activities such as camping, hiking, or emergency preparedness.
@@ -200,10 +200,10 @@ The **FlexSolar 60W Portable Solar Panels Charger** boasts a compact yet powerfu
 
 Built to withstand outdoor elements, this charger’s **IP67 waterproof rating** guarantees protection against dust and water, which is essential for camping trips or emergency scenarios. Additionally, the lightweight design coupled with multiple output options makes it a practical and eco-friendly power solution for anyone needing reliable energy access away from traditional power sources.
 
-## <a href="https://www.amazon.com/dp/B0DXVGD15W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bigblue Ultra-light Portable 25w Solar Panel Charger</a>
+## <a href="https://www.amazon.com/dp/B0DXVGD15W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bigblue Ultra-light Portable 25w Solar Panel Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B0DXVGD15W?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="[Upgraded] BigBlue Ultra-Light Portable 25W Solar Panel Charger with USB-A and USB-C Ports, 0.84 lbs Pocket-Size IP68 Waterproof, Folded Solar Panel Compatible with Cellphone,Power Bank,Camping Light" src="https://m.media-amazon.com/images/I/41JkXJPELBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DXVGD15W?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="[Upgraded] BigBlue Ultra-Light Portable 25W Solar Panel Charger with USB-A and USB-C Ports, 0.84 lbs Pocket-Size IP68 Waterproof, Folded Solar Panel Compatible with Cellphone,Power Bank,Camping Light" src="https://m.media-amazon.com/images/I/41JkXJPELBL._SL500_.jpg"/></a>
 
 
 The **[Upgraded] BigBlue Ultra-Light Portable 25W Solar Panel Charger** is ideal for outdoor enthusiasts, travelers, and anyone in need of a reliable, compact power source on the go. If you frequently camp, hike, or spend time in remote areas without easy access to electricity, this **portable solar charger** is designed to keep your devices like cellphones, power banks, and camping lights charged and ready. Its lightweight and foldable design make it perfect for those who value convenience and efficiency in their gear.
@@ -226,10 +226,10 @@ This **BigBlue 25W Solar Panel Charger** stands out for its combination of power
 
 Additionally, the **IP68 waterproof rating** guarantees that the charger can withstand rain, splashes, and even brief submersion, making it suitable for outdoor activities in varying weather conditions. The 25W power output delivers sufficient energy to quickly recharge smartphones, power banks, and camping lights, helping users stay connected and powered up no matter where they are. This combination of features makes the BigBlue solar charger a dependable companion for those seeking sustainable and portable energy solutions.
 
-## <a href="https://www.amazon.com/dp/B0DQ8SV4S2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ecosonique 30w Portable Solar Charger</a>
+## <a href="https://www.amazon.com/dp/B0DQ8SV4S2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ecosonique 30w Portable Solar Charger</a>
 
 
-<a href="https://www.amazon.com/dp/B0DQ8SV4S2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ecosonique 30W Portable Solar Charger Foldable Solar Panels with USB C USB A Fast Charging Waterproof for Camping Backpacking Compatible with Cell Phone, iPhone, iPad, Samsung Galaxy, LG, Power Banks" src="https://m.media-amazon.com/images/I/41o58xKIm9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DQ8SV4S2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Ecosonique 30W Portable Solar Charger Foldable Solar Panels with USB C USB A Fast Charging Waterproof for Camping Backpacking Compatible with Cell Phone, iPhone, iPad, Samsung Galaxy, LG, Power Banks" src="https://m.media-amazon.com/images/I/41o58xKIm9L._SL500_.jpg"/></a>
 
 
 The **Ecosonique 30W Portable Solar Charger** is ideal for outdoor enthusiasts such as campers, backpackers, and travelers who need a reliable and efficient way to charge their devices on the go. It is perfect for those who use multiple gadgets like **cell phones, iPhones, iPads, Samsung Galaxy, LG devices**, and **power banks**, and want a sustainable energy solution that is lightweight and easy to carry.
@@ -252,10 +252,10 @@ The **Ecosonique 30W Portable Solar Charger** features advanced foldable solar p
 
 Users benefit from the sustainable energy solution that this charger offers, reducing dependence on electrical outlets and power banks during outdoor adventures. Its fast charging capability ensures that devices are powered up quickly, keeping you connected and powered throughout your trip. Whether you are hiking, camping, or backpacking, the Ecosonique charger provides a reliable and eco-friendly way to maintain your devices’ battery life while on the move.
 
-## <a href="https://www.amazon.com/dp/B0DD7M6VFQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">30w Portable Solar Panel</a>
+## <a href="https://www.amazon.com/dp/B0DD7M6VFQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">30w Portable Solar Panel</a>
 
 
-<a href="https://www.amazon.com/dp/B0DD7M6VFQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="30W Portable Solar Panel with USB QC3.0/USB-C/18V DC(10 Connectors), Backpacking Solar Charger for Power Station, Phones, Laptop, Foldable Solar Panels for Camping Home Hiking" src="https://m.media-amazon.com/images/I/41BUc7+PLOL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DD7M6VFQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="30W Portable Solar Panel with USB QC3.0/USB-C/18V DC(10 Connectors), Backpacking Solar Charger for Power Station, Phones, Laptop, Foldable Solar Panels for Camping Home Hiking" src="https://m.media-amazon.com/images/I/41BUc7+PLOL._SL500_.jpg"/></a>
 
 
 The **30W Portable Solar Panel** is ideal for outdoor enthusiasts, travelers, and anyone in need of a reliable, eco-friendly power source on the go. Whether you're backpacking, camping, hiking, or facing a power outage at home, this solar charger is designed for those who value portability, versatility, and efficient energy harvesting in various environments.

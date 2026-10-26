@@ -22,10 +22,10 @@ Ventilated designs keep pets cool during warm weather. Safety straps and buckles
 
 
 
-## <a href="https://www.amazon.com/dp/B0888TWR2Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kurgo G-train Dog Carrier Backpack</a>
+## <a href="https://www.amazon.com/dp/B0888TWR2Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kurgo G-train Dog Carrier Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0888TWR2Z?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kurgo G-Train - Dog Carrier Backpack for Small Pets - Cat &amp; Dog Backpack for Hiking, Camping or Travel - Waterproof Bottom - Red" src="https://m.media-amazon.com/images/I/41ZK6+h2uZL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0888TWR2Z?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kurgo G-Train - Dog Carrier Backpack for Small Pets - Cat &amp; Dog Backpack for Hiking, Camping or Travel - Waterproof Bottom - Red" src="https://m.media-amazon.com/images/I/41ZK6+h2uZL._SL500_.jpg"/></a>
 
 
 The **Kurgo G-Train Dog Carrier Backpack** is ideal for pet owners who love outdoor activities such as **hiking, camping, or traveling** with their small dogs or cats. If you have a small pet that needs a comfortable, secure, and convenient way to accompany you on adventures, this backpack is designed to meet those needs. It’s perfect for those who want to keep their pets close while ensuring their safety and comfort on the go.
@@ -48,10 +48,10 @@ The **Kurgo G-Train Dog Carrier Backpack** features a thoughtfully designed **wa
 
 With dimensions tailored to accommodate small pets, this backpack provides enough space for your furry friend to sit or lie down comfortably while being securely contained. The durable materials from a reputable manufacturer ensure long-lasting use, even in rugged environments. Overall, this dog carrier backpack combines functionality, comfort, and safety, making it an excellent choice for active pet owners who want to bring their small companions along on their adventures.
 
-## <a href="https://www.amazon.com/dp/B0BZVLSSPP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onetigris Dog Backpack</a>
+## <a href="https://www.amazon.com/dp/B0BZVLSSPP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Onetigris Dog Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0BZVLSSPP?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OneTigris Dog Backpack for Medium &amp; Large Dogs, Mammoth Nylon Dog Pack Tactical Backpack Harness with Side Pockets for Hiking Walking Training Running" src="https://m.media-amazon.com/images/I/41PE1Hkp9PL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0BZVLSSPP?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="OneTigris Dog Backpack for Medium &amp; Large Dogs, Mammoth Nylon Dog Pack Tactical Backpack Harness with Side Pockets for Hiking Walking Training Running" src="https://m.media-amazon.com/images/I/41PE1Hkp9PL._SL500_.jpg"/></a>
 
 
 The **OneTigris Dog Backpack** is ideal for active pet owners who enjoy outdoor activities such as hiking, walking, training, or running with their medium to large dogs. This **tactical backpack harness** is designed for those who want to provide their dogs with a functional and comfortable way to carry essentials while staying safe and visible. If you are looking for a durable and practical solution to enhance your dog's outdoor experience, this backpack is a great choice.
@@ -73,10 +73,10 @@ The **OneTigris Dog Backpack** stands out with its rugged construction using **M
 
 Additionally, the inclusion of **side pockets** allows you to carry essential items such as water, treats, or waste bags, minimizing the need for extra baggage. This backpack is thoughtfully designed to support active dogs by distributing weight evenly, which can help build endurance and keep your dog engaged during exercise. Whether you're training or exploring new trails, this tactical dog pack combines practicality with comfort, making it a valuable accessory for outdoor enthusiasts.
 
-## <a href="https://www.amazon.com/dp/B0CLF5X6ZG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The Maxine One Medium Dog Carrier</a>
+## <a href="https://www.amazon.com/dp/B0CLF5X6ZG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The Maxine One Medium Dog Carrier</a>
 
 
-<a href="https://www.amazon.com/dp/B0CLF5X6ZG?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Maxine One Medium Dog Carrier by Little Chonk | Dog Backpack Carrier for Medium Sized Breeds | Adjustable Front Facing Pet Carrier for Travel | Dog Hiking Backpack - Bark After Dark Black" src="https://m.media-amazon.com/images/I/31AXRZFWDYL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CLF5X6ZG?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="The Maxine One Medium Dog Carrier by Little Chonk | Dog Backpack Carrier for Medium Sized Breeds | Adjustable Front Facing Pet Carrier for Travel | Dog Hiking Backpack - Bark After Dark Black" src="https://m.media-amazon.com/images/I/31AXRZFWDYL._SL500_.jpg"/></a>
 
 
 The **Maxine One Medium Dog Carrier** by **Little Chonk** is ideal for pet owners who have medium-sized dog breeds and love to travel or hike with their furry friends. If you want a comfortable, adjustable, and stylish way to carry your dog on adventures, this **dog backpack carrier** is perfect for you. It suits those who prioritize both functionality and comfort while ensuring their pets are secure and happy.
@@ -99,10 +99,10 @@ The **Maxine One Medium Dog Carrier** offers an adjustable front-facing design t
 
 Made with durability in mind, the **Bark After Dark Black** color not only adds a sleek look but also helps conceal dirt, making it ideal for outdoor adventures. The carrier’s build quality, backed by the **LITTLE CHONK** brand, guarantees reliability and comfort. Whether you are planning a day hike, a city stroll, or air travel, this dog backpack carrier offers convenience and safety, ensuring your medium-sized dog stays comfortable and close to you throughout your journey.
 
-## <a href="https://www.amazon.com/dp/B09BQQHV15?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Texsens Pet Backpack Carrier For Small Cats Dogs</a>
+## <a href="https://www.amazon.com/dp/B09BQQHV15?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Texsens Pet Backpack Carrier For Small Cats Dogs</a>
 
 
-<a href="https://www.amazon.com/dp/B09BQQHV15?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Texsens Pet Backpack Carrier for Small Cats Dogs | Ventilated Design, Safety Straps, Buckle Support, Collapsible | Designed for Travel, Hiking &amp; Outdoor Use (Light Gray)" src="https://m.media-amazon.com/images/I/514pvVhENdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09BQQHV15?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Texsens Pet Backpack Carrier for Small Cats Dogs | Ventilated Design, Safety Straps, Buckle Support, Collapsible | Designed for Travel, Hiking &amp; Outdoor Use (Light Gray)" src="https://m.media-amazon.com/images/I/514pvVhENdL._SL500_.jpg"/></a>
 
 
 The **Texsens Pet Backpack Carrier** is ideal for pet owners who love to travel, hike, or enjoy outdoor activities with their small cats or dogs. If you are looking for a comfortable, secure, and ventilated carrier that allows you to bring your furry friend along safely, this product is designed with you in mind. It is perfect for those who prioritize convenience and pet safety during outdoor adventures.
@@ -124,10 +124,10 @@ The **Texsens Pet Backpack Carrier** is crafted with a ventilated design that ke
 
 Additionally, the carrier's collapsible feature makes it highly convenient for storage and transport. When not in use, you can easily fold it down to save space, making it ideal for those with limited storage at home or in vehicles. The dimensions provide ample room for small pets, while the light gray color adds a modern and sleek look suitable for any outdoor adventure.
 
-## <a href="https://www.amazon.com/dp/B08QL6X1RJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">K9 Sport Sack Knavigate</a>
+## <a href="https://www.amazon.com/dp/B08QL6X1RJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">K9 Sport Sack Knavigate</a>
 
 
-<a href="https://www.amazon.com/dp/B08QL6X1RJ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="K9 Sport Sack Knavigate - X-Large, Lunar Rock - Ideal for Dogs with 23-25” Back Length - Adjustable, Backpack-Style Carrier with Internal Frame &amp; Padded Hip Belt" src="https://m.media-amazon.com/images/I/410aw2YOxzL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08QL6X1RJ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="K9 Sport Sack Knavigate - X-Large, Lunar Rock - Ideal for Dogs with 23-25” Back Length - Adjustable, Backpack-Style Carrier with Internal Frame &amp; Padded Hip Belt" src="https://m.media-amazon.com/images/I/410aw2YOxzL._SL500_.jpg"/></a>
 
 
 The **K9 Sport Sack Knavigate - X-Large, Lunar Rock** is perfect for active dog owners who want to comfortably carry their medium to large-sized dogs, specifically those with a **23-25” back length**. This adjustable, backpack-style carrier is ideal for hikers, travelers, and pet parents who need a reliable and ergonomic solution to bring their furry friends along on outdoor adventures.
@@ -150,10 +150,10 @@ The **K9 Sport Sack Knavigate** features a sturdy internal frame that ensures yo
 
 Additionally, the backpack’s spacious interior and secure enclosure allow your dog to relax and enjoy the ride without feeling cramped. The **22-inch height, 11-inch width, and 11-inch length** dimensions provide ample room for your dog to sit or lie down comfortably. With its sleek **Lunar Grey** color and ergonomic design, the K9 Sport Sack Knavigate is a blend of functionality and style, making it a top option for anyone looking to bring their larger dogs along on their adventures.
 
-## <a href="https://www.amazon.com/dp/B00MNSKLXI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kyjen Outward Hound The Quick Release Dog Backpack</a>
+## <a href="https://www.amazon.com/dp/B00MNSKLXI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Kyjen Outward Hound The Quick Release Dog Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B00MNSKLXI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kyjen Outward Hound The Quick Release Dog BackPack (Assorted, Medium)" src="https://m.media-amazon.com/images/I/41EZw3eD7mL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00MNSKLXI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Kyjen Outward Hound The Quick Release Dog BackPack (Assorted, Medium)" src="https://m.media-amazon.com/images/I/41EZw3eD7mL._SL500_.jpg"/></a>
 
 
 The **Kyjen Outward Hound The Quick Release Dog BackPack (Assorted, Medium)** is ideal for dog owners who enjoy outdoor adventures with their pets, such as hiking, camping, or long walks. This product is perfect for those who want to give their dogs a functional accessory that not only carries essentials but also enhances their outdoor experience. Medium-sized dogs that are active and well-trained will benefit the most from this backpack.
@@ -175,10 +175,10 @@ This **dog backpack** features quick release buckles that make it simple to equi
 
 Its compact size is tailored to medium dogs, providing a secure fit that won’t hinder movement or cause discomfort. The backpack is ideal for carrying essential items like water bottles, treats, or waste bags, enhancing convenience during adventures. Overall, the **Kyjen Outward Hound Quick Release Dog BackPack** is a practical and thoughtfully designed product that supports an active lifestyle for both dogs and their owners.
 
-## <a href="https://www.amazon.com/dp/B07BVJWSD4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">K9 Sport Sack Plus 2</a>
+## <a href="https://www.amazon.com/dp/B07BVJWSD4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">K9 Sport Sack Plus 2</a>
 
 
-<a href="https://www.amazon.com/dp/B07BVJWSD4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="K9 Sport Sack Plus 2 - Small, Light Grey - Ideal for Dogs 13-16” Long - Adjustable, Backpack-Style Carrier with Multi-Functional Storage Pack, Thick Shoulder Straps &amp; Padded Back Panel" src="https://m.media-amazon.com/images/I/51xBEkqaOLL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07BVJWSD4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="K9 Sport Sack Plus 2 - Small, Light Grey - Ideal for Dogs 13-16” Long - Adjustable, Backpack-Style Carrier with Multi-Functional Storage Pack, Thick Shoulder Straps &amp; Padded Back Panel" src="https://m.media-amazon.com/images/I/51xBEkqaOLL._SL500_.jpg"/></a>
 
 
 The **K9 Sport Sack Plus 2 - Small, Light Grey** is perfect for pet owners who want a comfortable and practical way to carry their small dogs measuring 13-16” long. Ideal for active individuals who enjoy hiking, biking, or traveling with their pets, this **adjustable, backpack-style carrier** offers a secure and ergonomic solution for keeping your furry friend close while on the move.
@@ -200,10 +200,10 @@ The **K9 Sport Sack Plus 2** features a thoughtfully designed structure that bal
 
 Constructed with durable materials and a sleek **light grey finish**, this backpack-style carrier not only offers practicality but also style. Its compact dimensions of 16.0 inches in height, 6.0 inches in width, and 8.0 inches in length, combined with a lightweight build of just 1.44 pounds, ensure it won’t become cumbersome even during long adventures. Overall, the **K9 Sport Sack Plus 2** is an excellent choice for active pet owners seeking a reliable, comfortable, and functional dog carrier.
 
-## <a href="https://www.amazon.com/dp/B0B49RDY2T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Woyyho Pet Dog Carrier Backpack</a>
+## <a href="https://www.amazon.com/dp/B0B49RDY2T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Woyyho Pet Dog Carrier Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0B49RDY2T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOYYHO Pet Dog Carrier Backpack Small Dog Front Backpack Ventilated Mesh Dog Travel Back Pack with Safety Belt for Travel Hiking Cycling Outdoor Adventures (Size L: 10-14 lbs, Black)" src="https://m.media-amazon.com/images/I/4191aQD3hjL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B49RDY2T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WOYYHO Pet Dog Carrier Backpack Small Dog Front Backpack Ventilated Mesh Dog Travel Back Pack with Safety Belt for Travel Hiking Cycling Outdoor Adventures (Size L: 10-14 lbs, Black)" src="https://m.media-amazon.com/images/I/4191aQD3hjL._SL500_.jpg"/></a>
 
 
 The **WOYYHO Pet Dog Carrier Backpack** is ideal for pet owners who love to take their small dogs on outdoor adventures such as hiking, cycling, or traveling. If you have a dog weighing between **10-14 lbs** and want a convenient, comfortable, and safe way to carry them hands-free, this backpack is designed specifically for you. It caters to active individuals who prioritize both pet safety and comfort during their excursions.
@@ -226,10 +226,10 @@ This **WOYYHO dog carrier backpack** combines functionality and comfort through 
 
 The backpack’s ergonomic design with adjustable straps distributes weight evenly, providing comfort for the pet owner while carrying their furry friend. Its dimensions are thoughtfully crafted to accommodate small dogs comfortably without feeling cramped, making it a practical travel companion. Whether you’re exploring trails or navigating busy streets, this backpack supports both pet safety and owner convenience effectively.
 
-## <a href="https://www.amazon.com/dp/B07MQ2NCJZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountainsmith K9 Dog Pack</a>
+## <a href="https://www.amazon.com/dp/B07MQ2NCJZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Mountainsmith K9 Dog Pack</a>
 
 
-<a href="https://www.amazon.com/dp/B07MQ2NCJZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountainsmith K9 Dog Pack, Adjustable Chest and Back Harness Canine Backpack, Saddle Bags with Zippered Pockets for Camping, Travel, Outdoors, Backpacking, Hiking, Lava Red, Medium" src="https://m.media-amazon.com/images/I/41qDbLQ3Z5L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07MQ2NCJZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Mountainsmith K9 Dog Pack, Adjustable Chest and Back Harness Canine Backpack, Saddle Bags with Zippered Pockets for Camping, Travel, Outdoors, Backpacking, Hiking, Lava Red, Medium" src="https://m.media-amazon.com/images/I/41qDbLQ3Z5L._SL500_.jpg"/></a>
 
 
 The **Mountainsmith K9 Dog Pack** is ideal for active dog owners who enjoy outdoor adventures such as **camping**, **hiking**, and **backpacking**. This adjustable **chest and back harness** with saddle bags is perfect for medium-sized dogs who can carry their own supplies comfortably, making it a great choice for those who want to share the load and keep their furry companions engaged and active during travel.
@@ -252,10 +252,10 @@ The **Mountainsmith K9 Dog Pack** features an adjustable harness that comfortabl
 
 Designed with durability and functionality in mind, this dog pack utilizes high-quality materials from **Mountainsmith** that withstand rugged outdoor conditions. The vibrant **lava red color** not only adds style but also improves visibility, which is crucial for safety during hikes or travel. Overall, this canine backpack is an excellent tool for dog owners looking to combine practicality with comfort, making every adventure more enjoyable for both pet and owner.
 
-## <a href="https://www.amazon.com/dp/B089NQD8G5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Apollo Walker Dog &amp; Cat Carrier Backpack</a>
+## <a href="https://www.amazon.com/dp/B089NQD8G5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Apollo Walker Dog &amp; Cat Carrier Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B089NQD8G5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Apollo Walker Dog &amp; Cat Carrier Backpack for 4-15lb Pets - Ventilated Safe Design with Padded Back Support, Breathable Mesh Pet Backpack for Hiking, Travel, Outdoor (Black)" src="https://m.media-amazon.com/images/I/41FXbgtc7pL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B089NQD8G5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Apollo Walker Dog &amp; Cat Carrier Backpack for 4-15lb Pets - Ventilated Safe Design with Padded Back Support, Breathable Mesh Pet Backpack for Hiking, Travel, Outdoor (Black)" src="https://m.media-amazon.com/images/I/41FXbgtc7pL._SL500_.jpg"/></a>
 
 
 The **Apollo Walker Dog & Cat Carrier Backpack** is ideal for pet owners who enjoy outdoor activities such as hiking, traveling, or simply taking their small pets on the go. Designed specifically for pets weighing between **4-15 pounds**, this carrier is perfect for those seeking a comfortable, safe, and breathable solution to transport their furry companions. Whether you have a small dog or cat, this backpack ensures convenience and security during your adventures.

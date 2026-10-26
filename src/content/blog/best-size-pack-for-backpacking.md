@@ -24,10 +24,10 @@ For longer adventures, packs with 65 liters or more work better. Look for featur
 
 
 
-## <a href="https://www.amazon.com/dp/B078H6Z3C4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bseash 60l Waterproof Hiking Camping Backpack</a>
+## <a href="https://www.amazon.com/dp/B078H6Z3C4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bseash 60l Waterproof Hiking Camping Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B078H6Z3C4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bseash 60L Waterproof Hiking Camping Backpack with Rain Cover, Large Outdoor Sport Travel Daypack Rucksack for Climbing" src="https://m.media-amazon.com/images/I/41STR9Oj1jL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B078H6Z3C4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bseash 60L Waterproof Hiking Camping Backpack with Rain Cover, Large Outdoor Sport Travel Daypack Rucksack for Climbing" src="https://m.media-amazon.com/images/I/41STR9Oj1jL._SL500_.jpg"/></a>
 
 
 The **Bseash 60L Waterproof Hiking Camping Backpack** is ideal for outdoor enthusiasts who need a durable and spacious backpack for extended hiking, camping, or climbing trips. This backpack is perfect for adventurers seeking reliable protection against the elements and ample storage capacity for all their gear. Whether you are a seasoned climber or a weekend traveler, this backpack is designed to meet your outdoor needs.
@@ -49,10 +49,10 @@ The **Bseash 60L Waterproof Hiking Camping Backpack** is crafted with high-quali
 
 Designed for outdoor sports and travel, this backpack combines functionality with comfort. The ergonomic design helps distribute weight evenly, reducing strain during long hikes or climbs. Its sturdy construction and durable fabric make it resistant to abrasions and rough handling, providing long-term usability. Overall, this backpack is an excellent choice for anyone looking for a spacious, waterproof, and dependable daypack for outdoor activities.
 
-## <a href="https://www.amazon.com/dp/B07G5R12C6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loowoko 50l Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B07G5R12C6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Loowoko 50l Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B07G5R12C6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loowoko 50L Hiking Backpack, Waterproof Camping Essentials Bag with Rain Cover, 45+5 Liter Lightweight Backpacking Back Pack" src="https://m.media-amazon.com/images/I/41p6Sf1nUDL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07G5R12C6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Loowoko 50L Hiking Backpack, Waterproof Camping Essentials Bag with Rain Cover, 45+5 Liter Lightweight Backpacking Back Pack" src="https://m.media-amazon.com/images/I/41p6Sf1nUDL._SL500_.jpg"/></a>
 
 
 The **Loowoko 50L Hiking Backpack** is ideal for outdoor enthusiasts, campers, and hikers who need a reliable and spacious bag to carry their essentials comfortably. Whether you are planning a day hike or a multi-day camping trip, this **waterproof backpack** with a rain cover is designed for those who prioritize durability, lightweight design, and ample storage capacity. Its **50-liter capacity** suits adventurers looking for a versatile pack that can accommodate all their gear without weighing them down.
@@ -75,10 +75,10 @@ The **Loowoko 50L Hiking Backpack** features a well-thought-out design that bala
 
 Constructed by **Loowoko**, a trusted manufacturer in outdoor gear, this backpack emphasizes durability and user comfort. The adjustable shoulder straps and padded back panel improve airflow and support, enabling extended wear during long hikes. With its versatile storage options and robust build, the backpack is an excellent companion for anyone looking to combine convenience, protection, and space in their hiking equipment.
 
-## <a href="https://www.amazon.com/dp/B095K6PQ1T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Frelaxy Dry Bag</a>
+## <a href="https://www.amazon.com/dp/B095K6PQ1T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Frelaxy Dry Bag</a>
 
 
-<a href="https://www.amazon.com/dp/B095K6PQ1T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Frelaxy Dry Bag 3-Pack/5-Pack, Ultralight Dry Sack, Outdoor Bags Keep Gear Dry for Hiking, Backpacking, Kayaking, Camping, Swimming, Boating" src="https://m.media-amazon.com/images/I/41tbddTkGWS._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B095K6PQ1T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Frelaxy Dry Bag 3-Pack/5-Pack, Ultralight Dry Sack, Outdoor Bags Keep Gear Dry for Hiking, Backpacking, Kayaking, Camping, Swimming, Boating" src="https://m.media-amazon.com/images/I/41tbddTkGWS._SL500_.jpg"/></a>
 
 
 The **Frelaxy Dry Bag 3-Pack/5-Pack** is perfect for outdoor enthusiasts who need reliable and lightweight protection for their gear. Ideal for hikers, backpackers, kayakers, campers, swimmers, and boaters, this ultralight dry sack ensures that your belongings stay dry and safe in wet environments. If you often engage in water-related activities or unpredictable weather conditions, this dry bag set is a practical and essential investment.
@@ -101,10 +101,10 @@ The **Frelaxy Dry Bag** is crafted from high-quality waterproof materials design
 
 Additionally, the assorted color options in the 5-Pack set allow users to color-code their gear for better organization and quick access. The bag’s size is versatile enough to store clothing, electronics, and other essentials safely. Whether you’re kayaking on a river, camping in rainy weather, or swimming near the shore, the **Frelaxy Dry Sack** safeguards your equipment, enhancing your outdoor experience by minimizing worries about water damage.
 
-## <a href="https://www.amazon.com/dp/B07M9NGMZ5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wonenice Waterproof Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B07M9NGMZ5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Wonenice Waterproof Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B07M9NGMZ5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WoneNice 50L(45+5) Waterproof Hiking Backpack - Outdoor Sport Daypack with Rain Cover" src="https://m.media-amazon.com/images/I/41YBwqaYF2L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07M9NGMZ5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="WoneNice 50L(45+5) Waterproof Hiking Backpack - Outdoor Sport Daypack with Rain Cover" src="https://m.media-amazon.com/images/I/41YBwqaYF2L._SL500_.jpg"/></a>
 
 
 The **WoneNice 50L(45+5) Waterproof Hiking Backpack** is ideal for outdoor enthusiasts who need a reliable and spacious daypack for hiking, trekking, or camping. This backpack is perfect for adventurers looking for a durable, lightweight, and weather-resistant bag to carry their gear comfortably during long outdoor excursions. Its waterproof design and included rain cover make it especially suitable for those who frequently hike in unpredictable weather conditions.
@@ -128,10 +128,10 @@ The **WoneNice Hiking Backpack** features a robust waterproof construction that 
 
 Additionally, the backpack includes a convenient **rain cover** that can be deployed quickly during sudden showers, providing an extra layer of protection. The ergonomic dimensions and bright **orange color** not only offer functional benefits but also enhance safety by improving your visibility in the wilderness. Overall, this backpack combines practical features with durability, making it a dependable companion for outdoor sports and adventure activities.
 
-## <a href="https://www.amazon.com/dp/B0B2MS2L9S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bseash 60l Hiking Camping Backpack</a>
+## <a href="https://www.amazon.com/dp/B0B2MS2L9S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bseash 60l Hiking Camping Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0B2MS2L9S?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bseash 60L Hiking Camping Backpack with Rain Cover, Waterproof Large Capacity Outdoor Sport Travel Daypack Climbing Touring (Army Green)" src="https://m.media-amazon.com/images/I/41rGJfuqUbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0B2MS2L9S?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bseash 60L Hiking Camping Backpack with Rain Cover, Waterproof Large Capacity Outdoor Sport Travel Daypack Climbing Touring (Army Green)" src="https://m.media-amazon.com/images/I/41rGJfuqUbL._SL500_.jpg"/></a>
 
 
 Ideal for avid hikers, campers, and outdoor enthusiasts, the **Bseash 60L Hiking Camping Backpack** offers a perfect blend of capacity and durability. Those seeking a reliable daypack for climbing, touring, or extended travel will find this backpack meets their needs with its robust design and practical features.
@@ -155,10 +155,10 @@ The **Bseash 60L Hiking Camping Backpack** is designed with a robust waterproof 
 
 Additionally, the ergonomic design of the backpack distributes weight evenly, reducing strain during long treks. The thoughtful compartmentalization helps users organize their items efficiently, saving time and frustration when accessing essentials on the go. Overall, this backpack combines functionality and durability, making it a valuable investment for anyone serious about outdoor sports and travel.
 
-## <a href="https://www.amazon.com/dp/B085ZGDPC4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Homiee 50l Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B085ZGDPC4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Homiee 50l Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B085ZGDPC4?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HOMIEE 50L Hiking Backpack Travel Bag Waterproof Camping Rucksack with Rain Cover Lightweight Backpacking Backpack" src="https://m.media-amazon.com/images/I/41C2M5gDsvL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B085ZGDPC4?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="HOMIEE 50L Hiking Backpack Travel Bag Waterproof Camping Rucksack with Rain Cover Lightweight Backpacking Backpack" src="https://m.media-amazon.com/images/I/41C2M5gDsvL._SL500_.jpg"/></a>
 
 
 The **HOMIEE 50L Hiking Backpack** is perfect for outdoor enthusiasts, campers, and travelers who need a reliable, spacious, and lightweight backpack. If you enjoy trekking, hiking, or backpacking adventures and want a bag that can withstand various weather conditions while keeping your gear organized, this backpack is an ideal choice.
@@ -180,10 +180,10 @@ The **HOMIEE 50L Hiking Backpack** features a spacious design that accommodates 
 
 Designed with durability in mind, this backpack stands up to rough outdoor conditions while maintaining a sleek and practical profile. The dimensions provide enough room to organize your equipment efficiently, and the sturdy build ensures longevity. Whether you are an experienced backpacker or a casual traveler, the **HOMIEE 50L Hiking Backpack** delivers a reliable and convenient storage solution for all your adventures.
 
-## <a href="https://www.amazon.com/dp/B07RGMRPQZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">50l Hiking Backpack</a>
+## <a href="https://www.amazon.com/dp/B07RGMRPQZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">50l Hiking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B07RGMRPQZ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="50L Hiking Backpack, Outdoor Camping Backpack, Travel Backpacking Backpack for Women Men" src="https://m.media-amazon.com/images/I/41JbBkVyufL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07RGMRPQZ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="50L Hiking Backpack, Outdoor Camping Backpack, Travel Backpacking Backpack for Women Men" src="https://m.media-amazon.com/images/I/41JbBkVyufL._SL500_.jpg"/></a>
 
 
 The **50L Hiking Backpack** by **RuRu monkey** is ideal for outdoor enthusiasts, campers, and travelers who need a spacious yet lightweight backpack. Designed for both **women and men**, this backpack suits anyone looking for a reliable and comfortable pack for hiking, camping, or backpacking trips.
@@ -204,10 +204,10 @@ The **50L Hiking Backpack** offers ample space with its large capacity, making i
 
 With its compact dimensions, the backpack fits well without being bulky, allowing for efficient packing and easy movement. The sleek **black color** lends a stylish yet practical look that suits any outdoor scenario. Overall, this backpack combines functionality with durability, making it a dependable choice for serious hikers and travelers alike.
 
-## <a href="https://www.amazon.com/dp/B0C62JBRN2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Osprey Rook 65l Men's Backpacking Backpack</a>
+## <a href="https://www.amazon.com/dp/B0C62JBRN2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Osprey Rook 65l Men's Backpacking Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0C62JBRN2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Osprey Rook 65L Men's Backpacking Backpack, Dark Charcoal/Silver Lining" src="https://m.media-amazon.com/images/I/319bLqu7UWL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0C62JBRN2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Osprey Rook 65L Men's Backpacking Backpack, Dark Charcoal/Silver Lining" src="https://m.media-amazon.com/images/I/319bLqu7UWL._SL500_.jpg"/></a>
 
 
 The **Osprey Rook 65L Men's Backpacking Backpack** in **Dark Charcoal/Silver Lining** is ideal for outdoor enthusiasts and avid backpackers who need a reliable, spacious, and comfortable pack for multi-day trips. This backpack is perfect for those who value durability and organization while exploring the wilderness, whether hiking through rugged terrain or camping in remote locations.
@@ -229,10 +229,10 @@ The **Osprey Rook 65L backpack** features a spacious main compartment designed t
 
 Constructed with durable, high-quality materials, this backpack withstands wear and tear from rugged environments. The ventilated back panel is a significant feature that promotes airflow, keeping you cooler and drier on hot or strenuous hikes. Overall, the **Osprey Rook 65L** offers a blend of capacity, comfort, and durability, making it an excellent choice for serious backpackers seeking dependable gear.
 
-## <a href="https://www.amazon.com/dp/B0CYTFRJGT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The North Face Terra 55 Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CYTFRJGT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The North Face Terra 55 Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CYTFRJGT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THE NORTH FACE Terra 55 Backpack | Unisex Hiking Pack, Cinch-Top Opening with Zipper Access, Padded Hipbelt, Pole &amp; Ice Axe Attachments, TNF Black/Asphalt Grey-NPF, Large/X-Large" src="https://m.media-amazon.com/images/I/31Cnr8rQ6qL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CYTFRJGT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THE NORTH FACE Terra 55 Backpack | Unisex Hiking Pack, Cinch-Top Opening with Zipper Access, Padded Hipbelt, Pole &amp; Ice Axe Attachments, TNF Black/Asphalt Grey-NPF, Large/X-Large" src="https://m.media-amazon.com/images/I/31Cnr8rQ6qL._SL500_.jpg"/></a>
 
 
 The **THE NORTH FACE Terra 55 Backpack** is ideal for avid hikers and outdoor enthusiasts who need a reliable, spacious, and durable pack for extended trips. Designed for both men and women, this backpack suits those who require easy access to their gear, comfort during long treks, and secure attachments for essential equipment like trekking poles and ice axes. If you’re planning multi-day hikes or backcountry adventures, this pack is tailored to meet your needs.
@@ -255,10 +255,10 @@ The **THE NORTH FACE Terra 55 Backpack** features a well-thought-out design that
 
 Comfort is a priority with this backpack thanks to the **padded hipbelt** that helps distribute weight away from the shoulders and onto the hips, reducing fatigue over long distances. Additionally, the inclusion of **pole and ice axe attachments** caters to serious hikers and mountaineers who need quick and secure access to their tools. The overall rugged build combined with a stylish **TNF Black/Asphalt Grey** colorway ensures that this backpack not only performs well but looks great on the trail.
 
-## <a href="https://www.amazon.com/dp/B09DRBG5Z9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Teton 75l Explorer Internal Frame Backpack</a>
+## <a href="https://www.amazon.com/dp/B09DRBG5Z9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Teton 75l Explorer Internal Frame Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B09DRBG5Z9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Teton 75L Explorer Internal Frame Backpack for Hiking, Camping, Backpacking, Rain Cover Included" src="https://m.media-amazon.com/images/I/41HIJ47o5bL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09DRBG5Z9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Teton 75L Explorer Internal Frame Backpack for Hiking, Camping, Backpacking, Rain Cover Included" src="https://m.media-amazon.com/images/I/41HIJ47o5bL._SL500_.jpg"/></a>
 
 
 The **Teton 75L Explorer Internal Frame Backpack** is ideal for avid **hikers**, **campers**, and **backpackers** who need a reliable and spacious pack for extended outdoor adventures. If you are someone who values durability, ample storage, and weather protection, this backpack is designed to meet your needs, especially for multi-day trips where organization and comfort are crucial.

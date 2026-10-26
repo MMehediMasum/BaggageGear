@@ -23,10 +23,10 @@ Using patches helps cover up rips or stains on old bags, giving them new life. T
 
 
 
-## <a href="https://www.amazon.com/dp/B08L4Y3HF9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Harsgs 60pcs Random Assorted Styles Embroidered Patches</a>
+## <a href="https://www.amazon.com/dp/B08L4Y3HF9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Harsgs 60pcs Random Assorted Styles Embroidered Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B08L4Y3HF9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Harsgs 60pcs Random Assorted Styles Embroidered Patches, Bright Vivid Colors, Sew On/Iron On Patch Applique for Clothes, Dress, Hat, Jeans, DIY Accessories" src="https://m.media-amazon.com/images/I/61z57ge6bVL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B08L4Y3HF9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Harsgs 60pcs Random Assorted Styles Embroidered Patches, Bright Vivid Colors, Sew On/Iron On Patch Applique for Clothes, Dress, Hat, Jeans, DIY Accessories" src="https://m.media-amazon.com/images/I/61z57ge6bVL._SL500_.jpg"/></a>
 
 
 The **Harsgs 60pcs Random Assorted Styles Embroidered Patches** are ideal for individuals who enjoy customizing their clothing and accessories with vibrant, eye-catching designs. Whether you are a DIY enthusiast, fashion-forward teenager, or someone looking to add a personal touch to your hats, jeans, dresses, or jackets, these patches provide a versatile and creative solution. They are perfect for those who prefer easy-to-apply and durable decorations that can be sewn or ironed on.
@@ -49,10 +49,10 @@ These **embroidered patches** from Harsgs come in a diverse set of 60 pieces, ea
 
 By using these patches, users can easily refresh old garments or create unique fashion statements without the need to purchase new items. Their durable embroidery ensures long-lasting wear, maintaining the vibrancy of colors through multiple washes. Overall, the **Harsgs 60pcs Embroidered Patches** offer a fun, cost-effective way to personalize your wardrobe with creative flair and practical ease.
 
-## <a href="https://www.amazon.com/dp/B0DK1TM4SQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">72 Pcs Preppy Chenille Patches Self Adhesive Embroidered For Diy Clothing</a>
+## <a href="https://www.amazon.com/dp/B0DK1TM4SQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">72 Pcs Preppy Chenille Patches Self Adhesive Embroidered For Diy Clothing</a>
 
 
-<a href="https://www.amazon.com/dp/B0DK1TM4SQ?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="72 Pcs Preppy Chenille Patches Self Adhesive Embroidered for DIY Clothing,Include 52 A-Z Chenille Letter Patches Stickers,20 Rainbow Flower Lighting Bowknot Stick on Patches for Bags Backpacks Hats" src="https://m.media-amazon.com/images/I/51anF8-yguL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0DK1TM4SQ?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="72 Pcs Preppy Chenille Patches Self Adhesive Embroidered for DIY Clothing,Include 52 A-Z Chenille Letter Patches Stickers,20 Rainbow Flower Lighting Bowknot Stick on Patches for Bags Backpacks Hats" src="https://m.media-amazon.com/images/I/51anF8-yguL._SL500_.jpg"/></a>
 
 
 The **72 Pcs Preppy Chenille Patches Self Adhesive Embroidered** set is ideal for creative individuals who enjoy personalizing their **DIY clothing**, accessories, and fabric items. Whether you're a student looking to customize your backpacks and hats, a fashion enthusiast wanting to add a unique touch to your wardrobe, or a crafter seeking versatile and colorful patches, this set offers a fun and easy way to express your style.
@@ -75,10 +75,10 @@ This **72 Pcs Preppy Chenille Patch set by FOGWOWO** offers a versatile and colo
 
 Furthermore, the **multicolor chenille texture** adds a tactile dimension to your projects, elevating the look and feel of your clothing or bags. While these patches are best suited for light to moderate use, they provide an excellent way to refresh old items or create unique gifts. This product is perfect for students, crafters, and fashion enthusiasts who want an easy, creative, and colorful way to express themselves.
 
-## <a href="https://www.amazon.com/dp/B09Q1GRRD1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nicevinyl Embroidered Iron-on Patches Applique</a>
+## <a href="https://www.amazon.com/dp/B09Q1GRRD1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Nicevinyl Embroidered Iron-on Patches Applique</a>
 
 
-<a href="https://www.amazon.com/dp/B09Q1GRRD1?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NICEVINYL Embroidered Iron-on Patches Applique: 72Pcs Random Assorted Decorative Patches Iron on/Sew on for Clothing Accessories" src="https://m.media-amazon.com/images/I/61LjVugyTdL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B09Q1GRRD1?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="NICEVINYL Embroidered Iron-on Patches Applique: 72Pcs Random Assorted Decorative Patches Iron on/Sew on for Clothing Accessories" src="https://m.media-amazon.com/images/I/61LjVugyTdL._SL500_.jpg"/></a>
 
 
 The **NICEVINYL Embroidered Iron-on Patches Applique: 72Pcs Random Assorted Decorative Patches** are perfect for creative individuals who love to personalize their clothing and accessories. Ideal for DIY enthusiasts, fashion designers, or anyone looking to add a unique touch to jackets, backpacks, hats, or jeans, these patches offer a fun and easy way to refresh your wardrobe. Whether you want to cover up small tears or simply express your style, this set is designed for people who appreciate versatility and customization.
@@ -101,10 +101,10 @@ The **NICEVINYL Embroidered Iron-on Patches Applique** set offers an extensive c
 
 With these patches, users benefit from both practical and aesthetic improvements. They can easily cover up damaged areas or stains on garments, extending the life of their favorite pieces. Additionally, the diverse designs inspire creativity and allow for personalized fashion statements that reflect individual tastes. This makes the set a valuable resource for anyone looking to experiment with style or repair clothing in an artistic way.
 
-## <a href="https://www.amazon.com/dp/B0D771MPG3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Solasocool Embroidered Iron On Patches Applique 70pcs</a>
+## <a href="https://www.amazon.com/dp/B0D771MPG3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Solasocool Embroidered Iron On Patches Applique 70pcs</a>
 
 
-<a href="https://www.amazon.com/dp/B0D771MPG3?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Solasocool Embroidered Iron on Patches Applique 70pcs Assorted Styles Iron on/Sew on Patch for Clothes Hats Backpacks Fabric Cute Embroidery Patches for Clothing Jeans Jackets DIY Accessories" src="https://m.media-amazon.com/images/I/61SCqmv5paL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D771MPG3?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Solasocool Embroidered Iron on Patches Applique 70pcs Assorted Styles Iron on/Sew on Patch for Clothes Hats Backpacks Fabric Cute Embroidery Patches for Clothing Jeans Jackets DIY Accessories" src="https://m.media-amazon.com/images/I/61SCqmv5paL._SL500_.jpg"/></a>
 
 
 The **Solasocool Embroidered Iron on Patches Applique 70pcs** is perfect for creative individuals who enjoy customizing their clothing and accessories. Whether you're a DIY enthusiast, a fashion-forward teenager, or someone looking to refresh old garments, these patches offer an easy and stylish way to personalize items like **clothes, hats, backpacks, jeans, and jackets**. If you want to add a unique flair without professional tailoring, this set is ideal for you.
@@ -126,10 +126,10 @@ The **Solasocool Embroidered Iron on Patches** set stands out with its extensive
 
 Beyond just aesthetics, these patches serve as a practical solution for covering holes or stains on clothing, extending the life of your favorite garments. Their size and variety mean you can mix and match or create themed looks, perfect for expressing personality or gifting personalized items. Overall, the **Solasocool Embroidered Iron on Patches** offer a fun, versatile, and cost-effective way to refresh your wardrobe and accessories.
 
-## <a href="https://www.amazon.com/dp/B0D46QBZ7T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pink Embroidered Patches</a>
+## <a href="https://www.amazon.com/dp/B0D46QBZ7T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Pink Embroidered Patches</a>
 
 
-<a href="https://www.amazon.com/dp/B0D46QBZ7T?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="60pcs Pink Embroidered Patches Random Assorted Styles Pink Theme Iron on Patches for Girls Western Cowgirl DIY Sew Applique Repair Patch Cute Preppy Sew on Patches for Backpacks Pants Clothes Jeans" src="https://m.media-amazon.com/images/I/510S7Vsn-kL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D46QBZ7T?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="60pcs Pink Embroidered Patches Random Assorted Styles Pink Theme Iron on Patches for Girls Western Cowgirl DIY Sew Applique Repair Patch Cute Preppy Sew on Patches for Backpacks Pants Clothes Jeans" src="https://m.media-amazon.com/images/I/510S7Vsn-kL._SL500_.jpg"/></a>
 
 
 The **60pcs Pink Embroidered Patches** are ideal for creative individuals, especially girls and young women, who enjoy customizing their clothing and accessories with a fun, **pink-themed** flair. Whether you're a fan of **DIY fashion projects** or looking to repair and refresh your favorite backpacks, pants, or jeans, these patches offer a versatile and charming solution.
@@ -151,10 +151,10 @@ The **multicolor embroidered patches** stand out with their intricate designs an
 
 Measuring just over two inches, each patch is small enough to be applied in multiple locations, allowing for creative patterns or repairs on worn-out clothes. The lightweight nature of these patches means they won’t weigh down your garments, while their embroidered texture adds a high-quality, tactile element to your DIY fashion projects. Overall, these patches offer an affordable and stylish way to refresh your look or showcase your personality.
 
-## <a href="https://www.amazon.com/dp/B0D4DY9FKK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Xmjy Funny Goose Hook And Loop Patch</a>
+## <a href="https://www.amazon.com/dp/B0D4DY9FKK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Xmjy Funny Goose Hook And Loop Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0D4DY9FKK?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="XMJY Funny Goose Hook and Loop Patch, Colorful Embroidered Patch, Cute Animal Meme Morale Patch, DIY Applique Accessories for Backpacks, Dog Harnesses, Army Vests, Gym Bags, Hats, Helmets" src="https://m.media-amazon.com/images/I/51JtLRgVSKL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D4DY9FKK?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="XMJY Funny Goose Hook and Loop Patch, Colorful Embroidered Patch, Cute Animal Meme Morale Patch, DIY Applique Accessories for Backpacks, Dog Harnesses, Army Vests, Gym Bags, Hats, Helmets" src="https://m.media-amazon.com/images/I/51JtLRgVSKL._SL500_.jpg"/></a>
 
 
 The **XMJY Funny Goose Hook and Loop Patch** is perfect for individuals who love to personalize their belongings with a touch of humor and color. Ideal customers include backpack enthusiasts, pet owners looking to add flair to dog harnesses, military personnel who want to customize their army vests, gym-goers, and anyone who enjoys adding unique DIY appliques to hats, helmets, or bags. If you appreciate cute animal memes and vibrant, embroidered accessories, this patch is a great fit for you.
@@ -176,10 +176,10 @@ The **XMJY Funny Goose Hook and Loop Patch** features vibrant, colorful embroide
 
 Beyond its charming design, the patch is crafted to be durable and versatile, making it suitable for regular use on gear that faces wear and tear. Its lightweight nature ensures it won’t weigh down your belongings, while the DIY aspect allows users to easily swap patches or create custom looks. Overall, it’s a practical and entertaining way to express creativity and add a pop of color to everyday items.
 
-## <a href="https://www.amazon.com/dp/B07XFMGWNN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Usa Flag Patch Thin Blue Line Tactical American Flag Us United States Military Patches Set</a>
+## <a href="https://www.amazon.com/dp/B07XFMGWNN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Usa Flag Patch Thin Blue Line Tactical American Flag Us United States Military Patches Set</a>
 
 
-<a href="https://www.amazon.com/dp/B07XFMGWNN?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bundle 12 Pieces USA Flag Patch Thin Blue Line Tactical American Flag US United States Military Patches Set for Caps,Bags,Backpacks,Tactical Vest,Military Uniforms (D-USA Patch" src="https://m.media-amazon.com/images/I/51C--TjNSWL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07XFMGWNN?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Bundle 12 Pieces USA Flag Patch Thin Blue Line Tactical American Flag US United States Military Patches Set for Caps,Bags,Backpacks,Tactical Vest,Military Uniforms (D-USA Patch" src="https://m.media-amazon.com/images/I/51C--TjNSWL._SL500_.jpg"/></a>
 
 
 The **Bundle 12 Pieces USA Flag Patch Thin Blue Line Tactical American Flag** is ideal for individuals who want to show support for law enforcement and patriotism. This set is perfect for military personnel, tactical enthusiasts, first responders, or anyone looking to customize their caps, bags, backpacks, tactical vests, or military uniforms with a meaningful symbol.
@@ -202,10 +202,10 @@ These patches feature a distinctive **Thin Blue Line American flag design** that
 
 Users benefit from the versatility of this patch bundle, as the set includes 12 pieces which provide ample quantity for multiple items or replacements. Whether applied to a tactical vest, backpack, or cap, the patches offer an easy way to personalize gear while conveying a powerful message. Their professional appearance enhances uniform aesthetics and fosters a sense of unity among team members or supporters.
 
-## <a href="https://www.amazon.com/dp/B0D7GHSN9R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Laughing Lizards Rickroll Qr Code Patch</a>
+## <a href="https://www.amazon.com/dp/B0D7GHSN9R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Laughing Lizards Rickroll Qr Code Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0D7GHSN9R?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Laughing Lizards Rickroll QR Code Patch | | QR Code Plays Rick Astley's Never Gonna Give You Up, Includes (2) Funny Morale Hook &amp; Loop Military Patches, Tactical Patches for Hats, Bags &amp; Equipment" src="https://m.media-amazon.com/images/I/51ltbO1Q2uL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D7GHSN9R?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Laughing Lizards Rickroll QR Code Patch | | QR Code Plays Rick Astley's Never Gonna Give You Up, Includes (2) Funny Morale Hook &amp; Loop Military Patches, Tactical Patches for Hats, Bags &amp; Equipment" src="https://m.media-amazon.com/images/I/51ltbO1Q2uL._SL500_.jpg"/></a>
 
 
 The **Laughing Lizards Rickroll QR Code Patch** is perfect for individuals who enjoy playful, novelty items with a tech twist, especially fans of classic internet memes and Rick Astley’s iconic song. Ideal customers include military enthusiasts, tactical gear collectors, or anyone looking to add a humorous and interactive element to their hats, bags, or equipment. This patch is also great for those who appreciate unique morale boosters in everyday gear.
@@ -228,10 +228,10 @@ The **Laughing Lizards Rickroll QR Code Patch** combines functionality with ente
 
 Beyond its novelty, the patch is designed with practicality in mind. The hook & loop backing system allows for quick attachment and removal, making it easy to switch between different items like backpacks, hats, or jackets. Its size and durable construction ensure it withstands regular use, maintaining both its appearance and functionality over time. This makes it an excellent morale patch for military personnel or outdoor enthusiasts who appreciate a bit of lightheartedness in their gear.
 
-## <a href="https://www.amazon.com/dp/B0CKWJPP7G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">3.5" Mountain Patch</a>
+## <a href="https://www.amazon.com/dp/B0CKWJPP7G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">3.5" Mountain Patch</a>
 
 
-<a href="https://www.amazon.com/dp/B0CKWJPP7G?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="3.5" src="https://m.media-amazon.com/images/I/611rVHgMxBL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CKWJPP7G?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="3.5" src="https://m.media-amazon.com/images/I/611rVHgMxBL._SL500_.jpg"/></a>
 
 
 The **3.5" Mountain Patch** is perfect for outdoor enthusiasts, hikers, scouts, and nature lovers who want to personalize their gear with a touch of adventure. Ideal for those who appreciate embroidered accessories, this patch is great for anyone looking to enhance their clothing, backpacks, jackets, or hats with a durable and stylish nature-inspired design.
@@ -254,10 +254,10 @@ The **3.5" Mountain Patch** by **Generic** and manufactured by **victorRRR** off
 
 The patch’s dual application method—iron-on or sew-on—provides flexibility depending on user preference and fabric type. This makes it accessible to a wide range of customers, from those who want a quick fix with an iron to those who prefer a more secure sew-on option. Its durability ensures it withstands outdoor adventures, maintaining its vibrant colors and embroidered details, which benefits users who frequently engage in hiking or camping activities.
 
-## <a href="https://www.amazon.com/dp/B0CN9SP9R5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The North Face Borealis Commuter Laptop Backpack</a>
+## <a href="https://www.amazon.com/dp/B0CN9SP9R5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">The North Face Borealis Commuter Laptop Backpack</a>
 
 
-<a href="https://www.amazon.com/dp/B0CN9SP9R5?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THE NORTH FACE Borealis Commuter Laptop Backpack | Water Repellent Finish, 16" src="https://m.media-amazon.com/images/I/41AHjyyNZwL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CN9SP9R5?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="THE NORTH FACE Borealis Commuter Laptop Backpack | Water Repellent Finish, 16" src="https://m.media-amazon.com/images/I/41AHjyyNZwL._SL500_.jpg"/></a>
 
 
 The **THE NORTH FACE Borealis Commuter Laptop Backpack** is ideal for professionals, students, and daily commuters who need a reliable and stylish backpack to carry their essentials. If you require a durable, water-repellent backpack with ample storage space, including a dedicated laptop sleeve, this backpack is designed to meet your everyday carry needs efficiently.

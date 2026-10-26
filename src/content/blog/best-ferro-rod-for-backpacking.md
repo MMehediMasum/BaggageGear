@@ -20,10 +20,10 @@ Options like the bayite 4 Inch Survival Ferrocerium Rod and Überleben Hexå Ori
 
 
 
-## <a href="https://www.amazon.com/dp/B00PSGOM32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B00PSGOM32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B00PSGOM32?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/519LvqL1wFL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00PSGOM32?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/519LvqL1wFL._SL500_.jpg"/></a>
 
 
 The **bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter** is ideal for outdoor enthusiasts, campers, hikers, and survivalists who need a reliable and durable fire-starting tool. If you often find yourself in remote locations or emergency situations where traditional fire-starting methods may fail, this ferro rod kit is designed to provide a dependable spark to ignite a fire quickly and efficiently.
@@ -45,10 +45,10 @@ The **bayite 4 Inch Survival Ferrocerium Drilled Flint Fire Starter** features a
 
 The fire starter’s ease of use and reliability make it an essential item for anyone who ventures into the wilderness. Whether you need to start a campfire for warmth or cooking, this ferrocerium rod kit ensures you can create sparks even in wet or windy conditions. Its durable construction and practical design combine to provide a survival tool that is both efficient and long-lasting, helping users feel prepared and confident in unpredictable environments.
 
-## <a href="https://www.amazon.com/dp/B07L8V841N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Texas Bushcraft Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B07L8V841N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Texas Bushcraft Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B07L8V841N?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Texas Bushcraft Fire Starter - 3/8" src="https://m.media-amazon.com/images/I/519gtso1BPL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07L8V841N?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Texas Bushcraft Fire Starter - 3/8" src="https://m.media-amazon.com/images/I/519gtso1BPL._SL500_.jpg"/></a>
 
 
 The **Texas Bushcraft Fire Starter** is perfect for outdoor enthusiasts who need a reliable and durable fire-starting tool. Ideal for campers, hikers, and backpackers, this fire steel is designed to withstand harsh conditions and ensure you can ignite a fire quickly, even in wet or windy environments. If you value preparedness and want a compact, waterproof, and efficient fire starter in your survival kit, this is an excellent choice.
@@ -70,10 +70,10 @@ The **Texas Bushcraft Fire Starter** features a robust **3/8" ferro rod** that p
 
 Additionally, the fire starter is completely **waterproof**, which means it performs well even after exposure to rain or submersion. This feature is crucial for survival scenarios where dry tinder may be scarce, and starting a fire quickly is essential. The bright burnt orange color not only adds aesthetic appeal but also helps users locate the tool easily in natural surroundings. Overall, this fire starter combines practical design with rugged construction, making it a valuable addition to any outdoor survival kit.
 
-## <a href="https://www.amazon.com/dp/B0D5LDD8G8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clwryviduu Survival Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B0D5LDD8G8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Clwryviduu Survival Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B0D5LDD8G8?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clwryviduu Survival Fire Starter, 4 Inch Ferro Rod, Flint Fire Starters for Hiking and Camping, Flint and Steel Survival Tool with Paracord and Emerge" src="https://m.media-amazon.com/images/I/41SXyj8SeQL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D5LDD8G8?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Clwryviduu Survival Fire Starter, 4 Inch Ferro Rod, Flint Fire Starters for Hiking and Camping, Flint and Steel Survival Tool with Paracord and Emerge" src="https://m.media-amazon.com/images/I/41SXyj8SeQL._SL500_.jpg"/></a>
 
 
 The **Clwryviduu Survival Fire Starter** is ideal for outdoor enthusiasts who prioritize reliability and compactness in their gear. Whether you are an avid hiker, camper, or survivalist, this tool is designed to help you quickly and efficiently start a fire in any weather condition, making it a must-have for anyone who spends time in the wilderness.
@@ -95,10 +95,10 @@ The **Clwryviduu Survival Fire Starter** features a robust 4-inch ferro rod that
 
 Designed with simplicity and durability in mind, this flint and steel survival tool excels in delivering dependable performance without the need for batteries or fuel. The black finish not only adds to its sleek appearance but also enhances grip and handling during use. Overall, this fire starter offers peace of mind for anyone who ventures outdoors, providing an essential tool that supports safety, warmth, and cooking needs during wilderness adventures.
 
-## <a href="https://www.amazon.com/dp/B07P19TCTT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Überleben Hexå Original Ferro Rod Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B07P19TCTT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Überleben Hexå Original Ferro Rod Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B07P19TCTT?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Überleben Hexå Original Ferro Rod Fire Starter for Survival – Up to 20,000 Strikes, 6" src="https://m.media-amazon.com/images/I/41f3AtDdwGL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B07P19TCTT?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Überleben Hexå Original Ferro Rod Fire Starter for Survival – Up to 20,000 Strikes, 6" src="https://m.media-amazon.com/images/I/41f3AtDdwGL._SL500_.jpg"/></a>
 
 
 The **Überleben Hexå Original Ferro Rod Fire Starter** is ideal for outdoor enthusiasts, survivalists, campers, and anyone who needs a reliable and durable fire-starting tool in challenging environments. If you value preparedness and want a waterproof, long-lasting fire starter that can perform under extreme conditions, this product is perfect for you.
@@ -120,10 +120,10 @@ The **Überleben Hexå Ferro Rod** is crafted from high-quality fire steel desig
 
 With the ability to withstand up to **20,000 strikes**, this fire starter offers exceptional durability that can last through many camping or survival trips. Its **waterproof** nature means it performs reliably even after being exposed to rain or moisture, giving users peace of mind in unpredictable environments. Lightweight yet robust, it is an essential tool for anyone serious about outdoor survival and efficient fire-starting.
 
-## <a href="https://www.amazon.com/dp/B06XYXDHM9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Swiss Safe 5-in-1 Magnesium Ferro Rod Fire Starter Survival Tool</a>
+## <a href="https://www.amazon.com/dp/B06XYXDHM9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Swiss Safe 5-in-1 Magnesium Ferro Rod Fire Starter Survival Tool</a>
 
 
-<a href="https://www.amazon.com/dp/B06XYXDHM9?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Swiss Safe 5-in-1 Magnesium Ferro Rod Fire Starter Survival Tool - Flint &amp; Steel Striker, Compass, Paracord &amp; Whistle - Emergency Kit for Backpacking, Camping, Hiking - All-Weather - Black, 2-Pack" src="https://m.media-amazon.com/images/I/41R6cabxagL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B06XYXDHM9?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Swiss Safe 5-in-1 Magnesium Ferro Rod Fire Starter Survival Tool - Flint &amp; Steel Striker, Compass, Paracord &amp; Whistle - Emergency Kit for Backpacking, Camping, Hiking - All-Weather - Black, 2-Pack" src="https://m.media-amazon.com/images/I/41R6cabxagL._SL500_.jpg"/></a>
 
 
 The **Swiss Safe 5-in-1 Magnesium Ferro Rod Fire Starter Survival Tool** is ideal for outdoor enthusiasts such as **backpackers, campers, and hikers** who require a reliable, multi-functional emergency kit. If you are someone who values preparedness and needs a compact, all-weather tool that combines essential survival features, this product is designed specifically for you.
@@ -144,10 +144,10 @@ The **Swiss Safe 5-in-1 Survival Tool** stands out due to its integration of mul
 
 Additionally, the included whistle provides a simple but effective signaling method to attract attention if you find yourself lost or in distress. Its durable build and all-weather capability make it a dependable companion for any outdoor adventure. Overall, this tool enhances your preparedness by combining practicality and convenience, making it an excellent choice for anyone looking to boost their survival kit.
 
-## <a href="https://www.amazon.com/dp/B00S6F4MO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite Ferro Rods</a>
+## <a href="https://www.amazon.com/dp/B00S6F4MO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Bayite Ferro Rods</a>
 
 
-<a href="https://www.amazon.com/dp/B00S6F4MO6?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="bayite Ferro Rods 1/2" src="https://m.media-amazon.com/images/I/41+Z4VYvjRL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00S6F4MO6?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="bayite Ferro Rods 1/2" src="https://m.media-amazon.com/images/I/41+Z4VYvjRL._SL500_.jpg"/></a>
 
 
 The **bayite Ferro Rods 1/2" X 5'' XL Survival Fire Starter** is ideal for outdoor enthusiasts, survivalists, campers, and hikers who need a reliable and efficient way to start a fire in any weather condition. If you value durability, portability, and ease of use in your survival gear, this product is designed to meet those needs.
@@ -169,10 +169,10 @@ The **bayite Ferro Rods** feature a high-quality **ferrocerium material** that p
 
 Thanks to its lightweight design and compact dimensions, this fire starter is easy to pack and carry without adding bulk to your gear. Its robustness and reliability make it an excellent choice for survival situations, enabling users to start fires efficiently for warmth, cooking, or signaling. Overall, the **bayite Ferro Rods** combine practicality and performance to deliver a dependable fire-starting solution for any adventure.
 
-## <a href="https://www.amazon.com/dp/B00US61QQI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire-fast Trekker</a>
+## <a href="https://www.amazon.com/dp/B00US61QQI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire-fast Trekker</a>
 
 
-<a href="https://www.amazon.com/dp/B00US61QQI?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire-Fast Trekker. Best Emergency Waterproof Survival Fire Starter. Magnesium and Euro Fire Steel Ferro Rod. Compact Durable Tool for Bushcraft, Camping, Backpacking, Hiking, Hunting, or Bug Out Bag." src="https://m.media-amazon.com/images/I/31gForvS5FL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B00US61QQI?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire-Fast Trekker. Best Emergency Waterproof Survival Fire Starter. Magnesium and Euro Fire Steel Ferro Rod. Compact Durable Tool for Bushcraft, Camping, Backpacking, Hiking, Hunting, or Bug Out Bag." src="https://m.media-amazon.com/images/I/31gForvS5FL._SL500_.jpg"/></a>
 
 
 The **Fire-Fast Trekker** is ideal for outdoor enthusiasts who require a reliable and durable fire-starting tool. Whether you are into **bushcraft**, **camping**, **backpacking**, **hiking**, **hunting**, or preparing a **bug out bag**, this compact and waterproof fire starter ensures you can create fire quickly and efficiently in emergency situations.
@@ -195,10 +195,10 @@ The **Fire-Fast Trekker** features a high-quality **magnesium** rod combined wit
 
 Thanks to its **waterproof** and robust build, this fire starter performs reliably in damp or rainy conditions, offering peace of mind for survivalists and campers alike. Whether you need to start a fire for warmth, cooking, or signaling, the Fire-Fast Trekker delivers consistent performance, making it an essential tool for your outdoor survival kit.
 
-## <a href="https://www.amazon.com/dp/B0CLLT9Q2P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vvaagg 4 Inch Large Ferro Rod Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B0CLLT9Q2P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Vvaagg 4 Inch Large Ferro Rod Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B0CLLT9Q2P?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VVAAGG 4 Inch Large Ferro Rod Fire Starter, Survival Flint Fire Starter Kit with Orange Paracord Landyard Handle and Striker (Orange)" src="https://m.media-amazon.com/images/I/41pW8DoEWbL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0CLLT9Q2P?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="VVAAGG 4 Inch Large Ferro Rod Fire Starter, Survival Flint Fire Starter Kit with Orange Paracord Landyard Handle and Striker (Orange)" src="https://m.media-amazon.com/images/I/41pW8DoEWbL._SL500_.jpg"/></a>
 
 
 The **VVAAGG 4 Inch Large Ferro Rod Fire Starter** is ideal for outdoor enthusiasts, survivalists, campers, and hikers who need a reliable and durable fire-starting tool. If you often find yourself in wilderness settings or emergency situations where traditional fire-starting methods might fail, this fire starter kit is designed to meet your needs with its robust build and easy-to-use features.
@@ -220,10 +220,10 @@ The **VVAAGG 4 Inch Large Ferro Rod Fire Starter** stands out with its substanti
 
 Designed by the reputable **VVAAGG brand**, this fire starter kit includes a reliable **striker** that complements the ferro rod's performance, making fire-starting less frustrating and more efficient. Its vibrant orange color ensures it can be easily located in your gear, while the rugged construction promises long-lasting use in various weather conditions. Overall, this kit is a practical and essential addition to any survival or camping equipment collection.
 
-## <a href="https://www.amazon.com/dp/B01HLVV7K2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ericx Light Ferrocerium Rod Flint Fire Starter</a>
+## <a href="https://www.amazon.com/dp/B01HLVV7K2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Ericx Light Ferrocerium Rod Flint Fire Starter</a>
 
 
-<a href="https://www.amazon.com/dp/B01HLVV7K2?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EricX Light 2 PCS 1/2 Inch X 6 Inch Ferrocerium Rod Flint Fire Starter, Super Thick Rod Provide You A Decent Shower of Sparks, Drilled A Lanyard Hold Great for DIY Your Own Survival Kit" src="https://m.media-amazon.com/images/I/41kaZ6i9-mL._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B01HLVV7K2?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="EricX Light 2 PCS 1/2 Inch X 6 Inch Ferrocerium Rod Flint Fire Starter, Super Thick Rod Provide You A Decent Shower of Sparks, Drilled A Lanyard Hold Great for DIY Your Own Survival Kit" src="https://m.media-amazon.com/images/I/41kaZ6i9-mL._SL500_.jpg"/></a>
 
 
 The **EricX Light 2 PCS 1/2 Inch X 6 Inch Ferrocerium Rod Flint Fire Starter** is ideal for outdoor enthusiasts, survivalists, campers, and anyone who wants a reliable and efficient way to start a fire in challenging conditions. If you are preparing a **DIY survival kit** or need a dependable tool for emergency situations, this fire starter is designed to meet your needs with its durable build and user-friendly features.
@@ -245,10 +245,10 @@ The **EricX Light ferrocerium rod** stands out because of its robust thickness a
 
 Another notable benefit is its versatility. The drilled lanyard hole allows users to attach the rod securely to backpacks or keychains, preventing loss and ensuring quick accessibility. The set of two rods offers added security, so if one wears down or gets misplaced, you have a backup ready. Overall, this fire starter is a practical and essential addition to any survival kit, delivering reliability and convenience in one compact package.
 
-## <a href="https://www.amazon.com/dp/B0D5MV7Y7J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire Starter Survival Tool</a>
+## <a href="https://www.amazon.com/dp/B0D5MV7Y7J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank">Fire Starter Survival Tool</a>
 
 
-<a href="https://www.amazon.com/dp/B0D5MV7Y7J?tag=gearcookware-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire Starter Survival Tool, 5/16" src="https://m.media-amazon.com/images/I/41Sf39wgU9L._SL500_.jpg"/></a>
+<a href="https://www.amazon.com/dp/B0D5MV7Y7J?tag=mofb05-20&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow" target="_blank"><img alt="Fire Starter Survival Tool, 5/16" src="https://m.media-amazon.com/images/I/41Sf39wgU9L._SL500_.jpg"/></a>
 
 
 The **Fire Starter Survival Tool** is ideal for outdoor enthusiasts such as hikers, backpackers, and campers who need a reliable and efficient method to start a fire in various weather conditions. This tool is perfect for those who prioritize safety and preparedness during their adventures and seek a compact, durable fire-starting solution.
